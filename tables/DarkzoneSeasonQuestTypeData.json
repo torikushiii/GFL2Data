@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": "Basic"
+		},
+		{
+			"id": 2,
+			"type": "Forward"
+		},
+		{
+			"id": 3,
+			"type": "Interact"
+		},
+		{
+			"id": 4,
+			"type": "Bounty"
+		},
+		{
+			"id": 5,
+			"type": "Craft"
+		},
+		{
+			"id": 6,
+			"type": "Annihilation"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"pptProgress": 99,
+			"progressReward": {
+				"12": 1
+			}
+		},
+		{
+			"id": 2,
+			"progressReward": {
+				"12": 2
+			},
+			"pptProgress": 0
+		},
+		{
+			"id": 3,
+			"progressReward": {
+				"12": 3
+			},
+			"pptProgress": 0
+		},
+		{
+			"id": 4,
+			"progressReward": {
+				"23053": 1
+			},
+			"pptProgress": 0
+		}
+	]
+}

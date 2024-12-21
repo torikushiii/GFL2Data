@@ -1,0 +1,48 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"sectionName": "Basic Combat",
+			"sectionChapters": [
+				101,
+				102
+			],
+			"sectionUnlock": 11101,
+			"unlcokTips": "Unlocked upon clearing Story Campaign 1-8"
+		},
+		{
+			"id": 2,
+			"sectionName": "Advanced Skills",
+			"sectionChapters": [
+				201,
+				202,
+				203
+			],
+			"unlcokTips": "",
+			"sectionUnlock": 0
+		},
+		{
+			"id": 3,
+			"sectionName": "Advanced Tactics",
+			"sectionChapters": [
+				301,
+				302,
+				303
+			],
+			"unlcokTips": "",
+			"sectionUnlock": 0
+		},
+		{
+			"id": 4,
+			"sectionName": "Enemy Breakthrough",
+			"sectionChapters": [
+				401,
+				402,
+				403,
+				404
+			],
+			"unlcokTips": "",
+			"sectionUnlock": 0
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"sort": 1,
+			"code": "FZ-001",
+			"name": "Peace and Happiness",
+			"clueId": [
+				100101,
+				100102,
+				100103
+			],
+			"icon": "Img_ArchivesCenter_CD1"
+		},
+		{
+			"id": 1002,
+			"sort": 2,
+			"code": "PZ-001",
+			"name": "04S-2 Operation Record",
+			"clueId": [
+				100201,
+				100202,
+				100203,
+				100204,
+				100205,
+				100206
+			],
+			"icon": "Img_ArchivesCenter_CD2"
+		},
+		{
+			"id": 1008,
+			"sort": 3,
+			"code": "CZ-001",
+			"name": "Lutsk-08B Work Journal",
+			"clueId": [
+				100801,
+				100802,
+				100803,
+				100804,
+				100805,
+				100806
+			],
+			"icon": "Img_ArchivesCenter_CD4"
+		},
+		{
+			"id": 1013,
+			"sort": 4,
+			"code": "PZ-002",
+			"name": "Development Agreement Archived Files",
+			"clueId": [
+				101301
+			],
+			"icon": "Img_ArchivesCenter_CD1"
+		},
+		{
+			"id": 1020,
+			"sort": 5,
+			"code": "FZ-011",
+			"name": "The Watcher",
+			"clueId": [
+				102001,
+				102002,
+				102003,
+				102004,
+				102005,
+				102006
+			],
+			"icon": "Img_ArchivesCenter_CD3"
+		}
+	]
+}

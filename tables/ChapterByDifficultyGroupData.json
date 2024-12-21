@@ -1,0 +1,134 @@
+{
+	"data": [
+		{
+			"difficultyGroup": 101,
+			"id": [
+				1,
+				91001
+			]
+		},
+		{
+			"difficultyGroup": 102,
+			"id": [
+				2,
+				91002
+			]
+		},
+		{
+			"difficultyGroup": 103,
+			"id": [
+				3,
+				91003
+			]
+		},
+		{
+			"difficultyGroup": 104,
+			"id": [
+				4,
+				91004
+			]
+		},
+		{
+			"difficultyGroup": 105,
+			"id": [
+				5,
+				91005
+			]
+		},
+		{
+			"difficultyGroup": 106,
+			"id": [
+				6,
+				91006
+			]
+		},
+		{
+			"difficultyGroup": 107,
+			"id": [
+				7,
+				91007
+			]
+		},
+		{
+			"difficultyGroup": 108,
+			"id": [
+				8,
+				91008
+			]
+		},
+		{
+			"difficultyGroup": 301,
+			"id": [
+				3001,
+				93001
+			]
+		},
+		{
+			"difficultyGroup": 305,
+			"id": [
+				3005
+			]
+		},
+		{
+			"difficultyGroup": 306,
+			"id": [
+				3006,
+				93006
+			]
+		},
+		{
+			"difficultyGroup": 307,
+			"id": [
+				3007,
+				93007
+			]
+		},
+		{
+			"difficultyGroup": 401,
+			"id": [
+				4001,
+				94001,
+				994001
+			]
+		},
+		{
+			"difficultyGroup": 408,
+			"id": [
+				4008,
+				94008
+			]
+		},
+		{
+			"difficultyGroup": 409,
+			"id": [
+				4009,
+				94009
+			]
+		},
+		{
+			"difficultyGroup": 410,
+			"id": [
+				4010,
+				94010
+			]
+		},
+		{
+			"difficultyGroup": 99408,
+			"id": [
+				994008
+			]
+		},
+		{
+			"difficultyGroup": 99409,
+			"id": [
+				994009
+			]
+		},
+		{
+			"difficultyGroup": 99410,
+			"id": [
+				994010
+			]
+		}
+	]
+}

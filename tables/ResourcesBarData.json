@@ -1,0 +1,1164 @@
+{
+	"data": [
+		{
+			"interfaceId": 1,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 53,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 61,
+			"ruleButton": 1,
+			"ppt": 2801,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 68,
+			"ruleButton": 1,
+			"ppt": 3101,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 79,
+			"resources": "1:3",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 80,
+			"ruleButton": 1,
+			"ppt": 3401,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 87,
+			"resources": "101:2",
+			"ruleButton": 1,
+			"ppt": 3301,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 88,
+			"resources": "101:2",
+			"ruleButton": 1,
+			"ppt": 3301,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 92,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 95,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 106,
+			"resources": "101:2",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 108,
+			"resources": "174003",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 522,
+			"resources": "1:3",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 523,
+			"ruleButton": 1,
+			"ppt": 2401,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 548,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 550,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 554,
+			"system": "8",
+			"systemIcon": "Currency_SystemIcon_Mail",
+			"color": 1,
+			"resources": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 563,
+			"resources": "101:2,1:3",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 568,
+			"resources": "2",
+			"ruleButton": 1,
+			"ppt": 1201,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 583,
+			"resources": "101,1",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 588,
+			"resources": "101:2",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 1801,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 589,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 601,
+			"resources": "101",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 607,
+			"resources": "1:3,102",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 608,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 609,
+			"resources": "2",
+			"ruleButton": 1,
+			"ppt": 1201,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 617,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 619,
+			"resources": "101:2,304",
+			"ruleButton": 1,
+			"ppt": 1601,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 624,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 627,
+			"resources": "2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 636,
+			"resources": "2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 664,
+			"resources": "1:3",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 668,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 675,
+			"resources": "1:3,2:5002,101:2",
+			"ruleButton": 1,
+			"ppt": 2102,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 694,
+			"ruleButton": 1,
+			"ppt": 9001,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 818,
+			"resources": "18",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 821,
+			"resources": "18",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 822,
+			"resources": "2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 824,
+			"resources": "18",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 829,
+			"resources": "18",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 831,
+			"resources": "18",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 833,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 852,
+			"resources": "11:5102,1",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 863,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 865,
+			"color": 1,
+			"ruleButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 879,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 882,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 891,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 921,
+			"resources": "2,101:2",
+			"ruleButton": 1,
+			"ppt": 2201,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 922,
+			"resources": "25,101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 923,
+			"resources": "8301,101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 924,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 927,
+			"resources": "11",
+			"color": 1,
+			"homeButton": 1,
+			"ruleButton": 1,
+			"ppt": 2501,
+			"system": "",
+			"systemIcon": ""
+		},
+		{
+			"interfaceId": 930,
+			"resources": "101:2",
+			"ruleButton": 1,
+			"ppt": 2701,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 950,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 951,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1001,
+			"resources": "102",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 1701,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1005,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1010,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1011,
+			"color": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1151,
+			"ruleButton": 1,
+			"ppt": 1501,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1303,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1304,
+			"ruleButton": 1,
+			"ppt": 1101,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1551,
+			"ruleButton": 1,
+			"ppt": 1201,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1602,
+			"resources": "1:3",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1605,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1700,
+			"ruleButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1712,
+			"ruleButton": 1,
+			"ppt": 9004,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1725,
+			"ruleButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1730,
+			"ruleButton": 1,
+			"ppt": 3016,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1801,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1802,
+			"ruleButton": 1,
+			"ppt": 1203,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1803,
+			"ruleButton": 1,
+			"ppt": 1210,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1805,
+			"resources": "131003,2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1807,
+			"resources": "131002,2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1951,
+			"resources": "304",
+			"ruleButton": 1,
+			"ppt": 1601,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 1955,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1956,
+			"resources": "101:2",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 1959,
+			"resources": "304",
+			"ppt": 1602,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0
+		},
+		{
+			"interfaceId": 2000,
+			"ruleButton": 1,
+			"ppt": 1209,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2101,
+			"ruleButton": 1,
+			"ppt": 2301,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2104,
+			"resources": "179003",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2105,
+			"resources": "179003,101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2106,
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3025,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2110,
+			"resources": "170103",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 2302,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2140,
+			"color": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2310,
+			"ruleButton": 1,
+			"ppt": 2601,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2312,
+			"resources": "11:5102",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2600,
+			"resources": "101:2",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3015,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2700,
+			"ppt": 3011,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0
+		},
+		{
+			"interfaceId": 2850,
+			"resources": "1:3",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2900,
+			"resources": "1:3,106:12002",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3201,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 2902,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2903,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 2904,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 3053,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 10012,
+			"resources": "173003,101:2",
+			"ruleButton": 1,
+			"ppt": 3501,
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10013,
+			"homeButton": 1,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 10053,
+			"resources": "177003",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 10064,
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 1401,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10078,
+			"resources": "191004",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3018,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10083,
+			"ruleButton": 1,
+			"ppt": 2601,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10092,
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3020,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10102,
+			"ruleButton": 1,
+			"ppt": 3018,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 10111,
+			"resources": "101:2",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3018,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11087,
+			"resources": "800002:12003",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3021,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11097,
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3019,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11105,
+			"resources": "191002",
+			"color": 1,
+			"ruleButton": 1,
+			"ppt": 3018,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11112,
+			"ruleButton": 1,
+			"ppt": 3022,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11114,
+			"ruleButton": 1,
+			"ppt": 3022,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11120,
+			"ruleButton": 1,
+			"ppt": 3023,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11125,
+			"ruleButton": 1,
+			"ppt": 3023,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11128,
+			"ruleButton": 1,
+			"ppt": 3023,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
+			"interfaceId": 11129,
+			"resources": "176014",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 11210,
+			"resources": "176003",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 11217,
+			"ruleButton": 1,
+			"ppt": 3025,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		}
+	]
+}

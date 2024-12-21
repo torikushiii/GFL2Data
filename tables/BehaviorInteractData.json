@@ -1,0 +1,73 @@
+{
+	"data": [
+		{
+			"id": 201,
+			"action": 1,
+			"dialog": "指挥官，你来了",
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialogId": []
+		},
+		{
+			"id": 202,
+			"action": 100011,
+			"objectInteract": "f_Cup_Groza_Lngbe_skin",
+			"animationInteract": 200011,
+			"dialog": "指挥官，尝尝甜度怎么样？",
+			"dialogId": [
+				200001,
+				200002
+			]
+		},
+		{
+			"id": 203,
+			"action": 100015,
+			"objectInteract": "s_Lng_simple_Notebook_skin",
+			"animationInteract": 200015,
+			"dialogId": [
+				200003
+			],
+			"dialog": ""
+		},
+		{
+			"id": 205,
+			"action": 100020,
+			"dialogId": [
+				200004
+			],
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialog": ""
+		},
+		{
+			"id": 207,
+			"action": 100025,
+			"objectInteract": "s_Lng_simple_NailFile_skin",
+			"animationInteract": 200030,
+			"dialogId": [
+				200005
+			],
+			"dialog": ""
+		},
+		{
+			"id": 209,
+			"action": 100030,
+			"dialogId": [
+				200006
+			],
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialog": ""
+		},
+		{
+			"id": 211,
+			"action": 100035,
+			"objectInteract": "s_Lng_simple_Chair_skin",
+			"animationInteract": 200020,
+			"dialogId": [
+				200007
+			],
+			"dialog": ""
+		}
+	]
+}

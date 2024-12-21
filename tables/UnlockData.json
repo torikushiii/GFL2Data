@@ -1,0 +1,2410 @@
+{
+	"data": [
+		{
+			"id": 10997,
+			"condition": [
+				10997
+			],
+			"prompt": "Reach Commander Level 26",
+			"unlockName": "Past Events",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 10998,
+			"condition": [
+				10998
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 10 to unlock Supply Missions",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimCombat",
+			"unlockName": "Supply Missions",
+			"sequence": 30,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 10999,
+			"condition": [
+				10999
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Combat Simulation",
+			"unlockName": "Combat Simulations",
+			"sequence": 20,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Battle",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11001,
+			"lockType": 1,
+			"prompt": "",
+			"icon": "Icon_NewFunctionUnlock_Story",
+			"unlockName": "Campaign",
+			"sequence": 1,
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11002,
+			"condition": [
+				11002
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 26 to unlock Hard Mode",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Hard",
+			"homeButtonRedhint": 1,
+			"unlockName": "Neural Survey",
+			"sequence": 31,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11003,
+			"condition": [
+				11003
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 10\nto unlock In-Depth Search",
+			"unlockName": "In-Depth Search",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11004,
+			"condition": [
+				11004
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 10\nto unlock Standardizing Sync",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimGold",
+			"unlockName": "Standardizing Sync",
+			"sequence": 33,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11005,
+			"condition": [
+				11005
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 10\nto unlock Cognitive Configuration",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimEquip",
+			"unlockName": "Cognitive Configuration",
+			"sequence": 33,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11006,
+			"condition": [
+				11006
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 10\nto unlock Equipment Analysis",
+			"unlockName": "Equipment Analysis",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11007,
+			"condition": [
+				11007
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 27 to unlock Power Assessment",
+			"unlockName": "Tactical Evaluation",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11008,
+			"condition": [
+				11008
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 18 to unlock Boss Fight",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimWeekly",
+			"homeButtonRedhint": 1,
+			"unlockName": "Boss Fight",
+			"openDetail": "1645765200",
+			"sequence": 32,
+			"conditionType": 0
+		},
+		{
+			"id": 11009,
+			"condition": [
+				11009
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 28 to unlock Peak Estimation",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Mythic",
+			"homeButtonRedhint": 1,
+			"unlockName": "Peak Value Assessment",
+			"sequence": 32,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 11010,
+			"condition": [
+				11010
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Tutorial",
+			"unlockName": "Hunter Assessment",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11011,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Neural Resources",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11012,
+			"condition": [
+				11012
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 23\nto unlock Attachment Stages",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimWeaponPart",
+			"unlockName": "Targeted Study",
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11013,
+			"conditionType": 1,
+			"condition": [
+				11019
+			],
+			"prompt": "Complete Story Campaign 3-5 to unlock Tutorial",
+			"unlockName": "Hunter Assessment",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11101,
+			"condition": [
+				11101
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-6 to unlock Returner Tutorial",
+			"unlockName": "Combat Simulation - Tutorial",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11102,
+			"condition": [
+				11102
+			],
+			"lockType": 1,
+			"prompt": "Clear Returner Tutorial - Terrain Tutorial to unlock",
+			"unlockName": "Combat Simulation - Tutorial",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11103,
+			"condition": [
+				11103
+			],
+			"lockType": 1,
+			"prompt": "Clear Terrain - 6 to unlock [Use Switch]",
+			"unlockName": "Combat Simulation - Tutorial",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11104,
+			"conditionType": 1,
+			"condition": [
+				11104
+			],
+			"prompt": "",
+			"unlockName": "Combat Simulation - Tutorial",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11105,
+			"conditionType": 1,
+			"condition": [
+				11105
+			],
+			"prompt": "",
+			"unlockName": "Combat Simulation - Tutorial",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11106,
+			"conditionType": 1,
+			"condition": [
+				11106
+			],
+			"prompt": "",
+			"unlockName": "Combat Simulation - Tutorial",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11110,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Neural Resources",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11111,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Neural Resources",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11112,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Neural Resources",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11113,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Neural Resources",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11501,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 1",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11502,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 2",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11503,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 3",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11504,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 4",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11505,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 5",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11506,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Daily Combat Simulation Tag 6",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11800,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11801,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11802,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11803,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11804,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11805,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11806,
+			"conditionType": 1,
+			"condition": [
+				11806
+			],
+			"prompt": "",
+			"unlockName": "Combat Simulation - Boss Fight",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12000,
+			"condition": [
+				12000
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock the Refitting Room",
+			"icon": "Icon_NewFunctionUnlock_Barrack",
+			"unlockName": "Refitting Room",
+			"sequence": 2,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 12001,
+			"condition": [
+				12001
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Performance Enhancement",
+			"unlockName": "Upgrade",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12002,
+			"condition": [
+				12002
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Neural Fortification",
+			"unlockName": "Promote",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12003,
+			"conditionType": 1,
+			"condition": [
+				29102
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-5 to unlock Weapons",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Weapon",
+			"homeButtonRedhint": 1,
+			"unlockName": "Weapons",
+			"sequence": 5,
+			"openDetail": "0"
+		},
+		{
+			"id": 12004,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Skill Upgrade",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12005,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Neural Circuit",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Pattern Remolder",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12007,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Weapon Attachments",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_WeaponPart",
+			"homeButtonRedhint": 1,
+			"unlockName": "Weapon Attachments",
+			"sequence": 6,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 12008,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Attachment Upgrade",
+			"unlockName": "Attachment Upgrade",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12009,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Attachment Calibration",
+			"unlockName": "Attachment Calibration",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12010,
+			"condition": [
+				12010
+			],
+			"prompt": "",
+			"unlockName": "Outfit Boutique",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12101,
+			"condition": [
+				12003
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Coating",
+			"unlockName": "Skin",
+			"sequence": 34,
+			"conditionType": 0,
+			"lockType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 12102,
+			"condition": [
+				12003
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock",
+			"unlockName": "Weapon Skin Shop",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12103,
+			"condition": [
+				12003
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock",
+			"unlockName": "Attachment Skin Shop",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 13000,
+			"condition": [
+				13000
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Purchase",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Gashapon",
+			"homeButtonRedhint": 1,
+			"unlockName": "Recruitment",
+			"sequence": 3,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 14000,
+			"condition": [
+				14000
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Combat Exercise",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_PVP",
+			"homeButtonRedhint": 1,
+			"unlockName": "Combat Exercise",
+			"sequence": 32,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 14001,
+			"condition": [
+				14001
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 13 to unlock Honor Hall",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14002,
+			"condition": [
+				14002
+			],
+			"lockType": 1,
+			"prompt": "Unlock via expending {0}/2000 Exercise Badges",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14003,
+			"condition": [
+				14003
+			],
+			"lockType": 1,
+			"prompt": "Reach Rank Junior I to unlock Training Equipment",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14004,
+			"condition": [
+				14004
+			],
+			"lockType": 1,
+			"prompt": "Tutorial Missions become available on day 99999999 server time",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14005,
+			"condition": [
+				14005
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign Normal 2-10 to unlock Battle Records",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14006,
+			"condition": [
+				14006
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign Normal 2-10 to unlock Battle Records",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14007,
+			"condition": [
+				14007
+			],
+			"lockType": 1,
+			"prompt": "Reach Rank Professional I to unlock Battlefield Hangar",
+			"unlockName": "Combat Exercise",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14500,
+			"condition": [
+				14500
+			],
+			"prompt": "Reach Expert I in Combat Exercise to unlock",
+			"unlockName": "Military Simulation",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14501,
+			"condition": [
+				14500
+			],
+			"prompt": "Reach Expert I in Combat Exercise to unlock",
+			"interfaceId": 554,
+			"icon": "lcon_NewFunctionUnlock_High_PVP",
+			"unlockName": "Military Simulation",
+			"conditionType": 0,
+			"lockType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Unlocked after obtaining Peritya",
+			"unlockName": "Dormitory",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15001,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Unlocked after obtaining Peritya",
+			"unlockName": "Dormitory Shop",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Unlocked after obtaining Peritya",
+			"unlockName": "Dormitory Gifting",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15100,
+			"condition": [
+				15100
+			],
+			"prompt": "",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Lounge",
+			"unlockName": "Dormitory",
+			"sequence": 12,
+			"conditionType": 0,
+			"lockType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 15200,
+			"condition": [
+				15100
+			],
+			"prompt": "",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Recreationdeck",
+			"homeButtonRedhint": 1,
+			"unlockName": "Public Area",
+			"sequence": 12,
+			"conditionType": 0,
+			"lockType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 16000,
+			"condition": [
+				16000
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-1 to unlock the Underground Quarter",
+			"icon": "Icon_NewFunctionUnlock_StoreExchange",
+			"unlockName": "Underground Guild",
+			"sequence": 4,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 16002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Weapon Fragment Exchange Shop",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16003,
+			"condition": [
+				16003
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 15 to unlock Honor Hall",
+			"unlockName": "Trading Post - Honor Hall",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16004,
+			"condition": [
+				16004
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Trading Post - Exchange Spot",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16005,
+			"condition": [
+				16005
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Doll Stack",
+			"unlockName": "Trading Post - Growth Stack",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Trading Post - High-Level Growth Stack",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16007,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Trading Post - Low-Level Growth Stack",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16008,
+			"condition": [
+				16008
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 20 to unlock Segment Trading",
+			"unlockName": "Battlelog Trading",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16101,
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-1 to unlock Trading Post",
+			"unlockName": "Trading Post",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16201,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Shop",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16202,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Shop - Quartermaster Outfit Change",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Storeroom",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17001,
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-8 to unlock Weapons",
+			"unlockName": "Storeroom - Weapons",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17002,
+			"condition": [
+				12006
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Pattern Remolder",
+			"unlockName": "Storeroom - Remolding Patterns",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17003,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Storeroom - Doll Cores",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17004,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 15 to unlock Attachments",
+			"unlockName": "Storeroom - Weapon Attachments",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17005,
+			"condition": [
+				18000
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-3 to unlock Parts",
+			"unlockName": "Storeroom - Parts",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17008,
+			"condition": [
+				29000
+			],
+			"prompt": "Reach Commander Level 22 to unlock Universal Keys",
+			"unlockName": "Storeroom - Universal Keys",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 18000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Hangar",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 19000,
+			"condition": [
+				99103
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Guild",
+			"unlockName": "Platoon",
+			"sequence": 60,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 19001,
+			"condition": [
+				99111
+			],
+			"prompt": "",
+			"unlockName": "Gunsmoke Frontline - Boss Battle",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20000,
+			"condition": [
+				20000
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-6 to unlock Archives",
+			"unlockName": "Elmo Server Room",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20001,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Archives - Journey Recollection",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20002,
+			"condition": [
+				20002
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Archives - Classified Briefing",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20003,
+			"condition": [
+				11002
+			],
+			"prompt": "Not Available Yet",
+			"unlockName": "Hard Mode Storyline",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20004,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Archives - Personnel Archive",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20005,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Lore Encyclopedia",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20006,
+			"conditionType": 1,
+			"condition": [
+				38003
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Weapon Index",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 21000,
+			"lockType": 1,
+			"prompt": "Reach Commander Level 1 to unlock Mail",
+			"unlockName": "Mail",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 22000,
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Notices",
+			"unlockName": "Notice",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23000,
+			"condition": [
+				99100
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Comms",
+			"unlockName": "Friend",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23001,
+			"condition": [
+				99100
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Comms",
+			"unlockName": "Communication",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23002,
+			"condition": [
+				21000
+			],
+			"prompt": "",
+			"unlockName": "Support",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23003,
+			"condition": [
+				21000
+			],
+			"prompt": "",
+			"unlockName": "Show",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24000,
+			"conditionType": 1,
+			"condition": [
+				24000
+			],
+			"lockType": 1,
+			"prompt": "Clear Story Campaign Stage 2-1",
+			"unlockName": "Commissions",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24001,
+			"conditionType": 1,
+			"condition": [
+				24001
+			],
+			"lockType": 1,
+			"prompt": "Clear Story Campaign Stage 1-5",
+			"unlockName": "Appraisal Objectives",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24002,
+			"conditionType": 1,
+			"condition": [
+				24002
+			],
+			"lockType": 1,
+			"prompt": "Clear Story Campaign Stage 2-1",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Quest",
+			"unlockName": "Commissions",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Chat",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25001,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Global Chat",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Global Chat",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Personal Info",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26001,
+			"conditionType": 1,
+			"condition": [
+				26001
+			],
+			"lockType": 1,
+			"prompt": "Clear Story Campaign Stage 2-1",
+			"unlockName": "Achievements",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26002,
+			"conditionType": 1,
+			"condition": [
+				24000
+			],
+			"lockType": 1,
+			"prompt": "Clear Story Campaign Stage 2-1",
+			"unlockName": "Sign-In",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 27000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Stamina Purchase",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28001,
+			"condition": [
+				28001
+			],
+			"lockType": 1,
+			"prompt": "Unlocked via reaching Commander Level 20",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28002,
+			"lockType": 1,
+			"prompt": "Unlocked via reaching Commander Level 20",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28003,
+			"lockType": 1,
+			"prompt": "Unlocked via reaching Commander Level 20",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28004,
+			"condition": [
+				28000
+			],
+			"lockType": 1,
+			"prompt": "Unlocked via reaching Commander Level 20",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28005,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Complete Tutorial mission A01 to unlock Special Bounty",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Complete Tutorial mission A09 to unlock Exploration Mode",
+			"unlockName": "Boundary Push",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28007,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Not Available Yet",
+			"unlockName": "Dark Zone Monthly Report",
+			"openDetail": "1745125200",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"sequence": 0
+		},
+		{
+			"id": 29000,
+			"condition": [
+				29000
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 16 to unlock Neural Helix",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Squad",
+			"homeButtonRedhint": 1,
+			"unlockName": "Neural Helix",
+			"sequence": 15,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 29001,
+			"condition": [
+				29001
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 16 to unlock Key Regulation",
+			"unlockName": "Key Regulation",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29002,
+			"condition": [
+				29002
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-8 to unlock Weapon Enhancement",
+			"unlockName": "Proficiency Boost",
+			"sequence": 9,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 29003,
+			"condition": [
+				29003
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 1-8 to unlock Weapon Adjustment",
+			"unlockName": "Weapon Adjustment",
+			"sequence": 10,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 29004,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 26 to unlock Weapon Calibration",
+			"unlockName": "Weapon Calibration",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29005,
+			"condition": [
+				29005
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock Weapon Management",
+			"unlockName": "Weapon Management",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29101,
+			"conditionType": 1,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-2 to unlock Voyage Logs",
+			"unlockName": "Voyage Logs",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29102,
+			"conditionType": 1,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-2 to unlock Voyage Logs Missions",
+			"unlockName": "Voyage Logs",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29103,
+			"conditionType": 1,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-2 to unlock Voyage Logs Collections",
+			"unlockName": "Voyage Logs",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29104,
+			"conditionType": 1,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-2 to unlock Voyage Logs Shop",
+			"unlockName": "Voyage Logs",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29202,
+			"condition": [
+				29202
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 20 to unlock Recent Events",
+			"unlockName": "Event",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29203,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Dark Zone - Event Mode",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29301,
+			"condition": [
+				29301
+			],
+			"prompt": "Reach Commander Level 26 to unlock Events",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_ThemeActivity",
+			"homeButtonRedhint": 1,
+			"unlockName": "Themed Event",
+			"sequence": 10,
+			"conditionType": 0,
+			"lockType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 29302,
+			"condition": [
+				29302
+			],
+			"prompt": "Reach Commander Level 26 to unlock Events",
+			"unlockName": "Event - Daiyan Event - Tour",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29303,
+			"condition": [
+				29303
+			],
+			"prompt": "Reach Commander Level 26 to unlock Events",
+			"unlockName": "Event - Daiyan Event - Creative",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29304,
+			"condition": [
+				29304,
+				28005
+			],
+			"prompt": "Complete Story Campaign SL-1-2 to unlock",
+			"unlockName": "Event - Centaureissi Event - Dark Zone Cart",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29305,
+			"condition": [
+				29305
+			],
+			"prompt": "Complete Story Campaign SL-1-2 to unlock",
+			"unlockName": "Event - Centaureissi Event - Carrier",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29306,
+			"conditionType": 1,
+			"condition": [
+				29306
+			],
+			"prompt": "Reach Commander Level 26 to unlock Events",
+			"unlockName": "Event Template - Homepage Portal",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 30001,
+			"condition": [
+				30001
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Events",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Event",
+			"homeButtonRedhint": 1,
+			"unlockName": "Event",
+			"sequence": 7,
+			"conditionType": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 30002,
+			"conditionType": 1,
+			"prompt": "Unlocked by default",
+			"unlockName": "Community",
+			"condition": [],
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 31000,
+			"condition": [
+				31000
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock Undo",
+			"unlockName": "Undo",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 31001,
+			"condition": [
+				31001
+			],
+			"prompt": "Complete Story Campaign 2-1 to unlock Battle Speed",
+			"unlockName": "Battle Speed",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 31002,
+			"condition": [
+				31002
+			],
+			"prompt": "Complete Story Campaign 2-1 to unlock Auto Battle",
+			"unlockName": "Auto Battle",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 33001,
+			"condition": [
+				33001
+			],
+			"lockType": 1,
+			"prompt": "Unlocked via reaching Commander Level 23",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Unite",
+			"unlockName": "Expansion Drills",
+			"sequence": 41,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 33002,
+			"condition": [
+				33002
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 45 to unlock",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Decompose",
+			"unlockName": "Adjustment Boost",
+			"sequence": 42,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 33003,
+			"condition": [
+				33003
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 45 to unlock",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Calibration",
+			"unlockName": "Attachment Calibration",
+			"sequence": 43,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 33004,
+			"condition": [
+				12007
+			],
+			"prompt": "Unlocked via reaching Commander Level 23",
+			"unlockName": "Attachment Lock Plan",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 34001,
+			"conditionType": 1,
+			"condition": [
+				34001
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 45 to unlock",
+			"icon": "Icon_NewFunctionUnlock_Control_Fight",
+			"unlockName": "Endless Projections",
+			"sequence": 44,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 35001,
+			"conditionType": 1,
+			"condition": [
+				35001
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Sandbox Mode]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 35002,
+			"conditionType": 1,
+			"condition": [
+				35002
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Multi-Round Defense Mode]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 35003,
+			"conditionType": 1,
+			"condition": [
+				35003
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Conveyor Belt Puzzle]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 35004,
+			"conditionType": 1,
+			"condition": [
+				35004
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Ullrid's Challenge]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 35005,
+			"conditionType": 1,
+			"condition": [
+				35005
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Suomi Story]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 35006,
+			"conditionType": 1,
+			"condition": [
+				35006
+			],
+			"lockType": 1,
+			"prompt": "Unlocks after reaching Commander level 25",
+			"unlockName": "[Suomi Challenge]",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 36001,
+			"conditionType": 1,
+			"prompt": "Unlocked by default",
+			"unlockName": "Tutorial System",
+			"condition": [],
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 37001,
+			"condition": [
+				99999
+			],
+			"prompt": "",
+			"unlockName": "Roguelike System",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 38001,
+			"conditionType": 1,
+			"condition": [
+				38001
+			],
+			"prompt": "Reach Commander Level 16 to unlock",
+			"unlockName": "Dispatch Room(Deprecated ID)",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 38002,
+			"conditionType": 1,
+			"condition": [
+				99999
+			],
+			"prompt": "Unlocked by default",
+			"unlockName": "Weapon Display Room(Deprecated ID)",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 38003,
+			"conditionType": 1,
+			"condition": [
+				38003
+			],
+			"prompt": "Reach Commander Level 16 to unlock",
+			"icon": "Icon_NewFunctionUnlock_Control_Room",
+			"unlockName": "Dispatch Room",
+			"sequence": 46,
+			"lockType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
+			"id": 38004,
+			"conditionType": 1,
+			"condition": [
+				38003
+			],
+			"prompt": "Complete Event Campaign Normal SL-2-2",
+			"unlockName": "Weapon Gallery",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 39001,
+			"conditionType": 1,
+			"condition": [
+				39001
+			],
+			"prompt": "Unlocked by default",
+			"unlockName": "[Klukai's TPS Game Mode]",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 39002,
+			"conditionType": 1,
+			"condition": [
+				39002
+			],
+			"prompt": "Unlocked by default",
+			"unlockName": "[Klukai's Dungeon Exploration Game Mode]",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 41001,
+			"conditionType": 1,
+			"condition": [
+				29102
+			],
+			"prompt": "Complete Story Campaign 1-5 to unlock",
+			"unlockName": "Gift Notification",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"data": [
+		{
+			"id": 2001,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10101": 30
+			},
+			"talentName": "Coffee Recipe Improvement I",
+			"talentDes": "<color=#f26c1c>[Velvet Latte]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_15"
+		},
+		{
+			"id": 2002,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10102": 30
+			},
+			"talentName": "Coffee Recipe Improvement II",
+			"talentDes": "<color=#f26c1c>[Coconut Snow Mountain]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_16"
+		},
+		{
+			"id": 2003,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10103": 30
+			},
+			"talentName": "Coffee Recipe Improvement III",
+			"talentDes": "<color=#f26c1c>[Sparkling Night]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_17"
+		},
+		{
+			"id": 2004,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10104": 30
+			},
+			"talentName": "Coffee Recipe Improvement IV",
+			"talentDes": "<color=#f26c1c>[Creamy Cheese Latte]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_18"
+		},
+		{
+			"id": 2005,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10105": 30
+			},
+			"talentName": "Coffee Recipe Improvement V",
+			"talentDes": "<color=#f26c1c>[Long Summer]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_19"
+		},
+		{
+			"id": 2006,
+			"unitType": 2,
+			"coffeeOffer": {
+				"10106": 30
+			},
+			"talentName": "Coffee Recipe Improvement VI",
+			"talentDes": "<color=#f26c1c>[Beloved Macchiato]</color> quality improved, price increased by <color=#f26c1c>30%</color>",
+			"talentIcon": "Icon_darkzone_cartalent_20"
+		}
+	]
+}

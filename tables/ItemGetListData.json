@@ -1,0 +1,2398 @@
+{
+	"data": [
+		{
+			"id": 10001,
+			"type": 1,
+			"title": "Story Campaign - Chapter 1",
+			"canJump": true,
+			"jumpCode": "101"
+		},
+		{
+			"id": 10002,
+			"type": 1,
+			"title": "Story Campaign - Chapter 2",
+			"canJump": true,
+			"jumpCode": "102"
+		},
+		{
+			"id": 10003,
+			"type": 1,
+			"title": "Story Campaign - Chapter 3",
+			"canJump": true,
+			"jumpCode": "103"
+		},
+		{
+			"id": 10004,
+			"type": 1,
+			"title": "Story Campaign - Chapter 4",
+			"canJump": true,
+			"jumpCode": "104"
+		},
+		{
+			"id": 30001,
+			"type": 3,
+			"title": "Standard Access",
+			"canJump": true,
+			"jumpCode": "6101"
+		},
+		{
+			"id": 30002,
+			"type": 3,
+			"title": "Military Upgrade",
+			"canJump": true,
+			"jumpCode": "6002"
+		},
+		{
+			"id": 50001,
+			"type": 5,
+			"title": "Black Market",
+			"canJump": true,
+			"jumpCode": "5001"
+		},
+		{
+			"id": 60001,
+			"type": 6,
+			"title": "Storeroom",
+			"canJump": true,
+			"jumpCode": "8001"
+		},
+		{
+			"id": 70001,
+			"type": 7,
+			"title": "Intelligence Puzzles Purchase",
+			"canJump": true,
+			"jumpCode": "2"
+		},
+		{
+			"id": 80001,
+			"type": 8,
+			"title": "Mail",
+			"canJump": true,
+			"jumpCode": "9003"
+		},
+		{
+			"id": 90001,
+			"type": 9,
+			"title": "Battle",
+			"canJump": true,
+			"jumpCode": "1000"
+		},
+		{
+			"id": 90002,
+			"type": 9,
+			"title": "Campaign",
+			"canJump": true,
+			"jumpCode": "1000"
+		},
+		{
+			"id": 90003,
+			"type": 9,
+			"title": "Neural Survey",
+			"canJump": true,
+			"jumpCode": "2000"
+		},
+		{
+			"id": 90004,
+			"type": 9,
+			"title": "Story Campaign - Chapter Challenge Rewards",
+			"canJump": true,
+			"jumpCode": "1000"
+		},
+		{
+			"id": 90005,
+			"type": 9,
+			"title": "Neural Survey - Chapter Challenge Rewards",
+			"canJump": true,
+			"jumpCode": "1050"
+		},
+		{
+			"id": 90006,
+			"type": 21,
+			"title": "Supply Mission - In-Depth Search",
+			"canJump": true,
+			"jumpCode": "3200"
+		},
+		{
+			"id": 90007,
+			"type": 22,
+			"title": "Supply Mission - Standardizing Sync",
+			"canJump": true,
+			"jumpCode": "3300"
+		},
+		{
+			"id": 90008,
+			"type": 31,
+			"title": "Supply Mission - Equipment Analysis",
+			"canJump": true,
+			"jumpCode": "3400"
+		},
+		{
+			"id": 90009,
+			"type": 9,
+			"title": "Supply Missions",
+			"canJump": true,
+			"jumpCode": "1098"
+		},
+		{
+			"id": 100001,
+			"type": 10,
+			"title": "Ops Room",
+			"canJump": true,
+			"jumpCode": "1"
+		},
+		{
+			"id": 140101,
+			"type": 14,
+			"title": "Story Campaign 1-1",
+			"canJump": true,
+			"jumpCode": "1101"
+		},
+		{
+			"id": 140102,
+			"type": 14,
+			"title": "Story Campaign 1-2",
+			"canJump": true,
+			"jumpCode": "1102"
+		},
+		{
+			"id": 140103,
+			"type": 14,
+			"title": "Story Campaign 1-3",
+			"canJump": true,
+			"jumpCode": "1103"
+		},
+		{
+			"id": 140104,
+			"type": 14,
+			"title": "Story Campaign 1-4",
+			"canJump": true,
+			"jumpCode": "1104"
+		},
+		{
+			"id": 140105,
+			"type": 14,
+			"title": "Story Campaign 1-5",
+			"canJump": true,
+			"jumpCode": "1105"
+		},
+		{
+			"id": 140106,
+			"type": 14,
+			"title": "Story Campaign 1-6",
+			"canJump": true,
+			"jumpCode": "1106"
+		},
+		{
+			"id": 140107,
+			"type": 14,
+			"title": "Story Campaign 1-7",
+			"canJump": true,
+			"jumpCode": "1107"
+		},
+		{
+			"id": 140108,
+			"type": 14,
+			"title": "Story Campaign 1-8",
+			"canJump": true,
+			"jumpCode": "1108"
+		},
+		{
+			"id": 140109,
+			"type": 14,
+			"title": "Story Campaign 1-9",
+			"canJump": true,
+			"jumpCode": "1109"
+		},
+		{
+			"id": 140110,
+			"type": 14,
+			"title": "Story Campaign 1-10",
+			"canJump": true,
+			"jumpCode": "1110"
+		},
+		{
+			"id": 140141,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-1",
+			"canJump": true,
+			"jumpCode": "1141"
+		},
+		{
+			"id": 140142,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-2",
+			"canJump": true,
+			"jumpCode": "1142"
+		},
+		{
+			"id": 140143,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-3",
+			"canJump": true,
+			"jumpCode": "1143"
+		},
+		{
+			"id": 140144,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-4",
+			"canJump": true,
+			"jumpCode": "1144"
+		},
+		{
+			"id": 140145,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-5",
+			"canJump": true,
+			"jumpCode": "1145"
+		},
+		{
+			"id": 140146,
+			"type": 14,
+			"title": "Story Campaign Stage BH-1-6",
+			"canJump": true,
+			"jumpCode": "1146"
+		},
+		{
+			"id": 140201,
+			"type": 14,
+			"title": "Story Campaign 2-1",
+			"canJump": true,
+			"jumpCode": "1201"
+		},
+		{
+			"id": 140202,
+			"type": 14,
+			"title": "Story Campaign 2-2",
+			"canJump": true,
+			"jumpCode": "1202"
+		},
+		{
+			"id": 140203,
+			"type": 14,
+			"title": "Story Campaign 2-3",
+			"canJump": true,
+			"jumpCode": "1203"
+		},
+		{
+			"id": 140204,
+			"type": 14,
+			"title": "Story Campaign 2-4",
+			"canJump": true,
+			"jumpCode": "1204"
+		},
+		{
+			"id": 140205,
+			"type": 14,
+			"title": "Story Campaign 2-5",
+			"canJump": true,
+			"jumpCode": "1205"
+		},
+		{
+			"id": 140206,
+			"type": 14,
+			"title": "Story Campaign 2-6",
+			"canJump": true,
+			"jumpCode": "1206"
+		},
+		{
+			"id": 140207,
+			"type": 14,
+			"title": "Story Campaign 2-7",
+			"canJump": true,
+			"jumpCode": "1207"
+		},
+		{
+			"id": 140208,
+			"type": 14,
+			"title": "Story Campaign 2-8",
+			"canJump": true,
+			"jumpCode": "1208"
+		},
+		{
+			"id": 140209,
+			"type": 14,
+			"title": "Story Campaign 2-9",
+			"canJump": true,
+			"jumpCode": "1209"
+		},
+		{
+			"id": 140210,
+			"type": 14,
+			"title": "Story Campaign 2-10",
+			"canJump": true,
+			"jumpCode": "1210"
+		},
+		{
+			"id": 140241,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-1",
+			"canJump": true,
+			"jumpCode": "1241"
+		},
+		{
+			"id": 140242,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-2",
+			"canJump": true,
+			"jumpCode": "1242"
+		},
+		{
+			"id": 140243,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-3",
+			"canJump": true,
+			"jumpCode": "1243"
+		},
+		{
+			"id": 140244,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-4",
+			"canJump": true,
+			"jumpCode": "1244"
+		},
+		{
+			"id": 140245,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-5",
+			"canJump": true,
+			"jumpCode": "1245"
+		},
+		{
+			"id": 140246,
+			"type": 14,
+			"title": "Story Campaign Stage BH-2-6",
+			"canJump": true,
+			"jumpCode": "1246"
+		},
+		{
+			"id": 140301,
+			"type": 14,
+			"title": "Story Campaign 3-1",
+			"canJump": true,
+			"jumpCode": "1301"
+		},
+		{
+			"id": 140302,
+			"type": 14,
+			"title": "Story Campaign 3-2",
+			"canJump": true,
+			"jumpCode": "1302"
+		},
+		{
+			"id": 140303,
+			"type": 14,
+			"title": "Story Campaign 3-3",
+			"canJump": true,
+			"jumpCode": "1303"
+		},
+		{
+			"id": 140304,
+			"type": 14,
+			"title": "Story Campaign 3-4",
+			"canJump": true,
+			"jumpCode": "1304"
+		},
+		{
+			"id": 140305,
+			"type": 14,
+			"title": "Story Campaign 3-5",
+			"canJump": true,
+			"jumpCode": "1305"
+		},
+		{
+			"id": 140306,
+			"type": 14,
+			"title": "Story Campaign 3-6",
+			"canJump": true,
+			"jumpCode": "1306"
+		},
+		{
+			"id": 140307,
+			"type": 14,
+			"title": "Story Campaign 3-7",
+			"canJump": true,
+			"jumpCode": "1307"
+		},
+		{
+			"id": 140308,
+			"type": 14,
+			"title": "Story Campaign 3-8",
+			"canJump": true,
+			"jumpCode": "1308"
+		},
+		{
+			"id": 140309,
+			"type": 14,
+			"title": "Story Campaign 3-9",
+			"canJump": true,
+			"jumpCode": "1309"
+		},
+		{
+			"id": 140310,
+			"type": 14,
+			"title": "Story Campaign 3-10",
+			"canJump": true,
+			"jumpCode": "1310"
+		},
+		{
+			"id": 140341,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-1",
+			"canJump": true,
+			"jumpCode": "1341"
+		},
+		{
+			"id": 140342,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-2",
+			"canJump": true,
+			"jumpCode": "1342"
+		},
+		{
+			"id": 140343,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-3",
+			"canJump": true,
+			"jumpCode": "1343"
+		},
+		{
+			"id": 140344,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-4",
+			"canJump": true,
+			"jumpCode": "1344"
+		},
+		{
+			"id": 140345,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-5",
+			"canJump": true,
+			"jumpCode": "1345"
+		},
+		{
+			"id": 140346,
+			"type": 14,
+			"title": "Story Campaign Stage BH-3-6",
+			"canJump": true,
+			"jumpCode": "1346"
+		},
+		{
+			"id": 140401,
+			"type": 14,
+			"title": "Story Campaign 4-1",
+			"canJump": true,
+			"jumpCode": "1401"
+		},
+		{
+			"id": 140402,
+			"type": 14,
+			"title": "Story Campaign 4-2",
+			"canJump": true,
+			"jumpCode": "1402"
+		},
+		{
+			"id": 140403,
+			"type": 14,
+			"title": "Story Campaign 4-3",
+			"canJump": true,
+			"jumpCode": "1403"
+		},
+		{
+			"id": 140404,
+			"type": 14,
+			"title": "Story Campaign 4-4",
+			"canJump": true,
+			"jumpCode": "1404"
+		},
+		{
+			"id": 140405,
+			"type": 14,
+			"title": "Story Campaign 4-5",
+			"canJump": true,
+			"jumpCode": "1405"
+		},
+		{
+			"id": 140406,
+			"type": 14,
+			"title": "Story Campaign 4-6",
+			"canJump": true,
+			"jumpCode": "1406"
+		},
+		{
+			"id": 140407,
+			"type": 14,
+			"title": "Story Campaign 4-7",
+			"canJump": true,
+			"jumpCode": "1407"
+		},
+		{
+			"id": 140408,
+			"type": 14,
+			"title": "Story Campaign 4-8",
+			"canJump": true,
+			"jumpCode": "1408"
+		},
+		{
+			"id": 140409,
+			"type": 14,
+			"title": "Story Campaign 4-9",
+			"canJump": true,
+			"jumpCode": "1409"
+		},
+		{
+			"id": 140410,
+			"type": 14,
+			"title": "Story Campaign 4-10",
+			"canJump": true,
+			"jumpCode": "1410"
+		},
+		{
+			"id": 140441,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-1",
+			"canJump": true,
+			"jumpCode": "1441"
+		},
+		{
+			"id": 140442,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-2",
+			"canJump": true,
+			"jumpCode": "1442"
+		},
+		{
+			"id": 140443,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-3",
+			"canJump": true,
+			"jumpCode": "1443"
+		},
+		{
+			"id": 140444,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-4",
+			"canJump": true,
+			"jumpCode": "1444"
+		},
+		{
+			"id": 140445,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-5",
+			"canJump": true,
+			"jumpCode": "1445"
+		},
+		{
+			"id": 140446,
+			"type": 14,
+			"title": "Story Campaign Stage BH-4-6",
+			"canJump": true,
+			"jumpCode": "1446"
+		},
+		{
+			"id": 140501,
+			"type": 14,
+			"title": "Story Campaign 5-1",
+			"canJump": true,
+			"jumpCode": "1501"
+		},
+		{
+			"id": 140502,
+			"type": 14,
+			"title": "Story Campaign 5-2",
+			"canJump": true,
+			"jumpCode": "1502"
+		},
+		{
+			"id": 140503,
+			"type": 14,
+			"title": "Story Campaign 5-3",
+			"canJump": true,
+			"jumpCode": "1503"
+		},
+		{
+			"id": 140504,
+			"type": 14,
+			"title": "Story Campaign 5-4",
+			"canJump": true,
+			"jumpCode": "1504"
+		},
+		{
+			"id": 140505,
+			"type": 14,
+			"title": "Story Campaign 5-5",
+			"canJump": true,
+			"jumpCode": "1505"
+		},
+		{
+			"id": 140506,
+			"type": 14,
+			"title": "Story Campaign 5-6",
+			"canJump": true,
+			"jumpCode": "1506"
+		},
+		{
+			"id": 140507,
+			"type": 14,
+			"title": "Story Campaign 5-7",
+			"canJump": true,
+			"jumpCode": "1507"
+		},
+		{
+			"id": 140508,
+			"type": 14,
+			"title": "Story Campaign 5-8",
+			"canJump": true,
+			"jumpCode": "1508"
+		},
+		{
+			"id": 140509,
+			"type": 14,
+			"title": "Story Campaign 5-9",
+			"canJump": true,
+			"jumpCode": "1509"
+		},
+		{
+			"id": 140510,
+			"type": 14,
+			"title": "Story Campaign 5-10",
+			"canJump": true,
+			"jumpCode": "1510"
+		},
+		{
+			"id": 140541,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-1",
+			"canJump": true,
+			"jumpCode": "1541"
+		},
+		{
+			"id": 140542,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-2",
+			"canJump": true,
+			"jumpCode": "1542"
+		},
+		{
+			"id": 140543,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-3",
+			"canJump": true,
+			"jumpCode": "1543"
+		},
+		{
+			"id": 140544,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-4",
+			"canJump": true,
+			"jumpCode": "1544"
+		},
+		{
+			"id": 140545,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-5",
+			"canJump": true,
+			"jumpCode": "1545"
+		},
+		{
+			"id": 140546,
+			"type": 14,
+			"title": "Story Campaign Stage BH-5-6",
+			"canJump": true,
+			"jumpCode": "1546"
+		},
+		{
+			"id": 140601,
+			"type": 14,
+			"title": "Story Campaign 6-1",
+			"canJump": true,
+			"jumpCode": "1601"
+		},
+		{
+			"id": 140602,
+			"type": 14,
+			"title": "Story Campaign 6-2",
+			"canJump": true,
+			"jumpCode": "1602"
+		},
+		{
+			"id": 140603,
+			"type": 14,
+			"title": "Story Campaign 6-3",
+			"canJump": true,
+			"jumpCode": "1603"
+		},
+		{
+			"id": 140604,
+			"type": 14,
+			"title": "Story Campaign 6-4",
+			"canJump": true,
+			"jumpCode": "1604"
+		},
+		{
+			"id": 140605,
+			"type": 14,
+			"title": "Story Campaign 6-5",
+			"canJump": true,
+			"jumpCode": "1605"
+		},
+		{
+			"id": 140606,
+			"type": 14,
+			"title": "Story Campaign 6-6",
+			"canJump": true,
+			"jumpCode": "1606"
+		},
+		{
+			"id": 140607,
+			"type": 14,
+			"title": "Story Campaign 6-7",
+			"canJump": true,
+			"jumpCode": "1607"
+		},
+		{
+			"id": 140608,
+			"type": 14,
+			"title": "Story Campaign 6-8",
+			"canJump": true,
+			"jumpCode": "1608"
+		},
+		{
+			"id": 140609,
+			"type": 14,
+			"title": "Story Campaign 6-9",
+			"canJump": true,
+			"jumpCode": "1609"
+		},
+		{
+			"id": 140610,
+			"type": 14,
+			"title": "Story Campaign 6-10",
+			"canJump": true,
+			"jumpCode": "1610"
+		},
+		{
+			"id": 140641,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-1",
+			"canJump": true,
+			"jumpCode": "1641"
+		},
+		{
+			"id": 140642,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-2",
+			"canJump": true,
+			"jumpCode": "1642"
+		},
+		{
+			"id": 140643,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-3",
+			"canJump": true,
+			"jumpCode": "1643"
+		},
+		{
+			"id": 140644,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-4",
+			"canJump": true,
+			"jumpCode": "1644"
+		},
+		{
+			"id": 140645,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-5",
+			"canJump": true,
+			"jumpCode": "1645"
+		},
+		{
+			"id": 140646,
+			"type": 14,
+			"title": "Story Campaign Stage BH-6-6",
+			"canJump": true,
+			"jumpCode": "1646"
+		},
+		{
+			"id": 140701,
+			"type": 14,
+			"title": "Story Campaign 7-1",
+			"canJump": true,
+			"jumpCode": "1701"
+		},
+		{
+			"id": 140702,
+			"type": 14,
+			"title": "Story Campaign 7-2",
+			"canJump": true,
+			"jumpCode": "1702"
+		},
+		{
+			"id": 140703,
+			"type": 14,
+			"title": "Story Campaign 7-3",
+			"canJump": true,
+			"jumpCode": "1703"
+		},
+		{
+			"id": 140704,
+			"type": 14,
+			"title": "Story Campaign 7-4",
+			"canJump": true,
+			"jumpCode": "1704"
+		},
+		{
+			"id": 140705,
+			"type": 14,
+			"title": "Story Campaign 7-5",
+			"canJump": true,
+			"jumpCode": "1705"
+		},
+		{
+			"id": 140706,
+			"type": 14,
+			"title": "Story Campaign 7-6",
+			"canJump": true,
+			"jumpCode": "1706"
+		},
+		{
+			"id": 140707,
+			"type": 14,
+			"title": "Story Campaign 7-7",
+			"canJump": true,
+			"jumpCode": "1707"
+		},
+		{
+			"id": 140708,
+			"type": 14,
+			"title": "Story Campaign 7-8",
+			"canJump": true,
+			"jumpCode": "1708"
+		},
+		{
+			"id": 140709,
+			"type": 14,
+			"title": "Story Campaign 7-9",
+			"canJump": true,
+			"jumpCode": "1709"
+		},
+		{
+			"id": 140710,
+			"type": 14,
+			"title": "Story Campaign 7-10",
+			"canJump": true,
+			"jumpCode": "1710"
+		},
+		{
+			"id": 140741,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-1",
+			"canJump": true,
+			"jumpCode": "1741"
+		},
+		{
+			"id": 140742,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-2",
+			"canJump": true,
+			"jumpCode": "1742"
+		},
+		{
+			"id": 140743,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-3",
+			"canJump": true,
+			"jumpCode": "1743"
+		},
+		{
+			"id": 140744,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-4",
+			"canJump": true,
+			"jumpCode": "1744"
+		},
+		{
+			"id": 140745,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-5",
+			"canJump": true,
+			"jumpCode": "1745"
+		},
+		{
+			"id": 140746,
+			"type": 14,
+			"title": "Story Campaign Stage BH-7-6",
+			"canJump": true,
+			"jumpCode": "1746"
+		},
+		{
+			"id": 140801,
+			"type": 14,
+			"title": "Story Campaign 8-1",
+			"canJump": true,
+			"jumpCode": "1801"
+		},
+		{
+			"id": 140802,
+			"type": 14,
+			"title": "Story Campaign 8-2",
+			"canJump": true,
+			"jumpCode": "1802"
+		},
+		{
+			"id": 140803,
+			"type": 14,
+			"title": "Story Campaign 8-3",
+			"canJump": true,
+			"jumpCode": "1803"
+		},
+		{
+			"id": 140804,
+			"type": 14,
+			"title": "Story Campaign 8-4",
+			"canJump": true,
+			"jumpCode": "1804"
+		},
+		{
+			"id": 140805,
+			"type": 14,
+			"title": "Story Campaign 8-5",
+			"canJump": true,
+			"jumpCode": "1805"
+		},
+		{
+			"id": 140806,
+			"type": 14,
+			"title": "Story Campaign 8-6",
+			"canJump": true,
+			"jumpCode": "1806"
+		},
+		{
+			"id": 140807,
+			"type": 14,
+			"title": "Story Campaign 8-7",
+			"canJump": true,
+			"jumpCode": "1807"
+		},
+		{
+			"id": 140808,
+			"type": 14,
+			"title": "Story Campaign 8-8",
+			"canJump": true,
+			"jumpCode": "1808"
+		},
+		{
+			"id": 140809,
+			"type": 14,
+			"title": "Story Campaign 8-9",
+			"canJump": true,
+			"jumpCode": "1809"
+		},
+		{
+			"id": 140810,
+			"type": 14,
+			"title": "Story Campaign 8-10",
+			"canJump": true,
+			"jumpCode": "1810"
+		},
+		{
+			"id": 140841,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-1",
+			"canJump": true,
+			"jumpCode": "1841"
+		},
+		{
+			"id": 140842,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-2",
+			"canJump": true,
+			"jumpCode": "1842"
+		},
+		{
+			"id": 140843,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-3",
+			"canJump": true,
+			"jumpCode": "1843"
+		},
+		{
+			"id": 140844,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-4",
+			"canJump": true,
+			"jumpCode": "1844"
+		},
+		{
+			"id": 140845,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-5",
+			"canJump": true,
+			"jumpCode": "1845"
+		},
+		{
+			"id": 140846,
+			"type": 14,
+			"title": "Story Campaign Stage BH-8-6",
+			"canJump": true,
+			"jumpCode": "1846"
+		},
+		{
+			"id": 163101,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid I",
+			"canJump": true,
+			"jumpCode": "3110"
+		},
+		{
+			"id": 163102,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid II",
+			"canJump": true,
+			"jumpCode": "3111"
+		},
+		{
+			"id": 163103,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid III",
+			"canJump": true,
+			"jumpCode": "3112"
+		},
+		{
+			"id": 163104,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid IV",
+			"canJump": true,
+			"jumpCode": "3113"
+		},
+		{
+			"id": 163105,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid V",
+			"canJump": true,
+			"jumpCode": "3114"
+		},
+		{
+			"id": 163106,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid VI",
+			"canJump": true,
+			"jumpCode": "3115"
+		},
+		{
+			"id": 163107,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid VII",
+			"canJump": true,
+			"jumpCode": "3116"
+		},
+		{
+			"id": 163108,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid VIII",
+			"canJump": true,
+			"jumpCode": "3117"
+		},
+		{
+			"id": 163109,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid IX",
+			"canJump": true,
+			"jumpCode": "3118"
+		},
+		{
+			"id": 163110,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid X",
+			"canJump": true,
+			"jumpCode": "3119"
+		},
+		{
+			"id": 163111,
+			"type": 16,
+			"title": "Cognitive Configuration - Solid",
+			"canJump": true,
+			"jumpCode": "3001"
+		},
+		{
+			"id": 163201,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision I",
+			"canJump": true,
+			"jumpCode": "3120"
+		},
+		{
+			"id": 163202,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision II",
+			"canJump": true,
+			"jumpCode": "3121"
+		},
+		{
+			"id": 163203,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision III",
+			"canJump": true,
+			"jumpCode": "3122"
+		},
+		{
+			"id": 163204,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision IV",
+			"canJump": true,
+			"jumpCode": "3123"
+		},
+		{
+			"id": 163205,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision V",
+			"canJump": true,
+			"jumpCode": "3124"
+		},
+		{
+			"id": 163206,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision VI",
+			"canJump": true,
+			"jumpCode": "3125"
+		},
+		{
+			"id": 163207,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision VII",
+			"canJump": true,
+			"jumpCode": "3126"
+		},
+		{
+			"id": 163208,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision VIII",
+			"canJump": true,
+			"jumpCode": "3127"
+		},
+		{
+			"id": 163209,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision IX",
+			"canJump": true,
+			"jumpCode": "3128"
+		},
+		{
+			"id": 163210,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision X",
+			"canJump": true,
+			"jumpCode": "3129"
+		},
+		{
+			"id": 163211,
+			"type": 16,
+			"title": "Cognitive Configuration - Precision",
+			"canJump": true,
+			"jumpCode": "3009"
+		},
+		{
+			"id": 163301,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis I",
+			"canJump": true,
+			"jumpCode": "3130"
+		},
+		{
+			"id": 163302,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis II",
+			"canJump": true,
+			"jumpCode": "3131"
+		},
+		{
+			"id": 163303,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis III",
+			"canJump": true,
+			"jumpCode": "3132"
+		},
+		{
+			"id": 163304,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis IV",
+			"canJump": true,
+			"jumpCode": "3133"
+		},
+		{
+			"id": 163305,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis V",
+			"canJump": true,
+			"jumpCode": "3134"
+		},
+		{
+			"id": 163306,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis VI",
+			"canJump": true,
+			"jumpCode": "3135"
+		},
+		{
+			"id": 163307,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis VII",
+			"canJump": true,
+			"jumpCode": "3136"
+		},
+		{
+			"id": 163308,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis VIII",
+			"canJump": true,
+			"jumpCode": "3137"
+		},
+		{
+			"id": 163309,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis IX",
+			"canJump": true,
+			"jumpCode": "3138"
+		},
+		{
+			"id": 163310,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis X",
+			"canJump": true,
+			"jumpCode": "3139"
+		},
+		{
+			"id": 163311,
+			"type": 16,
+			"title": "Cognitive Configuration - Analysis",
+			"canJump": true,
+			"jumpCode": "3010"
+		},
+		{
+			"id": 163401,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact I",
+			"canJump": true,
+			"jumpCode": "3140"
+		},
+		{
+			"id": 163402,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact II",
+			"canJump": true,
+			"jumpCode": "3141"
+		},
+		{
+			"id": 163403,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact III",
+			"canJump": true,
+			"jumpCode": "3142"
+		},
+		{
+			"id": 163404,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact IV",
+			"canJump": true,
+			"jumpCode": "3143"
+		},
+		{
+			"id": 163405,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact V",
+			"canJump": true,
+			"jumpCode": "3144"
+		},
+		{
+			"id": 163406,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact VI",
+			"canJump": true,
+			"jumpCode": "3145"
+		},
+		{
+			"id": 163407,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact VII",
+			"canJump": true,
+			"jumpCode": "3146"
+		},
+		{
+			"id": 163408,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact VIII",
+			"canJump": true,
+			"jumpCode": "3147"
+		},
+		{
+			"id": 163409,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact IX",
+			"canJump": true,
+			"jumpCode": "3148"
+		},
+		{
+			"id": 163410,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact X",
+			"canJump": true,
+			"jumpCode": "3149"
+		},
+		{
+			"id": 163411,
+			"type": 16,
+			"title": "Cognitive Configuration - Impact",
+			"canJump": true,
+			"jumpCode": "3011"
+		},
+		{
+			"id": 163501,
+			"type": 16,
+			"title": "Zero-Pole Configuration I",
+			"canJump": true,
+			"jumpCode": "3151"
+		},
+		{
+			"id": 163502,
+			"type": 16,
+			"title": "Zero-Pole Configuration II",
+			"canJump": true,
+			"jumpCode": "3152"
+		},
+		{
+			"id": 163503,
+			"type": 16,
+			"title": "Layered Configuration III",
+			"canJump": true,
+			"jumpCode": "3153"
+		},
+		{
+			"id": 163504,
+			"type": 16,
+			"title": "Layered Configuration IV",
+			"canJump": true,
+			"jumpCode": "3154"
+		},
+		{
+			"id": 163505,
+			"type": 16,
+			"title": "Heterodimensional Configuration V",
+			"canJump": true,
+			"jumpCode": "3155"
+		},
+		{
+			"id": 163506,
+			"type": 16,
+			"title": "Heterodimensional Configuration VI",
+			"canJump": true,
+			"jumpCode": "3156"
+		},
+		{
+			"id": 163507,
+			"type": 16,
+			"title": "Heterodimensional Configuration VII",
+			"canJump": true,
+			"jumpCode": "3157"
+		},
+		{
+			"id": 163508,
+			"type": 16,
+			"title": "Heterodimensional Framework VIII",
+			"canJump": true,
+			"jumpCode": "3158"
+		},
+		{
+			"id": 163511,
+			"type": 16,
+			"title": "Cognitive Configuration",
+			"canJump": true,
+			"jumpCode": "3150"
+		},
+		{
+			"id": 180001,
+			"type": 18,
+			"title": "Combat Exercise",
+			"canJump": true,
+			"jumpCode": "9004"
+		},
+		{
+			"id": 190001,
+			"type": 19,
+			"title": "Exchange Spot",
+			"canJump": true,
+			"jumpCode": "5001"
+		},
+		{
+			"id": 190002,
+			"type": 19,
+			"title": "Basic Procurement",
+			"canJump": true,
+			"jumpCode": "5002"
+		},
+		{
+			"id": 190003,
+			"type": 19,
+			"title": "Growth Stack",
+			"canJump": true,
+			"jumpCode": "5003"
+		},
+		{
+			"id": 190004,
+			"type": 19,
+			"title": "Standard Equipment",
+			"canJump": true,
+			"jumpCode": "5004"
+		},
+		{
+			"id": 190005,
+			"type": 19,
+			"title": "Elite Equipment",
+			"canJump": true,
+			"jumpCode": "5005"
+		},
+		{
+			"id": 190006,
+			"type": 19,
+			"title": "Honor Hall",
+			"canJump": true,
+			"jumpCode": "5006"
+		},
+		{
+			"id": 190007,
+			"type": 19,
+			"title": "Battlelog Trading",
+			"canJump": true,
+			"jumpCode": "5007"
+		},
+		{
+			"id": 190008,
+			"type": 19,
+			"title": "Power Hub",
+			"canJump": true,
+			"jumpCode": "5008"
+		},
+		{
+			"id": 190009,
+			"type": 19,
+			"title": "Quality Selection",
+			"canJump": true,
+			"jumpCode": "5103"
+		},
+		{
+			"id": 200001,
+			"type": 20,
+			"title": "Refitting Room",
+			"canJump": true,
+			"jumpCode": "4001"
+		},
+		{
+			"id": 210001,
+			"type": 21,
+			"title": "In-Depth Search",
+			"canJump": true,
+			"jumpCode": "3003"
+		},
+		{
+			"id": 220001,
+			"type": 22,
+			"title": "Standardizing Sync",
+			"canJump": true,
+			"jumpCode": "3002"
+		},
+		{
+			"id": 230001,
+			"type": 23,
+			"title": "Power Assessment",
+			"canJump": true,
+			"jumpCode": "3004"
+		},
+		{
+			"id": 240001,
+			"type": 24,
+			"title": "Boss Fight",
+			"canJump": true,
+			"jumpCode": "3005"
+		},
+		{
+			"id": 250001,
+			"type": 25,
+			"title": "Daily Quests",
+			"canJump": true,
+			"jumpCode": "7001"
+		},
+		{
+			"id": 250003,
+			"type": 25,
+			"title": "Appraisal Objectives",
+			"canJump": true,
+			"jumpCode": "7002"
+		},
+		{
+			"id": 260001,
+			"type": 26,
+			"title": "Communication",
+			"canJump": true,
+			"jumpCode": "9001"
+		},
+		{
+			"id": 270001,
+			"type": 27,
+			"title": "Hangar",
+			"canJump": true,
+			"jumpCode": "9002"
+		},
+		{
+			"id": 270002,
+			"type": 27,
+			"title": "Military Simulation Season: Bold Assault",
+			"canJump": true,
+			"jumpCode": "31001"
+		},
+		{
+			"id": 270003,
+			"type": 27,
+			"title": "Military Simulation Season: Potential Conflict",
+			"canJump": true,
+			"jumpCode": "31002"
+		},
+		{
+			"id": 270004,
+			"type": 27,
+			"title": "Military Simulation Season: Invasion Crisis",
+			"canJump": true,
+			"jumpCode": "31003"
+		},
+		{
+			"id": 270005,
+			"type": 27,
+			"title": "Military Simulation Season: Order Construction",
+			"canJump": true,
+			"jumpCode": "31004"
+		},
+		{
+			"id": 270006,
+			"type": 27,
+			"title": "Military Simulation Season: Crisis Infiltration",
+			"canJump": true,
+			"jumpCode": "31005"
+		},
+		{
+			"id": 270007,
+			"type": 27,
+			"title": "Military Simulation Season: Tempered Glory",
+			"canJump": true,
+			"jumpCode": "31006"
+		},
+		{
+			"id": 280101,
+			"type": 28,
+			"title": "Neural Survey 1-1",
+			"canJump": true,
+			"jumpCode": "2011"
+		},
+		{
+			"id": 280102,
+			"type": 28,
+			"title": "Neural Survey 1-2",
+			"canJump": true,
+			"jumpCode": "2012"
+		},
+		{
+			"id": 280103,
+			"type": 28,
+			"title": "Neural Survey 1-3",
+			"canJump": true,
+			"jumpCode": "2013"
+		},
+		{
+			"id": 280104,
+			"type": 28,
+			"title": "Neural Survey 1-4",
+			"canJump": true,
+			"jumpCode": "2014"
+		},
+		{
+			"id": 280105,
+			"type": 28,
+			"title": "Neural Survey 1-5",
+			"canJump": true,
+			"jumpCode": "2015"
+		},
+		{
+			"id": 280106,
+			"type": 28,
+			"title": "Neural Survey: The Watcher",
+			"canJump": true,
+			"jumpCode": "2010"
+		},
+		{
+			"id": 280201,
+			"type": 28,
+			"title": "Neural Survey 2-1",
+			"canJump": true,
+			"jumpCode": "2021"
+		},
+		{
+			"id": 280202,
+			"type": 28,
+			"title": "Neural Survey 2-2",
+			"canJump": true,
+			"jumpCode": "2022"
+		},
+		{
+			"id": 280203,
+			"type": 28,
+			"title": "Neural Survey 2-3",
+			"canJump": true,
+			"jumpCode": "2023"
+		},
+		{
+			"id": 280204,
+			"type": 28,
+			"title": "Neural Survey 2-4",
+			"canJump": true,
+			"jumpCode": "2024"
+		},
+		{
+			"id": 280205,
+			"type": 28,
+			"title": "Neural Survey 2-5",
+			"canJump": true,
+			"jumpCode": "2025"
+		},
+		{
+			"id": 280206,
+			"type": 28,
+			"title": "Neural Survey: The Wanderer",
+			"canJump": true,
+			"jumpCode": "2020"
+		},
+		{
+			"id": 280301,
+			"type": 28,
+			"title": "Neural Survey 3-1",
+			"canJump": true,
+			"jumpCode": "2031"
+		},
+		{
+			"id": 280302,
+			"type": 28,
+			"title": "Neural Survey 3-2",
+			"canJump": true,
+			"jumpCode": "2032"
+		},
+		{
+			"id": 280303,
+			"type": 28,
+			"title": "Neural Survey 3-3",
+			"canJump": true,
+			"jumpCode": "2033"
+		},
+		{
+			"id": 280304,
+			"type": 28,
+			"title": "Neural Survey 3-4",
+			"canJump": true,
+			"jumpCode": "2034"
+		},
+		{
+			"id": 280305,
+			"type": 28,
+			"title": "Neural Survey 3-5",
+			"canJump": true,
+			"jumpCode": "2035"
+		},
+		{
+			"id": 280306,
+			"type": 28,
+			"title": "Neural Survey: Temporary Stand-In",
+			"canJump": true,
+			"jumpCode": "2030"
+		},
+		{
+			"id": 280401,
+			"type": 28,
+			"title": "Neural Survey 4-1",
+			"canJump": true,
+			"jumpCode": "2041"
+		},
+		{
+			"id": 280402,
+			"type": 28,
+			"title": "Neural Survey 4-2",
+			"canJump": true,
+			"jumpCode": "2042"
+		},
+		{
+			"id": 280403,
+			"type": 28,
+			"title": "Neural Survey 4-3",
+			"canJump": true,
+			"jumpCode": "2043"
+		},
+		{
+			"id": 280404,
+			"type": 28,
+			"title": "Neural Survey 4-4",
+			"canJump": true,
+			"jumpCode": "2044"
+		},
+		{
+			"id": 280405,
+			"type": 28,
+			"title": "Neural Survey 4-5",
+			"canJump": true,
+			"jumpCode": "2045"
+		},
+		{
+			"id": 280406,
+			"type": 28,
+			"title": "Neural Survey: The Final Command",
+			"canJump": true,
+			"jumpCode": "2040"
+		},
+		{
+			"id": 280501,
+			"type": 28,
+			"title": "Neural Survey 5-1",
+			"canJump": true,
+			"jumpCode": "2051"
+		},
+		{
+			"id": 280502,
+			"type": 28,
+			"title": "Neural Survey 5-2",
+			"canJump": true,
+			"jumpCode": "2052"
+		},
+		{
+			"id": 280503,
+			"type": 28,
+			"title": "Neural Survey 5-3",
+			"canJump": true,
+			"jumpCode": "2053"
+		},
+		{
+			"id": 280504,
+			"type": 28,
+			"title": "Neural Survey 5-4",
+			"canJump": true,
+			"jumpCode": "2054"
+		},
+		{
+			"id": 280505,
+			"type": 28,
+			"title": "Neural Survey 5-5",
+			"canJump": true,
+			"jumpCode": "2055"
+		},
+		{
+			"id": 280506,
+			"type": 28,
+			"title": "Neural Survey: Riding on the Hemline",
+			"canJump": true,
+			"jumpCode": "2050"
+		},
+		{
+			"id": 280601,
+			"type": 28,
+			"title": "Neural Survey 6-1",
+			"canJump": true,
+			"jumpCode": "2061"
+		},
+		{
+			"id": 280602,
+			"type": 28,
+			"title": "Neural Survey 6-2",
+			"canJump": true,
+			"jumpCode": "2062"
+		},
+		{
+			"id": 280603,
+			"type": 28,
+			"title": "Neural Survey 6-3",
+			"canJump": true,
+			"jumpCode": "2063"
+		},
+		{
+			"id": 280604,
+			"type": 28,
+			"title": "Neural Survey 6-4",
+			"canJump": true,
+			"jumpCode": "2064"
+		},
+		{
+			"id": 280605,
+			"type": 28,
+			"title": "Neural Survey 6-5",
+			"canJump": true,
+			"jumpCode": "2065"
+		},
+		{
+			"id": 280606,
+			"type": 28,
+			"title": "Neural Survey: When the Stars Sparkle",
+			"canJump": true,
+			"jumpCode": "2060"
+		},
+		{
+			"id": 290000,
+			"type": 29,
+			"title": "Boundary Push",
+			"canJump": true,
+			"jumpCode": "10000"
+		},
+		{
+			"id": 290001,
+			"type": 29,
+			"title": "Boundary Push - Boundary Push Mission",
+			"canJump": true,
+			"jumpCode": "10003"
+		},
+		{
+			"id": 290002,
+			"type": 29,
+			"title": "Boundary Push - Exploring Limits",
+			"canJump": true,
+			"jumpCode": "10004"
+		},
+		{
+			"id": 290003,
+			"type": 29,
+			"title": "Boundary Push - Special Bounty",
+			"canJump": true,
+			"jumpCode": "10005"
+		},
+		{
+			"id": 290004,
+			"type": 29,
+			"title": "Boundary Push - Analysis Machine",
+			"canJump": true,
+			"jumpCode": "10006"
+		},
+		{
+			"id": 290005,
+			"type": 29,
+			"title": "Mellow Commission - Standard Delivery I",
+			"canJump": true,
+			"jumpCode": "17001"
+		},
+		{
+			"id": 290006,
+			"type": 29,
+			"title": "Mellow Commission - Standard Delivery II",
+			"canJump": true,
+			"jumpCode": "17002"
+		},
+		{
+			"id": 290007,
+			"type": 29,
+			"title": "Mellow Commission - Standard Delivery III",
+			"canJump": true,
+			"jumpCode": "17003"
+		},
+		{
+			"id": 290008,
+			"type": 29,
+			"title": "Mellow Commission - Quality Delivery I",
+			"canJump": true,
+			"jumpCode": "17004"
+		},
+		{
+			"id": 290009,
+			"type": 29,
+			"title": "Mellow Commission - Quality Delivery II",
+			"canJump": true,
+			"jumpCode": "17005"
+		},
+		{
+			"id": 290010,
+			"type": 29,
+			"title": "Mellow Commission - Quality Delivery II",
+			"canJump": true,
+			"jumpCode": "17006"
+		},
+		{
+			"id": 290011,
+			"type": 29,
+			"title": "Mellow Commission - Premium Delivery I",
+			"canJump": true,
+			"jumpCode": "17007"
+		},
+		{
+			"id": 290012,
+			"type": 29,
+			"title": "Mellow Commission - Premium Delivery II",
+			"canJump": true,
+			"jumpCode": "17008"
+		},
+		{
+			"id": 290013,
+			"type": 29,
+			"title": "Mellow Commission - Premium Delivery II",
+			"canJump": true,
+			"jumpCode": "17009"
+		},
+		{
+			"id": 290014,
+			"type": 29,
+			"title": "Mellow Commission - Special Delivery I",
+			"canJump": true,
+			"jumpCode": "17010"
+		},
+		{
+			"id": 290015,
+			"type": 29,
+			"title": "Mellow Commission - Special Delivery II",
+			"canJump": true,
+			"jumpCode": "17011"
+		},
+		{
+			"id": 290016,
+			"type": 29,
+			"title": "Sojourners of the Glass Island",
+			"canJump": true,
+			"jumpCode": "12601"
+		},
+		{
+			"id": 290017,
+			"type": 29,
+			"title": "Halting Station",
+			"canJump": true,
+			"jumpCode": "5010"
+		},
+		{
+			"id": 290018,
+			"type": 29,
+			"title": "Echo of Dawn",
+			"canJump": true,
+			"jumpCode": "5011"
+		},
+		{
+			"id": 290019,
+			"type": 29,
+			"title": "Aphelion",
+			"canJump": true,
+			"jumpCode": "12602"
+		},
+		{
+			"id": 310001,
+			"type": 31,
+			"title": "Equipment Analysis - Basic I",
+			"canJump": true,
+			"jumpCode": "3401"
+		},
+		{
+			"id": 310002,
+			"type": 31,
+			"title": "Equipment Analysis - Basic II",
+			"canJump": true,
+			"jumpCode": "3402"
+		},
+		{
+			"id": 310003,
+			"type": 31,
+			"title": "Equipment Analysis - Standard I",
+			"canJump": true,
+			"jumpCode": "3403"
+		},
+		{
+			"id": 310004,
+			"type": 31,
+			"title": "Equipment Analysis - Standard II",
+			"canJump": true,
+			"jumpCode": "3404"
+		},
+		{
+			"id": 310005,
+			"type": 31,
+			"title": "Equipment Analysis - Standard III",
+			"canJump": true,
+			"jumpCode": "3405"
+		},
+		{
+			"id": 310006,
+			"type": 31,
+			"title": "Equipment Analysis - Standard IV",
+			"canJump": true,
+			"jumpCode": "3406"
+		},
+		{
+			"id": 310007,
+			"type": 31,
+			"title": "Equipment Analysis - Experienced I",
+			"canJump": true,
+			"jumpCode": "3407"
+		},
+		{
+			"id": 310008,
+			"type": 31,
+			"title": "Equipment Analysis - Experienced II",
+			"canJump": true,
+			"jumpCode": "3408"
+		},
+		{
+			"id": 310009,
+			"type": 31,
+			"title": "Equipment Analysis - Expert II",
+			"canJump": true,
+			"jumpCode": "3409"
+		},
+		{
+			"id": 310010,
+			"type": 31,
+			"title": "Equipment Analysis - Expert II",
+			"canJump": true,
+			"jumpCode": "3410"
+		},
+		{
+			"id": 310011,
+			"type": 31,
+			"title": "Equipment Analysis",
+			"canJump": true,
+			"jumpCode": "3400"
+		},
+		{
+			"id": 312003,
+			"type": 33,
+			"title": "Custom Skin",
+			"canJump": true,
+			"jumpCode": "30000"
+		},
+		{
+			"id": 320000,
+			"type": 32,
+			"title": "Obtained from Themed Event",
+			"canJump": true,
+			"jumpCode": "12000"
+		},
+		{
+			"id": 320001,
+			"type": 32,
+			"title": "Choral Chronology",
+			"canJump": true,
+			"jumpCode": "12103"
+		},
+		{
+			"id": 320002,
+			"type": 32,
+			"title": "Chase Concerto",
+			"canJump": true,
+			"jumpCode": "12104"
+		},
+		{
+			"id": 320011,
+			"type": 32,
+			"title": "Zucchero Café",
+			"canJump": true,
+			"jumpCode": "12201"
+		},
+		{
+			"id": 320012,
+			"type": 32,
+			"title": "Mellow Commission",
+			"canJump": true,
+			"jumpCode": "12202"
+		},
+		{
+			"id": 320013,
+			"type": 32,
+			"title": "Obtain Self-Serve Bar - Carbonated Drinks",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 320014,
+			"type": 32,
+			"title": "Obtain Self-Serve Bar - Multifunction Juicer",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 320015,
+			"type": 32,
+			"title": "Obtain Self-Serve Bar - Capsule Coffee Machine",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 320016,
+			"type": 32,
+			"title": "Obtain Zucchero Assistant - Capsule Coffee Machine",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 321002,
+			"type": 33,
+			"title": "Voyage Logs",
+			"canJump": true,
+			"jumpCode": "13001"
+		},
+		{
+			"id": 330001,
+			"type": 33,
+			"title": "Expansion Drills",
+			"canJump": true,
+			"jumpCode": "18001"
+		},
+		{
+			"id": 340000,
+			"type": 34,
+			"title": "Neural Helix",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341001,
+			"type": 34,
+			"title": "Neural Helix - Krolik",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341008,
+			"type": 34,
+			"title": "Neural Helix - Nemesis",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341009,
+			"type": 34,
+			"title": "Neural Helix - Colphne",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341013,
+			"type": 34,
+			"title": "Neural Helix - Lenna",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341015,
+			"type": 34,
+			"title": "Neural Helix - Vepley",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341017,
+			"type": 34,
+			"title": "Neural Helix - Groza",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341021,
+			"type": 34,
+			"title": "Neural Helix - Peritya",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341022,
+			"type": 34,
+			"title": "Neural Helix - Sharkry",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341023,
+			"type": 34,
+			"title": "Dushevnaya - Neural Helix",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341024,
+			"type": 34,
+			"title": "Neural Helix - Cheeta",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341025,
+			"type": 34,
+			"title": "Neural Helix - Tololo",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341026,
+			"type": 34,
+			"title": "Neural Helix - Nagant",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341027,
+			"type": 34,
+			"title": "Neural Helix - Qiongjiu",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341028,
+			"type": 34,
+			"title": "Neural Helix - Centaureissi",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341029,
+			"type": 34,
+			"title": "Neural Helix - Sabrina",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341032,
+			"type": 34,
+			"title": "Neural Helix - Daiyan",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341033,
+			"type": 34,
+			"title": "Neural Helix - Mosin-Nagant",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341034,
+			"type": 34,
+			"title": "Neural Helix - Makiatto",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341035,
+			"type": 34,
+			"title": "Neural Helix - Jiangyu",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341036,
+			"type": 34,
+			"title": "Neural Helix - Ksenia",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341037,
+			"type": 34,
+			"title": "Neural Helix - Ullrid",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341038,
+			"type": 34,
+			"title": "Neural Helix - Littara",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341039,
+			"type": 34,
+			"title": "Neural Helix - Suomi",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341040,
+			"type": 34,
+			"title": "Neural Helix - Papasha",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341041,
+			"type": 34,
+			"title": "Neural Helix - Lotta",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341050,
+			"type": 34,
+			"title": "Neural Helix - Zhaohui",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341052,
+			"type": 34,
+			"title": "Neural Helix - Klukai",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 351015,
+			"type": 35,
+			"title": "Increase Vepley's Affinity",
+			"canJump": true,
+			"jumpCode": "4020"
+		},
+		{
+			"id": 351025,
+			"type": 35,
+			"title": "Increase Tololo's Affinity",
+			"canJump": true,
+			"jumpCode": "4027"
+		},
+		{
+			"id": 351027,
+			"type": 35,
+			"title": "Increase Qiongjiu's Affinity",
+			"canJump": true,
+			"jumpCode": "4029"
+		},
+		{
+			"id": 351040,
+			"type": 35,
+			"title": "Increase Papasha's Affinity",
+			"canJump": true,
+			"jumpCode": "4040"
+		},
+		{
+			"id": 351050,
+			"type": 35,
+			"title": "Increase Zhaohui's Affinity",
+			"canJump": true,
+			"jumpCode": "4042"
+		},
+		{
+			"id": 351052,
+			"type": 35,
+			"title": "Increase Klukai's Affinity",
+			"canJump": true,
+			"jumpCode": "4043"
+		},
+		{
+			"id": 360001,
+			"type": 36,
+			"title": "Dispatch Room",
+			"canJump": true,
+			"jumpCode": "41001"
+		},
+		{
+			"id": 990001,
+			"type": 99,
+			"title": "Obtained through Crafting",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 990002,
+			"type": 99,
+			"title": "Available in the Shop.",
+			"canJump": false,
+			"jumpCode": ""
+		}
+	]
+}

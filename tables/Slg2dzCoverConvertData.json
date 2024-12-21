@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"typeId": 1,
+			"coverCanExit": 141100,
+			"coverCanExitList": [
+				14110000,
+				14110090
+			]
+		},
+		{
+			"typeId": 3,
+			"coverCanExit": 141200,
+			"coverCanExitList": [
+				14120000,
+				14120090
+			]
+		},
+		{
+			"typeId": 27,
+			"coverCanExit": 140200,
+			"coverCanExitList": [
+				14020000,
+				14020090
+			]
+		},
+		{
+			"typeId": 1003,
+			"coverCanExit": 140200,
+			"coverCanExitList": [
+				14020000,
+				14020090
+			]
+		},
+		{
+			"typeId": 5102,
+			"coverCanExit": 301200,
+			"coverCanExitList": [
+				30120000,
+				30120090
+			]
+		},
+		{
+			"typeId": 5103,
+			"coverCanExit": 301100,
+			"coverCanExitList": [
+				30110000,
+				30110090
+			]
+		},
+		{
+			"typeId": 5104,
+			"coverCanExit": 301000,
+			"coverCanExitList": [
+				30100000,
+				30100090
+			]
+		},
+		{
+			"typeId": 5113,
+			"coverCanExit": 140100,
+			"coverCanExitList": [
+				14010000,
+				14010090
+			]
+		},
+		{
+			"typeId": 5127,
+			"coverCanExit": 140200,
+			"coverCanExitList": [
+				14020000,
+				14020090
+			]
+		}
+	]
+}

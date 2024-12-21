@@ -1,0 +1,1216 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Double Pendulum Simulation",
+			"difficultyType": 1,
+			"difficultyGroup": 101,
+			"type": 1,
+			"stageGroup": 1,
+			"chapterRewardValue": [
+				14,
+				28,
+				42
+			],
+			"chapterDes": "The clock hands, separated briefly, continue to tick. Struggle as they might, they will eventually return to that predetermined beginning.",
+			"background": "Img_BattleIndexBg_Story1",
+			"mapBackground": "Img_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+			"globalTab": 81,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": []
+		},
+		{
+			"id": 2,
+			"name": "Second Signal",
+			"difficultyType": 1,
+			"difficultyGroup": 102,
+			"type": 1,
+			"stageGroup": 2,
+			"unlock": [
+				99001
+			],
+			"unlockHint": "完成战役“双摆推演”关卡1-8后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				1
+			],
+			"chapterDes": "The disorganized information hidden beneath the calm surface surges forth, emerging from every crevice.",
+			"background": "Img_BattleIndexBg_Story2",
+			"mapBackground": "Img_ChapterBg_2",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+			"globalTab": 82,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 3,
+			"name": "Lacuna Rectification",
+			"difficultyType": 1,
+			"difficultyGroup": 103,
+			"type": 1,
+			"stageGroup": 3,
+			"unlock": [
+				99002
+			],
+			"unlockHint": "完成战役“第二信号”关卡SL-2-5",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				2
+			],
+			"chapterDes": "The missing puzzle piece has been found.\nWhere will your fingers guide it as they trace the fractured edge?",
+			"background": "Img_BattleIndexBg_Story3",
+			"mapBackground": "Img_ChapterBg_3",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:2000|12:1,1:100,8301:2000|12:2,1:150,2:2000",
+			"globalTab": 83,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 4,
+			"name": "Reverse Matrix",
+			"difficultyType": 1,
+			"difficultyGroup": 104,
+			"type": 1,
+			"stageGroup": 4,
+			"unlock": [
+				99003
+			],
+			"unlockHint": "完成战役“缺位拟合”关卡3-10",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				3
+			],
+			"chapterDes": "You swim upstream through the billowing chaos.",
+			"background": "Img_BattleIndexBg_Story4",
+			"mapBackground": "Img_ChapterBg_4",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:3000|12:1,1:100,8301:3000|12:2,1:150,2:3000",
+			"globalTab": 84,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 5,
+			"name": "Heterodyne Resonance",
+			"difficultyType": 1,
+			"difficultyGroup": 105,
+			"type": 1,
+			"stageGroup": 5,
+			"unlock": [
+				99004
+			],
+			"unlockHint": "完成战役“逆序矩阵”关卡SL-4-6后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				4
+			],
+			"chapterDes": "Under the onslaught of the torrent, elements with varying frequencies resist, drift, and converge, coalescing into a thundering dirge.",
+			"background": "Img_BattleIndexBg_Story5",
+			"mapBackground": "Img_ChapterBg_5",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:6000|12:1,1:100,8301:6000|12:2,1:150,2:6000",
+			"globalTab": 85,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 6,
+			"name": "Harmonic Cycle",
+			"difficultyType": 1,
+			"difficultyGroup": 106,
+			"type": 1,
+			"stageGroup": 6,
+			"unlock": [
+				99005
+			],
+			"unlockHint": "完成战役“异频共振”关卡5-10后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				5
+			],
+			"chapterDes": "Smooth curves connect peaks and valleys. Before the start of the next cycle, a somewhat gentle slope appears.",
+			"background": "Img_BattleIndexBg_Story6",
+			"mapBackground": "Img_ChapterBg_6",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:9000|12:1,1:100,8301:9000|12:2,1:150,2:9000",
+			"globalTab": 86,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 7,
+			"name": "Radiation Decay",
+			"difficultyType": 1,
+			"difficultyGroup": 107,
+			"type": 1,
+			"stageGroup": 7,
+			"unlock": [
+				99006
+			],
+			"unlockHint": "完成战役“简谐周期”关卡6-10后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				6
+			],
+			"chapterDes": "An unstable atomic core begins to decay; now is the time to choose.",
+			"background": "Img_BattleIndexBg_Story7",
+			"mapBackground": "Img_ChapterBg_7",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:10000|12:1,1:100,8301:10000|12:2,1:150,2:10000",
+			"globalTab": 87,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 8,
+			"name": "Aliasing Effect",
+			"difficultyType": 1,
+			"difficultyGroup": 108,
+			"type": 1,
+			"stageGroup": 8,
+			"unlock": [
+				99007
+			],
+			"unlockHint": "完成战役“放射衰变”关卡7-10后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				7
+			],
+			"chapterDes": "Separate, yet travelling together, resonating on different frequencies, the splintered images finally overlap once again.",
+			"background": "Img_BattleIndexBg_Story8",
+			"mapBackground": "Img_ChapterBg_8",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:10000|12:1,1:100,8301:10000|12:2,1:150,2:10000",
+			"globalTab": 88,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 3001,
+			"name": "Amidst Wings of Gray",
+			"difficultyType": 1,
+			"difficultyGroup": 301,
+			"type": 3,
+			"stageGroup": 3001,
+			"relation": 101,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70001,
+			"unlock": [
+				10997
+			],
+			"unlockHint": "活动结束后解锁",
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Daiyan",
+			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3005,
+			"name": "Rhapsody Quartet",
+			"difficultyType": 1,
+			"difficultyGroup": 305,
+			"type": 3,
+			"stageGroup": 4008,
+			"relation": 105,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70005,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Macqiato",
+			"mapBackground": "Img_Macqiato_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3006,
+			"name": "Sojourners - Part I",
+			"difficultyType": 1,
+			"difficultyGroup": 306,
+			"type": 3,
+			"stageGroup": 4009,
+			"relation": 106,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70006,
+			"unlock": [
+				10997
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 3007,
+			"name": "Sojourners - Part II",
+			"difficultyType": 1,
+			"difficultyGroup": 307,
+			"type": 3,
+			"stageGroup": 4010,
+			"relation": 107,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70007,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4001,
+			"name": "Amidst Wings of Gray",
+			"difficultyType": 1,
+			"difficultyGroup": 401,
+			"type": 4,
+			"stageGroup": 3001,
+			"relation": 101,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 50038,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Daiyan",
+			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4008,
+			"name": "Rhapsody Quartet",
+			"difficultyType": 1,
+			"difficultyGroup": 408,
+			"type": 4,
+			"stageGroup": 4008,
+			"relation": 105,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 50025,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Macqiato",
+			"mapBackground": "Img_Macqiato_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4009,
+			"name": "Sojourners - Part I",
+			"difficultyType": 1,
+			"difficultyGroup": 409,
+			"type": 4,
+			"stageGroup": 4009,
+			"relation": 106,
+			"notes": 1,
+			"tabName": "普通模式",
+			"planId": 500059,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4010,
+			"name": "Sojourners - Part II",
+			"difficultyType": 1,
+			"difficultyGroup": 410,
+			"type": 4,
+			"stageGroup": 4010,
+			"relation": 107,
+			"notes": 1,
+			"tabName": "普通模式",
+			"planId": 500061,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 91001,
+			"name": "Double Pendulum Simulation",
+			"difficultyType": 2,
+			"difficultyGroup": 101,
+			"type": 1,
+			"stageGroup": 91001,
+			"unlock": [
+				99104
+			],
+			"unlockHint": "指挥官等级25级解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "The clock hands, separated briefly, continue to tick. Struggle as they might, they will eventually return to that predetermined beginning.",
+			"background": "Img_BattleIndexBg_Story1",
+			"mapBackground": "Img_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91002,
+			"name": "Second Signal",
+			"difficultyType": 2,
+			"difficultyGroup": 102,
+			"type": 1,
+			"stageGroup": 91002,
+			"unlock": [
+				99105,
+				91001
+			],
+			"unlockHint": "完成战役“双摆推演”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91001
+			],
+			"chapterDes": "The disorganized information hidden beneath the calm surface surges forth, emerging from every crevice.",
+			"background": "Img_BattleIndexBg_Story2",
+			"mapBackground": "Img_ChapterBg_2",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91003,
+			"name": "Lacuna Rectification",
+			"difficultyType": 2,
+			"difficultyGroup": 103,
+			"type": 1,
+			"stageGroup": 91003,
+			"unlock": [
+				99106,
+				91002
+			],
+			"unlockHint": "完成战役“第二信号”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91002
+			],
+			"chapterDes": "The missing puzzle piece has been found.\nWhere will your fingers guide it as they trace the fractured edge?",
+			"background": "Img_BattleIndexBg_Story3",
+			"mapBackground": "Img_ChapterBg_3",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:2000|12:1,1:100,8301:2000|12:2,1:150,2:2000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91004,
+			"name": "Reverse Matrix",
+			"difficultyType": 2,
+			"difficultyGroup": 104,
+			"type": 1,
+			"stageGroup": 91004,
+			"unlock": [
+				99107,
+				91003
+			],
+			"unlockHint": "完成战役“缺位拟合”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91003
+			],
+			"chapterDes": "You swim upstream through the billowing chaos.",
+			"background": "Img_BattleIndexBg_Story4",
+			"mapBackground": "Img_ChapterBg_4",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:3000|12:1,1:100,8301:3000|12:2,1:150,2:3000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91005,
+			"name": "Heterodyne Resonance",
+			"difficultyType": 2,
+			"difficultyGroup": 105,
+			"type": 1,
+			"stageGroup": 91005,
+			"unlock": [
+				99108,
+				91004
+			],
+			"unlockHint": "完成战役“逆序矩阵”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91004
+			],
+			"chapterDes": "Under the onslaught of the torrent, elements with varying frequencies resist, drift, and converge, coalescing into a thundering dirge.",
+			"background": "Img_BattleIndexBg_Story5",
+			"mapBackground": "Img_ChapterBg_5",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:6000|12:1,1:100,8301:6000|12:2,1:150,2:6000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91006,
+			"name": "Harmonic Cycle",
+			"difficultyType": 2,
+			"difficultyGroup": 106,
+			"type": 1,
+			"stageGroup": 91006,
+			"unlock": [
+				99108,
+				91004
+			],
+			"unlockHint": "完成战役“异频共振”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91005
+			],
+			"chapterDes": "Smooth curves connect peaks and valleys. Before the start of the next cycle, a somewhat gentle slope appears.",
+			"background": "Img_BattleIndexBg_Story6",
+			"mapBackground": "Img_ChapterBg_6",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:9000|12:1,1:100,8301:9000|12:2,1:150,2:9000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91007,
+			"name": "Radiation Decay",
+			"difficultyType": 2,
+			"difficultyGroup": 107,
+			"type": 1,
+			"stageGroup": 91007,
+			"unlock": [
+				99108,
+				91006
+			],
+			"unlockHint": "完成战役“简谐周期”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91006
+			],
+			"chapterDes": "An unstable atomic core begins to decay; now is the time to choose.",
+			"background": "Img_BattleIndexBg_Story7",
+			"mapBackground": "Img_ChapterBg_7",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91008,
+			"name": "Aliasing Effect",
+			"difficultyType": 2,
+			"difficultyGroup": 108,
+			"type": 1,
+			"stageGroup": 91008,
+			"unlock": [
+				99108,
+				91007
+			],
+			"unlockHint": "完成战役“放射衰变”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91007
+			],
+			"chapterDes": "Separate, yet travelling together, resonating on different frequencies, the splintered images finally overlap once again.",
+			"background": "Img_BattleIndexBg_Story8",
+			"mapBackground": "Img_ChapterBg_8",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93001,
+			"name": "Amidst Wings of Gray",
+			"difficultyType": 2,
+			"difficultyGroup": 301,
+			"type": 3,
+			"stageGroup": 93001,
+			"relation": 201,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70001,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Daiyan",
+			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93006,
+			"name": "Sojourners - Part I",
+			"difficultyType": 2,
+			"difficultyGroup": 306,
+			"type": 3,
+			"stageGroup": 94009,
+			"relation": 206,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70006,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93007,
+			"name": "Sojourners - Part II",
+			"difficultyType": 2,
+			"difficultyGroup": 307,
+			"type": 3,
+			"stageGroup": 94010,
+			"relation": 207,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70007,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94001,
+			"name": "Amidst Wings of Gray",
+			"difficultyType": 2,
+			"difficultyGroup": 401,
+			"type": 4,
+			"stageGroup": 93001,
+			"relation": 201,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51023,
+			"unlock": [
+				93001
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Daiyan",
+			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94008,
+			"name": "Rhapsody Quartet",
+			"difficultyType": 2,
+			"difficultyGroup": 408,
+			"type": 4,
+			"stageGroup": 94008,
+			"relation": 205,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51007,
+			"unlock": [
+				93011
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Macqiato",
+			"mapBackground": "Img_Macqiato_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94009,
+			"name": "Sojourners - Part I",
+			"difficultyType": 2,
+			"difficultyGroup": 409,
+			"type": 4,
+			"stageGroup": 94009,
+			"relation": 206,
+			"notes": 1,
+			"tabName": "困难模式",
+			"planId": 51009,
+			"unlock": [
+				93002
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94010,
+			"name": "Sojourners - Part II",
+			"difficultyType": 2,
+			"difficultyGroup": 410,
+			"type": 4,
+			"stageGroup": 94010,
+			"relation": 207,
+			"notes": 1,
+			"tabName": "困难模式",
+			"planId": 51011,
+			"unlock": [
+				93003
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994001,
+			"name": "Amidst Wings of Gray",
+			"difficultyType": 3,
+			"difficultyGroup": 401,
+			"type": 4,
+			"stageGroup": 994001,
+			"tabName": "挑战模式",
+			"planId": 51024,
+			"chapterDes": "",
+			"background": "Img_Branch_Daiyan",
+			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994008,
+			"name": "Rhapsody Quartet",
+			"difficultyType": 3,
+			"difficultyGroup": 99408,
+			"type": 4,
+			"stageGroup": 994008,
+			"tabName": "挑战模式",
+			"planId": 51008,
+			"chapterDes": "",
+			"background": "Img_Branch_Macqiato",
+			"mapBackground": "Img_Macqiato_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994009,
+			"name": "Challenge Mode - Part I",
+			"difficultyType": 3,
+			"difficultyGroup": 99409,
+			"type": 4,
+			"stageGroup": 994009,
+			"tabName": "挑战模式·上篇",
+			"planId": 51010,
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994010,
+			"name": "Challenge Mode - Part II",
+			"difficultyType": 3,
+			"difficultyGroup": 99410,
+			"type": 4,
+			"stageGroup": 994010,
+			"tabName": "挑战模式·下篇",
+			"planId": 51012,
+			"chapterDes": "",
+			"background": "Img_Branch_Ullrid",
+			"mapBackground": "Img_Ullrid_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		}
+	]
+}

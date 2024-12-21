@@ -1,0 +1,400 @@
+{
+	"data": [
+		{
+			"id": 11,
+			"name": "Subscription Agreement",
+			"sidetagType": 1,
+			"includeTag": [
+				102
+			],
+			"npc": 101,
+			"globalTab": 101,
+			"sort": 5,
+			"unlock": 0
+		},
+		{
+			"id": 12,
+			"name": "Redemption",
+			"sidetagType": 1,
+			"includeTag": [
+				101
+			],
+			"npc": 101,
+			"globalTab": 102,
+			"sort": 8,
+			"unlock": 0
+		},
+		{
+			"id": 13,
+			"name": "Quality Selection",
+			"sidetagType": 1,
+			"includeTag": [
+				110,
+				113,
+				111,
+				104
+			],
+			"npc": 101,
+			"globalTab": 103,
+			"sort": 3,
+			"unlock": 0
+		},
+		{
+			"id": 14,
+			"name": "Trading Post",
+			"sidetagType": 1,
+			"includeTag": [
+				202,
+				203,
+				204
+			],
+			"npc": 101,
+			"globalTab": 104,
+			"sort": 6,
+			"unlock": 0
+		},
+		{
+			"id": 15,
+			"name": "Outfit Boutique",
+			"sidetagType": 1,
+			"includeTag": [
+				107
+			],
+			"globalTab": 105,
+			"sort": 2,
+			"npc": 0,
+			"unlock": 0
+		},
+		{
+			"id": 17,
+			"name": "Beginner Special Offer",
+			"sidetagType": 1,
+			"includeTag": [
+				110
+			],
+			"globalTab": 110,
+			"sort": 7,
+			"npc": 0,
+			"unlock": 0
+		},
+		{
+			"id": 18,
+			"name": "New Arrivals",
+			"sidetagType": 1,
+			"includeTag": [
+				112
+			],
+			"globalTab": 106,
+			"sort": 1,
+			"npc": 0,
+			"unlock": 0
+		},
+		{
+			"id": 19,
+			"name": "Custom Skin",
+			"sidetagType": 1,
+			"includeTag": [
+				114,
+				115,
+				116
+			],
+			"globalTab": 107,
+			"sort": 4,
+			"npc": 0,
+			"unlock": 0
+		},
+		{
+			"id": 21,
+			"name": "Exchange Spot",
+			"includeTag": [
+				201
+			],
+			"sidetagType": 0,
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 24,
+			"name": "Essential Equipment",
+			"includeTag": [
+				206,
+				207
+			],
+			"unlock": 16005,
+			"sidetagType": 0,
+			"npc": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 25,
+			"name": "Common Supplies",
+			"sidetagType": 10,
+			"includeTag": [
+				213,
+				220
+			],
+			"unlock": 14001,
+			"npc": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 27,
+			"name": "Power Hub",
+			"includeTag": [
+				217
+			],
+			"sidetagType": 0,
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 28,
+			"name": "Armory Zone",
+			"sidetagType": 10,
+			"includeTag": [
+				223
+			],
+			"unlock": 14003,
+			"npc": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 30,
+			"name": "Basic Goods",
+			"sidetagType": 11,
+			"includeTag": [
+				224
+			],
+			"unlock": 16008,
+			"npc": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 41,
+			"name": "Poludnitsa",
+			"sidetagType": 6,
+			"includeTag": [
+				401
+			],
+			"npc": 401,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 42,
+			"name": "Catlina",
+			"sidetagType": 6,
+			"includeTag": [
+				402
+			],
+			"npc": 402,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 43,
+			"name": "Amida",
+			"sidetagType": 6,
+			"includeTag": [
+				403
+			],
+			"npc": 403,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 44,
+			"name": "Baruch",
+			"sidetagType": 6,
+			"includeTag": [
+				404
+			],
+			"npc": 404,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 61,
+			"name": "Business Simulation Shop",
+			"sidetagType": 21,
+			"includeTag": [
+				601,
+				602,
+				603,
+				604
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 71,
+			"name": "Backstage Support",
+			"sidetagType": 22,
+			"includeTag": [
+				701
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 72,
+			"name": "Sweetheart Shop",
+			"sidetagType": 23,
+			"includeTag": [
+				702
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 73,
+			"name": "Trade Zone - Part I",
+			"sidetagType": 24,
+			"includeTag": [
+				703
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 74,
+			"name": "Trade Zone - Part II",
+			"sidetagType": 24,
+			"includeTag": [
+				704
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 75,
+			"name": "Material Booth",
+			"sidetagType": 25,
+			"includeTag": [
+				705
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 76,
+			"name": "Campsite Store",
+			"sidetagType": 26,
+			"includeTag": [
+				706
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 77,
+			"name": "Supply Station - Part I",
+			"sidetagType": 27,
+			"includeTag": [
+				707
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 78,
+			"name": "Supply Station - Part II",
+			"sidetagType": 27,
+			"includeTag": [
+				708
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 79,
+			"name": "Reputation Store",
+			"sidetagType": 13,
+			"includeTag": [
+				801
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 80,
+			"name": "Exclusive Items",
+			"sidetagType": 13,
+			"includeTag": [
+				802
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 81,
+			"name": "Dispatch Shop",
+			"sidetagType": 12,
+			"includeTag": [
+				901
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 82,
+			"name": "Bazaar",
+			"sidetagType": 29,
+			"includeTag": [
+				710
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 99,
+			"name": "Hidden Tabs",
+			"sidetagType": 4,
+			"includeTag": [
+				999
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		}
+	]
+}

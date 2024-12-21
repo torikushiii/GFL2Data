@@ -1,0 +1,5740 @@
+{
+	"data": [
+		{
+			"id": 10101,
+			"type": 1,
+			"title": "Mission Completed",
+			"description": "Achieve victory",
+			"args": [],
+			"argsFail": []
+		},
+		{
+			"id": 10201,
+			"type": 2,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Swift Victory",
+			"description": "Win within 1 turn"
+		},
+		{
+			"id": 10202,
+			"type": 2,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Swift Victory",
+			"description": "Win within 2 turns"
+		},
+		{
+			"id": 10203,
+			"type": 2,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Swift Victory",
+			"description": "Win within 3 turns"
+		},
+		{
+			"id": 10204,
+			"type": 2,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Swift Victory",
+			"description": "Win within 4 turns"
+		},
+		{
+			"id": 10205,
+			"type": 2,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Swift Victory",
+			"description": "Win within 5 turns"
+		},
+		{
+			"id": 10206,
+			"type": 2,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 6 turns"
+		},
+		{
+			"id": 10207,
+			"type": 2,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 7 turns"
+		},
+		{
+			"id": 10208,
+			"type": 2,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 8 turns"
+		},
+		{
+			"id": 10209,
+			"type": 2,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 9 turns"
+		},
+		{
+			"id": 10210,
+			"type": 2,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 10 turns"
+		},
+		{
+			"id": 10211,
+			"type": 2,
+			"args": [
+				"11"
+			],
+			"argsFail": [
+				"11"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 11 turns"
+		},
+		{
+			"id": 10212,
+			"type": 2,
+			"args": [
+				"12"
+			],
+			"argsFail": [
+				"12"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 12 turns"
+		},
+		{
+			"id": 10301,
+			"args": [
+				"1"
+			],
+			"title": "Charge into Battle",
+			"description": "Deployment includes only Vanguard-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10302,
+			"args": [
+				"2"
+			],
+			"title": "Area Suppression",
+			"description": "Deployment includes only Melee Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10303,
+			"args": [
+				"3"
+			],
+			"title": "Sniper Duel",
+			"description": "Deployment includes only Sentinel-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10304,
+			"args": [
+				"4"
+			],
+			"title": "Tactical Master",
+			"description": "Deployment includes only Support-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10401,
+			"args": [
+				"1"
+			],
+			"title": "Indispensable",
+			"description": "Deploy at least 1 Vanguard-class Doll",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10402,
+			"args": [
+				"2"
+			],
+			"title": "Indispensable",
+			"description": "Deploy at least 1 Melee Doll",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10403,
+			"args": [
+				"3"
+			],
+			"title": "Indispensable",
+			"description": "Deploy at least 1 Sentinel-class Doll",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10404,
+			"args": [
+				"4"
+			],
+			"title": "Indispensable",
+			"description": "Deploy at least 1 Support-class Doll",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10501,
+			"args": [
+				"1"
+			],
+			"title": "Weapon Control",
+			"description": "Do not deploy any Vanguard-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10502,
+			"args": [
+				"2"
+			],
+			"title": "Weapon Control",
+			"description": "Do not deploy any Melee Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10503,
+			"args": [
+				"3"
+			],
+			"title": "Weapon Control",
+			"description": "Do not deploy any Sentinel-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10504,
+			"args": [
+				"4"
+			],
+			"title": "Weapon Control",
+			"description": "Do not deploy any Support-class Dolls",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 10601,
+			"type": 17,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Deep Infiltration",
+			"description": "Deploy only 1 unit"
+		},
+		{
+			"id": 10602,
+			"type": 17,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Powerful Alliance",
+			"description": "Deploy no more than 2 units"
+		},
+		{
+			"id": 10603,
+			"type": 17,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Trinity",
+			"description": "Deploy no more than 3 units"
+		},
+		{
+			"id": 10604,
+			"type": 17,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Well-Rounded",
+			"description": "Deploy no more than 4 units"
+		},
+		{
+			"id": 10700,
+			"type": 3,
+			"args": [
+				"0"
+			],
+			"argsFail": [
+				"0"
+			],
+			"title": "Perfect Formation",
+			"description": "All deployed units survive"
+		},
+		{
+			"id": 10701,
+			"type": 3,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Damage Control",
+			"description": "Lose no more than 1 unit"
+		},
+		{
+			"id": 10702,
+			"type": 3,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Damage Control",
+			"description": "Lose no more than 2 units"
+		},
+		{
+			"id": 10703,
+			"type": 3,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Damage Control",
+			"description": "Lose no more than 3 units"
+		},
+		{
+			"id": 10704,
+			"type": 3,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Damage Control",
+			"description": "Lose no more than 4 units"
+		},
+		{
+			"id": 10810,
+			"type": 34,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point"
+		},
+		{
+			"id": 10811,
+			"type": 33,
+			"args": [
+				"1",
+				"1"
+			],
+			"argsFail": [
+				"1",
+				"1"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point in the first turn"
+		},
+		{
+			"id": 10812,
+			"type": 33,
+			"args": [
+				"1",
+				"2"
+			],
+			"argsFail": [
+				"1",
+				"2"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 2 turns"
+		},
+		{
+			"id": 10813,
+			"type": 33,
+			"args": [
+				"1",
+				"3"
+			],
+			"argsFail": [
+				"1",
+				"3"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 3 turns"
+		},
+		{
+			"id": 10814,
+			"type": 33,
+			"args": [
+				"1",
+				"4"
+			],
+			"argsFail": [
+				"1",
+				"4"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 4 turns"
+		},
+		{
+			"id": 10815,
+			"type": 33,
+			"args": [
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"1",
+				"5"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 5 turns"
+		},
+		{
+			"id": 10816,
+			"type": 33,
+			"args": [
+				"1",
+				"6"
+			],
+			"argsFail": [
+				"1",
+				"6"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 6 turns"
+		},
+		{
+			"id": 10817,
+			"type": 33,
+			"args": [
+				"1",
+				"7"
+			],
+			"argsFail": [
+				"1",
+				"7"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 7 turns"
+		},
+		{
+			"id": 10818,
+			"type": 33,
+			"args": [
+				"1",
+				"8"
+			],
+			"argsFail": [
+				"1",
+				"8"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 8 turns"
+		},
+		{
+			"id": 10819,
+			"type": 33,
+			"args": [
+				"1",
+				"9"
+			],
+			"argsFail": [
+				"1",
+				"9"
+			],
+			"title": "First Victory",
+			"description": "Capture at least 1 Control Point within the first 9 turns"
+		},
+		{
+			"id": 10820,
+			"type": 34,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points"
+		},
+		{
+			"id": 10821,
+			"type": 33,
+			"args": [
+				"2",
+				"1"
+			],
+			"argsFail": [
+				"2",
+				"1"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points in the first turn"
+		},
+		{
+			"id": 10822,
+			"type": 33,
+			"args": [
+				"2",
+				"2"
+			],
+			"argsFail": [
+				"2",
+				"2"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 2 turns"
+		},
+		{
+			"id": 10823,
+			"type": 33,
+			"args": [
+				"2",
+				"3"
+			],
+			"argsFail": [
+				"2",
+				"3"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 3 turns"
+		},
+		{
+			"id": 10824,
+			"type": 33,
+			"args": [
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"2",
+				"4"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 4 turns"
+		},
+		{
+			"id": 10825,
+			"type": 33,
+			"args": [
+				"2",
+				"5"
+			],
+			"argsFail": [
+				"2",
+				"5"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 5 turns"
+		},
+		{
+			"id": 10826,
+			"type": 33,
+			"args": [
+				"2",
+				"6"
+			],
+			"argsFail": [
+				"2",
+				"6"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 6 turns"
+		},
+		{
+			"id": 10827,
+			"type": 33,
+			"args": [
+				"2",
+				"7"
+			],
+			"argsFail": [
+				"2",
+				"7"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 7 turns"
+		},
+		{
+			"id": 10828,
+			"type": 33,
+			"args": [
+				"2",
+				"8"
+			],
+			"argsFail": [
+				"2",
+				"8"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 8 turns"
+		},
+		{
+			"id": 10829,
+			"type": 33,
+			"args": [
+				"2",
+				"9"
+			],
+			"argsFail": [
+				"2",
+				"9"
+			],
+			"title": "Capture and Conquer",
+			"description": "Capture at least 2 Control Points within the first 9 turns"
+		},
+		{
+			"id": 10830,
+			"type": 34,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points"
+		},
+		{
+			"id": 10831,
+			"type": 33,
+			"args": [
+				"3",
+				"1"
+			],
+			"argsFail": [
+				"3",
+				"1"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points in the first turn"
+		},
+		{
+			"id": 10832,
+			"type": 33,
+			"args": [
+				"3",
+				"2"
+			],
+			"argsFail": [
+				"3",
+				"2"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 2 turns"
+		},
+		{
+			"id": 10833,
+			"type": 33,
+			"args": [
+				"3",
+				"3"
+			],
+			"argsFail": [
+				"3",
+				"3"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 3 turns"
+		},
+		{
+			"id": 10834,
+			"type": 33,
+			"args": [
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"3",
+				"4"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 4 turns"
+		},
+		{
+			"id": 10835,
+			"type": 33,
+			"args": [
+				"3",
+				"5"
+			],
+			"argsFail": [
+				"3",
+				"5"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 5 turns"
+		},
+		{
+			"id": 10836,
+			"type": 33,
+			"args": [
+				"3",
+				"6"
+			],
+			"argsFail": [
+				"3",
+				"6"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 6 turns"
+		},
+		{
+			"id": 10837,
+			"type": 33,
+			"args": [
+				"3",
+				"7"
+			],
+			"argsFail": [
+				"3",
+				"7"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 7 turns"
+		},
+		{
+			"id": 10838,
+			"type": 33,
+			"args": [
+				"3",
+				"8"
+			],
+			"argsFail": [
+				"3",
+				"8"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 8 turns"
+		},
+		{
+			"id": 10839,
+			"type": 33,
+			"args": [
+				"3",
+				"9"
+			],
+			"argsFail": [
+				"3",
+				"9"
+			],
+			"title": "Tactical Expansion",
+			"description": "Capture at least 3 Control Points within the first 9 turns"
+		},
+		{
+			"id": 10840,
+			"type": 34,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points"
+		},
+		{
+			"id": 10841,
+			"type": 33,
+			"args": [
+				"4",
+				"1"
+			],
+			"argsFail": [
+				"4",
+				"1"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points in the first turn"
+		},
+		{
+			"id": 10842,
+			"type": 33,
+			"args": [
+				"4",
+				"2"
+			],
+			"argsFail": [
+				"4",
+				"2"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 2 turns"
+		},
+		{
+			"id": 10843,
+			"type": 33,
+			"args": [
+				"4",
+				"3"
+			],
+			"argsFail": [
+				"4",
+				"3"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 3 turns"
+		},
+		{
+			"id": 10844,
+			"type": 33,
+			"args": [
+				"4",
+				"4"
+			],
+			"argsFail": [
+				"4",
+				"4"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 4 turns"
+		},
+		{
+			"id": 10845,
+			"type": 33,
+			"args": [
+				"4",
+				"5"
+			],
+			"argsFail": [
+				"4",
+				"5"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 5 turns"
+		},
+		{
+			"id": 10846,
+			"type": 33,
+			"args": [
+				"4",
+				"6"
+			],
+			"argsFail": [
+				"4",
+				"6"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 6 turns"
+		},
+		{
+			"id": 10847,
+			"type": 33,
+			"args": [
+				"4",
+				"7"
+			],
+			"argsFail": [
+				"4",
+				"7"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 7 turns"
+		},
+		{
+			"id": 10848,
+			"type": 33,
+			"args": [
+				"4",
+				"8"
+			],
+			"argsFail": [
+				"4",
+				"8"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 8 turns"
+		},
+		{
+			"id": 10849,
+			"type": 33,
+			"args": [
+				"4",
+				"9"
+			],
+			"argsFail": [
+				"4",
+				"9"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points within the first 9 turns"
+		},
+		{
+			"id": 10850,
+			"type": 33,
+			"args": [
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"2",
+				"4"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture 2 enemy outposts within the first 4 turns"
+		},
+		{
+			"id": 10851,
+			"type": 33,
+			"args": [
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"1",
+				"5"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture the enemy outpost within the first 5 turns"
+		},
+		{
+			"id": 10910,
+			"type": 6,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit"
+		},
+		{
+			"id": 10911,
+			"type": 7,
+			"args": [
+				"1",
+				"1"
+			],
+			"argsFail": [
+				"1",
+				"1"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit in the first turn"
+		},
+		{
+			"id": 10912,
+			"type": 7,
+			"args": [
+				"1",
+				"2"
+			],
+			"argsFail": [
+				"1",
+				"2"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 2 turns"
+		},
+		{
+			"id": 10913,
+			"type": 7,
+			"args": [
+				"1",
+				"3"
+			],
+			"argsFail": [
+				"1",
+				"3"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 3 turns"
+		},
+		{
+			"id": 10914,
+			"type": 7,
+			"args": [
+				"1",
+				"4"
+			],
+			"argsFail": [
+				"1",
+				"4"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 4 turns"
+		},
+		{
+			"id": 10915,
+			"type": 7,
+			"args": [
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"1",
+				"5"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 5 turns"
+		},
+		{
+			"id": 10916,
+			"type": 7,
+			"args": [
+				"1",
+				"6"
+			],
+			"argsFail": [
+				"1",
+				"6"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 6 turns"
+		},
+		{
+			"id": 10917,
+			"type": 7,
+			"args": [
+				"1",
+				"7"
+			],
+			"argsFail": [
+				"1",
+				"7"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 7 turns"
+		},
+		{
+			"id": 10918,
+			"type": 7,
+			"args": [
+				"1",
+				"8"
+			],
+			"argsFail": [
+				"1",
+				"8"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 8 turns"
+		},
+		{
+			"id": 10919,
+			"type": 7,
+			"args": [
+				"1",
+				"9"
+			],
+			"argsFail": [
+				"1",
+				"9"
+			],
+			"title": "First Blood",
+			"description": "Eliminate at least 1 enemy unit within the first 9 turns"
+		},
+		{
+			"id": 10920,
+			"type": 6,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units"
+		},
+		{
+			"id": 10921,
+			"type": 7,
+			"args": [
+				"2",
+				"1"
+			],
+			"argsFail": [
+				"2",
+				"1"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units in the first turn"
+		},
+		{
+			"id": 10922,
+			"type": 7,
+			"args": [
+				"2",
+				"2"
+			],
+			"argsFail": [
+				"2",
+				"2"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10923,
+			"type": 7,
+			"args": [
+				"2",
+				"3"
+			],
+			"argsFail": [
+				"2",
+				"3"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10924,
+			"type": 7,
+			"args": [
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"2",
+				"4"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10925,
+			"type": 7,
+			"args": [
+				"2",
+				"5"
+			],
+			"argsFail": [
+				"2",
+				"5"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10926,
+			"type": 7,
+			"args": [
+				"2",
+				"6"
+			],
+			"argsFail": [
+				"2",
+				"6"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10927,
+			"type": 7,
+			"args": [
+				"2",
+				"7"
+			],
+			"argsFail": [
+				"2",
+				"7"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10928,
+			"type": 7,
+			"args": [
+				"2",
+				"8"
+			],
+			"argsFail": [
+				"2",
+				"8"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10929,
+			"type": 7,
+			"args": [
+				"2",
+				"9"
+			],
+			"argsFail": [
+				"2",
+				"9"
+			],
+			"title": "Renewed Resolve",
+			"description": "Eliminate at least 2 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10930,
+			"type": 6,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units"
+		},
+		{
+			"id": 10931,
+			"type": 7,
+			"args": [
+				"3",
+				"1"
+			],
+			"argsFail": [
+				"3",
+				"1"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units in the first turn"
+		},
+		{
+			"id": 10932,
+			"type": 7,
+			"args": [
+				"3",
+				"2"
+			],
+			"argsFail": [
+				"3",
+				"2"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10933,
+			"type": 7,
+			"args": [
+				"3",
+				"3"
+			],
+			"argsFail": [
+				"3",
+				"3"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10934,
+			"type": 7,
+			"args": [
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"3",
+				"4"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10935,
+			"type": 7,
+			"args": [
+				"3",
+				"5"
+			],
+			"argsFail": [
+				"3",
+				"5"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10936,
+			"type": 7,
+			"args": [
+				"3",
+				"6"
+			],
+			"argsFail": [
+				"3",
+				"6"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10937,
+			"type": 7,
+			"args": [
+				"3",
+				"7"
+			],
+			"argsFail": [
+				"3",
+				"7"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10938,
+			"type": 7,
+			"args": [
+				"3",
+				"8"
+			],
+			"argsFail": [
+				"3",
+				"8"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10939,
+			"type": 7,
+			"args": [
+				"3",
+				"9"
+			],
+			"argsFail": [
+				"3",
+				"9"
+			],
+			"title": "Decisive Action",
+			"description": "Eliminate at least 3 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10940,
+			"type": 6,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units"
+		},
+		{
+			"id": 10941,
+			"type": 7,
+			"args": [
+				"4",
+				"1"
+			],
+			"argsFail": [
+				"4",
+				"1"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units in the first turn"
+		},
+		{
+			"id": 10942,
+			"type": 7,
+			"args": [
+				"4",
+				"2"
+			],
+			"argsFail": [
+				"4",
+				"2"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10943,
+			"type": 7,
+			"args": [
+				"4",
+				"3"
+			],
+			"argsFail": [
+				"4",
+				"3"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10944,
+			"type": 7,
+			"args": [
+				"4",
+				"4"
+			],
+			"argsFail": [
+				"4",
+				"4"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10945,
+			"type": 7,
+			"args": [
+				"4",
+				"5"
+			],
+			"argsFail": [
+				"4",
+				"5"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10946,
+			"type": 7,
+			"args": [
+				"4",
+				"6"
+			],
+			"argsFail": [
+				"4",
+				"6"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10947,
+			"type": 7,
+			"args": [
+				"4",
+				"7"
+			],
+			"argsFail": [
+				"4",
+				"7"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10948,
+			"type": 7,
+			"args": [
+				"4",
+				"8"
+			],
+			"argsFail": [
+				"4",
+				"8"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10949,
+			"type": 7,
+			"args": [
+				"4",
+				"9"
+			],
+			"argsFail": [
+				"4",
+				"9"
+			],
+			"title": "Unstoppable Advance",
+			"description": "Eliminate at least 4 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10950,
+			"type": 6,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units"
+		},
+		{
+			"id": 10951,
+			"type": 7,
+			"args": [
+				"5",
+				"1"
+			],
+			"argsFail": [
+				"5",
+				"1"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units in the first turn"
+		},
+		{
+			"id": 10952,
+			"type": 7,
+			"args": [
+				"5",
+				"2"
+			],
+			"argsFail": [
+				"5",
+				"2"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10953,
+			"type": 7,
+			"args": [
+				"5",
+				"3"
+			],
+			"argsFail": [
+				"5",
+				"3"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10954,
+			"type": 7,
+			"args": [
+				"5",
+				"4"
+			],
+			"argsFail": [
+				"5",
+				"4"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10955,
+			"type": 7,
+			"args": [
+				"5",
+				"5"
+			],
+			"argsFail": [
+				"5",
+				"5"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10956,
+			"type": 7,
+			"args": [
+				"5",
+				"6"
+			],
+			"argsFail": [
+				"5",
+				"6"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10957,
+			"type": 7,
+			"args": [
+				"5",
+				"7"
+			],
+			"argsFail": [
+				"5",
+				"7"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10958,
+			"type": 7,
+			"args": [
+				"5",
+				"8"
+			],
+			"argsFail": [
+				"5",
+				"8"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10959,
+			"type": 7,
+			"args": [
+				"5",
+				"9"
+			],
+			"argsFail": [
+				"5",
+				"9"
+			],
+			"title": "Turning the Tide",
+			"description": "Eliminate at least 5 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10960,
+			"type": 6,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units"
+		},
+		{
+			"id": 10961,
+			"type": 7,
+			"args": [
+				"6",
+				"1"
+			],
+			"argsFail": [
+				"6",
+				"1"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units in the first turn"
+		},
+		{
+			"id": 10962,
+			"type": 7,
+			"args": [
+				"6",
+				"2"
+			],
+			"argsFail": [
+				"6",
+				"2"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10963,
+			"type": 7,
+			"args": [
+				"6",
+				"3"
+			],
+			"argsFail": [
+				"6",
+				"3"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10964,
+			"type": 7,
+			"args": [
+				"6",
+				"4"
+			],
+			"argsFail": [
+				"6",
+				"4"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10965,
+			"type": 7,
+			"args": [
+				"6",
+				"5"
+			],
+			"argsFail": [
+				"6",
+				"5"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10966,
+			"type": 7,
+			"args": [
+				"6",
+				"6"
+			],
+			"argsFail": [
+				"6",
+				"6"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10967,
+			"type": 7,
+			"args": [
+				"6",
+				"7"
+			],
+			"argsFail": [
+				"6",
+				"7"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10968,
+			"type": 7,
+			"args": [
+				"6",
+				"8"
+			],
+			"argsFail": [
+				"6",
+				"8"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10969,
+			"type": 7,
+			"args": [
+				"6",
+				"9"
+			],
+			"argsFail": [
+				"6",
+				"9"
+			],
+			"title": "Unstoppable Force",
+			"description": "Eliminate at least 6 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10970,
+			"type": 6,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units"
+		},
+		{
+			"id": 10971,
+			"type": 7,
+			"args": [
+				"7",
+				"1"
+			],
+			"argsFail": [
+				"7",
+				"1"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units in the first turn"
+		},
+		{
+			"id": 10972,
+			"type": 7,
+			"args": [
+				"7",
+				"2"
+			],
+			"argsFail": [
+				"7",
+				"2"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10973,
+			"type": 7,
+			"args": [
+				"7",
+				"3"
+			],
+			"argsFail": [
+				"7",
+				"3"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10974,
+			"type": 7,
+			"args": [
+				"7",
+				"4"
+			],
+			"argsFail": [
+				"7",
+				"4"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10975,
+			"type": 7,
+			"args": [
+				"7",
+				"5"
+			],
+			"argsFail": [
+				"7",
+				"5"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10976,
+			"type": 7,
+			"args": [
+				"7",
+				"6"
+			],
+			"argsFail": [
+				"7",
+				"6"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10977,
+			"type": 7,
+			"args": [
+				"7",
+				"7"
+			],
+			"argsFail": [
+				"7",
+				"7"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10978,
+			"type": 7,
+			"args": [
+				"7",
+				"8"
+			],
+			"argsFail": [
+				"7",
+				"8"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10979,
+			"type": 7,
+			"args": [
+				"7",
+				"9"
+			],
+			"argsFail": [
+				"7",
+				"9"
+			],
+			"title": "War Machine",
+			"description": "Eliminate at least 7 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10980,
+			"type": 6,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units"
+		},
+		{
+			"id": 10981,
+			"type": 7,
+			"args": [
+				"8",
+				"1"
+			],
+			"argsFail": [
+				"8",
+				"1"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units in the first turn"
+		},
+		{
+			"id": 10982,
+			"type": 7,
+			"args": [
+				"8",
+				"2"
+			],
+			"argsFail": [
+				"8",
+				"2"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10983,
+			"type": 7,
+			"args": [
+				"8",
+				"3"
+			],
+			"argsFail": [
+				"8",
+				"3"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10984,
+			"type": 7,
+			"args": [
+				"8",
+				"4"
+			],
+			"argsFail": [
+				"8",
+				"4"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10985,
+			"type": 7,
+			"args": [
+				"8",
+				"5"
+			],
+			"argsFail": [
+				"8",
+				"5"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10986,
+			"type": 7,
+			"args": [
+				"8",
+				"6"
+			],
+			"argsFail": [
+				"8",
+				"6"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10987,
+			"type": 7,
+			"args": [
+				"8",
+				"7"
+			],
+			"argsFail": [
+				"8",
+				"7"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10988,
+			"type": 7,
+			"args": [
+				"8",
+				"8"
+			],
+			"argsFail": [
+				"8",
+				"8"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10989,
+			"type": 7,
+			"args": [
+				"8",
+				"9"
+			],
+			"argsFail": [
+				"8",
+				"9"
+			],
+			"title": "Sensory Paralysis",
+			"description": "Eliminate at least 8 enemy units within the first 9 turns"
+		},
+		{
+			"id": 10990,
+			"type": 6,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units"
+		},
+		{
+			"id": 10991,
+			"type": 7,
+			"args": [
+				"9",
+				"1"
+			],
+			"argsFail": [
+				"9",
+				"1"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units in the first turn"
+		},
+		{
+			"id": 10992,
+			"type": 7,
+			"args": [
+				"9",
+				"2"
+			],
+			"argsFail": [
+				"9",
+				"2"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 2 turns"
+		},
+		{
+			"id": 10993,
+			"type": 7,
+			"args": [
+				"9",
+				"3"
+			],
+			"argsFail": [
+				"9",
+				"3"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 3 turns"
+		},
+		{
+			"id": 10994,
+			"type": 7,
+			"args": [
+				"9",
+				"4"
+			],
+			"argsFail": [
+				"9",
+				"4"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 4 turns"
+		},
+		{
+			"id": 10995,
+			"type": 7,
+			"args": [
+				"9",
+				"5"
+			],
+			"argsFail": [
+				"9",
+				"5"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 5 turns"
+		},
+		{
+			"id": 10996,
+			"type": 7,
+			"args": [
+				"9",
+				"6"
+			],
+			"argsFail": [
+				"9",
+				"6"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 6 turns"
+		},
+		{
+			"id": 10997,
+			"type": 7,
+			"args": [
+				"9",
+				"7"
+			],
+			"argsFail": [
+				"9",
+				"7"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 7 turns"
+		},
+		{
+			"id": 10998,
+			"type": 7,
+			"args": [
+				"9",
+				"8"
+			],
+			"argsFail": [
+				"9",
+				"8"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 8 turns"
+		},
+		{
+			"id": 10999,
+			"type": 7,
+			"args": [
+				"9",
+				"9"
+			],
+			"argsFail": [
+				"9",
+				"9"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 9 enemy units within the first 9 turns"
+		},
+		{
+			"id": 11000,
+			"type": 6,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 10 enemy units"
+		},
+		{
+			"id": 11001,
+			"type": 8,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Sureshot",
+			"description": "Eliminate at least 1 enemy unit within 1 turn"
+		},
+		{
+			"id": 11002,
+			"type": 8,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Sureshot",
+			"description": "Eliminate at least 2 enemies within 1 turn"
+		},
+		{
+			"id": 11003,
+			"type": 8,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Sureshot",
+			"description": "Eliminate at least 3 enemy units within 1 turn"
+		},
+		{
+			"id": 11004,
+			"type": 8,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Sureshot",
+			"description": "Eliminate at least 4 enemy units within 1 turn"
+		},
+		{
+			"id": 11005,
+			"type": 8,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Sureshot",
+			"description": "Eliminate at least 5 enemy units within 1 turn"
+		},
+		{
+			"id": 11006,
+			"type": 8,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Overwhelming Force",
+			"description": "Eliminate at least 6 enemy units within 1 turn"
+		},
+		{
+			"id": 11007,
+			"type": 8,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Overwhelming Force",
+			"description": "Eliminate at least 7 enemy units within 1 turn"
+		},
+		{
+			"id": 11008,
+			"type": 8,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Overwhelming Force",
+			"description": "Eliminate at least 8 enemy units within 1 turn"
+		},
+		{
+			"id": 11009,
+			"type": 8,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "Overwhelming Force",
+			"description": "Eliminate at least 9 enemy units within 1 turn"
+		},
+		{
+			"id": 11010,
+			"type": 8,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Overwhelming Force",
+			"description": "Eliminate at least 10 enemy units within 1 turn"
+		},
+		{
+			"id": 11101,
+			"type": 9,
+			"args": [
+				"6151",
+				"7"
+			],
+			"argsFail": [
+				"6151",
+				"7"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Tosk within 7 turns"
+		},
+		{
+			"id": 11102,
+			"type": 9,
+			"args": [
+				"6259",
+				"6"
+			],
+			"argsFail": [
+				"6259",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Nemertea within 6 turns"
+		},
+		{
+			"id": 11103,
+			"type": 9,
+			"args": [
+				"6141",
+				"4"
+			],
+			"argsFail": [
+				"6141",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Angriper within 4 turns"
+		},
+		{
+			"id": 11104,
+			"type": 9,
+			"args": [
+				"6141",
+				"5"
+			],
+			"argsFail": [
+				"6141",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Angriper within 5 turns"
+		},
+		{
+			"id": 11105,
+			"type": 9,
+			"args": [
+				"6143",
+				"6"
+			],
+			"argsFail": [
+				"6143",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Giordre within 6 turns"
+		},
+		{
+			"id": 11106,
+			"type": 9,
+			"args": [
+				"6143",
+				"4"
+			],
+			"argsFail": [
+				"6143",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Giordre within 4 turns"
+		},
+		{
+			"id": 11107,
+			"type": 9,
+			"args": [
+				"6143",
+				"5"
+			],
+			"argsFail": [
+				"6143",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Giordre within 5 turns"
+		},
+		{
+			"id": 11108,
+			"type": 9,
+			"args": [
+				"6143",
+				"4"
+			],
+			"argsFail": [
+				"6143",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Giordre within 4 turns"
+		},
+		{
+			"id": 11109,
+			"type": 9,
+			"args": [
+				"6344",
+				"3"
+			],
+			"argsFail": [
+				"6344",
+				"3"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Aegis SWAP Bulwark within 3 turns"
+		},
+		{
+			"id": 11110,
+			"type": 9,
+			"args": [
+				"6340",
+				"4"
+			],
+			"argsFail": [
+				"6340",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Aegis SWAP Artillery within 4 turns"
+		},
+		{
+			"id": 11111,
+			"type": 9,
+			"args": [
+				"6211",
+				"3"
+			],
+			"argsFail": [
+				"6211",
+				"3"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Thoad - Corrosion within 3 turns"
+		},
+		{
+			"id": 11112,
+			"type": 9,
+			"args": [
+				"6344",
+				"4"
+			],
+			"argsFail": [
+				"6344",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Aegis SWAP Bulwark within 4 turns"
+		},
+		{
+			"id": 11113,
+			"type": 9,
+			"args": [
+				"6342",
+				"4"
+			],
+			"argsFail": [
+				"6342",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Scout SWAP within 4 turns"
+		},
+		{
+			"id": 11114,
+			"type": 9,
+			"args": [
+				"6242",
+				"3"
+			],
+			"argsFail": [
+				"6242",
+				"3"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Sneaker Crysmole within 3 turns"
+		},
+		{
+			"id": 11115,
+			"type": 9,
+			"args": [
+				"6151",
+				"7"
+			],
+			"argsFail": [
+				"6151",
+				"7"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Tosk within 7 turns"
+		},
+		{
+			"id": 11116,
+			"type": 9,
+			"args": [
+				"6141",
+				"5"
+			],
+			"argsFail": [
+				"6141",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Angriper within 5 turns"
+		},
+		{
+			"id": 11117,
+			"type": 9,
+			"args": [
+				"6144",
+				"4"
+			],
+			"argsFail": [
+				"6144",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Overfaller within 4 turns"
+		},
+		{
+			"id": 11118,
+			"type": 9,
+			"args": [
+				"6144",
+				"6"
+			],
+			"argsFail": [
+				"6144",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Overfaller within 6 turns"
+		},
+		{
+			"id": 11119,
+			"type": 9,
+			"args": [
+				"6242",
+				"6"
+			],
+			"argsFail": [
+				"6242",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Sneaker Crismole within 6 turns"
+		},
+		{
+			"id": 11120,
+			"type": 9,
+			"args": [
+				"6442",
+				"6"
+			],
+			"argsFail": [
+				"6442",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Custos within 6 turns"
+		},
+		{
+			"id": 11121,
+			"type": 9,
+			"args": [
+				"6442",
+				"4"
+			],
+			"argsFail": [
+				"6442",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Custos within 4 turns"
+		},
+		{
+			"id": 11122,
+			"type": 9,
+			"args": [
+				"6241",
+				"3"
+			],
+			"argsFail": [
+				"6241",
+				"3"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Mishap Thorn within 3 turns"
+		},
+		{
+			"id": 11123,
+			"type": 9,
+			"args": [
+				"6143",
+				"4"
+			],
+			"argsFail": [
+				"6143",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Giordre within 4 turns"
+		},
+		{
+			"id": 11124,
+			"type": 9,
+			"args": [
+				"6242",
+				"6"
+			],
+			"argsFail": [
+				"6242",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Sneaker Crismole within 6 turns"
+		},
+		{
+			"id": 11125,
+			"type": 9,
+			"args": [
+				"6144",
+				"5"
+			],
+			"argsFail": [
+				"6144",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Overfaller within 5 turns"
+		},
+		{
+			"id": 11126,
+			"type": 9,
+			"args": [
+				"6442",
+				"6"
+			],
+			"argsFail": [
+				"6442",
+				"6"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Custos within 6 turns"
+		},
+		{
+			"id": 11127,
+			"type": 9,
+			"args": [
+				"63132",
+				"5"
+			],
+			"argsFail": [
+				"63132",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Super Dinergate II within 5 turns"
+		},
+		{
+			"id": 11128,
+			"type": 9,
+			"args": [
+				"6243",
+				"4"
+			],
+			"argsFail": [
+				"6243",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Atrocity Thorn within 4 turns"
+		},
+		{
+			"id": 11129,
+			"type": 9,
+			"args": [
+				"6340",
+				"5"
+			],
+			"argsFail": [
+				"6340",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate the Aegis SWAP Artillery within 5 turns"
+		},
+		{
+			"id": 11130,
+			"type": 9,
+			"args": [
+				"6340",
+				"7"
+			],
+			"argsFail": [
+				"6340",
+				"7"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Aegis SWAP Artillery within 7 turns"
+		},
+		{
+			"id": 11131,
+			"type": 9,
+			"args": [
+				"6443",
+				"5"
+			],
+			"argsFail": [
+				"6443",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Custos 036 - Elite within 5 turns"
+		},
+		{
+			"id": 11132,
+			"type": 9,
+			"args": [
+				"6247",
+				"5"
+			],
+			"argsFail": [
+				"6247",
+				"5"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Scourge Moth - Elite within 5 turns"
+		},
+		{
+			"id": 11133,
+			"type": 9,
+			"args": [
+				"63211",
+				"4"
+			],
+			"argsFail": [
+				"63211",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Eliminate Aegis Deadeye - ELE Type I within 4 turns"
+		},
+		{
+			"id": 11134,
+			"type": 9,
+			"args": [
+				"2032",
+				"4"
+			],
+			"argsFail": [
+				"2032",
+				"4"
+			],
+			"title": "Targeted Attack Strike",
+			"description": "Defeat Nemesis within 4 turns"
+		},
+		{
+			"id": 11201,
+			"type": 10,
+			"args": [
+				"3000",
+				"1"
+			],
+			"argsFail": [
+				"3000",
+				"1"
+			],
+			"title": "Damage Burst",
+			"description": "Inflict at least 3,000 damage within the first turn"
+		},
+		{
+			"id": 11202,
+			"type": 11,
+			"args": [
+				"3000",
+				"6169",
+				"1"
+			],
+			"argsFail": [
+				"3000",
+				"6169",
+				"1"
+			],
+			"title": "Damage Burst",
+			"description": "Deal at least 3,000 damage to Ravn within the first turn"
+		},
+		{
+			"id": 11203,
+			"type": 12,
+			"args": [
+				"1500",
+				"6259"
+			],
+			"argsFail": [
+				"1500",
+				"6259"
+			],
+			"title": "Damage Burst",
+			"description": "Deal over 1,500 damage to Nemertea"
+		},
+		{
+			"id": 11204,
+			"type": 12,
+			"args": [
+				"1000",
+				"6853"
+			],
+			"argsFail": [
+				"1000",
+				"6853"
+			],
+			"title": "Damage Burst",
+			"description": "Deal over 1,000 damage to Sextans"
+		},
+		{
+			"id": 11301,
+			"type": 14,
+			"args": [
+				"100",
+				"1"
+			],
+			"argsFail": [
+				"100",
+				"1"
+			],
+			"title": "Emergency Rescue",
+			"description": "Recover at least 100 HP within the first turn"
+		},
+		{
+			"id": 11401,
+			"type": 16,
+			"args": [
+				"1010101",
+				"3"
+			],
+			"argsFail": [
+				"1010101",
+				"3"
+			],
+			"title": "Key Commands",
+			"description": "Trigger event 1010101 within 3 turns"
+		},
+		{
+			"id": 11402,
+			"type": 16,
+			"args": [
+				"10862001",
+				"4"
+			],
+			"argsFail": [
+				"10862001",
+				"4"
+			],
+			"title": "Key Commands",
+			"description": "Investigate the target within 4 turns"
+		},
+		{
+			"id": 11501,
+			"type": 18,
+			"args": [
+				"800",
+				"3"
+			],
+			"argsFail": [
+				"800",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 800 damage within 3 turns"
+		},
+		{
+			"id": 11502,
+			"type": 18,
+			"args": [
+				"50",
+				"3"
+			],
+			"argsFail": [
+				"50",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 50 damage within 3 turns"
+		},
+		{
+			"id": 11503,
+			"type": 18,
+			"args": [
+				"100",
+				"3"
+			],
+			"argsFail": [
+				"100",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 100 damage within 3 turns"
+		},
+		{
+			"id": 11504,
+			"type": 18,
+			"args": [
+				"300",
+				"3"
+			],
+			"argsFail": [
+				"300",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 300 damage within 3 turns"
+		},
+		{
+			"id": 11505,
+			"type": 18,
+			"args": [
+				"500",
+				"3"
+			],
+			"argsFail": [
+				"500",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 500 damage within 3 turns"
+		},
+		{
+			"id": 11506,
+			"type": 18,
+			"args": [
+				"350",
+				"6"
+			],
+			"argsFail": [
+				"350",
+				"6"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 350 damage within 6 turns"
+		},
+		{
+			"id": 11507,
+			"type": 18,
+			"args": [
+				"200",
+				"6"
+			],
+			"argsFail": [
+				"200",
+				"6"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no more than 200 damage within 6 turns"
+		},
+		{
+			"id": 11508,
+			"type": 18,
+			"args": [
+				"1",
+				"6"
+			],
+			"argsFail": [
+				"1",
+				"6"
+			],
+			"title": "Tactical Evasion",
+			"description": "Receive no damage within 6 turns"
+		},
+		{
+			"id": 11601,
+			"type": 4,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Time-Limited Weapon",
+			"description": "Deployment includes Krolik"
+		},
+		{
+			"id": 11602,
+			"type": 4,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Tactical Support",
+			"description": "Deployment includes Colphne"
+		},
+		{
+			"id": 11603,
+			"type": 4,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Leave It to Me",
+			"description": "Deployment includes Groza"
+		},
+		{
+			"id": 11604,
+			"type": 4,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Stellar Guidance",
+			"description": "Deployment includes Nemesis"
+		},
+		{
+			"id": 11605,
+			"type": 4,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Battlefield Idol",
+			"description": "Deployment includes Vepley"
+		},
+		{
+			"id": 11606,
+			"type": 4,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Covert Assistance",
+			"description": "Deployment includes Lenna"
+		},
+		{
+			"id": 11607,
+			"type": 4,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Observation Period",
+			"description": "Deployment includes Peritya"
+		},
+		{
+			"id": 11701,
+			"type": 5,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Krolik"
+		},
+		{
+			"id": 11702,
+			"type": 5,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Colphne"
+		},
+		{
+			"id": 11703,
+			"type": 5,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Groza"
+		},
+		{
+			"id": 11704,
+			"type": 5,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Nemesis"
+		},
+		{
+			"id": 11705,
+			"type": 5,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Vepley"
+		},
+		{
+			"id": 11706,
+			"type": 5,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Lenna"
+		},
+		{
+			"id": 11707,
+			"type": 5,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Secret Weapon",
+			"description": "Cannot deploy Peritya"
+		},
+		{
+			"id": 11801,
+			"args": [
+				"1"
+			],
+			"title": "Deployment Orders",
+			"description": "Deployment includes units with physical attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11802,
+			"args": [
+				"2"
+			],
+			"title": "Deployment Orders",
+			"description": "Deployment includes units with thermal attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11803,
+			"args": [
+				"3"
+			],
+			"title": "Deployment Orders",
+			"description": "Deployment includes units with electromagnetic attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11804,
+			"args": [
+				"4"
+			],
+			"title": "Deployment Orders",
+			"description": "Deployment includes units with inverse attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11805,
+			"args": [
+				"5"
+			],
+			"title": "Deployment Orders",
+			"description": "Deployment includes units with reorganization attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11901,
+			"args": [
+				"1"
+			],
+			"title": "Deployment Ban",
+			"description": "Cannot deploy units with physical attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11902,
+			"args": [
+				"2"
+			],
+			"title": "Deployment Ban",
+			"description": "Cannot deploy units with thermal attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11903,
+			"args": [
+				"3"
+			],
+			"title": "Deployment Ban",
+			"description": "Cannot deploy units with electromagnetic attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11904,
+			"args": [
+				"4"
+			],
+			"title": "Deployment Ban",
+			"description": "Cannot deploy units with with inverse attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 11905,
+			"args": [
+				"5"
+			],
+			"title": "Deployment Ban",
+			"description": "Cannot deploy units with reorganizational attributes",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 12001,
+			"type": 20,
+			"args": [
+				"6116",
+				"3"
+			],
+			"argsFail": [
+				"6116",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 3 Giordres"
+		},
+		{
+			"id": 12002,
+			"type": 20,
+			"args": [
+				"6315",
+				"2"
+			],
+			"argsFail": [
+				"6315",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Scouts"
+		},
+		{
+			"id": 12003,
+			"type": 20,
+			"args": [
+				"6111",
+				"3"
+			],
+			"argsFail": [
+				"6111",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 3 Felaskju"
+		},
+		{
+			"id": 12004,
+			"type": 20,
+			"args": [
+				"6211",
+				"2"
+			],
+			"argsFail": [
+				"6211",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Thoads"
+		},
+		{
+			"id": 12005,
+			"type": 20,
+			"args": [
+				"6112",
+				"2"
+			],
+			"argsFail": [
+				"6112",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Felastes"
+		},
+		{
+			"id": 12006,
+			"type": 20,
+			"args": [
+				"6211",
+				"4"
+			],
+			"argsFail": [
+				"6211",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 4 Thoads"
+		},
+		{
+			"id": 12007,
+			"type": 20,
+			"args": [
+				"7002",
+				"3"
+			],
+			"argsFail": [
+				"7002",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 3 enemy Heavy Machine Gun Modules"
+		},
+		{
+			"id": 12008,
+			"type": 20,
+			"args": [
+				"6113",
+				"3"
+			],
+			"argsFail": [
+				"6113",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 3 Svejks"
+		},
+		{
+			"id": 12009,
+			"type": 20,
+			"args": [
+				"7002",
+				"1"
+			],
+			"argsFail": [
+				"7002",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 enemy Heavy Machine Gun Module"
+		},
+		{
+			"id": 12010,
+			"type": 20,
+			"args": [
+				"6313",
+				"5"
+			],
+			"argsFail": [
+				"6313",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 5 Super Dinergates"
+		},
+		{
+			"id": 12011,
+			"type": 20,
+			"args": [
+				"6143",
+				"1"
+			],
+			"argsFail": [
+				"6143",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Giordre"
+		},
+		{
+			"id": 12012,
+			"type": 20,
+			"args": [
+				"6314",
+				"8"
+			],
+			"argsFail": [
+				"6314",
+				"8"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 8 Aegis Bulwarks"
+		},
+		{
+			"id": 12013,
+			"type": 20,
+			"args": [
+				"96141",
+				"1"
+			],
+			"argsFail": [
+				"96141",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate the Varjager Angriper"
+		},
+		{
+			"id": 12014,
+			"type": 20,
+			"args": [
+				"6214",
+				"2"
+			],
+			"argsFail": [
+				"6214",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Crocodeers"
+		},
+		{
+			"id": 12015,
+			"type": 20,
+			"args": [
+				"96243",
+				"1"
+			],
+			"argsFail": [
+				"96243",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Atrocity Thorn"
+		},
+		{
+			"id": 12016,
+			"type": 20,
+			"args": [
+				"96344",
+				"1"
+			],
+			"argsFail": [
+				"96344",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Aegis SWAP Bulwark"
+		},
+		{
+			"id": 12017,
+			"type": 20,
+			"args": [
+				"6113",
+				"8"
+			],
+			"argsFail": [
+				"6113",
+				"8"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 8 Svejks"
+		},
+		{
+			"id": 12018,
+			"type": 20,
+			"args": [
+				"6314",
+				"4"
+			],
+			"argsFail": [
+				"6314",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 4 Aegis Bulwark"
+		},
+		{
+			"id": 12019,
+			"type": 20,
+			"args": [
+				"6311",
+				"5"
+			],
+			"argsFail": [
+				"6311",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Aegis Deadeyes"
+		},
+		{
+			"id": 12020,
+			"type": 20,
+			"args": [
+				"61301",
+				"2"
+			],
+			"argsFail": [
+				"61301",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Felade - ELE"
+		},
+		{
+			"id": 12021,
+			"type": 20,
+			"args": [
+				"62431",
+				"1"
+			],
+			"argsFail": [
+				"62431",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Atrocity Thorn"
+		},
+		{
+			"id": 12022,
+			"type": 20,
+			"args": [
+				"62011",
+				"3"
+			],
+			"argsFail": [
+				"62011",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Thoad - FRZ"
+		},
+		{
+			"id": 12023,
+			"type": 20,
+			"args": [
+				"62101",
+				"4"
+			],
+			"argsFail": [
+				"62101",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 4 Thorns"
+		},
+		{
+			"id": 12024,
+			"type": 20,
+			"args": [
+				"6143",
+				"1"
+			],
+			"argsFail": [
+				"6143",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Giordre"
+		},
+		{
+			"id": 12025,
+			"type": 36,
+			"args": [
+				"63121",
+				"2"
+			],
+			"argsFail": [
+				"63121",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Goliaths"
+		},
+		{
+			"id": 12026,
+			"type": 20,
+			"args": [
+				"63211",
+				"2"
+			],
+			"argsFail": [
+				"63211",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Deadeye - ELE"
+		},
+		{
+			"id": 12027,
+			"type": 20,
+			"args": [
+				"63221",
+				"2"
+			],
+			"argsFail": [
+				"63221",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Goliath - ELE"
+		},
+		{
+			"id": 12028,
+			"type": 20,
+			"args": [
+				"61311",
+				"2"
+			],
+			"argsFail": [
+				"61311",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Felaskju - ELE"
+		},
+		{
+			"id": 12029,
+			"type": 20,
+			"args": [
+				"63131",
+				"5"
+			],
+			"argsFail": [
+				"63131",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 5 Super Dinergates"
+		},
+		{
+			"id": 12030,
+			"type": 20,
+			"args": [
+				"6243",
+				"1"
+			],
+			"argsFail": [
+				"6243",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Atrocity Thorn"
+		},
+		{
+			"id": 12031,
+			"type": 20,
+			"args": [
+				"62111",
+				"3"
+			],
+			"argsFail": [
+				"62111",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Thoad - CORs"
+		},
+		{
+			"id": 12032,
+			"type": 20,
+			"args": [
+				"6243",
+				"1"
+			],
+			"argsFail": [
+				"6243",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Atrocity Thorn"
+		},
+		{
+			"id": 12033,
+			"type": 20,
+			"args": [
+				"6201",
+				"3"
+			],
+			"argsFail": [
+				"6201",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Thoad - FRZ"
+		},
+		{
+			"id": 12034,
+			"type": 20,
+			"args": [
+				"6210",
+				"4"
+			],
+			"argsFail": [
+				"6210",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 4 Thorns"
+		},
+		{
+			"id": 12035,
+			"type": 20,
+			"args": [
+				"63222",
+				"2"
+			],
+			"argsFail": [
+				"63222",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Goliath-ELE Type IIs"
+		},
+		{
+			"id": 12036,
+			"type": 20,
+			"args": [
+				"63132",
+				"7"
+			],
+			"argsFail": [
+				"63132",
+				"7"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 7 Super Dinergate IIs"
+		},
+		{
+			"id": 12037,
+			"type": 20,
+			"args": [
+				"61103",
+				"2"
+			],
+			"argsFail": [
+				"61103",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 2 Felades"
+		},
+		{
+			"id": 12038,
+			"type": 20,
+			"args": [
+				"63341",
+				"2"
+			],
+			"argsFail": [
+				"63341",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Bulwarks-FRZ"
+		},
+		{
+			"id": 12039,
+			"type": 20,
+			"args": [
+				"63341",
+				"2"
+			],
+			"argsFail": [
+				"63341",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Bulwarks-FRZ"
+		},
+		{
+			"id": 12040,
+			"type": 20,
+			"args": [
+				"63132",
+				"20"
+			],
+			"argsFail": [
+				"63132",
+				"20"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate at least 20 Super Dinergates"
+		},
+		{
+			"id": 12041,
+			"type": 20,
+			"args": [
+				"62012",
+				"3"
+			],
+			"argsFail": [
+				"62012",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Thoad - FRZ"
+		},
+		{
+			"id": 12042,
+			"type": 36,
+			"args": [
+				"63121",
+				"1"
+			],
+			"argsFail": [
+				"63121",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Goliath"
+		},
+		{
+			"id": 12043,
+			"type": 20,
+			"args": [
+				"63112",
+				"2"
+			],
+			"argsFail": [
+				"63112",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Deadeyes"
+		},
+		{
+			"id": 12044,
+			"type": 20,
+			"args": [
+				"63321",
+				"4"
+			],
+			"argsFail": [
+				"63321",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate all 4 Goliath - FRZ Type I"
+		},
+		{
+			"id": 12045,
+			"type": 20,
+			"args": [
+				"6342",
+				"1"
+			],
+			"argsFail": [
+				"6342",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate Scout SWAP"
+		},
+		{
+			"id": 12046,
+			"type": 20,
+			"args": [
+				"62102",
+				"2"
+			],
+			"argsFail": [
+				"62102",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thorns"
+		},
+		{
+			"id": 12047,
+			"type": 20,
+			"args": [
+				"63342",
+				"2"
+			],
+			"argsFail": [
+				"63342",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Bulwark - FRZ Type II"
+		},
+		{
+			"id": 12048,
+			"type": 20,
+			"args": [
+				"63132",
+				"6"
+			],
+			"argsFail": [
+				"63132",
+				"6"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 6 Dinergate Type II"
+		},
+		{
+			"id": 12049,
+			"type": 20,
+			"args": [
+				"63211",
+				"1"
+			],
+			"argsFail": [
+				"63211",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Aegis Deadeye - ELE"
+		},
+		{
+			"id": 12050,
+			"type": 36,
+			"args": [
+				"63121",
+				"4"
+			],
+			"argsFail": [
+				"63121",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 4 Goliaths"
+		},
+		{
+			"id": 12051,
+			"type": 20,
+			"args": [
+				"62101",
+				"2"
+			],
+			"argsFail": [
+				"62101",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoad - FRZ Type I"
+		},
+		{
+			"id": 12052,
+			"type": 20,
+			"args": [
+				"63232",
+				"2"
+			],
+			"argsFail": [
+				"63232",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 U 015 - BUR Type II"
+		},
+		{
+			"id": 12053,
+			"type": 20,
+			"args": [
+				"63321",
+				"3"
+			],
+			"argsFail": [
+				"63321",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Goliath - FRZ Type I"
+		},
+		{
+			"id": 12054,
+			"type": 20,
+			"args": [
+				"62171",
+				"2"
+			],
+			"argsFail": [
+				"62171",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Obshare Type I"
+		},
+		{
+			"id": 12055,
+			"type": 20,
+			"args": [
+				"63212",
+				"2"
+			],
+			"argsFail": [
+				"63212",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Deadeye - ELE Type II"
+		},
+		{
+			"id": 12056,
+			"type": 20,
+			"args": [
+				"61212",
+				"2"
+			],
+			"argsFail": [
+				"61212",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Felaskju - BUR Type II"
+		},
+		{
+			"id": 12057,
+			"type": 20,
+			"args": [
+				"61312",
+				"4"
+			],
+			"argsFail": [
+				"61312",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 4 Felaskju ELE Type II"
+		},
+		{
+			"id": 12058,
+			"type": 20,
+			"args": [
+				"64222",
+				"2"
+			],
+			"argsFail": [
+				"64222",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 U 039 - BUR Type II"
+		},
+		{
+			"id": 12059,
+			"type": 20,
+			"args": [
+				"65031",
+				"2"
+			],
+			"argsFail": [
+				"65031",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Irrigation Scholar Type I"
+		},
+		{
+			"id": 12060,
+			"type": 20,
+			"args": [
+				"6541",
+				"1"
+			],
+			"argsFail": [
+				"6541",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Production Expert"
+		},
+		{
+			"id": 12101,
+			"type": 21,
+			"args": [
+				"7001"
+			],
+			"argsFail": [
+				"7001"
+			],
+			"title": "Art of Command",
+			"description": "Do not detonate any explosive boxes"
+		},
+		{
+			"id": 12102,
+			"type": 21,
+			"args": [
+				"7004"
+			],
+			"argsFail": [
+				"7004"
+			],
+			"title": "Art of Command",
+			"description": "Do not detonate any oil barrels"
+		},
+		{
+			"id": 12103,
+			"type": 21,
+			"args": [
+				"70041"
+			],
+			"argsFail": [
+				"70041"
+			],
+			"title": "Art of Command",
+			"description": "Do not detonate any oil barrels"
+		},
+		{
+			"id": 12104,
+			"type": 21,
+			"args": [
+				"7011"
+			],
+			"argsFail": [
+				"7011"
+			],
+			"title": "Art of Command",
+			"description": "No grenade launcher modules damaged"
+		},
+		{
+			"id": 12105,
+			"type": 21,
+			"args": [
+				"7014"
+			],
+			"argsFail": [
+				"7014"
+			],
+			"title": "Art of Command",
+			"description": "No Supply Boxes Destroyed"
+		},
+		{
+			"id": 12106,
+			"type": 21,
+			"args": [
+				"63141"
+			],
+			"argsFail": [
+				"63141"
+			],
+			"title": "Art of Command",
+			"description": "All allied Aegis survive"
+		},
+		{
+			"id": 12107,
+			"type": 40,
+			"args": [
+				"62011"
+			],
+			"argsFail": [
+				"62011"
+			],
+			"title": "Art of Command",
+			"description": "Do not eliminate Thoad - FRZ Type I"
+		},
+		{
+			"id": 12108,
+			"type": 21,
+			"args": [
+				"62012"
+			],
+			"argsFail": [
+				"62012"
+			],
+			"title": "Art of Command",
+			"description": "All Thoad - FRZ Type IIs survive"
+		},
+		{
+			"id": 12109,
+			"type": 21,
+			"args": [
+				"7016"
+			],
+			"argsFail": [
+				"7016"
+			],
+			"title": "Art of Command",
+			"description": "Do not destroy any Defensive Structures"
+		},
+		{
+			"id": 12201,
+			"type": 22,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 1 enemy unit in this battle"
+		},
+		{
+			"id": 12202,
+			"type": 22,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 2 enemy units in this battle"
+		},
+		{
+			"id": 12203,
+			"type": 22,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 3 enemy units in this battle"
+		},
+		{
+			"id": 12204,
+			"type": 22,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 4 enemy units in this battle"
+		},
+		{
+			"id": 12205,
+			"type": 22,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 5 enemy units in this battle"
+		},
+		{
+			"id": 12206,
+			"type": 22,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 6 enemy units in this battle"
+		},
+		{
+			"id": 12207,
+			"type": 22,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 7 enemy units in this battle"
+		},
+		{
+			"id": 12208,
+			"type": 22,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 8 enemy units in this battle"
+		},
+		{
+			"id": 12209,
+			"type": 22,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 9 enemy units in this battle"
+		},
+		{
+			"id": 12210,
+			"type": 22,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "One Man Army",
+			"description": "Any single allied unit eliminates 10 enemy units in this battle"
+		},
+		{
+			"id": 12211,
+			"type": 22,
+			"args": [
+				"11"
+			],
+			"argsFail": [
+				"11"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 11 enemy units in this battle"
+		},
+		{
+			"id": 12212,
+			"type": 22,
+			"args": [
+				"12"
+			],
+			"argsFail": [
+				"12"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 12 enemy units in this battle"
+		},
+		{
+			"id": 12213,
+			"type": 22,
+			"args": [
+				"13"
+			],
+			"argsFail": [
+				"13"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 13 enemy units in this battle"
+		},
+		{
+			"id": 12214,
+			"type": 22,
+			"args": [
+				"14"
+			],
+			"argsFail": [
+				"14"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 14 enemy units in this battle"
+		},
+		{
+			"id": 12215,
+			"type": 22,
+			"args": [
+				"15"
+			],
+			"argsFail": [
+				"15"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 15 enemy units in this battle"
+		},
+		{
+			"id": 12216,
+			"type": 22,
+			"args": [
+				"16"
+			],
+			"argsFail": [
+				"16"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 16 enemy units in this battle"
+		},
+		{
+			"id": 12217,
+			"type": 22,
+			"args": [
+				"17"
+			],
+			"argsFail": [
+				"17"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 17 enemy units in this battle"
+		},
+		{
+			"id": 12218,
+			"type": 22,
+			"args": [
+				"18"
+			],
+			"argsFail": [
+				"18"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 18 enemy units in this battle"
+		},
+		{
+			"id": 12219,
+			"type": 22,
+			"args": [
+				"19"
+			],
+			"argsFail": [
+				"19"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Any single allied unit eliminates 19 enemy units in this battle"
+		},
+		{
+			"id": 12220,
+			"type": 22,
+			"args": [
+				"20"
+			],
+			"argsFail": [
+				"20"
+			],
+			"title": "Dominate the Battlefield",
+			"description": "Have any single allied unit eliminate 20 enemy units in this battle"
+		},
+		{
+			"id": 12301,
+			"args": [
+				"6110"
+			],
+			"title": "One Shot, One Kill",
+			"description": "Eliminate 1 Felaskju from 100% HP in 1 action.",
+			"type": 0,
+			"argsFail": []
+		},
+		{
+			"id": 12401,
+			"type": 23,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 1 enemy unit with a single attack"
+		},
+		{
+			"id": 12402,
+			"type": 23,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 2 enemy units with a single attack"
+		},
+		{
+			"id": 12403,
+			"type": 23,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 3 enemy units with a single attack"
+		},
+		{
+			"id": 12404,
+			"type": 23,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 4 enemy units with a single attack"
+		},
+		{
+			"id": 12405,
+			"type": 23,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 5 enemy units with a single attack"
+		},
+		{
+			"id": 12406,
+			"type": 23,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 6 enemy units with a single attack"
+		},
+		{
+			"id": 12407,
+			"type": 23,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 7 enemy units with a single attack"
+		},
+		{
+			"id": 12408,
+			"type": 23,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 8 enemy units with a single attack"
+		},
+		{
+			"id": 12409,
+			"type": 23,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 9 enemy units with a single attack"
+		},
+		{
+			"id": 12410,
+			"type": 23,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Firepower Overflow",
+			"description": "Eliminate at least 10 enemy units with a single attack"
+		},
+		{
+			"id": 12501,
+			"type": 24,
+			"args": [
+				"30"
+			],
+			"argsFail": [
+				"30"
+			],
+			"title": "Fire Suppression",
+			"description": "Deal at least 2,000 damage with a single attack"
+		},
+		{
+			"id": 12601,
+			"type": 25,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 10 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12602,
+			"type": 25,
+			"args": [
+				"20"
+			],
+			"argsFail": [
+				"20"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 20 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12603,
+			"type": 25,
+			"args": [
+				"30"
+			],
+			"argsFail": [
+				"30"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 30 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12604,
+			"type": 25,
+			"args": [
+				"40"
+			],
+			"argsFail": [
+				"40"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 40 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12605,
+			"type": 25,
+			"args": [
+				"50"
+			],
+			"argsFail": [
+				"50"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 50 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12606,
+			"type": 25,
+			"args": [
+				"60"
+			],
+			"argsFail": [
+				"60"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 60 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12607,
+			"type": 25,
+			"args": [
+				"70"
+			],
+			"argsFail": [
+				"70"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 70 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12608,
+			"type": 25,
+			"args": [
+				"80"
+			],
+			"argsFail": [
+				"80"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 80 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12609,
+			"type": 25,
+			"args": [
+				"90"
+			],
+			"argsFail": [
+				"90"
+			],
+			"title": "Environmental Assessment",
+			"description": "Obtain at least 90 Confectance Index within 1 turn"
+		},
+		{
+			"id": 12610,
+			"type": 25,
+			"args": [
+				"100"
+			],
+			"argsFail": [
+				"100"
+			],
+			"title": "Environmental Assessment",
+			"description": "Gain at least 100 points of Confectance Index within 1 turn"
+		},
+		{
+			"id": 12701,
+			"type": 26,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Generous Support",
+			"description": "Activate all buff devices on the battlefield"
+		},
+		{
+			"id": 12702,
+			"type": 26,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Generous Support",
+			"description": "Activate all buff devices"
+		},
+		{
+			"id": 12704,
+			"type": 26,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Generous Support",
+			"description": "Activate all buff devices"
+		},
+		{
+			"id": 12705,
+			"type": 26,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Neutralize Threats",
+			"description": "Disable all Heavy Machine Gun Modules"
+		},
+		{
+			"id": 12706,
+			"type": 26,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Generous Support",
+			"description": "Activate all buff devices"
+		},
+		{
+			"id": 12707,
+			"type": 26,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Generous Support",
+			"description": "Collect all Supply Boxes"
+		},
+		{
+			"id": 12801,
+			"type": 27,
+			"title": "Stay Vigilant",
+			"description": "All battlefield buff devices are inactive",
+			"args": [],
+			"argsFail": []
+		},
+		{
+			"id": 12802,
+			"type": 27,
+			"title": "Stay Vigilant",
+			"description": "All battlefield buff devices and switches are inactive",
+			"args": [],
+			"argsFail": []
+		},
+		{
+			"id": 12901,
+			"type": 28,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least once within a turn"
+		},
+		{
+			"id": 12902,
+			"type": 28,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least twice within a turn"
+		},
+		{
+			"id": 12903,
+			"type": 28,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least three times within a turn"
+		},
+		{
+			"id": 12904,
+			"type": 28,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least four times within a turn"
+		},
+		{
+			"id": 12905,
+			"type": 28,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least five times within a turn"
+		},
+		{
+			"id": 12906,
+			"type": 28,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least six times within a turn"
+		},
+		{
+			"id": 12907,
+			"type": 28,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least seven times within a turn"
+		},
+		{
+			"id": 12908,
+			"type": 28,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Absolute Orders",
+			"description": "Any allied unit must act at least eight times within a turn"
+		},
+		{
+			"id": 13001,
+			"type": 29,
+			"title": "Pinpoint Accuracy",
+			"description": "In this battle, all attacks ignore Cover damage reduction",
+			"args": [],
+			"argsFail": []
+		},
+		{
+			"id": 13101,
+			"type": 30,
+			"title": "Surface Advance",
+			"description": "Avoid all high ground during combat",
+			"args": [],
+			"argsFail": []
+		},
+		{
+			"id": 13201,
+			"type": 31,
+			"args": [
+				"1"
+			],
+			"argsFail": [
+				"1"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 1 enemy unit with an explosive box"
+		},
+		{
+			"id": 13202,
+			"type": 31,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 2 enemy units with an explosive box"
+		},
+		{
+			"id": 13203,
+			"type": 31,
+			"args": [
+				"3"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 3 enemy units with an explosive box"
+		},
+		{
+			"id": 13204,
+			"type": 31,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 4 enemy units with an explosive box"
+		},
+		{
+			"id": 13205,
+			"type": 31,
+			"args": [
+				"5"
+			],
+			"argsFail": [
+				"5"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 5 enemy units with an explosive box"
+		},
+		{
+			"id": 13206,
+			"type": 31,
+			"args": [
+				"6"
+			],
+			"argsFail": [
+				"6"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 6 enemy units with an explosive box"
+		},
+		{
+			"id": 13207,
+			"type": 31,
+			"args": [
+				"7"
+			],
+			"argsFail": [
+				"7"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 7 enemy units with an explosive box"
+		},
+		{
+			"id": 13208,
+			"type": 31,
+			"args": [
+				"8"
+			],
+			"argsFail": [
+				"8"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 8 enemy units with an explosive box"
+		},
+		{
+			"id": 13209,
+			"type": 31,
+			"args": [
+				"9"
+			],
+			"argsFail": [
+				"9"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 9 enemy units with an explosive box"
+		},
+		{
+			"id": 13210,
+			"type": 31,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 10 enemy units with explosive boxes"
+		},
+		{
+			"id": 13211,
+			"type": 31,
+			"args": [
+				"11"
+			],
+			"argsFail": [
+				"11"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 11 enemy units with explosive boxes"
+		},
+		{
+			"id": 13212,
+			"type": 31,
+			"args": [
+				"12"
+			],
+			"argsFail": [
+				"12"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 12 enemy units with explosive boxes"
+		},
+		{
+			"id": 13213,
+			"type": 31,
+			"args": [
+				"13"
+			],
+			"argsFail": [
+				"13"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 13 enemy units with explosive boxes"
+		},
+		{
+			"id": 13214,
+			"type": 31,
+			"args": [
+				"14"
+			],
+			"argsFail": [
+				"14"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 14 enemy units with explosive boxes"
+		},
+		{
+			"id": 13215,
+			"type": 31,
+			"args": [
+				"15"
+			],
+			"argsFail": [
+				"15"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 15 enemy units with explosive boxes"
+		},
+		{
+			"id": 13216,
+			"type": 31,
+			"args": [
+				"16"
+			],
+			"argsFail": [
+				"16"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 16 enemy units with explosive boxes"
+		},
+		{
+			"id": 13217,
+			"type": 31,
+			"args": [
+				"17"
+			],
+			"argsFail": [
+				"17"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 17 enemy units with explosive boxes"
+		},
+		{
+			"id": 13218,
+			"type": 31,
+			"args": [
+				"18"
+			],
+			"argsFail": [
+				"18"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 18 enemy units with explosive boxes"
+		},
+		{
+			"id": 13219,
+			"type": 31,
+			"args": [
+				"19"
+			],
+			"argsFail": [
+				"19"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 19 enemy units with explosive boxes"
+		},
+		{
+			"id": 13220,
+			"type": 31,
+			"args": [
+				"20"
+			],
+			"argsFail": [
+				"20"
+			],
+			"title": "Art Is A Blast",
+			"description": "Eliminate at least 20 enemy units with explosive boxes"
+		},
+		{
+			"id": 13234,
+			"type": 35,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Ignition Detonation",
+			"description": "Eliminate at least 4 enemy units with an explosive box"
+		},
+		{
+			"id": 13301,
+			"type": 32,
+			"args": [
+				"6259",
+				"1"
+			],
+			"argsFail": [
+				"6259",
+				"1"
+			],
+			"title": "Lethal Strike",
+			"description": "Eliminate Nemertea within 1 turn"
+		},
+		{
+			"id": 13302,
+			"type": 6,
+			"args": [
+				"13"
+			],
+			"argsFail": [
+				"13"
+			],
+			"title": "Scorched Earth",
+			"description": "Eliminate all 13 enemy units"
+		},
+		{
+			"id": 13303,
+			"type": 6,
+			"args": [
+				"12"
+			],
+			"argsFail": [
+				"12"
+			],
+			"title": "Scorched Earth",
+			"description": "Eliminate all 12 enemy units"
+		},
+		{
+			"id": 13304,
+			"type": 6,
+			"args": [
+				"11"
+			],
+			"argsFail": [
+				"11"
+			],
+			"title": "Scorched Earth",
+			"description": "Eliminate all 11 enemy units"
+		},
+		{
+			"id": 13305,
+			"type": 6,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Scorched Earth",
+			"description": "Eliminate at least 10 enemy units"
+		},
+		{
+			"id": 13306,
+			"type": 6,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Scorched Earth",
+			"description": "Eliminate all 10 enemy units"
+		},
+		{
+			"id": 13701,
+			"type": 37,
+			"args": [
+				"63211",
+				"2",
+				"2"
+			],
+			"argsFail": [
+				"63211",
+				"2",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Deadeye - ELE within 2 turns"
+		},
+		{
+			"id": 13702,
+			"type": 37,
+			"args": [
+				"61111",
+				"2",
+				"1"
+			],
+			"argsFail": [
+				"61111",
+				"2",
+				"1"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Felaskju within 2 turns"
+		},
+		{
+			"id": 13703,
+			"type": 37,
+			"args": [
+				"62111",
+				"2",
+				"2"
+			],
+			"argsFail": [
+				"62111",
+				"2",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoads within 2 turns"
+		},
+		{
+			"id": 13704,
+			"type": 37,
+			"args": [
+				"62111",
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"62111",
+				"2",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoads within 4 turns"
+		},
+		{
+			"id": 13705,
+			"type": 37,
+			"args": [
+				"63151",
+				"2",
+				"3"
+			],
+			"argsFail": [
+				"63151",
+				"2",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Claymore within 3 turns"
+		},
+		{
+			"id": 13706,
+			"type": 37,
+			"args": [
+				"61103",
+				"4",
+				"3"
+			],
+			"argsFail": [
+				"61103",
+				"4",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 4 Felades within 3 turns"
+		},
+		{
+			"id": 13707,
+			"type": 37,
+			"args": [
+				"62011",
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"62011",
+				"2",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoad - FRZ within 4 turns"
+		},
+		{
+			"id": 13708,
+			"type": 37,
+			"args": [
+				"63341",
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"63341",
+				"2",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Aegis Bulwark - FRZ within 4 turns"
+		},
+		{
+			"id": 13709,
+			"type": 37,
+			"args": [
+				"62011",
+				"2",
+				"2"
+			],
+			"argsFail": [
+				"62011",
+				"2",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoad - FRZ within 2 turns"
+		},
+		{
+			"id": 13710,
+			"type": 37,
+			"args": [
+				"63112",
+				"3",
+				"3"
+			],
+			"argsFail": [
+				"63211",
+				"3",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Aegis Deadeye Type II within 3 turns"
+		},
+		{
+			"id": 13711,
+			"type": 37,
+			"args": [
+				"64221",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"64221",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 U 039 - BUR Type I within 4 turns"
+		},
+		{
+			"id": 13712,
+			"type": 37,
+			"args": [
+				"62012",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"62012",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Thoad - FRZ within 4 turns"
+		},
+		{
+			"id": 13713,
+			"type": 37,
+			"args": [
+				"6345",
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"6345",
+				"1",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate Aegis Myrmidon within 5 turns"
+		},
+		{
+			"id": 13714,
+			"type": 37,
+			"args": [
+				"62012",
+				"2",
+				"3"
+			],
+			"argsFail": [
+				"62012",
+				"2",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Thoad - FRZ Type II within 3 turns"
+		},
+		{
+			"id": 13715,
+			"type": 37,
+			"args": [
+				"7002",
+				"1",
+				"4"
+			],
+			"argsFail": [
+				"7002",
+				"1",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 1 Heavy Machine Gun Module within 4 turns"
+		},
+		{
+			"id": 13716,
+			"type": 37,
+			"args": [
+				"63162",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"63162",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 Aegis Skyfire Type II within 4 turns"
+		},
+		{
+			"id": 13717,
+			"type": 37,
+			"args": [
+				"64331",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"64331",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 U 015 - COR within 4 turns"
+		},
+		{
+			"id": 13718,
+			"type": 37,
+			"args": [
+				"7012",
+				"2",
+				"5"
+			],
+			"argsFail": [
+				"7012",
+				"2",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Heavy Machine Gun Modules within 5 turns"
+		},
+		{
+			"id": 13719,
+			"type": 37,
+			"args": [
+				"64222",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"64222",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 U 039 - BUR Type II within 4 turns"
+		},
+		{
+			"id": 13720,
+			"type": 37,
+			"args": [
+				"64132",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"64132",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 3 U-015 Type IIs within 4 turns"
+		},
+		{
+			"id": 13721,
+			"type": 37,
+			"args": [
+				"6441",
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"6441",
+				"1",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate Niter No.249 within 5 turns"
+		},
+		{
+			"id": 13801,
+			"type": 38,
+			"args": [
+				"3",
+				"2"
+			],
+			"argsFail": [
+				"3",
+				"2"
+			],
+			"title": "(Copywriting Packaging)",
+			"description": "Collect at least 2 items within 3 turns"
+		},
+		{
+			"id": 13901,
+			"type": 39,
+			"args": [
+				"7014"
+			],
+			"argsFail": [
+				"7014"
+			],
+			"title": "Art of Command",
+			"description": "No Supply Boxes Destroyed"
+		},
+		{
+			"id": 13902,
+			"type": 39,
+			"args": [
+				"63141"
+			],
+			"argsFail": [
+				"63141"
+			],
+			"title": "Art of Command",
+			"description": "All allied Aegis survive"
+		},
+		{
+			"id": 14101,
+			"type": 41,
+			"args": [
+				"3",
+				"2"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Art of Command",
+			"description": "Test: Collect 2 114-devices within 3 turns"
+		},
+		{
+			"id": 14201,
+			"type": 42,
+			"args": [
+				"3",
+				"1"
+			],
+			"argsFail": [
+				"3"
+			],
+			"title": "Art of Command",
+			"description": "Test: Collect 1 Level 2 Collection Point within 3 turns"
+		},
+		{
+			"id": 14301,
+			"type": 43,
+			"args": [
+				"1",
+				"60001"
+			],
+			"argsFail": [
+				"1",
+				"60001"
+			],
+			"title": "Master Collector",
+			"description": "Successfully collect 1 small supply box"
+		},
+		{
+			"id": 14302,
+			"type": 43,
+			"args": [
+				"2",
+				"60001"
+			],
+			"argsFail": [
+				"2",
+				"60001"
+			],
+			"title": "Master Collector",
+			"description": "Successfully collected 2 small supply boxes"
+		},
+		{
+			"id": 14311,
+			"type": 43,
+			"args": [
+				"1",
+				"60002"
+			],
+			"argsFail": [
+				"1",
+				"60002"
+			],
+			"title": "Master Collector",
+			"description": "Successfully collect 1 medium supply box"
+		},
+		{
+			"id": 14312,
+			"type": 43,
+			"args": [
+				"2",
+				"60002"
+			],
+			"argsFail": [
+				"2",
+				"60002"
+			],
+			"title": "Master Collector",
+			"description": "Successfully collect 2 medium supply boxes"
+		},
+		{
+			"id": 14321,
+			"type": 43,
+			"args": [
+				"1",
+				"60003"
+			],
+			"argsFail": [
+				"1",
+				"60003"
+			],
+			"title": "Master Collector",
+			"description": "Successfully collect 1 giant supply box"
+		}
+	]
+}

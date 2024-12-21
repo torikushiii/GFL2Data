@@ -1,0 +1,77 @@
+{
+	"data": [
+		{
+			"groupId": 10101,
+			"groupType": 1,
+			"questBundleId": [
+				101,
+				102,
+				103
+			],
+			"name": "Basic Missions"
+		},
+		{
+			"groupId": 10102,
+			"groupType": 2,
+			"questBundleId": [
+				111,
+				112
+			],
+			"name": "Advanced Mission"
+		},
+		{
+			"groupId": 20101,
+			"groupType": 2,
+			"questBundleId": [
+				121,
+				122,
+				123
+			],
+			"name": "Advanced Mission"
+		},
+		{
+			"groupId": 30101,
+			"groupType": 2,
+			"questBundleId": [
+				131
+			],
+			"name": "High-Level Mission"
+		},
+		{
+			"groupId": 40101,
+			"groupType": 2,
+			"questBundleId": [
+				141,
+				142,
+				143
+			],
+			"name": "Advanced Mission"
+		},
+		{
+			"groupId": 50101,
+			"groupType": 2,
+			"questBundleId": [
+				151,
+				152,
+				153
+			],
+			"name": "Advanced Mission"
+		},
+		{
+			"groupId": 60101,
+			"groupType": 3,
+			"questBundleId": [
+				99906
+			],
+			"name": "Push Cart Test Mission"
+		},
+		{
+			"groupId": 200101,
+			"groupType": 99,
+			"questBundleId": [
+				2001
+			],
+			"name": "Time-Limited Events"
+		}
+	]
+}

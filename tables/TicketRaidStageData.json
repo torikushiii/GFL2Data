@@ -1,0 +1,2069 @@
+{
+	"data": [
+		{
+			"id": 101001,
+			"mapId": 101001,
+			"pointId": 1,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101002,
+			"mapId": 101001,
+			"pointId": 2,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101003,
+			"mapId": 101001,
+			"pointId": 3,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101004,
+			"mapId": 101001,
+			"pointId": 4,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101005,
+			"mapId": 101001,
+			"pointId": 5,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101006,
+			"mapId": 101001,
+			"pointId": 6,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101007,
+			"mapId": 101001,
+			"pointId": 7,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1001,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 101008,
+			"mapId": 101001,
+			"pointId": 8,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101009,
+			"mapId": 101001,
+			"pointId": 9,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101010,
+			"mapId": 101001,
+			"pointId": 10,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101011,
+			"mapId": 101001,
+			"pointId": 11,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101012,
+			"mapId": 101001,
+			"pointId": 12,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101013,
+			"mapId": 101001,
+			"pointId": 13,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101014,
+			"mapId": 101001,
+			"pointId": 14,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101015,
+			"mapId": 101001,
+			"pointId": 15,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101016,
+			"mapId": 101001,
+			"pointId": 16,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101017,
+			"mapId": 101001,
+			"pointId": 17,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101018,
+			"mapId": 101001,
+			"pointId": 18,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101019,
+			"mapId": 101001,
+			"pointId": 19,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101020,
+			"mapId": 101001,
+			"pointId": 20,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101021,
+			"mapId": 101001,
+			"pointId": 21,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101022,
+			"mapId": 101001,
+			"pointId": 22,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101023,
+			"mapId": 101001,
+			"pointId": 23,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101024,
+			"mapId": 101001,
+			"pointId": 24,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101025,
+			"mapId": 101001,
+			"pointId": 25,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101026,
+			"mapId": 101001,
+			"pointId": 26,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101027,
+			"mapId": 101001,
+			"pointId": 27,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101028,
+			"mapId": 101001,
+			"pointId": 28,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101029,
+			"mapId": 101001,
+			"pointId": 29,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101030,
+			"mapId": 101001,
+			"pointId": 30,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101031,
+			"mapId": 101001,
+			"pointId": 31,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101032,
+			"mapId": 101001,
+			"pointId": 32,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101033,
+			"mapId": 101001,
+			"pointId": 33,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"-10": 100,
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101034,
+			"mapId": 101001,
+			"pointId": 34,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101035,
+			"mapId": 101001,
+			"pointId": 35,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101036,
+			"mapId": 101001,
+			"pointId": 36,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101037,
+			"mapId": 101001,
+			"pointId": 37,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101038,
+			"mapId": 101001,
+			"pointId": 38,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101039,
+			"mapId": 101001,
+			"pointId": 39,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 101040,
+			"mapId": 101001,
+			"pointId": 40,
+			"enable": true,
+			"pointType": 5,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102001,
+			"mapId": 102001,
+			"pointId": 1,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102002,
+			"mapId": 102001,
+			"pointId": 2,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102003,
+			"mapId": 102001,
+			"pointId": 3,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102004,
+			"mapId": 102001,
+			"pointId": 4,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102005,
+			"mapId": 102001,
+			"pointId": 5,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102006,
+			"mapId": 102001,
+			"pointId": 6,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102007,
+			"mapId": 102001,
+			"pointId": 7,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102008,
+			"mapId": 102001,
+			"pointId": 8,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102009,
+			"mapId": 102001,
+			"pointId": 9,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102010,
+			"mapId": 102001,
+			"pointId": 10,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1002,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 102011,
+			"mapId": 102001,
+			"pointId": 11,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102012,
+			"mapId": 102001,
+			"pointId": 12,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102013,
+			"mapId": 102001,
+			"pointId": 13,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102014,
+			"mapId": 102001,
+			"pointId": 14,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102015,
+			"mapId": 102001,
+			"pointId": 15,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102016,
+			"mapId": 102001,
+			"pointId": 16,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102017,
+			"mapId": 102001,
+			"pointId": 17,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102018,
+			"mapId": 102001,
+			"pointId": 18,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102019,
+			"mapId": 102001,
+			"pointId": 19,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102020,
+			"mapId": 102001,
+			"pointId": 20,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102021,
+			"mapId": 102001,
+			"pointId": 21,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102022,
+			"mapId": 102001,
+			"pointId": 22,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102023,
+			"mapId": 102001,
+			"pointId": 23,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102024,
+			"mapId": 102001,
+			"pointId": 24,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102025,
+			"mapId": 102001,
+			"pointId": 25,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102026,
+			"mapId": 102001,
+			"pointId": 26,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102027,
+			"mapId": 102001,
+			"pointId": 27,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102028,
+			"mapId": 102001,
+			"pointId": 28,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102029,
+			"mapId": 102001,
+			"pointId": 29,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102030,
+			"mapId": 102001,
+			"pointId": 30,
+			"enable": true,
+			"pointType": 5,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102031,
+			"mapId": 102001,
+			"pointId": 31,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102032,
+			"mapId": 102001,
+			"pointId": 32,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102033,
+			"mapId": 102001,
+			"pointId": 33,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102034,
+			"mapId": 102001,
+			"pointId": 34,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102035,
+			"mapId": 102001,
+			"pointId": 35,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102036,
+			"mapId": 102001,
+			"pointId": 36,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102037,
+			"mapId": 102001,
+			"pointId": 37,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102038,
+			"mapId": 102001,
+			"pointId": 38,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102039,
+			"mapId": 102001,
+			"pointId": 39,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 102040,
+			"mapId": 102001,
+			"pointId": 40,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103001,
+			"mapId": 103001,
+			"pointId": 1,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103002,
+			"mapId": 103001,
+			"pointId": 2,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103003,
+			"mapId": 103001,
+			"pointId": 3,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103004,
+			"mapId": 103001,
+			"pointId": 4,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103005,
+			"mapId": 103001,
+			"pointId": 5,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103006,
+			"mapId": 103001,
+			"pointId": 6,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103007,
+			"mapId": 103001,
+			"pointId": 7,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103008,
+			"mapId": 103001,
+			"pointId": 8,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103009,
+			"mapId": 103001,
+			"pointId": 9,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103010,
+			"mapId": 103001,
+			"pointId": 10,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103011,
+			"mapId": 103001,
+			"pointId": 11,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103012,
+			"mapId": 103001,
+			"pointId": 12,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103013,
+			"mapId": 103001,
+			"pointId": 13,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103014,
+			"mapId": 103001,
+			"pointId": 14,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103015,
+			"mapId": 103001,
+			"pointId": 15,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103016,
+			"mapId": 103001,
+			"pointId": 16,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103017,
+			"mapId": 103001,
+			"pointId": 17,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103018,
+			"mapId": 103001,
+			"pointId": 18,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103019,
+			"mapId": 103001,
+			"pointId": 19,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103020,
+			"mapId": 103001,
+			"pointId": 20,
+			"enable": true,
+			"pointType": 5,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103021,
+			"mapId": 103001,
+			"pointId": 21,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103022,
+			"mapId": 103001,
+			"pointId": 22,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103023,
+			"mapId": 103001,
+			"pointId": 23,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103024,
+			"mapId": 103001,
+			"pointId": 24,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103025,
+			"mapId": 103001,
+			"pointId": 25,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103026,
+			"mapId": 103001,
+			"pointId": 26,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103027,
+			"mapId": 103001,
+			"pointId": 27,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103028,
+			"mapId": 103001,
+			"pointId": 28,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103029,
+			"mapId": 103001,
+			"pointId": 29,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103030,
+			"mapId": 103001,
+			"pointId": 30,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103031,
+			"mapId": 103001,
+			"pointId": 31,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103032,
+			"mapId": 103001,
+			"pointId": 32,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103033,
+			"mapId": 103001,
+			"pointId": 33,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1003,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 103034,
+			"mapId": 103001,
+			"pointId": 34,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103035,
+			"mapId": 103001,
+			"pointId": 35,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103036,
+			"mapId": 103001,
+			"pointId": 36,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103037,
+			"mapId": 103001,
+			"pointId": 37,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103038,
+			"mapId": 103001,
+			"pointId": 38,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103039,
+			"mapId": 103001,
+			"pointId": 39,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 103040,
+			"mapId": 103001,
+			"pointId": 40,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104001,
+			"mapId": 104001,
+			"pointId": 1,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104002,
+			"mapId": 104001,
+			"pointId": 2,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104003,
+			"mapId": 104001,
+			"pointId": 3,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104004,
+			"mapId": 104001,
+			"pointId": 4,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104005,
+			"mapId": 104001,
+			"pointId": 5,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104006,
+			"mapId": 104001,
+			"pointId": 6,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104007,
+			"mapId": 104001,
+			"pointId": 7,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104008,
+			"mapId": 104001,
+			"pointId": 8,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104009,
+			"mapId": 104001,
+			"pointId": 9,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104010,
+			"mapId": 104001,
+			"pointId": 10,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104011,
+			"mapId": 104001,
+			"pointId": 11,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104012,
+			"mapId": 104001,
+			"pointId": 12,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104013,
+			"mapId": 104001,
+			"pointId": 13,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104014,
+			"mapId": 104001,
+			"pointId": 14,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104015,
+			"mapId": 104001,
+			"pointId": 15,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104016,
+			"mapId": 104001,
+			"pointId": 16,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104017,
+			"mapId": 104001,
+			"pointId": 17,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104018,
+			"mapId": 104001,
+			"pointId": 18,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104019,
+			"mapId": 104001,
+			"pointId": 19,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1004,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 104020,
+			"mapId": 104001,
+			"pointId": 20,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104021,
+			"mapId": 104001,
+			"pointId": 21,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104022,
+			"mapId": 104001,
+			"pointId": 22,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104023,
+			"mapId": 104001,
+			"pointId": 23,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104024,
+			"mapId": 104001,
+			"pointId": 24,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104025,
+			"mapId": 104001,
+			"pointId": 25,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104026,
+			"mapId": 104001,
+			"pointId": 26,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104027,
+			"mapId": 104001,
+			"pointId": 27,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104028,
+			"mapId": 104001,
+			"pointId": 28,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104029,
+			"mapId": 104001,
+			"pointId": 29,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104030,
+			"mapId": 104001,
+			"pointId": 30,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104031,
+			"mapId": 104001,
+			"pointId": 31,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104032,
+			"mapId": 104001,
+			"pointId": 32,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104033,
+			"mapId": 104001,
+			"pointId": 33,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104034,
+			"mapId": 104001,
+			"pointId": 34,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104035,
+			"mapId": 104001,
+			"pointId": 35,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104036,
+			"mapId": 104001,
+			"pointId": 36,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104037,
+			"mapId": 104001,
+			"pointId": 37,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104038,
+			"mapId": 104001,
+			"pointId": 38,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104039,
+			"mapId": 104001,
+			"pointId": 39,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 104040,
+			"mapId": 104001,
+			"pointId": 40,
+			"enable": true,
+			"pointType": 5,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105001,
+			"mapId": 105001,
+			"pointId": 1,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105002,
+			"mapId": 105001,
+			"pointId": 2,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105003,
+			"mapId": 105001,
+			"pointId": 3,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105004,
+			"mapId": 105001,
+			"pointId": 4,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105005,
+			"mapId": 105001,
+			"pointId": 5,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105006,
+			"mapId": 105001,
+			"pointId": 6,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105007,
+			"mapId": 105001,
+			"pointId": 7,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105008,
+			"mapId": 105001,
+			"pointId": 8,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105009,
+			"mapId": 105001,
+			"pointId": 9,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105010,
+			"mapId": 105001,
+			"pointId": 10,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1005,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 105011,
+			"mapId": 105001,
+			"pointId": 11,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105012,
+			"mapId": 105001,
+			"pointId": 12,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105013,
+			"mapId": 105001,
+			"pointId": 13,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105014,
+			"mapId": 105001,
+			"pointId": 14,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105015,
+			"mapId": 105001,
+			"pointId": 15,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105016,
+			"mapId": 105001,
+			"pointId": 16,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105017,
+			"mapId": 105001,
+			"pointId": 17,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105018,
+			"mapId": 105001,
+			"pointId": 18,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105019,
+			"mapId": 105001,
+			"pointId": 19,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105020,
+			"mapId": 105001,
+			"pointId": 20,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105021,
+			"mapId": 105001,
+			"pointId": 21,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105022,
+			"mapId": 105001,
+			"pointId": 22,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105023,
+			"mapId": 105001,
+			"pointId": 23,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105024,
+			"mapId": 105001,
+			"pointId": 24,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105025,
+			"mapId": 105001,
+			"pointId": 25,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105026,
+			"mapId": 105001,
+			"pointId": 26,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105027,
+			"mapId": 105001,
+			"pointId": 27,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105028,
+			"mapId": 105001,
+			"pointId": 28,
+			"enable": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105029,
+			"mapId": 105001,
+			"pointId": 29,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105030,
+			"mapId": 105001,
+			"pointId": 30,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105031,
+			"mapId": 105001,
+			"pointId": 31,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105032,
+			"mapId": 105001,
+			"pointId": 32,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105033,
+			"mapId": 105001,
+			"pointId": 33,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 1005,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {}
+		},
+		{
+			"id": 105034,
+			"mapId": 105001,
+			"pointId": 34,
+			"enable": true,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105035,
+			"mapId": 105001,
+			"pointId": 35,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105036,
+			"mapId": 105001,
+			"pointId": 36,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105037,
+			"mapId": 105001,
+			"pointId": 37,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105038,
+			"mapId": 105001,
+			"pointId": 38,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105039,
+			"mapId": 105001,
+			"pointId": 39,
+			"enable": false,
+			"o_AMKNCHOLNKE": false,
+			"pointType": 0,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		},
+		{
+			"id": 105040,
+			"mapId": 105001,
+			"pointId": 40,
+			"enable": true,
+			"pointType": 5,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		}
+	]
+}

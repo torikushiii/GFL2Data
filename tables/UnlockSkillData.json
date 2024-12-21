@@ -1,0 +1,596 @@
+{
+	"data": [
+		{
+			"id": 11,
+			"description": "1001克罗丽科技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 11,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 12,
+			"description": "1008纳美西丝技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 12,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 13,
+			"description": "1009寇尔芙技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 13,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 14,
+			"description": "1013莱娜技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 14,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 15,
+			"description": "1015维普蕾技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 15,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 16,
+			"description": "1017闪电技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 16,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 17,
+			"description": "1021佩里缇亚技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 17,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 18,
+			"description": "1022夏克里技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 18,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 19,
+			"description": "1024奇塔技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 19,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 20,
+			"description": "1025托洛洛技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 20,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 21,
+			"description": "1026纳甘技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 21,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 22,
+			"description": "1027琼玖技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 22,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 23,
+			"description": "1028桑朵莱希技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 23,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 24,
+			"description": "1029塞布丽娜技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 24,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 25,
+			"description": "1032黛烟技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 25,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 26,
+			"description": "1033莫辛纳甘技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 26,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 27,
+			"description": "1034玛绮朵技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 27,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 28,
+			"description": "1035绛雨技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 28,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 29,
+			"description": "1036科谢尼娅技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 29,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 30,
+			"description": "1038莉塔拉技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 30,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 31,
+			"description": "1037乌尔丽德技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 31,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 32,
+			"description": "1039索米技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 32,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 33,
+			"description": "1040波波沙技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 33,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 34,
+			"description": "1041洛塔技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 34,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 35,
+			"description": "1042安朵丝技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 35,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 36,
+			"description": "1043绯技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 36,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 37,
+			"description": "1044维克托技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 37,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 38,
+			"description": "1045比悠卡技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 38,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 39,
+			"description": "1046乌琪技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 39,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 40,
+			"description": "1047春田技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 40,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 41,
+			"description": "104864式步枪技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 41,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 42,
+			"description": "1049哈卜茜技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 42,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 43,
+			"description": "1050朝晖技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 43,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 44,
+			"description": "1051米什缇技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 44,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 45,
+			"description": "1052可露凯技能1和技能2",
+			"tutorialPageId": 490020202,
+			"skillId": 45,
+			"storyId": 110,
+			"stageId": 10102
+		},
+		{
+			"id": 46,
+			"description": "1001克罗丽科普攻、被动和大招",
+			"skillId": 46,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 47,
+			"description": "1008纳美西丝普攻、被动和大招",
+			"skillId": 47,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 48,
+			"description": "1009寇尔芙普攻、被动和大招",
+			"skillId": 48,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 49,
+			"description": "1013莱娜普攻、被动和大招",
+			"skillId": 49,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 50,
+			"description": "1015维普蕾普攻、被动和大招",
+			"skillId": 50,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 51,
+			"description": "1017闪电普攻、被动和大招",
+			"skillId": 51,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 52,
+			"description": "1021佩里缇亚普攻、被动和大招",
+			"skillId": 52,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 53,
+			"description": "1022夏克里普攻、被动和大招",
+			"skillId": 53,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 54,
+			"description": "1024奇塔普攻、被动和大招",
+			"skillId": 54,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 55,
+			"description": "1025托洛洛普攻、被动和大招",
+			"skillId": 55,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 56,
+			"description": "1026纳甘普攻、被动和大招",
+			"skillId": 56,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 57,
+			"description": "1027琼玖普攻、被动和大招",
+			"skillId": 57,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 58,
+			"description": "1028桑朵莱希普攻、被动和大招",
+			"skillId": 58,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 59,
+			"description": "1029塞布丽娜普攻、被动和大招",
+			"skillId": 59,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 60,
+			"description": "1032黛烟普攻、被动和大招",
+			"skillId": 60,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 61,
+			"description": "1033莫辛纳甘普攻、被动和大招",
+			"skillId": 61,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 62,
+			"description": "1034玛绮朵普攻、被动和大招",
+			"skillId": 62,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 63,
+			"description": "1035绛雨普攻、被动和大招",
+			"skillId": 63,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 64,
+			"description": "1036科谢尼娅普攻、被动和大招",
+			"skillId": 64,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 65,
+			"description": "1038莉塔拉普攻、被动和大招",
+			"skillId": 65,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 66,
+			"description": "1037乌尔丽德技能1和技能2",
+			"skillId": 66,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 67,
+			"description": "1039索米技能1和技能2",
+			"skillId": 67,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 68,
+			"description": "1040波波沙技能1和技能2",
+			"skillId": 68,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 69,
+			"description": "1041洛塔技能1和技能2",
+			"skillId": 69,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 70,
+			"description": "1042安朵丝技能1和技能2",
+			"skillId": 70,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 71,
+			"description": "1043绯技能1和技能2",
+			"skillId": 71,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 72,
+			"description": "1044维克托技能1和技能2",
+			"skillId": 72,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 73,
+			"description": "1045比悠卡技能1和技能2",
+			"skillId": 73,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 74,
+			"description": "1046乌琪技能1和技能2",
+			"skillId": 74,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 75,
+			"description": "1047春田技能1和技能2",
+			"skillId": 75,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 76,
+			"description": "104864式步枪技能1和技能2",
+			"skillId": 76,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 77,
+			"description": "1049哈卜茜技能1和技能2",
+			"skillId": 77,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 78,
+			"description": "1050朝晖技能1和技能2",
+			"skillId": 78,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 79,
+			"description": "1051米什缇技能1和技能2",
+			"skillId": 79,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 80,
+			"description": "1052可露凯技能1和技能2",
+			"skillId": 80,
+			"storyId": 107,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 81,
+			"description": "1021佩里缇亚普攻和大招外所有技能",
+			"tutorialPageId": 1000101002,
+			"skillId": 81,
+			"storyId": 100,
+			"stageId": 10001
+		},
+		{
+			"id": 82,
+			"description": "1025托洛洛普攻和大招外所有技能",
+			"tutorialPageId": 1000101002,
+			"skillId": 82,
+			"storyId": 100,
+			"stageId": 10001
+		},
+		{
+			"id": 83,
+			"description": "1017闪电被动",
+			"skillId": 83,
+			"storyId": 104,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		},
+		{
+			"id": 84,
+			"description": "1008纳美西丝被动",
+			"skillId": 84,
+			"storyId": 104,
+			"stageId": 10103,
+			"tutorialPageId": 0
+		}
+	]
+}

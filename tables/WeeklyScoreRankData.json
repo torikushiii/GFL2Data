@@ -1,0 +1,654 @@
+{
+	"data": [
+		{
+			"id": 11,
+			"level": 1,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				1919
+			],
+			"rank": 1,
+			"reward": {
+				"13": 70
+			}
+		},
+		{
+			"id": 12,
+			"level": 1,
+			"name": "Good",
+			"scoreSection": [
+				1920,
+				4799
+			],
+			"rank": 2,
+			"reward": {
+				"13": 75
+			}
+		},
+		{
+			"id": 13,
+			"level": 1,
+			"name": "Great",
+			"scoreSection": [
+				4800,
+				7679
+			],
+			"rank": 3,
+			"reward": {
+				"13": 80
+			}
+		},
+		{
+			"id": 14,
+			"level": 1,
+			"name": "Excellent",
+			"scoreSection": [
+				7680,
+				9599
+			],
+			"rank": 4,
+			"reward": {
+				"13": 90
+			}
+		},
+		{
+			"id": 15,
+			"level": 1,
+			"name": "Outstanding",
+			"scoreSection": [
+				9600,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 100
+			}
+		},
+		{
+			"id": 21,
+			"level": 2,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				2499
+			],
+			"rank": 1,
+			"reward": {
+				"13": 105
+			}
+		},
+		{
+			"id": 22,
+			"level": 2,
+			"name": "Good",
+			"scoreSection": [
+				2500,
+				6249
+			],
+			"rank": 2,
+			"reward": {
+				"13": 115
+			}
+		},
+		{
+			"id": 23,
+			"level": 2,
+			"name": "Great",
+			"scoreSection": [
+				6250,
+				9999
+			],
+			"rank": 3,
+			"reward": {
+				"13": 125
+			}
+		},
+		{
+			"id": 24,
+			"level": 2,
+			"name": "Excellent",
+			"scoreSection": [
+				10000,
+				12499
+			],
+			"rank": 4,
+			"reward": {
+				"13": 135
+			}
+		},
+		{
+			"id": 25,
+			"level": 2,
+			"name": "Outstanding",
+			"scoreSection": [
+				12500,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 150
+			}
+		},
+		{
+			"id": 31,
+			"level": 3,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				3259
+			],
+			"rank": 1,
+			"reward": {
+				"13": 155
+			}
+		},
+		{
+			"id": 32,
+			"level": 3,
+			"name": "Good",
+			"scoreSection": [
+				3260,
+				8149
+			],
+			"rank": 2,
+			"reward": {
+				"13": 165
+			}
+		},
+		{
+			"id": 33,
+			"level": 3,
+			"name": "Great",
+			"scoreSection": [
+				8150,
+				13039
+			],
+			"rank": 3,
+			"reward": {
+				"13": 175
+			}
+		},
+		{
+			"id": 34,
+			"level": 3,
+			"name": "Excellent",
+			"scoreSection": [
+				13040,
+				16299
+			],
+			"rank": 4,
+			"reward": {
+				"13": 185
+			}
+		},
+		{
+			"id": 35,
+			"level": 3,
+			"name": "Outstanding",
+			"scoreSection": [
+				16300,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 200
+			}
+		},
+		{
+			"id": 41,
+			"level": 4,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				4739
+			],
+			"rank": 1,
+			"reward": {
+				"13": 205
+			}
+		},
+		{
+			"id": 42,
+			"level": 4,
+			"name": "Good",
+			"scoreSection": [
+				4740,
+				11849
+			],
+			"rank": 2,
+			"reward": {
+				"13": 225
+			}
+		},
+		{
+			"id": 43,
+			"level": 4,
+			"name": "Great",
+			"scoreSection": [
+				11850,
+				18959
+			],
+			"rank": 3,
+			"reward": {
+				"13": 250
+			}
+		},
+		{
+			"id": 44,
+			"level": 4,
+			"name": "Excellent",
+			"scoreSection": [
+				18960,
+				23699
+			],
+			"rank": 4,
+			"reward": {
+				"13": 275
+			}
+		},
+		{
+			"id": 45,
+			"level": 4,
+			"name": "Outstanding",
+			"scoreSection": [
+				23700,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 300
+			}
+		},
+		{
+			"id": 51,
+			"level": 5,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				6079
+			],
+			"rank": 1,
+			"reward": {
+				"13": 305
+			}
+		},
+		{
+			"id": 52,
+			"level": 5,
+			"name": "Good",
+			"scoreSection": [
+				6080,
+				15199
+			],
+			"rank": 2,
+			"reward": {
+				"13": 325
+			}
+		},
+		{
+			"id": 53,
+			"level": 5,
+			"name": "Great",
+			"scoreSection": [
+				15200,
+				24319
+			],
+			"rank": 3,
+			"reward": {
+				"13": 350
+			}
+		},
+		{
+			"id": 54,
+			"level": 5,
+			"name": "Excellent",
+			"scoreSection": [
+				24320,
+				30399
+			],
+			"rank": 4,
+			"reward": {
+				"13": 375
+			}
+		},
+		{
+			"id": 55,
+			"level": 5,
+			"name": "Outstanding",
+			"scoreSection": [
+				30400,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 400
+			}
+		},
+		{
+			"id": 61,
+			"level": 6,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				11399
+			],
+			"rank": 1,
+			"reward": {
+				"13": 405
+			}
+		},
+		{
+			"id": 62,
+			"level": 6,
+			"name": "Good",
+			"scoreSection": [
+				11400,
+				28499
+			],
+			"rank": 2,
+			"reward": {
+				"13": 425
+			}
+		},
+		{
+			"id": 63,
+			"level": 6,
+			"name": "Great",
+			"scoreSection": [
+				28500,
+				45599
+			],
+			"rank": 3,
+			"reward": {
+				"13": 450
+			}
+		},
+		{
+			"id": 64,
+			"level": 6,
+			"name": "Excellent",
+			"scoreSection": [
+				45600,
+				56999
+			],
+			"rank": 4,
+			"reward": {
+				"13": 475
+			}
+		},
+		{
+			"id": 65,
+			"level": 6,
+			"name": "Outstanding",
+			"scoreSection": [
+				57000,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 500
+			}
+		},
+		{
+			"id": 71,
+			"level": 7,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				14819
+			],
+			"rank": 1,
+			"reward": {
+				"13": 505
+			}
+		},
+		{
+			"id": 72,
+			"level": 7,
+			"name": "Good",
+			"scoreSection": [
+				14820,
+				37049
+			],
+			"rank": 2,
+			"reward": {
+				"13": 525
+			}
+		},
+		{
+			"id": 73,
+			"level": 7,
+			"name": "Great",
+			"scoreSection": [
+				37050,
+				59279
+			],
+			"rank": 3,
+			"reward": {
+				"13": 550
+			}
+		},
+		{
+			"id": 74,
+			"level": 7,
+			"name": "Excellent",
+			"scoreSection": [
+				59280,
+				74099
+			],
+			"rank": 4,
+			"reward": {
+				"13": 575
+			}
+		},
+		{
+			"id": 75,
+			"level": 7,
+			"name": "Outstanding",
+			"scoreSection": [
+				74100,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 600
+			}
+		},
+		{
+			"id": 81,
+			"level": 8,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				19259
+			],
+			"rank": 1,
+			"reward": {
+				"13": 650
+			}
+		},
+		{
+			"id": 82,
+			"level": 8,
+			"name": "Good",
+			"scoreSection": [
+				19260,
+				48149
+			],
+			"rank": 2,
+			"reward": {
+				"13": 680
+			}
+		},
+		{
+			"id": 83,
+			"level": 8,
+			"name": "Great",
+			"scoreSection": [
+				48150,
+				77039
+			],
+			"rank": 3,
+			"reward": {
+				"13": 720
+			}
+		},
+		{
+			"id": 84,
+			"level": 8,
+			"name": "Excellent",
+			"scoreSection": [
+				77040,
+				96299
+			],
+			"rank": 4,
+			"reward": {
+				"13": 760
+			}
+		},
+		{
+			"id": 85,
+			"level": 8,
+			"name": "Outstanding",
+			"scoreSection": [
+				96300,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 820
+			}
+		},
+		{
+			"id": 91,
+			"level": 9,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				39319
+			],
+			"rank": 1,
+			"reward": {
+				"13": 730
+			}
+		},
+		{
+			"id": 92,
+			"level": 9,
+			"name": "Good",
+			"scoreSection": [
+				39320,
+				98299
+			],
+			"rank": 2,
+			"reward": {
+				"13": 750
+			}
+		},
+		{
+			"id": 93,
+			"level": 9,
+			"name": "Great",
+			"scoreSection": [
+				98300,
+				157279
+			],
+			"rank": 3,
+			"reward": {
+				"13": 770
+			}
+		},
+		{
+			"id": 94,
+			"level": 9,
+			"name": "Excellent",
+			"scoreSection": [
+				157280,
+				196599
+			],
+			"rank": 4,
+			"reward": {
+				"13": 790
+			}
+		},
+		{
+			"id": 95,
+			"level": 9,
+			"name": "Outstanding",
+			"scoreSection": [
+				196600,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 820
+			}
+		},
+		{
+			"id": 101,
+			"level": 10,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				60999
+			],
+			"rank": 1,
+			"reward": {
+				"13": 730
+			}
+		},
+		{
+			"id": 102,
+			"level": 10,
+			"name": "Good",
+			"scoreSection": [
+				61000,
+				152499
+			],
+			"rank": 2,
+			"reward": {
+				"13": 750
+			}
+		},
+		{
+			"id": 103,
+			"level": 10,
+			"name": "Great",
+			"scoreSection": [
+				152500,
+				243999
+			],
+			"rank": 3,
+			"reward": {
+				"13": 770
+			}
+		},
+		{
+			"id": 104,
+			"level": 10,
+			"name": "Excellent",
+			"scoreSection": [
+				244000,
+				304999
+			],
+			"rank": 4,
+			"reward": {
+				"13": 790
+			}
+		},
+		{
+			"id": 105,
+			"level": 10,
+			"name": "Outstanding",
+			"scoreSection": [
+				305000,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 820
+			}
+		}
+	]
+}

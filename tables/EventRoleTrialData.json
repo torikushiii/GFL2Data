@@ -1,0 +1,136 @@
+{
+	"data": [
+		{
+			"id": 60004,
+			"bgImage": "ActivityChrTryItemBg_Tololo",
+			"gachaId": "103001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-05"
+		},
+		{
+			"id": 60005,
+			"bgImage": "ActivityChrTryItemBg_Daiyan",
+			"gachaId": "106001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60006,
+			"bgImage": "ActivityChrTryItemBg_Sabrina",
+			"gachaId": "7001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60007,
+			"bgImage": "ActivityChrTryItemBg_Centaureissi",
+			"gachaId": "9001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60009,
+			"bgImage": "ActivityChrTryItemBg_Qiongjiu",
+			"gachaId": "11001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 60047,
+			"bgImage": "ActivityChrTryItemBg_Lenna",
+			"gachaId": "13001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60048,
+			"bgImage": "ActivityChrTryItemBg_Mosinnagant",
+			"gachaId": "1019001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
+		},
+		{
+			"id": 60063,
+			"bgImage": "ActivityChrTryItemBg_Jiangyu",
+			"gachaId": "17001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60064,
+			"bgImage": "ActivityChrTryItemBg_Peritya",
+			"gachaId": "21001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60065,
+			"bgImage": "ActivityChrTryItemBg_Daiyan",
+			"gachaId": "15001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60074,
+			"bgImage": "ActivityChrTryItemBg_Macqiato",
+			"gachaId": "1023001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60079,
+			"bgImage": "ActivityChrTryItemBg_Centaureissi",
+			"gachaId": "25001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60082,
+			"bgImage": "ActivityChrTryItemBg_Ullrid",
+			"gachaId": "1033001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 60089,
+			"bgImage": "ActivityChrTryItemBg_Lenna",
+			"gachaId": "29001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60091,
+			"bgImage": "ActivityChrTryItemBg_Suomi",
+			"gachaId": "1031001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60092,
+			"bgImage": "ActivityChrTryItemBg_Jiangyu",
+			"gachaId": "33001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60102,
+			"bgImage": "ActivityChrTryItemBg_Dusevnyj",
+			"gachaId": "35001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60103,
+			"bgImage": "ActivityChrTryItemBg_Macqiato",
+			"gachaId": "37001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60202,
+			"bgImage": "ActivityChrTryItemBg_Zhaohui",
+			"gachaId": "39001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
+		},
+		{
+			"id": 60203,
+			"bgImage": "ActivityChrTryItemBg_Ullrid",
+			"gachaId": "41001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 60309,
+			"bgImage": "ActivityChrTryItemBg_Clukay",
+			"gachaId": "43001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
+		},
+		{
+			"id": 60310,
+			"bgImage": "ActivityChrTryItemBg_Suomi",
+			"gachaId": "45001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		}
+	]
+}

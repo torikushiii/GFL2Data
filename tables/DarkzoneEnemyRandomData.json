@@ -1,0 +1,13945 @@
+{
+	"data": [
+		{
+			"id": 980,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				980
+			]
+		},
+		{
+			"id": 9601,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9601
+			]
+		},
+		{
+			"id": 9602,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9602
+			]
+		},
+		{
+			"id": 9603,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9603
+			]
+		},
+		{
+			"id": 9604,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9604
+			]
+		},
+		{
+			"id": 9605,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9605
+			]
+		},
+		{
+			"id": 11011,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11011
+			]
+		},
+		{
+			"id": 1010910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1010910
+			]
+		},
+		{
+			"id": 1011210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1011210
+			]
+		},
+		{
+			"id": 1011510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1011510
+			]
+		},
+		{
+			"id": 1011710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1011710
+			]
+		},
+		{
+			"id": 1011910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1011910
+			]
+		},
+		{
+			"id": 1012110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1012110
+			]
+		},
+		{
+			"id": 1012410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1012410
+			]
+		},
+		{
+			"id": 1012610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1012610
+			]
+		},
+		{
+			"id": 1012910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1012910
+			]
+		},
+		{
+			"id": 1013110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1013110
+			]
+		},
+		{
+			"id": 1013210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1013210
+			]
+		},
+		{
+			"id": 1013510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1013510
+			]
+		},
+		{
+			"id": 1013610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1013610
+			]
+		},
+		{
+			"id": 1013710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1013710
+			]
+		},
+		{
+			"id": 1014010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014010
+			]
+		},
+		{
+			"id": 1014310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014310
+			]
+		},
+		{
+			"id": 1014410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014410
+			]
+		},
+		{
+			"id": 1014610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014610
+			]
+		},
+		{
+			"id": 1014710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014710
+			]
+		},
+		{
+			"id": 1014910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1014910
+			]
+		},
+		{
+			"id": 1015010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015010
+			]
+		},
+		{
+			"id": 1015110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015110
+			]
+		},
+		{
+			"id": 1015210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015210
+			]
+		},
+		{
+			"id": 1015310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015310
+			]
+		},
+		{
+			"id": 1015410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015410
+			]
+		},
+		{
+			"id": 1015510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015510
+			]
+		},
+		{
+			"id": 1015710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015710
+			]
+		},
+		{
+			"id": 1015810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015810
+			]
+		},
+		{
+			"id": 1015910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1015910
+			]
+		},
+		{
+			"id": 1016010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016010
+			]
+		},
+		{
+			"id": 1016110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016110
+			]
+		},
+		{
+			"id": 1016210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016210
+			]
+		},
+		{
+			"id": 1016310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016310
+			]
+		},
+		{
+			"id": 1016410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016410
+			]
+		},
+		{
+			"id": 1016510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016510
+			]
+		},
+		{
+			"id": 1016610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016610
+			]
+		},
+		{
+			"id": 1016710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016710
+			]
+		},
+		{
+			"id": 1016810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1016810
+			]
+		},
+		{
+			"id": 1017010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1017010
+			]
+		},
+		{
+			"id": 1017210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1017210
+			]
+		},
+		{
+			"id": 1017510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1017510
+			]
+		},
+		{
+			"id": 1017710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1017710
+			]
+		},
+		{
+			"id": 1017910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1017910
+			]
+		},
+		{
+			"id": 1018110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1018110
+			]
+		},
+		{
+			"id": 1018410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1018410
+			]
+		},
+		{
+			"id": 1018610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1018610
+			]
+		},
+		{
+			"id": 1018710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1018710
+			]
+		},
+		{
+			"id": 1018910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1018910
+			]
+		},
+		{
+			"id": 1019110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1019110
+			]
+		},
+		{
+			"id": 1019410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1019410
+			]
+		},
+		{
+			"id": 1019910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1019910
+			]
+		},
+		{
+			"id": 1118201,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1118201
+			]
+		},
+		{
+			"id": 1119201,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1119201
+			]
+		},
+		{
+			"id": 2006410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2006410
+			]
+		},
+		{
+			"id": 2007010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2007010
+			]
+		},
+		{
+			"id": 2007510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2007510
+			]
+		},
+		{
+			"id": 2009711,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2009711
+			]
+		},
+		{
+			"id": 2009910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2009910
+			]
+		},
+		{
+			"id": 2020110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2020110
+			]
+		},
+		{
+			"id": 2021012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2021012
+			]
+		},
+		{
+			"id": 2021310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2021310
+			]
+		},
+		{
+			"id": 2021312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2021312
+			]
+		},
+		{
+			"id": 2021812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2021812
+			]
+		},
+		{
+			"id": 2022010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022010
+			]
+		},
+		{
+			"id": 2022012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022012
+			]
+		},
+		{
+			"id": 2022210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022210
+			]
+		},
+		{
+			"id": 2022212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022212
+			]
+		},
+		{
+			"id": 2022510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022510
+			]
+		},
+		{
+			"id": 2022512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022512
+			]
+		},
+		{
+			"id": 2022710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2022710
+			]
+		},
+		{
+			"id": 2023310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023310
+			]
+		},
+		{
+			"id": 2023312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023312
+			]
+		},
+		{
+			"id": 2023510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023510
+			]
+		},
+		{
+			"id": 2023512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023512
+			]
+		},
+		{
+			"id": 2023610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023610
+			]
+		},
+		{
+			"id": 2023612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023612
+			]
+		},
+		{
+			"id": 2023710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023710
+			]
+		},
+		{
+			"id": 2023712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023712
+			]
+		},
+		{
+			"id": 2023910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2023910
+			]
+		},
+		{
+			"id": 2024110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024110
+			]
+		},
+		{
+			"id": 2024310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024310
+			]
+		},
+		{
+			"id": 2024510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024510
+			]
+		},
+		{
+			"id": 2024512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024512
+			]
+		},
+		{
+			"id": 2024610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024610
+			]
+		},
+		{
+			"id": 2024810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024810
+			]
+		},
+		{
+			"id": 2024812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2024812
+			]
+		},
+		{
+			"id": 2025110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025110
+			]
+		},
+		{
+			"id": 2025112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025112
+			]
+		},
+		{
+			"id": 2025210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025210
+			]
+		},
+		{
+			"id": 2025310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025310
+			]
+		},
+		{
+			"id": 2025410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025410
+			]
+		},
+		{
+			"id": 2025412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025412
+			]
+		},
+		{
+			"id": 2025712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025712
+			]
+		},
+		{
+			"id": 2025810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025810
+			]
+		},
+		{
+			"id": 2025812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2025812
+			]
+		},
+		{
+			"id": 2029711,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2029711
+			]
+		},
+		{
+			"id": 2101101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2101101
+			]
+		},
+		{
+			"id": 2102101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2102101
+			]
+		},
+		{
+			"id": 2103101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2103101
+			]
+		},
+		{
+			"id": 2104101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2104101
+			]
+		},
+		{
+			"id": 2105101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2105101
+			]
+		},
+		{
+			"id": 2106101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2106101
+			]
+		},
+		{
+			"id": 2107101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2107101
+			]
+		},
+		{
+			"id": 2108101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2108101
+			]
+		},
+		{
+			"id": 2109101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2109101
+			]
+		},
+		{
+			"id": 2110101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2110101
+			]
+		},
+		{
+			"id": 2111101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				2111101
+			]
+		},
+		{
+			"id": 3010101,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				3010101
+			]
+		},
+		{
+			"id": 3010102,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				3010102
+			]
+		},
+		{
+			"id": 3010103,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				3010103
+			]
+		},
+		{
+			"id": 3016104,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				3016104
+			]
+		},
+		{
+			"id": 9011010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9011010
+			]
+		},
+		{
+			"id": 9011812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9011812
+			]
+		},
+		{
+			"id": 9012010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9012010
+			]
+		},
+		{
+			"id": 9014510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9014510
+			]
+		},
+		{
+			"id": 9014512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9014512
+			]
+		},
+		{
+			"id": 9015412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9015412
+			]
+		},
+		{
+			"id": 9015810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9015810
+			]
+		},
+		{
+			"id": 9016910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9016910
+			]
+		},
+		{
+			"id": 9017310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9017310
+			]
+		},
+		{
+			"id": 9018010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9018010
+			]
+		},
+		{
+			"id": 9018012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9018012
+			]
+		},
+		{
+			"id": 9018310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9018310
+			]
+		},
+		{
+			"id": 9018810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9018810
+			]
+		},
+		{
+			"id": 9019410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9019410
+			]
+		},
+		{
+			"id": 9019412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9019412
+			]
+		},
+		{
+			"id": 9019810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9019810
+			]
+		},
+		{
+			"id": 9800910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9800910
+			]
+		},
+		{
+			"id": 9801210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9801210
+			]
+		},
+		{
+			"id": 9806010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				9806010
+			]
+		},
+		{
+			"id": 10110510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				10110510
+			]
+		},
+		{
+			"id": 10110710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				10110710
+			]
+		},
+		{
+			"id": 10114112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				10114112
+			]
+		},
+		{
+			"id": 11010910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11010910
+			]
+		},
+		{
+			"id": 11011210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11011210
+			]
+		},
+		{
+			"id": 11011610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11011610
+			]
+		},
+		{
+			"id": 11011810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11011810
+			]
+		},
+		{
+			"id": 11011812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11011812
+			]
+		},
+		{
+			"id": 11016210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11016210
+			]
+		},
+		{
+			"id": 11019610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11019610
+			]
+		},
+		{
+			"id": 11023510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11023510
+			]
+		},
+		{
+			"id": 11023810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11023810
+			]
+		},
+		{
+			"id": 11024010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11024010
+			]
+		},
+		{
+			"id": 11024610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11024610
+			]
+		},
+		{
+			"id": 11024910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11024910
+			]
+		},
+		{
+			"id": 11026210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11026210
+			]
+		},
+		{
+			"id": 11035510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11035510
+			]
+		},
+		{
+			"id": 11035710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11035710
+			]
+		},
+		{
+			"id": 11035810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11035810
+			]
+		},
+		{
+			"id": 11035910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11035910
+			]
+		},
+		{
+			"id": 11036110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11036110
+			]
+		},
+		{
+			"id": 11036210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11036210
+			]
+		},
+		{
+			"id": 11041010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11041010
+			]
+		},
+		{
+			"id": 11041210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11041210
+			]
+		},
+		{
+			"id": 11041810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11041810
+			]
+		},
+		{
+			"id": 11042910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11042910
+			]
+		},
+		{
+			"id": 11043012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11043012
+			]
+		},
+		{
+			"id": 11044710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11044710
+			]
+		},
+		{
+			"id": 11044910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11044910
+			]
+		},
+		{
+			"id": 11046210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11046210
+			]
+		},
+		{
+			"id": 11047510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11047510
+			]
+		},
+		{
+			"id": 11048610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11048610
+			]
+		},
+		{
+			"id": 11050210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11050210
+			]
+		},
+		{
+			"id": 11050912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11050912
+			]
+		},
+		{
+			"id": 11051010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11051010
+			]
+		},
+		{
+			"id": 11051810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11051810
+			]
+		},
+		{
+			"id": 11052010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11052010
+			]
+		},
+		{
+			"id": 11052012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11052012
+			]
+		},
+		{
+			"id": 11052510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11052510
+			]
+		},
+		{
+			"id": 11052512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11052512
+			]
+		},
+		{
+			"id": 11052610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11052610
+			]
+		},
+		{
+			"id": 11054010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11054010
+			]
+		},
+		{
+			"id": 11054110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11054110
+			]
+		},
+		{
+			"id": 11054510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11054510
+			]
+		},
+		{
+			"id": 11056110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11056110
+			]
+		},
+		{
+			"id": 11056210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11056210
+			]
+		},
+		{
+			"id": 11057810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11057810
+			]
+		},
+		{
+			"id": 11058010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11058010
+			]
+		},
+		{
+			"id": 11058012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11058012
+			]
+		},
+		{
+			"id": 11060910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11060910
+			]
+		},
+		{
+			"id": 11060912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11060912
+			]
+		},
+		{
+			"id": 11061210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11061210
+			]
+		},
+		{
+			"id": 11061810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11061810
+			]
+		},
+		{
+			"id": 11061910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11061910
+			]
+		},
+		{
+			"id": 11062010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11062010
+			]
+		},
+		{
+			"id": 11062210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11062210
+			]
+		},
+		{
+			"id": 11063310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11063310
+			]
+		},
+		{
+			"id": 11063312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11063312
+			]
+		},
+		{
+			"id": 11063510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11063510
+			]
+		},
+		{
+			"id": 11066110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11066110
+			]
+		},
+		{
+			"id": 11066210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11066210
+			]
+		},
+		{
+			"id": 11070912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11070912
+			]
+		},
+		{
+			"id": 11071512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11071512
+			]
+		},
+		{
+			"id": 11071810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11071810
+			]
+		},
+		{
+			"id": 11072510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11072510
+			]
+		},
+		{
+			"id": 11072910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11072910
+			]
+		},
+		{
+			"id": 11073210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11073210
+			]
+		},
+		{
+			"id": 11074110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11074110
+			]
+		},
+		{
+			"id": 11074310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11074310
+			]
+		},
+		{
+			"id": 11074510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11074510
+			]
+		},
+		{
+			"id": 11074710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11074710
+			]
+		},
+		{
+			"id": 11075012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11075012
+			]
+		},
+		{
+			"id": 11075810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11075810
+			]
+		},
+		{
+			"id": 11076010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11076010
+			]
+		},
+		{
+			"id": 11076110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11076110
+			]
+		},
+		{
+			"id": 11076210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11076210
+			]
+		},
+		{
+			"id": 11076310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11076310
+			]
+		},
+		{
+			"id": 11076410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11076410
+			]
+		},
+		{
+			"id": 11079012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11079012
+			]
+		},
+		{
+			"id": 11081010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11081010
+			]
+		},
+		{
+			"id": 11081012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11081012
+			]
+		},
+		{
+			"id": 11081810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11081810
+			]
+		},
+		{
+			"id": 11082010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11082010
+			]
+		},
+		{
+			"id": 11082510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11082510
+			]
+		},
+		{
+			"id": 11082710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11082710
+			]
+		},
+		{
+			"id": 11083410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11083410
+			]
+		},
+		{
+			"id": 11083510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11083510
+			]
+		},
+		{
+			"id": 11086110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11086110
+			]
+		},
+		{
+			"id": 11086210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11086210
+			]
+		},
+		{
+			"id": 11086910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11086910
+			]
+		},
+		{
+			"id": 11087110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11087110
+			]
+		},
+		{
+			"id": 11087112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11087112
+			]
+		},
+		{
+			"id": 11087412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11087412
+			]
+		},
+		{
+			"id": 11091012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11091012
+			]
+		},
+		{
+			"id": 11092810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11092810
+			]
+		},
+		{
+			"id": 11095510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11095510
+			]
+		},
+		{
+			"id": 11095710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11095710
+			]
+		},
+		{
+			"id": 11096010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11096010
+			]
+		},
+		{
+			"id": 11096110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11096110
+			]
+		},
+		{
+			"id": 11096210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11096210
+			]
+		},
+		{
+			"id": 11096310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11096310
+			]
+		},
+		{
+			"id": 11096710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11096710
+			]
+		},
+		{
+			"id": 11097112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11097112
+			]
+		},
+		{
+			"id": 11098610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11098610
+			]
+		},
+		{
+			"id": 11100310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11100310
+			]
+		},
+		{
+			"id": 11100810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11100810
+			]
+		},
+		{
+			"id": 11103610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11103610
+			]
+		},
+		{
+			"id": 11103810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11103810
+			]
+		},
+		{
+			"id": 11103910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11103910
+			]
+		},
+		{
+			"id": 11104310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104310
+			]
+		},
+		{
+			"id": 11104510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104510
+			]
+		},
+		{
+			"id": 11104810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104810
+			]
+		},
+		{
+			"id": 11104812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104812
+			]
+		},
+		{
+			"id": 11104910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104910
+			]
+		},
+		{
+			"id": 11104912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11104912
+			]
+		},
+		{
+			"id": 11105410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11105410
+			]
+		},
+		{
+			"id": 11105810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11105810
+			]
+		},
+		{
+			"id": 11106010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11106010
+			]
+		},
+		{
+			"id": 11106210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11106210
+			]
+		},
+		{
+			"id": 11106310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11106310
+			]
+		},
+		{
+			"id": 11108410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11108410
+			]
+		},
+		{
+			"id": 11110110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11110110
+			]
+		},
+		{
+			"id": 11111010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11111010
+			]
+		},
+		{
+			"id": 11111810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11111810
+			]
+		},
+		{
+			"id": 11112010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11112010
+			]
+		},
+		{
+			"id": 11113510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11113510
+			]
+		},
+		{
+			"id": 11113610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11113610
+			]
+		},
+		{
+			"id": 11113612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11113612
+			]
+		},
+		{
+			"id": 11113910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11113910
+			]
+		},
+		{
+			"id": 11114310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11114310
+			]
+		},
+		{
+			"id": 11114510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11114510
+			]
+		},
+		{
+			"id": 11114810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11114810
+			]
+		},
+		{
+			"id": 11114812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11114812
+			]
+		},
+		{
+			"id": 11114912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11114912
+			]
+		},
+		{
+			"id": 11115010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11115010
+			]
+		},
+		{
+			"id": 11115412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11115412
+			]
+		},
+		{
+			"id": 11115510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11115510
+			]
+		},
+		{
+			"id": 11115812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11115812
+			]
+		},
+		{
+			"id": 11116110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11116110
+			]
+		},
+		{
+			"id": 11116210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11116210
+			]
+		},
+		{
+			"id": 11116310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11116310
+			]
+		},
+		{
+			"id": 11116412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11116412
+			]
+		},
+		{
+			"id": 11117810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11117810
+			]
+		},
+		{
+			"id": 11118510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11118510
+			]
+		},
+		{
+			"id": 11121812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11121812
+			]
+		},
+		{
+			"id": 11124510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11124510
+			]
+		},
+		{
+			"id": 11124512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11124512
+			]
+		},
+		{
+			"id": 11125412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11125412
+			]
+		},
+		{
+			"id": 11126210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11126210
+			]
+		},
+		{
+			"id": 11126910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11126910
+			]
+		},
+		{
+			"id": 11127310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11127310
+			]
+		},
+		{
+			"id": 11128010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11128010
+			]
+		},
+		{
+			"id": 11128012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11128012
+			]
+		},
+		{
+			"id": 11128310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11128310
+			]
+		},
+		{
+			"id": 11128810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11128810
+			]
+		},
+		{
+			"id": 11129410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11129410
+			]
+		},
+		{
+			"id": 11129412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11129412
+			]
+		},
+		{
+			"id": 11129810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11129810
+			]
+		},
+		{
+			"id": 11134510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11134510
+			]
+		},
+		{
+			"id": 11134512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11134512
+			]
+		},
+		{
+			"id": 11135410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11135410
+			]
+		},
+		{
+			"id": 11136210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11136210
+			]
+		},
+		{
+			"id": 11136910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11136910
+			]
+		},
+		{
+			"id": 11137010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11137010
+			]
+		},
+		{
+			"id": 11137310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11137310
+			]
+		},
+		{
+			"id": 11137410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11137410
+			]
+		},
+		{
+			"id": 11137412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11137412
+			]
+		},
+		{
+			"id": 11137810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11137810
+			]
+		},
+		{
+			"id": 11138010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11138010
+			]
+		},
+		{
+			"id": 11139410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11139410
+			]
+		},
+		{
+			"id": 11141810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11141810
+			]
+		},
+		{
+			"id": 11142012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11142012
+			]
+		},
+		{
+			"id": 11142312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11142312
+			]
+		},
+		{
+			"id": 11142512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11142512
+			]
+		},
+		{
+			"id": 11142810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11142810
+			]
+		},
+		{
+			"id": 11146210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11146210
+			]
+		},
+		{
+			"id": 11147810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11147810
+			]
+		},
+		{
+			"id": 11147812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11147812
+			]
+		},
+		{
+			"id": 11148012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11148012
+			]
+		},
+		{
+			"id": 11148310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11148310
+			]
+		},
+		{
+			"id": 11148410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11148410
+			]
+		},
+		{
+			"id": 11148510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11148510
+			]
+		},
+		{
+			"id": 11148610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11148610
+			]
+		},
+		{
+			"id": 11149010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11149010
+			]
+		},
+		{
+			"id": 11149012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11149012
+			]
+		},
+		{
+			"id": 11149210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11149210
+			]
+		},
+		{
+			"id": 11149712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11149712
+			]
+		},
+		{
+			"id": 11150710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11150710
+			]
+		},
+		{
+			"id": 11155610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11155610
+			]
+		},
+		{
+			"id": 11155810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11155810
+			]
+		},
+		{
+			"id": 11155910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11155910
+			]
+		},
+		{
+			"id": 11156110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11156110
+			]
+		},
+		{
+			"id": 11156210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11156210
+			]
+		},
+		{
+			"id": 11156310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11156310
+			]
+		},
+		{
+			"id": 11156910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11156910
+			]
+		},
+		{
+			"id": 11156912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11156912
+			]
+		},
+		{
+			"id": 11157610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11157610
+			]
+		},
+		{
+			"id": 11159010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11159010
+			]
+		},
+		{
+			"id": 11159210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11159210
+			]
+		},
+		{
+			"id": 11160112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11160112
+			]
+		},
+		{
+			"id": 11161012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11161012
+			]
+		},
+		{
+			"id": 11161210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11161210
+			]
+		},
+		{
+			"id": 11161812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11161812
+			]
+		},
+		{
+			"id": 11162010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11162010
+			]
+		},
+		{
+			"id": 11162012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11162012
+			]
+		},
+		{
+			"id": 11162312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11162312
+			]
+		},
+		{
+			"id": 11163012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163012
+			]
+		},
+		{
+			"id": 11163410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163410
+			]
+		},
+		{
+			"id": 11163512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163512
+			]
+		},
+		{
+			"id": 11163612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163612
+			]
+		},
+		{
+			"id": 11163710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163710
+			]
+		},
+		{
+			"id": 11163712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11163712
+			]
+		},
+		{
+			"id": 11166210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11166210
+			]
+		},
+		{
+			"id": 11166310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11166310
+			]
+		},
+		{
+			"id": 11169812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11169812
+			]
+		},
+		{
+			"id": 11169912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11169912
+			]
+		},
+		{
+			"id": 11171812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11171812
+			]
+		},
+		{
+			"id": 11174210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11174210
+			]
+		},
+		{
+			"id": 11174510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11174510
+			]
+		},
+		{
+			"id": 11174512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11174512
+			]
+		},
+		{
+			"id": 11175410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11175410
+			]
+		},
+		{
+			"id": 11175412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11175412
+			]
+		},
+		{
+			"id": 11176210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11176210
+			]
+		},
+		{
+			"id": 11176510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11176510
+			]
+		},
+		{
+			"id": 11176512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11176512
+			]
+		},
+		{
+			"id": 11179410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11179410
+			]
+		},
+		{
+			"id": 11179412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11179412
+			]
+		},
+		{
+			"id": 11183710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11183710
+			]
+		},
+		{
+			"id": 11184510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11184510
+			]
+		},
+		{
+			"id": 11184512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11184512
+			]
+		},
+		{
+			"id": 11185412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11185412
+			]
+		},
+		{
+			"id": 11186210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11186210
+			]
+		},
+		{
+			"id": 11188310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11188310
+			]
+		},
+		{
+			"id": 11189410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11189410
+			]
+		},
+		{
+			"id": 11189412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11189412
+			]
+		},
+		{
+			"id": 11190710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11190710
+			]
+		},
+		{
+			"id": 11191112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11191112
+			]
+		},
+		{
+			"id": 11191512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11191512
+			]
+		},
+		{
+			"id": 11191810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11191810
+			]
+		},
+		{
+			"id": 11192012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11192012
+			]
+		},
+		{
+			"id": 11193510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193510
+			]
+		},
+		{
+			"id": 11193512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193512
+			]
+		},
+		{
+			"id": 11193610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193610
+			]
+		},
+		{
+			"id": 11193612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193612
+			]
+		},
+		{
+			"id": 11193710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193710
+			]
+		},
+		{
+			"id": 11193712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11193712
+			]
+		},
+		{
+			"id": 11194012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11194012
+			]
+		},
+		{
+			"id": 11195710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11195710
+			]
+		},
+		{
+			"id": 11195712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11195712
+			]
+		},
+		{
+			"id": 11195810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11195810
+			]
+		},
+		{
+			"id": 11196110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196110
+			]
+		},
+		{
+			"id": 11196112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196112
+			]
+		},
+		{
+			"id": 11196210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196210
+			]
+		},
+		{
+			"id": 11196212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196212
+			]
+		},
+		{
+			"id": 11196512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196512
+			]
+		},
+		{
+			"id": 11196710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196710
+			]
+		},
+		{
+			"id": 11196712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11196712
+			]
+		},
+		{
+			"id": 11201112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11201112
+			]
+		},
+		{
+			"id": 11201512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11201512
+			]
+		},
+		{
+			"id": 11201810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11201810
+			]
+		},
+		{
+			"id": 11202012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11202012
+			]
+		},
+		{
+			"id": 11203510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203510
+			]
+		},
+		{
+			"id": 11203512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203512
+			]
+		},
+		{
+			"id": 11203610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203610
+			]
+		},
+		{
+			"id": 11203612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203612
+			]
+		},
+		{
+			"id": 11203710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203710
+			]
+		},
+		{
+			"id": 11203712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11203712
+			]
+		},
+		{
+			"id": 11205710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11205710
+			]
+		},
+		{
+			"id": 11205712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11205712
+			]
+		},
+		{
+			"id": 11205810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11205810
+			]
+		},
+		{
+			"id": 11206110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206110
+			]
+		},
+		{
+			"id": 11206112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206112
+			]
+		},
+		{
+			"id": 11206210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206210
+			]
+		},
+		{
+			"id": 11206212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206212
+			]
+		},
+		{
+			"id": 11206710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206710
+			]
+		},
+		{
+			"id": 11206712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11206712
+			]
+		},
+		{
+			"id": 11211110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11211110
+			]
+		},
+		{
+			"id": 11211112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11211112
+			]
+		},
+		{
+			"id": 11215610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11215610
+			]
+		},
+		{
+			"id": 11216110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11216110
+			]
+		},
+		{
+			"id": 11216210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11216210
+			]
+		},
+		{
+			"id": 11216410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11216410
+			]
+		},
+		{
+			"id": 11216412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11216412
+			]
+		},
+		{
+			"id": 11216712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11216712
+			]
+		},
+		{
+			"id": 11220110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11220110
+			]
+		},
+		{
+			"id": 11220610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11220610
+			]
+		},
+		{
+			"id": 11221810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11221810
+			]
+		},
+		{
+			"id": 11222510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11222510
+			]
+		},
+		{
+			"id": 11222512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11222512
+			]
+		},
+		{
+			"id": 11222810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11222810
+			]
+		},
+		{
+			"id": 11224110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11224110
+			]
+		},
+		{
+			"id": 11224210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11224210
+			]
+		},
+		{
+			"id": 11224610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11224610
+			]
+		},
+		{
+			"id": 11225610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11225610
+			]
+		},
+		{
+			"id": 11225810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11225810
+			]
+		},
+		{
+			"id": 11225910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11225910
+			]
+		},
+		{
+			"id": 11226210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11226210
+			]
+		},
+		{
+			"id": 11226510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11226510
+			]
+		},
+		{
+			"id": 11226610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11226610
+			]
+		},
+		{
+			"id": 11226710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11226710
+			]
+		},
+		{
+			"id": 11227110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11227110
+			]
+		},
+		{
+			"id": 11227112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11227112
+			]
+		},
+		{
+			"id": 11227610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11227610
+			]
+		},
+		{
+			"id": 11227810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11227810
+			]
+		},
+		{
+			"id": 11227812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11227812
+			]
+		},
+		{
+			"id": 11228010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11228010
+			]
+		},
+		{
+			"id": 11228510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11228510
+			]
+		},
+		{
+			"id": 11228810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11228810
+			]
+		},
+		{
+			"id": 11229010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11229010
+			]
+		},
+		{
+			"id": 11229012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11229012
+			]
+		},
+		{
+			"id": 11229210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11229210
+			]
+		},
+		{
+			"id": 11229310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11229310
+			]
+		},
+		{
+			"id": 11229910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11229910
+			]
+		},
+		{
+			"id": 11230710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11230710
+			]
+		},
+		{
+			"id": 11231110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11231110
+			]
+		},
+		{
+			"id": 11231410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11231410
+			]
+		},
+		{
+			"id": 11231810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11231810
+			]
+		},
+		{
+			"id": 11232810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11232810
+			]
+		},
+		{
+			"id": 11233510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11233510
+			]
+		},
+		{
+			"id": 11234510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11234510
+			]
+		},
+		{
+			"id": 11235610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11235610
+			]
+		},
+		{
+			"id": 11235910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11235910
+			]
+		},
+		{
+			"id": 11236010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11236010
+			]
+		},
+		{
+			"id": 11236110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11236110
+			]
+		},
+		{
+			"id": 11236210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11236210
+			]
+		},
+		{
+			"id": 11237610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11237610
+			]
+		},
+		{
+			"id": 11238010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11238010
+			]
+		},
+		{
+			"id": 11238310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11238310
+			]
+		},
+		{
+			"id": 11239010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11239010
+			]
+		},
+		{
+			"id": 11239210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11239210
+			]
+		},
+		{
+			"id": 11239410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11239410
+			]
+		},
+		{
+			"id": 11241110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11241110
+			]
+		},
+		{
+			"id": 11241112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11241112
+			]
+		},
+		{
+			"id": 11241410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11241410
+			]
+		},
+		{
+			"id": 11241810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11241810
+			]
+		},
+		{
+			"id": 11241812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11241812
+			]
+		},
+		{
+			"id": 11242312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11242312
+			]
+		},
+		{
+			"id": 11243410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11243410
+			]
+		},
+		{
+			"id": 11243512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11243512
+			]
+		},
+		{
+			"id": 11243612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11243612
+			]
+		},
+		{
+			"id": 11243712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11243712
+			]
+		},
+		{
+			"id": 11244510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11244510
+			]
+		},
+		{
+			"id": 11244512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11244512
+			]
+		},
+		{
+			"id": 11245210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11245210
+			]
+		},
+		{
+			"id": 11245310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11245310
+			]
+		},
+		{
+			"id": 11245410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11245410
+			]
+		},
+		{
+			"id": 11245710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11245710
+			]
+		},
+		{
+			"id": 11245712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11245712
+			]
+		},
+		{
+			"id": 11246110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11246110
+			]
+		},
+		{
+			"id": 11246210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11246210
+			]
+		},
+		{
+			"id": 11246410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11246410
+			]
+		},
+		{
+			"id": 11246510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11246510
+			]
+		},
+		{
+			"id": 11246710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11246710
+			]
+		},
+		{
+			"id": 11254510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11254510
+			]
+		},
+		{
+			"id": 11254512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11254512
+			]
+		},
+		{
+			"id": 11255210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11255210
+			]
+		},
+		{
+			"id": 11255412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11255412
+			]
+		},
+		{
+			"id": 11256210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11256210
+			]
+		},
+		{
+			"id": 11266210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11266210
+			]
+		},
+		{
+			"id": 11266910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11266910
+			]
+		},
+		{
+			"id": 11266912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11266912
+			]
+		},
+		{
+			"id": 11267110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267110
+			]
+		},
+		{
+			"id": 11267112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267112
+			]
+		},
+		{
+			"id": 11267410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267410
+			]
+		},
+		{
+			"id": 11267412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267412
+			]
+		},
+		{
+			"id": 11267610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267610
+			]
+		},
+		{
+			"id": 11267810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11267810
+			]
+		},
+		{
+			"id": 11268010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11268010
+			]
+		},
+		{
+			"id": 11268310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11268310
+			]
+		},
+		{
+			"id": 11269210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11269210
+			]
+		},
+		{
+			"id": 11271110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11271110
+			]
+		},
+		{
+			"id": 11271112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11271112
+			]
+		},
+		{
+			"id": 11271410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11271410
+			]
+		},
+		{
+			"id": 11271610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11271610
+			]
+		},
+		{
+			"id": 11271810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11271810
+			]
+		},
+		{
+			"id": 11272310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272310
+			]
+		},
+		{
+			"id": 11272312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272312
+			]
+		},
+		{
+			"id": 11272510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272510
+			]
+		},
+		{
+			"id": 11272512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272512
+			]
+		},
+		{
+			"id": 11272810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272810
+			]
+		},
+		{
+			"id": 11272812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11272812
+			]
+		},
+		{
+			"id": 11273010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273010
+			]
+		},
+		{
+			"id": 11273012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273012
+			]
+		},
+		{
+			"id": 11273410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273410
+			]
+		},
+		{
+			"id": 11273510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273510
+			]
+		},
+		{
+			"id": 11273512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273512
+			]
+		},
+		{
+			"id": 11273610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273610
+			]
+		},
+		{
+			"id": 11273612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273612
+			]
+		},
+		{
+			"id": 11273710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273710
+			]
+		},
+		{
+			"id": 11273712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11273712
+			]
+		},
+		{
+			"id": 11276110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11276110
+			]
+		},
+		{
+			"id": 11276112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11276112
+			]
+		},
+		{
+			"id": 11276210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11276210
+			]
+		},
+		{
+			"id": 11276212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11276212
+			]
+		},
+		{
+			"id": 11283610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11283610
+			]
+		},
+		{
+			"id": 11283710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11283710
+			]
+		},
+		{
+			"id": 11286110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11286110
+			]
+		},
+		{
+			"id": 11286210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11286210
+			]
+		},
+		{
+			"id": 11654210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11654210
+			]
+		},
+		{
+			"id": 11654812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11654812
+			]
+		},
+		{
+			"id": 11656910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11656910
+			]
+		},
+		{
+			"id": 11657810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11657810
+			]
+		},
+		{
+			"id": 11658012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11658012
+			]
+		},
+		{
+			"id": 11658810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11658810
+			]
+		},
+		{
+			"id": 11659010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11659010
+			]
+		},
+		{
+			"id": 11659012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11659012
+			]
+		},
+		{
+			"id": 11659210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11659210
+			]
+		},
+		{
+			"id": 11659412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11659412
+			]
+		},
+		{
+			"id": 11691810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11691810
+			]
+		},
+		{
+			"id": 11692312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11692312
+			]
+		},
+		{
+			"id": 11692510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11692510
+			]
+		},
+		{
+			"id": 11692512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11692512
+			]
+		},
+		{
+			"id": 11692810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11692810
+			]
+		},
+		{
+			"id": 11692812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11692812
+			]
+		},
+		{
+			"id": 11693012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11693012
+			]
+		},
+		{
+			"id": 11693612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11693612
+			]
+		},
+		{
+			"id": 11696110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11696110
+			]
+		},
+		{
+			"id": 11699712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11699712
+			]
+		},
+		{
+			"id": 11703910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11703910
+			]
+		},
+		{
+			"id": 11706310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11706310
+			]
+		},
+		{
+			"id": 11708610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11708610
+			]
+		},
+		{
+			"id": 11708810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11708810
+			]
+		},
+		{
+			"id": 11709010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11709010
+			]
+		},
+		{
+			"id": 11709012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11709012
+			]
+		},
+		{
+			"id": 11709412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11709412
+			]
+		},
+		{
+			"id": 11713112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11713112
+			]
+		},
+		{
+			"id": 11713410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11713410
+			]
+		},
+		{
+			"id": 11715710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11715710
+			]
+		},
+		{
+			"id": 11715810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11715810
+			]
+		},
+		{
+			"id": 11715812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11715812
+			]
+		},
+		{
+			"id": 11715910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11715910
+			]
+		},
+		{
+			"id": 11716010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11716010
+			]
+		},
+		{
+			"id": 11716110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11716110
+			]
+		},
+		{
+			"id": 11716712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11716712
+			]
+		},
+		{
+			"id": 11719812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11719812
+			]
+		},
+		{
+			"id": 11719910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11719910
+			]
+		},
+		{
+			"id": 11719912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11719912
+			]
+		},
+		{
+			"id": 11727810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11727810
+			]
+		},
+		{
+			"id": 11727812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11727812
+			]
+		},
+		{
+			"id": 11728010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11728010
+			]
+		},
+		{
+			"id": 11728012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11728012
+			]
+		},
+		{
+			"id": 11730110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11730110
+			]
+		},
+		{
+			"id": 11731812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11731812
+			]
+		},
+		{
+			"id": 11734210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11734210
+			]
+		},
+		{
+			"id": 11734510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11734510
+			]
+		},
+		{
+			"id": 11734512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11734512
+			]
+		},
+		{
+			"id": 11735410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11735410
+			]
+		},
+		{
+			"id": 11735412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11735412
+			]
+		},
+		{
+			"id": 11736510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11736510
+			]
+		},
+		{
+			"id": 11736512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11736512
+			]
+		},
+		{
+			"id": 11739410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11739410
+			]
+		},
+		{
+			"id": 11739412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				11739412
+			]
+		},
+		{
+			"id": 12011810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				12011810
+			]
+		},
+		{
+			"id": 12073010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				12073010
+			]
+		},
+		{
+			"id": 12074210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				12074210
+			]
+		},
+		{
+			"id": 12084810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				12084810
+			]
+		},
+		{
+			"id": 13035110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				13035110
+			]
+		},
+		{
+			"id": 13039410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				13039410
+			]
+		},
+		{
+			"id": 13046610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				13046610
+			]
+		},
+		{
+			"id": 13431810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				13431810
+			]
+		},
+		{
+			"id": 20210110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20210110
+			]
+		},
+		{
+			"id": 20210910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20210910
+			]
+		},
+		{
+			"id": 20211010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20211010
+			]
+		},
+		{
+			"id": 20211012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20211012
+			]
+		},
+		{
+			"id": 20211410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20211410
+			]
+		},
+		{
+			"id": 20211710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20211710
+			]
+		},
+		{
+			"id": 20212610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				20212610
+			]
+		},
+		{
+			"id": 21010910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21010910
+			]
+		},
+		{
+			"id": 21011710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21011710
+			]
+		},
+		{
+			"id": 21011712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21011712
+			]
+		},
+		{
+			"id": 21011910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21011910
+			]
+		},
+		{
+			"id": 21011912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21011912
+			]
+		},
+		{
+			"id": 21012412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21012412
+			]
+		},
+		{
+			"id": 21013210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21013210
+			]
+		},
+		{
+			"id": 21013712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21013712
+			]
+		},
+		{
+			"id": 21016010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21016010
+			]
+		},
+		{
+			"id": 21016110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21016110
+			]
+		},
+		{
+			"id": 21016112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21016112
+			]
+		},
+		{
+			"id": 21016210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21016210
+			]
+		},
+		{
+			"id": 21016212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21016212
+			]
+		},
+		{
+			"id": 21020510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21020510
+			]
+		},
+		{
+			"id": 21025510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025510
+			]
+		},
+		{
+			"id": 21025610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025610
+			]
+		},
+		{
+			"id": 21025710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025710
+			]
+		},
+		{
+			"id": 21025810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025810
+			]
+		},
+		{
+			"id": 21025812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025812
+			]
+		},
+		{
+			"id": 21025910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21025910
+			]
+		},
+		{
+			"id": 21026010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026010
+			]
+		},
+		{
+			"id": 21026110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026110
+			]
+		},
+		{
+			"id": 21026112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026112
+			]
+		},
+		{
+			"id": 21026210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026210
+			]
+		},
+		{
+			"id": 21026212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026212
+			]
+		},
+		{
+			"id": 21026310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026310
+			]
+		},
+		{
+			"id": 21026410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026410
+			]
+		},
+		{
+			"id": 21026412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026412
+			]
+		},
+		{
+			"id": 21026510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026510
+			]
+		},
+		{
+			"id": 21026512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026512
+			]
+		},
+		{
+			"id": 21026610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026610
+			]
+		},
+		{
+			"id": 21026612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026612
+			]
+		},
+		{
+			"id": 21026710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026710
+			]
+		},
+		{
+			"id": 21026712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21026712
+			]
+		},
+		{
+			"id": 21029910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21029910
+			]
+		},
+		{
+			"id": 21029912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21029912
+			]
+		},
+		{
+			"id": 21030910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21030910
+			]
+		},
+		{
+			"id": 21033810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21033810
+			]
+		},
+		{
+			"id": 21034512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21034512
+			]
+		},
+		{
+			"id": 21034710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21034710
+			]
+		},
+		{
+			"id": 21034712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21034712
+			]
+		},
+		{
+			"id": 21034910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21034910
+			]
+		},
+		{
+			"id": 21034912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21034912
+			]
+		},
+		{
+			"id": 21035110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21035110
+			]
+		},
+		{
+			"id": 21035112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21035112
+			]
+		},
+		{
+			"id": 21035210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21035210
+			]
+		},
+		{
+			"id": 21035310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21035310
+			]
+		},
+		{
+			"id": 21035410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21035410
+			]
+		},
+		{
+			"id": 21036010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21036010
+			]
+		},
+		{
+			"id": 21036110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21036110
+			]
+		},
+		{
+			"id": 21036112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21036112
+			]
+		},
+		{
+			"id": 21036210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21036210
+			]
+		},
+		{
+			"id": 21036212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21036212
+			]
+		},
+		{
+			"id": 21041010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21041010
+			]
+		},
+		{
+			"id": 21041810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21041810
+			]
+		},
+		{
+			"id": 21046010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046010
+			]
+		},
+		{
+			"id": 21046110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046110
+			]
+		},
+		{
+			"id": 21046112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046112
+			]
+		},
+		{
+			"id": 21046210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046210
+			]
+		},
+		{
+			"id": 21046212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046212
+			]
+		},
+		{
+			"id": 21046810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046810
+			]
+		},
+		{
+			"id": 21046910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046910
+			]
+		},
+		{
+			"id": 21046912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21046912
+			]
+		},
+		{
+			"id": 21047010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047010
+			]
+		},
+		{
+			"id": 21047110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047110
+			]
+		},
+		{
+			"id": 21047112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047112
+			]
+		},
+		{
+			"id": 21047210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047210
+			]
+		},
+		{
+			"id": 21047310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047310
+			]
+		},
+		{
+			"id": 21047410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047410
+			]
+		},
+		{
+			"id": 21047412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047412
+			]
+		},
+		{
+			"id": 21047510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047510
+			]
+		},
+		{
+			"id": 21047610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047610
+			]
+		},
+		{
+			"id": 21047710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047710
+			]
+		},
+		{
+			"id": 21047810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047810
+			]
+		},
+		{
+			"id": 21047812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047812
+			]
+		},
+		{
+			"id": 21047910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21047910
+			]
+		},
+		{
+			"id": 21048010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048010
+			]
+		},
+		{
+			"id": 21048012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048012
+			]
+		},
+		{
+			"id": 21048110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048110
+			]
+		},
+		{
+			"id": 21048210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048210
+			]
+		},
+		{
+			"id": 21048310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048310
+			]
+		},
+		{
+			"id": 21048410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048410
+			]
+		},
+		{
+			"id": 21048510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048510
+			]
+		},
+		{
+			"id": 21048610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048610
+			]
+		},
+		{
+			"id": 21048710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048710
+			]
+		},
+		{
+			"id": 21048810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048810
+			]
+		},
+		{
+			"id": 21048910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21048910
+			]
+		},
+		{
+			"id": 21049010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049010
+			]
+		},
+		{
+			"id": 21049012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049012
+			]
+		},
+		{
+			"id": 21049110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049110
+			]
+		},
+		{
+			"id": 21049210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049210
+			]
+		},
+		{
+			"id": 21049410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049410
+			]
+		},
+		{
+			"id": 21049412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049412
+			]
+		},
+		{
+			"id": 21049711,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21049711
+			]
+		},
+		{
+			"id": 21050110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21050110
+			]
+		},
+		{
+			"id": 21051010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051010
+			]
+		},
+		{
+			"id": 21051012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051012
+			]
+		},
+		{
+			"id": 21051310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051310
+			]
+		},
+		{
+			"id": 21051312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051312
+			]
+		},
+		{
+			"id": 21051810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051810
+			]
+		},
+		{
+			"id": 21051812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21051812
+			]
+		},
+		{
+			"id": 21052010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052010
+			]
+		},
+		{
+			"id": 21052012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052012
+			]
+		},
+		{
+			"id": 21052210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052210
+			]
+		},
+		{
+			"id": 21052212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052212
+			]
+		},
+		{
+			"id": 21052510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052510
+			]
+		},
+		{
+			"id": 21052512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052512
+			]
+		},
+		{
+			"id": 21052710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21052710
+			]
+		},
+		{
+			"id": 21053310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053310
+			]
+		},
+		{
+			"id": 21053312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053312
+			]
+		},
+		{
+			"id": 21053510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053510
+			]
+		},
+		{
+			"id": 21053512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053512
+			]
+		},
+		{
+			"id": 21053610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053610
+			]
+		},
+		{
+			"id": 21053612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053612
+			]
+		},
+		{
+			"id": 21053710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053710
+			]
+		},
+		{
+			"id": 21053712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21053712
+			]
+		},
+		{
+			"id": 21055712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21055712
+			]
+		},
+		{
+			"id": 21055810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21055810
+			]
+		},
+		{
+			"id": 21055812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21055812
+			]
+		},
+		{
+			"id": 21056010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21056010
+			]
+		},
+		{
+			"id": 21056110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21056110
+			]
+		},
+		{
+			"id": 21056112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21056112
+			]
+		},
+		{
+			"id": 21056210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21056210
+			]
+		},
+		{
+			"id": 21056212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21056212
+			]
+		},
+		{
+			"id": 21061010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21061010
+			]
+		},
+		{
+			"id": 21061810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21061810
+			]
+		},
+		{
+			"id": 21063910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21063910
+			]
+		},
+		{
+			"id": 21064110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064110
+			]
+		},
+		{
+			"id": 21064310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064310
+			]
+		},
+		{
+			"id": 21064312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064312
+			]
+		},
+		{
+			"id": 21064510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064510
+			]
+		},
+		{
+			"id": 21064512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064512
+			]
+		},
+		{
+			"id": 21064610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064610
+			]
+		},
+		{
+			"id": 21064810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064810
+			]
+		},
+		{
+			"id": 21064812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21064812
+			]
+		},
+		{
+			"id": 21065110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065110
+			]
+		},
+		{
+			"id": 21065112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065112
+			]
+		},
+		{
+			"id": 21065210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065210
+			]
+		},
+		{
+			"id": 21065310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065310
+			]
+		},
+		{
+			"id": 21065410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065410
+			]
+		},
+		{
+			"id": 21065412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21065412
+			]
+		},
+		{
+			"id": 21066010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21066010
+			]
+		},
+		{
+			"id": 21066110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21066110
+			]
+		},
+		{
+			"id": 21066112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21066112
+			]
+		},
+		{
+			"id": 21066210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21066210
+			]
+		},
+		{
+			"id": 21066212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21066212
+			]
+		},
+		{
+			"id": 21070710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21070710
+			]
+		},
+		{
+			"id": 21071010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21071010
+			]
+		},
+		{
+			"id": 21071810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21071810
+			]
+		},
+		{
+			"id": 21075710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21075710
+			]
+		},
+		{
+			"id": 21076010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076010
+			]
+		},
+		{
+			"id": 21076110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076110
+			]
+		},
+		{
+			"id": 21076112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076112
+			]
+		},
+		{
+			"id": 21076210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076210
+			]
+		},
+		{
+			"id": 21076212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076212
+			]
+		},
+		{
+			"id": 21076410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076410
+			]
+		},
+		{
+			"id": 21076412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076412
+			]
+		},
+		{
+			"id": 21076510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076510
+			]
+		},
+		{
+			"id": 21076512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076512
+			]
+		},
+		{
+			"id": 21076610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076610
+			]
+		},
+		{
+			"id": 21076612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076612
+			]
+		},
+		{
+			"id": 21076710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076710
+			]
+		},
+		{
+			"id": 21076712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21076712
+			]
+		},
+		{
+			"id": 21081010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21081010
+			]
+		},
+		{
+			"id": 21081810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21081810
+			]
+		},
+		{
+			"id": 21086010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086010
+			]
+		},
+		{
+			"id": 21086110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086110
+			]
+		},
+		{
+			"id": 21086112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086112
+			]
+		},
+		{
+			"id": 21086210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086210
+			]
+		},
+		{
+			"id": 21086212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086212
+			]
+		},
+		{
+			"id": 21086910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086910
+			]
+		},
+		{
+			"id": 21086912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21086912
+			]
+		},
+		{
+			"id": 21087110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21087110
+			]
+		},
+		{
+			"id": 21087112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21087112
+			]
+		},
+		{
+			"id": 21087410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21087410
+			]
+		},
+		{
+			"id": 21087412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21087412
+			]
+		},
+		{
+			"id": 21088310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21088310
+			]
+		},
+		{
+			"id": 21089410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21089410
+			]
+		},
+		{
+			"id": 21089412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21089412
+			]
+		},
+		{
+			"id": 21089810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21089810
+			]
+		},
+		{
+			"id": 21091010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091010
+			]
+		},
+		{
+			"id": 21091110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091110
+			]
+		},
+		{
+			"id": 21091112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091112
+			]
+		},
+		{
+			"id": 21091410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091410
+			]
+		},
+		{
+			"id": 21091810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091810
+			]
+		},
+		{
+			"id": 21091812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21091812
+			]
+		},
+		{
+			"id": 21092310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21092310
+			]
+		},
+		{
+			"id": 21092312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21092312
+			]
+		},
+		{
+			"id": 21092810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21092810
+			]
+		},
+		{
+			"id": 21092812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21092812
+			]
+		},
+		{
+			"id": 21093410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093410
+			]
+		},
+		{
+			"id": 21093510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093510
+			]
+		},
+		{
+			"id": 21093512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093512
+			]
+		},
+		{
+			"id": 21093610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093610
+			]
+		},
+		{
+			"id": 21093612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093612
+			]
+		},
+		{
+			"id": 21093710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093710
+			]
+		},
+		{
+			"id": 21093712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093712
+			]
+		},
+		{
+			"id": 21093910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21093910
+			]
+		},
+		{
+			"id": 21094210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21094210
+			]
+		},
+		{
+			"id": 21094310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21094310
+			]
+		},
+		{
+			"id": 21094510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21094510
+			]
+		},
+		{
+			"id": 21095110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095110
+			]
+		},
+		{
+			"id": 21095112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095112
+			]
+		},
+		{
+			"id": 21095210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095210
+			]
+		},
+		{
+			"id": 21095310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095310
+			]
+		},
+		{
+			"id": 21095410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095410
+			]
+		},
+		{
+			"id": 21095412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21095412
+			]
+		},
+		{
+			"id": 21096010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21096010
+			]
+		},
+		{
+			"id": 21096110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21096110
+			]
+		},
+		{
+			"id": 21096112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21096112
+			]
+		},
+		{
+			"id": 21096210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21096210
+			]
+		},
+		{
+			"id": 21096212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21096212
+			]
+		},
+		{
+			"id": 21097810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21097810
+			]
+		},
+		{
+			"id": 21098010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21098010
+			]
+		},
+		{
+			"id": 21098210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21098210
+			]
+		},
+		{
+			"id": 21098510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21098510
+			]
+		},
+		{
+			"id": 21099710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21099710
+			]
+		},
+		{
+			"id": 21099810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21099810
+			]
+		},
+		{
+			"id": 21100810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21100810
+			]
+		},
+		{
+			"id": 21101010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21101010
+			]
+		},
+		{
+			"id": 21101810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21101810
+			]
+		},
+		{
+			"id": 21105710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21105710
+			]
+		},
+		{
+			"id": 21106010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106010
+			]
+		},
+		{
+			"id": 21106110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106110
+			]
+		},
+		{
+			"id": 21106112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106112
+			]
+		},
+		{
+			"id": 21106210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106210
+			]
+		},
+		{
+			"id": 21106212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106212
+			]
+		},
+		{
+			"id": 21106410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106410
+			]
+		},
+		{
+			"id": 21106412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106412
+			]
+		},
+		{
+			"id": 21106510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106510
+			]
+		},
+		{
+			"id": 21106512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106512
+			]
+		},
+		{
+			"id": 21106610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106610
+			]
+		},
+		{
+			"id": 21106612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106612
+			]
+		},
+		{
+			"id": 21106710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106710
+			]
+		},
+		{
+			"id": 21106712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21106712
+			]
+		},
+		{
+			"id": 21111010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21111010
+			]
+		},
+		{
+			"id": 21111810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21111810
+			]
+		},
+		{
+			"id": 21114210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21114210
+			]
+		},
+		{
+			"id": 21114310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21114310
+			]
+		},
+		{
+			"id": 21114510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21114510
+			]
+		},
+		{
+			"id": 21114512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21114512
+			]
+		},
+		{
+			"id": 21115110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115110
+			]
+		},
+		{
+			"id": 21115112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115112
+			]
+		},
+		{
+			"id": 21115210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115210
+			]
+		},
+		{
+			"id": 21115310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115310
+			]
+		},
+		{
+			"id": 21115410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115410
+			]
+		},
+		{
+			"id": 21115412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21115412
+			]
+		},
+		{
+			"id": 21116010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116010
+			]
+		},
+		{
+			"id": 21116110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116110
+			]
+		},
+		{
+			"id": 21116112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116112
+			]
+		},
+		{
+			"id": 21116210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116210
+			]
+		},
+		{
+			"id": 21116212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116212
+			]
+		},
+		{
+			"id": 21116910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116910
+			]
+		},
+		{
+			"id": 21116912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21116912
+			]
+		},
+		{
+			"id": 21117110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21117110
+			]
+		},
+		{
+			"id": 21117112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21117112
+			]
+		},
+		{
+			"id": 21117410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21117410
+			]
+		},
+		{
+			"id": 21117412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21117412
+			]
+		},
+		{
+			"id": 21117610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21117610
+			]
+		},
+		{
+			"id": 21118310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21118310
+			]
+		},
+		{
+			"id": 21119210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21119210
+			]
+		},
+		{
+			"id": 21119410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21119410
+			]
+		},
+		{
+			"id": 21119412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				21119412
+			]
+		},
+		{
+			"id": 30001010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30001010
+			]
+		},
+		{
+			"id": 30001310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30001310
+			]
+		},
+		{
+			"id": 30001312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30001312
+			]
+		},
+		{
+			"id": 30001810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30001810
+			]
+		},
+		{
+			"id": 30001812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30001812
+			]
+		},
+		{
+			"id": 30002010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30002010
+			]
+		},
+		{
+			"id": 30002210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30002210
+			]
+		},
+		{
+			"id": 30006110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30006110
+			]
+		},
+		{
+			"id": 30006210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30006210
+			]
+		},
+		{
+			"id": 30011010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30011010
+			]
+		},
+		{
+			"id": 30011310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30011310
+			]
+		},
+		{
+			"id": 30011312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30011312
+			]
+		},
+		{
+			"id": 30011810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30011810
+			]
+		},
+		{
+			"id": 30011812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30011812
+			]
+		},
+		{
+			"id": 30012010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30012010
+			]
+		},
+		{
+			"id": 30012210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30012210
+			]
+		},
+		{
+			"id": 30016110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30016110
+			]
+		},
+		{
+			"id": 30016210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30016210
+			]
+		},
+		{
+			"id": 30021010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30021010
+			]
+		},
+		{
+			"id": 30021310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30021310
+			]
+		},
+		{
+			"id": 30021312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30021312
+			]
+		},
+		{
+			"id": 30021810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30021810
+			]
+		},
+		{
+			"id": 30021812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30021812
+			]
+		},
+		{
+			"id": 30022010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30022010
+			]
+		},
+		{
+			"id": 30022210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30022210
+			]
+		},
+		{
+			"id": 30026110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30026110
+			]
+		},
+		{
+			"id": 30026210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30026210
+			]
+		},
+		{
+			"id": 30031810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30031810
+			]
+		},
+		{
+			"id": 30036210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30036210
+			]
+		},
+		{
+			"id": 30036810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30036810
+			]
+		},
+		{
+			"id": 30036912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30036912
+			]
+		},
+		{
+			"id": 30037010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037010
+			]
+		},
+		{
+			"id": 30037112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037112
+			]
+		},
+		{
+			"id": 30037310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037310
+			]
+		},
+		{
+			"id": 30037412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037412
+			]
+		},
+		{
+			"id": 30037610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037610
+			]
+		},
+		{
+			"id": 30037810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30037810
+			]
+		},
+		{
+			"id": 30038010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30038010
+			]
+		},
+		{
+			"id": 30038210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30038210
+			]
+		},
+		{
+			"id": 30039210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30039210
+			]
+		},
+		{
+			"id": 30039410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30039410
+			]
+		},
+		{
+			"id": 30040210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30040210
+			]
+		},
+		{
+			"id": 30041810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30041810
+			]
+		},
+		{
+			"id": 30043910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30043910
+			]
+		},
+		{
+			"id": 30044810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30044810
+			]
+		},
+		{
+			"id": 30044812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30044812
+			]
+		},
+		{
+			"id": 30045110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30045110
+			]
+		},
+		{
+			"id": 30045112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30045112
+			]
+		},
+		{
+			"id": 30045210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30045210
+			]
+		},
+		{
+			"id": 30045610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30045610
+			]
+		},
+		{
+			"id": 30046210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046210
+			]
+		},
+		{
+			"id": 30046212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046212
+			]
+		},
+		{
+			"id": 30046510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046510
+			]
+		},
+		{
+			"id": 30046512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046512
+			]
+		},
+		{
+			"id": 30046710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046710
+			]
+		},
+		{
+			"id": 30046712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30046712
+			]
+		},
+		{
+			"id": 30051010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30051010
+			]
+		},
+		{
+			"id": 30051012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30051012
+			]
+		},
+		{
+			"id": 30051810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30051810
+			]
+		},
+		{
+			"id": 30051812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30051812
+			]
+		},
+		{
+			"id": 30052010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052010
+			]
+		},
+		{
+			"id": 30052012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052012
+			]
+		},
+		{
+			"id": 30052210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052210
+			]
+		},
+		{
+			"id": 30052212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052212
+			]
+		},
+		{
+			"id": 30052510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052510
+			]
+		},
+		{
+			"id": 30052512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052512
+			]
+		},
+		{
+			"id": 30052710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30052710
+			]
+		},
+		{
+			"id": 30053010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053010
+			]
+		},
+		{
+			"id": 30053012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053012
+			]
+		},
+		{
+			"id": 30053510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053510
+			]
+		},
+		{
+			"id": 30053512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053512
+			]
+		},
+		{
+			"id": 30053710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053710
+			]
+		},
+		{
+			"id": 30053712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30053712
+			]
+		},
+		{
+			"id": 30056210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30056210
+			]
+		},
+		{
+			"id": 30056212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30056212
+			]
+		},
+		{
+			"id": 30056410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30056410
+			]
+		},
+		{
+			"id": 30102312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				30102312
+			]
+		},
+		{
+			"id": 90111012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90111012
+			]
+		},
+		{
+			"id": 90114610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90114610
+			]
+		},
+		{
+			"id": 90114710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90114710
+			]
+		},
+		{
+			"id": 90114810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90114810
+			]
+		},
+		{
+			"id": 90114910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90114910
+			]
+		},
+		{
+			"id": 90115010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115010
+			]
+		},
+		{
+			"id": 90115110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115110
+			]
+		},
+		{
+			"id": 90115210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115210
+			]
+		},
+		{
+			"id": 90115310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115310
+			]
+		},
+		{
+			"id": 90115410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115410
+			]
+		},
+		{
+			"id": 90115510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115510
+			]
+		},
+		{
+			"id": 90115610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115610
+			]
+		},
+		{
+			"id": 90115710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115710
+			]
+		},
+		{
+			"id": 90115810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115810
+			]
+		},
+		{
+			"id": 90115910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90115910
+			]
+		},
+		{
+			"id": 90516310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516310
+			]
+		},
+		{
+			"id": 90516311,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516311
+			]
+		},
+		{
+			"id": 90516312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516312
+			]
+		},
+		{
+			"id": 90516410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516410
+			]
+		},
+		{
+			"id": 90516411,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516411
+			]
+		},
+		{
+			"id": 90516412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516412
+			]
+		},
+		{
+			"id": 90516510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516510
+			]
+		},
+		{
+			"id": 90516511,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516511
+			]
+		},
+		{
+			"id": 90516512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90516512
+			]
+		},
+		{
+			"id": 90916610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				90916610
+			]
+		},
+		{
+			"id": 98014010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				98014010
+			]
+		},
+		{
+			"id": 110312210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110312210
+			]
+		},
+		{
+			"id": 110412110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110412110
+			]
+		},
+		{
+			"id": 110612310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110612310
+			]
+		},
+		{
+			"id": 110710810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110710810
+			]
+		},
+		{
+			"id": 110810810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110810810
+			]
+		},
+		{
+			"id": 110910410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110910410
+			]
+		},
+		{
+			"id": 110910810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				110910810
+			]
+		},
+		{
+			"id": 111011210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111011210
+			]
+		},
+		{
+			"id": 111211012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111211012
+			]
+		},
+		{
+			"id": 111612810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111612810
+			]
+		},
+		{
+			"id": 111711810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111711810
+			]
+		},
+		{
+			"id": 111712510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111712510
+			]
+		},
+		{
+			"id": 111713010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111713010
+			]
+		},
+		{
+			"id": 111713610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111713610
+			]
+		},
+		{
+			"id": 111713612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111713612
+			]
+		},
+		{
+			"id": 111713710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111713710
+			]
+		},
+		{
+			"id": 111713712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111713712
+			]
+		},
+		{
+			"id": 111714110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111714110
+			]
+		},
+		{
+			"id": 111714312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111714312
+			]
+		},
+		{
+			"id": 111714412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111714412
+			]
+		},
+		{
+			"id": 111812212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111812212
+			]
+		},
+		{
+			"id": 111813610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813610
+			]
+		},
+		{
+			"id": 111813612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813612
+			]
+		},
+		{
+			"id": 111813710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813710
+			]
+		},
+		{
+			"id": 111813712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813712
+			]
+		},
+		{
+			"id": 111813810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813810
+			]
+		},
+		{
+			"id": 111813812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813812
+			]
+		},
+		{
+			"id": 111813910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813910
+			]
+		},
+		{
+			"id": 111813912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111813912
+			]
+		},
+		{
+			"id": 111814010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814010
+			]
+		},
+		{
+			"id": 111814012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814012
+			]
+		},
+		{
+			"id": 111814110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814110
+			]
+		},
+		{
+			"id": 111814112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814112
+			]
+		},
+		{
+			"id": 111814210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814210
+			]
+		},
+		{
+			"id": 111814212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111814212
+			]
+		},
+		{
+			"id": 111911810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111911810
+			]
+		},
+		{
+			"id": 111912710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111912710
+			]
+		},
+		{
+			"id": 111912712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111912712
+			]
+		},
+		{
+			"id": 111912810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111912810
+			]
+		},
+		{
+			"id": 111913310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111913310
+			]
+		},
+		{
+			"id": 111913510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111913510
+			]
+		},
+		{
+			"id": 111913512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				111913512
+			]
+		},
+		{
+			"id": 112011810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112011810
+			]
+		},
+		{
+			"id": 112012710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112012710
+			]
+		},
+		{
+			"id": 112012712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112012712
+			]
+		},
+		{
+			"id": 112012810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112012810
+			]
+		},
+		{
+			"id": 112013310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112013310
+			]
+		},
+		{
+			"id": 112013510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112013510
+			]
+		},
+		{
+			"id": 112013512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112013512
+			]
+		},
+		{
+			"id": 112016210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112016210
+			]
+		},
+		{
+			"id": 112111510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112111510
+			]
+		},
+		{
+			"id": 112111810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112111810
+			]
+		},
+		{
+			"id": 112112710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112112710
+			]
+		},
+		{
+			"id": 112112712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112112712
+			]
+		},
+		{
+			"id": 112112810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112112810
+			]
+		},
+		{
+			"id": 112112812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112112812
+			]
+		},
+		{
+			"id": 112113310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112113310
+			]
+		},
+		{
+			"id": 112113410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112113410
+			]
+		},
+		{
+			"id": 112113510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112113510
+			]
+		},
+		{
+			"id": 112113512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112113512
+			]
+		},
+		{
+			"id": 112212810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112212810
+			]
+		},
+		{
+			"id": 112213010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112213010
+			]
+		},
+		{
+			"id": 112213310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112213310
+			]
+		},
+		{
+			"id": 112213410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112213410
+			]
+		},
+		{
+			"id": 112213510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112213510
+			]
+		},
+		{
+			"id": 112213512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112213512
+			]
+		},
+		{
+			"id": 112214510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112214510
+			]
+		},
+		{
+			"id": 112313610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313610
+			]
+		},
+		{
+			"id": 112313612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313612
+			]
+		},
+		{
+			"id": 112313710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313710
+			]
+		},
+		{
+			"id": 112313712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313712
+			]
+		},
+		{
+			"id": 112313810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313810
+			]
+		},
+		{
+			"id": 112313812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313812
+			]
+		},
+		{
+			"id": 112313910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313910
+			]
+		},
+		{
+			"id": 112313912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112313912
+			]
+		},
+		{
+			"id": 112314010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314010
+			]
+		},
+		{
+			"id": 112314012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314012
+			]
+		},
+		{
+			"id": 112314110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314110
+			]
+		},
+		{
+			"id": 112314112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314112
+			]
+		},
+		{
+			"id": 112314210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314210
+			]
+		},
+		{
+			"id": 112314212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112314212
+			]
+		},
+		{
+			"id": 112410312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112410312
+			]
+		},
+		{
+			"id": 112412012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412012
+			]
+		},
+		{
+			"id": 112412510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412510
+			]
+		},
+		{
+			"id": 112412710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412710
+			]
+		},
+		{
+			"id": 112412712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412712
+			]
+		},
+		{
+			"id": 112412810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412810
+			]
+		},
+		{
+			"id": 112412910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112412910
+			]
+		},
+		{
+			"id": 112413010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413010
+			]
+		},
+		{
+			"id": 112413110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413110
+			]
+		},
+		{
+			"id": 112413112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413112
+			]
+		},
+		{
+			"id": 112413310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413310
+			]
+		},
+		{
+			"id": 112413410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413410
+			]
+		},
+		{
+			"id": 112413510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413510
+			]
+		},
+		{
+			"id": 112413512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112413512
+			]
+		},
+		{
+			"id": 112414310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112414310
+			]
+		},
+		{
+			"id": 112414312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112414312
+			]
+		},
+		{
+			"id": 112512410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112512410
+			]
+		},
+		{
+			"id": 112512510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112512510
+			]
+		},
+		{
+			"id": 112512910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112512910
+			]
+		},
+		{
+			"id": 112513010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112513010
+			]
+		},
+		{
+			"id": 112513110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112513110
+			]
+		},
+		{
+			"id": 112513112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112513112
+			]
+		},
+		{
+			"id": 112513210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112513210
+			]
+		},
+		{
+			"id": 112513212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112513212
+			]
+		},
+		{
+			"id": 112514310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112514310
+			]
+		},
+		{
+			"id": 112514312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112514312
+			]
+		},
+		{
+			"id": 112514410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112514410
+			]
+		},
+		{
+			"id": 112514412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112514412
+			]
+		},
+		{
+			"id": 112710310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112710310
+			]
+		},
+		{
+			"id": 112710312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112710312
+			]
+		},
+		{
+			"id": 112711510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112711510
+			]
+		},
+		{
+			"id": 112711512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112711512
+			]
+		},
+		{
+			"id": 112711810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112711810
+			]
+		},
+		{
+			"id": 112714510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112714510
+			]
+		},
+		{
+			"id": 112811810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112811810
+			]
+		},
+		{
+			"id": 112812212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112812212
+			]
+		},
+		{
+			"id": 112812710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112812710
+			]
+		},
+		{
+			"id": 112812712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112812712
+			]
+		},
+		{
+			"id": 112812810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112812810
+			]
+		},
+		{
+			"id": 112812812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112812812
+			]
+		},
+		{
+			"id": 112813310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112813310
+			]
+		},
+		{
+			"id": 112813410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112813410
+			]
+		},
+		{
+			"id": 112813510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112813510
+			]
+		},
+		{
+			"id": 112813512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				112813512
+			]
+		},
+		{
+			"id": 117010012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117010012
+			]
+		},
+		{
+			"id": 117210012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117210012
+			]
+		},
+		{
+			"id": 117311810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117311810
+			]
+		},
+		{
+			"id": 117312510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117312510
+			]
+		},
+		{
+			"id": 117313010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117313010
+			]
+		},
+		{
+			"id": 117313610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117313610
+			]
+		},
+		{
+			"id": 117313612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117313612
+			]
+		},
+		{
+			"id": 117313710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117313710
+			]
+		},
+		{
+			"id": 117313712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117313712
+			]
+		},
+		{
+			"id": 117314110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117314110
+			]
+		},
+		{
+			"id": 117314312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117314312
+			]
+		},
+		{
+			"id": 117314412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				117314412
+			]
+		},
+		{
+			"id": 123466210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123466210
+			]
+		},
+		{
+			"id": 123468310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123468310
+			]
+		},
+		{
+			"id": 123491110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123491110
+			]
+		},
+		{
+			"id": 123491112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123491112
+			]
+		},
+		{
+			"id": 123491410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123491410
+			]
+		},
+		{
+			"id": 123491810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123491810
+			]
+		},
+		{
+			"id": 123491812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123491812
+			]
+		},
+		{
+			"id": 123492312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123492312
+			]
+		},
+		{
+			"id": 123493410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123493410
+			]
+		},
+		{
+			"id": 123493512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123493512
+			]
+		},
+		{
+			"id": 123493612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123493612
+			]
+		},
+		{
+			"id": 123493712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123493712
+			]
+		},
+		{
+			"id": 123494510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123494510
+			]
+		},
+		{
+			"id": 123495210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123495210
+			]
+		},
+		{
+			"id": 123495310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123495310
+			]
+		},
+		{
+			"id": 123495410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123495410
+			]
+		},
+		{
+			"id": 123495710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123495710
+			]
+		},
+		{
+			"id": 123495712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123495712
+			]
+		},
+		{
+			"id": 123496110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123496110
+			]
+		},
+		{
+			"id": 123496210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123496210
+			]
+		},
+		{
+			"id": 123496410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123496410
+			]
+		},
+		{
+			"id": 123496510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123496510
+			]
+		},
+		{
+			"id": 123496710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				123496710
+			]
+		},
+		{
+			"id": 210210110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210210110
+			]
+		},
+		{
+			"id": 210210410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210210410
+			]
+		},
+		{
+			"id": 210210810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210210810
+			]
+		},
+		{
+			"id": 210211210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210211210
+			]
+		},
+		{
+			"id": 210211211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210211211
+			]
+		},
+		{
+			"id": 210211610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210211610
+			]
+		},
+		{
+			"id": 210211710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210211710
+			]
+		},
+		{
+			"id": 210310212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210310212
+			]
+		},
+		{
+			"id": 210410910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210410910
+			]
+		},
+		{
+			"id": 210411010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210411010
+			]
+		},
+		{
+			"id": 210411012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210411012
+			]
+		},
+		{
+			"id": 210412210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210412210
+			]
+		},
+		{
+			"id": 210510110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210510110
+			]
+		},
+		{
+			"id": 210511410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210511410
+			]
+		},
+		{
+			"id": 210511710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210511710
+			]
+		},
+		{
+			"id": 210512210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210512210
+			]
+		},
+		{
+			"id": 210512610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210512610
+			]
+		},
+		{
+			"id": 210610011,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210610011
+			]
+		},
+		{
+			"id": 210610510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210610510
+			]
+		},
+		{
+			"id": 210612210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210612210
+			]
+		},
+		{
+			"id": 210612410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210612410
+			]
+		},
+		{
+			"id": 210613110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210613110
+			]
+		},
+		{
+			"id": 210613112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210613112
+			]
+		},
+		{
+			"id": 210613210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210613210
+			]
+		},
+		{
+			"id": 210613212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210613212
+			]
+		},
+		{
+			"id": 210711810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210711810
+			]
+		},
+		{
+			"id": 210712710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210712710
+			]
+		},
+		{
+			"id": 210712810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210712810
+			]
+		},
+		{
+			"id": 210712812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210712812
+			]
+		},
+		{
+			"id": 210713310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210713310
+			]
+		},
+		{
+			"id": 210713410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210713410
+			]
+		},
+		{
+			"id": 210713510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210713510
+			]
+		},
+		{
+			"id": 210713512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210713512
+			]
+		},
+		{
+			"id": 210714610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210714610
+			]
+		},
+		{
+			"id": 210715210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210715210
+			]
+		},
+		{
+			"id": 210715310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210715310
+			]
+		},
+		{
+			"id": 210715610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210715610
+			]
+		},
+		{
+			"id": 210812210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210812210
+			]
+		},
+		{
+			"id": 210813610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813610
+			]
+		},
+		{
+			"id": 210813612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813612
+			]
+		},
+		{
+			"id": 210813710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813710
+			]
+		},
+		{
+			"id": 210813712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813712
+			]
+		},
+		{
+			"id": 210813810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813810
+			]
+		},
+		{
+			"id": 210813812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813812
+			]
+		},
+		{
+			"id": 210813910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813910
+			]
+		},
+		{
+			"id": 210813912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210813912
+			]
+		},
+		{
+			"id": 210814010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814010
+			]
+		},
+		{
+			"id": 210814012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814012
+			]
+		},
+		{
+			"id": 210814110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814110
+			]
+		},
+		{
+			"id": 210814112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814112
+			]
+		},
+		{
+			"id": 210814210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814210
+			]
+		},
+		{
+			"id": 210814212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814212
+			]
+		},
+		{
+			"id": 210814810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210814810
+			]
+		},
+		{
+			"id": 210815010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210815010
+			]
+		},
+		{
+			"id": 210815110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210815110
+			]
+		},
+		{
+			"id": 210815810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210815810
+			]
+		},
+		{
+			"id": 210910010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210910010
+			]
+		},
+		{
+			"id": 210910310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210910310
+			]
+		},
+		{
+			"id": 210910312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210910312
+			]
+		},
+		{
+			"id": 210911510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210911510
+			]
+		},
+		{
+			"id": 210912210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210912210
+			]
+		},
+		{
+			"id": 210912510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210912510
+			]
+		},
+		{
+			"id": 210912610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210912610
+			]
+		},
+		{
+			"id": 210912910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210912910
+			]
+		},
+		{
+			"id": 210914310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914310
+			]
+		},
+		{
+			"id": 210914312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914312
+			]
+		},
+		{
+			"id": 210914410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914410
+			]
+		},
+		{
+			"id": 210914412,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914412
+			]
+		},
+		{
+			"id": 210914610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914610
+			]
+		},
+		{
+			"id": 210914710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914710
+			]
+		},
+		{
+			"id": 210914810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914810
+			]
+		},
+		{
+			"id": 210914910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210914910
+			]
+		},
+		{
+			"id": 210915010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915010
+			]
+		},
+		{
+			"id": 210915110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915110
+			]
+		},
+		{
+			"id": 210915210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915210
+			]
+		},
+		{
+			"id": 210915310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915310
+			]
+		},
+		{
+			"id": 210915410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915410
+			]
+		},
+		{
+			"id": 210915510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915510
+			]
+		},
+		{
+			"id": 210915610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915610
+			]
+		},
+		{
+			"id": 210915710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915710
+			]
+		},
+		{
+			"id": 210915810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915810
+			]
+		},
+		{
+			"id": 210915910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				210915910
+			]
+		},
+		{
+			"id": 211011810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211011810
+			]
+		},
+		{
+			"id": 211012210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211012210
+			]
+		},
+		{
+			"id": 211012710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211012710
+			]
+		},
+		{
+			"id": 211012810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211012810
+			]
+		},
+		{
+			"id": 211012812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211012812
+			]
+		},
+		{
+			"id": 211013310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211013310
+			]
+		},
+		{
+			"id": 211013410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211013410
+			]
+		},
+		{
+			"id": 211013510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211013510
+			]
+		},
+		{
+			"id": 211013512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211013512
+			]
+		},
+		{
+			"id": 211014710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211014710
+			]
+		},
+		{
+			"id": 211015410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211015410
+			]
+		},
+		{
+			"id": 211015510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211015510
+			]
+		},
+		{
+			"id": 211015610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211015610
+			]
+		},
+		{
+			"id": 211112210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211112210
+			]
+		},
+		{
+			"id": 211112510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211112510
+			]
+		},
+		{
+			"id": 211113010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113010
+			]
+		},
+		{
+			"id": 211113110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113110
+			]
+		},
+		{
+			"id": 211113112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113112
+			]
+		},
+		{
+			"id": 211113210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113210
+			]
+		},
+		{
+			"id": 211113212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113212
+			]
+		},
+		{
+			"id": 211113610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113610
+			]
+		},
+		{
+			"id": 211113612,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113612
+			]
+		},
+		{
+			"id": 211113710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113710
+			]
+		},
+		{
+			"id": 211113712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113712
+			]
+		},
+		{
+			"id": 211113810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113810
+			]
+		},
+		{
+			"id": 211113812,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113812
+			]
+		},
+		{
+			"id": 211113910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113910
+			]
+		},
+		{
+			"id": 211113912,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211113912
+			]
+		},
+		{
+			"id": 211114010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114010
+			]
+		},
+		{
+			"id": 211114012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114012
+			]
+		},
+		{
+			"id": 211114110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114110
+			]
+		},
+		{
+			"id": 211114112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114112
+			]
+		},
+		{
+			"id": 211114210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114210
+			]
+		},
+		{
+			"id": 211114212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114212
+			]
+		},
+		{
+			"id": 211114310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114310
+			]
+		},
+		{
+			"id": 211114312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114312
+			]
+		},
+		{
+			"id": 211114510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				211114510
+			]
+		},
+		{
+			"id": 300012010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300012010
+			]
+		},
+		{
+			"id": 300212110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300212110
+			]
+		},
+		{
+			"id": 300312211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300312211
+			]
+		},
+		{
+			"id": 300410210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300410210
+			]
+		},
+		{
+			"id": 300410212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300410212
+			]
+		},
+		{
+			"id": 300411210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300411210
+			]
+		},
+		{
+			"id": 300411211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300411211
+			]
+		},
+		{
+			"id": 300411710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300411710
+			]
+		},
+		{
+			"id": 300412211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300412211
+			]
+		},
+		{
+			"id": 300412410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300412410
+			]
+		},
+		{
+			"id": 300412610,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300412610
+			]
+		},
+		{
+			"id": 300412910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300412910
+			]
+		},
+		{
+			"id": 300512311,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				300512311
+			]
+		},
+		{
+			"id": 400020110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020110
+			]
+		},
+		{
+			"id": 400020120,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020120
+			]
+		},
+		{
+			"id": 400020121,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020121
+			]
+		},
+		{
+			"id": 400020130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020130
+			]
+		},
+		{
+			"id": 400020140,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020140
+			]
+		},
+		{
+			"id": 400020150,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020150
+			]
+		},
+		{
+			"id": 400020160,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020160
+			]
+		},
+		{
+			"id": 400020161,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020161
+			]
+		},
+		{
+			"id": 400020170,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020170
+			]
+		},
+		{
+			"id": 400020180,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020180
+			]
+		},
+		{
+			"id": 400020181,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020181
+			]
+		},
+		{
+			"id": 400020182,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020182
+			]
+		},
+		{
+			"id": 400020190,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020190
+			]
+		},
+		{
+			"id": 400020191,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020191
+			]
+		},
+		{
+			"id": 400020192,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020192
+			]
+		},
+		{
+			"id": 400020200,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020200
+			]
+		},
+		{
+			"id": 400020201,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020201
+			]
+		},
+		{
+			"id": 400020202,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020202
+			]
+		},
+		{
+			"id": 400020210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020210
+			]
+		},
+		{
+			"id": 400020211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020211
+			]
+		},
+		{
+			"id": 400020212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020212
+			]
+		},
+		{
+			"id": 400020220,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020220
+			]
+		},
+		{
+			"id": 400020221,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020221
+			]
+		},
+		{
+			"id": 400020222,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020222
+			]
+		},
+		{
+			"id": 400020230,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020230
+			]
+		},
+		{
+			"id": 400020231,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020231
+			]
+		},
+		{
+			"id": 400020232,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020232
+			]
+		},
+		{
+			"id": 400020240,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020240
+			]
+		},
+		{
+			"id": 400020241,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020241
+			]
+		},
+		{
+			"id": 400020242,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400020242
+			]
+		},
+		{
+			"id": 400030110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030110
+			]
+		},
+		{
+			"id": 400030116,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030116
+			]
+		},
+		{
+			"id": 400030120,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030120
+			]
+		},
+		{
+			"id": 400030126,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030126
+			]
+		},
+		{
+			"id": 400030130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030130
+			]
+		},
+		{
+			"id": 400030136,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030136
+			]
+		},
+		{
+			"id": 400030140,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030140
+			]
+		},
+		{
+			"id": 400030141,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030141
+			]
+		},
+		{
+			"id": 400030142,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030142
+			]
+		},
+		{
+			"id": 400030146,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030146
+			]
+		},
+		{
+			"id": 400030147,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030147
+			]
+		},
+		{
+			"id": 400030148,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030148
+			]
+		},
+		{
+			"id": 400030150,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030150
+			]
+		},
+		{
+			"id": 400030151,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030151
+			]
+		},
+		{
+			"id": 400030156,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030156
+			]
+		},
+		{
+			"id": 400030157,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030157
+			]
+		},
+		{
+			"id": 400030160,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030160
+			]
+		},
+		{
+			"id": 400030161,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030161
+			]
+		},
+		{
+			"id": 400030162,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030162
+			]
+		},
+		{
+			"id": 400030166,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030166
+			]
+		},
+		{
+			"id": 400030167,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030167
+			]
+		},
+		{
+			"id": 400030168,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030168
+			]
+		},
+		{
+			"id": 400030170,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030170
+			]
+		},
+		{
+			"id": 400030171,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030171
+			]
+		},
+		{
+			"id": 400030172,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030172
+			]
+		},
+		{
+			"id": 400030176,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030176
+			]
+		},
+		{
+			"id": 400030177,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030177
+			]
+		},
+		{
+			"id": 400030178,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030178
+			]
+		},
+		{
+			"id": 400030180,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030180
+			]
+		},
+		{
+			"id": 400030181,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030181
+			]
+		},
+		{
+			"id": 400030186,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030186
+			]
+		},
+		{
+			"id": 400030187,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030187
+			]
+		},
+		{
+			"id": 400030190,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030190
+			]
+		},
+		{
+			"id": 400030191,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030191
+			]
+		},
+		{
+			"id": 400030196,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030196
+			]
+		},
+		{
+			"id": 400030197,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030197
+			]
+		},
+		{
+			"id": 400030200,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030200
+			]
+		},
+		{
+			"id": 400030206,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030206
+			]
+		},
+		{
+			"id": 400030210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030210
+			]
+		},
+		{
+			"id": 400030211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030211
+			]
+		},
+		{
+			"id": 400030212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030212
+			]
+		},
+		{
+			"id": 400030216,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030216
+			]
+		},
+		{
+			"id": 400030217,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030217
+			]
+		},
+		{
+			"id": 400030218,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030218
+			]
+		},
+		{
+			"id": 400030220,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030220
+			]
+		},
+		{
+			"id": 400030221,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030221
+			]
+		},
+		{
+			"id": 400030226,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030226
+			]
+		},
+		{
+			"id": 400030227,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030227
+			]
+		},
+		{
+			"id": 400030230,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030230
+			]
+		},
+		{
+			"id": 400030231,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030231
+			]
+		},
+		{
+			"id": 400030232,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030232
+			]
+		},
+		{
+			"id": 400030236,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030236
+			]
+		},
+		{
+			"id": 400030237,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030237
+			]
+		},
+		{
+			"id": 400030238,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030238
+			]
+		},
+		{
+			"id": 400030240,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030240
+			]
+		},
+		{
+			"id": 400030241,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030241
+			]
+		},
+		{
+			"id": 400030242,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030242
+			]
+		},
+		{
+			"id": 400030246,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030246
+			]
+		},
+		{
+			"id": 400030247,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030247
+			]
+		},
+		{
+			"id": 400030248,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030248
+			]
+		},
+		{
+			"id": 400030250,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030250
+			]
+		},
+		{
+			"id": 400030251,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030251
+			]
+		},
+		{
+			"id": 400030252,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030252
+			]
+		},
+		{
+			"id": 400030256,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030256
+			]
+		},
+		{
+			"id": 400030257,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030257
+			]
+		},
+		{
+			"id": 400030258,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400030258
+			]
+		},
+		{
+			"id": 400040110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040110
+			]
+		},
+		{
+			"id": 400040116,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040116
+			]
+		},
+		{
+			"id": 400040120,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040120
+			]
+		},
+		{
+			"id": 400040126,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040126
+			]
+		},
+		{
+			"id": 400040130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040130
+			]
+		},
+		{
+			"id": 400040136,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040136
+			]
+		},
+		{
+			"id": 400040140,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040140
+			]
+		},
+		{
+			"id": 400040146,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040146
+			]
+		},
+		{
+			"id": 400040150,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040150
+			]
+		},
+		{
+			"id": 400040151,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040151
+			]
+		},
+		{
+			"id": 400040152,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040152
+			]
+		},
+		{
+			"id": 400040156,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040156
+			]
+		},
+		{
+			"id": 400040157,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040157
+			]
+		},
+		{
+			"id": 400040158,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040158
+			]
+		},
+		{
+			"id": 400040160,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040160
+			]
+		},
+		{
+			"id": 400040161,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040161
+			]
+		},
+		{
+			"id": 400040166,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040166
+			]
+		},
+		{
+			"id": 400040167,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040167
+			]
+		},
+		{
+			"id": 400040170,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040170
+			]
+		},
+		{
+			"id": 400040171,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040171
+			]
+		},
+		{
+			"id": 400040172,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040172
+			]
+		},
+		{
+			"id": 400040176,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040176
+			]
+		},
+		{
+			"id": 400040177,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040177
+			]
+		},
+		{
+			"id": 400040178,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040178
+			]
+		},
+		{
+			"id": 400040180,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040180
+			]
+		},
+		{
+			"id": 400040181,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040181
+			]
+		},
+		{
+			"id": 400040182,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040182
+			]
+		},
+		{
+			"id": 400040186,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040186
+			]
+		},
+		{
+			"id": 400040187,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040187
+			]
+		},
+		{
+			"id": 400040188,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040188
+			]
+		},
+		{
+			"id": 400040190,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040190
+			]
+		},
+		{
+			"id": 400040191,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040191
+			]
+		},
+		{
+			"id": 400040196,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040196
+			]
+		},
+		{
+			"id": 400040197,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040197
+			]
+		},
+		{
+			"id": 400040200,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040200
+			]
+		},
+		{
+			"id": 400040201,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040201
+			]
+		},
+		{
+			"id": 400040206,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040206
+			]
+		},
+		{
+			"id": 400040207,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040207
+			]
+		},
+		{
+			"id": 400040210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040210
+			]
+		},
+		{
+			"id": 400040211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040211
+			]
+		},
+		{
+			"id": 400040212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040212
+			]
+		},
+		{
+			"id": 400040216,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040216
+			]
+		},
+		{
+			"id": 400040217,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040217
+			]
+		},
+		{
+			"id": 400040218,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040218
+			]
+		},
+		{
+			"id": 400040220,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040220
+			]
+		},
+		{
+			"id": 400040221,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040221
+			]
+		},
+		{
+			"id": 400040226,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040226
+			]
+		},
+		{
+			"id": 400040227,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040227
+			]
+		},
+		{
+			"id": 400040230,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040230
+			]
+		},
+		{
+			"id": 400040231,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040231
+			]
+		},
+		{
+			"id": 400040236,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040236
+			]
+		},
+		{
+			"id": 400040237,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040237
+			]
+		},
+		{
+			"id": 400040240,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040240
+			]
+		},
+		{
+			"id": 400040241,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040241
+			]
+		},
+		{
+			"id": 400040242,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040242
+			]
+		},
+		{
+			"id": 400040246,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040246
+			]
+		},
+		{
+			"id": 400040247,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040247
+			]
+		},
+		{
+			"id": 400040248,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040248
+			]
+		},
+		{
+			"id": 400040250,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040250
+			]
+		},
+		{
+			"id": 400040251,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040251
+			]
+		},
+		{
+			"id": 400040252,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040252
+			]
+		},
+		{
+			"id": 400040256,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040256
+			]
+		},
+		{
+			"id": 400040257,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040257
+			]
+		},
+		{
+			"id": 400040258,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400040258
+			]
+		},
+		{
+			"id": 400050110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050110
+			]
+		},
+		{
+			"id": 400050116,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050116
+			]
+		},
+		{
+			"id": 400050120,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050120
+			]
+		},
+		{
+			"id": 400050126,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050126
+			]
+		},
+		{
+			"id": 400050130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050130
+			]
+		},
+		{
+			"id": 400050136,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050136
+			]
+		},
+		{
+			"id": 400050140,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050140
+			]
+		},
+		{
+			"id": 400050146,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050146
+			]
+		},
+		{
+			"id": 400050150,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050150
+			]
+		},
+		{
+			"id": 400050151,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050151
+			]
+		},
+		{
+			"id": 400050152,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050152
+			]
+		},
+		{
+			"id": 400050156,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050156
+			]
+		},
+		{
+			"id": 400050157,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050157
+			]
+		},
+		{
+			"id": 400050158,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050158
+			]
+		},
+		{
+			"id": 400050160,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050160
+			]
+		},
+		{
+			"id": 400050161,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050161
+			]
+		},
+		{
+			"id": 400050162,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050162
+			]
+		},
+		{
+			"id": 400050166,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050166
+			]
+		},
+		{
+			"id": 400050167,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050167
+			]
+		},
+		{
+			"id": 400050168,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050168
+			]
+		},
+		{
+			"id": 400050170,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050170
+			]
+		},
+		{
+			"id": 400050171,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050171
+			]
+		},
+		{
+			"id": 400050176,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050176
+			]
+		},
+		{
+			"id": 400050177,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050177
+			]
+		},
+		{
+			"id": 400050180,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050180
+			]
+		},
+		{
+			"id": 400050186,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050186
+			]
+		},
+		{
+			"id": 400050190,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050190
+			]
+		},
+		{
+			"id": 400050196,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050196
+			]
+		},
+		{
+			"id": 400050200,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050200
+			]
+		},
+		{
+			"id": 400050201,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050201
+			]
+		},
+		{
+			"id": 400050202,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050202
+			]
+		},
+		{
+			"id": 400050206,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050206
+			]
+		},
+		{
+			"id": 400050207,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050207
+			]
+		},
+		{
+			"id": 400050208,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050208
+			]
+		},
+		{
+			"id": 400050210,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050210
+			]
+		},
+		{
+			"id": 400050211,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050211
+			]
+		},
+		{
+			"id": 400050212,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050212
+			]
+		},
+		{
+			"id": 400050216,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050216
+			]
+		},
+		{
+			"id": 400050217,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050217
+			]
+		},
+		{
+			"id": 400050218,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050218
+			]
+		},
+		{
+			"id": 400050220,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050220
+			]
+		},
+		{
+			"id": 400050221,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050221
+			]
+		},
+		{
+			"id": 400050222,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050222
+			]
+		},
+		{
+			"id": 400050226,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050226
+			]
+		},
+		{
+			"id": 400050227,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050227
+			]
+		},
+		{
+			"id": 400050228,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050228
+			]
+		},
+		{
+			"id": 400050230,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050230
+			]
+		},
+		{
+			"id": 400050231,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050231
+			]
+		},
+		{
+			"id": 400050232,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050232
+			]
+		},
+		{
+			"id": 400050236,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050236
+			]
+		},
+		{
+			"id": 400050237,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050237
+			]
+		},
+		{
+			"id": 400050238,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050238
+			]
+		},
+		{
+			"id": 400050240,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050240
+			]
+		},
+		{
+			"id": 400050241,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050241
+			]
+		},
+		{
+			"id": 400050242,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050242
+			]
+		},
+		{
+			"id": 400050246,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050246
+			]
+		},
+		{
+			"id": 400050247,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050247
+			]
+		},
+		{
+			"id": 400050248,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400050248
+			]
+		},
+		{
+			"id": 400060110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060110
+			]
+		},
+		{
+			"id": 400060116,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060116
+			]
+		},
+		{
+			"id": 400060120,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060120
+			]
+		},
+		{
+			"id": 400060121,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060121
+			]
+		},
+		{
+			"id": 400060122,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060122
+			]
+		},
+		{
+			"id": 400060126,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060126
+			]
+		},
+		{
+			"id": 400060127,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060127
+			]
+		},
+		{
+			"id": 400060128,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060128
+			]
+		},
+		{
+			"id": 400060130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060130
+			]
+		},
+		{
+			"id": 400060131,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060131
+			]
+		},
+		{
+			"id": 400060132,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060132
+			]
+		},
+		{
+			"id": 400060136,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060136
+			]
+		},
+		{
+			"id": 400060137,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060137
+			]
+		},
+		{
+			"id": 400060138,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060138
+			]
+		},
+		{
+			"id": 400060140,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060140
+			]
+		},
+		{
+			"id": 400060141,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060141
+			]
+		},
+		{
+			"id": 400060142,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060142
+			]
+		},
+		{
+			"id": 400060146,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060146
+			]
+		},
+		{
+			"id": 400060147,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060147
+			]
+		},
+		{
+			"id": 400060148,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060148
+			]
+		},
+		{
+			"id": 400060150,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060150
+			]
+		},
+		{
+			"id": 400060151,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060151
+			]
+		},
+		{
+			"id": 400060152,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060152
+			]
+		},
+		{
+			"id": 400060156,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060156
+			]
+		},
+		{
+			"id": 400060157,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060157
+			]
+		},
+		{
+			"id": 400060158,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060158
+			]
+		},
+		{
+			"id": 400060160,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060160
+			]
+		},
+		{
+			"id": 400060161,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060161
+			]
+		},
+		{
+			"id": 400060162,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060162
+			]
+		},
+		{
+			"id": 400060166,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060166
+			]
+		},
+		{
+			"id": 400060167,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060167
+			]
+		},
+		{
+			"id": 400060168,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060168
+			]
+		},
+		{
+			"id": 400060170,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060170
+			]
+		},
+		{
+			"id": 400060171,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060171
+			]
+		},
+		{
+			"id": 400060172,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060172
+			]
+		},
+		{
+			"id": 400060176,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060176
+			]
+		},
+		{
+			"id": 400060177,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060177
+			]
+		},
+		{
+			"id": 400060178,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060178
+			]
+		},
+		{
+			"id": 400060180,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060180
+			]
+		},
+		{
+			"id": 400060181,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060181
+			]
+		},
+		{
+			"id": 400060182,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060182
+			]
+		},
+		{
+			"id": 400060186,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060186
+			]
+		},
+		{
+			"id": 400060187,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060187
+			]
+		},
+		{
+			"id": 400060188,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060188
+			]
+		},
+		{
+			"id": 400060190,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060190
+			]
+		},
+		{
+			"id": 400060191,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060191
+			]
+		},
+		{
+			"id": 400060192,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060192
+			]
+		},
+		{
+			"id": 400060196,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060196
+			]
+		},
+		{
+			"id": 400060197,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060197
+			]
+		},
+		{
+			"id": 400060198,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400060198
+			]
+		},
+		{
+			"id": 400120130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400120130
+			]
+		},
+		{
+			"id": 400220130,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				400220130
+			]
+		},
+		{
+			"id": 1234612410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234612410
+			]
+		},
+		{
+			"id": 1234910312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234910312
+			]
+		},
+		{
+			"id": 1234912012,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912012
+			]
+		},
+		{
+			"id": 1234912510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912510
+			]
+		},
+		{
+			"id": 1234912710,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912710
+			]
+		},
+		{
+			"id": 1234912712,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912712
+			]
+		},
+		{
+			"id": 1234912810,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912810
+			]
+		},
+		{
+			"id": 1234912910,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234912910
+			]
+		},
+		{
+			"id": 1234913010,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913010
+			]
+		},
+		{
+			"id": 1234913110,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913110
+			]
+		},
+		{
+			"id": 1234913112,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913112
+			]
+		},
+		{
+			"id": 1234913310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913310
+			]
+		},
+		{
+			"id": 1234913410,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913410
+			]
+		},
+		{
+			"id": 1234913510,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913510
+			]
+		},
+		{
+			"id": 1234913512,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234913512
+			]
+		},
+		{
+			"id": 1234914310,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234914310
+			]
+		},
+		{
+			"id": 1234914312,
+			"rankAdjust": [
+				"0:100"
+			],
+			"enemyGroup": [
+				1234914312
+			]
+		}
+	]
+}

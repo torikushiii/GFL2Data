@@ -1,0 +1,1858 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"orderClass": 100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.1",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 1 to 6 movement points this turn.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"nextLevelOrder": 1002,
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderContent": "",
+			"orderType": 0
+		},
+		{
+			"id": 1002,
+			"orderClass": 100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.2",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 1 to 6 <color=#f26c1c>+2</color> movement points this turn.",
+			"orderIcon": "Item_Icon_monopoly_order1_2",
+			"level": 2,
+			"nextLevelOrder": 1003,
+			"upClass": {
+				"1001": 2
+			},
+			"orderContent": "1:1002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1003,
+			"orderClass": 100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.3",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 1 to 6 <color=#f26c1c>+4</color> movement points this turn.",
+			"orderIcon": "Item_Icon_monopoly_order1_3",
+			"level": 3,
+			"upClass": {
+				"1002": 2
+			},
+			"orderContent": "1:1003",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1011,
+			"orderClass": 101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.1",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.",
+			"orderIcon": "Item_Icon_monopoly_order14_1",
+			"level": 1,
+			"nextLevelOrder": 1012,
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10
+			},
+			"sold": 15,
+			"orderType": 1,
+			"upClass": {},
+			"orderContent": ""
+		},
+		{
+			"id": 1012,
+			"orderClass": 101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.2",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.",
+			"orderIcon": "Item_Icon_monopoly_order14_2",
+			"level": 2,
+			"nextLevelOrder": 1013,
+			"upClass": {
+				"1011": 2
+			},
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10
+			},
+			"sold": 30,
+			"orderType": 1,
+			"orderContent": ""
+		},
+		{
+			"id": 1013,
+			"orderClass": 101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.3",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.",
+			"orderIcon": "Item_Icon_monopoly_order14_3",
+			"level": 3,
+			"upClass": {
+				"1012": 2
+			},
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"orderType": 1,
+			"nextLevelOrder": 0,
+			"orderContent": ""
+		},
+		{
+			"id": 1021,
+			"orderClass": 102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.1",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>10%</color> HP to all Dolls in the team.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_1",
+			"level": 1,
+			"nextLevelOrder": 1022,
+			"orderContent": "1:1011",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1022,
+			"orderClass": 102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.2",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>30%</color> HP to all Dolls in the team.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_2",
+			"level": 2,
+			"nextLevelOrder": 1023,
+			"upClass": {
+				"1021": 2
+			},
+			"orderContent": "1:1012",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1023,
+			"orderClass": 102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.3",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>50%</color> HP to all Dolls in the team.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_3",
+			"level": 3,
+			"upClass": {
+				"1022": 2
+			},
+			"orderContent": "1:1013",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1031,
+			"orderClass": 103,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.1",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>20%</color> for 2 turns.",
+			"orderIcon": "Item_Icon_monopoly_order20_1",
+			"level": 1,
+			"nextLevelOrder": 1032,
+			"orderContent": "1:1021",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1032,
+			"orderClass": 103,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.2",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>35%</color> for 2 turns.",
+			"orderIcon": "Item_Icon_monopoly_order20_2",
+			"level": 2,
+			"nextLevelOrder": 1033,
+			"upClass": {
+				"1031": 2
+			},
+			"orderContent": "1:1022",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1033,
+			"orderClass": 103,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.3",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>50%</color> for 4 turns.",
+			"orderIcon": "Item_Icon_monopoly_order20_3",
+			"level": 3,
+			"upClass": {
+				"1032": 2
+			},
+			"orderContent": "1:1023",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1041,
+			"orderClass": 104,
+			"className": "Ground Lock",
+			"name": "Ground Lock Lv.1",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>3</color> tiles to ally-occupied (cannot select a tile that is already ally-occupied)",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"nextLevelOrder": 1042,
+			"orderContent": "2:3001",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1042,
+			"orderClass": 104,
+			"className": "Ground Lock",
+			"name": "Ground Lock Lv.2",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied (cannot select a tile that is already ally-occupied)",
+			"orderIcon": "Item_Icon_monopoly_order6_2",
+			"level": 2,
+			"nextLevelOrder": 1043,
+			"upClass": {
+				"1041": 2
+			},
+			"orderContent": "2:3002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1043,
+			"orderClass": 104,
+			"className": "Ground Lock",
+			"name": "Ground Lock Lv.3",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>the entire map</color> to ally-occupied (cannot select a tile that is already ally-occupied)",
+			"orderIcon": "Item_Icon_monopoly_order6_3",
+			"level": 3,
+			"upClass": {
+				"1042": 2
+			},
+			"orderContent": "2:3003",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1052,
+			"orderClass": 105,
+			"className": "No Entry Sign",
+			"name": "No Entry Sign Lv.2",
+			"orderDesc": "The most frustrating sign for drivers.\nSelect any location on the map to set up <color=#f26c1c>1</color> barricade.\n\nBarricade: Blocks the opponent's movement for 1 turn. Destroyed after blocking an opponent.",
+			"orderIcon": "Item_Icon_monopoly_order16_2",
+			"level": 2,
+			"nextLevelOrder": 1053,
+			"orderContent": "2:2012",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1053,
+			"orderClass": 105,
+			"className": "No Entry Sign",
+			"name": "No Entry Sign Lv.3",
+			"orderDesc": "The most frustrating sign for drivers.\nSelect any location on the map to set up <color=#f26c1c>2</color> barricades.\n\nBarricade: Blocks the opponent's movement for 1 turn. Destroyed after blocking an opponent.",
+			"orderIcon": "Item_Icon_monopoly_order16_3",
+			"level": 3,
+			"upClass": {
+				"1052": 2
+			},
+			"orderContent": "2:2013",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1061,
+			"orderClass": 106,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.1",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade within <color=#f26c1c>3</color> tiles. If there are no barricades on those tiles, nothing happens.",
+			"orderIcon": "Item_Icon_monopoly_order22_1",
+			"level": 1,
+			"nextLevelOrder": 1062,
+			"orderContent": "2:2021",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1062,
+			"orderClass": 106,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.2",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade within <color=#f26c1c>6</color> tiles. If there are no barricades on those tiles, nothing happens.",
+			"orderIcon": "Item_Icon_monopoly_order22_2",
+			"level": 2,
+			"nextLevelOrder": 1063,
+			"upClass": {
+				"1061": 2
+			},
+			"orderContent": "2:2022",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1063,
+			"orderClass": 106,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.3",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade <color=#f26c1c>anywhere</color> on the map. If there are no barricades, nothing happens.",
+			"orderIcon": "Item_Icon_monopoly_order22_3",
+			"level": 3,
+			"upClass": {
+				"1062": 2
+			},
+			"orderContent": "2:2023",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1073,
+			"orderClass": 107,
+			"className": "Purify",
+			"name": "Purify Lv.3",
+			"orderDesc": "Purification, from the inside out.\nUse to clear debuffs from allies.",
+			"orderIcon": "Item_Icon_monopoly_order18_3",
+			"level": 3,
+			"orderContent": "1:1041",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1081,
+			"orderClass": 108,
+			"className": "Lightning Rod",
+			"name": "Lightning Rod Lv.1",
+			"orderDesc": "Quickly locate and strike with pinpoint accuracy.\nUse to select 1 target anywhere on the map and deal <color=#f26c1c>20%</color> damage.\nRemoving the enemies with Lightning Rod does not yield any combat rewards.\nPlease note, this command has a poor effect against Eber.",
+			"orderIcon": "Item_Icon_monopoly_order21_1",
+			"level": 1,
+			"nextLevelOrder": 1082,
+			"orderContent": "1:1051",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1082,
+			"orderClass": 108,
+			"className": "Lightning Rod",
+			"name": "Lightning Rod Lv.2",
+			"orderDesc": "Quickly locate and strike with pinpoint accuracy.\nUse to select 1 target anywhere on the map and deal <color=#f26c1c>50%</color> damage.\nRemoving the enemies with Lightning Rod does not yield any combat rewards.\nPlease note, this command has a poor effect against Eber.",
+			"orderIcon": "Item_Icon_monopoly_order21_2",
+			"level": 2,
+			"nextLevelOrder": 1083,
+			"upClass": {
+				"1081": 2
+			},
+			"orderContent": "1:1052",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1083,
+			"orderClass": 108,
+			"className": "Lightning Rod",
+			"name": "Lightning Rod Lv.3",
+			"orderDesc": "Quickly locate and strike with pinpoint accuracy.\nUse to select 1 target anywhere on the map and deal <color=#f26c1c>100%</color> damage.\nRemoving the enemies with Lightning Rod does not yield any combat rewards.\nPlease note, this command has a poor effect against Eber.",
+			"orderIcon": "Item_Icon_monopoly_order21_3",
+			"level": 3,
+			"upClass": {
+				"1082": 2
+			},
+			"orderContent": "1:1053",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1091,
+			"orderClass": 109,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.1",
+			"orderDesc": "Designed with lightweight components, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>3</color> points of stability to all Dolls in the team.\n\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_1",
+			"level": 1,
+			"nextLevelOrder": 1092,
+			"orderContent": "1:1061",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 1092,
+			"orderClass": 109,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.2",
+			"orderDesc": "Designed with lightweight components, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>5</color> points of stability to all Dolls in the team.\n\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_2",
+			"level": 2,
+			"nextLevelOrder": 1093,
+			"upClass": {
+				"1091": 2
+			},
+			"orderContent": "1:1062",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 1093,
+			"orderClass": 109,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.3",
+			"orderDesc": "Designed with lightweight components, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>10</color> points of stability to all Dolls in the team.\n\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_3",
+			"level": 3,
+			"upClass": {
+				"1092": 2
+			},
+			"orderContent": "1:1063",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 1103,
+			"orderClass": 110,
+			"className": "Intercept Command",
+			"name": "Intercept Command Lv.3",
+			"orderDesc": "What's yours is mine, and what's mine is still mine.\nUse to select any enemy target on the map and obtain 1 Command from their use pool.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "1:1073",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2001,
+			"orderClass": 200,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance.\nEnemy-exclusive Command.",
+			"orderIcon": "Item_Icon_monopoly_order9_1",
+			"level": 1,
+			"section": {
+				"1": 10,
+				"2": 10
+			},
+			"sold": 10,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderContent": "",
+			"orderType": 0
+		},
+		{
+			"id": 2002,
+			"orderClass": 200,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance.\nEnemy-exclusive Command.",
+			"orderIcon": "Item_Icon_monopoly_order9_1",
+			"level": 1,
+			"section": {
+				"1": 10
+			},
+			"sold": 10,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderContent": "",
+			"orderType": 0
+		},
+		{
+			"id": 2003,
+			"orderClass": 200,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance.\nEnemy-exclusive Command.",
+			"orderIcon": "Item_Icon_monopoly_order9_1",
+			"level": 1,
+			"section": {
+				"5": 10
+			},
+			"sold": 10,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderContent": "",
+			"orderType": 0
+		},
+		{
+			"id": 2011,
+			"orderClass": 201,
+			"className": "3,1 Arson -1",
+			"name": "3,1 Arson -1",
+			"orderDesc": "3,1 Arson -1",
+			"orderIcon": "Item_Icon_monopoly_order3_1",
+			"level": 1,
+			"orderContent": "2:2001",
+			"section": {
+				"1": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2021,
+			"orderClass": 202,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance and deal <color=#f26c1c>1%</color> damage to the target.",
+			"orderIcon": "Item_Icon_monopoly_order7_1",
+			"level": 1,
+			"orderContent": "1:2001",
+			"section": {
+				"1": 10,
+				"2": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2022,
+			"orderClass": 202,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance and deal <color=#f26c1c>3%</color> damage to the target.",
+			"orderIcon": "Item_Icon_monopoly_order7_1",
+			"level": 1,
+			"orderContent": "1:2003",
+			"section": {
+				"2": 10,
+				"3": 10,
+				"4": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2023,
+			"orderClass": 202,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance and deal <color=#f26c1c>3%</color> damage to the target.",
+			"orderIcon": "Item_Icon_monopoly_order7_1",
+			"level": 1,
+			"orderContent": "1:2003",
+			"section": {
+				"3": 10,
+				"4": 10,
+				"5": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2024,
+			"orderClass": 202,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance and deal <color=#f26c1c>3%</color> damage to the target.",
+			"orderIcon": "Item_Icon_monopoly_order7_1",
+			"level": 1,
+			"orderContent": "1:2003",
+			"section": {
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2025,
+			"orderClass": 202,
+			"className": "Brute Force Command",
+			"name": "Brute Force Command",
+			"orderDesc": "Now is the time to strike.\nUse to move a certain distance and deal <color=#f26c1c>1%</color> damage to the target.",
+			"orderIcon": "Item_Icon_monopoly_order7_1",
+			"level": 1,
+			"orderContent": "1:2001",
+			"section": {
+				"5": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2031,
+			"orderClass": 203,
+			"className": "Restriction Command",
+			"name": "Restriction Command",
+			"orderDesc": "One, two, three, freeze!\nUse to apply <color=#f26c1c>4</color> stacks of <color=#f26c1c>Speed Limit</color> to the target for <color=#f26c1c>1</color> turn.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order131",
+			"level": 1,
+			"orderContent": "1:1094",
+			"section": {
+				"1": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2041,
+			"orderClass": 204,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"orderContent": "2:3002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2042,
+			"orderClass": 204,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>the entire map</color> to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_2",
+			"level": 2,
+			"orderContent": "2:3003",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2043,
+			"orderClass": 204,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"orderContent": "2:3002",
+			"section": {
+				"5": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2044,
+			"orderClass": 204,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"orderContent": "2:3002",
+			"section": {
+				"2": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2045,
+			"orderClass": 12105,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 2 tiles within <color=#f26c1c>the entire map</color> to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_3",
+			"level": 3,
+			"orderContent": "2:3004",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 2046,
+			"orderClass": 12105,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"orderContent": "2:3002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9901,
+			"className": "Command Test 2",
+			"name": "Command Test 2",
+			"orderDesc": "Test the command to trigger the event, it can strike at two monsters, diminish health, and then add a buff",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "1:9901",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9902,
+			"className": "Single-unit Recovery Test",
+			"name": "Single-unit Recovery Test",
+			"orderDesc": "Recovery Command test, single-unit HP recovery",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "1:1014",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9903,
+			"className": "Activation Status Alteration Test",
+			"name": "Activation Status Alteration Test",
+			"orderDesc": "Command for testing, changing the activation status of the target",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "2:9001",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9904,
+			"className": "Brute Force Command Test",
+			"name": "Brute Force Command Test",
+			"orderDesc": "Brute Force Command Test. Select an opponent to directly initiate combat.\nUnexpected events always occur unexpectedly.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "1:9902",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9905,
+			"className": "Surprise Backpack Test",
+			"name": "Surprise Backpack Test",
+			"orderDesc": "Surprise Backpack Test. Obtain some random rewards.\nCould be a treat, but could be a trick as well.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "3:1001",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9906,
+			"className": "Resurrection Command Test",
+			"name": "Resurrection Command Test",
+			"orderDesc": "Resurrection Command Test. Resurrect two team members.\nShort-term pain can lead to long-term suffering, being alive may not necessarily be a good thing.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "1:9904",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9907,
+			"className": "Movement Command Test",
+			"name": "Movement Command Test",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 3 to 6 <color=#f26c1c>+4</color> movement points this turn.",
+			"orderIcon": "Item_Icon_monopoly_order1_3",
+			"level": 3,
+			"orderContent": "1:1004",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 9999,
+			"className": "Command Test",
+			"name": "Command Test",
+			"orderDesc": "Test command for triggering events and generating from a random pool",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"orderContent": "3:1001",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"orderClass": 0,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121001,
+			"orderClass": 12100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.1",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 1 to 6 <color=#f26c1c>+1</color> movement points this turn.\nUpgrade increases the movement points gained.",
+			"orderIcon": "Item_Icon_monopoly_order1_1",
+			"level": 1,
+			"nextLevelOrder": 121002,
+			"orderContent": "1:1001",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121002,
+			"orderClass": 12100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.2",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 2 to 6 <color=#f26c1c>+2</color> movement points this turn.\nUpgrade increases the movement points gained.",
+			"orderIcon": "Item_Icon_monopoly_order1_2",
+			"level": 2,
+			"nextLevelOrder": 121003,
+			"upClass": {
+				"121001": 2
+			},
+			"orderContent": "1:1002",
+			"section": {
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121003,
+			"orderClass": 12100,
+			"className": "Movement Command",
+			"name": "Movement Command Lv.3",
+			"orderDesc": "With this, visiting every corner of the world is just a matter of time.\nUse to gain 3 to 6 <color=#f26c1c>+4</color> movement points this turn.",
+			"orderIcon": "Item_Icon_monopoly_order1_3",
+			"level": 3,
+			"upClass": {
+				"121002": 2
+			},
+			"orderContent": "1:1003",
+			"section": {
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121011,
+			"orderClass": 12101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.1",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.\nAvailable movement points increase with upgrades.",
+			"orderIcon": "Item_Icon_monopoly_order14_1",
+			"level": 1,
+			"nextLevelOrder": 121012,
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10
+			},
+			"sold": 15,
+			"orderType": 1,
+			"upClass": {},
+			"orderContent": ""
+		},
+		{
+			"id": 121012,
+			"orderClass": 12101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.2",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.\nAvailable movement points increase with upgrades.",
+			"orderIcon": "Item_Icon_monopoly_order14_2",
+			"level": 2,
+			"nextLevelOrder": 121013,
+			"upClass": {
+				"121011": 2
+			},
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10
+			},
+			"sold": 30,
+			"orderType": 1,
+			"orderContent": ""
+		},
+		{
+			"id": 121013,
+			"orderClass": 12101,
+			"className": "Remote Command",
+			"name": "Remote Command Lv.3",
+			"orderDesc": "It's just specifying the number of steps, that's not cheating, right?\nUse to set the movement points for this turn, unaffected by buffs or debuffs.",
+			"orderIcon": "Item_Icon_monopoly_order14_3",
+			"level": 3,
+			"upClass": {
+				"121012": 2
+			},
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"orderType": 1,
+			"nextLevelOrder": 0,
+			"orderContent": ""
+		},
+		{
+			"id": 121021,
+			"orderClass": 12102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.1",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>30%</color> HP to all Dolls in the team.\nUpgrading increases the recovery amount.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_1",
+			"level": 1,
+			"nextLevelOrder": 121022,
+			"orderContent": "1:1012",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121022,
+			"orderClass": 12102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.2",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>60%</color> HP to all Dolls in the team.\nUpgrading increases the recovery amount.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_2",
+			"level": 2,
+			"nextLevelOrder": 121023,
+			"upClass": {
+				"121021": 2
+			},
+			"orderContent": "1:1015",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121023,
+			"orderClass": 12102,
+			"className": "Emergency Power",
+			"name": "Emergency Power Lv.3",
+			"orderDesc": "Its value only becomes apparent when low on battery.\nUse to restore <color=#f26c1c>100%</color> HP to all Dolls in the team.\n(HP recovery cannot exceed the Doll's maximum HP, and Dolls that are knocked out cannot be healed.)",
+			"orderIcon": "Item_Icon_monopoly_order17_3",
+			"level": 3,
+			"upClass": {
+				"121022": 2
+			},
+			"orderContent": "1:1016",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121031,
+			"orderClass": 12103,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.1",
+			"orderDesc": "Designed with lightweight components, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>5</color> points of stability to all Dolls in the team.\nUpgrading increases the recovery amount.\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_1",
+			"level": 1,
+			"nextLevelOrder": 121032,
+			"orderContent": "1:1062",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121032,
+			"orderClass": 12103,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.2",
+			"orderDesc": "Designed with lightweight materials, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>7</color> points of stability to all Dolls in the team.\nUpgrading increases the recovery amount.\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_2",
+			"level": 2,
+			"nextLevelOrder": 121033,
+			"upClass": {
+				"121031": 2
+			},
+			"orderContent": "1:1064",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121033,
+			"orderClass": 12103,
+			"className": "Stability Component",
+			"name": "Stability Component Lv.3",
+			"orderDesc": "Designed with lightweight components, it can quickly restore stability index upon use.\nUse to restore <color=#f26c1c>12</color> points of stability to all Dolls in the team.\n(Stability recovery cannot exceed the Doll's maximum stability, and Dolls that are knocked out cannot recover it.)",
+			"orderIcon": "Item_Icon_monopoly_order27_3",
+			"level": 3,
+			"upClass": {
+				"121032": 2
+			},
+			"orderContent": "1:1065",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121041,
+			"orderClass": 12104,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.1",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>20%</color> for 2 turns.\nUpgrading increases damage reduction.",
+			"orderIcon": "Item_Icon_monopoly_order20_1",
+			"level": 1,
+			"nextLevelOrder": 121042,
+			"orderContent": "1:1021",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121042,
+			"orderClass": 12104,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.2",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>35%</color> for 3 turns.\nUpgrading increases damage reduction.",
+			"orderIcon": "Item_Icon_monopoly_order20_2",
+			"level": 2,
+			"nextLevelOrder": 121043,
+			"upClass": {
+				"101041": 2
+			},
+			"orderContent": "1:1022",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121043,
+			"orderClass": 12104,
+			"className": "Temporary Shield",
+			"name": "Temporary Shield Lv.3",
+			"orderDesc": "The protection it offers is limited, but it's better than none at all.\nUse to gain a damage reduction effect, reducing enemy map attack damage by <color=#f26c1c>50%</color> for 4 turns.",
+			"orderIcon": "Item_Icon_monopoly_order20_3",
+			"level": 3,
+			"upClass": {
+				"121042": 2
+			},
+			"orderContent": "1:1023",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121051,
+			"orderClass": 12105,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm Lv.1",
+			"orderDesc": "A handy defense tool that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied (cannot select a tile that is already ally-occupied).\nUpgrading increases the effective range.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"nextLevelOrder": 121052,
+			"orderContent": "2:3002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121052,
+			"orderClass": 12105,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm Lv.2",
+			"orderDesc": "A handy defense tool that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>the entire map</color> to ally-occupied (cannot select a tile that is already ally-occupied).\nUpgrading increases the number of changed tiles.",
+			"orderIcon": "Item_Icon_monopoly_order6_2",
+			"level": 2,
+			"nextLevelOrder": 121053,
+			"upClass": {
+				"121051": 2
+			},
+			"orderContent": "2:3003",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121053,
+			"orderClass": 12105,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm Lv.3",
+			"orderDesc": "A handy defense tool that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>the entire map</color> to ally-occupied (cannot select a tile that is already ally-occupied).",
+			"orderIcon": "Item_Icon_monopoly_order6_3",
+			"level": 3,
+			"upClass": {
+				"121052": 2
+			},
+			"orderContent": "2:3004",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121062,
+			"orderClass": 12106,
+			"className": "Lightning Rod",
+			"name": "Lightning Rod Lv.2",
+			"orderDesc": "Quickly locate and strike with pinpoint accuracy.\nUse to select 1 target anywhere on the map and deal <color=#f26c1c>50%</color> damage.\nUpgrading increases the damage.\nRemoving the enemies with Lightning Rod does not yield any combat rewards.\nPlease note, this command has a poor effect against bosses.\nWhen used by enemies against allies, the effect is weakened.",
+			"orderIcon": "Item_Icon_monopoly_order21_2",
+			"level": 2,
+			"nextLevelOrder": 121063,
+			"orderContent": "1:1052",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121063,
+			"orderClass": 12106,
+			"className": "Lightning Rod",
+			"name": "Lightning Rod Lv.3",
+			"orderDesc": "Quickly locate and strike with pinpoint accuracy.\nUse to select 1 target anywhere on the map and deal <color=#f26c1c>100%</color> damage.\nUpgrading increases the damage.\nRemoving the enemies with Lightning Rod does not yield any combat rewards.\nPlease note, this command has a poor effect against bosses.\nWhen used by enemies against allies, the effect is weakened.",
+			"orderIcon": "Item_Icon_monopoly_order21_3",
+			"level": 3,
+			"upClass": {
+				"121062": 2
+			},
+			"orderContent": "1:1053",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121071,
+			"orderClass": 12107,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.1",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade within <color=#f26c1c>3</color> tiles. If there are no barricades on those tiles, nothing happens.\nUpgrading increases the effective range.",
+			"orderIcon": "Item_Icon_monopoly_order22_1",
+			"level": 1,
+			"nextLevelOrder": 121072,
+			"orderContent": "2:2021",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121072,
+			"orderClass": 12107,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.2",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade within <color=#f26c1c>6</color> tiles. If there are no barricades on those tiles, nothing happens.\nUpgrading increases the effective range.",
+			"orderIcon": "Item_Icon_monopoly_order22_2",
+			"level": 2,
+			"nextLevelOrder": 121073,
+			"upClass": {
+				"121071": 2
+			},
+			"orderContent": "2:2022",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121073,
+			"orderClass": 12107,
+			"className": "Obstacle Removal Kit",
+			"name": "Obstacle Removal Kit Lv.3",
+			"orderDesc": "Great for removing any obstacles in sight.\nUse to remove 1 barricade <color=#f26c1c>anywhere</color> on the map. If there are no barricades, nothing happens.",
+			"orderIcon": "Item_Icon_monopoly_order22_3",
+			"level": 3,
+			"upClass": {
+				"121072": 2
+			},
+			"orderContent": "2:2023",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121082,
+			"orderClass": 12108,
+			"className": "Intercept Command",
+			"name": "Intercept Command Lv.2",
+			"orderDesc": "While launching an attack, don't neglect the task of preventing enemy incursions.\nSelect any location on the map to set up <color=#f26c1c>1</color> barricade.\nThe number of barricades increases with each upgrade.\n\nBarricade: Blocks the opponent's movement for 1 turn. Destroyed after blocking an opponent.",
+			"orderIcon": "Item_Icon_monopoly_order16_2",
+			"level": 2,
+			"nextLevelOrder": 121083,
+			"orderContent": "2:2012",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121083,
+			"orderClass": 12108,
+			"className": "Intercept Command",
+			"name": "Intercept Command Lv.3",
+			"orderDesc": "While launching an attack, don't neglect the task of preventing enemy incursions.\nSelect any location on the map to set up <color=#f26c1c>2</color> barricades.\n\nBarricade: Blocks the opponent's movement for 1 turn. Destroyed after blocking an opponent.",
+			"orderIcon": "Item_Icon_monopoly_order16_3",
+			"level": 3,
+			"upClass": {
+				"121082": 2
+			},
+			"orderContent": "2:2013",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121093,
+			"orderClass": 12109,
+			"className": "Purify",
+			"name": "Purify Lv.3",
+			"orderDesc": "Purification, from the inside out.\nUse to clear debuffs from allies.",
+			"orderIcon": "Item_Icon_monopoly_order18_3",
+			"level": 3,
+			"orderContent": "1:1041",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121103,
+			"orderClass": 12110,
+			"className": "Intercept Command",
+			"name": "Intercept Command Lv.3",
+			"orderDesc": "What's yours is mine, and what's mine is still mine.\nUse to select any enemy target on the map and steal 1 Command from their use pool. The stolen Command becomes unavailable to the enemy.",
+			"orderIcon": "Item_Icon_monopoly_order173",
+			"level": 3,
+			"orderContent": "1:1073",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121112,
+			"orderClass": 12111,
+			"className": "Strong Shield",
+			"name": "Strong Shield Lv.2",
+			"orderDesc": "Long-lasting protection gives you more confidence to act.\nUse to gain Rampage for <color=#f26c1c>3</color> turns.\nUpgrading increases the effect duration.\nRampage: Immune to all phase tiles and enemy map attacks.",
+			"orderIcon": "Item_Icon_monopoly_order11_2",
+			"level": 2,
+			"nextLevelOrder": 121113,
+			"orderContent": "1:1081",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121113,
+			"orderClass": 12111,
+			"className": "Strong Shield",
+			"name": "Strong Shield Lv.3",
+			"orderDesc": "Long-lasting protection gives you more confidence to act.\nUse to gain Rampage for <color=#f26c1c>5</color> turns.\nRampage: Immune to all phase tiles and enemy map attacks.",
+			"orderIcon": "Item_Icon_monopoly_order11_3",
+			"level": 3,
+			"upClass": {
+				"121112": 2
+			},
+			"orderContent": "1:1082",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		},
+		{
+			"id": 121121,
+			"orderClass": 12112,
+			"className": "Restriction Command",
+			"name": "Restriction Command Lv.1",
+			"orderDesc": "One, two, three, freeze!\nUse to apply <color=#f26c1c>1</color> stack of <color=#f26c1c>Speed Limit</color> to the target for 3 turns.\nUpgrading increases the number of Speed Limit stacks.\nWhen used by enemies against allies, the effect is weakened.",
+			"orderIcon": "Item_Icon_monopoly_order131",
+			"level": 1,
+			"nextLevelOrder": 121122,
+			"orderContent": "1:1091",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
+			"id": 121122,
+			"orderClass": 12112,
+			"className": "Restriction Command",
+			"name": "Restriction Command Lv.2",
+			"orderDesc": "One, two, three, freeze!\nUse to apply <color=#f26c1c>2</color> stacks of <color=#f26c1c>Speed Limit</color> to the target for 3 turns.\nUpgrading increases the number of Speed Limit stacks.\nWhen used by enemies against allies, the effect is weakened.",
+			"orderIcon": "Item_Icon_monopoly_order132",
+			"level": 2,
+			"nextLevelOrder": 121123,
+			"upClass": {
+				"121121": 2
+			},
+			"orderContent": "1:1092",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 30,
+			"orderType": 0
+		},
+		{
+			"id": 121123,
+			"orderClass": 12112,
+			"className": "Restriction Command",
+			"name": "Restriction Command Lv.3",
+			"orderDesc": "One, two, three, freeze!\nUse to apply <color=#f26c1c>4</color> stacks of <color=#f26c1c>Speed Limit</color> to the target for 3 turns.\nWhen used by enemies against allies, the effect is weakened.",
+			"orderIcon": "Item_Icon_monopoly_order133",
+			"level": 3,
+			"upClass": {
+				"121122": 2
+			},
+			"orderContent": "1:1093",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 60,
+			"nextLevelOrder": 0,
+			"orderType": 0
+		}
+	]
+}

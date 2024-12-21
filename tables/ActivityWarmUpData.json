@@ -1,0 +1,18 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"timer": 1,
+			"mailTime": 10001,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"warmUpHelp": "Explanation:\nEarn progress by completing missions. Accumulate progress points to gain corresponding rewards.\nMissions refresh at 05:00AM each day."
+		},
+		{
+			"id": 102,
+			"timer": 1,
+			"mailTime": 10001,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"warmUpHelp": "Explanation:\nEarn progress by completing missions. Accumulate progress points to gain corresponding rewards.\nMissions refresh at 05:00AM each day."
+		}
+	]
+}

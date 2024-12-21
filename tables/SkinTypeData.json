@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": 1,
+			"name": "Pop Trend"
+		},
+		{
+			"id": 2,
+			"type": 1,
+			"name": "Phantom Game"
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"name": "Classic Fashion"
+		},
+		{
+			"id": 4,
+			"type": 2,
+			"name": "Retro Style"
+		},
+		{
+			"id": 5,
+			"type": 2,
+			"name": "Prank King"
+		}
+	]
+}

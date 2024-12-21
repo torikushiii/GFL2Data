@@ -1,0 +1,724 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"productId": "com.haoplay.gf2exilium.global.1",
+			"name": "信用币×60",
+			"describe": "信用币Ⅰ",
+			"price": 1,
+			"storeId": 1,
+			"limitBuy": 0
+		},
+		{
+			"id": 2,
+			"productId": "com.haoplay.gf2exilium.global.2",
+			"name": "信用币×300",
+			"describe": "信用币Ⅱ",
+			"price": 5,
+			"storeId": 2,
+			"limitBuy": 0
+		},
+		{
+			"id": 3,
+			"productId": "com.haoplay.gf2exilium.global.3",
+			"name": "信用币×980",
+			"describe": "信用币Ⅲ",
+			"price": 15,
+			"storeId": 3,
+			"limitBuy": 0
+		},
+		{
+			"id": 4,
+			"productId": "com.haoplay.gf2exilium.global.4",
+			"name": "信用币×1980",
+			"describe": "信用币Ⅳ",
+			"price": 30,
+			"storeId": 4,
+			"limitBuy": 0
+		},
+		{
+			"id": 5,
+			"productId": "com.haoplay.gf2exilium.global.5",
+			"name": "信用币×3280",
+			"describe": "信用币Ⅴ",
+			"price": 50,
+			"storeId": 5,
+			"limitBuy": 0
+		},
+		{
+			"id": 6,
+			"productId": "com.haoplay.gf2exilium.global.6",
+			"name": "信用币×6480",
+			"describe": "信用币Ⅵ",
+			"price": 100,
+			"storeId": 6,
+			"limitBuy": 0
+		},
+		{
+			"id": 7,
+			"productId": "com.haoplay.gf2exilium.global.7",
+			"name": "晶钥合约·月",
+			"describe": "晶钥合约·月",
+			"price": 30,
+			"limitBuy": 2,
+			"storeId": 8
+		},
+		{
+			"id": 8,
+			"productId": "com.haoplay.gf2exilium.global.8",
+			"name": "增量合约·月",
+			"describe": "增量合约·月",
+			"price": 9,
+			"limitBuy": 2,
+			"storeId": 9
+		},
+		{
+			"id": 9,
+			"productId": "com.haoplay.gf2exilium.global.9",
+			"name": "猎人捷径",
+			"describe": "猎人捷径",
+			"price": 68,
+			"limitBuy": 1,
+			"storeId": 7001
+		},
+		{
+			"id": 10,
+			"productId": "com.haoplay.gf2exilium.global.10",
+			"name": "暗商密径",
+			"describe": "暗商密径",
+			"price": 128,
+			"limitBuy": 1,
+			"storeId": 7002
+		},
+		{
+			"id": 11,
+			"productId": "com.haoplay.gf2exilium.global.11",
+			"name": "暗商密约",
+			"describe": "暗商密约",
+			"price": 60,
+			"limitBuy": 1,
+			"storeId": 7005
+		},
+		{
+			"id": 12,
+			"productId": "com.haoplay.gf2exilium.global.12",
+			"name": "猎人捷径A",
+			"describe": "猎人捷径A",
+			"price": 68,
+			"limitBuy": 1,
+			"storeId": 7001
+		},
+		{
+			"id": 13,
+			"productId": "com.haoplay.gf2exilium.global.13",
+			"name": "暗商密径A",
+			"describe": "暗商密径A",
+			"price": 128,
+			"limitBuy": 1,
+			"storeId": 7002
+		},
+		{
+			"id": 14,
+			"productId": "com.haoplay.gf2exilium.global.14",
+			"name": "暗商密约A",
+			"describe": "暗商密约A",
+			"price": 60,
+			"limitBuy": 1,
+			"storeId": 7005
+		},
+		{
+			"id": 15,
+			"productId": "com.haoplay.gf2exilium.global.15",
+			"name": "时运礼箱",
+			"describe": "时运礼箱",
+			"limitBuy": 1,
+			"storeId": 1156,
+			"price": 0
+		},
+		{
+			"id": 16,
+			"productId": "com.haoplay.gf2exilium.global.16",
+			"name": "启航心智自选礼箱",
+			"describe": "启航心智自选礼箱",
+			"limitBuy": 1,
+			"storeId": 1155,
+			"price": 0
+		},
+		{
+			"id": 17,
+			"productId": "com.haoplay.gf2exilium.global.17",
+			"name": "五日回馈合约",
+			"describe": "五日回馈合约",
+			"limitBuy": 1,
+			"storeId": 11,
+			"price": 0
+		},
+		{
+			"id": 18,
+			"productId": "com.haoplay.gf2exilium.global.18",
+			"name": "战斗补给箱",
+			"describe": "战斗补给箱",
+			"limitBuy": 1,
+			"storeId": 1157,
+			"price": 0
+		},
+		{
+			"id": 19,
+			"productId": "com.haoplay.gf2exilium.global.19",
+			"name": "随心访问礼箱",
+			"describe": "随心访问礼箱",
+			"limitBuy": 1,
+			"storeId": 1158,
+			"price": 0
+		},
+		{
+			"id": 20,
+			"productId": "com.haoplay.gf2exilium.global.20",
+			"name": "启航武器自选礼箱",
+			"describe": "启航武器自选礼箱",
+			"limitBuy": 1,
+			"storeId": 1159,
+			"price": 0
+		},
+		{
+			"id": 21,
+			"productId": "com.haoplay.gf2exilium.global.21",
+			"name": "远航武器自选礼箱",
+			"describe": "远航武器自选礼箱",
+			"limitBuy": 1,
+			"storeId": 1160,
+			"price": 0
+		},
+		{
+			"id": 22,
+			"productId": "com.haoplay.gf2exilium.global.22",
+			"name": "每日晶条礼包",
+			"describe": "每日晶条礼包",
+			"limitBuy": 1,
+			"storeId": 1134,
+			"price": 0
+		},
+		{
+			"id": 23,
+			"productId": "com.haoplay.gf2exilium.global.23",
+			"name": "护航补给箱",
+			"describe": "护航补给箱",
+			"limitBuy": 1,
+			"storeId": 1100,
+			"price": 0
+		},
+		{
+			"id": 24,
+			"productId": "com.haoplay.gf2exilium.global.24",
+			"name": "特惠资财箱",
+			"describe": "特惠资财箱",
+			"storeId": 1108,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 25,
+			"productId": "com.haoplay.gf2exilium.global.25",
+			"name": "特价专访许可",
+			"describe": "特价专访许可",
+			"limitBuy": 1,
+			"storeId": 100001,
+			"price": 0
+		},
+		{
+			"id": 26,
+			"productId": "com.haoplay.gf2exilium.global.26",
+			"name": "铭契之环",
+			"describe": "铭契之环",
+			"storeId": 1107,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 27,
+			"productId": "com.haoplay.gf2exilium.global.27",
+			"name": "特惠访问礼包",
+			"describe": "特惠访问礼包",
+			"limitBuy": 1,
+			"storeId": 1124,
+			"price": 0
+		},
+		{
+			"id": 28,
+			"productId": "com.haoplay.gf2exilium.global.28",
+			"name": "特惠专访礼包",
+			"describe": "特惠专访礼包",
+			"limitBuy": 1,
+			"storeId": 1125,
+			"price": 0
+		},
+		{
+			"id": 29,
+			"productId": "com.haoplay.gf2exilium.global.29",
+			"name": "超值补给箱",
+			"describe": "超值补给箱",
+			"limitBuy": 1,
+			"storeId": 1101,
+			"price": 0
+		},
+		{
+			"id": 30,
+			"productId": "com.haoplay.gf2exilium.global.30",
+			"name": "礼遇补给箱",
+			"describe": "礼遇补给箱",
+			"limitBuy": 1,
+			"storeId": 1102,
+			"price": 0
+		},
+		{
+			"id": 31,
+			"productId": "com.haoplay.gf2exilium.global.31",
+			"name": "珍选补给箱",
+			"describe": "珍选补给箱",
+			"limitBuy": 1,
+			"storeId": 1103,
+			"price": 0
+		},
+		{
+			"id": 32,
+			"productId": "com.haoplay.gf2exilium.global.32",
+			"name": "好运礼袋一",
+			"describe": "好运礼袋一",
+			"limitBuy": 1,
+			"storeId": 100012,
+			"price": 0
+		},
+		{
+			"id": 33,
+			"productId": "com.haoplay.gf2exilium.global.33",
+			"name": "好运礼袋二",
+			"describe": "好运礼袋二",
+			"limitBuy": 1,
+			"storeId": 100013,
+			"price": 0
+		},
+		{
+			"id": 34,
+			"productId": "com.haoplay.gf2exilium.global.34",
+			"name": "好运礼袋三",
+			"describe": "好运礼袋三",
+			"limitBuy": 1,
+			"storeId": 100014,
+			"price": 0
+		},
+		{
+			"id": 35,
+			"productId": "com.haoplay.gf2exilium.global.35",
+			"name": "扩员支持礼箱·一",
+			"describe": "扩员支持礼箱·一",
+			"limitBuy": 1,
+			"storeId": 100002,
+			"price": 0
+		},
+		{
+			"id": 36,
+			"productId": "com.haoplay.gf2exilium.global.36",
+			"name": "惠享物资箱·三日",
+			"describe": "惠享物资箱·三日",
+			"limitBuy": 1,
+			"storeId": 100003,
+			"price": 0
+		},
+		{
+			"id": 37,
+			"productId": "com.haoplay.gf2exilium.global.37",
+			"name": "专属契合套装·索米",
+			"describe": "专属契合套装·索米",
+			"limitBuy": 3,
+			"storeId": 100010,
+			"price": 0
+		},
+		{
+			"id": 38,
+			"productId": "com.haoplay.gf2exilium.global.38",
+			"name": "专属契合套装·乌尔丽德",
+			"describe": "专属契合套装·乌尔丽德",
+			"limitBuy": 3,
+			"storeId": 100011,
+			"price": 0
+		},
+		{
+			"id": 39,
+			"productId": "com.haoplay.gf2exilium.global.39",
+			"name": "成长补给箱",
+			"describe": "成长补给箱",
+			"limitBuy": 1,
+			"storeId": 100004,
+			"price": 0
+		},
+		{
+			"id": 40,
+			"productId": "com.haoplay.gf2exilium.global.40",
+			"name": "扩员支持礼箱·二",
+			"describe": "扩员支持礼箱·二",
+			"limitBuy": 2,
+			"storeId": 100005,
+			"price": 0
+		},
+		{
+			"id": 41,
+			"productId": "com.haoplay.gf2exilium.global.41",
+			"name": "专访礼盒",
+			"describe": "专访礼盒",
+			"limitBuy": 1,
+			"storeId": 100006,
+			"price": 0
+		},
+		{
+			"id": 42,
+			"productId": "com.haoplay.gf2exilium.global.42",
+			"name": "专访礼箱",
+			"describe": "专访礼箱",
+			"limitBuy": 2,
+			"storeId": 100007,
+			"price": 0
+		},
+		{
+			"id": 43,
+			"productId": "com.haoplay.gf2exilium.global.43",
+			"name": "感恩之心许可礼",
+			"describe": "感恩之心许可礼",
+			"limitBuy": 1,
+			"storeId": 100008,
+			"price": 0
+		},
+		{
+			"id": 44,
+			"productId": "com.haoplay.gf2exilium.global.44",
+			"name": "感恩之心物资礼",
+			"describe": "感恩之心物资礼",
+			"limitBuy": 1,
+			"storeId": 100009,
+			"price": 0
+		},
+		{
+			"id": 45,
+			"productId": "com.haoplay.gf2exilium.global.45",
+			"name": "好运礼袋一",
+			"describe": "好运礼袋一",
+			"limitBuy": 1,
+			"storeId": 100025,
+			"price": 0
+		},
+		{
+			"id": 46,
+			"productId": "com.haoplay.gf2exilium.global.46",
+			"name": "好运礼袋二",
+			"describe": "好运礼袋二",
+			"limitBuy": 1,
+			"storeId": 100026,
+			"price": 0
+		},
+		{
+			"id": 47,
+			"productId": "com.haoplay.gf2exilium.global.47",
+			"name": "好运礼袋三",
+			"describe": "好运礼袋三",
+			"limitBuy": 1,
+			"storeId": 100027,
+			"price": 0
+		},
+		{
+			"id": 48,
+			"productId": "com.haoplay.gf2exilium.global.48",
+			"name": "扩员支持礼箱·一",
+			"describe": "扩员支持礼箱·一",
+			"limitBuy": 1,
+			"storeId": 100015,
+			"price": 0
+		},
+		{
+			"id": 49,
+			"productId": "com.haoplay.gf2exilium.global.49",
+			"name": "惠享物资箱·三日",
+			"describe": "惠享物资箱·三日",
+			"limitBuy": 1,
+			"storeId": 100016,
+			"price": 0
+		},
+		{
+			"id": 50,
+			"productId": "com.haoplay.gf2exilium.global.50",
+			"name": "专属契合套装·玛绮朵",
+			"describe": "专属契合套装·玛绮朵",
+			"limitBuy": 3,
+			"storeId": 100023,
+			"price": 0
+		},
+		{
+			"id": 52,
+			"productId": "com.haoplay.gf2exilium.global.52",
+			"name": "成长补给箱",
+			"describe": "成长补给箱",
+			"limitBuy": 1,
+			"storeId": 100017,
+			"price": 0
+		},
+		{
+			"id": 53,
+			"productId": "com.haoplay.gf2exilium.global.53",
+			"name": "扩员支持礼箱·二",
+			"describe": "扩员支持礼箱·二",
+			"limitBuy": 2,
+			"storeId": 100018,
+			"price": 0
+		},
+		{
+			"id": 54,
+			"productId": "com.haoplay.gf2exilium.global.54",
+			"name": "专访礼盒",
+			"describe": "专访礼盒",
+			"limitBuy": 1,
+			"storeId": 100019,
+			"price": 0
+		},
+		{
+			"id": 55,
+			"productId": "com.haoplay.gf2exilium.global.55",
+			"name": "专访礼箱",
+			"describe": "专访礼箱",
+			"limitBuy": 2,
+			"storeId": 100020,
+			"price": 0
+		},
+		{
+			"id": 56,
+			"productId": "com.haoplay.gf2exilium.global.56",
+			"name": "平安雪夜许可礼",
+			"describe": "平安雪夜许可礼",
+			"limitBuy": 1,
+			"storeId": 100021,
+			"price": 0
+		},
+		{
+			"id": 57,
+			"productId": "com.haoplay.gf2exilium.global.57",
+			"name": "平安雪夜物资礼",
+			"describe": "平安雪夜物资礼",
+			"limitBuy": 1,
+			"storeId": 100022,
+			"price": 0
+		},
+		{
+			"id": 58,
+			"productId": "com.haoplay.gf2exilium.global.58",
+			"name": "好运礼袋一",
+			"describe": "好运礼袋一",
+			"limitBuy": 1,
+			"storeId": 100028,
+			"price": 0
+		},
+		{
+			"id": 59,
+			"productId": "com.haoplay.gf2exilium.global.59",
+			"name": "好运礼袋二",
+			"describe": "好运礼袋二",
+			"limitBuy": 1,
+			"storeId": 100029,
+			"price": 0
+		},
+		{
+			"id": 60,
+			"productId": "com.haoplay.gf2exilium.global.60",
+			"name": "好运礼袋三",
+			"describe": "好运礼袋三",
+			"limitBuy": 1,
+			"storeId": 100030,
+			"price": 0
+		},
+		{
+			"id": 61,
+			"productId": "com.haoplay.gf2exilium.global.61",
+			"name": "扩员支持礼箱·一",
+			"describe": "扩员支持礼箱·一",
+			"limitBuy": 1,
+			"storeId": 100031,
+			"price": 0
+		},
+		{
+			"id": 62,
+			"productId": "com.haoplay.gf2exilium.global.62",
+			"name": "惠享物资箱·三日",
+			"describe": "惠享物资箱·三日",
+			"limitBuy": 1,
+			"storeId": 100032,
+			"price": 0
+		},
+		{
+			"id": 63,
+			"productId": "com.haoplay.gf2exilium.global.63",
+			"name": "专属契合套装·黛烟",
+			"describe": "专属契合套装·黛烟",
+			"limitBuy": 3,
+			"storeId": 100039,
+			"price": 0
+		},
+		{
+			"id": 65,
+			"productId": "com.haoplay.gf2exilium.global.65",
+			"name": "成长补给箱",
+			"describe": "成长补给箱",
+			"limitBuy": 1,
+			"storeId": 100033,
+			"price": 0
+		},
+		{
+			"id": 66,
+			"productId": "com.haoplay.gf2exilium.global.66",
+			"name": "扩员支持礼箱·二",
+			"describe": "扩员支持礼箱·二",
+			"limitBuy": 2,
+			"storeId": 100034,
+			"price": 0
+		},
+		{
+			"id": 67,
+			"productId": "com.haoplay.gf2exilium.global.67",
+			"name": "专访礼盒",
+			"describe": "专访礼盒",
+			"limitBuy": 1,
+			"storeId": 100035,
+			"price": 0
+		},
+		{
+			"id": 68,
+			"productId": "com.haoplay.gf2exilium.global.68",
+			"name": "专访礼箱",
+			"describe": "专访礼箱",
+			"limitBuy": 2,
+			"storeId": 100036,
+			"price": 0
+		},
+		{
+			"id": 69,
+			"productId": "com.haoplay.gf2exilium.global.69",
+			"name": "春迎福至礼包",
+			"describe": "春迎福至礼包",
+			"limitBuy": 1,
+			"storeId": 100037,
+			"price": 0
+		},
+		{
+			"id": 70,
+			"productId": "com.haoplay.gf2exilium.global.70",
+			"name": "春风得意礼包",
+			"describe": "春风得意礼包",
+			"limitBuy": 1,
+			"storeId": 100038,
+			"price": 0
+		},
+		{
+			"id": 71,
+			"productId": "com.haoplay.gf2exilium.global.71",
+			"name": "衣装·紫雨心",
+			"describe": "衣装·紫雨心",
+			"limitBuy": 1,
+			"storeId": 2007,
+			"price": 0
+		},
+		{
+			"id": 72,
+			"productId": "com.haoplay.gf2exilium.global.72",
+			"name": "衣装·灵海游光",
+			"describe": "衣装·灵海游光",
+			"limitBuy": 1,
+			"storeId": 2013,
+			"price": 0
+		},
+		{
+			"id": 73,
+			"productId": "com.haoplay.gf2exilium.global.73",
+			"name": "涂装·灵海潮汐",
+			"describe": "涂装·灵海潮汐",
+			"limitBuy": 1,
+			"storeId": 9001,
+			"price": 0
+		},
+		{
+			"id": 74,
+			"productId": "com.haoplay.gf2exilium.global.74",
+			"name": "衣装·晴夏回响",
+			"describe": "衣装·晴夏回响",
+			"limitBuy": 1,
+			"storeId": 2010,
+			"price": 0
+		},
+		{
+			"id": 75,
+			"productId": "com.haoplay.gf2exilium.global.75",
+			"name": "衣装·跃行脱兔",
+			"describe": "衣装·跃行脱兔",
+			"limitBuy": 1,
+			"storeId": 2004,
+			"price": 0
+		},
+		{
+			"id": 76,
+			"productId": "com.haoplay.gf2exilium.global.76",
+			"name": "作战服·无定星迹",
+			"describe": "作战服·无定星迹",
+			"limitBuy": 1,
+			"storeId": 2005,
+			"price": 0
+		},
+		{
+			"id": 77,
+			"productId": "com.haoplay.gf2exilium.global.77",
+			"name": "作战服·黎明战役",
+			"describe": "作战服·黎明战役",
+			"limitBuy": 1,
+			"storeId": 2001,
+			"price": 0
+		},
+		{
+			"id": 78,
+			"productId": "com.haoplay.gf2exilium.global.78",
+			"name": "作战服·闪耀心愿",
+			"describe": "作战服·闪耀心愿",
+			"limitBuy": 1,
+			"storeId": 2006,
+			"price": 0
+		},
+		{
+			"id": 79,
+			"productId": "com.haoplay.gf2exilium.global.79",
+			"name": "衣装·暮夜天河",
+			"describe": "衣装·暮夜天河",
+			"limitBuy": 1,
+			"storeId": 2012,
+			"price": 0
+		},
+		{
+			"id": 80,
+			"productId": "com.haoplay.gf2exilium.global.80",
+			"name": "衣装·舞会休止符",
+			"describe": "衣装·舞会休止符",
+			"limitBuy": 1,
+			"storeId": 2011,
+			"price": 0
+		},
+		{
+			"id": 81,
+			"productId": "com.haoplay.gf2exilium.global.81",
+			"name": "衣装·玉玲珑",
+			"describe": "衣装·玉玲珑",
+			"limitBuy": 1,
+			"storeId": 2008,
+			"price": 0
+		},
+		{
+			"id": 82,
+			"productId": "com.haoplay.gf2exilium.global.85",
+			"name": "晶钥合约·月",
+			"describe": "晶钥合约·月",
+			"limitBuy": 1,
+			"storeId": 10,
+			"price": 0
+		}
+	]
+}

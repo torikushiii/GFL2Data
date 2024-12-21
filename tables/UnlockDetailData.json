@@ -1,0 +1,1300 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Activate all nodes in Krolik's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 2,
+			"name": "Activate all nodes in Nemesis' Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 3,
+			"name": "Activate all nodes in Colphne's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 4,
+			"name": "Activate all nodes in Vepley's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 5,
+			"name": "Activate all nodes in Groza's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 6,
+			"name": "Activate all nodes in Peritya's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 7,
+			"name": "Activate all nodes in Sharkry's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 8,
+			"name": "Activate all nodes in Cheeta's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 9,
+			"name": "Activate all nodes in Tololo's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 10,
+			"name": "Activate all nodes in Nagant's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 11,
+			"name": "Activate all nodes in Qiongjiu's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 12,
+			"name": "Activate all nodes in Sabrina's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 13,
+			"name": "Activate all nodes in Daiyan's Neural Helix",
+			"des": "Must unlock all enhancement nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 14,
+			"name": "Activate all nodes in Krolik's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 15,
+			"name": "Activate all nodes in Nemesis' Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 16,
+			"name": "Activate all nodes in Colphne's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 17,
+			"name": "Activate all nodes in Vepley's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 18,
+			"name": "Activate all nodes in Groza's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 19,
+			"name": "Activate all nodes in Peritya's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 20,
+			"name": "Activate all nodes in Sharkry's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 21,
+			"name": "Activate all nodes in Cheeta's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 22,
+			"name": "Activate all nodes in Tololo's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 23,
+			"name": "Activate all nodes in Nagant's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 24,
+			"name": "Activate all nodes in Qiongjiu's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 25,
+			"name": "Activate all nodes in Sabrina's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 26,
+			"name": "Activate all nodes in Daiyan's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 27,
+			"name": "Activate all nodes in Mosin-Nagant's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 28,
+			"name": "Activate all nodes in Ksenia's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 29,
+			"name": "Activate all nodes in Littara's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 30,
+			"name": "Activate all nodes in Centaureissi's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 31,
+			"name": "Activate all nodes in Lenna's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 32,
+			"name": "Activate all nodes in Makiatto's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 33,
+			"name": "Activate all nodes in Jiangyu's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 34,
+			"name": "Activate all attribute nodes in Ullrid's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 35,
+			"name": "Activate all attribute nodes in Lotta's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 36,
+			"name": "Activate all attribute nodes in Suomi's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 37,
+			"name": "Unlock all attribute nodes in Dushevnaya's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 38,
+			"name": "Activate all attribute nodes in Zhaohui's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 39,
+			"name": "Activate all attribute nodes in Papasha's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 40,
+			"name": "Activate all attribute nodes on Klukai's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 9999,
+			"name": "Reached Commander Level 30",
+			"des": "Unlock conditions for testing",
+			"conditionNum": 28
+		},
+		{
+			"id": 11013,
+			"name": "New tutorial unlock conditions",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11019,
+			"name": "New tutorial unlock conditions",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 3-5</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11104,
+			"name": "Beginner's Guide - Theme Unlock 1",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11105,
+			"name": "Beginner's Guide - Theme Unlock 2",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 2-5</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11106,
+			"name": "Beginner's Guide - Theme Unlock 3",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 3-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11806,
+			"name": "[Weekly Challenge - Crossroad Challenge] Unlock conditions",
+			"des": "Commander ≥ Lv. 50",
+			"conditionNum": 50
+		},
+		{
+			"id": 15200,
+			"name": "Living Area unlock conditions",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal SL-2-2</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 24000,
+			"name": "Mission",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 24001,
+			"name": "Beginner Mission",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 1-5</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 24002,
+			"name": "Daily Missions",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 26001,
+			"name": "Achievements",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 26002,
+			"name": "Sign-In",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 29002,
+			"name": "Proficiency Boost",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 29003,
+			"name": "Weapon Adjustment",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 29101,
+			"name": "Battle Pass",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-2</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 29102,
+			"name": "Beginner's Guide",
+			"des": "Clear Story Campaign Stage 1-5",
+			"conditionNum": 1
+		},
+		{
+			"id": 29306,
+			"name": "Events Template - Requirements for Unlocking Access",
+			"des": "Commander Level reaches <color=#f26c1c>20</color>",
+			"conditionNum": 20
+		},
+		{
+			"id": 34001,
+			"name": "Requirements for Unlocking the Battle Tower",
+			"des": "Commander Level reaches 35",
+			"conditionNum": 35
+		},
+		{
+			"id": 35001,
+			"name": "[Sandbox Mode]",
+			"des": "Reach Commander Level 25",
+			"conditionNum": 25
+		},
+		{
+			"id": 35002,
+			"name": "[Multi-Round Defense Mode]",
+			"des": "Reach Commander Level 25",
+			"conditionNum": 25
+		},
+		{
+			"id": 35003,
+			"name": "[Conveyor Belt Puzzle]",
+			"des": "Reach Commander Level 25",
+			"conditionNum": 25
+		},
+		{
+			"id": 35004,
+			"name": "[Ullrid's Challenge]",
+			"des": "Complete<color=#f26c1c>Sojourners of the Glass Island I US-1-3 - Prototype of a Dream</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 35005,
+			"name": "[Suomi Story]",
+			"des": "Complete<color=#f26c1c>Sojourners of the Glass Island I US-1-3 - Prototype of a Dream</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 35006,
+			"name": "[Suomi Challenge]",
+			"des": "Complete <color=#f26c1c>The Resident II SA-1-9 Chasing the Sunset</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 37001,
+			"name": "Roguelike Unlock Conditions",
+			"des": "Commander Level reaches 99",
+			"conditionNum": 99
+		},
+		{
+			"id": 38001,
+			"name": "Dispatch Room (Abandoned)",
+			"des": "Reach Commander Level 16",
+			"conditionNum": 16
+		},
+		{
+			"id": 38003,
+			"name": "[Dispatch Room]",
+			"des": "Reach Commander Level 16",
+			"conditionNum": 16
+		},
+		{
+			"id": 38004,
+			"name": "[Weapon Gallery]",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal SL-2-2</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 39001,
+			"name": "[TPS Game Mode]",
+			"des": "Commander Level reaches 20",
+			"conditionNum": 20
+		},
+		{
+			"id": 39002,
+			"name": "[Dungeon Exploration Game Mode]",
+			"des": "Commander Level reaches 20",
+			"conditionNum": 20
+		},
+		{
+			"id": 60000,
+			"name": "Skin - Papa-Figo",
+			"des": "Acquire <COLOR=#F26C1C>Papa-Figo</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60001,
+			"name": "Skin - Classified Manuscript",
+			"des": "Acquire <COLOR=#F26C1C>Classified Manuscript</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60002,
+			"name": "Skin - Arcana",
+			"des": "Acquire <COLOR=#F26C1C>Arcana</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60003,
+			"name": "Skin - Guerno",
+			"des": "Acquire <COLOR=#F26C1C>Guerno</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60004,
+			"name": "Skin - Crowned Jackalope",
+			"des": "Acquire <COLOR=#F26C1C>Crowned Jackalope</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60005,
+			"name": "Skin - Mjölnir",
+			"des": "Acquire <COLOR=#F26C1C>Mjölnir</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60006,
+			"name": "Skin - Expeditionary Pigeon",
+			"des": "Acquire <COLOR=#F26C1C>Expeditionary Pigeon</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60007,
+			"name": "Skin - Heart Seeker",
+			"des": "Acquire <COLOR=#F26C1C>Heart Seeker</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60008,
+			"name": "Skin - Optical Illusion",
+			"des": "Acquire <COLOR=#F26C1C>Optical Illusion</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60010,
+			"name": "Skin - Planeta",
+			"des": "Acquire <COLOR=#F26C1C>Planeta</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60011,
+			"name": "Skin - Golden Melody",
+			"des": "Acquire <COLOR=#F26C1C>Golden Melody</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60012,
+			"name": "Skin - Mezzaluna",
+			"des": "Acquire <COLOR=#F26C1C>Mezzaluna</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60014,
+			"name": "Skin - Heavy Strings",
+			"des": "Acquire <COLOR=#F26C1C>Heavy Strings</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60015,
+			"name": "Skin - Maid's Rules",
+			"des": "Acquire <COLOR=#F26C1C>Maid's Rules</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60016,
+			"name": "Skin - Samosek",
+			"des": "Acquire <COLOR=#F26C1C>Samosek</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60017,
+			"name": "Skin - Leaping Tiger",
+			"des": "Acquire <COLOR=#F26C1C>Leaping Tiger</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60018,
+			"name": "Skin - Löwenjunges",
+			"des": "Acquire <COLOR=#F26C1C>Löwenjunges</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60019,
+			"name": "Skin - Hare",
+			"des": "Acquire <COLOR=#F26C1C>Hare</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60020,
+			"name": "Skin - .50 Nemesis",
+			"des": "Acquire an <COLOR=#F26C1C>.50 Nemesis</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60021,
+			"name": "Skin - .380 Curva",
+			"des": "Acquire a <COLOR=#F26C1C>.380 Curva</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60022,
+			"name": "Skin - Vepr-12",
+			"des": "Acquire a <COLOR=#F26C1C>Vepr-12</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60023,
+			"name": "Skin - OTs-14",
+			"des": "Acquire an <COLOR=#F26C1C>OTs-14</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60024,
+			"name": "Skin - Pecheneg-SP",
+			"des": "Acquire a <COLOR=#F26C1C>Pecheneg-SP</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60025,
+			"name": "Skin - Robinson Modular Rifle",
+			"des": "Acquire a <COLOR=#F26C1C>Robinson Modular Rifle</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60026,
+			"name": "Skin - Model Alpha",
+			"des": "Acquire an <COLOR=#F26C1C>Model Alpha</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60027,
+			"name": "Skin - MP7H1",
+			"des": "Acquire an <COLOR=#F26C1C>MP7H1</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60028,
+			"name": "Skin - QBZ-191",
+			"des": "Acquire a <COLOR=#F26C1C>QBZ-191</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60029,
+			"name": "Skin - Sportivo Calibro 12",
+			"des": "Acquire a <COLOR=#F26C1C>Sportivo Calibro 12</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60030,
+			"name": "Skin - Nagant M1895",
+			"des": "Acquire a <COLOR=#F26C1C>Nagant M1895</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60031,
+			"name": "Skin - Type 95",
+			"des": "Acquire a <COLOR=#F26C1C>Type 95</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60032,
+			"name": "Skin - Sturmgewehr 36",
+			"des": "Acquire a <COLOR=#F26C1C>Sturmgewehr 36</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60033,
+			"name": "Skin - Three-Line Rifle M1891",
+			"des": "Acquire a <COLOR=#F26C1C>Three-Line Rifle M1891</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60034,
+			"name": "Skin - Type 97",
+			"des": "Acquire a <COLOR=#F26C1C>Type 97</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60035,
+			"name": "Skin - Stechkin",
+			"des": "Acquire a <COLOR=#F26C1C>Stechkin</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60036,
+			"name": "Skin - Model ARM",
+			"des": "Acquire a <COLOR=#F26C1C>Model ARM</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60037,
+			"name": "Skin - UMP9",
+			"des": "Acquire a <COLOR=#F26C1C>UMP9</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60038,
+			"name": "Skin - Retired .380 Curva",
+			"des": "Acquire an <COLOR=#F26C1C>Retired .380 Curva</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60039,
+			"name": "Skin - Retired .50 Nemesis",
+			"des": "Acquire an <COLOR=#F26C1C>Retired .50 Nemesis</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60040,
+			"name": "Skin - Retired OTs-14",
+			"des": "Acquire an <COLOR=#F26C1C>Retired OTs-14</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60041,
+			"name": "Skin - Retired Vepr-12",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Vepr-12</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60042,
+			"name": "Skin - Retired Hare",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Hare</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60043,
+			"name": "Skin - Retired Pecheneg-SP",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Pecheneg-SP</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60044,
+			"name": "Skin - Retired Robinson Modular Rifle",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Robinson Modular Rifle</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60045,
+			"name": "Skin - Retired Model Alpha",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Model Alpha</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60046,
+			"name": "Skin - Retired MP7H1",
+			"des": "Acquire an <COLOR=#F26C1C>Retired MP7H1</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60047,
+			"name": "Skin - Retired QBZ-191",
+			"des": "Acquire an <COLOR=#F26C1C>Retired QBZ-191</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60048,
+			"name": "Skin - Retired Sportivo Calibro 12",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Sportivo Calibro 12</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60049,
+			"name": "Skin - Retired Nagant M1895",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Nagant M1895</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60050,
+			"name": "Skin - Retired Type 95",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Type 95</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60051,
+			"name": "Skin - Retired Sturmgewehr 36",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Sturmgewehr 36</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60052,
+			"name": "Skin - Retired Three-Line Rifle M1891",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Three-Line Rifle M1891</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60053,
+			"name": "Skin - Retired Type 97",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Type 97</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60054,
+			"name": "Skin - Retired Stechkin",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Stechkin</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60055,
+			"name": "Skin - Retired Model ARM",
+			"des": "Acquire an <COLOR=#F26C1C>Retired Model ARM</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60056,
+			"name": "Skin - Retired UMP9",
+			"des": "Acquire an <COLOR=#F26C1C>Retired UMP9</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60057,
+			"name": "Bittersweet Caramel",
+			"des": "Acquire <COLOR=#F26C1C>Bittersweet Caramel</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60058,
+			"name": "Rectrix",
+			"des": "Acquire <COLOR=#F26C1C>Rectrix</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60059,
+			"name": "Unspoken Calling",
+			"des": "Acquire <COLOR=#F26C1C>Unspoken Calling</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60060,
+			"name": "Eulogistic Verse",
+			"des": "Acquire <COLOR=#F26C1C>Eulogistic Verse</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60061,
+			"name": "Juggernaut",
+			"des": "Acquire <COLOR=#F26C1C>Juggernaut</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60063,
+			"name": "Scylla",
+			"des": "Obtain <COLOR=#F26C1C>Scylla</COLOR> to unlock skin",
+			"conditionNum": 1
+		},
+		{
+			"id": 60068,
+			"name": "W 2000",
+			"des": "Acquire <COLOR=#F26C1C>W 2000</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60069,
+			"name": "Pluma Edge",
+			"des": "Acquire <COLOR=#F26C1C>Pluma Edge</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60070,
+			"name": "M1 Super 90",
+			"des": "Acquire <COLOR=#F26C1C>M1 Super 90</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60071,
+			"name": "Suomi",
+			"des": "Acquire <COLOR=#F26C1C>Suomi</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60072,
+			"name": "KSVK",
+			"des": "Acquire <COLOR=#F26C1C>KSVK</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60073,
+			"name": "CS/LS06",
+			"des": "Acquire <COLOR=#F26C1C>CS/LS06</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60074,
+			"name": "PPSh-41",
+			"des": "Acquire <COLOR=#F26C1C>PPSh-41</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60076,
+			"name": "416",
+			"des": "Obtain <COLOR=#F26C1C>416</COLOR> to unlock skin",
+			"conditionNum": 1
+		},
+		{
+			"id": 60083,
+			"name": "Retired W 2000",
+			"des": "Acquire <COLOR=#F26C1C>Retired W 2000</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60084,
+			"name": "Retired Pluma Edge",
+			"des": "Acquire <COLOR=#F26C1C>Retired Pluma Edge</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60085,
+			"name": "Retired M1 Super 90",
+			"des": "Acquire <COLOR=#F26C1C>Retired M1 Super 90</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60086,
+			"name": "Retired Suomi",
+			"des": "Acquire <COLOR=#F26C1C>Retired Suomi</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60087,
+			"name": "Retired KSVK",
+			"des": "Acquire <COLOR=#F26C1C>Retired KSVK</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60088,
+			"name": "Retired CS/LS06",
+			"des": "Acquire <COLOR=#F26C1C>Retired CS/LS06</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60089,
+			"name": "Retired PPSh-41",
+			"des": "Acquire <COLOR=#F26C1C>Retired PPSh-41</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60091,
+			"name": "Retired 416",
+			"des": "Obtain <COLOR=#F26C1C>Retired 416</COLOR> to unlock skin",
+			"conditionNum": 1
+		},
+		{
+			"id": 60098,
+			"name": "Svarog",
+			"des": "Acquire <COLOR=#F26C1C>Svarog</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61000,
+			"name": "Skin - High Magnification Scope Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61001,
+			"name": "Skin - High Magnification Scope Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61002,
+			"name": "Skin - Holo Sight Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61003,
+			"name": "Skin - Holo Sight Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61004,
+			"name": "Skin - Red Dot Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61005,
+			"name": "Skin - Internal Red Dot",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61006,
+			"name": "Skin - Tube Red Dot",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61007,
+			"name": "Skin - Variable Red Dot",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61008,
+			"name": "Skin - Scope",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61009,
+			"name": "Skin - High-Precision Scope",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61010,
+			"name": "Skin - Quick-Magnification Scope",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61011,
+			"name": "Skin - Close Range QM Scope",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61012,
+			"name": "Skin - Mini Holo Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61013,
+			"name": "Skin - Mini Reflex Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61014,
+			"name": "Skin - Mini Red Dot Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61015,
+			"name": "Skin - Flip-up Red Dot Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61016,
+			"name": "Skin - Micro Red Dot Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61017,
+			"name": "Skin - Round Red Dot Sight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61018,
+			"name": "Skin - Basic Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61019,
+			"name": "Skin - Basic Flash Hider",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61020,
+			"name": "Skin - Basic Muzzle Brake",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61021,
+			"name": "Skin - QD Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61022,
+			"name": "Skin - Door Breacher Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61023,
+			"name": "Skin - Door Breacher Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61024,
+			"name": "Skin - Compact Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61025,
+			"name": "Skin - Heavy Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61026,
+			"name": "Skin - Heavy Flash Hider",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61027,
+			"name": "Skin - Heavy Muzzle Brake",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61028,
+			"name": "Skin - QD Muzzle Brake",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61029,
+			"name": "Skin - QD Flash Hider",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61030,
+			"name": "Skin - Lightweight Muzzle Brake",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61031,
+			"name": "Skin - Duckbill Choke",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61032,
+			"name": "Skin - Specialized Muzzle Brake Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61033,
+			"name": "Skin - Specialized Muzzle Brake Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61034,
+			"name": "Skin - Specialized Flash Hider Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61035,
+			"name": "Skin - Specialized Flash Hider Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61036,
+			"name": "Skin - Specialized Suppressor Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61037,
+			"name": "Skin - Specialized Suppressor Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61038,
+			"name": "Skin - Extended Muzzle",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61039,
+			"name": "Skin - Short-Range Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61040,
+			"name": "Skin - Rail Mounted Suppressor",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61041,
+			"name": "Skin - Muzzle Compensator",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61042,
+			"name": "Skin - Laser",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61043,
+			"name": "Skin - Flashlight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61044,
+			"name": "Skin - Red Dot Device",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61045,
+			"name": "Skin - Compact Tactical Flashlight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61046,
+			"name": "Skin - QD Tactical Flashlight",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61047,
+			"name": "Skin - Tactical Range Finder",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61048,
+			"name": "Skin - Hot Forged Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61049,
+			"name": "Skin - Cold Rolled Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61050,
+			"name": "Skin - Power Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61051,
+			"name": "Skin - Hypersonic Rotating Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61052,
+			"name": "Skin - Serrated Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61053,
+			"name": "Skin - Ngombe Edge",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61054,
+			"name": "Skin - Vertical Foregrip Mk.I",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61055,
+			"name": "Skin - Vertical Foregrip Mk.II",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61056,
+			"name": "Skin - Lightweight Foregrip",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61057,
+			"name": "Skin - Angled Foregrip",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61058,
+			"name": "Skin - Tactical Foregrip",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61059,
+			"name": "Skin - Tactical Handstop",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61060,
+			"name": "Skin - Heavy Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61061,
+			"name": "Skin - Adjustable Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61062,
+			"name": "Skin - Foldable Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61063,
+			"name": "Skin - Multi-Purpose Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61064,
+			"name": "Skin - Retractable Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 61065,
+			"name": "Skin - Tactical QD Bipod",
+			"des": "Acquire <COLOR=#F26C1C>1 Precise Grade Attachment</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 99999,
+			"name": "Not Available",
+			"des": "Stay tuned",
+			"conditionNum": 999
+		}
+	]
+}

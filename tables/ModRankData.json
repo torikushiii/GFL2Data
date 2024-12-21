@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"id": 2,
+			"name": "Civilian Grade",
+			"description": "Civilian Grade"
+		},
+		{
+			"id": 3,
+			"name": "Industrial Grade",
+			"description": "Industrial Grade"
+		},
+		{
+			"id": 4,
+			"name": "Military Grade",
+			"description": "Military Grade"
+		},
+		{
+			"id": 5,
+			"name": "Classified Grade",
+			"description": "Classified Grade"
+		}
+	]
+}

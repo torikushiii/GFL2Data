@@ -1,0 +1,84 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"group": 101,
+			"questionTxt": "Which of the colors below does the \"Dai\" in Daiyan's name refer to?",
+			"optionRight": "Bluish Black",
+			"optionError": "Maroon Purple",
+			"analysis": "Dai refers to a black-green pigment used by women in ancient times to paint their eyebrows."
+		},
+		{
+			"id": 2,
+			"group": 101,
+			"questionTxt": "What weapon is Daiyan Imprinted to?",
+			"optionRight": "Type 95 Assault Rifle",
+			"optionError": "Type 97 Assault Rifle",
+			"analysis": "Daiyan is Imprinted to the Type 95 assault rifle. Jiangyu is Imprinted to the Type 97 assault rifle."
+		},
+		{
+			"id": 3,
+			"group": 101,
+			"questionTxt": "What is Daiyan's most-used instrument?",
+			"optionRight": "Guzheng",
+			"optionError": "Guqin",
+			"analysis": "Daiyan has a special bond with the guzheng. After joining Griffin, she briefly abandoned the guzheng, but took up her beloved instrument once again after leaving Griffin. To this day, she is still striving to improve her performance skills."
+		},
+		{
+			"id": 4,
+			"group": 101,
+			"questionTxt": "How does Daiyan's little sister address her?",
+			"optionRight": "Big Sis",
+			"optionError": "Sister",
+			"analysis": "Daiyan's little sister Jiangyu often calls Daiyan \"Big Sis\"."
+		},
+		{
+			"id": 5,
+			"group": 101,
+			"questionTxt": "In Griffin, Daiyan once starred in a play. What is the name of this play?",
+			"optionRight": "The Legend of the White Snake",
+			"optionError": "Gretel the Witch",
+			"analysis": "In Griffin, Daiyan once played the role of the White Snake in the production \"Strange Tales of the White Snake\" during Halloween."
+		},
+		{
+			"id": 6,
+			"group": 101,
+			"questionTxt": "What items are Daiyan likely to buy in a shopping list?",
+			"optionRight": "Guzheng Sheet Music",
+			"optionError": "Seasonal Recipes",
+			"analysis": "Daiyan loves the guzheng and enjoys collecting musical scores."
+		},
+		{
+			"id": 7,
+			"group": 101,
+			"questionTxt": "How does Daiyan usually address the Commander?",
+			"optionRight": "Officer",
+			"optionError": "Vehicle Length",
+			"analysis": "Hint - You can hear it in her voice lines."
+		},
+		{
+			"id": 8,
+			"group": 101,
+			"questionTxt": "What caliber is the Type 95 assault rifle?",
+			"optionRight": "5.8mm",
+			"optionError": "7.62mm",
+			"analysis": "The Type 95 is a small-caliber rifle. Its bore is 5.8mm and it fires 5.8x42mm ammunition."
+		},
+		{
+			"id": 9,
+			"group": 101,
+			"questionTxt": "Why is the URNC pushing their purification schedule forward?",
+			"optionRight": "To clear the Collapse radiation",
+			"optionError": "In order to collect Collapse crystals",
+			"analysis": "Faced with the global threat that spreading Collapse Radiation poses to the entire world, the NSU and URNC signed the \"European Collapse Radiation Contamination Zone Restoration and Revitalization Joint Development Agreement\" in 2067 and collaboratively began the work of purifying their contaminated zones. The aim is to cleanse the land of Collapse Radiation, allow the environment to recover and flourish, accelerate urban construction and help the sustained development of humanity."
+		},
+		{
+			"id": 10,
+			"group": 101,
+			"questionTxt": "In the Joint Development Agreement, what are the mobile quarantine walls commonly called?",
+			"optionRight": "Great Wall Railway",
+			"optionError": "Purification tower",
+			"analysis": "Mobile quarantine walls are a type of Collapse Radiation quarantine wall. Due to their size and the fact that they travel on the same rails as the intercontinental railway, they resemble mobile versions of the Great Wall of China; hence people have called them the \"Great Wall Railway\"."
+		}
+	]
+}

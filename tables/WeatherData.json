@@ -1,0 +1,68 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "",
+			"intro": "",
+			"icon": "Campaign_BattleInfo_Icon_Weather_Nothing",
+			"battleSkill": 0,
+			"sceneEfx": 0
+		},
+		{
+			"id": 2,
+			"name": "Sunny",
+			"intro": "In an SLG Battle, increase accuracy for both parties.",
+			"icon": "Campaign_BattleInfo_Icon_Weather_Sun",
+			"battleSkill": 2002,
+			"sceneEfx": 0
+		},
+		{
+			"id": 3,
+			"name": "Foggy",
+			"intro": "In an SLG Battle, increase evasion rate for both parties.",
+			"icon": "Campaign_BattleInfo_Icon_Weather_Fog",
+			"battleSkill": 2003,
+			"sceneEfx": 0
+		},
+		{
+			"id": 4,
+			"name": "Drizzling",
+			"intro": "Chance of Transforming into Thunderstorm Weather",
+			"icon": "Campaign_BattleInfo_Icon_Weather_Rain",
+			"battleSkill": 2004,
+			"sceneEfx": 1
+		},
+		{
+			"id": 5,
+			"name": "Thunderstorm",
+			"intro": "In an SLG Battle, decrease Dolls Mobility by 2",
+			"icon": "Campaign_BattleInfo_Icon_Weather_HeavyRain",
+			"battleSkill": 2005,
+			"sceneEfx": 2
+		},
+		{
+			"id": 6,
+			"name": "Snowing",
+			"intro": "Chance of Transforming into Blizzard Weather",
+			"icon": "Campaign_BattleInfo_Icon_Weather_Snow",
+			"battleSkill": 2006,
+			"sceneEfx": 3
+		},
+		{
+			"id": 7,
+			"name": "Blizzard",
+			"intro": "In an SLG Battle, decrease Dolls Mobility by 2",
+			"icon": "Campaign_BattleInfo_Icon_Weather_HeavySnow",
+			"battleSkill": 2007,
+			"sceneEfx": 4
+		},
+		{
+			"id": 11,
+			"name": "Prologue",
+			"intro": "-",
+			"battleSkill": 10001,
+			"icon": "",
+			"sceneEfx": 0
+		}
+	]
+}

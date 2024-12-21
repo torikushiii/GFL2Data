@@ -1,0 +1,328 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100102
+			],
+			"darkzoneCriticalEffect": 10010101,
+			"criticalRate": 260,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1008,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10080101,
+			"criticalRate": 900,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1009,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10090101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1013,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10130101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1015,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10150101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1017,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10170101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1021,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10210101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1022,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10220101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1023,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10230101,
+			"criticalRate": 900,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1024,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10240101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1025,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10250101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1026,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10260101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1027,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10270101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1028,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10280101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1029,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10290101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1032,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10320101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1033,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10330101,
+			"criticalRate": 900,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1034,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10340101,
+			"criticalRate": 900,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1035,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10350101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1036,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10360101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1037,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100102
+			],
+			"darkzoneCriticalEffect": 10370102,
+			"criticalRate": 260,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1038,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10380101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1039,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10390101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1040,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10400101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1041,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10410101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1050,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10500101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		},
+		{
+			"id": 1052,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100101
+			],
+			"darkzoneCriticalEffect": 10520101,
+			"criticalRate": 550,
+			"cameraLength": 1500,
+			"aimCameraRange": 1,
+			"aimCameraLength": 1500
+		}
+	]
+}

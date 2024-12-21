@@ -1,0 +1,127 @@
+{
+	"data": [
+		{
+			"propertyDisplay": [
+				"pow",
+				"max_hp",
+				"armor",
+				"max_ap",
+				"crit",
+				"crit_mult",
+				"hit_percentage",
+				"dodge_percentage"
+			],
+			"playerTitleDefault": 23001,
+			"playerNameChangeCost": {
+				"1": 100
+			},
+			"playerMedalDefault": 22001,
+			"playerAvatarFrameDefault": 24001,
+			"playerAvatarDefault": 21999,
+			"partBuffSeason": [
+				20,
+				1,
+				2
+			],
+			"mottoLimit": 80,
+			"gunMaxGrade": 6,
+			"mentalRankLevellimit": [
+				60,
+				60,
+				60,
+				60,
+				60,
+				60,
+				60,
+				60,
+				60,
+				60,
+				60
+			],
+			"mentalMixListSuppress": [
+				224,
+				244,
+				264,
+				132
+			],
+			"mentalMixListSniper": [
+				225,
+				245,
+				265,
+				132
+			],
+			"mentalMixListScout": [
+				222,
+				242,
+				262,
+				132
+			],
+			"mentalMixListGuard": [
+				221,
+				241,
+				261,
+				132
+			],
+			"mentalMixListBurst": [
+				226,
+				246,
+				266,
+				132
+			],
+			"mentalMixListAssist": [
+				223,
+				243,
+				263,
+				132
+			],
+			"repositorySoldRankWeapon": [
+				2,
+				3,
+				4
+			],
+			"repositorySoldRankEquip": [
+				2,
+				3,
+				4
+			],
+			"repositoryMax": 999,
+			"weaponModLevelUpItem": 8999,
+			"weaponNearCamera": [
+				2.49,
+				300.0,
+				14.0
+			],
+			"weaponUpgradeLevel": 5,
+			"weaponUpgradeItemLimited": 100,
+			"weaponTransformRate": {
+				"50": 1
+			},
+			"weaponTransformLevel": 10,
+			"weaponTransformItem": 8301,
+			"weaponSkillUpLevel": 6,
+			"weaponRank5BreakItem": {
+				"8300": 9999
+			},
+			"weaponRank4BreakItem": {
+				"8300": 9999
+			},
+			"weaponPackageStoreid": 6,
+			"weaponModDisposalLimit": 300,
+			"weaponLowRank": 3,
+			"weaponLevelUpItem": [
+				8301,
+				8302,
+				8303,
+				8304,
+				8305,
+				8306
+			],
+			"weaponLevelPerBreak": 6,
+			"weaponLevelBreakRank": 1,
+			"weaponLevelBreakItem": 130,
+			"weaponExpReturn": 0.8,
+			"weaponDisposalLimit": 100,
+			"weaponDismantlingItem": 11
+		}
+	]
+}

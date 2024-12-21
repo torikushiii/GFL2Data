@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"effectId": 1,
+			"name": "Upgraded Attachments",
+			"description": "Upgraded Attachments",
+			"icon": "WeaponPart_Effect_Property"
+		},
+		{
+			"effectId": 3,
+			"name": "Assembled Attachments",
+			"description": "Assembled Attachments",
+			"icon": "WeaponPart_Effect_Combine"
+		},
+		{
+			"effectId": 4,
+			"name": "Specialized Attachments",
+			"description": "Specialized Attachments",
+			"icon": "WeaponPart_Effect_Master"
+		}
+	]
+}

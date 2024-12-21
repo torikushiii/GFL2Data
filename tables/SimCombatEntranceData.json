@@ -1,0 +1,233 @@
+{
+	"data": [
+		{
+			"id": 20,
+			"name": "Standardizing Sync",
+			"image": "Icon_SimCombatDaily_LogoGold",
+			"icon": "Icon_SimCombatDaily_Gold",
+			"bgPath": "SimCombatComBg_Gold",
+			"openTime": "Open 24/7",
+			"dropItem": 2,
+			"labelId": [
+				17
+			],
+			"unlock": 11004,
+			"extraDropCost": 350,
+			"itemId": 301,
+			"extraDropTimes": 2,
+			"displayName": 194002,
+			"itemTimes": 28,
+			"unlockDescribe": "Unlocks after reaching Commander level 25"
+		},
+		{
+			"id": 21,
+			"name": "In-Depth Search",
+			"image": "Icon_SimCombatDaily_LogoEpx",
+			"icon": "Icon_SimCombatDaily_Epx",
+			"bgPath": "SimCombatComBg_Exp",
+			"openTime": "Open 24/7",
+			"dropItem": 25,
+			"labelId": [
+				16
+			],
+			"unlock": 11003,
+			"extraDropCost": 351,
+			"extraDropTimes": 2,
+			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 22,
+			"name": "Cognitive Configuration",
+			"image": "Icon_SimCombatDaily_LogoEquip",
+			"icon": "Icon_SimCombatDaily_Equip",
+			"bgPath": "SimCombatComBg_Equip",
+			"openTime": "",
+			"dropItem": 240,
+			"labelId": [
+				18
+			],
+			"unlock": 11005,
+			"extraDropCost": 352,
+			"extraDropTimes": 2,
+			"unlockDescribe": "Unlocked via reaching Commander Level 20",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 23,
+			"name": "Tactical Evaluation",
+			"image": "Img_SimCombat_6",
+			"icon": "Icon_SimCombat_6",
+			"openTime": "Open 24/7",
+			"labelId": [
+				8
+			],
+			"unlock": 11007,
+			"unlockDescribe": "Unlocked via reaching Commander Level 27",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 24,
+			"name": "Boss Fight",
+			"image": "Img_SimCombat_Week",
+			"icon": "Icon_SimCombat_Week",
+			"openTime": "Open Temporarily",
+			"labelId": [
+				14,
+				19,
+				20
+			],
+			"unlock": 11008,
+			"unlockDescribe": "Unlocked via reaching Commander Level 27",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 25,
+			"name": "Peak Value Assessment",
+			"image": "Img_SimCombat_Mythic",
+			"icon": "Icon_SimCombat_Mythic",
+			"openTime": "Open 24/7",
+			"labelId": [
+				15
+			],
+			"unlock": 11009,
+			"unlockDescribe": "Unlocked via reaching Commander Level 30",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 30,
+			"name": "Combat Exercise",
+			"image": "Img_SimCombat_PVP",
+			"icon": "Icon_SimCombat_PVP",
+			"openTime": "",
+			"labelId": [
+				25
+			],
+			"unlock": 14000,
+			"unlockDescribe": "Unlocked via reaching Commander Level 30",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 31,
+			"name": "Equipment Analysis",
+			"image": "Icon_SimCombatDaily_LogoWeapon",
+			"icon": "Icon_SimCombatDaily_Weapon",
+			"bgPath": "SimCombatComBg_WeaponExp",
+			"openTime": "Open 24/7",
+			"dropItem": 8301,
+			"labelId": [
+				9
+			],
+			"unlock": 11006,
+			"extraDropCost": 353,
+			"extraDropTimes": 2,
+			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 32,
+			"name": "Neural Survey",
+			"image": "Img_SimCombat_Hard",
+			"icon": "Icon_SimCombat_Hard",
+			"openTime": "Open 24/7",
+			"labelId": [
+				26
+			],
+			"unlock": 11002,
+			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 35,
+			"name": "Military Simulation",
+			"image": "Img_SimCombat_HigherPVP",
+			"icon": "Icon_SimCombat_HigherPVP",
+			"openTime": "",
+			"unlock": 14500,
+			"unlockDescribe": "Combat Exercise Rank hits Adept V to unlock",
+			"bgPath": "",
+			"dropItem": 0,
+			"labelId": [],
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 41,
+			"name": "Targeted Study",
+			"image": "Icon_SimCombatDaily_LogoWeaponPart",
+			"icon": "Icon_SimCombatDaily_WeaponPart",
+			"bgPath": "SimCombatComBg_WeaponPart",
+			"openTime": "Open 24/7",
+			"dropItem": 242,
+			"labelId": [
+				30,
+				31,
+				32,
+				33
+			],
+			"unlock": 11012,
+			"unlockDescribe": "Unlocked via reaching Commander Level 23",
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 50,
+			"name": "Expansion Drills",
+			"image": "Img_SimCombat_Unite",
+			"icon": "Icon_SimCombat_Unite",
+			"openTime": "",
+			"unlock": 33001,
+			"unlockDescribe": "Unlocked when Commander Level reaches 23",
+			"bgPath": "",
+			"dropItem": 0,
+			"labelId": [],
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		}
+	]
+}

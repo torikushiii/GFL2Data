@@ -1,0 +1,429 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"name": "Player Spawn Point",
+			"building": "Effect/Effect_activity/Monopoly/sence_born"
+		},
+		{
+			"id": 102,
+			"name": "Ticket Stage",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_ticket_icon"
+		},
+		{
+			"id": 103,
+			"name": "Token Stage",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_raid_icon"
+		},
+		{
+			"id": 104,
+			"name": "Commissions",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_contract_icon"
+		},
+		{
+			"id": 9101,
+			"name": "Green Tile",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Mould/s_fes_floor_02"
+		},
+		{
+			"id": 9102,
+			"name": "Green Mid-Air Tile",
+			"building": "Scene/ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_06"
+		},
+		{
+			"id": 9103,
+			"name": "Transprent Tile",
+			"building": "Scene/ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_transparent_01"
+		},
+		{
+			"id": 9104,
+			"name": "Gray Tile",
+			"building": "Scene/ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05b"
+		},
+		{
+			"id": 9105,
+			"name": "Gray Mid-Air Tile",
+			"building": "Scene/ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_06b"
+		},
+		{
+			"id": 9106,
+			"name": "White Opaque Tile",
+			"building": "Scene/ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_03c"
+		},
+		{
+			"id": 9201,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_advertising_01"
+		},
+		{
+			"id": 9202,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_box_01"
+		},
+		{
+			"id": 9203,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_chimney_01"
+		},
+		{
+			"id": 9204,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_concretefence_01"
+		},
+		{
+			"id": 9205,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_conveyor_01"
+		},
+		{
+			"id": 9206,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_conveyor_02"
+		},
+		{
+			"id": 9207,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_copter_03"
+		},
+		{
+			"id": 9208,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_crane_02"
+		},
+		{
+			"id": 9209,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_fencing_01"
+		},
+		{
+			"id": 9210,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_fencing_02"
+		},
+		{
+			"id": 9211,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_fencing_03"
+		},
+		{
+			"id": 9212,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_floor_01"
+		},
+		{
+			"id": 9213,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_floor_01b"
+		},
+		{
+			"id": 9214,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_floor_03"
+		},
+		{
+			"id": 9215,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_flowerbed_02"
+		},
+		{
+			"id": 9216,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_garbage_01"
+		},
+		{
+			"id": 9217,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_highway_01"
+		},
+		{
+			"id": 9218,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_hydrant_01"
+		},
+		{
+			"id": 9219,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_Leaf_01"
+		},
+		{
+			"id": 9220,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_light_01"
+		},
+		{
+			"id": 9221,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_01"
+		},
+		{
+			"id": 9222,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_02"
+		},
+		{
+			"id": 9223,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_05"
+		},
+		{
+			"id": 9224,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_06"
+		},
+		{
+			"id": 9225,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_07"
+		},
+		{
+			"id": 9226,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_08"
+		},
+		{
+			"id": 9227,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_machine_09"
+		},
+		{
+			"id": 9228,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_oilTank_01"
+		},
+		{
+			"id": 9229,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_parking_01"
+		},
+		{
+			"id": 9230,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pilotlamp_01"
+		},
+		{
+			"id": 9231,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_01a"
+		},
+		{
+			"id": 9232,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_01b"
+		},
+		{
+			"id": 9233,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_02a"
+		},
+		{
+			"id": 9234,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_02b"
+		},
+		{
+			"id": 9235,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_03a"
+		},
+		{
+			"id": 9236,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_03b"
+		},
+		{
+			"id": 9237,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_04"
+		},
+		{
+			"id": 9238,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_05"
+		},
+		{
+			"id": 9239,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_05a"
+		},
+		{
+			"id": 9240,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_06a"
+		},
+		{
+			"id": 9241,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_06b"
+		},
+		{
+			"id": 9242,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_07"
+		},
+		{
+			"id": 9243,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_08a"
+		},
+		{
+			"id": 9244,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_08b"
+		},
+		{
+			"id": 9245,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_09"
+		},
+		{
+			"id": 9246,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_pipe_10"
+		},
+		{
+			"id": 9247,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_radar_01"
+		},
+		{
+			"id": 9248,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_roadblock_01"
+		},
+		{
+			"id": 9249,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_rock_01"
+		},
+		{
+			"id": 9250,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_rock_02"
+		},
+		{
+			"id": 9251,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_rock_03"
+		},
+		{
+			"id": 9252,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_rock_04"
+		},
+		{
+			"id": 9253,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_rock_05"
+		},
+		{
+			"id": 9254,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_sand_01"
+		},
+		{
+			"id": 9255,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_scaffolding_01"
+		},
+		{
+			"id": 9256,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_scaffolding_02"
+		},
+		{
+			"id": 9257,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_solarEnergy_01"
+		},
+		{
+			"id": 9258,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_stairs_01"
+		},
+		{
+			"id": 9259,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_stairs_02"
+		},
+		{
+			"id": 9260,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_stone_01"
+		},
+		{
+			"id": 9261,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_stone_02"
+		},
+		{
+			"id": 9262,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_stone_03"
+		},
+		{
+			"id": 9263,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_subgrade_01"
+		},
+		{
+			"id": 9264,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_subgrade_03"
+		},
+		{
+			"id": 9265,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_trafficCone_01"
+		},
+		{
+			"id": 9266,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_tree_01"
+		},
+		{
+			"id": 9267,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_tree_02"
+		},
+		{
+			"id": 9268,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_tree_03"
+		},
+		{
+			"id": 9269,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Commoon/Yellow_desert/s_fes_wire_01"
+		},
+		{
+			"id": 9270,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Mould/s_fes_buff_machine_01"
+		},
+		{
+			"id": 9271,
+			"name": "",
+			"building": "Scene/ThemeActivity/ActivitySandbox/Mould/s_fes_buff_machine_02"
+		},
+		{
+			"id": 9272,
+			"name": "",
+			"building": "Effect/Effect_activity/Monopoly/Monopoly_effect_choosen"
+		},
+		{
+			"id": 9273,
+			"name": "Token Stage",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_raid_show"
+		},
+		{
+			"id": 9274,
+			"name": "Commissions",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_contract_show"
+		},
+		{
+			"id": 9275,
+			"name": "Ticket Stage",
+			"building": "Effect/Effect_activity/Sandbox/effect_grid_ticket_show"
+		}
+	]
+}

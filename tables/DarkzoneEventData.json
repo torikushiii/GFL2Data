@@ -1,0 +1,19 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"name": "Collapse Storm",
+			"desc": "Collapse Storm Description Collapse Storm Description Collapse Storm Description"
+		},
+		{
+			"id": 102,
+			"name": "Collapse Storm",
+			"desc": "The concentration of Collapse particles in this area is rapidly increasing, which usually means a Collapse storm is happening, and it doesn't seem to be stopping anytime soon. Dolls caught in a Collapse storm will lose HP quickly, so bounty hunters need to time their missions well and not linger too long."
+		},
+		{
+			"id": 103,
+			"name": "High-Risk Area",
+			"desc": "The system has raised the crisis level. Enemies in some areas are now more aggressive and most of them will attack bounty hunters who come to explore these regions."
+		}
+	]
+}

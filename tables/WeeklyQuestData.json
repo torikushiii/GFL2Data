@@ -1,0 +1,781 @@
+{
+	"data": [
+		{
+			"id": 11001,
+			"questType": 2,
+			"type": 1001,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>1,919</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>1,919</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 40
+			}
+		},
+		{
+			"id": 11002,
+			"questType": 2,
+			"type": 1001,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>1,920</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>1,920</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 45
+			}
+		},
+		{
+			"id": 11003,
+			"questType": 2,
+			"type": 1001,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>4,800</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>4,800</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 11004,
+			"questType": 2,
+			"type": 1001,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>7,680</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>7,680</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 55
+			}
+		},
+		{
+			"id": 11005,
+			"questType": 2,
+			"type": 1001,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>9,600</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>9,600</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 60
+			}
+		},
+		{
+			"id": 12001,
+			"questType": 2,
+			"type": 1002,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>2,499</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>2,499</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 40
+			}
+		},
+		{
+			"id": 12002,
+			"questType": 2,
+			"type": 1002,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>2,500</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>2,500</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 45
+			}
+		},
+		{
+			"id": 12003,
+			"questType": 2,
+			"type": 1002,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>6,250</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>6,250</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 12004,
+			"questType": 2,
+			"type": 1002,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>10,000</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>10,000</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 55
+			}
+		},
+		{
+			"id": 12005,
+			"questType": 2,
+			"type": 1002,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>12,500</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>12,500</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 60
+			}
+		},
+		{
+			"id": 13001,
+			"questType": 2,
+			"type": 1003,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>3,259</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>3,259</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 13002,
+			"questType": 2,
+			"type": 1003,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>3,260</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>3,260</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 55
+			}
+		},
+		{
+			"id": 13003,
+			"questType": 2,
+			"type": 1003,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>8,150</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>8,150</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 60
+			}
+		},
+		{
+			"id": 13004,
+			"questType": 2,
+			"type": 1003,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>13,040</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>13,040</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 65
+			}
+		},
+		{
+			"id": 13005,
+			"questType": 2,
+			"type": 1003,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>16,300</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>16,300</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 70
+			}
+		},
+		{
+			"id": 14001,
+			"questType": 2,
+			"type": 1004,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>4,739</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>4,739</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 60
+			}
+		},
+		{
+			"id": 14002,
+			"questType": 2,
+			"type": 1004,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>4,740</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>4,740</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 65
+			}
+		},
+		{
+			"id": 14003,
+			"questType": 2,
+			"type": 1004,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>11,850</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>11,850</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 70
+			}
+		},
+		{
+			"id": 14004,
+			"questType": 2,
+			"type": 1004,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>18,960</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>18,960</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 75
+			}
+		},
+		{
+			"id": 14005,
+			"questType": 2,
+			"type": 1004,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>23,700</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>23,700</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 80
+			}
+		},
+		{
+			"id": 15001,
+			"questType": 2,
+			"type": 1005,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>6,079</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>6,079</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 70
+			}
+		},
+		{
+			"id": 15002,
+			"questType": 2,
+			"type": 1005,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>6,080</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>6,080</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 80
+			}
+		},
+		{
+			"id": 15003,
+			"questType": 2,
+			"type": 1005,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>15,200</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>15,200</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 90
+			}
+		},
+		{
+			"id": 15004,
+			"questType": 2,
+			"type": 1005,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>24,320</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>24,320</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 15005,
+			"questType": 2,
+			"type": 1005,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>30,400</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>30,400</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 110
+			}
+		},
+		{
+			"id": 16001,
+			"questType": 2,
+			"type": 1006,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>11,399</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>11,399</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 80
+			}
+		},
+		{
+			"id": 16002,
+			"questType": 2,
+			"type": 1006,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>11,400</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>11,400</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 16003,
+			"questType": 2,
+			"type": 1006,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>28,500</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>28,500</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 120,
+				"9012": 1
+			}
+		},
+		{
+			"id": 16004,
+			"questType": 2,
+			"type": 1006,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>45,600</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>45,600</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140,
+				"9012": 1
+			}
+		},
+		{
+			"id": 16005,
+			"questType": 2,
+			"type": 1006,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>57,000</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>57,000</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160,
+				"9012": 1
+			}
+		},
+		{
+			"id": 17001,
+			"questType": 2,
+			"type": 1007,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>14,819</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>14,819</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 120
+			}
+		},
+		{
+			"id": 17002,
+			"questType": 2,
+			"type": 1007,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>14,820</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>14,820</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 17003,
+			"questType": 2,
+			"type": 1007,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>37,050</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>37,050</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160,
+				"9012": 1
+			}
+		},
+		{
+			"id": 17004,
+			"questType": 2,
+			"type": 1007,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>59,280</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>59,280</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 17005,
+			"questType": 2,
+			"type": 1007,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>74,100</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>74,100</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 18001,
+			"questType": 2,
+			"type": 1008,
+			"name": "Achieve Average rating (collection points below <color=#f26c1c>19,259</color>)",
+			"description": "Achieve Average rating (collection points below <color=#f26c1c>19,259</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 18002,
+			"questType": 2,
+			"type": 1008,
+			"name": "Achieve Good rating (collection points reaching <color=#f26c1c>19,260</color>)",
+			"description": "Achieve Good rating (collection points reaching <color=#f26c1c>19,260</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 18003,
+			"questType": 2,
+			"type": 1008,
+			"name": "Achieve Fine rating (collection points reaching <color=#f26c1c>48,150</color>)",
+			"description": "Achieve Fine rating (collection points reaching <color=#f26c1c>48,150</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 18004,
+			"questType": 2,
+			"type": 1008,
+			"name": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>77,040</color>)",
+			"description": "Achieve Outstanding rating (collection points reaching <color=#f26c1c>77,040</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 18005,
+			"questType": 2,
+			"type": 1008,
+			"name": "Achieve Excellent rating (collection points reaching <color=#f26c1c>96,300</color>)",
+			"description": "Achieve Excellent rating (collection points reaching <color=#f26c1c>96,300</color>)",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 220,
+				"9012": 1
+			}
+		},
+		{
+			"id": 19001,
+			"questType": 2,
+			"type": 1009,
+			"name": "Challenge Rating: Average",
+			"description": "Challenge Rating: Average",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 19002,
+			"questType": 2,
+			"type": 1009,
+			"name": "Challenge Rating: Good",
+			"description": "Challenge Rating: Good",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 19003,
+			"questType": 2,
+			"type": 1009,
+			"name": "Challenge Rating: Great",
+			"description": "Challenge Rating: Great",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 19004,
+			"questType": 2,
+			"type": 1009,
+			"name": "Challenge Rating: Excellent",
+			"description": "Challenge Rating: Excellent",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 19005,
+			"questType": 2,
+			"type": 1009,
+			"name": "Challenge Rating: Outstanding",
+			"description": "Challenge Rating: Outstanding",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 220,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20001,
+			"questType": 2,
+			"type": 1010,
+			"name": "Challenge Rating: Average",
+			"description": "Challenge Rating: Average",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 20002,
+			"questType": 2,
+			"type": 1010,
+			"name": "Challenge Rating: Good",
+			"description": "Challenge Rating: Good",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 20003,
+			"questType": 2,
+			"type": 1010,
+			"name": "Challenge Rating: Great",
+			"description": "Challenge Rating: Great",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20004,
+			"questType": 2,
+			"type": 1010,
+			"name": "Challenge Rating: Excellent",
+			"description": "Challenge Rating: Excellent",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20005,
+			"questType": 2,
+			"type": 1010,
+			"name": "Challenge Rating: Outstanding",
+			"description": "Challenge Rating: Outstanding",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 220,
+				"9012": 1
+			}
+		},
+		{
+			"id": 21001,
+			"questType": 3,
+			"type": 1011,
+			"name": "Complete Deichgraf challenge once",
+			"description": "Complete Deichgraf challenge once",
+			"conditionClass": 318,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 21002,
+			"questType": 3,
+			"type": 1011,
+			"name": "Eliminate Deichgraf once in Phase 1",
+			"description": "Eliminate Deichgraf once in Phase 1",
+			"conditionClass": 316,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 21003,
+			"questType": 3,
+			"type": 1011,
+			"name": "Eliminate Deichgraf once in Phase 2",
+			"description": "Eliminate Deichgraf once in Phase 2",
+			"conditionClass": 316,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 21004,
+			"questType": 3,
+			"type": 1011,
+			"name": "Eliminate Deichgraf once in Phase 3",
+			"description": "Eliminate Deichgraf once in Phase 3",
+			"conditionClass": 316,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 22001,
+			"questType": 3,
+			"type": 1012,
+			"name": "Complete the Ledyanaya Mogila Challenge once",
+			"description": "Complete the Ledyanaya Mogila Challenge once",
+			"conditionClass": 318,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 22002,
+			"questType": 3,
+			"type": 1012,
+			"name": "Reach 84000 points in Ledyanaya Mogila Challenge Phase 1",
+			"description": "Reach 84000 points in Ledyanaya Mogila Challenge Phase 1",
+			"conditionClass": 317,
+			"conditionNum": 84000,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 22003,
+			"questType": 3,
+			"type": 1012,
+			"name": "Reach 99000 points in Ledyanaya Mogila Challenge Phase 2",
+			"description": "Reach 99000 points in Ledyanaya Mogila Challenge Phase 2",
+			"conditionClass": 317,
+			"conditionNum": 99000,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 22004,
+			"questType": 3,
+			"type": 1012,
+			"name": "Reach 122000 points in Ledyanaya Mogila Challenge Phase 3",
+			"description": "Reach 122000 points in Ledyanaya Mogila Challenge Phase 3",
+			"conditionClass": 317,
+			"conditionNum": 122000,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 23001,
+			"questType": 3,
+			"type": 1013,
+			"name": "Complete the Tumorhynchus challenge once",
+			"description": "Complete the Tumorhynchus challenge once",
+			"conditionClass": 318,
+			"conditionNum": 1,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 23002,
+			"questType": 3,
+			"type": 1013,
+			"name": "Defeat Tumorhynchus once in Phase 1",
+			"description": "Defeat Tumorhynchus once in Phase 1",
+			"conditionClass": 316,
+			"conditionNum": 1,
+			"reward": {
+				"1": 120
+			}
+		},
+		{
+			"id": 23003,
+			"questType": 3,
+			"type": 1013,
+			"name": "Defeat Tumorhynchus once in Phase 2",
+			"description": "Defeat Tumorhynchus once in Phase 2",
+			"conditionClass": 316,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 23004,
+			"questType": 3,
+			"type": 1013,
+			"name": "Simultaneously defeat Tumorhynchus - Plague and Tumorhynchus - Disaster once in Phase 3",
+			"description": "Simultaneously defeat Tumorhynchus - Plague and Tumorhynchus - Disaster once in Phase 3",
+			"conditionClass": 321,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 23005,
+			"questType": 3,
+			"type": 1013,
+			"name": "In each of the three phases, defeat at least two Fetumors or Raditumors",
+			"description": "In each of the three phases, defeat at least two Fetumors or Raditumors",
+			"conditionClass": 322,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		}
+	]
+}

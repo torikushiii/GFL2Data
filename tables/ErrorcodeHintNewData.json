@@ -1,0 +1,388 @@
+{
+	"data": [
+		{
+			"errorcodeId": 10001,
+			"hintId": 990024
+		},
+		{
+			"errorcodeId": 10008,
+			"hintId": 990010
+		},
+		{
+			"errorcodeId": 10009,
+			"hintId": 990003
+		},
+		{
+			"errorcodeId": 10014,
+			"hintId": 990013
+		},
+		{
+			"errorcodeId": 10015,
+			"hintId": 990019
+		},
+		{
+			"errorcodeId": 10016,
+			"hintId": 600
+		},
+		{
+			"errorcodeId": 10025,
+			"hintId": 990001
+		},
+		{
+			"errorcodeId": 10039,
+			"hintId": 107075
+		},
+		{
+			"errorcodeId": 10045,
+			"hintId": 990014
+		},
+		{
+			"errorcodeId": 10050,
+			"hintId": 391097
+		},
+		{
+			"errorcodeId": 10052,
+			"hintId": 990002
+		},
+		{
+			"errorcodeId": 10059,
+			"hintId": 990011
+		},
+		{
+			"errorcodeId": 10065,
+			"hintId": 990023
+		},
+		{
+			"errorcodeId": 10069,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 10073,
+			"hintId": 990022
+		},
+		{
+			"errorcodeId": 10074,
+			"hintId": 260172
+		},
+		{
+			"errorcodeId": 10075,
+			"hintId": 260172
+		},
+		{
+			"errorcodeId": 10082,
+			"hintId": 990009
+		},
+		{
+			"errorcodeId": 10083,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 10084,
+			"hintId": 260010
+		},
+		{
+			"errorcodeId": 10085,
+			"hintId": 990025
+		},
+		{
+			"errorcodeId": 10090,
+			"hintId": 260221
+		},
+		{
+			"errorcodeId": 10091,
+			"hintId": 260222
+		},
+		{
+			"errorcodeId": 10093,
+			"hintId": 260223
+		},
+		{
+			"errorcodeId": 10320,
+			"hintId": 990035
+		},
+		{
+			"errorcodeId": 10356,
+			"hintId": 990018
+		},
+		{
+			"errorcodeId": 10700,
+			"hintId": 60052
+		},
+		{
+			"errorcodeId": 10901,
+			"hintId": 990007
+		},
+		{
+			"errorcodeId": 10902,
+			"hintId": 990007
+		},
+		{
+			"errorcodeId": 10904,
+			"hintId": 990004
+		},
+		{
+			"errorcodeId": 10906,
+			"hintId": 990005
+		},
+		{
+			"errorcodeId": 10908,
+			"hintId": 391095
+		},
+		{
+			"errorcodeId": 10915,
+			"hintId": 391096
+		},
+		{
+			"errorcodeId": 10916,
+			"hintId": 391094
+		},
+		{
+			"errorcodeId": 11000,
+			"hintId": 390224
+		},
+		{
+			"errorcodeId": 11002,
+			"hintId": 390295
+		},
+		{
+			"errorcodeId": 11003,
+			"hintId": 390225
+		},
+		{
+			"errorcodeId": 11004,
+			"hintId": 390226
+		},
+		{
+			"errorcodeId": 11005,
+			"hintId": 390227
+		},
+		{
+			"errorcodeId": 11006,
+			"hintId": 390228
+		},
+		{
+			"errorcodeId": 11007,
+			"hintId": 390229
+		},
+		{
+			"errorcodeId": 11008,
+			"hintId": 390230
+		},
+		{
+			"errorcodeId": 11012,
+			"hintId": 390231
+		},
+		{
+			"errorcodeId": 11022,
+			"hintId": 390232
+		},
+		{
+			"errorcodeId": 11023,
+			"hintId": 390233
+		},
+		{
+			"errorcodeId": 11024,
+			"hintId": 390234
+		},
+		{
+			"errorcodeId": 11027,
+			"hintId": 390235
+		},
+		{
+			"errorcodeId": 11031,
+			"hintId": 391094
+		},
+		{
+			"errorcodeId": 11032,
+			"hintId": 390287
+		},
+		{
+			"errorcodeId": 11033,
+			"hintId": 390294
+		},
+		{
+			"errorcodeId": 11103,
+			"hintId": 990027
+		},
+		{
+			"errorcodeId": 11120,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 11122,
+			"hintId": 990011
+		},
+		{
+			"errorcodeId": 11501,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 11705,
+			"hintId": 361002
+		},
+		{
+			"errorcodeId": 11706,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 11805,
+			"hintId": 990020
+		},
+		{
+			"errorcodeId": 12602,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 13100,
+			"hintId": 990015
+		},
+		{
+			"errorcodeId": 13101,
+			"hintId": 990016
+		},
+		{
+			"errorcodeId": 13103,
+			"hintId": 990017
+		},
+		{
+			"errorcodeId": 13107,
+			"hintId": 990029
+		},
+		{
+			"errorcodeId": 13401,
+			"hintId": 990009
+		},
+		{
+			"errorcodeId": 13403,
+			"hintId": 990012
+		},
+		{
+			"errorcodeId": 13404,
+			"hintId": 990008
+		},
+		{
+			"errorcodeId": 13415,
+			"hintId": 990028
+		},
+		{
+			"errorcodeId": 13419,
+			"hintId": 990026
+		},
+		{
+			"errorcodeId": 13453,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 13458,
+			"hintId": 990021
+		},
+		{
+			"errorcodeId": 13805,
+			"hintId": 990030
+		},
+		{
+			"errorcodeId": 13806,
+			"hintId": 990031
+		},
+		{
+			"errorcodeId": 13807,
+			"hintId": 990032
+		},
+		{
+			"errorcodeId": 13808,
+			"hintId": 990033
+		},
+		{
+			"errorcodeId": 13816,
+			"hintId": 990034
+		},
+		{
+			"errorcodeId": 13820,
+			"hintId": 260267
+		},
+		{
+			"errorcodeId": 13822,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 13851,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 13954,
+			"hintId": 990006
+		},
+		{
+			"errorcodeId": 14101,
+			"hintId": 390236
+		},
+		{
+			"errorcodeId": 14102,
+			"hintId": 390237
+		},
+		{
+			"errorcodeId": 14103,
+			"hintId": 390238
+		},
+		{
+			"errorcodeId": 14104,
+			"hintId": 390239
+		},
+		{
+			"errorcodeId": 14105,
+			"hintId": 390240
+		},
+		{
+			"errorcodeId": 14106,
+			"hintId": 390241
+		},
+		{
+			"errorcodeId": 14107,
+			"hintId": 390244
+		},
+		{
+			"errorcodeId": 14108,
+			"hintId": 390245
+		},
+		{
+			"errorcodeId": 14109,
+			"hintId": 390247
+		},
+		{
+			"errorcodeId": 14110,
+			"hintId": 390248
+		},
+		{
+			"errorcodeId": 14111,
+			"hintId": 390288
+		},
+		{
+			"errorcodeId": 14112,
+			"hintId": 390290
+		},
+		{
+			"errorcodeId": 14113,
+			"hintId": 390291
+		},
+		{
+			"errorcodeId": 14205,
+			"hintId": 300059
+		},
+		{
+			"errorcodeId": 14208,
+			"hintId": 300063
+		},
+		{
+			"errorcodeId": 14210,
+			"hintId": 300060
+		},
+		{
+			"errorcodeId": 14213,
+			"hintId": 300061
+		},
+		{
+			"errorcodeId": 14500,
+			"hintId": 470012
+		}
+	]
+}

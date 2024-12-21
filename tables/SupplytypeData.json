@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"name": "Confluence",
+			"enName": "Special",
+			"id": 0
+		},
+		{
+			"id": 2,
+			"name": "Ion",
+			"enName": "Magical"
+		},
+		{
+			"id": 1,
+			"name": "Kinetic Energy",
+			"enName": "Physical"
+		},
+		{
+			"id": 3,
+			"name": "Stability",
+			"enName": "Suppress"
+		}
+	]
+}

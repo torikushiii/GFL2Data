@@ -1,0 +1,25 @@
+{
+	"data": [
+		{
+			"name": "Energy Armor",
+			"nameEn": "Shield",
+			"icon": "Icon_Special_Shield",
+			"color": "333333FF",
+			"id": 0
+		},
+		{
+			"id": 2,
+			"name": "Ion Plating",
+			"nameEn": "MagicalShield",
+			"icon": "Icon_Magical_Shield",
+			"color": "333333FF"
+		},
+		{
+			"id": 1,
+			"name": "Reinforced Armor",
+			"nameEn": "PhysicalShield",
+			"icon": "Icon_Physical_Shield",
+			"color": "333333FF"
+		}
+	]
+}

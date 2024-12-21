@@ -1,0 +1,1070 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 50,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 2,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 3,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 150,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 4,
+			"caseId": 60016,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 5,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 250,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 6,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 300,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 7,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 350,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 8,
+			"caseId": 60016,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 9,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 450,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 10,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 500,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 11,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 550,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 12,
+			"caseId": 60016,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 13,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 14,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 15,
+			"caseId": 60016,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 900,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 16,
+			"caseId": 60016,
+			"reward": {
+				"1002": 1
+			},
+			"rewardPlus": {
+				"22050": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"conditionArg0": 101
+		},
+		{
+			"id": 17,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 50,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 18,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 19,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 150,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 20,
+			"caseId": 60042,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 21,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 250,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 22,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 300,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 23,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 350,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 24,
+			"caseId": 60042,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 25,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 450,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 26,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 500,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 27,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 550,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 28,
+			"caseId": 60042,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 29,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 650,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 30,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 31,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 750,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 32,
+			"caseId": 60042,
+			"reward": {
+				"1002": 1
+			},
+			"rewardPlus": {
+				"9012": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"conditionArg0": 101
+		},
+		{
+			"id": 33,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 850,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 34,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 900,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 35,
+			"caseId": 60042,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 950,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 36,
+			"caseId": 60042,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 37,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 50,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 38,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 39,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 150,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 40,
+			"caseId": 60059,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 41,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 250,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 42,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 300,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 43,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 350,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 44,
+			"caseId": 60059,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 45,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 450,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 46,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 500,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 47,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 550,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 48,
+			"caseId": 60059,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 49,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 650,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 50,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 51,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 750,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 52,
+			"caseId": 60059,
+			"reward": {
+				"1002": 1
+			},
+			"rewardPlus": {
+				"9012": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"conditionArg0": 101
+		},
+		{
+			"id": 53,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 850,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 54,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 900,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 55,
+			"caseId": 60059,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 950,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 56,
+			"caseId": 60059,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 57,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 50,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 58,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 59,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 150,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 60,
+			"caseId": 60109,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 61,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 250,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 62,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 300,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 63,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 350,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 64,
+			"caseId": 60109,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 65,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 450,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 66,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 500,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 67,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 550,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 68,
+			"caseId": 60109,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 69,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 650,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 70,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 71,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 750,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 72,
+			"caseId": 60109,
+			"reward": {
+				"1002": 1
+			},
+			"rewardPlus": {
+				"9012": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"conditionArg0": 101
+		},
+		{
+			"id": 73,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 850,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 74,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 900,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 75,
+			"caseId": 60109,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 950,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 76,
+			"caseId": 60109,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 77,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 50,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 78,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 79,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 150,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 80,
+			"caseId": 68006,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 81,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 250,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 82,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 300,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 83,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 350,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 84,
+			"caseId": 68006,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 85,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 450,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 86,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 500,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 87,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 550,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 88,
+			"caseId": 68006,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 89,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 650,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 90,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 91,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 750,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 92,
+			"caseId": 68006,
+			"reward": {
+				"1002": 1
+			},
+			"rewardPlus": {
+				"22050": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"conditionArg0": 101
+		},
+		{
+			"id": 93,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 850,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 94,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 900,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 95,
+			"caseId": 68006,
+			"reward": {
+				"1001": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 950,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		},
+		{
+			"id": 96,
+			"caseId": 68006,
+			"reward": {
+				"1002": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"conditionArg0": 101,
+			"rewardPlus": {}
+		}
+	]
+}

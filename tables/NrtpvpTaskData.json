@@ -1,0 +1,74 @@
+{
+	"data": [
+		{
+			"id": 24,
+			"phase": 1,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 100 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 100
+		},
+		{
+			"id": 25,
+			"phase": 2,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 200 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 200
+		},
+		{
+			"id": 26,
+			"phase": 3,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 400 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 400
+		},
+		{
+			"id": 27,
+			"phase": 4,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 600 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 600
+		},
+		{
+			"id": 28,
+			"phase": 5,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 800 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 800
+		},
+		{
+			"id": 29,
+			"phase": 6,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 1,000 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 1000
+		},
+		{
+			"id": 30,
+			"phase": 7,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "Expend 1,500 Exercise Badges",
+			"conditionClass": 2,
+			"conditionNum": 1500
+		}
+	]
+}

@@ -1,0 +1,169 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Stability Defense",
+			"description": "Stability Defense"
+		},
+		{
+			"id": 2,
+			"name": "Single Target Damage",
+			"description": "Single Target Damage"
+		},
+		{
+			"id": 3,
+			"name": "Heal & Stability Regen",
+			"description": "Heal & Stability Regen"
+		},
+		{
+			"id": 4,
+			"name": "Single Target Debuff",
+			"description": "Single Target Debuff"
+		},
+		{
+			"id": 5,
+			"name": "Single Target Burst",
+			"description": "Single Target Burst"
+		},
+		{
+			"id": 6,
+			"name": "Sustained Damage",
+			"description": "Sustained Damage"
+		},
+		{
+			"id": 7,
+			"name": "Melee Damage",
+			"description": "Melee Damage"
+		},
+		{
+			"id": 8,
+			"name": "Heal & Stability Regen",
+			"description": "Heal & Stability Regen"
+		},
+		{
+			"id": 9,
+			"name": "Wide Area",
+			"description": "Wide Area"
+		},
+		{
+			"id": 10,
+			"name": "Random Buff",
+			"description": "Random Buff"
+		},
+		{
+			"id": 11,
+			"name": "Mixed Damage",
+			"description": "Mixed Damage"
+		},
+		{
+			"id": 12,
+			"name": "AoE Damage",
+			"description": "AoE Damage"
+		},
+		{
+			"id": 13,
+			"name": "Crowd Control",
+			"description": "Crowd Control"
+		},
+		{
+			"id": 14,
+			"name": "Control",
+			"description": "Control"
+		},
+		{
+			"id": 15,
+			"name": "Counterattack",
+			"description": "Counterattack"
+		},
+		{
+			"id": 16,
+			"name": "Assist",
+			"description": "Assist"
+		},
+		{
+			"id": 17,
+			"name": "Pursuit",
+			"description": "Pursuit"
+		},
+		{
+			"id": 18,
+			"name": "Extra Action",
+			"description": "Extra Action"
+		},
+		{
+			"id": 19,
+			"name": "Debuff",
+			"description": "Debuff"
+		},
+		{
+			"id": 20,
+			"name": "First Strike",
+			"description": "First Strike"
+		},
+		{
+			"id": 21,
+			"name": "Team Support",
+			"description": "Team Support"
+		},
+		{
+			"id": 22,
+			"name": "Buff",
+			"description": "Buff"
+		},
+		{
+			"id": 23,
+			"name": "Tile",
+			"description": "Tile"
+		},
+		{
+			"id": 24,
+			"name": "Displacement",
+			"description": "Displacement"
+		},
+		{
+			"id": 25,
+			"name": "Heal",
+			"description": "Heal"
+		},
+		{
+			"id": 26,
+			"name": "Control",
+			"description": "Control"
+		},
+		{
+			"id": 27,
+			"name": "Combo Attack",
+			"description": "Move & attack multiple times"
+		},
+		{
+			"id": 28,
+			"name": "Stealth",
+			"description": "Stealth cannot be selected"
+		},
+		{
+			"id": 29,
+			"name": "Shield",
+			"description": "Damage Absorption"
+		},
+		{
+			"id": 30,
+			"name": "Mapwide Buffs",
+			"description": "Buffs all units on the map"
+		},
+		{
+			"id": 31,
+			"name": "Transfer",
+			"description": "Can take others with them when moving"
+		},
+		{
+			"id": 32,
+			"name": "Summon",
+			"description": "Can summon creatures"
+		},
+		{
+			"id": 33,
+			"name": "Stack",
+			"description": "Specific to stacked effects"
+		}
+	]
+}

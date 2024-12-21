@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"icon": "Icon_Guiding_Fb",
+			"mobileUrls": "https://www.facebook.com/EXILIUMGLOBAL",
+			"urls": "https://www.facebook.com/EXILIUMGLOBAL",
+			"reward": {
+				"1": 100
+			},
+			"notes": "Facebook"
+		},
+		{
+			"id": 2,
+			"icon": "Icon_Guiding_Ds",
+			"mobileUrls": "https://discord.gg/gfl2-exilium",
+			"urls": "https://discord.gg/gfl2-exilium",
+			"reward": {
+				"1": 100
+			},
+			"notes": "Discord"
+		}
+	]
+}

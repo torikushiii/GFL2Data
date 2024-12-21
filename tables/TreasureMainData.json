@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"id": 60010,
+			"bingoId": 10001,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
+			"id": 60015,
+			"bpId": 10001,
+			"closeType": 1,
+			"bingoId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": ""
+		},
+		{
+			"id": 60034,
+			"bingoId": 10002,
+			"gameId": 1001,
+			"gameIcon": "Icon_TreasureActivity_MiniGame_1",
+			"gameSpec": "Mask_TreasureActivityItem_MiniGame_1",
+			"bpId": 0,
+			"closeType": 0
+		},
+		{
+			"id": 60061,
+			"bingoId": 10003,
+			"gameId": 2001,
+			"gameIcon": "Icon_TreasureActivity_MiniGame_2",
+			"gameSpec": "Mask_TreasureActivityItem_MiniGame_2",
+			"bpId": 0,
+			"closeType": 0
+		},
+		{
+			"id": 60075,
+			"bingoId": 10004,
+			"gameId": 3001,
+			"gameIcon": "Icon_TreasureActivity_MiniGame_3",
+			"gameSpec": "Mask_TreasureActivityItem_MiniGame_3",
+			"bpId": 0,
+			"closeType": 0
+		},
+		{
+			"id": 60094,
+			"bingoId": 10005,
+			"gameId": 1002,
+			"gameIcon": "Icon_TreasureActivity_MiniGame_1",
+			"gameSpec": "Mask_TreasureActivityItem_MiniGame_1",
+			"bpId": 0,
+			"closeType": 0
+		},
+		{
+			"id": 68003,
+			"bingoId": 10007,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
+			"id": 68004,
+			"bingoId": 10008,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		}
+	]
+}

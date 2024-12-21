@@ -1,0 +1,246 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"labelName": "Bulwark (Deprecated)",
+			"extraDropCost": 355,
+			"extraDropTimer": 26,
+			"labelSequence": 3,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+			"unlock": 11501,
+			"dutyId": 1
+		},
+		{
+			"id": 2,
+			"labelName": "Vanguard(Deprecated)",
+			"extraDropCost": 356,
+			"extraDropTimer": 26,
+			"labelSequence": 4,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+			"unlock": 11502,
+			"dutyId": 2
+		},
+		{
+			"id": 3,
+			"labelName": "Support(Deprecated)",
+			"extraDropCost": 357,
+			"extraDropTimer": 26,
+			"labelSequence": 2,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+			"unlock": 11503,
+			"dutyId": 3
+		},
+		{
+			"id": 4,
+			"labelName": "Sentinel(Deprecated)",
+			"extraDropCost": 358,
+			"extraDropTimer": 26,
+			"labelSequence": 5,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+			"unlock": 11504,
+			"dutyId": 4
+		},
+		{
+			"id": 5,
+			"labelName": "Deprecated 1",
+			"labelSequence": 1,
+			"unlock": 11009,
+			"dutyId": 5,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"icon": "",
+			"bg": ""
+		},
+		{
+			"id": 6,
+			"labelName": "Deprecated 2",
+			"unlock": 11009,
+			"dutyId": 6,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": ""
+		},
+		{
+			"id": 7,
+			"labelName": "Gold Stage(Deprecated)",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 8,
+			"labelName": "Tower Climbing",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 9,
+			"labelName": "Equipment Analysis",
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponExp",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponExp",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 14,
+			"labelName": "Battlelog Collection",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 15,
+			"labelName": "Peak Value Assessment",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 16,
+			"labelName": "In-Depth Search",
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_ChrExp",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_ChrExp",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 17,
+			"labelName": "Standardizing Sync",
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Gold",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Gold",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 18,
+			"labelName": "Cognitive Configuration",
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+			"unlock": 11501,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 19,
+			"labelName": "Overclock Simulation",
+			"labelSequence": 1,
+			"unlock": 11801,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"icon": "",
+			"bg": "",
+			"dutyId": 0
+		},
+		{
+			"id": 20,
+			"labelName": "Tailored Simulation",
+			"labelSequence": 2,
+			"unlock": 11802,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"icon": "",
+			"bg": "",
+			"dutyId": 0
+		},
+		{
+			"id": 25,
+			"labelName": "Combat Exercise",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 26,
+			"labelName": "Hard Mode",
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"labelSequence": 0,
+			"icon": "",
+			"bg": "",
+			"unlock": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 30,
+			"labelName": "AR & SG",
+			"labelSequence": 4,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+			"unlock": 11006,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 31,
+			"labelName": "SMG & MG",
+			"labelSequence": 3,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+			"unlock": 11006,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 32,
+			"labelName": "RF & BLD",
+			"labelSequence": 2,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+			"unlock": 11006,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"dutyId": 0
+		},
+		{
+			"id": 33,
+			"labelName": "HG",
+			"labelSequence": 1,
+			"icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+			"bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+			"unlock": 11006,
+			"extraDropCost": 0,
+			"extraDropTimer": 0,
+			"dutyId": 0
+		}
+	]
+}

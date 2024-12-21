@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"sort": 1,
+			"name": "Character Archive",
+			"des": "Records and consolidates the information of the current members of the Elmo.",
+			"icon": "Img_ArchivesCenter_EnterBg1",
+			"unlock": 20004
+		},
+		{
+			"id": 2,
+			"sort": 2,
+			"name": "Traceback",
+			"des": "Includes the Commander's experiences and the neural records of the Dolls.",
+			"icon": "Img_ArchivesCenter_EnterBg2",
+			"unlock": 20005
+		},
+		{
+			"id": 4,
+			"sort": 3,
+			"name": "Weapon Index",
+			"des": "Contains data on all obtained weapons",
+			"icon": "Img_ArchivesCenter_EnterBg3",
+			"unlock": 20006
+		}
+	]
+}

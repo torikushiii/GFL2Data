@@ -1,0 +1,908 @@
+{
+	"data": [
+		{
+			"id": 10010,
+			"buffType": 2,
+			"triggerTime": 7,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 6,
+			"param": 5,
+			"turn": 3,
+			"name": "Burning",
+			"icon": "Buff_Tour_01",
+			"desc": "At the end of the turn, all members in the formation take damage equal to <color=#f26c1c>5%</color> of their max HP, lasting for 3 turns. The effect duration is refreshed upon re-acquisition and does not stack. The effect is not applicable during combat.",
+			"triggerdesc": "Burning activated!",
+			"triggerEffect": 1001,
+			"obtainDesc": "Obtain Burning",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10011,
+			"buffType": 2,
+			"triggerTime": 7,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 6,
+			"param": 10,
+			"turn": 3,
+			"name": "Burning",
+			"icon": "Buff_Tour_01",
+			"desc": "At the end of the turn, all members in the formation take damage equal to <color=#f26c1c>10%</color> of their max HP, lasting for 3 turns. The effect duration is refreshed upon re-acquisition and does not stack. The effect is not applicable during combat.",
+			"triggerdesc": "Burning activated!",
+			"triggerEffect": 1001,
+			"obtainDesc": "Obtain Burning",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10020,
+			"buffType": 2,
+			"triggerTime": 5,
+			"triggerParam": [
+				0,
+				0,
+				100
+			],
+			"buffGet": 1,
+			"effectType": 7,
+			"turn": 2,
+			"name": "Iced",
+			"icon": "Buff_Tour_02",
+			"desc": "Unable to move for 2 turns.",
+			"triggerdesc": "Iced activated!",
+			"triggerEffect": 1002,
+			"obtainDesc": "Obtain Iced",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10021,
+			"buffType": 2,
+			"triggerTime": 5,
+			"triggerParam": [
+				0,
+				0,
+				100
+			],
+			"buffGet": 1,
+			"effectType": 7,
+			"turn": 3,
+			"name": "Iced",
+			"icon": "Buff_Tour_02",
+			"desc": "Unable to move for 3 turns.",
+			"triggerdesc": "Iced activated!",
+			"triggerEffect": 1002,
+			"obtainDesc": "Obtain Iced",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10030,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 1,
+			"turn": 1,
+			"name": "Dash Lv.1",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>1</color> for 1 turn.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10031,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 2,
+			"turn": 1,
+			"name": "Dash Lv.2",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>2</color> for 1 turn.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10032,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 4,
+			"turn": 1,
+			"name": "Dash Lv.3",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>4</color> for 1 turn.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10033,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 4,
+			"turn": 25,
+			"name": "Dash Lv.3",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>4</color> for 1 turn.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10034,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 3,
+			"turn": 25,
+			"name": "Dash Lv.3",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>3</color> for 1 turn.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10035,
+			"buffType": 1,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 3,
+			"param": 999,
+			"turn": 99,
+			"name": "Dash Lv. Max",
+			"icon": "Buff_Tour_04",
+			"desc": "Movement points gained each turn are increased by <color=#f26c1c>999</color> for 99 turns.",
+			"triggerdesc": "Dash activated!",
+			"obtainDesc": "Obtain Dash",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10040,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 4,
+			"param": 1,
+			"turn": 2,
+			"name": "Speed Limit Lv.1",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>1</color> for 1 turn.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10041,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 4,
+			"param": 2,
+			"turn": 3,
+			"name": "Speed Limit Lv.2",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>2</color> for 1 turn.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10042,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 4,
+			"param": 3,
+			"turn": 3,
+			"name": "Speed Limit Lv.3",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>3</color> for 1 turn.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10043,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 2,
+			"effectType": 4,
+			"param": 1,
+			"turn": 3,
+			"name": "Speed Limit",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>1</color> for 3 turns.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10044,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 2,
+			"effectType": 4,
+			"param": 1,
+			"turn": 1,
+			"name": "Speed Limit",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>1</color> for 1 turn.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10045,
+			"buffType": 2,
+			"triggerTime": 4,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 2,
+			"effectType": 4,
+			"param": 1,
+			"turn": 2,
+			"name": "Speed Limit",
+			"icon": "Buff_Tour_05",
+			"desc": "Movement points gained each turn are decreased by <color=#f26c1c>1</color> for 2 turns.",
+			"triggerdesc": "Speed Limit has been activated!",
+			"obtainDesc": "Obtain Speed Limit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10050,
+			"buffType": 1,
+			"triggerTime": 7,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 9,
+			"turn": 3,
+			"name": "Dodge",
+			"icon": "Buff_Tour_08",
+			"desc": "Immune to tile effects for 3 turns. The effect duration is refreshed upon re-acquisition and does not stack. The effect is not applicable during combat.",
+			"triggerdesc": "Dodge activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Dodge",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10060,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 13,
+			"turn": 3,
+			"name": "Camouflage",
+			"icon": "Buff_Tour_09",
+			"desc": "Immune to enemy map attacks for 3 turns. The effect duration is refreshed upon re-acquisition and does not stack. The effect is not applicable during combat.",
+			"triggerdesc": "Camouflage activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Camouflage",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10070,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 20,
+			"turn": 2,
+			"triggerSlg": 1,
+			"relationBuff": 361203,
+			"name": "Damage Reduction Lv.1",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>20%</color> for 2 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10071,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 35,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 361352,
+			"name": "Damage Reduction Lv.2",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>35%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10072,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 50,
+			"turn": 4,
+			"triggerSlg": 1,
+			"relationBuff": 361504,
+			"name": "Damage Reduction Lv.3",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>50%</color> for 4 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10073,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 10,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 361103,
+			"name": "Damage Reduction",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>10%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10074,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 15,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 361153,
+			"name": "Damage Reduction",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>15%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10075,
+			"buffType": 1,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 11,
+			"param": 20,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 361202,
+			"name": "Damage Reduction",
+			"icon": "Buff_Tour_10",
+			"desc": "Reduces damage taken by <color=#f26c1c>20%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. The effect is applicable during combat as well.",
+			"triggerdesc": "Damage Reduction activated!",
+			"triggerEffect": 1014,
+			"obtainDesc": "Obtain Damage Reduction"
+		},
+		{
+			"id": 10080,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 14,
+			"turn": 3,
+			"name": "Amok",
+			"icon": "Buff_Tour_11",
+			"desc": "Immune to all tile effects and enemy map attacks for 3 turns.",
+			"triggerdesc": "Amok activated!",
+			"triggerEffect": 1015,
+			"obtainDesc": "Obtain Amok",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10081,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 14,
+			"turn": 1,
+			"name": "Amok",
+			"icon": "Buff_Tour_11",
+			"desc": "Immune to all tile effects and enemy map attacks for 3 turns.",
+			"triggerdesc": "Amok activated!",
+			"triggerEffect": 1015,
+			"obtainDesc": "Obtain Amok",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10082,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 14,
+			"turn": 24,
+			"name": "Amok",
+			"icon": "Buff_Tour_11",
+			"desc": "Immune to all tile effects and enemy map attacks for 24 turns.",
+			"triggerdesc": "Amok activated!",
+			"triggerEffect": 1015,
+			"obtainDesc": "Obtain Amok",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10083,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 14,
+			"turn": 5,
+			"name": "Amok",
+			"icon": "Buff_Tour_11",
+			"desc": "Immune to all tile effects and enemy map attacks for 5 turns.",
+			"triggerdesc": "Amok activated!",
+			"triggerEffect": 1015,
+			"obtainDesc": "Obtain Amok",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10090,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 12,
+			"param": 8,
+			"turn": 3,
+			"name": "Heal Lv.1",
+			"icon": "Buff_SelfHeal",
+			"desc": "All team members recover <color=#f26c1c>8%</color> of HP at the end of each turn, lasting for 3 turns.",
+			"triggerdesc": "Heal activated!",
+			"triggerEffect": 1018,
+			"obtainDesc": "Obtain Heal",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10091,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 12,
+			"param": 12,
+			"turn": 3,
+			"name": "Heal Lv.2",
+			"icon": "Buff_SelfHeal",
+			"desc": "All team members recover <color=#f26c1c>12%</color> of HP at the end of each turn, lasting for 3 turns.",
+			"triggerdesc": "Heal activated!",
+			"triggerEffect": 1018,
+			"obtainDesc": "Obtain Heal",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10092,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 12,
+			"param": 16,
+			"turn": 3,
+			"name": "Heal Lv.3",
+			"icon": "Buff_SelfHeal",
+			"desc": "All team members recover <color=#f26c1c>16%</color> of HP at the end of each turn, lasting for 3 turns.",
+			"triggerdesc": "Heal activated!",
+			"triggerEffect": 1018,
+			"obtainDesc": "Obtain Heal",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10100,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 16,
+			"param": 20,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 360053,
+			"name": "Enhancement Lv.1",
+			"icon": "Buff_AtkUp",
+			"desc": "Increase a Doll’s attack by <color=#f26c1c>5%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. Only applicable during combat.",
+			"triggerdesc": "Enhancement activated!",
+			"obtainDesc": "Obtain Enhancement",
+			"triggerEffect": 0
+		},
+		{
+			"id": 10101,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 16,
+			"param": 20,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 360083,
+			"name": "Enhancement Lv.2",
+			"icon": "Buff_AtkUp",
+			"desc": "Increase a Doll’s attack by <color=#f26c1c>8%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. Only applicable during combat.",
+			"triggerdesc": "Enhancement activated!",
+			"obtainDesc": "Obtain Enhancement",
+			"triggerEffect": 0
+		},
+		{
+			"id": 10102,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 16,
+			"param": 20,
+			"turn": 3,
+			"triggerSlg": 1,
+			"relationBuff": 360103,
+			"name": "Enhancement Lv.3",
+			"icon": "Buff_AtkUp",
+			"desc": "Increase a Doll’s attack by <color=#f26c1c>10%</color> for 3 turns. The effect duration is refreshed upon re-acquisition, does not stack, and any newly obtained effect will override the previous one. Only applicable during combat.",
+			"triggerdesc": "Enhancement activated!",
+			"obtainDesc": "Obtain Enhancement",
+			"triggerEffect": 0
+		},
+		{
+			"id": 10110,
+			"buffType": 2,
+			"triggerTime": 6,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 10,
+			"turn": 99,
+			"name": "Surveillance",
+			"icon": "Buff_Monitor",
+			"desc": "The enemy is on high alert. Remaining in the surveillance area will lead to being attacked",
+			"triggerdesc": "",
+			"obtainDesc": "",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10120,
+			"buffType": 2,
+			"triggerTime": 8,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 10,
+			"param": 100,
+			"turn": 3,
+			"name": "Short Circuit",
+			"icon": "Buff_Tour_03",
+			"desc": "Damage taken from attacks increased",
+			"triggerdesc": "Short Circuit activated!",
+			"obtainDesc": "Obtain Short Circuit",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10130,
+			"buffType": 2,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 5,
+			"turn": 2,
+			"name": "Stun",
+			"icon": "Buff_Tour_12",
+			"desc": "Skip command use phase at the start of the next turn",
+			"triggerdesc": "Stun activated!",
+			"triggerEffect": 1016,
+			"obtainDesc": "Obtain Stun",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10140,
+			"buffType": 1,
+			"triggerTime": 9,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 8,
+			"param": 30,
+			"turn": 99,
+			"name": "Reactivate",
+			"icon": "Buff_Tour_13",
+			"desc": "Upon battle failure, trigger the Reactivate effect, allowing to continue traveling from the spawn point",
+			"triggerdesc": "Reactivate activated!",
+			"triggerEffect": 1017,
+			"obtainDesc": "Obtain Reactivate",
+			"triggerSlg": 0,
+			"relationBuff": 0
+		},
+		{
+			"id": 10150,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 2,
+			"param": 30,
+			"turn": 3,
+			"name": "Depreciation",
+			"icon": "Buff_Tour_07",
+			"desc": "The number of Eber Paper Cuttings received decreases at the beginning of each turn",
+			"triggerdesc": "Depreciation activated!",
+			"obtainDesc": "Obtain Depreciation",
+			"buffType": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10160,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 1,
+			"param": 10,
+			"turn": 3,
+			"name": "Appreciation",
+			"icon": "Buff_Tour_06",
+			"desc": "The number of Eber Paper Cuttings received increases at the beginning of each turn",
+			"triggerdesc": "Appreciation activated!",
+			"obtainDesc": "Obtain Appreciation",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10161,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 1,
+			"param": 20,
+			"turn": 3,
+			"name": "Appreciation",
+			"icon": "Buff_Tour_06",
+			"desc": "The number of Eber Paper Cuttings received increases at the beginning of each turn",
+			"triggerdesc": "Appreciation activated!",
+			"obtainDesc": "Obtain Appreciation",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 10162,
+			"buffType": 1,
+			"triggerTime": 1,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 1,
+			"param": 30,
+			"turn": 3,
+			"name": "Appreciation",
+			"icon": "Buff_Tour_06",
+			"desc": "The number of Eber Paper Cuttings received increases at the beginning of each turn",
+			"triggerdesc": "Appreciation activated!",
+			"obtainDesc": "Obtain Appreciation",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 99010,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 17,
+			"turn": 10,
+			"name": "Camouflage",
+			"icon": "Buff_Tour_06",
+			"desc": "Camouflage Buff Test",
+			"triggerdesc": "Camouflage activated!",
+			"obtainDesc": "Obtain Camouflage",
+			"param": 0,
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 99020,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 18,
+			"param": 104,
+			"turn": 10,
+			"name": "Conveyor Belt Immunity Test",
+			"icon": "Buff_Tour_06",
+			"desc": "Test immunity function point buff",
+			"triggerdesc": "Immunity activated!",
+			"obtainDesc": "Obtain Conveyor Belt Immunity",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		},
+		{
+			"id": 99030,
+			"buffType": 1,
+			"triggerTime": 10,
+			"triggerParam": [
+				0
+			],
+			"buffGet": 1,
+			"effectType": 19,
+			"param": 120,
+			"turn": 10,
+			"name": "Expansion",
+			"icon": "Buff_Tour_06",
+			"desc": "Expansion Buff Test",
+			"triggerdesc": "Expansion activated!",
+			"obtainDesc": "Obtain Expansion",
+			"triggerSlg": 0,
+			"relationBuff": 0,
+			"triggerEffect": 0
+		}
+	]
+}

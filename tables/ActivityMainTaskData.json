@@ -1,0 +1,1068 @@
+{
+	"data": [
+		{
+			"id": 5010201,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 1",
+			"des": "Complete event stage JA-1-1 Stormbreaker",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010202,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 2",
+			"des": "Complete event stage JA-1-2 Inspiration Search I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010203,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 3",
+			"des": "Complete event stage JA-1-3 Inspiration Search II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010204,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 4",
+			"des": "Complete event stage JA-1-4 Inspiration Search III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010205,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 5",
+			"des": "Complete event stage JA-1-5 Wilderness Delve I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010206,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 6",
+			"des": "Complete event stage JA-1-6 Wilderness Delve II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010207,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 7",
+			"des": "Complete event stage JA-1-7 Wilderness Delve III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010208,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 8",
+			"des": "Complete event stage JA-1-8 Wilderness Delve IV",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010209,
+			"group": 501,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Grasp the Light 9",
+			"des": "Complete event stage JA-1-9 Future Echo",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"171001": 300
+			}
+		},
+		{
+			"id": 5010301,
+			"group": 501,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Emergency Assault 1",
+			"des": "Complete event stage JF-1-1 Stormbreaker",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"171001": 400
+			}
+		},
+		{
+			"id": 5010302,
+			"group": 501,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Emergency Assault 2",
+			"des": "Complete event stage JF-1-2 Inspiration Search II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"171001": 400
+			}
+		},
+		{
+			"id": 5010303,
+			"group": 501,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Emergency Assault 3",
+			"des": "Complete event stage JF-1-3 Inspiration Search III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"171001": 400
+			}
+		},
+		{
+			"id": 5010304,
+			"group": 501,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Emergency Assault 4",
+			"des": "Complete event stage JF-1-4 Wilderness Delve I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"171001": 400
+			}
+		},
+		{
+			"id": 5010305,
+			"group": 501,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Emergency Assault 5",
+			"des": "Complete event stage JF-1-5 Wilderness Delve II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"171001": 400
+			}
+		},
+		{
+			"id": 5010401,
+			"group": 501,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Trace Tendency 1",
+			"des": "Complete event stage JT-1-1 Seek and Clear I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"171001": 600
+			}
+		},
+		{
+			"id": 5010402,
+			"group": 501,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Trace Tendency 2",
+			"des": "Complete event stage JT-1-2 Seek and Clear II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"171001": 600
+			}
+		},
+		{
+			"id": 5010403,
+			"group": 501,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Trace Tendency 3",
+			"des": "Complete event stage JT-1-3 Seek and Clear III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"171001": 600
+			}
+		},
+		{
+			"id": 5010404,
+			"group": 501,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Trace Tendency 4",
+			"des": "Complete event stage JT-1-4 Seek and Clear IV",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"171001": 600
+			}
+		},
+		{
+			"id": 5010405,
+			"group": 501,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Trace Tendency 5",
+			"des": "Complete event stage JT-1-5 Seek and Clear V",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"171001": 600
+			}
+		},
+		{
+			"id": 5110201,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 1",
+			"des": "Complete event stage MA-1-1 Errored Exchange",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110202,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 2",
+			"des": "Complete event stage MA-1-2 Surprise Visit",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110203,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 3",
+			"des": "Complete event stage MA-1-3 Stiff Doll",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110204,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 4",
+			"des": "Complete event stage MA-1-4 Great Infiltration",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110205,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 5",
+			"des": "Complete event stage MA-1-5 Reliable Companion",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110206,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 6",
+			"des": "Complete event stage MA-1-6 Machine Story",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110207,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 7",
+			"des": "Complete event stage MA-1-7 Absurd Entry",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110208,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 8",
+			"des": "Complete event stage MA-1-8 Center Stage",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110209,
+			"group": 511,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Pursuit Fantasy 9",
+			"des": "Complete event stage MA-1-9 Rhapsody Coda",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"172001": 300
+			}
+		},
+		{
+			"id": 5110301,
+			"group": 511,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Labyrinth Fantasy 1",
+			"des": "Complete event stage MF-1-1 Reliable Companion",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"172001": 400
+			}
+		},
+		{
+			"id": 5110302,
+			"group": 511,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Labyrinth Fantasy 2",
+			"des": "Complete event stage MF-1-2 Machine Story",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"172001": 400
+			}
+		},
+		{
+			"id": 5110303,
+			"group": 511,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Labyrinth Fantasy 3",
+			"des": "Complete event stage MF-1-3 Great Infiltration",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"172001": 400
+			}
+		},
+		{
+			"id": 5110304,
+			"group": 511,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Labyrinth Fantasy 4",
+			"des": "Complete event stage MF-1-4 Absurd Entry",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"172001": 400
+			}
+		},
+		{
+			"id": 5110305,
+			"group": 511,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Labyrinth Fantasy 5",
+			"des": "Complete event stage MF-1-5 Rhapsody Coda",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"172001": 400
+			}
+		},
+		{
+			"id": 5110401,
+			"group": 511,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Abyss Paranoia 1",
+			"des": "Complete event stage MT-1-1 Abyss Exercise I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"172001": 600
+			}
+		},
+		{
+			"id": 5110402,
+			"group": 511,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Abyss Paranoia 2",
+			"des": "Complete event stage MT-1-2 Abyss Exercise II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"172001": 600
+			}
+		},
+		{
+			"id": 5110403,
+			"group": 511,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Abyss Paranoia 3",
+			"des": "Complete event stage MT-1-3 Abyss Exercise III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"172001": 600
+			}
+		},
+		{
+			"id": 5110404,
+			"group": 511,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Abyss Paranoia 4",
+			"des": "Complete event stage MT-1-4 Abyss Exercise IV",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"172001": 600
+			}
+		},
+		{
+			"id": 5110405,
+			"group": 511,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Abyss Paranoia 5",
+			"des": "Complete event stage MT-1-5 Abyss Exercise V",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"172001": 600
+			}
+		},
+		{
+			"id": 7010201,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 1",
+			"des": "Complete event stage DA-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010202,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 2",
+			"des": "Complete event stage DA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010203,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 3",
+			"des": "Complete event stage DA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010204,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 4",
+			"des": "Complete event stage DA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010205,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 5",
+			"des": "Complete event stage DA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010206,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 6",
+			"des": "Complete event stage DA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010207,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 7",
+			"des": "Complete event stage DA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010208,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 8",
+			"des": "Complete event stage DA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010209,
+			"group": 701,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Wishful Journey 9",
+			"des": "Complete event stage DA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"174001": 300
+			}
+		},
+		{
+			"id": 7010301,
+			"group": 701,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Prayerful Sojourn 1",
+			"des": "Complete event Hard Mode stage DF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"174001": 400
+			}
+		},
+		{
+			"id": 7010302,
+			"group": 701,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Prayerful Sojourn 2",
+			"des": "Complete event Hard Mode stage DF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"174001": 400
+			}
+		},
+		{
+			"id": 7010303,
+			"group": 701,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Prayerful Sojourn 3",
+			"des": "Complete event Hard Mode stage DF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"174001": 400
+			}
+		},
+		{
+			"id": 7010304,
+			"group": 701,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Prayerful Sojourn 4",
+			"des": "Complete event Hard Mode stage DF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"174001": 400
+			}
+		},
+		{
+			"id": 7010305,
+			"group": 701,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Prayerful Sojourn 5",
+			"des": "Complete event Hard Mode stage DF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"174001": 400
+			}
+		},
+		{
+			"id": 7010401,
+			"group": 701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Dream Battle 1",
+			"des": "Complete event Challenge Mode stage DT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"174001": 600
+			}
+		},
+		{
+			"id": 7010402,
+			"group": 701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Dream Battle 2",
+			"des": "Complete event Challenge Mode stage DT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"174001": 600
+			}
+		},
+		{
+			"id": 7010403,
+			"group": 701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Dream Battle 3",
+			"des": "Complete event Challenge Mode stage DT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"174001": 600
+			}
+		},
+		{
+			"id": 7010404,
+			"group": 701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Dream Battle 4",
+			"des": "Complete event Challenge Mode stage DT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"174001": 600
+			}
+		},
+		{
+			"id": 7010405,
+			"group": 701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Dream Battle 5",
+			"des": "Complete event Challenge Mode stage DT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"174001": 600
+			}
+		},
+		{
+			"id": 8010201,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 1",
+			"des": "Complete event stage ZA-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010202,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 2",
+			"des": "Complete event stage ZA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010203,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 3",
+			"des": "Complete event stage ZA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010204,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 4",
+			"des": "Complete event stage ZA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010205,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 5",
+			"des": "Complete event stage ZA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010206,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 6",
+			"des": "Complete event stage ZA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010207,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 7",
+			"des": "Complete event stage ZA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010208,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 8",
+			"des": "Complete event stage ZA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010209,
+			"group": 801,
+			"tag": 2,
+			"tagName": "Normal Mode",
+			"name": "Premiere 9",
+			"des": "Complete event stage ZA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"175001": 300
+			}
+		},
+		{
+			"id": 8010301,
+			"group": 801,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Encore 1",
+			"des": "Complete event stage ZF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"175001": 400
+			}
+		},
+		{
+			"id": 8010302,
+			"group": 801,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Encore 2",
+			"des": "Complete event stage ZF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"175001": 400
+			}
+		},
+		{
+			"id": 8010303,
+			"group": 801,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Encore 3",
+			"des": "Complete event stage ZF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"175001": 400
+			}
+		},
+		{
+			"id": 8010304,
+			"group": 801,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Encore 4",
+			"des": "Complete event stage ZF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"175001": 400
+			}
+		},
+		{
+			"id": 8010305,
+			"group": 801,
+			"tag": 3,
+			"tagName": "Hard Mode",
+			"name": "Encore 5",
+			"des": "Complete event stage ZF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"175001": 400
+			}
+		},
+		{
+			"id": 8010401,
+			"group": 801,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Curtain Call 1",
+			"des": "Complete event stage ZT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"175001": 600
+			}
+		},
+		{
+			"id": 8010402,
+			"group": 801,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Curtain Call 2",
+			"des": "Complete event stage ZT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"175001": 600
+			}
+		},
+		{
+			"id": 8010403,
+			"group": 801,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Curtain Call 3",
+			"des": "Complete event stage ZT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"175001": 600
+			}
+		},
+		{
+			"id": 8010404,
+			"group": 801,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Curtain Call 4",
+			"des": "Complete event stage ZT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"175001": 600
+			}
+		},
+		{
+			"id": 8010405,
+			"group": 801,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Curtain Call 5",
+			"des": "Complete event stage ZT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"175001": 600
+			}
+		}
+	]
+}

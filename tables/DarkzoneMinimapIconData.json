@@ -1,0 +1,498 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"icon": "Icon_DarkzoneMap_Mask1",
+			"iconName": "High-Speed Rail",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "The leftover transportation facilities in the survey area can be used to directly move Dolls to a specific location.",
+			"iconSort": 3
+		},
+		{
+			"id": 2,
+			"icon": "Icon_DarkzoneMap_Mask2",
+			"iconName": "Switch",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 3,
+			"icon": "Icon_DarkzoneMap_Mask3",
+			"iconName": "Marked Point",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 4,
+			"icon": "Icon_DarkzoneMap_Mask4",
+			"iconName": "Bounty Hunter (In Combat)",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 5,
+			"icon": "Icon_DarkzoneMap_Mask5",
+			"iconName": "Battle Area",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 6,
+			"icon": "Icon_DarkzoneMap_Mask6",
+			"iconName": "Supply Box",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 7,
+			"icon": "Icon_DarkzoneMap_Mask7",
+			"iconName": "Ladder",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 8,
+			"icon": "Icon_DarkzoneMap_Mask8",
+			"iconName": "Boss Unit",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
+		},
+		{
+			"id": 9,
+			"icon": "Icon_DarkzoneMap_Mask9",
+			"iconName": "Elite Unit",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 10,
+			"icon": "Icon_DarkzoneMap_Mask10",
+			"iconName": "Bounty Hunter",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 11,
+			"icon": "Icon_DarkzoneMap_Mask11",
+			"iconName": "Current Location",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 12,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "Mission Objective",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 13,
+			"icon": "Icon_DarkzoneMap_Mask13",
+			"iconName": "Mission Objective Region",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 14,
+			"icon": "Icon_DarkzoneMap_Mask14",
+			"iconName": "Remote Surveying Device",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 15,
+			"icon": "Icon_DarkzoneMap_Mask15",
+			"iconName": "Evacuation Signal Station",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "The location of the evacuation signal station. Find the device and send the signal to successfully evacuate.",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 16,
+			"icon": "Icon_DarkzoneMap_Mask10",
+			"iconName": "Normal unit",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
+		},
+		{
+			"id": 17,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "Target Location",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "Location of the mission objective. Find and eliminate the target.",
+			"iconSort": 1,
+			"iconAbovefog": false
+		},
+		{
+			"id": 18,
+			"icon": "Icon_DarkzoneMap_Mask17",
+			"iconName": "Start Location",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "Our starting location when we enter the survey area.",
+			"iconSort": 2,
+			"iconAbovefog": false
+		},
+		{
+			"id": 19,
+			"icon": "Icon_DarkzoneMap_Mask4",
+			"iconName": "[Special Point] Enemy Unit",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 20,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "Target Point",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 21,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "Target Location",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 22,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "Target Point",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 23,
+			"icon": "Icon_DarkzoneMap_Mask18",
+			"iconName": "Light Particle Vane",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1,
+			"iconVisible": false
+		},
+		{
+			"id": 24,
+			"icon": "Icon_DarkzoneMap_Mask19",
+			"iconName": "Repair Station",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconAbovefog": false
+		},
+		{
+			"id": 25,
+			"icon": "Icon_DarkzoneMap_Mask20",
+			"iconName": "Evacuation Signal Station",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false
+		},
+		{
+			"id": 26,
+			"icon": "Icon_DarkzoneMap_Mask21",
+			"iconName": "Filter Supply Pile",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 27,
+			"icon": "Icon_DarkzoneMap_Mask18",
+			"iconName": "Transporter",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false
+		},
+		{
+			"id": 28,
+			"icon": "Icon_DarkzoneMap_Mask6",
+			"iconName": "Supply Box",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false
+		},
+		{
+			"id": 29,
+			"icon": "Icon_DarkzoneMap_Mask22",
+			"iconName": "Reactivate Service Station",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 30,
+			"icon": "Icon_DarkzoneMap_Mask23",
+			"iconName": "Integrated Service Station",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 31,
+			"icon": "Icon_DarkzoneMap_Mask24",
+			"iconName": "Machine Repair Station",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconVisible": false,
+			"iconSort": 0
+		},
+		{
+			"id": 32,
+			"icon": "Icon_DarkzoneMap_Mask25",
+			"iconName": "Controller",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 33,
+			"icon": "Icon_DarkzoneMap_Mask26",
+			"iconName": "Electroweb",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconVisible": false,
+			"iconSort": 0
+		},
+		{
+			"id": 34,
+			"icon": "Icon_DarkzoneMap_Mask15",
+			"iconName": "Evacuation Signal Station",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "The endpoint of the transport segment. Guide the Transporter here to complete the transport mission.",
+			"iconSort": 3,
+			"iconAbovefog": false
+		},
+		{
+			"id": 35,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "Target Location",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "Location of the mission objective. Find and eliminate the target.",
+			"iconSort": 1,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 36,
+			"icon": "Icon_DarkzoneMap_Mask17",
+			"iconName": "Start Location",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "The starting point of the transport segment. The Transporter begins delivery at this location.",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 37,
+			"icon": "Icon_DarkzoneMap_Mask27",
+			"iconName": "Relay Point",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "The location of the relay point. After activating it, you can move directly to it through the minimap.",
+			"iconSort": 3
+		},
+		{
+			"id": 38,
+			"icon": "Icon_DarkzoneMap_Mask28",
+			"iconName": "Reactivation Station",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconAbovefog": false
+		}
+	]
+}

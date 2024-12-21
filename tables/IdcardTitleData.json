@@ -1,0 +1,373 @@
+{
+	"data": [
+		{
+			"id": 23001,
+			"name": "",
+			"title": "",
+			"qualify": "No title",
+			"sort": 9999,
+			"icon": "",
+			"achievement": 0
+		},
+		{
+			"id": 23002,
+			"icon": "Img_Title_PVP_Level6",
+			"name": "Combat Exercise Expert",
+			"title": "Combat Exercise Expert",
+			"qualify": "Unlock by reaching Expert in Combat Exercise",
+			"achievement": 46000,
+			"sort": 1001
+		},
+		{
+			"id": 23003,
+			"icon": "Img_Title_PVP_Level7",
+			"name": "Combat Exercise Master",
+			"title": "Combat Exercise Master",
+			"qualify": "Unlock by reaching Master in Combat Exercise",
+			"achievement": 46001,
+			"sort": 1002
+		},
+		{
+			"id": 23004,
+			"icon": "Img_Title_PVP_Defender",
+			"name": "Skilled Defender",
+			"title": "Skilled Defender",
+			"qualify": "Unlock by successfully defending against other bounty hunters {0}/100 times in Combat Exercise",
+			"achievement": 46002,
+			"sort": 1003
+		},
+		{
+			"id": 23005,
+			"icon": "Img_Title_PVP_MasterDefender",
+			"name": "The Unbreakable",
+			"title": "The Unbreakable",
+			"qualify": "Unlocked after successfully defending against other bounty hunters {0}/1,000 times in Combat Exercise",
+			"achievement": 46003,
+			"sort": 1004
+		},
+		{
+			"id": 23006,
+			"icon": "Img_Title_PVP_Attacker",
+			"name": "Warmonger",
+			"title": "Warmonger",
+			"qualify": "Unlocked after successfully attacking other bounty hunters {0}/100 times in Combat Exercise",
+			"achievement": 46004,
+			"sort": 1005
+		},
+		{
+			"id": 23007,
+			"icon": "Img_Title_PVP_MasterAttacker",
+			"name": "Battle Fanatic",
+			"title": "Battle Fanatic",
+			"qualify": "Unlock by successfully attacking other bounty hunters {0}/1000 times in Combat Exercise",
+			"achievement": 46005,
+			"sort": 1006
+		},
+		{
+			"id": 23011,
+			"icon": "Img_Title_Cash01",
+			"name": "Small Savings",
+			"title": "Small Savings",
+			"qualify": "Unlock after collecting {0}/1,000,000 Sardis Gold",
+			"achievement": 46035,
+			"sort": 1
+		},
+		{
+			"id": 23012,
+			"icon": "Img_Title_GunGet_Groza",
+			"name": "Groza - Joined",
+			"title": "Groza - Joined",
+			"qualify": "Unlocked after obtaining Groza",
+			"achievement": 46021,
+			"sort": 2001
+		},
+		{
+			"id": 23013,
+			"icon": "Img_Title_GunGet_Colphne",
+			"name": "Colphne - Joined",
+			"title": "Colphne - Joined",
+			"qualify": "Unlocked after obtaining Colphne",
+			"achievement": 46022,
+			"sort": 2002
+		},
+		{
+			"id": 23014,
+			"icon": "Img_Title_GunGet_Nemesis",
+			"name": "Nemesis - Joined",
+			"title": "Nemesis - Joined",
+			"qualify": "Unlocked after obtaining Nemesis",
+			"achievement": 46023,
+			"sort": 2003
+		},
+		{
+			"id": 23015,
+			"icon": "Img_Title_GunGet_Charolic",
+			"name": "Krolik - Joined",
+			"title": "Krolik - Joined",
+			"qualify": "Unlocked after obtaining Krolik",
+			"achievement": 46024,
+			"sort": 2004
+		},
+		{
+			"id": 23016,
+			"icon": "Img_Title_GunGet_Vepley",
+			"name": "Vepley - Joined",
+			"title": "Vepley - Joined",
+			"qualify": "Unlocked after obtaining Vepley",
+			"achievement": 46025,
+			"sort": 2005
+		},
+		{
+			"id": 23017,
+			"icon": "Img_Title_GunGet_Peritya",
+			"name": "Peritya - Joined",
+			"title": "Peritya - Joined",
+			"qualify": "Unlocked after obtaining Peritya",
+			"achievement": 46026,
+			"sort": 2006
+		},
+		{
+			"id": 23018,
+			"icon": "Img_Title_GunGet_Sharkry",
+			"name": "Sharkry - Joined",
+			"title": "Sharkry - Joined",
+			"qualify": "Unlocked after obtaining Sharkry",
+			"achievement": 46027,
+			"sort": 2007
+		},
+		{
+			"id": 23019,
+			"icon": "Img_Title_GunGet_Cheeta",
+			"name": "Cheeta - Joined",
+			"title": "Cheeta - Joined",
+			"qualify": "Unlocked after obtaining Cheeta",
+			"achievement": 46028,
+			"sort": 2008
+		},
+		{
+			"id": 23020,
+			"icon": "Img_Title_GunGet_Tololo",
+			"name": "Tololo - Joined",
+			"title": "Tololo - Joined",
+			"qualify": "Unlocked after obtaining Tololo",
+			"achievement": 46029,
+			"sort": 2009
+		},
+		{
+			"id": 23021,
+			"icon": "Img_Title_GunGet_Qiongjiu",
+			"name": "Qiongjiu - Joined",
+			"title": "Qiongjiu - Joined",
+			"qualify": "Unlocked after obtaining Qiongjiu",
+			"achievement": 46030,
+			"sort": 2010
+		},
+		{
+			"id": 23022,
+			"icon": "Img_Title_GunGet_Sabrina",
+			"name": "Sabrina - Joined",
+			"title": "Sabrina - Joined",
+			"qualify": "Unlocked after obtaining Sabrina",
+			"achievement": 46031,
+			"sort": 2011
+		},
+		{
+			"id": 23023,
+			"icon": "Img_Title_GunGet_Nagant",
+			"name": "Nagant - Joined",
+			"title": "Nagant - Joined",
+			"qualify": "Unlocked after obtaining Nagant",
+			"achievement": 46032,
+			"sort": 2012
+		},
+		{
+			"id": 23024,
+			"icon": "Img_Title_GunGet_Daiyan",
+			"name": "Daiyan - Joined",
+			"title": "Daiyan - Joined",
+			"qualify": "Unlocked after obtaining Daiyan",
+			"achievement": 46033,
+			"sort": 2013
+		},
+		{
+			"id": 23038,
+			"icon": "Img_Title_ActivityDaiyan",
+			"name": "Exotic Traveler",
+			"title": "Exotic Traveler",
+			"qualify": "Unlocked after completing Pick Up the Melody for the first time",
+			"achievement": 46036,
+			"sort": 4001
+		},
+		{
+			"id": 23039,
+			"icon": "Img_Title_GunGet_Mosinnagant",
+			"name": "Mosin-Nagant - Joined",
+			"title": "Mosin-Nagant - Joined",
+			"qualify": "Unlocked after obtaining Mosin-Nagant",
+			"achievement": 46037,
+			"sort": 2015
+		},
+		{
+			"id": 23040,
+			"icon": "Img_Title_GunGet_Ksenia",
+			"name": "Ksenia - Joined",
+			"title": "Ksenia - Joined",
+			"qualify": "Unlocked after obtaining Ksenia",
+			"achievement": 46038,
+			"sort": 2016
+		},
+		{
+			"id": 23041,
+			"icon": "Img_Title_GunGet_Littara",
+			"name": "Littara - Joined",
+			"title": "Littara - Joined",
+			"qualify": "Unlocked after obtaining Littara",
+			"achievement": 46039,
+			"sort": 2017
+		},
+		{
+			"id": 23045,
+			"icon": "Img_Title_GunGet_Macqiato",
+			"name": "Makiatto - Joined",
+			"title": "Makiatto - Joined",
+			"qualify": "Unlocked after obtaining Makiatto",
+			"sort": 2020,
+			"achievement": 0
+		},
+		{
+			"id": 23046,
+			"icon": "Img_Title_HighPVP_Season1",
+			"name": "Ordered Dispute",
+			"title": "Ordered Dispute",
+			"qualify": "Unlocked after ranking in the top 80% in Military Simulation Season: Ordered Dispute",
+			"sort": 1007,
+			"achievement": 0
+		},
+		{
+			"id": 23047,
+			"icon": "Img_Title_HighPVP_Season2",
+			"name": "Breakout",
+			"title": "Breakout",
+			"qualify": "Unlocked after ranking in the top 80% in Military Simulation Season: Breakout",
+			"sort": 1008,
+			"achievement": 0
+		},
+		{
+			"id": 23048,
+			"icon": "Img_Title_HighPVP_Season3",
+			"name": "Bold Assault",
+			"title": "Bold Assault",
+			"qualify": "Unlocked after ranking in the top 80% in Military Simulation Season: Bold Assault",
+			"sort": 1009,
+			"achievement": 0
+		},
+		{
+			"id": 23049,
+			"icon": "Img_Title_ActivityLenna",
+			"name": "Guardian of the Light",
+			"title": "Guardian of the Light",
+			"qualify": "Unlocked after completing Pattern Tracing for the first time",
+			"sort": 4003,
+			"achievement": 0
+		},
+		{
+			"id": 23053,
+			"icon": "Img_Title_Tutorial",
+			"name": "Hexagon Hunter",
+			"title": "Hexagon Hunter",
+			"qualify": "Unlocked upon completion of all categories of the Hunter Assessment.",
+			"sort": 2,
+			"achievement": 0
+		},
+		{
+			"id": 23055,
+			"icon": "Img_Title_GunGet_Ullrid",
+			"name": "Ullrid - Joined",
+			"title": "Ullrid - Joined",
+			"qualify": "Unlocked after obtaining Ullrid",
+			"sort": 2022,
+			"achievement": 0
+		},
+		{
+			"id": 23056,
+			"icon": "Img_Title_GunGet_Suomi",
+			"name": "Suomi - Joined",
+			"title": "Suomi - Joined",
+			"qualify": "Unlocked after obtaining Suomi",
+			"sort": 2023,
+			"achievement": 0
+		},
+		{
+			"id": 23057,
+			"icon": "Img_Title_GunGet_Papasha",
+			"name": "Hello, Papasha.",
+			"title": "Hello, Papasha.",
+			"qualify": "Unlocked after obtaining Papasha",
+			"sort": 2024,
+			"achievement": 0
+		},
+		{
+			"id": 23058,
+			"icon": "Img_Title_GunGet_Lotta",
+			"name": "Lotta - Joined",
+			"title": "Lotta - Joined",
+			"qualify": "Unlocked after obtaining Lotta",
+			"sort": 2025,
+			"achievement": 0
+		},
+		{
+			"id": 23070,
+			"icon": "Img_Title_Love_Tololo",
+			"name": "Ad Astra",
+			"title": "Ad Astra",
+			"qualify": "The sea of stars is boundlessly vast, and to be a star that is observed is a fortune indeed.\nProof of affinity with a Doll. Unlocked via reaching Affinity Level 8 with Tololo.",
+			"sort": 3001,
+			"achievement": 0
+		},
+		{
+			"id": 23071,
+			"icon": "Img_Title_Love_Qiongjiu",
+			"name": "Gentle as Jade",
+			"title": "Gentle as Jade",
+			"qualify": "A fine Commander must be be modest and gentle, like an exquisite piece of jade. Such description of your countenance is apropos.\nProof of affinity with a Doll. Unlocked via reaching Affinity Level 8 with Qiongjiu.",
+			"sort": 3002,
+			"achievement": 0
+		},
+		{
+			"id": 23073,
+			"icon": "Img_Title_Love_Papasha",
+			"name": "Versatile Helper",
+			"title": "Versatile Helper",
+			"qualify": "If the Commander asks, nothing is too difficult.\nProof of Affinity with a Doll. Unlocked via reaching Affinity Level 8 with Papasha.",
+			"sort": 3004,
+			"achievement": 0
+		},
+		{
+			"id": 23094,
+			"icon": "Img_Title_Love_Vepley",
+			"name": "Number 1 Fan",
+			"title": "Number 1 Fan",
+			"qualify": "A very special programme for a very special audience☆ I'm going to start the performance right now!\nProof of affinity with a Doll. Unlocked via reaching Affinity Level 8 with Vepley.",
+			"sort": 3006,
+			"achievement": 0
+		},
+		{
+			"id": 23098,
+			"icon": "Img_Title_Love_Suomi",
+			"name": "Secret VIP Audience",
+			"title": "Secret VIP Audience",
+			"qualify": "You're the only one invited to this secret concert.\nA proof of of forming a covenant with a Doll, unlocked after reaching Affinity Level 8 with Suomi.",
+			"sort": 3007,
+			"achievement": 0
+		},
+		{
+			"id": 25000,
+			"icon": "Img_Title_Guild_Bg1",
+			"name": "Platoon Callsign",
+			"title": "Platoon Callsign",
+			"qualify": "Join a Platoon",
+			"sort": 9998,
+			"achievement": 0
+		}
+	]
+}

@@ -1,0 +1,2092 @@
+{
+	"data": [
+		{
+			"id": 1000,
+			"stepDetail": "Eliminate all enemy unit {0}/1"
+		},
+		{
+			"id": 1001,
+			"stepDetail": "Eliminate all enemy units {0}/2"
+		},
+		{
+			"id": 1002,
+			"stepDetail": "Eliminate all enemy units {0}/3"
+		},
+		{
+			"id": 1003,
+			"stepDetail": "Eliminate all enemy units {0}/4"
+		},
+		{
+			"id": 1004,
+			"stepDetail": "Eliminate all enemy units {0}/5"
+		},
+		{
+			"id": 1005,
+			"stepDetail": "Eliminate all enemy units {0}/6"
+		},
+		{
+			"id": 1006,
+			"stepDetail": "Eliminate all enemy units {0}/7"
+		},
+		{
+			"id": 1007,
+			"stepDetail": "Eliminate all enemy units {0}/8"
+		},
+		{
+			"id": 1008,
+			"stepDetail": "Eliminate all enemy units {0}/9"
+		},
+		{
+			"id": 1009,
+			"stepDetail": "Eliminate all enemy units {0}/10"
+		},
+		{
+			"id": 1010,
+			"stepDetail": "Eliminate all enemy units {0}/11"
+		},
+		{
+			"id": 1011,
+			"stepDetail": "Eliminate all enemy units {0}/12"
+		},
+		{
+			"id": 1012,
+			"stepDetail": "Eliminate all enemy units {0}/13"
+		},
+		{
+			"id": 1013,
+			"stepDetail": "Eliminate all enemy units {0}/14"
+		},
+		{
+			"id": 1014,
+			"stepDetail": "Eliminate all enemy units {0}/15"
+		},
+		{
+			"id": 1015,
+			"stepDetail": "Eliminate all enemy units {0}/16"
+		},
+		{
+			"id": 1016,
+			"stepDetail": "Eliminate all enemy units {0}/17"
+		},
+		{
+			"id": 1017,
+			"stepDetail": "Eliminate all enemy units {0}/18"
+		},
+		{
+			"id": 1018,
+			"stepDetail": "Eliminate all enemy units {0}/19"
+		},
+		{
+			"id": 1019,
+			"stepDetail": "Eliminate all enemy units {0}/20"
+		},
+		{
+			"id": 1020,
+			"stepDetail": "Eliminate all enemy units {0}/21"
+		},
+		{
+			"id": 1021,
+			"stepDetail": "Eliminate all enemy units {0}/22"
+		},
+		{
+			"id": 1022,
+			"stepDetail": "Eliminate all enemy units {0}/23"
+		},
+		{
+			"id": 1023,
+			"stepDetail": "Eliminate all enemy units {0}/24"
+		},
+		{
+			"id": 1024,
+			"stepDetail": "Eliminate all enemy units {0}/25"
+		},
+		{
+			"id": 1025,
+			"stepDetail": "Eliminate all enemy units {0}/26"
+		},
+		{
+			"id": 1026,
+			"stepDetail": "Eliminate all enemy units {0}/27"
+		},
+		{
+			"id": 1027,
+			"stepDetail": "Eliminate all enemy units {0}/28"
+		},
+		{
+			"id": 1028,
+			"stepDetail": "Eliminate all enemy units {0}/29"
+		},
+		{
+			"id": 1029,
+			"stepDetail": "Eliminate all enemy units {0}/30"
+		},
+		{
+			"id": 1031,
+			"stepDetail": "Eliminate all enemy units {0}/32"
+		},
+		{
+			"id": 1032,
+			"stepDetail": "Eliminate all enemy units {0}/33"
+		},
+		{
+			"id": 1033,
+			"stepDetail": "Eliminate all enemy units {0}/34"
+		},
+		{
+			"id": 1034,
+			"stepDetail": "Eliminate all enemy units {0}/35"
+		},
+		{
+			"id": 1035,
+			"stepDetail": "Eliminate all enemy units {0}/36"
+		},
+		{
+			"id": 1101,
+			"stepDetail": "Eliminate at least 2 enemy units {0}/2"
+		},
+		{
+			"id": 1102,
+			"stepDetail": "Eliminate at least 3 enemy units {0}/3"
+		},
+		{
+			"id": 1103,
+			"stepDetail": "Eliminate at least 4 enemy units {0}/4"
+		},
+		{
+			"id": 1104,
+			"stepDetail": "Eliminate at least 5 enemy units {0}/5"
+		},
+		{
+			"id": 1105,
+			"stepDetail": "Eliminate at least 6 enemy units {0}/6"
+		},
+		{
+			"id": 1106,
+			"stepDetail": "Eliminate at least 7 enemy units {0}/7"
+		},
+		{
+			"id": 1107,
+			"stepDetail": "Eliminate at least 8 enemy units {0}/8"
+		},
+		{
+			"id": 1108,
+			"stepDetail": "Eliminate at least 9 enemy units {0}/9"
+		},
+		{
+			"id": 1109,
+			"stepDetail": "Eliminate at least 10 enemy units {0}/10"
+		},
+		{
+			"id": 1110,
+			"stepDetail": "Eliminate at least 11 enemy units {0}/11"
+		},
+		{
+			"id": 1111,
+			"stepDetail": "Eliminate at least 12 enemy units {0}/12"
+		},
+		{
+			"id": 1117,
+			"stepDetail": "Eliminate at least 18 enemy units {0}/18"
+		},
+		{
+			"id": 1151,
+			"stepDetail": "Eliminate the target unit {0}/1"
+		},
+		{
+			"id": 1152,
+			"stepDetail": "Eliminate the target units {0}/2"
+		},
+		{
+			"id": 1153,
+			"stepDetail": "Eliminate the target units {0}/3"
+		},
+		{
+			"id": 1154,
+			"stepDetail": "Eliminate the target units {0}/4"
+		},
+		{
+			"id": 1155,
+			"stepDetail": "Eliminate the target units {0}/5"
+		},
+		{
+			"id": 1156,
+			"stepDetail": "Eliminate the target units {0}/6"
+		},
+		{
+			"id": 1157,
+			"stepDetail": "Eliminate the target units {0}/7"
+		},
+		{
+			"id": 2003,
+			"stepDetail": "Or eliminate all enemy units {0}/3"
+		},
+		{
+			"id": 2004,
+			"stepDetail": "Or eliminate all enemy units {0}/4"
+		},
+		{
+			"id": 2005,
+			"stepDetail": "Or eliminate all enemy units {0}/5"
+		},
+		{
+			"id": 2006,
+			"stepDetail": "Or eliminate all enemy units {0}/6"
+		},
+		{
+			"id": 2007,
+			"stepDetail": "Or eliminate all enemy units {0}/7"
+		},
+		{
+			"id": 2008,
+			"stepDetail": "Or eliminate all enemy units {0}/8"
+		},
+		{
+			"id": 2009,
+			"stepDetail": "Or eliminate all enemy units {0}/9"
+		},
+		{
+			"id": 2010,
+			"stepDetail": "Or eliminate all enemy units {0}/10"
+		},
+		{
+			"id": 2011,
+			"stepDetail": "Or eliminate all enemy units {0}/11"
+		},
+		{
+			"id": 2012,
+			"stepDetail": "Or eliminate all enemy units {0}/12"
+		},
+		{
+			"id": 2013,
+			"stepDetail": "Or eliminate all enemy units {0}/13"
+		},
+		{
+			"id": 2014,
+			"stepDetail": "Or eliminate all enemy units {0}/14"
+		},
+		{
+			"id": 2015,
+			"stepDetail": "Or eliminate all enemy units {0}/15"
+		},
+		{
+			"id": 2016,
+			"stepDetail": "Or eliminate all enemy units {0}/16"
+		},
+		{
+			"id": 2017,
+			"stepDetail": "Or eliminate all enemy units {0}/17"
+		},
+		{
+			"id": 2018,
+			"stepDetail": "Or eliminate all enemy units {0}/18"
+		},
+		{
+			"id": 2019,
+			"stepDetail": "Or eliminate all enemy units {0}/19"
+		},
+		{
+			"id": 2020,
+			"stepDetail": "Or eliminate all enemy units {0}/20"
+		},
+		{
+			"id": 2021,
+			"stepDetail": "Or eliminate all enemy units {0}/21"
+		},
+		{
+			"id": 2022,
+			"stepDetail": "Or eliminate all enemy units {0}/22"
+		},
+		{
+			"id": 2023,
+			"stepDetail": "Or eliminate all enemy units {0}/23"
+		},
+		{
+			"id": 2024,
+			"stepDetail": "Or eliminate all enemy units {0}/24"
+		},
+		{
+			"id": 2025,
+			"stepDetail": "Or eliminate all enemy units {0}/25"
+		},
+		{
+			"id": 2026,
+			"stepDetail": "Or eliminate all enemy units {0}/26"
+		},
+		{
+			"id": 2029,
+			"stepDetail": "Or eliminate all enemy units {0}/29"
+		},
+		{
+			"id": 2102,
+			"stepDetail": "Retrieve items {0}/2"
+		},
+		{
+			"id": 2103,
+			"stepDetail": "Retrieve items {0}/3"
+		},
+		{
+			"id": 2104,
+			"stepDetail": "Retrieve items {0}/4"
+		},
+		{
+			"id": 2200,
+			"stepDetail": "All our units have reached the specified area"
+		},
+		{
+			"id": 2201,
+			"stepDetail": "At least 1 allied unit reaches the designated area"
+		},
+		{
+			"id": 2202,
+			"stepDetail": "At least 2 allied units reach the designated area"
+		},
+		{
+			"id": 2203,
+			"stepDetail": "At least 3 allied units reach the designated area"
+		},
+		{
+			"id": 2204,
+			"stepDetail": "At least 4 allied units reach the designated area"
+		},
+		{
+			"id": 2205,
+			"stepDetail": "At least 5 allied units reach the designated area"
+		},
+		{
+			"id": 3001,
+			"stepDetail": "Current enemy wave {0}/1"
+		},
+		{
+			"id": 3002,
+			"stepDetail": "Current enemy wave {0}/2"
+		},
+		{
+			"id": 3003,
+			"stepDetail": "Current enemy wave {0}/3"
+		},
+		{
+			"id": 3004,
+			"stepDetail": "Current enemy wave {0}/4"
+		},
+		{
+			"id": 3005,
+			"stepDetail": "Current enemy wave {0}/5"
+		},
+		{
+			"id": 3006,
+			"stepDetail": "Current enemy wave {0}/6"
+		},
+		{
+			"id": 3007,
+			"stepDetail": "Current enemy wave {0}/7"
+		},
+		{
+			"id": 3200,
+			"stepDetail": "Hold off enemy attacks for 1 turn {0}/1"
+		},
+		{
+			"id": 3201,
+			"stepDetail": "Hold off enemy attacks for 2 turns {0}/2"
+		},
+		{
+			"id": 3202,
+			"stepDetail": "Hold off enemy attacks for 3 turns {0}/3"
+		},
+		{
+			"id": 3203,
+			"stepDetail": "Hold off enemy attacks for 4 turns {0}/4"
+		},
+		{
+			"id": 3204,
+			"stepDetail": "Hold off enemy attacks for 5 turns {0}/5"
+		},
+		{
+			"id": 3205,
+			"stepDetail": "Hold off enemy attacks for 6 turns {0}/6"
+		},
+		{
+			"id": 3206,
+			"stepDetail": "Hold off enemy attacks for 7 turns {0}/7"
+		},
+		{
+			"id": 3207,
+			"stepDetail": "Hold off enemy attacks for 8 turns {0}/8"
+		},
+		{
+			"id": 3208,
+			"stepDetail": "Hold off enemy attacks for 9 turns {0}/9"
+		},
+		{
+			"id": 3209,
+			"stepDetail": "Hold off enemy attacks for 10 turns {0}/10"
+		},
+		{
+			"id": 3220,
+			"stepDetail": "Ensure no allies are lost for 1 turn {0}/1"
+		},
+		{
+			"id": 3221,
+			"stepDetail": "Ensure no allies are lost for 2 turns {0}/2"
+		},
+		{
+			"id": 3222,
+			"stepDetail": "Ensure no allies are lost for 3 turns {0}/3"
+		},
+		{
+			"id": 3223,
+			"stepDetail": "Ensure no allies are lost for 4 turns {0}/4"
+		},
+		{
+			"id": 3224,
+			"stepDetail": "Ensure no allies are lost for 5 turns {0}/5"
+		},
+		{
+			"id": 3225,
+			"stepDetail": "Ensure no allies are lost for 6 turns {0}/6"
+		},
+		{
+			"id": 3226,
+			"stepDetail": "Ensure no allies are lost for 7 turns {0}/7"
+		},
+		{
+			"id": 3227,
+			"stepDetail": "Ensure no allies are lost for 8 turns {0}/8"
+		},
+		{
+			"id": 3228,
+			"stepDetail": "Ensure no allies are lost for 9 turns {0}/9"
+		},
+		{
+			"id": 3229,
+			"stepDetail": "Ensure no allies are lost for 10 turns {0}/10"
+		},
+		{
+			"id": 3242,
+			"stepDetail": "Hold the position for 3 turns {0}/3"
+		},
+		{
+			"id": 3243,
+			"stepDetail": "Hold the position for 4 turns {0}/4"
+		},
+		{
+			"id": 3244,
+			"stepDetail": "Hold the position for 5 turns {0}/5"
+		},
+		{
+			"id": 3245,
+			"stepDetail": "Hold the position for 6 turns {0}/6"
+		},
+		{
+			"id": 3246,
+			"stepDetail": "Hold the position for 7 turns {0}/7"
+		},
+		{
+			"id": 3247,
+			"stepDetail": "Hold the position for 8 turns {0}/8"
+		},
+		{
+			"id": 3248,
+			"stepDetail": "Hold the position for 9 turns {0}/9"
+		},
+		{
+			"id": 3249,
+			"stepDetail": "Hold the position for 10 turns {0}/10"
+		},
+		{
+			"id": 3250,
+			"stepDetail": "Hold the position for 12 turns {0}/12"
+		},
+		{
+			"id": 3260,
+			"stepDetail": "Complete the mission within 1 turn"
+		},
+		{
+			"id": 3261,
+			"stepDetail": "Complete the mission within 2 turns"
+		},
+		{
+			"id": 3262,
+			"stepDetail": "Complete the mission within 3 turns"
+		},
+		{
+			"id": 3263,
+			"stepDetail": "Complete the mission within 4 turns"
+		},
+		{
+			"id": 3264,
+			"stepDetail": "Complete the mission within 5 turns"
+		},
+		{
+			"id": 3265,
+			"stepDetail": "Complete the mission within 6 turns"
+		},
+		{
+			"id": 3266,
+			"stepDetail": "Complete the mission within 7 turns"
+		},
+		{
+			"id": 3267,
+			"stepDetail": "Complete the mission within 8 turns"
+		},
+		{
+			"id": 3268,
+			"stepDetail": "Complete the mission within 9 turns"
+		},
+		{
+			"id": 3269,
+			"stepDetail": "Complete the mission within 10 turns"
+		},
+		{
+			"id": 3271,
+			"stepDetail": "{0} turns left"
+		},
+		{
+			"id": 3300,
+			"stepDetail": "Enemy scratches {0}"
+		},
+		{
+			"id": 3310,
+			"stepDetail": "Allied scratches {0}"
+		},
+		{
+			"id": 3318,
+			"stepDetail": "Allied attacks trigger Cover Damage Reduction {0}/8"
+		},
+		{
+			"id": 3320,
+			"stepDetail": "Total scratches: {0}"
+		},
+		{
+			"id": 3321,
+			"stepDetail": "Time limit: {0}/15 turns"
+		},
+		{
+			"id": 5001,
+			"stepDetail": "Eliminate the Tosk"
+		},
+		{
+			"id": 5002,
+			"stepDetail": "Eliminate the Nemertea"
+		},
+		{
+			"id": 5003,
+			"stepDetail": "Eliminate Sextans"
+		},
+		{
+			"id": 5004,
+			"stepDetail": "Eliminate Darture"
+		},
+		{
+			"id": 5005,
+			"stepDetail": "Eliminate the Ravn"
+		},
+		{
+			"id": 5006,
+			"stepDetail": "Eliminate Bellator 137 and Bellator 212"
+		},
+		{
+			"id": 5007,
+			"stepDetail": "Eliminate the Temblor Titan"
+		},
+		{
+			"id": 5008,
+			"stepDetail": "Eliminate the Storm Titan"
+		},
+		{
+			"id": 5009,
+			"stepDetail": "Eliminate the Fortress Titan"
+		},
+		{
+			"id": 5010,
+			"stepDetail": "Eliminate the Blade Titan"
+		},
+		{
+			"id": 5011,
+			"stepDetail": "Eliminate the Aegis SWAP Dominator"
+		},
+		{
+			"id": 5012,
+			"stepDetail": "Eliminate the Flareberus"
+		},
+		{
+			"id": 5013,
+			"stepDetail": "Eliminate the Lycosa Singoriensis"
+		},
+		{
+			"id": 5014,
+			"stepDetail": "Eliminate the Ironside"
+		},
+		{
+			"id": 5015,
+			"stepDetail": "Eliminate the Deichgraf"
+		},
+		{
+			"id": 5016,
+			"stepDetail": "Eliminate Reclamation Expert Phantom"
+		},
+		{
+			"id": 5017,
+			"stepDetail": "Eliminate Terrorhorn Chimera"
+		},
+		{
+			"id": 5101,
+			"stepDetail": "Eliminate the target unit"
+		},
+		{
+			"id": 5102,
+			"stepDetail": "Retrieve item from the designated location"
+		},
+		{
+			"id": 5103,
+			"stepDetail": "Set up mission item at marked spot"
+		},
+		{
+			"id": 5104,
+			"stepDetail": "Hack into the operating system and gain access"
+		},
+		{
+			"id": 5105,
+			"stepDetail": "Hold the position"
+		},
+		{
+			"id": 5106,
+			"stepDetail": "Evacuate all allied units"
+		},
+		{
+			"id": 5107,
+			"stepDetail": "No allies are lost"
+		},
+		{
+			"id": 5108,
+			"stepDetail": "Or eliminate all enemy units"
+		},
+		{
+			"id": 5109,
+			"stepDetail": "The evacuation route is set!"
+		},
+		{
+			"id": 5110,
+			"stepDetail": "Hack the system and alter the relevant data"
+		},
+		{
+			"id": 5111,
+			"stepDetail": "All enemies must be defeated in the same turn, or the defeated units will be revived the next turn!"
+		},
+		{
+			"id": 5112,
+			"stepDetail": "Remember the location of every sentry! Stepping within 1 tile around them will activate the sentries..."
+		},
+		{
+			"id": 5113,
+			"stepDetail": "Mission fails upon activating {0}/4 sentries!"
+		},
+		{
+			"id": 5114,
+			"stepDetail": "Mission fails upon activating {0}/3 sentries!"
+		},
+		{
+			"id": 5115,
+			"stepDetail": "Try to take over the grenade launcher module..."
+		},
+		{
+			"id": 5116,
+			"stepDetail": "While holding the position, retrieve all supplies, take out the enemy's heavy machine gun turret, and eliminate all incoming enemies!"
+		},
+		{
+			"id": 5117,
+			"stepDetail": "Objectives achieved, evacuate all units!"
+		},
+		{
+			"id": 5118,
+			"stepDetail": "Evacuate at least 3 allied units"
+		},
+		{
+			"id": 5119,
+			"stepDetail": "Evacuate at least 2 allied units"
+		},
+		{
+			"id": 5120,
+			"stepDetail": "Evacuate at least 1 allied units"
+		},
+		{
+			"id": 5121,
+			"stepDetail": "Eliminate Sextans?"
+		},
+		{
+			"id": 5122,
+			"stepDetail": "Eliminate Niter No.249"
+		},
+		{
+			"id": 5123,
+			"stepDetail": "Reduce Sextans' HP below 30%"
+		},
+		{
+			"id": 5124,
+			"stepDetail": "Evacuate at least 4 allied units"
+		},
+		{
+			"id": 5201,
+			"stepDetail": "Reduce Boss HP to below 10%"
+		},
+		{
+			"id": 5202,
+			"stepDetail": "Reduce Boss HP to below 20%"
+		},
+		{
+			"id": 5203,
+			"stepDetail": "Or reduce Boss HP to below 30%"
+		},
+		{
+			"id": 5204,
+			"stepDetail": "Reduce Boss HP to below 40%"
+		},
+		{
+			"id": 5205,
+			"stepDetail": "Reduce Boss HP to below 50%"
+		},
+		{
+			"id": 5206,
+			"stepDetail": "Reduce Boss HP to below 60%"
+		},
+		{
+			"id": 5207,
+			"stepDetail": "Reduce Boss HP to below 70%"
+		},
+		{
+			"id": 5208,
+			"stepDetail": "Reduce Boss HP to below 80%"
+		},
+		{
+			"id": 5209,
+			"stepDetail": "And defend the position"
+		},
+		{
+			"id": 5210,
+			"stepDetail": "Take the position before the enemy, {0} turns left"
+		},
+		{
+			"id": 5211,
+			"stepDetail": "Try to avoid setting off alarms whenever possible"
+		},
+		{
+			"id": 5212,
+			"stepDetail": "At least 3 units reach the rendezvous point"
+		},
+		{
+			"id": 5213,
+			"stepDetail": "Capture and hold the position"
+		},
+		{
+			"id": 5214,
+			"stepDetail": "Take the position before the enemy, {0} turns left"
+		},
+		{
+			"id": 8001,
+			"stepDetail": "Eliminate enemy units and collect items {0}/2"
+		},
+		{
+			"id": 8002,
+			"stepDetail": "Eliminate all enemy units within 5 turns {0}/5"
+		},
+		{
+			"id": 8003,
+			"stepDetail": "Or explore the target locations"
+		},
+		{
+			"id": 8004,
+			"stepDetail": "Or retrieve all items {0}/2"
+		},
+		{
+			"id": 8005,
+			"stepDetail": "Acquire communication equipment parts {0}/2"
+		},
+		{
+			"id": 8006,
+			"stepDetail": "Maintain the hacking for {0}/3 turns"
+		},
+		{
+			"id": 8007,
+			"stepDetail": "Eliminate {0}/10 enemies other than the Boss"
+		},
+		{
+			"id": 8008,
+			"stepDetail": "Survive until turn 5 or eliminate all enemy units {0}/10"
+		},
+		{
+			"id": 8009,
+			"stepDetail": "Survive for 6 turns or eliminate all enemy units {0}/12"
+		},
+		{
+			"id": 8010,
+			"stepDetail": "Survive under the pressure of the Empire Chairman for {0}/6 turns"
+		},
+		{
+			"id": 8011,
+			"stepDetail": "Retrieve communication equipment parts {0}/1 (optional)"
+		},
+		{
+			"id": 8012,
+			"stepDetail": "The Tosk will appear in 1 turn"
+		},
+		{
+			"id": 8013,
+			"stepDetail": "Eliminate the upcoming enemies {0}/3"
+		},
+		{
+			"id": 8014,
+			"stepDetail": "The next wave of enemy units will show up in {0}/2 turns"
+		},
+		{
+			"id": 8015,
+			"stepDetail": "Destroy the heavy machine gun {0}/1"
+		},
+		{
+			"id": 8016,
+			"stepDetail": "Destroy the heavy machine guns {0}/2"
+		},
+		{
+			"id": 8017,
+			"stepDetail": "Destroy the heavy machine guns {0}/3"
+		},
+		{
+			"id": 8018,
+			"stepDetail": "Destroy the heavy machine guns {0}/4"
+		},
+		{
+			"id": 8019,
+			"stepDetail": "Destroy the heavy machine guns {0}/5"
+		},
+		{
+			"id": 8020,
+			"stepDetail": "Destroy the heavy machine guns {0}/6"
+		},
+		{
+			"id": 8021,
+			"stepDetail": "Destroy the heavy machine guns {0}/7"
+		},
+		{
+			"id": 8022,
+			"stepDetail": "Destroy the heavy machine guns {0}/8"
+		},
+		{
+			"id": 8023,
+			"stepDetail": "Destroy the heavy machine guns {0}/9"
+		},
+		{
+			"id": 8024,
+			"stepDetail": "Destroy the heavy machine guns {0}/10"
+		},
+		{
+			"id": 8025,
+			"stepDetail": "Retrieve all items {0}/2"
+		},
+		{
+			"id": 8026,
+			"stepDetail": "Retrieve all items {0}/3"
+		},
+		{
+			"id": 8027,
+			"stepDetail": "Retrieve all items {0}/4"
+		},
+		{
+			"id": 8028,
+			"stepDetail": "Place the mission items at the target locations {0}/2"
+		},
+		{
+			"id": 8029,
+			"stepDetail": "Place the mission items at the target locations {0}/3"
+		},
+		{
+			"id": 8030,
+			"stepDetail": "Place mission items at the target locations {0}/4"
+		},
+		{
+			"id": 8031,
+			"stepDetail": "Capture the position {0}/1"
+		},
+		{
+			"id": 8032,
+			"stepDetail": "Capture the positions {0}/2"
+		},
+		{
+			"id": 8033,
+			"stepDetail": "Capture the positions {0}/3"
+		},
+		{
+			"id": 8034,
+			"stepDetail": "Capture the positions {0}/4"
+		},
+		{
+			"id": 8035,
+			"stepDetail": "Retrieve communication equipment parts"
+		},
+		{
+			"id": 8036,
+			"stepDetail": "Remaining enemy guards: {0}/16"
+		},
+		{
+			"id": 8037,
+			"stepDetail": "Remaining enemy guards: {0}/18"
+		},
+		{
+			"id": 8038,
+			"stepDetail": "Capture at least {0}/2 positions"
+		},
+		{
+			"id": 8039,
+			"stepDetail": "Or eliminate enemy guards {0}/12"
+		},
+		{
+			"id": 8040,
+			"stepDetail": "Escort at least {0}/1 Aegis Bulwark to the marked location"
+		},
+		{
+			"id": 8041,
+			"stepDetail": "{0} allied units have been evacuated"
+		},
+		{
+			"id": 8042,
+			"stepDetail": "Optional target: Hack the target location to gain control of the heavy machine gun module or grenade launcher module"
+		},
+		{
+			"id": 8043,
+			"stepDetail": "Connect to the system {0}/3"
+		},
+		{
+			"id": 8044,
+			"stepDetail": "Protect allied units for {0}/4 turns, then wait for recovery"
+		},
+		{
+			"id": 8045,
+			"stepDetail": "Reduce the Nemertea's HP below 95% and evacuate all units"
+		},
+		{
+			"id": 8046,
+			"stepDetail": "Retrieve all items {0}/5"
+		},
+		{
+			"id": 8047,
+			"stepDetail": "Explore the target locations"
+		},
+		{
+			"id": 8048,
+			"stepDetail": "Destroy all turret data nodes {0}/3"
+		},
+		{
+			"id": 8049,
+			"stepDetail": "Eliminate Niter No.249: {0}/1"
+		},
+		{
+			"id": 8050,
+			"stepDetail": "Survive for 6 turns or eliminate all enemy units {0}/15"
+		},
+		{
+			"id": 8051,
+			"stepDetail": "Survive for 6 turns or eliminate all enemy units {0}/13"
+		},
+		{
+			"id": 8052,
+			"stepDetail": "Number of remaining enemies on the field: {0}"
+		},
+		{
+			"id": 8053,
+			"stepDetail": "Evacuate at least 3 allied units: {0}/3"
+		},
+		{
+			"id": 8054,
+			"stepDetail": "Rescue at least 6 allied units: {0}/6"
+		},
+		{
+			"id": 8055,
+			"stepDetail": "Eliminate the target units {0}/7"
+		},
+		{
+			"id": 8056,
+			"stepDetail": "Activate Stability Amplifier: {0}/1"
+		},
+		{
+			"id": 8057,
+			"stepDetail": "Retrieve all items: {0}/1"
+		},
+		{
+			"id": 8058,
+			"stepDetail": "Or eliminate the Nemertea"
+		},
+		{
+			"id": 8059,
+			"stepDetail": "Destroy Crysmole caves {0}/3"
+		},
+		{
+			"id": 8060,
+			"stepDetail": "Survive for 6 turns OR kill all enemies {0}/10"
+		},
+		{
+			"id": 9001,
+			"stepDetail": "Or reduce Nemertea's HP below 80%"
+		},
+		{
+			"id": 9002,
+			"stepDetail": "Survive Sextans' attacks for {0}/6 turns"
+		},
+		{
+			"id": 9003,
+			"stepDetail": "Or reduce Darture's HP below 50%"
+		},
+		{
+			"id": 9004,
+			"stepDetail": "Survive Darture's attacks for {0} turns"
+		},
+		{
+			"id": 9005,
+			"stepDetail": "Survive for 8 turns or eliminate all enemy units"
+		},
+		{
+			"id": 9006,
+			"stepDetail": "Survive for 6 turns or eliminate all enemy units"
+		},
+		{
+			"id": 9007,
+			"stepDetail": "Wait for the explosion"
+		},
+		{
+			"id": 9008,
+			"stepDetail": "Take damage equal to 20% of max HP each turn from turn 3 onwards"
+		},
+		{
+			"id": 9009,
+			"stepDetail": "Not set up yet!"
+		},
+		{
+			"id": 9010,
+			"stepDetail": "Calibration Device: Immediately perform another action, +5% attack, guaranteed hit"
+		},
+		{
+			"id": 9011,
+			"stepDetail": "Assist: If an enemy unit within range is attacked by an ally this turn, trigger assist"
+		},
+		{
+			"id": 9012,
+			"stepDetail": "Maintenance Tool: Reset all skill cooldowns"
+		},
+		{
+			"id": 9013,
+			"stepDetail": "Medkit: Restore 50% of max HP"
+		},
+		{
+			"id": 9014,
+			"stepDetail": "20-minute time-limited operation"
+		},
+		{
+			"id": 9015,
+			"stepDetail": "Reduce the HP of target unit"
+		},
+		{
+			"id": 9016,
+			"stepDetail": "Eliminate target unit"
+		},
+		{
+			"id": 9017,
+			"stepDetail": "Avoid taking damage"
+		},
+		{
+			"id": 9018,
+			"stepDetail": "Eliminate 1 enemy unit"
+		},
+		{
+			"id": 9019,
+			"stepDetail": "Eliminate 1 more enemy unit"
+		},
+		{
+			"id": 9020,
+			"stepDetail": "Eliminate the remaining enemy units"
+		},
+		{
+			"id": 9021,
+			"stepDetail": "Optional goal: Any allied unit eliminates 5 enemy units"
+		},
+		{
+			"id": 9022,
+			"stepDetail": "Protect target ally during evacuation"
+		},
+		{
+			"id": 9023,
+			"stepDetail": "Head to the target location and gain control of the heavy machine gun module or the grenade launcher module"
+		},
+		{
+			"id": 9024,
+			"stepDetail": "Eliminate the target unit"
+		},
+		{
+			"id": 9025,
+			"stepDetail": "Take the enemy position"
+		},
+		{
+			"id": 9026,
+			"stepDetail": "Eliminate the target units {0}/2"
+		},
+		{
+			"id": 9027,
+			"stepDetail": "Evacuate all allied units to the best of your ability"
+		},
+		{
+			"id": 9028,
+			"stepDetail": "Prevent the enemy from capturing the position"
+		},
+		{
+			"id": 9029,
+			"stepDetail": "Eliminate the target unit while defending the position"
+		},
+		{
+			"id": 9030,
+			"stepDetail": "Eliminate all enemy units while defending the position"
+		},
+		{
+			"id": 9031,
+			"stepDetail": "Target will appear in {0} turns"
+		},
+		{
+			"id": 9032,
+			"stepDetail": "Eliminate the target unit"
+		},
+		{
+			"id": 9033,
+			"stepDetail": "Defend allied position"
+		},
+		{
+			"id": 9034,
+			"stepDetail": "Successfully gain control of at least one heavy machine gun module"
+		},
+		{
+			"id": 9035,
+			"stepDetail": "Take control of all positions"
+		},
+		{
+			"id": 9036,
+			"stepDetail": "Lose no more than 1 unit"
+		},
+		{
+			"id": 9037,
+			"stepDetail": "Resist enemy attacks for 6 turns or eliminate target unit"
+		},
+		{
+			"id": 9038,
+			"stepDetail": "Evacuate all allied units within 6 turns"
+		},
+		{
+			"id": 9039,
+			"stepDetail": "Or eliminate all enemy units"
+		},
+		{
+			"id": 9040,
+			"stepDetail": "Score as many challenge points as possible within 8 turns"
+		},
+		{
+			"id": 9041,
+			"stepDetail": "Eliminate Boss {0}/1"
+		},
+		{
+			"id": 9042,
+			"stepDetail": "Capture the target position and set up the explosives"
+		},
+		{
+			"id": 9043,
+			"stepDetail": "Prevent the enemy from capturing all allied positions"
+		},
+		{
+			"id": 9044,
+			"stepDetail": "Capture the target area"
+		},
+		{
+			"id": 9045,
+			"stepDetail": "Collect hacking intel {0}/3"
+		},
+		{
+			"id": 9046,
+			"stepDetail": "Protect the allied decryption program and wait until all information is collected"
+		},
+		{
+			"id": 9047,
+			"stepDetail": "Defend the position and prevent enemies from recapturing the hacking zone"
+		},
+		{
+			"id": 9048,
+			"stepDetail": "Explore the target areas {0}/2"
+		},
+		{
+			"id": 9049,
+			"stepDetail": "Escort the target into position. The mission fails if the target dies"
+		},
+		{
+			"id": 9050,
+			"stepDetail": "Hack all machine gun modules {0}/3 to proceed"
+		},
+		{
+			"id": 9051,
+			"stepDetail": "Capture all positions {0}/3"
+		},
+		{
+			"id": 9052,
+			"stepDetail": "Darture eliminated, mission accomplished"
+		},
+		{
+			"id": 9053,
+			"stepDetail": "Eliminate the Boss unit within 5 turns"
+		},
+		{
+			"id": 9054,
+			"stepDetail": "Protect allied unit for {0} turns"
+		},
+		{
+			"id": 9055,
+			"stepDetail": "Defend position for {0}/10 turns"
+		},
+		{
+			"id": 9056,
+			"stepDetail": "Eliminate all enemies"
+		},
+		{
+			"id": 9057,
+			"stepDetail": "Collect the explosives"
+		},
+		{
+			"id": 9058,
+			"stepDetail": "Collect the explosives {0}/1"
+		},
+		{
+			"id": 9059,
+			"stepDetail": "Plant the explosives at the target location"
+		},
+		{
+			"id": 9060,
+			"stepDetail": "The ignition bolt can clear the poison covering the extraction point, but they must be connected."
+		},
+		{
+			"id": 9061,
+			"stepDetail": "Use Nemertea venom to link the evacuation point with the ignition bolt and evacuate the remaining units"
+		},
+		{
+			"id": 9062,
+			"stepDetail": "Eliminate the Overfaller"
+		},
+		{
+			"id": 9063,
+			"stepDetail": "Capture the enemy position {0}/1"
+		},
+		{
+			"id": 9064,
+			"stepDetail": "Eliminate the Atrocity Thorn"
+		},
+		{
+			"id": 9065,
+			"stepDetail": "Protect the allied target for {0}/7 turns"
+		},
+		{
+			"id": 9066,
+			"stepDetail": "Eliminate the Angriper"
+		},
+		{
+			"id": 9067,
+			"stepDetail": "Eliminate the Mishap Thorn"
+		},
+		{
+			"id": 9068,
+			"stepDetail": "Nemertea's skill can lay down venom and also destroy Cover to open escape routes"
+		},
+		{
+			"id": 9069,
+			"stepDetail": "Eliminate the Angriper and the Overfaller {0}/2"
+		},
+		{
+			"id": 9070,
+			"stepDetail": "Eliminate Darture"
+		},
+		{
+			"id": 9071,
+			"stepDetail": "Eliminate the Scout SWAP"
+		},
+		{
+			"id": 9072,
+			"stepDetail": "Protect allied target"
+		},
+		{
+			"id": 9073,
+			"stepDetail": "Eliminate the Oljefat"
+		},
+		{
+			"id": 9074,
+			"stepDetail": "Eliminate the Storm Titan"
+		},
+		{
+			"id": 9075,
+			"stepDetail": "Stop Vepley from getting away"
+		},
+		{
+			"id": 9076,
+			"stepDetail": "Reduce Vepley's HP below 30%"
+		},
+		{
+			"id": 9077,
+			"stepDetail": "Eliminate all Thoads - COR and Thorns - HYD {0}/5"
+		},
+		{
+			"id": 9078,
+			"stepDetail": "Eliminate ELIDs and search for communication equipment parts"
+		},
+		{
+			"id": 9079,
+			"stepDetail": "Ultimatum: Reach the teleportation area and execute the crash command within {0}/3 turns"
+		},
+		{
+			"id": 9080,
+			"stepDetail": "Ultimatum: Cause Stability Break of at least 1 enemy unit and reach the Evacuation Zone within {0}/3 turns"
+		},
+		{
+			"id": 9081,
+			"stepDetail": "Ultimatum: Eliminate 3 or more enemy units and reach the Evacuation Zone within {0}/3 turns"
+		},
+		{
+			"id": 9082,
+			"stepDetail": "Ultimatum: Reach the teleportation area and complete the area command within {0}/3 turns"
+		},
+		{
+			"id": 9083,
+			"stepDetail": "Ultimatum: Eliminated {0}/3"
+		},
+		{
+			"id": 9084,
+			"stepDetail": "Ultimatum: Reach the teleport area and complete the attack command within {0}/3 turns"
+		},
+		{
+			"id": 9085,
+			"stepDetail": "Ultimatum: Attack an enemy unit without triggering Cover Damage Reduction and reach the Evacuation Zone within {0}/3 turns"
+		},
+		{
+			"id": 9086,
+			"stepDetail": "Ultimatum: Attacks Count {0}/1"
+		},
+		{
+			"id": 9087,
+			"stepDetail": "Ultimatum: Reach the teleportation area and complete the clone command within {0}/3 turns."
+		},
+		{
+			"id": 9088,
+			"stepDetail": "Ultimatum: Eliminate the Clone and reach the Evacuation Zone within {0}/3 turns"
+		},
+		{
+			"id": 9089,
+			"stepDetail": "Ultimatum: Eliminate the Clone {0}/1"
+		},
+		{
+			"id": 9090,
+			"stepDetail": "Ultimatum: Clone Eliminated"
+		},
+		{
+			"id": 9091,
+			"stepDetail": "Collect hacking info {0}/2"
+		},
+		{
+			"id": 9092,
+			"stepDetail": "Assemble all units at target area"
+		},
+		{
+			"id": 9093,
+			"stepDetail": "Evacuate at least 3 Dolls {0}/3"
+		},
+		{
+			"id": 9094,
+			"stepDetail": "Score as many challenge points as possible within 8 turns"
+		},
+		{
+			"id": 9095,
+			"stepDetail": "Eliminate all Felagi-Defensivs and Felagi-Snikskytter - ELE {0}/5"
+		},
+		{
+			"id": 9096,
+			"stepDetail": "Stop the Felagi-Lades from escaping"
+		},
+		{
+			"id": 9097,
+			"stepDetail": "Hold the position, {0} turns left"
+		},
+		{
+			"id": 9098,
+			"stepDetail": "Interact with the target location"
+		},
+		{
+			"id": 9099,
+			"stepDetail": "Eliminate all enemy units"
+		},
+		{
+			"id": 9100,
+			"stepDetail": "Prevent enemy units from entering target area"
+		},
+		{
+			"id": 9101,
+			"stepDetail": "Destroy the Crysmoles' caves {0}/2"
+		},
+		{
+			"id": 9102,
+			"stepDetail": "Flip the switch to change the status of all retractable Cover simultaneously"
+		},
+		{
+			"id": 9103,
+			"stepDetail": "There are two switches on the battlefield, each controlling retractable Cover in different areas. These switches change the status of all the retractable Cover in a corresponding area."
+		},
+		{
+			"id": 9104,
+			"stepDetail": "Phase 2: Prevent enemy units from entering the target area. {0}/3 turns left"
+		},
+		{
+			"id": 9105,
+			"stepDetail": "Hack into the operating system and gain access for a limited time"
+		},
+		{
+			"id": 9106,
+			"stepDetail": "Lose no more than {0}/2 allied units"
+		},
+		{
+			"id": 9107,
+			"stepDetail": "Allied units will move after our turn ends"
+		},
+		{
+			"id": 9108,
+			"stepDetail": "Eliminate the Custos"
+		},
+		{
+			"id": 9109,
+			"stepDetail": "Or reduce Sextans' HP below 30%"
+		},
+		{
+			"id": 9110,
+			"stepDetail": "Ultimatum: Enemy's Stability Break {0}/1"
+		},
+		{
+			"id": 9111,
+			"stepDetail": "Eliminate Eber"
+		},
+		{
+			"id": 9112,
+			"stepDetail": "Try to score as many challenge points as you can within 6 turns"
+		},
+		{
+			"id": 9113,
+			"stepDetail": "Help allied units defeat enemies. All allied units must remain on the field. Remaining allies: {0}/7"
+		},
+		{
+			"id": 9114,
+			"stepDetail": "Collect targets {0}/2 and evacuate all units"
+		},
+		{
+			"id": 9115,
+			"stepDetail": "Our score: {0}/1000"
+		},
+		{
+			"id": 9116,
+			"stepDetail": "Enemy's score: {0}/1000"
+		},
+		{
+			"id": 9117,
+			"stepDetail": "The center position scores +50 points per turn, while the left and right position grant +30 points per turn."
+		},
+		{
+			"id": 9118,
+			"stepDetail": "Get +40 points per turn for holding a position"
+		},
+		{
+			"id": 9130,
+			"stepDetail": "Activate the remote control switch on the battlefield; then, evacuate all units"
+		},
+		{
+			"id": 9131,
+			"stepDetail": "Evacuate everyone."
+		},
+		{
+			"id": 9132,
+			"stepDetail": "Eliminate the Aegis SWAP Artillery within 2 turns: {0}/2"
+		},
+		{
+			"id": 9133,
+			"stepDetail": "Defend the position from enemies"
+		},
+		{
+			"id": 9134,
+			"stepDetail": "Eliminate enemies at target location and take over target position"
+		},
+		{
+			"id": 9135,
+			"stepDetail": "Stop enemy units from entering the position, and eliminate the Atrocity Thorn & Mishap Thorn"
+		},
+		{
+			"id": 9136,
+			"stepDetail": "Acquire the access key"
+		},
+		{
+			"id": 9137,
+			"stepDetail": "Gain hacking progress, elite enemies +45 points, regular enemies +10 points, reaching the central highlands +100 points"
+		},
+		{
+			"id": 9138,
+			"stepDetail": "Right path unlocks at 100 points"
+		},
+		{
+			"id": 9139,
+			"stepDetail": "Middle path unlocks at 200 points"
+		},
+		{
+			"id": 9140,
+			"stepDetail": "Score 300 points to unlock the left channel"
+		},
+		{
+			"id": 9141,
+			"stepDetail": "Current progress: {0}/450"
+		},
+		{
+			"id": 9142,
+			"stepDetail": "Eliminate all enemy units {0}/26"
+		},
+		{
+			"id": 9143,
+			"stepDetail": "Activate the high-up remote switch to open the path"
+		},
+		{
+			"id": 9144,
+			"stepDetail": "Eliminate the Angriper and the Giordre"
+		},
+		{
+			"id": 9145,
+			"stepDetail": "If there are more than 10 Super Dinergates on the field at the end of the turn, then the battle is lost"
+		},
+		{
+			"id": 9146,
+			"stepDetail": "The defeated enemy unit will respawn in the enemy area and attack other enemy units."
+		},
+		{
+			"id": 9147,
+			"stepDetail": "Number of allied Super Dinergates on the field: {0}/10"
+		},
+		{
+			"id": 9148,
+			"stepDetail": "Number of enemy Super Dinergates on the field: {0}/10"
+		},
+		{
+			"id": 9149,
+			"stepDetail": "Destroy the Grenade Launcher Module"
+		},
+		{
+			"id": 9150,
+			"stepDetail": "Capture the neutral target area within 10 turns and hold it for 5 turns"
+		},
+		{
+			"id": 9151,
+			"stepDetail": "Prevent the enemy from taking the position"
+		},
+		{
+			"id": 9152,
+			"stepDetail": "Activate the remote switch to rescue the target"
+		},
+		{
+			"id": 9153,
+			"stepDetail": "Rescue successful. Escort target to the target area"
+		},
+		{
+			"id": 9154,
+			"stepDetail": "Protect all allied Super Dinergates {0}/2"
+		},
+		{
+			"id": 9155,
+			"stepDetail": "Destroy all spawners: {0}/3"
+		},
+		{
+			"id": 9156,
+			"stepDetail": "Activate the mechanism to start the heavy machine gun module"
+		},
+		{
+			"id": 9157,
+			"stepDetail": "Remaining HP of allied position: {0}"
+		},
+		{
+			"id": 9158,
+			"stepDetail": "The spawner will continually release ELIDs"
+		},
+		{
+			"id": 9159,
+			"stepDetail": "Fully restore the HP of allied Aegis SWAP Artillery: {0}/1"
+		},
+		{
+			"id": 9160,
+			"stepDetail": "Capture all enemy positions: {0}/2"
+		},
+		{
+			"id": 9161,
+			"stepDetail": "If the enemy base isn't captured, enemy reinforcements will continue to appear"
+		},
+		{
+			"id": 9162,
+			"stepDetail": "Help allies eliminate enemy units: {0}/9After eliminating the first wave of enemies, any surviving allies will follow our orders"
+		},
+		{
+			"id": 9163,
+			"stepDetail": "Reach the target locations: {0}/2"
+		},
+		{
+			"id": 9164,
+			"stepDetail": "Eliminate the first wave of enemy units: {0}/10"
+		},
+		{
+			"id": 9165,
+			"stepDetail": "All allied units must remain on the field: {0}/3"
+		},
+		{
+			"id": 9166,
+			"stepDetail": "After eliminating the first wave of enemy units, allied units will follow our commands"
+		},
+		{
+			"id": 9167,
+			"stepDetail": "There are first-aid kits on the battlefield that can heal the allied Aegis SWAP Artillery"
+		},
+		{
+			"id": 9168,
+			"stepDetail": "Lose no more than 2 units"
+		},
+		{
+			"id": 9169,
+			"stepDetail": "Activate the remote switch within {0} turns to rescue the target"
+		},
+		{
+			"id": 9170,
+			"stepDetail": "Escort target to the designated area"
+		},
+		{
+			"id": 9171,
+			"stepDetail": "Escort at least 1 target unit to the designated area"
+		},
+		{
+			"id": 9172,
+			"stepDetail": "Capture all positions: {0}/2"
+		},
+		{
+			"id": 9173,
+			"stepDetail": "Goliath summoning devices activated: {0}/3"
+		},
+		{
+			"id": 9174,
+			"stepDetail": "Eliminate the Atrocity Thorn and the Overfaller"
+		},
+		{
+			"id": 9175,
+			"stepDetail": "Activate the faction converter to turn enemy Aegis against them: {0}/2"
+		},
+		{
+			"id": 9176,
+			"stepDetail": "Turns target area defended: {0}/6"
+		},
+		{
+			"id": 9177,
+			"stepDetail": "Varjager waves remaining: {0}/4"
+		},
+		{
+			"id": 9178,
+			"stepDetail": "Ultimatum: Fully heal the dinergate and reach the evacuation zone within {0}/3 turns"
+		},
+		{
+			"id": 9179,
+			"stepDetail": "Ultimatum: Fully heal the dinergate {0}/1"
+		},
+		{
+			"id": 9180,
+			"stepDetail": "Ultimatum: Reach the Evacuation Zone before the enemy within {0}/3 turns"
+		},
+		{
+			"id": 9181,
+			"stepDetail": "Ultimatum: Restore the dinergates to full HP{0}/3"
+		},
+		{
+			"id": 9182,
+			"stepDetail": "Activate the Goliath Summoning Device to call in allied Goliaths for support"
+		},
+		{
+			"id": 9183,
+			"stepDetail": "Ultimatum: Reach the teleportation area and complete the rescue command within {0}/3 turns"
+		},
+		{
+			"id": 9184,
+			"stepDetail": "Ultimatum: Reach the teleportation area and complete the race command command within {0}/3 turns"
+		},
+		{
+			"id": 9185,
+			"stepDetail": "Tap into the data stream and disrupt the comms system {0}/2"
+		},
+		{
+			"id": 9186,
+			"stepDetail": "Eliminate the Tusk Beasteel"
+		},
+		{
+			"id": 9187,
+			"stepDetail": "Eliminate 2 Felagi-Defensiv Type I to get key fragments. The complete key can release the Atrocity Thorn. Eliminated: {0}"
+		},
+		{
+			"id": 9188,
+			"stepDetail": "Eliminate the Giordre and open the escape route"
+		},
+		{
+			"id": 9189,
+			"stepDetail": "Evacuate at least 3 allied units. Evacuated: {0}"
+		},
+		{
+			"id": 9190,
+			"stepDetail": "All key fragments gathered. Use the complete key to open the gate holding the Atrocity Thorn"
+		},
+		{
+			"id": 9191,
+			"stepDetail": "Once the gate is opened, the Atrocity Thorn will join our side to assist in combat. Released: {0}"
+		},
+		{
+			"id": 9192,
+			"stepDetail": "Capture all positions : {0}/4"
+		},
+		{
+			"id": 9193,
+			"stepDetail": "Protect allied units for {0} out of 8 turns"
+		},
+		{
+			"id": 9194,
+			"stepDetail": "Lose no more than 1 allied unit"
+		},
+		{
+			"id": 9195,
+			"stepDetail": "Caution: Enemy Felagi-Lades and Svejks will target our supply boxes. Remaining supply boxes: {0}/2"
+		},
+		{
+			"id": 9196,
+			"stepDetail": "Win within 8 turns. Mission fails if position is captured by the enemy. Turns used: {0}"
+		},
+		{
+			"id": 9197,
+			"stepDetail": "Lose no more than 1 allied unit"
+		},
+		{
+			"id": 9198,
+			"stepDetail": "Protect allied Aegis units. Remaining allies: {0}/2"
+		},
+		{
+			"id": 9199,
+			"stepDetail": "Tap into the data stream and disrupt the comms system {0}/3"
+		},
+		{
+			"id": 9200,
+			"stepDetail": "Win within 7 turns, with a maximum of 1 unit lost. Turns used: {0}/7"
+		},
+		{
+			"id": 9201,
+			"stepDetail": "Collect all supply boxes: {0}/3"
+		},
+		{
+			"id": 9202,
+			"stepDetail": "Destroy the heavy machine gun and evacuate all units"
+		},
+		{
+			"id": 9203,
+			"stepDetail": "Protect the allied heavy supply box for {0}/7 turns"
+		},
+		{
+			"id": 9204,
+			"stepDetail": "Earn +45 points per turn for holding a position"
+		},
+		{
+			"id": 9205,
+			"stepDetail": "Activate the remote switch to rescue the neutral target: {0}/2"
+		},
+		{
+			"id": 9206,
+			"stepDetail": "Eliminate the Giordre and evacuate all units"
+		},
+		{
+			"id": 9207,
+			"stepDetail": "Protect the allied Atrocity Thorn"
+		},
+		{
+			"id": 9208,
+			"stepDetail": "Explore target areas {0}/4"
+		},
+		{
+			"id": 9209,
+			"stepDetail": "Prevent the enemy from holding all positions for 10 turns"
+		},
+		{
+			"id": 9210,
+			"stepDetail": "After exploring target location, evacuate all units"
+		},
+		{
+			"id": 9211,
+			"stepDetail": "Capture all positions: {0}/3"
+		},
+		{
+			"id": 9212,
+			"stepDetail": "Eliminate Aegis SWAP Myrmidon"
+		},
+		{
+			"id": 9213,
+			"stepDetail": "Capture the position within 9 turns and hold it for 6 turns"
+		},
+		{
+			"id": 9214,
+			"stepDetail": "Eliminate target units {0}/2 and evacuate"
+		},
+		{
+			"id": 9215,
+			"stepDetail": "Wait for the explosion {0}/4"
+		},
+		{
+			"id": 9216,
+			"stepDetail": "Stop the enemy from defusing the explosives"
+		},
+		{
+			"id": 9217,
+			"stepDetail": "Eliminate all Unitas 015 Type II: {0}/6"
+		},
+		{
+			"id": 9218,
+			"stepDetail": "Eliminate Custos 052: {0}/1"
+		},
+		{
+			"id": 9219,
+			"stepDetail": "Eliminate Aegis SWAP Myrmidon: {0}/1"
+		},
+		{
+			"id": 9220,
+			"stepDetail": "Place an explosives box at any marked location"
+		},
+		{
+			"id": 9221,
+			"stepDetail": "Hold the position and evacuate at least 2 allied units: {0}/2"
+		},
+		{
+			"id": 9222,
+			"stepDetail": "Stop the enemy from defusing the explosives"
+		},
+		{
+			"id": 9223,
+			"stepDetail": "Eliminate Aegis SWAP Artillery"
+		},
+		{
+			"id": 9224,
+			"stepDetail": "Capture the position and eliminate the target:\n{0}/3"
+		},
+		{
+			"id": 9225,
+			"stepDetail": "Eliminate Aegis SWAP Bulwark: {0}/1"
+		},
+		{
+			"id": 9226,
+			"stepDetail": "Eliminate the Giordre: {0}/1"
+		},
+		{
+			"id": 9227,
+			"stepDetail": "If the enemy's position isn't captured, reinforcements will continue to appear"
+		},
+		{
+			"id": 9228,
+			"stepDetail": "Protect the heavy machine gun modules from being completely destroyed. Current damage: {0}/3"
+		},
+		{
+			"id": 9229,
+			"stepDetail": "Chassis Destruction Alert: {0}/5"
+		},
+		{
+			"id": 9230,
+			"stepDetail": "Chassis Destruction Alert: {0}/6"
+		},
+		{
+			"id": 9231,
+			"stepDetail": "Earn challenge points by defeating the boss:\n{0}/84000"
+		},
+		{
+			"id": 9232,
+			"stepDetail": "Earn challenge points by defeating the boss:\n{0}/99000"
+		},
+		{
+			"id": 9233,
+			"stepDetail": "Earn challenge points by defeating the boss:\n{0}/122000"
+		},
+		{
+			"id": 9234,
+			"stepDetail": "Defend the base"
+		},
+		{
+			"id": 9235,
+			"stepDetail": "Reach target area and rescue allies"
+		},
+		{
+			"id": 9236,
+			"stepDetail": "Escort all Desertor 07s to designated area"
+		},
+		{
+			"id": 9237,
+			"stepDetail": "Eliminate the Aegis SWAP Dominator: {0}/1"
+		},
+		{
+			"id": 9238,
+			"stepDetail": "Eliminate the Angriper: {0}/1"
+		},
+		{
+			"id": 9239,
+			"stepDetail": "Eliminate the Overfaller: {0}/1"
+		},
+		{
+			"id": 9240,
+			"stepDetail": "Protect allied Thoad"
+		},
+		{
+			"id": 9241,
+			"stepDetail": "Protect allied units for {0}/9 turns"
+		},
+		{
+			"id": 9242,
+			"stepDetail": "Upon eliminating the enemy elite unit, allied reinforcements will reach the battlefield"
+		},
+		{
+			"id": 9243,
+			"stepDetail": "Eliminate the Creepy Doll"
+		},
+		{
+			"id": 9244,
+			"stepDetail": "Score as many challenge points as possible within 10 turns"
+		},
+		{
+			"id": 9245,
+			"stepDetail": "Eliminate the Aegis SWAP Bulwark and open the escape route"
+		},
+		{
+			"id": 9246,
+			"stepDetail": "Eliminate the Aegis SWAP Bulwark and evacuate all allied units"
+		},
+		{
+			"id": 9247,
+			"stepDetail": "Protect the Aegis Bulwark for {0}/5 turns"
+		},
+		{
+			"id": 9248,
+			"stepDetail": "Eliminate all Aegis Skyfire and open the escape route"
+		},
+		{
+			"id": 9249,
+			"stepDetail": "Eliminate all Aegis Skyfire and evacuate all units"
+		},
+		{
+			"id": 9250,
+			"stepDetail": "Eliminate all enemy units before their turn starts {0}/3"
+		},
+		{
+			"id": 9251,
+			"stepDetail": "Eliminate {0}/3 target units and evacuate"
+		},
+		{
+			"id": 9252,
+			"stepDetail": "Reduce the enemies on the field to 4"
+		},
+		{
+			"id": 9253,
+			"stepDetail": "Protect the Svejk and survive for {0}/6 turns"
+		},
+		{
+			"id": 9254,
+			"stepDetail": "Hold the control point for 7 turns {0}/7"
+		},
+		{
+			"id": 9255,
+			"stepDetail": "Ultimatum: Eliminate 2 or more enemy units and reach the Evacuation Zone within {0}/3 turns"
+		},
+		{
+			"id": 9256,
+			"stepDetail": "Ultimatum: Eliminated {0}/2"
+		},
+		{
+			"id": 9257,
+			"stepDetail": "Reach the objective point first!"
+		},
+		{
+			"id": 9258,
+			"stepDetail": "Eliminate all enemy units"
+		},
+		{
+			"id": 9259,
+			"stepDetail": "Defend allied Control Point and take the enemy position"
+		},
+		{
+			"id": 9260,
+			"stepDetail": "Defend allied Control Point and eliminate all enemy units"
+		},
+		{
+			"id": 9261,
+			"stepDetail": "Survive the boss' attack"
+		},
+		{
+			"id": 9262,
+			"stepDetail": "Protect the allied heavy cargo"
+		},
+		{
+			"id": 9263,
+			"stepDetail": "Eliminate the Svejk: {0}/2"
+		},
+		{
+			"id": 9264,
+			"stepDetail": "Turns defended: {0}/5"
+		},
+		{
+			"id": 9265,
+			"stepDetail": "Defend the base and annihilate the enemies"
+		},
+		{
+			"id": 9266,
+			"stepDetail": "Eliminate the Production Expert"
+		},
+		{
+			"id": 9267,
+			"stepDetail": "Unlock server encryption area"
+		},
+		{
+			"id": 9268,
+			"stepDetail": "Unlock server encryption area: {0}/2"
+		},
+		{
+			"id": 9269,
+			"stepDetail": "Capture enemy base: {0}/2"
+		},
+		{
+			"id": 9270,
+			"stepDetail": "Control the enemy base within 8 turns"
+		},
+		{
+			"id": 9271,
+			"stepDetail": "Explore target area {0}/3"
+		},
+		{
+			"id": 9272,
+			"stepDetail": "Turns defended: {0}/6"
+		},
+		{
+			"id": 9273,
+			"stepDetail": "Reduce Scout Vanguard HP to below 30%"
+		},
+		{
+			"id": 9274,
+			"stepDetail": "Eliminate Aegis SWAP Myrmidon, Angriper, Scout SWAP: {0}/3"
+		},
+		{
+			"id": 9275,
+			"stepDetail": "Eliminate Bluesphere"
+		},
+		{
+			"id": 9276,
+			"stepDetail": "Eliminate the Tumorhynchus"
+		},
+		{
+			"id": 9277,
+			"stepDetail": "Eliminate the Tumorhynchus - Dread"
+		},
+		{
+			"id": 9278,
+			"stepDetail": "Eliminate the Tumorhynchus - Disaster and Tumorhynchus - Plague"
+		}
+	]
+}

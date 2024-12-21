@@ -1,0 +1,52 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "普通卡池",
+			"enName": "gacha_type_normal",
+			"sheet": "3,6,4,5"
+		},
+		{
+			"id": 2,
+			"name": "武器普通卡池",
+			"enName": "gacha_type_weapon_normal",
+			"sheet": "3,6,4"
+		},
+		{
+			"id": 3,
+			"name": "人形UP卡池",
+			"enName": "gacha_type_gun_up",
+			"sheet": "2,3,6,4"
+		},
+		{
+			"id": 4,
+			"name": "武器UP卡池",
+			"enName": "gacha_type_weapon_up",
+			"sheet": "2,3,6,4"
+		},
+		{
+			"id": 5,
+			"name": "新手卡池",
+			"enName": "gacha_type_novice",
+			"sheet": "3,6,4"
+		},
+		{
+			"id": 6,
+			"name": "人形自选UP",
+			"enName": "gacha_type_gun_up_optional",
+			"sheet": "2,3,6,4"
+		},
+		{
+			"id": 7,
+			"name": "武器自选UP",
+			"enName": "gacha_type_weapon_up_optional",
+			"sheet": "2,3,6,4"
+		},
+		{
+			"id": 8,
+			"name": "调度室卡池",
+			"enName": "gacha_type_control_room",
+			"sheet": "7,8,9"
+		}
+	]
+}

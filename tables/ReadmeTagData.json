@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"tagName": "Description",
+			"bannerName": "GachaBanner1",
+			"titleName": "New Gacha is here!",
+			"hintDetail": "Check out this new Gacha pool! It's cool as!",
+			"imgName": ""
+		},
+		{
+			"id": 2,
+			"tagName": "Info 2",
+			"titleName": "Just a random pic",
+			"imgName": "datu",
+			"hintDetail": "",
+			"bannerName": ""
+		},
+		{
+			"id": 3,
+			"tagName": "Welcome Message",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000Dear Commander, welcome to <b>GIRLS' FRONTLINE 2: EXILIUM</b>. \n\\u3000\\u3000In this simulation battle, you will take on the role of a bounty hunter and face various types of enemies. Please command your squad of T-Dolls to accomplish the mission objectives and secure victory. \n\\u3000\\u3000Please take note that by participating in this operation, you agree to allow IOP to collect your combat data for the development of T-Dolls. IOP and B.R.I.E.F. assure you that your private personal data will be protected. \n\\u3000\\u3000<b>To meet the requirements of tiered data screening, exceptional Commanders who complete all basic simulation battles will have the opportunity to challenge special missions. Stronger enemies await in these special missions, allowing you to showcase your skills.</b> \\u3000\\u3000<size=26><color=#ff4918>※The current version does not represent the final game quality.</color></size>",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 4,
+			"tagName": "Campaign Info",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000 First, you'll see the stage selection interface. In this screen, once you've chosen a stgae, you can view its detailed information on the right, such as: \n\n\\u3000\\u3000\\u3000\\u3000 1. Special Challenge Targets set for this battle \n\\u3000\\u3000\\u3000\\u3000 2. Enemy units encountered during this battle\n\\u3000\\u3000\\u3000\\u3000 3. Participation rewards received after the battle (provided and quality-assured by IOP)\n\n\\u3000\\u3000 As you advance through the battle, we'll be adding various new Dolls to your team to simulate the most true-to-life combat scenarios possible. You can view the detailed intelligence on the victory screen or the loot drop information.\"",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 5,
+			"tagName": "Campaign Deployment",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000You will enter the deployment screen before the battle. You can check battle intel and choose Dolls for the mission here.\n\\u3000\\u3000During the battle, you can issue commands to individual team members each turn, including but not limited to moving, attacking, standing by, and using special skills.\n\\u3000\\u3000Once entering the deployment screen, <b>Groza, the leader of the Doll team</b>, will brief you on the details.\n\n\\u3000\\u3000Make sure to coordinate your Dolls effectively to achieve victory <size=20>(and claim your rewards)</size>.\n\\u3000\\u3000Good luck.",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 6,
+			"tagName": "Challenge Task",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000Each simulation battle has three challenge missions. If you are defeated in battle, your progress will be reset and not recorded. <b>You must complete the mission challenges as you win the battle.</b> \n\\u3000\\u3000The completion rate of challenge missions do not affect your combat rating. You can complete the challenge missions over multiple battles.\n\\u3000\\u3000Please note that the completion rate of challenge missions do not restrict your access to subsequent battles. If you complete the challenge missions, IOP <size=20>may</size> consider giving extra rewards based on the quality of the additional combat data you provide.",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 7,
+			"tagName": "Summary",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000The \"Tactical Evaluation\" module is part of the \"Combat Simulation\" system, created by B.R.I.E.F. in collaboration with the Doll manufacturing industry led by IOP. Its primary purpose is to help B.R.I.E.F. understand the capabilities of various bounty hunter teams. \n\\u3000\\u3000As a bounty hunter, you can access the \"Tactical Evaluation\" module to verify and comprehensively assess your skill levels. \n\\u3000\\u3000Based on your performance in this module, B.R.I.E.F. will also recommend orders that match your team's capabilities.",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 8,
+			"tagName": "Challenge Vouchers",
+			"titleName": "",
+			"hintDetail": "\\u3000\\u3000After completing the battle, B.R.I.E.F. will record the completion information of the participating commander. This information is recorded only once. Passing means you are sufficiently capable and do not need to be tested again. \n\\u3000\\u3000Once your battle completion information is obtained, B.R.I.E.F. staff will compile it and compare it with the order information gathered from various sources. Each battle participation requires the consumption of vouchers for registration. \n\\u3000\\u3000Participation vouchers are updated at a fixed time every day. During the update, any unused vouchers from the previous day will be automatically destroyed, and a small compensation will be provided based on the number of destroyed vouchers. The compensation will be sent via mail, so please remember to check your mail. \n\\u3000\\u3000If you are eager to prove your abilities, you can also purchase these vouchers from underground brokers to increase your daily challenge attempts.",
+			"bannerName": "",
+			"imgName": ""
+		},
+		{
+			"id": 9,
+			"tagName": "Effectiveness Details",
+			"titleName": "",
+			"hintDetail": "Effectiveness is determined by the average effectiveness of each growth data group plus the effectiveness of the energy core. In Boundary Push battles, damage dealt or received will be adjusted based on the effectiveness gap between you and the enemy.",
+			"bannerName": "",
+			"imgName": ""
+		}
+	]
+}

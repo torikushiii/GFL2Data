@@ -1,0 +1,409 @@
+{
+	"data": [
+		{
+			"stageId": 20111,
+			"requireDesc": "Be the first to reach target score.",
+			"reward": {
+				"1": 80,
+				"2": 4000,
+				"110201": 2
+			}
+		},
+		{
+			"stageId": 20121,
+			"requireDesc": "Protect allies and eliminate all targets.",
+			"reward": {
+				"1": 80,
+				"2": 4000,
+				"110201": 2
+			}
+		},
+		{
+			"stageId": 20131,
+			"requireDesc": "Pick up the item and evacuate.",
+			"reward": {
+				"1": 80,
+				"2": 4000,
+				"110201": 2
+			}
+		},
+		{
+			"stageId": 20141,
+			"requireDesc": "Evacuate everyone.",
+			"reward": {
+				"1": 80,
+				"2": 4000,
+				"110201": 2
+			}
+		},
+		{
+			"stageId": 20151,
+			"requireDesc": "Eliminate all targets.",
+			"reward": {
+				"1": 80,
+				"2": 4000,
+				"110201": 2
+			}
+		},
+		{
+			"stageId": 20211,
+			"requireDesc": "Eliminate the target within the time limit and defend the base.",
+			"reward": {
+				"1": 80,
+				"2": 5000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20221,
+			"requireDesc": "Capture and defend the position.",
+			"reward": {
+				"1": 80,
+				"2": 5000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20231,
+			"requireDesc": "Capture and defend the target location while eliminating the target.",
+			"reward": {
+				"1": 80,
+				"2": 5000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20241,
+			"requireDesc": "Sneak in, eliminate the target, then evacuate.",
+			"reward": {
+				"1": 80,
+				"2": 5000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20251,
+			"requireDesc": "Eliminate the target and evacuate.",
+			"reward": {
+				"1": 80,
+				"2": 5000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20311,
+			"requireDesc": "Defend the base and eliminate all targets.",
+			"reward": {
+				"1": 80,
+				"2": 6000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20321,
+			"requireDesc": "Rescue and escort the target.",
+			"reward": {
+				"1": 80,
+				"2": 6000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20331,
+			"requireDesc": "Activate the mechanism to open the path and eliminate the Giordre and the Angriper.",
+			"reward": {
+				"1": 80,
+				"2": 6000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20341,
+			"requireDesc": "Rescue and escort the target.",
+			"reward": {
+				"1": 80,
+				"2": 6000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20351,
+			"requireDesc": "Defend the base and eliminate all targets.",
+			"reward": {
+				"1": 80,
+				"2": 6000,
+				"110201": 3
+			}
+		},
+		{
+			"stageId": 20411,
+			"requireDesc": "Eliminate the target.",
+			"reward": {
+				"1": 100,
+				"2": 8000,
+				"110201": 4
+			}
+		},
+		{
+			"stageId": 20421,
+			"requireDesc": "Be the first to reach target score.",
+			"reward": {
+				"1": 100,
+				"2": 8000,
+				"110201": 4
+			}
+		},
+		{
+			"stageId": 20431,
+			"requireDesc": "Eliminate all targets.",
+			"reward": {
+				"1": 100,
+				"2": 8000,
+				"110201": 4
+			}
+		},
+		{
+			"stageId": 20441,
+			"requireDesc": "Retrieve the supplies and eliminate all targets.",
+			"reward": {
+				"1": 100,
+				"2": 8000,
+				"110201": 4
+			}
+		},
+		{
+			"stageId": 20451,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 100,
+				"2": 8000,
+				"110201": 4
+			}
+		},
+		{
+			"stageId": 20511,
+			"requireDesc": "Eliminate the Giordre and escort the target.",
+			"reward": {
+				"1": 120,
+				"2": 10000,
+				"110201": 5
+			}
+		},
+		{
+			"stageId": 20521,
+			"requireDesc": "Capture the base and eliminate the target.",
+			"reward": {
+				"1": 120,
+				"2": 10000,
+				"110201": 5
+			}
+		},
+		{
+			"stageId": 20531,
+			"requireDesc": "Capture and hold the base for 6 turns.",
+			"reward": {
+				"1": 120,
+				"2": 10000,
+				"110201": 5
+			}
+		},
+		{
+			"stageId": 20541,
+			"requireDesc": "Hold the designated area, capture target location, and eliminate all targets.",
+			"reward": {
+				"1": 120,
+				"2": 10000,
+				"110201": 5
+			}
+		},
+		{
+			"stageId": 20551,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 120,
+				"2": 10000,
+				"110201": 5
+			}
+		},
+		{
+			"stageId": 20611,
+			"requireDesc": "Evacuate",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"110201": 6
+			}
+		},
+		{
+			"stageId": 20621,
+			"requireDesc": "Be the first to reach target score.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"110201": 6
+			}
+		},
+		{
+			"stageId": 20631,
+			"requireDesc": "Eliminate the target and evacuate.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"110201": 6
+			}
+		},
+		{
+			"stageId": 20641,
+			"requireDesc": "Rescue and escort the target.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"110201": 6
+			}
+		},
+		{
+			"stageId": 20651,
+			"requireDesc": "Eliminate the target and evacuate.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"110201": 6
+			}
+		},
+		{
+			"stageId": 20711,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20721,
+			"requireDesc": "Set up the dyna boxes and defend the area.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20731,
+			"requireDesc": "Eliminate all targets.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20741,
+			"requireDesc": "Acquire authorizations and evacuate.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20751,
+			"requireDesc": "Capture and defend the position.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20811,
+			"requireDesc": "Protect allies and capture all the bases.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20821,
+			"requireDesc": "Eliminate the target and evacuate.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20831,
+			"requireDesc": "Defend the position.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20841,
+			"requireDesc": "Eliminate the target.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20851,
+			"requireDesc": "Rescue and escort the target to safety.",
+			"reward": {
+				"1": 150,
+				"2": 12000,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20911,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 180,
+				"2": 14400,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20921,
+			"requireDesc": "Defend the base",
+			"reward": {
+				"1": 180,
+				"2": 14400,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20931,
+			"requireDesc": "Eliminate the target",
+			"reward": {
+				"1": 180,
+				"2": 14400,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20941,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 180,
+				"2": 14400,
+				"131501": 6
+			}
+		},
+		{
+			"stageId": 20951,
+			"requireDesc": "Eliminate all enemies.",
+			"reward": {
+				"1": 180,
+				"2": 14400,
+				"131501": 6
+			}
+		}
+	]
+}

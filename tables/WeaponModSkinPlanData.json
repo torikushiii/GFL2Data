@@ -1,0 +1,212 @@
+{
+	"data": [
+		{
+			"typeId": 1,
+			"name": "HG",
+			"skinNum": [
+				1,
+				2
+			],
+			"modMount1": [
+				2041
+			],
+			"modMount2": [
+				1031,
+				1032,
+				1012
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
+			"modMount3": [],
+			"modMount4": []
+		},
+		{
+			"typeId": 2,
+			"name": "SMG",
+			"skinNum": [
+				1,
+				2,
+				3,
+				4
+			],
+			"modMount1": [
+				2011,
+				2012
+			],
+			"modMount2": [
+				1011,
+				1012,
+				1013
+			],
+			"modMount3": [
+				12011,
+				12012
+			],
+			"modMount4": [
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "Grip Skin",
+			"o_MPHFFILLALG": "Underbarrel Skin",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
+		},
+		{
+			"typeId": 3,
+			"name": "RF",
+			"skinNum": [
+				1,
+				2,
+				3,
+				4
+			],
+			"modMount1": [
+				2021,
+				2022,
+				2031
+			],
+			"modMount2": [
+				1021,
+				1012
+			],
+			"modMount3": [
+				13011,
+				13012
+			],
+			"modMount4": [
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "Bipod Skin",
+			"o_MPHFFILLALG": "Underbarrel Skin",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
+		},
+		{
+			"typeId": 4,
+			"name": "AR",
+			"skinNum": [
+				1,
+				2,
+				3,
+				4
+			],
+			"modMount1": [
+				2011,
+				2012
+			],
+			"modMount2": [
+				1011,
+				1012,
+				1013
+			],
+			"modMount3": [
+				12011,
+				12012
+			],
+			"modMount4": [
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "Grip Skin",
+			"o_MPHFFILLALG": "Underbarrel Skin",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
+		},
+		{
+			"typeId": 5,
+			"name": "MG",
+			"skinNum": [
+				1,
+				2,
+				3,
+				4
+			],
+			"modMount1": [
+				2021,
+				2022,
+				2031
+			],
+			"modMount2": [
+				1011,
+				1012,
+				1013
+			],
+			"modMount3": [
+				13011,
+				13012
+			],
+			"modMount4": [
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "Bipod Skin",
+			"o_MPHFFILLALG": "Underbarrel Skin",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
+		},
+		{
+			"typeId": 6,
+			"name": "SG",
+			"skinNum": [
+				1,
+				2
+			],
+			"modMount1": [
+				2031
+			],
+			"modMount2": [
+				1031,
+				1032,
+				1012
+			],
+			"o_OCJLECBCKPO": "Muzzle Skin",
+			"o_NGJMFIMLINM": "Sight Skin",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
+			"modMount3": [],
+			"modMount4": []
+		},
+		{
+			"typeId": 7,
+			"name": "Special Weapon",
+			"skinNum": [
+				1
+			],
+			"modMount1": [
+				4011
+			],
+			"o_OCJLECBCKPO": "Edge Skin",
+			"o_NGJMFIMLINM": "",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
+			"modMount2": [],
+			"modMount3": [],
+			"modMount4": []
+		}
+	]
+}

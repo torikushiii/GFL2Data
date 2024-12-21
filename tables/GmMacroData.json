@@ -1,0 +1,564 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": "升级类",
+			"name": "全角色一键6星",
+			"arg": "ReachCounter@200@1@[10184,1,1,0]|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1013@1|SendItem@1033@1|SendItem@1034@1|SendItem@1035@1|SendItem@1036@1|SendItem@1038@1|GunGradeUp@1001@6|GunGradeUp@1008@6|GunGradeUp@1009@6|GunGradeUp@1015@6|GunGradeUp@1017@6|GunGradeUp@1021@6|GunGradeUp@1022@6|GunGradeUp@1024@6|GunGradeUp@1025@6|GunGradeUp1029@6|GunGradeUp@1026@6|GunGradeUp@1027@6|GunGradeUp@1028@6|GunGradeUp@1032@6|GunGradeUp@1013@6|GunGradeUp@1033@6|GunGradeUp@1034@6|GunGradeUp@1035@6|GunGradeUp@1036@6|GunGradeUp@1038@6",
+			"argClient": ""
+		},
+		{
+			"id": 2,
+			"type": "发道具类",
+			"name": "发金币10000000",
+			"arg": "SendItem@2@10000000",
+			"argClient": ""
+		},
+		{
+			"id": 3,
+			"type": "发道具类",
+			"name": "发晶条10000000",
+			"arg": "SendItem@1@10000000",
+			"argClient": ""
+		},
+		{
+			"id": 4,
+			"type": "升级类",
+			"name": "指挥官一键升到30级",
+			"arg": "SetLevelExp@30",
+			"argClient": ""
+		},
+		{
+			"id": 5,
+			"type": "升级类",
+			"name": "指挥官一键升到60级",
+			"arg": "SetLevelExp@60",
+			"argClient": ""
+		},
+		{
+			"id": 6,
+			"type": "系统测试",
+			"name": "一键开暗行",
+			"arg": "ReachCounter@200@1@[10106,1,1,0]",
+			"argClient": ""
+		},
+		{
+			"id": 7,
+			"type": "系统测试",
+			"name": "一键开PVP",
+			"arg": "ReachCounter@200@1@[10210,1,1,0]",
+			"argClient": ""
+		},
+		{
+			"id": 8,
+			"type": "解锁类",
+			"name": "档案室-剧情解锁测试",
+			"argClient": "UnlockRecordroomPlot@1010110|UnlockRecordroomPlot@1018101|UnlockRecordroomPlot@1010111|UnlockRecordroomPlot@1010211|UnlockRecordroomPlot@1010231|UnlockRecordroomPlot@1010311",
+			"arg": ""
+		},
+		{
+			"id": 9,
+			"type": "解锁类",
+			"name": "档案室-插画解锁测试",
+			"argClient": "UnlockRecordroomCG@1018101|UnlockRecordroomCG@1018301|",
+			"arg": ""
+		},
+		{
+			"id": 10,
+			"type": "升级类",
+			"name": "全角色一键满天赋",
+			"arg": "SetLevelExp@30|ReachCounter@200@1@[10184,1,1,0]|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|TalentRecursiveTree@1001@1001010001|TalentRecursiveTree@1008@1002010001|TalentRecursiveTree@1009@1003010001|TalentRecursiveTree@1015@1004010001|TalentRecursiveTree@1017@1005010001|TalentRecursiveTree@1021@1009010001|TalentRecursiveTree@1022@1006010001|TalentRecursiveTree@1024@1010010001|TalentRecursiveTree@1025@1011010001|TalentRecursiveTree@1029@1015010001|TalentRecursiveTree@1026@1012010001|TalentRecursiveTree@1027@1013010001|TalentRecursiveTree@1028@1014010001|TalentRecursiveTree@1032@1016010001|TalentRecursiveTree@1001@1001010002|TalentRecursiveTree@1008@1002010002|TalentRecursiveTree@1009@1003010002|TalentRecursiveTree@1015@1004010002|TalentRecursiveTree@1017@1005010002|TalentRecursiveTree@1021@1009010002|TalentRecursiveTree@1022@1006010002|TalentRecursiveTree@1024@1010010002|TalentRecursiveTree@1025@1011010002|TalentRecursiveTree@1029@1015010002|TalentRecursiveTree@1026@1012010002|TalentRecursiveTree@1027@1013010002|TalentRecursiveTree@1028@1014010002|TalentRecursiveTree@1032@1016010002|TalentRecursiveTree@1001@1001010003|TalentRecursiveTree@1008@1002010003|TalentRecursiveTree@1009@1003010003|TalentRecursiveTree@1015@1004010003|TalentRecursiveTree@1017@1005010003|TalentRecursiveTree@1021@1009010003|TalentRecursiveTree@1022@1006010003|TalentRecursiveTree@1024@1010010003|TalentRecursiveTree@1025@1011010003|TalentRecursiveTree@1029@1015010003|TalentRecursiveTree@1026@1012010003|TalentRecursiveTree@1027@1013010003|TalentRecursiveTree@1028@1014010003|TalentRecursiveTree@1032@1016010003",
+			"argClient": ""
+		},
+		{
+			"id": 11,
+			"type": "系统测试",
+			"name": "教学本解锁(废弃)",
+			"arg": "ReachCounter@200@1@[10110,1,1,0]",
+			"argClient": ""
+		},
+		{
+			"id": 12,
+			"type": "系统测试",
+			"name": "第一章",
+			"arg": "ReachCounter@200@1@[10110,1,1,0]|SimCombatRecursiveTutorial@40126|ReachCounter@200@1@[40121,1,1,0]|ReachCounter@200@1@[40122,1,1,0]|ReachCounter@200@1@[40123,1,1,0]|ReachCounter@200@1@[40124,1,1,0]|ReachCounter@200@1@[40125,1,1,0]|ReachCounter@200@1@[40126,1,1,0]",
+			"argClient": ""
+		},
+		{
+			"id": 13,
+			"type": "系统测试",
+			"name": "第二章",
+			"arg": "ReachCounter@200@1@[10110,1,1,0]|SimCombatRecursiveTutorial@40112",
+			"argClient": ""
+		},
+		{
+			"id": 14,
+			"type": "系统测试",
+			"name": "第三章+解谜本解锁",
+			"arg": "ReachCounter@200@1@[10110,1,1,0]|SimCombatRecursiveTutorial@40133",
+			"argClient": ""
+		},
+		{
+			"id": 15,
+			"type": "系统测试",
+			"name": "解谜本全过",
+			"arg": "ReachCounter@200@1@[10110,1,1,0]|SimCombatRecursiveTutorial@40133|SimCombatRecursiveTutorial@40213|SimCombatRecursiveTutorial@40223|SimCombatRecursiveTutorial@40233|SimCombatRecursiveTutorial@40253",
+			"argClient": ""
+		},
+		{
+			"id": 16,
+			"type": "一键类",
+			"name": "全解锁(full|character|test)",
+			"arg": "UpdateAge@{\"data\":18}|SetLevelExp@60|UnlockAllSystem|StoryRecursiveFinished|ChapterRecursiveFinished|SkipTutorialGroup|ReachCounter@200@1@[10110,1,1,-1]|ReachCounter@200@1@[10285,1,1,-1]|ReachCounter@200@1@[10310,1,1,-1]|ReachCounter@200@1@[10486,1,1,-1]|ReachCounter@200@1@[10510,1,1,-1]|ReachCounter@200@1@[10610,1,1,-1]|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1",
+			"argClient": ""
+		},
+		{
+			"id": 17,
+			"type": "升级类",
+			"name": "全角色一键5级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@5|CharacterLevelUp@2@5|CharacterLevelUp@3@5|CharacterLevelUp@4@5|CharacterLevelUp@5@5|CharacterLevelUp@6@5|CharacterLevelUp@7@5|CharacterLevelUp@8@5|CharacterLevelUp@9@5|CharacterLevelUp@10@5|CharacterLevelUp@11@5|CharacterLevelUp@12@5|CharacterLevelUp@13@5|CharacterLevelUp@14@5|CharacterLevelUp@15@5|CharacterLevelUp@16@5|CharacterLevelUp@18@5|CharacterLevelUp@19@5|CharacterLevelUp@20@5|CharacterLevelUp@21@5|CharacterLevelUp@22@5|CharacterLevelUp@23@5|CharacterLevelUp@24@5|CharacterLevelUp@25@5|CharacterLevelUp@26@5|CharacterLevelUp@27@5|CharacterLevelUp@28@5|CharacterLevelUp@29@5|CharacterLevelUp@30@5|CharacterLevelUp@31@5|CharacterLevelUp@32@5|CharacterLevelUp@33@5|CharacterLevelUp@34@5|CharacterLevelUp@35@5|CharacterLevelUp@36@5|CharacterLevelUp@37@5",
+			"argClient": ""
+		},
+		{
+			"id": 18,
+			"type": "升级类",
+			"name": "全角色一键6级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@6|CharacterLevelUp@2@6|CharacterLevelUp@3@6|CharacterLevelUp@4@6|CharacterLevelUp@5@6|CharacterLevelUp@6@6|CharacterLevelUp@7@6|CharacterLevelUp@8@6|CharacterLevelUp@9@6|CharacterLevelUp@10@6|CharacterLevelUp@11@6|CharacterLevelUp@12@6|CharacterLevelUp@13@6|CharacterLevelUp@14@6|CharacterLevelUp@15@6|CharacterLevelUp@16@6|CharacterLevelUp@18@6|CharacterLevelUp@19@6|CharacterLevelUp@20@6|CharacterLevelUp@21@6|CharacterLevelUp@22@6|CharacterLevelUp@23@6|CharacterLevelUp@24@6|CharacterLevelUp@25@6|CharacterLevelUp@26@6|CharacterLevelUp@27@6|CharacterLevelUp@28@6|CharacterLevelUp@29@6|CharacterLevelUp@30@6|CharacterLevelUp@31@6|CharacterLevelUp@32@6|CharacterLevelUp@33@6|CharacterLevelUp@34@6|CharacterLevelUp@35@6|CharacterLevelUp@36@6|CharacterLevelUp@37@6",
+			"argClient": ""
+		},
+		{
+			"id": 19,
+			"type": "升级类",
+			"name": "全角色一键10级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@10|CharacterLevelUp@2@10|CharacterLevelUp@3@10|CharacterLevelUp@4@10|CharacterLevelUp@5@10|CharacterLevelUp@6@10|CharacterLevelUp@7@10|CharacterLevelUp@8@10|CharacterLevelUp@9@10|CharacterLevelUp@10@10|CharacterLevelUp@11@10|CharacterLevelUp@12@10|CharacterLevelUp@13@10|CharacterLevelUp@14@10|CharacterLevelUp@15@10|CharacterLevelUp@16@10|CharacterLevelUp@18@10|CharacterLevelUp@19@10|CharacterLevelUp@20@10|CharacterLevelUp@21@10|CharacterLevelUp@22@10|CharacterLevelUp@23@10|CharacterLevelUp@24@10|CharacterLevelUp@25@10|CharacterLevelUp@26@10|CharacterLevelUp@27@10|CharacterLevelUp@28@10|CharacterLevelUp@29@10|CharacterLevelUp@30@10|CharacterLevelUp@31@10|CharacterLevelUp@32@10|CharacterLevelUp@33@10|CharacterLevelUp@34@10|CharacterLevelUp@35@10|CharacterLevelUp@36@10|CharacterLevelUp@37@10",
+			"argClient": ""
+		},
+		{
+			"id": 20,
+			"type": "升级类",
+			"name": "全角色一键15级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@15|CharacterLevelUp@2@15|CharacterLevelUp@3@15|CharacterLevelUp@4@15|CharacterLevelUp@5@15|CharacterLevelUp@6@15|CharacterLevelUp@7@15|CharacterLevelUp@8@15|CharacterLevelUp@9@15|CharacterLevelUp@10@15|CharacterLevelUp@11@15|CharacterLevelUp@12@15|CharacterLevelUp@13@15|CharacterLevelUp@14@15|CharacterLevelUp@15@15|CharacterLevelUp@16@15|CharacterLevelUp@18@15|CharacterLevelUp@19@15|CharacterLevelUp@20@15|CharacterLevelUp@21@15|CharacterLevelUp@22@15|CharacterLevelUp@23@15|CharacterLevelUp@24@15|CharacterLevelUp@25@15|CharacterLevelUp@26@15|CharacterLevelUp@27@15|CharacterLevelUp@28@15|CharacterLevelUp@29@15|CharacterLevelUp@30@15|CharacterLevelUp@31@15|CharacterLevelUp@32@15|CharacterLevelUp@33@15|CharacterLevelUp@34@15|CharacterLevelUp@35@15|CharacterLevelUp@36@15|CharacterLevelUp@37@15",
+			"argClient": ""
+		},
+		{
+			"id": 21,
+			"type": "升级类",
+			"name": "全角色一键20级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@20|CharacterLevelUp@2@20|CharacterLevelUp@3@20|CharacterLevelUp@4@20|CharacterLevelUp@5@20|CharacterLevelUp@6@20|CharacterLevelUp@7@20|CharacterLevelUp@8@20|CharacterLevelUp@9@20|CharacterLevelUp@10@20|CharacterLevelUp@11@20|CharacterLevelUp@12@20|CharacterLevelUp@13@20|CharacterLevelUp@14@20|CharacterLevelUp@15@20|CharacterLevelUp@16@20|CharacterLevelUp@18@20|CharacterLevelUp@19@20|CharacterLevelUp@20@20|CharacterLevelUp@21@20|CharacterLevelUp@22@20|CharacterLevelUp@23@20|CharacterLevelUp@24@20|CharacterLevelUp@25@20|CharacterLevelUp@26@20|CharacterLevelUp@27@20|CharacterLevelUp@28@20|CharacterLevelUp@29@20|CharacterLevelUp@30@20|CharacterLevelUp@31@20|CharacterLevelUp@32@20|CharacterLevelUp@33@20|CharacterLevelUp@34@20|CharacterLevelUp@35@20|CharacterLevelUp@36@20|CharacterLevelUp@37@20",
+			"argClient": ""
+		},
+		{
+			"id": 22,
+			"type": "升级类",
+			"name": "全角色一键25级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@25|CharacterLevelUp@2@25|CharacterLevelUp@3@25|CharacterLevelUp@4@25|CharacterLevelUp@5@25|CharacterLevelUp@6@25|CharacterLevelUp@7@25|CharacterLevelUp@8@25|CharacterLevelUp@9@25|CharacterLevelUp@10@25|CharacterLevelUp@11@25|CharacterLevelUp@12@25|CharacterLevelUp@13@25|CharacterLevelUp@14@25|CharacterLevelUp@15@25|CharacterLevelUp@16@25|CharacterLevelUp@18@25|CharacterLevelUp@19@25|CharacterLevelUp@20@25|CharacterLevelUp@21@25|CharacterLevelUp@22@25|CharacterLevelUp@23@25|CharacterLevelUp@24@25|CharacterLevelUp@25@25|CharacterLevelUp@26@25|CharacterLevelUp@27@25|CharacterLevelUp@28@25|CharacterLevelUp@29@25|CharacterLevelUp@30@25|CharacterLevelUp@31@25|CharacterLevelUp@32@25|CharacterLevelUp@33@25|CharacterLevelUp@34@25|CharacterLevelUp@35@25|CharacterLevelUp@36@25|CharacterLevelUp@37@25",
+			"argClient": ""
+		},
+		{
+			"id": 23,
+			"type": "升级类",
+			"name": "全角色一键30级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@30|CharacterLevelUp@2@30|CharacterLevelUp@3@30|CharacterLevelUp@4@30|CharacterLevelUp@5@30|CharacterLevelUp@6@30|CharacterLevelUp@7@30|CharacterLevelUp@8@30|CharacterLevelUp@9@30|CharacterLevelUp@10@30|CharacterLevelUp@11@30|CharacterLevelUp@12@30|CharacterLevelUp@13@30|CharacterLevelUp@14@30|CharacterLevelUp@15@30|CharacterLevelUp@16@30|CharacterLevelUp@18@30|CharacterLevelUp@19@30|CharacterLevelUp@20@30|CharacterLevelUp@21@30|CharacterLevelUp@22@30|CharacterLevelUp@23@30|CharacterLevelUp@24@30|CharacterLevelUp@25@30|CharacterLevelUp@26@30|CharacterLevelUp@27@30|CharacterLevelUp@28@30|CharacterLevelUp@29@30|CharacterLevelUp@30@30|CharacterLevelUp@31@30|CharacterLevelUp@32@30|CharacterLevelUp@33@30|CharacterLevelUp@34@30|CharacterLevelUp@35@30|CharacterLevelUp@36@30|CharacterLevelUp@37@30",
+			"argClient": ""
+		},
+		{
+			"id": 24,
+			"type": "升级类",
+			"name": "全角色一键35级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@35|CharacterLevelUp@2@35|CharacterLevelUp@3@35|CharacterLevelUp@4@35|CharacterLevelUp@5@35|CharacterLevelUp@6@35|CharacterLevelUp@7@35|CharacterLevelUp@8@35|CharacterLevelUp@9@35|CharacterLevelUp@10@35|CharacterLevelUp@11@35|CharacterLevelUp@12@35|CharacterLevelUp@13@35|CharacterLevelUp@14@35|CharacterLevelUp@15@35|CharacterLevelUp@16@35|CharacterLevelUp@18@35|CharacterLevelUp@19@35|CharacterLevelUp@20@35|CharacterLevelUp@21@35|CharacterLevelUp@22@35|CharacterLevelUp@23@35|CharacterLevelUp@24@35|CharacterLevelUp@25@35|CharacterLevelUp@26@35|CharacterLevelUp@27@35|CharacterLevelUp@28@35|CharacterLevelUp@29@35|CharacterLevelUp@30@35|CharacterLevelUp@31@35|CharacterLevelUp@32@35|CharacterLevelUp@33@35|CharacterLevelUp@34@35|CharacterLevelUp@35@35|CharacterLevelUp@36@35|CharacterLevelUp@37@35",
+			"argClient": ""
+		},
+		{
+			"id": 25,
+			"type": "升级类",
+			"name": "全角色一键40级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@40|CharacterLevelUp@2@40|CharacterLevelUp@3@40|CharacterLevelUp@4@40|CharacterLevelUp@5@40|CharacterLevelUp@6@40|CharacterLevelUp@7@40|CharacterLevelUp@8@40|CharacterLevelUp@9@40|CharacterLevelUp@10@40|CharacterLevelUp@11@40|CharacterLevelUp@12@40|CharacterLevelUp@13@40|CharacterLevelUp@14@40|CharacterLevelUp@15@40|CharacterLevelUp@16@40|CharacterLevelUp@18@40|CharacterLevelUp@19@40|CharacterLevelUp@20@40|CharacterLevelUp@21@40|CharacterLevelUp@22@40|CharacterLevelUp@23@40|CharacterLevelUp@24@40|CharacterLevelUp@25@40|CharacterLevelUp@26@40|CharacterLevelUp@27@40|CharacterLevelUp@28@40|CharacterLevelUp@29@40|CharacterLevelUp@30@40|CharacterLevelUp@31@40|CharacterLevelUp@32@40|CharacterLevelUp@33@40|CharacterLevelUp@34@40|CharacterLevelUp@35@40|CharacterLevelUp@36@40|CharacterLevelUp@37@40",
+			"argClient": ""
+		},
+		{
+			"id": 26,
+			"type": "升级类",
+			"name": "全角色一键45级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@45|CharacterLevelUp@2@45|CharacterLevelUp@3@45|CharacterLevelUp@4@45|CharacterLevelUp@5@45|CharacterLevelUp@6@45|CharacterLevelUp@7@45|CharacterLevelUp@8@45|CharacterLevelUp@9@45|CharacterLevelUp@10@45|CharacterLevelUp@11@45|CharacterLevelUp@12@45|CharacterLevelUp@13@45|CharacterLevelUp@14@45|CharacterLevelUp@15@45|CharacterLevelUp@16@45|CharacterLevelUp@18@45|CharacterLevelUp@19@45|CharacterLevelUp@20@45|CharacterLevelUp@21@45|CharacterLevelUp@22@45|CharacterLevelUp@23@45|CharacterLevelUp@24@45|CharacterLevelUp@25@45|CharacterLevelUp@26@45|CharacterLevelUp@27@45|CharacterLevelUp@28@45|CharacterLevelUp@29@45|CharacterLevelUp@30@45|CharacterLevelUp@31@45|CharacterLevelUp@32@45|CharacterLevelUp@33@45|CharacterLevelUp@34@45|CharacterLevelUp@35@45|CharacterLevelUp@36@45|CharacterLevelUp@37@45",
+			"argClient": ""
+		},
+		{
+			"id": 27,
+			"type": "升级类",
+			"name": "全角色一键50级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@50|CharacterLevelUp@2@50|CharacterLevelUp@3@50|CharacterLevelUp@4@50|CharacterLevelUp@5@50|CharacterLevelUp@6@50|CharacterLevelUp@7@50|CharacterLevelUp@8@50|CharacterLevelUp@9@50|CharacterLevelUp@10@50|CharacterLevelUp@11@50|CharacterLevelUp@12@50|CharacterLevelUp@13@50|CharacterLevelUp@14@50|CharacterLevelUp@15@50|CharacterLevelUp@16@50|CharacterLevelUp@18@50|CharacterLevelUp@19@50|CharacterLevelUp@20@50|CharacterLevelUp@21@50|CharacterLevelUp@22@50|CharacterLevelUp@23@50|CharacterLevelUp@24@50|CharacterLevelUp@25@50|CharacterLevelUp@26@50|CharacterLevelUp@27@50|CharacterLevelUp@28@50|CharacterLevelUp@29@50|CharacterLevelUp@30@50|CharacterLevelUp@31@50|CharacterLevelUp@32@50|CharacterLevelUp@33@50|CharacterLevelUp@34@50|CharacterLevelUp@35@50|CharacterLevelUp@36@50|CharacterLevelUp@37@50",
+			"argClient": ""
+		},
+		{
+			"id": 28,
+			"type": "升级类",
+			"name": "全角色一键55级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@55|CharacterLevelUp@2@55|CharacterLevelUp@3@55|CharacterLevelUp@4@55|CharacterLevelUp@5@55|CharacterLevelUp@6@55|CharacterLevelUp@7@55|CharacterLevelUp@8@55|CharacterLevelUp@9@55|CharacterLevelUp@10@55|CharacterLevelUp@11@55|CharacterLevelUp@12@55|CharacterLevelUp@13@55|CharacterLevelUp@14@55|CharacterLevelUp@15@55|CharacterLevelUp@16@55|CharacterLevelUp@18@55|CharacterLevelUp@19@55|CharacterLevelUp@20@55|CharacterLevelUp@21@55|CharacterLevelUp@22@55|CharacterLevelUp@23@55|CharacterLevelUp@24@55|CharacterLevelUp@25@55|CharacterLevelUp@26@55|CharacterLevelUp@27@55|CharacterLevelUp@28@55|CharacterLevelUp@29@55|CharacterLevelUp@30@55|CharacterLevelUp@31@55|CharacterLevelUp@32@55|CharacterLevelUp@33@55|CharacterLevelUp@34@55|CharacterLevelUp@35@55|CharacterLevelUp@36@55|CharacterLevelUp@37@55",
+			"argClient": ""
+		},
+		{
+			"id": 29,
+			"type": "升级类",
+			"name": "全角色一键60级",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1|CharacterClassUp@1@1|CharacterClassUp@2@1|CharacterClassUp@3@1|CharacterClassUp@4@1|CharacterClassUp@5@1|CharacterClassUp@6@1|CharacterClassUp@7@1|CharacterClassUp@8@1|CharacterClassUp@9@1|CharacterClassUp@10@1|CharacterClassUp@11@1|CharacterClassUp@12@1|CharacterClassUp@13@1|CharacterClassUp@14@1|CharacterClassUp@15@1|CharacterClassUp@16@1|CharacterClassUp@18@1|CharacterClassUp@19@1|CharacterClassUp@20@1|CharacterClassUp@21@1|CharacterClassUp@22@1|CharacterClassUp@23@1|CharacterClassUp@24@1|CharacterClassUp@25@1|CharacterClassUp@26@1|CharacterClassUp@27@1|CharacterClassUp@28@1|CharacterClassUp@29@1|CharacterClassUp@30@1|CharacterClassUp@31@1|CharacterClassUp@32@1|CharacterClassUp@33@1|CharacterClassUp@34@1|CharacterClassUp@35@1|CharacterClassUp@36@1|CharacterClassUp@37@1|CharacterLevelUp@1@60|CharacterLevelUp@2@60|CharacterLevelUp@3@60|CharacterLevelUp@4@60|CharacterLevelUp@5@60|CharacterLevelUp@6@60|CharacterLevelUp@7@60|CharacterLevelUp@8@60|CharacterLevelUp@9@60|CharacterLevelUp@10@60|CharacterLevelUp@11@60|CharacterLevelUp@12@60|CharacterLevelUp@13@60|CharacterLevelUp@14@60|CharacterLevelUp@15@60|CharacterLevelUp@16@60|CharacterLevelUp@18@60|CharacterLevelUp@19@60|CharacterLevelUp@20@60|CharacterLevelUp@21@60|CharacterLevelUp@22@60|CharacterLevelUp@23@60|CharacterLevelUp@24@60|CharacterLevelUp@25@60|CharacterLevelUp@26@60|CharacterLevelUp@27@60|CharacterLevelUp@28@60|CharacterLevelUp@29@60|CharacterLevelUp@30@60|CharacterLevelUp@31@60|CharacterLevelUp@32@60|CharacterLevelUp@33@60|CharacterLevelUp@34@60|CharacterLevelUp@35@60|CharacterLevelUp@36@60|CharacterLevelUp@37@60",
+			"argClient": ""
+		},
+		{
+			"id": 30,
+			"type": "一键类",
+			"name": "全角色全天赋解锁",
+			"arg": "UnlockAllSystem|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1017@1|SendItem@1024@1|TalentRecursiveTree@1001@1001010001|TalentRecursiveTree@1008@1002010001|TalentRecursiveTree@1009@1003010001|TalentRecursiveTree@1017@1005010001|TalentRecursiveTree@1024@1010010001|TalentRecursiveTree@1001@1001010002|TalentRecursiveTree@1008@1002010002|TalentRecursiveTree@1009@1003010002|TalentRecursiveTree@1017@1005010002|TalentRecursiveTree@1024@1010010002|TalentRecursiveTree@1001@1001010003|TalentRecursiveTree@1008@1002010003|TalentRecursiveTree@1009@1003010003|TalentRecursiveTree@1017@1005010003|TalentRecursiveTree@1024@1010010003|TalentUnlockGunPublic@1001|TalentUnlockGunPublic@1008|TalentUnlockGunPublic@1009|TalentUnlockGunPublic@1017|TalentUnlockGunPublic@1024",
+			"argClient": ""
+		},
+		{
+			"id": 31,
+			"type": "一键类",
+			"name": "一键开放基础暗区",
+			"arg": "UnlockAllSystem|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1017@1|CharacterClassUp@1@3|CharacterClassUp@2@3|CharacterClassUp@3@3|CharacterClassUp@5@3|CharacterLevelUp@1@24|CharacterLevelUp@2@24|CharacterLevelUp@3@24|CharacterLevelUp@5@24|SetLevelExp@24",
+			"argClient": ""
+		},
+		{
+			"id": 32,
+			"type": "一键类",
+			"name": "一键开放高级暗区",
+			"arg": "UnlockAllSystem|SetLevelExp@60|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1017@1|SendItem@1024@1|CharacterClassUp@1@6|CharacterClassUp@2@6|CharacterClassUp@3@6|CharacterClassUp@4@6|CharacterClassUp@5@6|CharacterClassUp@6@6|CharacterClassUp@7@6|CharacterClassUp@8@6|CharacterClassUp@9@6|CharacterClassUp@10@6|CharacterClassUp@11@6|CharacterLevelUp@1@60|CharacterLevelUp@2@60|CharacterLevelUp@3@60|CharacterLevelUp@4@60|CharacterLevelUp@5@60|CharacterLevelUp@6@60|CharacterLevelUp@7@60|CharacterLevelUp@8@60|CharacterLevelUp@9@60|CharacterLevelUp@10@60|CharacterLevelUp@11@60|TalentRecursiveTree@1001@1001010001|TalentRecursiveTree@1008@1002010001|TalentRecursiveTree@1009@1003010001|TalentRecursiveTree@1017@1005010001|TalentRecursiveTree@1024@1010010001|TalentRecursiveTree@1001@1001010002|TalentRecursiveTree@1008@1002010002|TalentRecursiveTree@1009@1003010002|TalentRecursiveTree@1017@1005010002|TalentRecursiveTree@1024@1010010002|TalentRecursiveTree@1001@1001010003|TalentRecursiveTree@1008@1002010003|TalentRecursiveTree@1009@1003010003|TalentRecursiveTree@1017@1005010003|TalentRecursiveTree@1024@1010010003|TalentUnlockGunPublic@1001|TalentUnlockGunPublic@1008|TalentUnlockGunPublic@1009|TalentUnlockGunPublic@1017|TalentUnlockGunPublic@1024|GunGradeUp@1001@6|GunGradeUp@1008@6|GunGradeUp@1009@6|GunGradeUp@1017@6|GunGradeUp@1024@6|SendItem@11020@1|SendItem@11038@1|SendItem@11018@1|SendItem@11012@1|GunWeaponBreak@0@5",
+			"argClient": ""
+		},
+		{
+			"id": 33,
+			"type": "一键类",
+			"name": "点击跳过融合流程",
+			"arg": "StoryRecursiveFinished@103",
+			"argClient": ""
+		},
+		{
+			"id": 34,
+			"type": "发道具类",
+			"name": "全养成资源",
+			"arg": "SendItem@2@10000000|SendItem@1@10000000|SendItem@9006@10000|SendItem@9007@10000|SendItem@9008@10000|SendItem@9009@10000|SendItem@9010@10000|SendItem@9011@10000|SendItem@9012@10000|SendItem@8328@10000|SendItem@8329@10000|SendItem@8330@10000|SendItem@8331@10000|SendItem@8301@10000000|SendItem@25@10000000",
+			"argClient": ""
+		},
+		{
+			"id": 35,
+			"type": "发道具类",
+			"name": "想清楚了再点-全角色",
+			"arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1|SendItem@1023@1|SendItem@1034@1|SendItem@1035@1|SendItem@1037@1|SendItem@1039@1|SendItem@1040@1|SendItem@1041@1|SendItem@1042@1|SendItem@1043@1|SendItem@1044@1|SendItem@1045@1|SendItem@1046@1|SendItem@1047@1|SendItem@1049@1|SendItem@1050@1|SendItem@1051@1|SendItem@1052@1|SendItem@1048@1",
+			"argClient": ""
+		},
+		{
+			"id": 36,
+			"type": "发道具类",
+			"name": "想清楚了再点-全武器",
+			"arg": "SendItem@11007@1|\tSendItem@11008@1|\tSendItem@11009@1|\tSendItem@11010@1|\tSendItem@11011@1|\tSendItem@11012@1|\tSendItem@11013@1|\tSendItem@11014@1|\tSendItem@11015@1|\tSendItem@11016@1|\tSendItem@11017@1|\tSendItem@11018@1|\tSendItem@11020@1|\tSendItem@11021@1|\tSendItem@11022@1|\tSendItem@11023@1|\tSendItem@11024@1|\t\tSendItem@11026@1|\t\tSendItem@11030@1|\tSendItem@11031@1|\tSendItem@11032@1|\t\t\t\tSendItem@11036@1|\tSendItem@11037@1|\tSendItem@11038@1|\tSendItem@11039@1|\tSendItem@11040@1|\tSendItem@11041@1|\tSendItem@11042@1|\tSendItem@11043@1|\tSendItem@11044@1|\tSendItem@11045@1|\tSendItem@11046@1|\tSendItem@11047@1|\tSendItem@11048@1|\tSendItem@11049@1|\tSendItem@11050@1|\tSendItem@11051@1|\tSendItem@11052@1|\tSendItem@11053@1|\tSendItem@11054@1|\tSendItem@11055@1|\tSendItem@11056@1|SendItem@10331@1|SendItem@10332@1|SendItem@10333@1|SendItem@10361@1|SendItem@10362@1|SendItem@10381@1|SendItem@10382@1|SendItem@10001@1|SendItem@10002@1|SendItem@10003@1|SendItem@10004@1|SendItem@10005@1|SendItem@10006@1|SendItem@10007@1",
+			"argClient": ""
+		},
+		{
+			"id": 37,
+			"type": "发道具类",
+			"name": "涂装-武器涂装",
+			"arg": "SendItem@4237014@1|SendItem@4137025@1|SendItem@4134034@1|SendItem@4135044@1|SendItem@4133054@1|SendItem@4237064@1|SendItem@4131074@1|SendItem@4132084@1|SendItem@4133094@1|SendItem@4134104@1|SendItem@4135114@1|SendItem@4136124@1|SendItem@4137134@1|SendItem@4135145@1|SendItem@4131155@1|SendItem@4134165@1|SendItem@4136175@1|SendItem@4132185@1|SendItem@4133195@1|SendItem@4137205@1|SendItem@3111215@1|SendItem@3112225@1|SendItem@3113235@1|SendItem@3114245@1|SendItem@3117255@1|SendItem@3115265@1|SendItem@3116275@1|SendItem@3116285@1|SendItem@3115295@1|SendItem@3114305@1|SendItem@3114315@1|SendItem@3114325@1|SendItem@3116335@1|SendItem@3111345@1|SendItem@3114355@1|SendItem@3114365@1|SendItem@3113375@1|SendItem@3114385@1|SendItem@3112395@1|SendItem@3117404@1|SendItem@3113414@1|SendItem@3111424@1|SendItem@3116434@1|SendItem@3114444@1|SendItem@3115454@1|SendItem@3114464@1|SendItem@3114474@1|SendItem@3112484@1|SendItem@3114494@1|SendItem@3116504@1|SendItem@3111514@1|SendItem@3114524@1|SendItem@3114534@1|SendItem@3113544@1|SendItem@3114554@1|SendItem@3111564@1|SendItem@3115574@1|SendItem@3112584@1|SendItem@3111593@1|SendItem@3113603@1|SendItem@3114613@1|SendItem@3116623@1|SendItem@3117633@1|SendItem@3115643@1|SendItem@3114653@1|SendItem@3114663@1|SendItem@3112673@1|SendItem@3114683@1|SendItem@3116693@1|SendItem@3111703@1|SendItem@3114713@1|SendItem@3114723@1|SendItem@3113733@1|SendItem@3114743@1|SendItem@3111753@1|SendItem@3115763@1|SendItem@4237014@1",
+			"argClient": ""
+		},
+		{
+			"id": 38,
+			"type": "发道具类",
+			"name": "涂装-配件涂装",
+			"arg": "SendItem@7332014@1|SendItem@7334024@1|SendItem@7335034@1|SendItem@7433044@1|SendItem@6311054@1|SendItem@6311064@1|SendItem@6311074@1|SendItem@6311084@1|SendItem@6311094@1|SendItem@6311104@1|SendItem@6311114@1|SendItem@6311124@1|SendItem@6311134@1|SendItem@6311144@1|SendItem@6311154@1|SendItem@6311164@1|SendItem@6311174@1|SendItem@6311184@1|SendItem@6311194@1|SendItem@6311204@1|SendItem@6311214@1|SendItem@6311224@1|SendItem@6312234@1|SendItem@6312244@1|SendItem@6312254@1|SendItem@6312264@1|SendItem@6312274@1|SendItem@6312284@1|SendItem@6312294@1|SendItem@6312304@1|SendItem@6312314@1|SendItem@6312324@1|SendItem@6312334@1|SendItem@6312344@1|SendItem@6312354@1|SendItem@6312364@1|SendItem@6312374@1|SendItem@6312384@1|SendItem@6312394@1|SendItem@6312404@1|SendItem@6312414@1|SendItem@6312424@1|SendItem@6312434@1|SendItem@6312444@1|SendItem@6312454@1|SendItem@6312464@1|SendItem@6313474@1|SendItem@6313484@1|SendItem@6313494@1|SendItem@6313504@1|SendItem@6313514@1|SendItem@6313524@1|SendItem@6314534@1|SendItem@6314544@1|SendItem@6314554@1|SendItem@6314564@1|SendItem@6314574@1|SendItem@6314584@1|SendItem@6315624@1|SendItem@6315634@1|SendItem@6315644@1|SendItem@6315654@1|SendItem@6315664@1|SendItem@6315674@1|SendItem@6316684@1|SendItem@6316694@1|SendItem@6316704@1|SendItem@6316714@1|SendItem@6316724@1|SendItem@3111703@1",
+			"argClient": ""
+		},
+		{
+			"id": 39,
+			"type": "发道具类",
+			"name": "船型版本全配件",
+			"arg": "SendItem@10111121@1|SendItem@10111131@1|SendItem@10111342@1|SendItem@10111353@1|SendItem@10121121@1|SendItem@10121131@1|SendItem@10121342@1|SendItem@10121353@1|SendItem@10131121@1|SendItem@10131131@1|SendItem@10131342@1|SendItem@10131353@1|SendItem@10112121@1|SendItem@10112131@1|SendItem@10112342@1|SendItem@10112353@1|SendItem@10122121@1|SendItem@10122131@1|SendItem@10122342@1|SendItem@10122353@1|SendItem@10132121@1|SendItem@10132131@1|SendItem@10132342@1|SendItem@10132353@1|SendItem@10113121@1|SendItem@10113131@1|SendItem@10113342@1|SendItem@10113353@1|SendItem@10123121@1|SendItem@10123131@1|SendItem@10123342@1|SendItem@10123353@1|SendItem@10133121@1|SendItem@10133131@1|SendItem@10133342@1|SendItem@10133353@1|SendItem@10114121@1|SendItem@10114131@1|SendItem@10114342@1|SendItem@10114353@1|SendItem@10124121@1|SendItem@10124131@1|SendItem@10124342@1|SendItem@10124353@1|SendItem@10134121@1|SendItem@10134131@1|SendItem@10134342@1|SendItem@10134353@1|SendItem@10115121@1|SendItem@10115131@1|SendItem@10115342@1|SendItem@10115353@1|SendItem@10125121@1|SendItem@10125131@1|SendItem@10125342@1|SendItem@10125353@1|SendItem@10135121@1|SendItem@10135131@1|SendItem@10135342@1|SendItem@10135353@1|SendItem@10116121@1|SendItem@10116131@1|SendItem@10116342@1|SendItem@10116353@1|SendItem@10126121@1|SendItem@10126131@1|SendItem@10126342@1|SendItem@10126353@1|SendItem@10136121@1|SendItem@10136131@1|SendItem@10136342@1|SendItem@10136353@1|SendItem@10117121@1|SendItem@10117131@1|SendItem@10117342@1|SendItem@10117353@1|SendItem@10127121@1|SendItem@10127131@1|SendItem@10127342@1|SendItem@10127353@1|SendItem@10137121@1|SendItem@10137131@1|SendItem@10137342@1|SendItem@10137353@1|SendItem@10211121@1|SendItem@10211131@1|SendItem@10211342@1|SendItem@10211353@1|SendItem@10212121@1|SendItem@10212131@1|SendItem@10212342@1|SendItem@10212353@1|SendItem@10213121@1|SendItem@10213131@1|SendItem@10213342@1|SendItem@10213353@1|SendItem@10214121@1|SendItem@10214131@1|SendItem@10214342@1|SendItem@10214353@1|SendItem@10215121@1|SendItem@10215131@1|SendItem@10215342@1|SendItem@10215353@1|SendItem@10216121@1|SendItem@10216131@1|SendItem@10216342@1|SendItem@10216353@1|SendItem@10217121@1|SendItem@10217131@1|SendItem@10217342@1|SendItem@10217353@1|SendItem@10311121@1|SendItem@10311131@1|SendItem@10311342@1|SendItem@10311353@1|SendItem@10321121@1|SendItem@10321131@1|SendItem@10321342@1|SendItem@10321353@1|SendItem@10312121@1|SendItem@10312131@1|SendItem@10312342@1|SendItem@10312353@1|SendItem@10322121@1|SendItem@10322131@1|SendItem@10322342@1|SendItem@10322353@1|SendItem@10313121@1|SendItem@10313131@1|SendItem@10313342@1|SendItem@10313353@1|SendItem@10323121@1|SendItem@10323131@1|SendItem@10323342@1|SendItem@10323353@1|SendItem@10314121@1|SendItem@10314131@1|SendItem@10314342@1|SendItem@10314353@1|SendItem@10324121@1|SendItem@10324131@1|SendItem@10324342@1|SendItem@10324353@1|SendItem@10315121@1|SendItem@10315131@1|SendItem@10315342@1|SendItem@10315353@1|SendItem@10325121@1|SendItem@10325131@1|SendItem@10325342@1|SendItem@10325353@1|SendItem@10316121@1|SendItem@10316131@1|SendItem@10316342@1|SendItem@10316353@1|SendItem@10326121@1|SendItem@10326131@1|SendItem@10326342@1|SendItem@10326353@1|SendItem@20111121@1|SendItem@20111131@1|SendItem@20111442@1|SendItem@20111453@1|SendItem@20121121@1|SendItem@20121131@1|SendItem@20121442@1|SendItem@20121453@1|SendItem@20112121@1|SendItem@20112131@1|SendItem@20112442@1|SendItem@20112453@1|SendItem@20122121@1|SendItem@20122131@1|SendItem@20122442@1|SendItem@20122453@1|SendItem@20113121@1|SendItem@20113131@1|SendItem@20113442@1|SendItem@20113453@1|SendItem@20123121@1|SendItem@20123131@1|SendItem@20123442@1|SendItem@20123453@1|SendItem@20114121@1|SendItem@20114131@1|SendItem@20114442@1|SendItem@20114453@1|SendItem@20124121@1|SendItem@20124131@1|SendItem@20124442@1|SendItem@20124453@1|SendItem@20115121@1|SendItem@20115131@1|SendItem@20115442@1|SendItem@20115453@1|SendItem@20125121@1|SendItem@20125131@1|SendItem@20125442@1|SendItem@20125453@1|SendItem@20116121@1|SendItem@20116131@1|SendItem@20116442@1|SendItem@20116453@1|SendItem@20126121@1|SendItem@20126131@1|SendItem@20126442@1|SendItem@20126453@1|SendItem@20117121@1|SendItem@20117131@1|SendItem@20117442@1|SendItem@20117453@1|SendItem@20127121@1|SendItem@20127131@1|SendItem@20127442@1|SendItem@20127453@1|SendItem@20118121@1|SendItem@20118131@1|SendItem@20118442@1|SendItem@20118453@1|SendItem@20128121@1|SendItem@20128131@1|SendItem@20128442@1|SendItem@20128453@1|SendItem@20211121@1|SendItem@20211131@1|SendItem@20211342@1|SendItem@20211353@1|SendItem@20221121@1|SendItem@20221131@1|SendItem@20221342@1|SendItem@20221353@1|SendItem@20212121@1|SendItem@20212131@1|SendItem@20212342@1|SendItem@20212353@1|SendItem@20222121@1|SendItem@20222131@1|SendItem@20222342@1|SendItem@20222353@1|SendItem@20213121@1|SendItem@20213131@1|SendItem@20213342@1|SendItem@20213353@1|SendItem@20223121@1|SendItem@20223131@1|SendItem@20223342@1|SendItem@20223353@1|SendItem@20214121@1|SendItem@20214131@1|SendItem@20214342@1|SendItem@20214353@1|SendItem@20224121@1|SendItem@20224131@1|SendItem@20224342@1|SendItem@20224353@1|SendItem@20215121@1|SendItem@20215131@1|SendItem@20215342@1|SendItem@20215353@1|SendItem@20225121@1|SendItem@20225131@1|SendItem@20225342@1|SendItem@20225353@1|SendItem@20216121@1|SendItem@20216131@1|SendItem@20216342@1|SendItem@20216353@1|SendItem@20226121@1|SendItem@20226131@1|SendItem@20226342@1|SendItem@20226353@1|SendItem@20311121@1|SendItem@20311131@1|SendItem@20311342@1|SendItem@20311353@1|SendItem@20312121@1|SendItem@20312131@1|SendItem@20312342@1|SendItem@20312353@1|SendItem@20313121@1|SendItem@20313131@1|SendItem@20313342@1|SendItem@20313353@1|SendItem@20314121@1|SendItem@20314131@1|SendItem@20314342@1|SendItem@20314353@1|SendItem@20315121@1|SendItem@20315131@1|SendItem@20315342@1|SendItem@20315353@1|SendItem@20316121@1|SendItem@20316131@1|SendItem@20316342@1|SendItem@20316353@1|SendItem@20411121@1|SendItem@20411131@1|SendItem@20411342@1|SendItem@20411353@1|SendItem@20412121@1|SendItem@20412131@1|SendItem@20412342@1|SendItem@20412353@1|SendItem@20413121@1|SendItem@20413131@1|SendItem@20413342@1|SendItem@20413353@1|SendItem@20414121@1|SendItem@20414131@1|SendItem@20414342@1|SendItem@20414353@1|SendItem@20415121@1|SendItem@20415131@1|SendItem@20415342@1|SendItem@20415353@1|SendItem@20416121@1|SendItem@20416131@1|SendItem@20416342@1|SendItem@20416353@1|SendItem@30111121@1|SendItem@30111131@1|SendItem@30111342@1|SendItem@30111353@1|SendItem@30121121@1|SendItem@30121131@1|SendItem@30121342@1|SendItem@30121353@1|SendItem@30131121@1|SendItem@30131131@1|SendItem@30131342@1|SendItem@30131353@1|SendItem@30141121@1|SendItem@30141131@1|SendItem@30141342@1|SendItem@30141353@1|SendItem@30112121@1|SendItem@30112131@1|SendItem@30112342@1|SendItem@30112353@1|SendItem@30122121@1|SendItem@30122131@1|SendItem@30122342@1|SendItem@30122353@1|SendItem@30132121@1|SendItem@30132131@1|SendItem@30132342@1|SendItem@30132353@1|SendItem@30142121@1|SendItem@30142131@1|SendItem@30142342@1|SendItem@30142353@1|SendItem@30113121@1|SendItem@30113131@1|SendItem@30113342@1|SendItem@30113353@1|SendItem@30123121@1|SendItem@30123131@1|SendItem@30123342@1|SendItem@30123353@1|SendItem@30133121@1|SendItem@30133131@1|SendItem@30133342@1|SendItem@30133353@1|SendItem@30143121@1|SendItem@30143131@1|SendItem@30143342@1|SendItem@30143353@1|SendItem@30114121@1|SendItem@30114131@1|SendItem@30114342@1|SendItem@30114353@1|SendItem@30124121@1|SendItem@30124131@1|SendItem@30124342@1|SendItem@30124353@1|SendItem@30134121@1|SendItem@30134131@1|SendItem@30134342@1|SendItem@30134353@1|SendItem@30144121@1|SendItem@30144131@1|SendItem@30144342@1|SendItem@30144353@1|SendItem@30115121@1|SendItem@30115131@1|SendItem@30115342@1|SendItem@30115353@1|SendItem@30125121@1|SendItem@30125131@1|SendItem@30125342@1|SendItem@30125353@1|SendItem@30135121@1|SendItem@30135131@1|SendItem@30135342@1|SendItem@30135353@1|SendItem@30145121@1|SendItem@30145131@1|SendItem@30145342@1|SendItem@30145353@1|SendItem@30116121@1|SendItem@30116131@1|SendItem@30116342@1|SendItem@30116353@1|SendItem@30126121@1|SendItem@30126131@1|SendItem@30126342@1|SendItem@30126353@1|SendItem@30136121@1|SendItem@30136131@1|SendItem@30136342@1|SendItem@30136353@1|SendItem@30146121@1|SendItem@30146131@1|SendItem@30146342@1|SendItem@30146353@1|SendItem@30117121@1|SendItem@30117131@1|SendItem@30117342@1|SendItem@30117353@1|SendItem@30127121@1|SendItem@30127131@1|SendItem@30127342@1|SendItem@30127353@1|SendItem@30137121@1|SendItem@30137131@1|SendItem@30137342@1|SendItem@30137353@1|SendItem@30147121@1|SendItem@30147131@1|SendItem@30147342@1|SendItem@30147353@1|SendItem@40111121@1|SendItem@40111131@1|SendItem@40111442@1|SendItem@40111453@1|SendItem@40112121@1|SendItem@40112131@1|SendItem@40112442@1|SendItem@40112453@1|SendItem@40113121@1|SendItem@40113131@1|SendItem@40113442@1|SendItem@40113453@1|SendItem@40114121@1|SendItem@40114131@1|SendItem@40114442@1|SendItem@40114453@1|SendItem@40115121@1|SendItem@40115131@1|SendItem@40115442@1|SendItem@40115453@1|SendItem@40116121@1|SendItem@40116131@1|SendItem@40116442@1|SendItem@40116453@1|SendItem@80111121@1|SendItem@80111131@1|SendItem@80111342@1|SendItem@80111353@1|SendItem@80112121@1|SendItem@80112131@1|SendItem@80112342@1|SendItem@80112353@1|SendItem@80113121@1|SendItem@80113131@1|SendItem@80113342@1|SendItem@80113353@1|SendItem@90111121@1|SendItem@90111131@1|SendItem@90111342@1|SendItem@90111353@1|SendItem@90112121@1|SendItem@90112131@1|SendItem@90112342@1|SendItem@90112353@1|SendItem@90113121@1|SendItem@90113131@1|SendItem@90113342@1|SendItem@90113353@1|SendItem@90121121@1|SendItem@90121131@1|SendItem@90121342@1|SendItem@90121353@1|SendItem@90122121@1|SendItem@90122131@1|SendItem@90122342@1|SendItem@90122353@1|SendItem@90123121@1|SendItem@90123131@1|SendItem@90123342@1|SendItem@90123353@1|SendItem@90131121@1|SendItem@90131131@1|SendItem@90131342@1|SendItem@90131353@1|SendItem@90132121@1|SendItem@90132131@1|SendItem@90132342@1|SendItem@90132353@1|SendItem@90133121@1|SendItem@90133131@1|SendItem@90133342@1|SendItem@90133353@1|SendItem@100111121@1|SendItem@100111131@1|SendItem@100111342@1|SendItem@100111353@1|SendItem@100112121@1|SendItem@100112131@1|SendItem@100112342@1|SendItem@100112353@1|SendItem@100113121@1|SendItem@100113131@1|SendItem@100113342@1|SendItem@100113353@1|SendItem@110111121@1|SendItem@110111131@1|SendItem@110111342@1|SendItem@110111353@1|SendItem@110112121@1|SendItem@110112131@1|SendItem@110112342@1|SendItem@110112353@1|SendItem@110113121@1|SendItem@110113131@1|SendItem@110113342@1|SendItem@110113353@1|SendItem@110121121@1|SendItem@110121131@1|SendItem@110121342@1|SendItem@110121353@1|SendItem@110122121@1|SendItem@110122131@1|SendItem@110122342@1|SendItem@110122353@1|SendItem@110123121@1|SendItem@110123131@1|SendItem@110123342@1|SendItem@110123353@1|SendItem@110131121@1|SendItem@110131131@1|SendItem@110131342@1|SendItem@110131353@1|SendItem@110132121@1|SendItem@110132131@1|SendItem@110132342@1|SendItem@110132353@1|SendItem@110133121@1|SendItem@110133131@1|SendItem@110133342@1|SendItem@110133353@1|SendItem@120111121@1|SendItem@120111131@1|SendItem@120111342@1|SendItem@120111353@1|SendItem@120121121@1|SendItem@120121131@1|SendItem@120121342@1|SendItem@120121353@1|SendItem@120112121@1|SendItem@120112131@1|SendItem@120112342@1|SendItem@120112353@1|SendItem@120122121@1|SendItem@120122131@1|SendItem@120122342@1|SendItem@120122353@1|SendItem@120113121@1|SendItem@120113131@1|SendItem@120113342@1|SendItem@120113353@1|SendItem@120123121@1|SendItem@120123131@1|SendItem@120123342@1|SendItem@120123353@1|SendItem@120114121@1|SendItem@120114131@1|SendItem@120114342@1|SendItem@120114353@1|SendItem@120124121@1|SendItem@120124131@1|SendItem@120124342@1|SendItem@120124353@1|SendItem@120115121@1|SendItem@120115131@1|SendItem@120115342@1|SendItem@120115353@1|SendItem@120125121@1|SendItem@120125131@1|SendItem@120125342@1|SendItem@120125353@1|SendItem@120116121@1|SendItem@120116131@1|SendItem@120116342@1|SendItem@120116353@1|SendItem@120126121@1|SendItem@120126131@1|SendItem@120126342@1|SendItem@120126353@1|SendItem@120117121@1|SendItem@120117131@1|SendItem@120117342@1|SendItem@120117353@1|SendItem@120127121@1|SendItem@120127131@1|SendItem@120127342@1|SendItem@120127353@1|SendItem@130111121@1|SendItem@130111131@1|SendItem@130111342@1|SendItem@130111353@1|SendItem@130121121@1|SendItem@130121131@1|SendItem@130121342@1|SendItem@130121353@1|SendItem@130112121@1|SendItem@130112131@1|SendItem@130112342@1|SendItem@130112353@1|SendItem@130122121@1|SendItem@130122131@1|SendItem@130122342@1|SendItem@130122353@1|SendItem@130113121@1|SendItem@130113131@1|SendItem@130113342@1|SendItem@130113353@1|SendItem@130123121@1|SendItem@130123131@1|SendItem@130123342@1|SendItem@130123353@1|SendItem@130114121@1|SendItem@130114131@1|SendItem@130114342@1|SendItem@130114353@1|SendItem@130124121@1|SendItem@130124131@1|SendItem@130124342@1|SendItem@130124353@1|SendItem@130115121@1|SendItem@130115131@1|SendItem@130115342@1|SendItem@130115353@1|SendItem@130125121@1|SendItem@130125131@1|SendItem@130125342@1|SendItem@130125353@1|SendItem@130116121@1|SendItem@130116131@1|SendItem@130116342@1|SendItem@130116353@1|SendItem@130126121@1|SendItem@130126131@1|SendItem@130126342@1|SendItem@130126353@1|SendItem@140111121@1|SendItem@140111131@1|SendItem@140111342@1|SendItem@140111353@1|SendItem@140112121@1|SendItem@140112131@1|SendItem@140112342@1|SendItem@140112353@1|SendItem@140113121@1|SendItem@140113131@1|SendItem@140113342@1|SendItem@140113353@1",
+			"argClient": ""
+		},
+		{
+			"id": 40,
+			"type": "发道具类",
+			"name": "这次新增的配件",
+			"arg": "SendItem@10114321@1|SendItem@10114331@1|SendItem@10114342@1|SendItem@10114353@1|SendItem@10124321@1|SendItem@10124331@1|SendItem@10124342@1|SendItem@10124353@1|SendItem@10134321@1|SendItem@10134331@1|SendItem@10134342@1|SendItem@10134353@1|SendItem@10115321@1|SendItem@10115331@1|SendItem@10115342@1|SendItem@10115353@1|SendItem@10125321@1|SendItem@10125331@1|SendItem@10125342@1|SendItem@10125353@1|SendItem@10135321@1|SendItem@10135331@1|SendItem@10135342@1|SendItem@10135353@1|SendItem@10116321@1|SendItem@10116331@1|SendItem@10116342@1|SendItem@10116353@1|SendItem@10126321@1|SendItem@10126331@1|SendItem@10126342@1|SendItem@10126353@1|SendItem@10136321@1|SendItem@10136331@1|SendItem@10136342@1|SendItem@10136353@1|SendItem@10117321@1|SendItem@10117331@1|SendItem@10117342@1|SendItem@10117353@1|SendItem@10127321@1|SendItem@10127331@1|SendItem@10127342@1|SendItem@10127353@1|SendItem@10137321@1|SendItem@10137331@1|SendItem@10137342@1|SendItem@10137353@1|SendItem@10214321@1|SendItem@10214331@1|SendItem@10214342@1|SendItem@10214353@1|SendItem@10215321@1|SendItem@10215331@1|SendItem@10215342@1|SendItem@10215353@1|SendItem@10216321@1|SendItem@10216331@1|SendItem@10216342@1|SendItem@10216353@1|SendItem@10217321@1|SendItem@10217331@1|SendItem@10217342@1|SendItem@10217353@1|SendItem@10314321@1|SendItem@10314331@1|SendItem@10314342@1|SendItem@10314353@1|SendItem@10324321@1|SendItem@10324331@1|SendItem@10324342@1|SendItem@10324353@1|SendItem@10315321@1|SendItem@10315331@1|SendItem@10315342@1|SendItem@10315353@1|SendItem@10325321@1|SendItem@10325331@1|SendItem@10325342@1|SendItem@10325353@1|SendItem@10316321@1|SendItem@10316331@1|SendItem@10316342@1|SendItem@10316353@1|SendItem@10326321@1|SendItem@10326331@1|SendItem@10326342@1|SendItem@10326353@1|SendItem@20114421@1|SendItem@20114431@1|SendItem@20114442@1|SendItem@20114453@1|SendItem@20124421@1|SendItem@20124431@1|SendItem@20124442@1|SendItem@20124453@1|SendItem@20115421@1|SendItem@20115431@1|SendItem@20115442@1|SendItem@20115453@1|SendItem@20125421@1|SendItem@20125431@1|SendItem@20125442@1|SendItem@20125453@1|SendItem@20116421@1|SendItem@20116431@1|SendItem@20116442@1|SendItem@20116453@1|SendItem@20126421@1|SendItem@20126431@1|SendItem@20126442@1|SendItem@20126453@1|SendItem@20117421@1|SendItem@20117431@1|SendItem@20117442@1|SendItem@20117453@1|SendItem@20127421@1|SendItem@20127431@1|SendItem@20127442@1|SendItem@20127453@1|SendItem@20118421@1|SendItem@20118431@1|SendItem@20118442@1|SendItem@20118453@1|SendItem@20128421@1|SendItem@20128431@1|SendItem@20128442@1|SendItem@20128453@1|SendItem@20214421@1|SendItem@20214431@1|SendItem@20214442@1|SendItem@20214453@1|SendItem@20224421@1|SendItem@20224431@1|SendItem@20224442@1|SendItem@20224453@1|SendItem@20215421@1|SendItem@20215431@1|SendItem@20215442@1|SendItem@20215453@1|SendItem@20225421@1|SendItem@20225431@1|SendItem@20225442@1|SendItem@20225453@1|SendItem@20216421@1|SendItem@20216431@1|SendItem@20216442@1|SendItem@20216453@1|SendItem@20226421@1|SendItem@20226431@1|SendItem@20226442@1|SendItem@20226453@1|SendItem@20314421@1|SendItem@20314431@1|SendItem@20314442@1|SendItem@20314453@1|SendItem@20315421@1|SendItem@20315431@1|SendItem@20315442@1|SendItem@20315453@1|SendItem@20316421@1|SendItem@20316431@1|SendItem@20316442@1|SendItem@20316453@1|SendItem@20414421@1|SendItem@20414431@1|SendItem@20414442@1|SendItem@20414453@1|SendItem@20415421@1|SendItem@20415431@1|SendItem@20415442@1|SendItem@20415453@1|SendItem@20416421@1|SendItem@20416431@1|SendItem@20416442@1|SendItem@20416453@1|SendItem@30114321@1|SendItem@30114331@1|SendItem@30114342@1|SendItem@30114353@1|SendItem@30124321@1|SendItem@30124331@1|SendItem@30124342@1|SendItem@30124353@1|SendItem@30134321@1|SendItem@30134331@1|SendItem@30134342@1|SendItem@30134353@1|SendItem@30144321@1|SendItem@30144331@1|SendItem@30144342@1|SendItem@30144353@1|SendItem@30115321@1|SendItem@30115331@1|SendItem@30115342@1|SendItem@30115353@1|SendItem@30125321@1|SendItem@30125331@1|SendItem@30125342@1|SendItem@30125353@1|SendItem@30135321@1|SendItem@30135331@1|SendItem@30135342@1|SendItem@30135353@1|SendItem@30145321@1|SendItem@30145331@1|SendItem@30145342@1|SendItem@30145353@1|SendItem@30116321@1|SendItem@30116331@1|SendItem@30116342@1|SendItem@30116353@1|SendItem@30126321@1|SendItem@30126331@1|SendItem@30126342@1|SendItem@30126353@1|SendItem@30136321@1|SendItem@30136331@1|SendItem@30136342@1|SendItem@30136353@1|SendItem@30146321@1|SendItem@30146331@1|SendItem@30146342@1|SendItem@30146353@1|SendItem@30117321@1|SendItem@30117331@1|SendItem@30117342@1|SendItem@30117353@1|SendItem@30127321@1|SendItem@30127331@1|SendItem@30127342@1|SendItem@30127353@1|SendItem@30137321@1|SendItem@30137331@1|SendItem@30137342@1|SendItem@30137353@1|SendItem@30147321@1|SendItem@30147331@1|SendItem@30147342@1|SendItem@30147353@1|SendItem@40114421@1|SendItem@40114431@1|SendItem@40114442@1|SendItem@40114453@1|SendItem@40115421@1|SendItem@40115431@1|SendItem@40115442@1|SendItem@40115453@1|SendItem@40116421@1|SendItem@40116431@1|SendItem@40116442@1|SendItem@40116453@1|SendItem@120114321@1|SendItem@120114331@1|SendItem@120114342@1|SendItem@120114353@1|SendItem@120124321@1|SendItem@120124331@1|SendItem@120124342@1|SendItem@120124353@1|SendItem@120115321@1|SendItem@120115331@1|SendItem@120115342@1|SendItem@120115353@1|SendItem@120125321@1|SendItem@120125331@1|SendItem@120125342@1|SendItem@120125353@1|SendItem@120116321@1|SendItem@120116331@1|SendItem@120116342@1|SendItem@120116353@1|SendItem@120126321@1|SendItem@120126331@1|SendItem@120126342@1|SendItem@120126353@1|SendItem@120117321@1|SendItem@120117331@1|SendItem@120117342@1|SendItem@120117353@1|SendItem@120127321@1|SendItem@120127331@1|SendItem@120127342@1|SendItem@120127353@1|SendItem@130114321@1|SendItem@130114331@1|SendItem@130114342@1|SendItem@130114353@1|SendItem@130124321@1|SendItem@130124331@1|SendItem@130124342@1|SendItem@130124353@1|SendItem@130115321@1|SendItem@130115331@1|SendItem@130115342@1|SendItem@130115353@1|SendItem@130125321@1|SendItem@130125331@1|SendItem@130125342@1|SendItem@130125353@1|SendItem@130116321@1|SendItem@130116331@1|SendItem@130116342@1|SendItem@130116353@1|SendItem@130126321@1|SendItem@130126331@1|SendItem@130126342@1|SendItem@130126353@1",
+			"argClient": ""
+		},
+		{
+			"id": 41,
+			"type": "升级类",
+			"name": "指挥官一键升到5级",
+			"arg": "SetLevelExp@5",
+			"argClient": ""
+		},
+		{
+			"id": 42,
+			"type": "发道具类",
+			"name": "天赋材料",
+			"arg": "SendItem@9006@10000000|SendItem@9007@10000000|SendItem@9008@10000000|SendItem@9009@10000000|SendItem@9010@10000000|SendItem@9011@10000000|SendItem@9012@10000000|SendItem@9013@10000000|SendItem@9014@10000000",
+			"argClient": ""
+		},
+		{
+			"id": 43,
+			"type": "系统测试",
+			"name": "sl2-2测试",
+			"arg": "UpdateAge@{\"data\":18}|SetLevelExp@60|UnlockAllSystem|SkipTutorialGroup|StoryRecursiveFinished@110|ReachCounter@200@1@[10110,1,1,-1]|StoryRecursiveFinished@203",
+			"argClient": ""
+		},
+		{
+			"id": 44,
+			"type": "暗区",
+			"name": "创建指定数值的账号（60）",
+			"arg": "GMSetAllLevel@60",
+			"argClient": ""
+		},
+		{
+			"id": 45,
+			"type": "一键类",
+			"name": "点击解锁小BP",
+			"arg": "SendItem@401@1",
+			"argClient": ""
+		},
+		{
+			"id": 46,
+			"type": "一键类",
+			"name": "点击解锁大BP",
+			"arg": "SendItem@402@1",
+			"argClient": ""
+		},
+		{
+			"id": 47,
+			"type": "中后期角色",
+			"name": "中后期角色",
+			"arg": "SetLevelExp@45|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|CharacterClassUp@1@5|CharacterClassUp@2@5|CharacterClassUp@3@5|CharacterClassUp@4@5|CharacterClassUp@5@5|CharacterClassUp@6@5|CharacterClassUp@7@5|CharacterClassUp@8@5|CharacterClassUp@9@5|CharacterClassUp@10@5|CharacterClassUp@11@5|CharacterClassUp@12@5|CharacterClassUp@13@5|CharacterClassUp@14@5|CharacterClassUp@15@5|CharacterClassUp@16@5|CharacterLevelUp@1@45|CharacterLevelUp@2@45|CharacterLevelUp@3@45|CharacterLevelUp@4@45|CharacterLevelUp@5@45|CharacterLevelUp@6@45|CharacterLevelUp@7@45|CharacterLevelUp@8@45|CharacterLevelUp@9@45|CharacterLevelUp@10@45|CharacterLevelUp@11@45|CharacterLevelUp@12@45|CharacterLevelUp@13@45|CharacterLevelUp@14@45|CharacterLevelUp@15@45|CharacterLevelUp@16@45|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|UnlockAllSystem|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1017@1|SendItem@1024@1|TalentRecursiveTree@1001@1001010001|TalentRecursiveTree@1008@1002010001|TalentRecursiveTree@1009@1003010001|TalentRecursiveTree@1017@1005010001|TalentRecursiveTree@1024@1010010001|TalentRecursiveTree@1001@1001010002|TalentRecursiveTree@1008@1002010002|TalentRecursiveTree@1009@1003010002|TalentRecursiveTree@1017@1005010002|TalentRecursiveTree@1024@1010010002|TalentRecursiveTree@1001@1001010003|TalentRecursiveTree@1008@1002010003|TalentRecursiveTree@1009@1003010003|TalentRecursiveTree@1017@1005010003|TalentRecursiveTree@1024@1010010003|TalentUnlockGunPublic@1001|TalentUnlockGunPublic@1008|TalentUnlockGunPublic@1009|TalentUnlockGunPublic@1017|TalentUnlockGunPublic@1024|DarkZoneUnlockQuest|UnlockAllSystem|StoryRecursiveFinished|ChapterRecursiveFinished|SkipTutorialGroup",
+			"argClient": ""
+		},
+		{
+			"id": 48,
+			"type": "一键类",
+			"name": "点击完成新手任务1阶段",
+			"arg": "ReachCounter@200@1@[10110,1,-1,0]|ReachCounter@200@1@[10201,1,-1,0]|ReachCounter@200@1@[10203,1,-1,0]|ReachCounter@200@1@[10205,1,-1,0]|ReachCounter@200@1@[10210,1,-1,0]|ReachCounter@201@1@[26,1,1,0]|ReachCounter@200@1@[10141,1,-1,0]|ReachCounter@200@1@[10143,1,-1,0]|ReachCounter@51@2@[-1,-1,8,0]|ReachCounter@107@2@[-1,7,0,0]",
+			"argClient": ""
+		},
+		{
+			"id": 49,
+			"type": "一键类",
+			"name": "点击完成新手任务2阶段",
+			"arg": "ReachCounter@200@1@[10301,1,-1,0]|ReachCounter@200@1@[10303,1,-1,0]|ReachCounter@200@1@[10305,1,-1,0]|ReachCounter@200@1@[10307,1,-1,0]|ReachCounter@200@1@[10310,1,-1,0]|ReachCounter@201@2@[21,1,-1,0]|ReachCounter@201@2@[31,1,-1,0]|ReachCounter@563@1@[-1,0,0,0]|ReachCounter@51@2@[-1,-1,20,0]|ReachCounter@603@1@[0,0,0,0]|SendItem@9006@100000|SendItem@9007@100000|SendItem@9008@100000|SendItem@9009@100000|SendItem@9010@100000",
+			"argClient": ""
+		},
+		{
+			"id": 50,
+			"type": "一键类",
+			"name": "点击完成新手任务3阶段",
+			"arg": "ReachCounter@200@1@[10401,1,-1,0]|ReachCounter@200@1@[10403,1,-1,0]|ReachCounter@200@1@[10405,1,-1,0]|ReachCounter@200@1@[10407,1,-1,0]|ReachCounter@200@1@[10410,1,-1,0]|ReachCounter@201@2@[22,1,-1,0]|ReachCounter@563@2@[-1,0,0,0]|ReachCounter@211@1@[-1,1,-1,0]|ReachCounter@51@2@[-1,-1,22,0]|ReachCounter@107@2@[-1,22,0,0]",
+			"argClient": ""
+		},
+		{
+			"id": 51,
+			"type": "一键类",
+			"name": "点击完成新手任务4阶段",
+			"arg": "ReachCounter@200@1@[10501,1,-1,0]|ReachCounter@200@1@[10503,1,-1,0]|ReachCounter@200@1@[10504,1,-1,0]|ReachCounter@200@1@[10505,1,-1,0]|ReachCounter@200@1@[10506,1,-1,0]|ReachCounter@305@1@[-1,-1,-1,0]|ReachCounter@563@3@[-1,0,0,0]|ReachCounter@211@5@[-1,1,-1,0]|ReachCounter@604@1@[0,0,0,0]|ReachCounter@51@4@[-1,-1,24,0]|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|CharacterClassUp@1@5|CharacterClassUp@2@5|CharacterClassUp@3@5|CharacterClassUp@4@5|CharacterClassUp@5@5|CharacterClassUp@6@5|CharacterClassUp@7@5|CharacterClassUp@8@5|CharacterClassUp@9@5|CharacterClassUp@10@5|CharacterClassUp@11@5|CharacterClassUp@12@5|CharacterClassUp@13@5|CharacterClassUp@14@5|CharacterClassUp@15@5|CharacterClassUp@16@5|CharacterLevelUp@1@40|CharacterLevelUp@2@40|CharacterLevelUp@3@40|CharacterLevelUp@4@40|CharacterLevelUp@5@40|CharacterLevelUp@6@40|CharacterLevelUp@7@40|CharacterLevelUp@8@40|CharacterLevelUp@9@40|CharacterLevelUp@10@40|CharacterLevelUp@11@40|CharacterLevelUp@12@40|CharacterLevelUp@13@40|CharacterLevelUp@14@40|CharacterLevelUp@15@40|CharacterLevelUp@16@40|SendItem@9012@10000|SendItem@9011@10000|SendItem@9013@100000",
+			"argClient": ""
+		},
+		{
+			"id": 52,
+			"type": "一键类",
+			"name": "点击完成新手任务5阶段",
+			"arg": "ReachCounter@200@1@[10508,1,-1,0]|ReachCounter@200@1@[10510,1,-1,0]|ReachCounter@200@1@[10601,1,-1,0]|ReachCounter@200@1@[10603,1,-1,0]|ReachCounter@200@1@[10604,1,-1,0]|ReachCounter@201@4@[22,1,-1,0]|ReachCounter@143@6@[1,4,0,0]|ReachCounter@51@2@[-1,-1,28,0]|ReachCounter@563@4@[-1,0,0,0]|ReachCounter@305@2@[2,-1,-1,-1]|SendItem@10126343@10",
+			"argClient": ""
+		},
+		{
+			"id": 53,
+			"type": "一键类",
+			"name": "点击完成新手任务6阶段",
+			"arg": "ReachCounter@200@1@[10605,1,-1,0]|ReachCounter@200@1@[10607,1,-1,0]|ReachCounter@200@1@[10608,1,-1,0]|ReachCounter@200@1@[10609,1,-1,0]|ReachCounter@200@1@[10610,1,-1,0]|ReachCounter@201@10@[22,1,-1,0]|ReachCounter@211@10@[-1,1,-1,0]|ReachCounter@301@1@[-1,0,0,0]|ReachCounter@51@4@[-1,-1,30,0]|ReachCounter@107@4@[-1,30,0,0]",
+			"argClient": ""
+		},
+		{
+			"id": 54,
+			"type": "一键类",
+			"name": "生成引导新手账号",
+			"arg": "UnlockAllSystem|SetLevelExp@30|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1",
+			"argClient": ""
+		},
+		{
+			"id": 55,
+			"type": "暗区",
+			"name": "一键所有宝箱进度变满",
+			"arg": "DarkZoneQuestChest@10101|DarkZoneQuestChest@10102|DarkZoneQuestChest@10103|DarkZoneQuestChest@10104|DarkZoneQuestChest@10105|DarkZoneQuestChest@10106|DarkZoneQuestChest@10107|DarkZoneQuestChest@10108|DarkZoneQuestChest@10109|DarkZoneQuestChest@10110|DarkZoneQuestChest@10111|DarkZoneQuestChest@10112|DarkZoneQuestChest@10113|DarkZoneQuestChest@10114|DarkZoneQuestChest@10115|DarkZoneQuestChest@10116",
+			"argClient": ""
+		},
+		{
+			"id": 56,
+			"type": "战斗",
+			"name": "实兵演习-上王者",
+			"arg": "GmNrtPvpSetData@1999",
+			"argClient": ""
+		},
+		{
+			"id": 57,
+			"type": "战斗",
+			"name": "一键加涂装武器",
+			"arg": "SendItem@4134034@1|SendItem@4135044@1|SendItem@4135044@1|SendItem@4135044@1|SendItem@4133054@1|SendItem@4135064@1|SendItem@4131074@1|SendItem@4132084@1|SendItem@4133094@1|SendItem@4134104@1|SendItem@4135114@1|SendItem@4136124@1|SendItem@4137134@1|SendItem@4135145@1|SendItem@4131155@1|SendItem@4134165@1|SendItem@4136175@1|SendItem@4132185@1|SendItem@4133195@1|SendItem@4137205@1|SendItem@3111215@1|SendItem@3112225@1|SendItem@3113235@1|SendItem@3114245@1|SendItem@3117255@1|SendItem@3115265@1|SendItem@3116275@1|SendItem@3116285@1|SendItem@3115295@1|SendItem@3114315@1|SendItem@3114325@1|SendItem@3116335@1|SendItem@3114355@1|SendItem@3114365@1|SendItem@3113375@1|SendItem@3114385@1|SendItem@3112395@1|SendItem@3117404@1|SendItem@3113414@1|SendItem@3111424@1|SendItem@3116434@1|SendItem@3114444@1|SendItem@3115454@1|SendItem@3114464@1|SendItem@3114474@1|SendItem@3112484@1|SendItem@3114494@1|SendItem@3116504@1|SendItem@3111514@1|SendItem@3114524@1|SendItem@3114534@1|SendItem@3113544@1|SendItem@3114554@1|SendItem@3111564@1|SendItem@3115574@1|SendItem@3112584@1|SendItem@3111593@1|SendItem@3113603@1|SendItem@3114613@1|SendItem@3116623@1|SendItem@3117633@1|SendItem@3115643@1|SendItem@3114653@1|SendItem@3114663@1|SendItem@3112673@1|SendItem@3114683@1|SendItem@3116693@1|SendItem@3111703@1|SendItem@3114713@1|SendItem@3114723@1|SendItem@3113733@1|SendItem@3114743@1|SendItem@3111753@1|SendItem@3115763@1|SendItem@3112773@1|SendItem@4233684@1|SendItem@3113885@1",
+			"argClient": ""
+		},
+		{
+			"id": 58,
+			"type": "战斗",
+			"name": "一键加涂装武器配件",
+			"arg": "SendItem@7332014@1|SendItem@7334024@1|SendItem@7335034@1|SendItem@7433044@1|SendItem@6311054@1|SendItem@6311064@1|SendItem@6311074@1|SendItem@6311084@1|SendItem@6311094@1|SendItem@6311104@1|SendItem@6311114@1|SendItem@6311124@1|SendItem@6311134@1|SendItem@6311144@1|SendItem@6311154@1|SendItem@6311164@1|SendItem@6311174@1|SendItem@6311184@1|SendItem@6311194@1|SendItem@6311204@1|SendItem@6311214@1|SendItem@6311224@1|SendItem@6312234@1|SendItem@6312244@1|SendItem@6312254@1|SendItem@6312264@1|SendItem@6312274@1|SendItem@6312284@1|SendItem@6312294@1|SendItem@6312304@1|SendItem@6312314@1|SendItem@6312324@1|SendItem@6312334@1|SendItem@6312344@1|SendItem@6312354@1|SendItem@6312364@1|SendItem@6312374@1|SendItem@6312384@1|SendItem@6312394@1|SendItem@6312404@1|SendItem@6312414@1|SendItem@6312424@1|SendItem@6312434@1|SendItem@6312444@1|SendItem@6312454@1|SendItem@6312464@1|SendItem@6313474@1|SendItem@6313484@1|SendItem@6313494@1|SendItem@6313504@1|SendItem@6313514@1|SendItem@6313524@1|SendItem@6314534@1|SendItem@6314544@1|SendItem@6314554@1|SendItem@6314564@1|SendItem@6314574@1|SendItem@6314584@1|SendItem@6315624@1|SendItem@6315634@1|SendItem@6315644@1|SendItem@6315654@1|SendItem@6315664@1|SendItem@6315674@1|SendItem@6316684@1|SendItem@6316694@1|SendItem@6316704@1|SendItem@6316714@1|SendItem@6316724@1|SendItem@6316734@1",
+			"argClient": ""
+		},
+		{
+			"id": 59,
+			"type": "战斗",
+			"name": "1.5玛绮朵+新增皮肤+枪",
+			"arg": "SendItem@31048@1|SendItem@31049@1|SendItem@31050@1|SendItem@31051@1|SendItem@10341@1|SendItem@10342@1|SendItem@10343@1|SendItem@10343@1|SendItem@1034@1",
+			"argClient": ""
+		},
+		{
+			"id": 60,
+			"type": "战斗",
+			"name": "兵棋推演上榜积分1500",
+			"arg": "GmHighPvpSetData@1500@1@1",
+			"argClient": ""
+		},
+		{
+			"id": 61,
+			"type": "战斗",
+			"name": "兵棋推演上榜积分1",
+			"arg": "GmHighPvpSetData@1@1@1",
+			"argClient": ""
+		},
+		{
+			"id": 62,
+			"type": "战斗",
+			"name": "兵棋推演-加次数",
+			"arg": "SendItem@106@5",
+			"argClient": ""
+		},
+		{
+			"id": 63,
+			"type": "战斗",
+			"name": "无尽映射-第3期全解锁",
+			"arg": "GmSetPoint@3100@2000|GmSetPoint@3200@2000|GmSetPoint@3300@2000|GmSetPoint@3400@2000|GmSetPoint@3500@2000",
+			"argClient": ""
+		},
+		{
+			"id": 64,
+			"type": "战斗",
+			"name": "首领挑战-跳到下一层BOSS",
+			"arg": "GmSimCombatWeekFinishTask",
+			"argClient": ""
+		},
+		{
+			"id": 65,
+			"type": "战斗",
+			"name": "首领挑战-完成全部BOSS关卡",
+			"arg": "GmSimCombatWeekLast",
+			"argClient": ""
+		},
+		{
+			"id": 66,
+			"type": "战斗",
+			"name": "首领挑战-增加挑战次数",
+			"arg": "SendItem@304@5",
+			"argClient": ""
+		},
+		{
+			"id": 67,
+			"type": "战斗",
+			"name": "峰值推定-解锁阶群1-6",
+			"arg": "GMSetMythicStage@6@5@1",
+			"argClient": ""
+		},
+		{
+			"id": 68,
+			"type": "战斗",
+			"name": "扩编实练-一键解锁所有关卡",
+			"arg": "NotifyStagePass@28011@true|NotifyStagePass@28012@true|NotifyStagePass@28013@true|NotifyStagePass@28014@true|NotifyStagePass@28015@true|NotifyStagePass@28021@true|NotifyStagePass@28022@true|NotifyStagePass@28023@true|NotifyStagePass@28024@true|NotifyStagePass@28025@true|NotifyStagePass@28031@true|NotifyStagePass@28032@true|NotifyStagePass@28033@true|NotifyStagePass@28034@true|NotifyStagePass@28035@true|NotifyStagePass@28041@true|NotifyStagePass@28042@true|NotifyStagePass@28043@true|NotifyStagePass@28044@true|NotifyStagePass@28045@true|NotifyStagePass@28051@true|NotifyStagePass@28052@true|NotifyStagePass@28053@true|NotifyStagePass@28054@true|NotifyStagePass@28055@true|NotifyStagePass@28061@true|NotifyStagePass@28062@true|NotifyStagePass@28063@true|NotifyStagePass@28064@true|NotifyStagePass@28065@true|NotifyStagePass@28071@true|NotifyStagePass@28072@true|NotifyStagePass@28073@true|NotifyStagePass@28074@true|NotifyStagePass@28075@true|NotifyStagePass@28081@true|NotifyStagePass@28082@true|NotifyStagePass@28083@true|NotifyStagePass@28084@true|NotifyStagePass@28085@true|NotifyStagePass@28091@true|NotifyStagePass@28092@true|NotifyStagePass@28093@true|NotifyStagePass@28094@true|NotifyStagePass@28095@true|NotifyStagePass@28101@true|NotifyStagePass@28102@true|NotifyStagePass@28103@true|NotifyStagePass@28104@true|NotifyStagePass@28105@true",
+			"argClient": ""
+		},
+		{
+			"id": 69,
+			"type": "战斗",
+			"name": "1.6乌尔丽德+新增皮肤+枪",
+			"arg": "SendItem@1037@1|SendItem@10373@1|SendItem@10372@1|SendItem@10371@1|SendItem@10411@1|SendItem@10412@1|SendItem@1041@1|SendItem@31048@1",
+			"argClient": ""
+		},
+		{
+			"id": 70,
+			"type": "战斗",
+			"name": "教学本--掩体攻防页签全通关",
+			"arg": "RecursiveUnlocksTutorial@41111",
+			"argClient": ""
+		},
+		{
+			"id": 71,
+			"type": "战斗",
+			"name": "教学本--战场机制页签全通关",
+			"arg": "RecursiveUnlocksTutorial@41211",
+			"argClient": ""
+		},
+		{
+			"id": 72,
+			"type": "战斗",
+			"name": "教学本--战场机制页签全通关",
+			"arg": "RecursiveUnlocksTutorial@41316",
+			"argClient": ""
+		},
+		{
+			"id": 73,
+			"type": "战斗",
+			"name": "教学本--所有关卡全通关",
+			"arg": "RecursiveUnlocksTutorial@41414",
+			"argClient": ""
+		},
+		{
+			"id": 74,
+			"type": "暗区",
+			"name": "一键解锁暗区新旧所有关卡",
+			"arg": "DarkZoneUnlockQuest",
+			"argClient": ""
+		},
+		{
+			"id": 75,
+			"type": "战斗",
+			"name": "1.7索米+新增皮肤+枪",
+			"arg": "SendItem@1039@1|SendItem@1041@1|SendItem@31051@1|SendItem@10411@1|SendItem@10412@1|SendItem@10391@1|SendItem@10392@1",
+			"argClient": ""
+		},
+		{
+			"id": 76,
+			"type": "战斗",
+			"name": "扩编实练-一键解锁所有关卡",
+			"arg": "NotifyStagePass@28011@true|NotifyStagePass@28012@true|NotifyStagePass@28013@true|NotifyStagePass@28014@true|NotifyStagePass@28015@true|NotifyStagePass@28021@true|NotifyStagePass@28022@true|NotifyStagePass@28023@true|NotifyStagePass@28024@true|NotifyStagePass@28025@true|NotifyStagePass@28031@true|NotifyStagePass@28032@true|NotifyStagePass@28033@true|NotifyStagePass@28034@true|NotifyStagePass@28035@true|NotifyStagePass@28041@true|NotifyStagePass@28042@true|NotifyStagePass@28043@true|NotifyStagePass@28044@true|NotifyStagePass@28045@true|NotifyStagePass@28051@true|NotifyStagePass@28052@true|NotifyStagePass@28053@true|NotifyStagePass@28054@true|NotifyStagePass@28055@true|NotifyStagePass@28061@true|NotifyStagePass@28062@true|NotifyStagePass@28063@true|NotifyStagePass@28064@true|NotifyStagePass@28065@true|NotifyStagePass@28071@true|NotifyStagePass@28072@true|NotifyStagePass@28073@true|NotifyStagePass@28074@true|NotifyStagePass@28075@true|NotifyStagePass@28081@true|NotifyStagePass@28082@true|NotifyStagePass@28083@true|NotifyStagePass@28084@true|NotifyStagePass@28085@true|NotifyStagePass@28091@true|NotifyStagePass@28092@true|NotifyStagePass@28093@true|NotifyStagePass@28094@true|NotifyStagePass@28095@true|NotifyStagePass@28101@true|NotifyStagePass@28102@true|NotifyStagePass@28103@true|NotifyStagePass@28104@true|NotifyStagePass@28105@true|NotifyStagePass@28111@true|NotifyStagePass@28112@true|NotifyStagePass@28113@true|NotifyStagePass@28115@true|NotifyStagePass@28115@true|NotifyStagePass@28131@true|NotifyStagePass@28132@true|NotifyStagePass@28133@true|NotifyStagePass@28134@true|NotifyStagePass@28135@true|NotifyStagePass@28121@true|NotifyStagePass@28122@true|NotifyStagePass@28123@true|NotifyStagePass@28124@true|NotifyStagePass@28125@true|NotifyStagePass@28141@true|NotifyStagePass@28142@true|NotifyStagePass@28143@true|NotifyStagePass@28144@true|NotifyStagePass@28145@true|NotifyStagePass@28146@true|NotifyStagePass@28147@true|NotifyStagePass@28148@true|NotifyStagePass@28149@true|NotifyStagePass@28150@true|NotifyStagePass@28151@true|NotifyStagePass@28152@true|NotifyStagePass@28153@true|NotifyStagePass@28154@true|NotifyStagePass@28155@true|NotifyStagePass@28156@true",
+			"argClient": ""
+		},
+		{
+			"id": 77,
+			"type": "战斗",
+			"name": "1.8杜莎妮+新增塞布丽娜皮肤+枪（传颂之诗",
+			"arg": "SendItem@1023@1|SendItem@31052@1|SendItem@10231@1|SendItem@10232@1|SendItem@10233@1",
+			"argClient": ""
+		},
+		{
+			"id": 78,
+			"type": "战斗",
+			"name": "2.1可露凯+可露凯兔女郎皮肤+托落落皮肤+枪（HK416",
+			"arg": "SendItem@31050@1|SendItem@31054@1|SendItem@1052@1|SendItem@10521@1|SendItem@10522@1|SendItem@10523@1",
+			"argClient": ""
+		},
+		{
+			"id": 79,
+			"type": "战斗",
+			"name": "地层探索关卡全解锁（开发中",
+			"arg": "SendItem@31050@1",
+			"argClient": ""
+		},
+		{
+			"id": 80,
+			"type": "战斗",
+			"name": "好感度关卡解锁：\nGMSetLoveVowed@1001 \nGMSetLoveLevel@1001@5（自己去GM输入框执行）",
+			"arg": "GMSetLoveVowed@1001|GMSetLoveLevel@1001@5",
+			"argClient": ""
+		}
+	]
+}

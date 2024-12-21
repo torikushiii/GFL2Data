@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"activityName": "Lucky Draw Machine",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 102,
+			"activityName": "Lucky Draw Machine",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 103,
+			"activityName": "Card Game Test Gacha Pool",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 104,
+			"activityName": "Surprise Data Pool",
+			"gachaItem": 170103,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Cloud Exercise to obtain Lion's Mane Awards and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lion's Mane Award and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 105,
+			"activityName": "Jiangyu Test Gacha Pool",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 106,
+			"activityName": "Jiangyu Test Gacha Pool",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		},
+		{
+			"id": 107,
+			"activityName": "Card Game Test Gacha Pool",
+			"gachaItem": 170001,
+			"gachaCost": 30,
+			"unusedItemId": {
+				"2": 20
+			},
+			"gachaDesc": "Take part in the Chase Concerto to obtain Lucky Draw Tickets and win prizes!",
+			"gachaBg": "Daiyan/Img_ActivityGacha_Bg",
+			"gachaHelp": "About Resetting:\nAfter consuming a Lucky Draw Ticket and obtaining the Premium Prize from the prize pool, you can choose to reset the reward list.\nUpon resetting the chosen prize pool, it will switch to a new prize pool, and the rewards in the current prize pool will no longer be obtainable. \nOnce you've reset to the fifth prize pool, you can only reset again after obtaining all the rewards on the list."
+		}
+	]
+}

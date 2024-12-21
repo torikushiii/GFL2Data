@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"id": 6542,
+			"typeCode": 2,
+			"parentModel": "Bolidao_ReclamationExpertPhantomMix",
+			"prefabType": 1,
+			"figureType": 9,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120
+		},
+		{
+			"id": 6931,
+			"typeCode": 2,
+			"parentModel": "MISC_deepWarship01",
+			"prefabType": 1,
+			"figureType": 8,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120
+		},
+		{
+			"id": 6936,
+			"typeCode": 2,
+			"parentModel": "MISC_deepWarship02",
+			"prefabType": 1,
+			"figureType": 8,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120
+		},
+		{
+			"id": 6941,
+			"typeCode": 2,
+			"parentModel": "MISC_deepWarship03",
+			"prefabType": 1,
+			"figureType": 8,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120
+		},
+		{
+			"id": 6963,
+			"typeCode": 2,
+			"parentModel": "NONE_KoshmarMix",
+			"prefabType": 1,
+			"figureType": 8,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"title": "Black Zone - BLACK",
+			"description": "A type of \"plant\" akin to Collapse Epiphyllums grow in certain windward, low-lying areas in the Black Zones, where the ground is carpeted with silicificated Collapse crystals.\nThe sky is filled with clusters of clouds that never dissipate, hindering external exploration efforts of the Black Zones and concealing the Black Zone sanctuary and the research institute beneath it.",
+			"background": "update_Bg1"
+		},
+		{
+			"id": 2,
+			"title": "Black Zone - BLACK",
+			"description": "A type of \"plant\" akin to Collapse Epiphyllums grow in certain windward, low-lying areas in the Black Zones, where the ground is carpeted with silicificated Collapse crystals.\nThe sky is filled with clusters of clouds that never dissipate, hindering external exploration efforts of the Black Zones and concealing the Black Zone sanctuary and the research institute beneath it.",
+			"background": "update_Bg2"
+		},
+		{
+			"id": 3,
+			"title": "Black Zone - BLACK",
+			"description": "A type of \"plant\" akin to Collapse Epiphyllums grow in certain windward, low-lying areas in the Black Zones, where the ground is carpeted with silicificated Collapse crystals.\nThe sky is filled with clusters of clouds that never dissipate, hindering external exploration efforts of the Black Zones and concealing the Black Zone sanctuary and the research institute beneath it.",
+			"background": "update_Bg3"
+		},
+		{
+			"id": 4,
+			"title": "Black Zone - BLACK",
+			"description": "A type of \"plant\" akin to Collapse Epiphyllums grow in certain windward, low-lying areas in the Black Zones, where the ground is carpeted with silicificated Collapse crystals.\nThe sky is filled with clusters of clouds that never dissipate, hindering external exploration efforts of the Black Zones and concealing the Black Zone sanctuary and the research institute beneath it.",
+			"background": "update_Bg4"
+		}
+	]
+}

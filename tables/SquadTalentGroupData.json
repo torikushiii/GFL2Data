@@ -1,0 +1,5900 @@
+{
+	"data": [
+		{
+			"pointId": "1001001001",
+			"squadTalentTreeGroup": 1001001,
+			"openType": 1001002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100101"
+			],
+			"level": 210010101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1001002001",
+			"squadTalentTreeGroup": 1001002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 400102,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100102"
+			],
+			"level": 210010201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001002002",
+			"squadTalentTreeGroup": 1001002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 400102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100101"
+			],
+			"level": 310010101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001002003",
+			"squadTalentTreeGroup": 1001002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 400102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100102"
+			],
+			"level": 310010201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001003001",
+			"squadTalentTreeGroup": 1001003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1001004001,
+			"unlockCondition": 1,
+			"pointType": 400103,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100103"
+			],
+			"level": 210010301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1001004001",
+			"squadTalentTreeGroup": 1001004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 400104,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100104"
+			],
+			"level": 210010401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001004002",
+			"squadTalentTreeGroup": 1001004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 400104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100103"
+			],
+			"level": 310010301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001004003",
+			"squadTalentTreeGroup": 1001004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 400104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100104"
+			],
+			"level": 310010401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001005001",
+			"squadTalentTreeGroup": 1001005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1001006001,
+			"unlockCondition": 1,
+			"pointType": 400105,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100105"
+			],
+			"level": 210010501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1001006001",
+			"squadTalentTreeGroup": 1001006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 400106,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100106"
+			],
+			"level": 210010601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001006002",
+			"squadTalentTreeGroup": 1001006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 400106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100105"
+			],
+			"level": 310010501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001006003",
+			"squadTalentTreeGroup": 1001006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 400106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100106"
+			],
+			"level": 310010601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1001007001",
+			"squadTalentTreeGroup": 1001007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100107"
+			],
+			"level": 310010701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1002001001",
+			"squadTalentTreeGroup": 1002001,
+			"openType": 1002002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100201"
+			],
+			"level": 210020101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1002002001",
+			"squadTalentTreeGroup": 1002002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 400802,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100202"
+			],
+			"level": 210020201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002002002",
+			"squadTalentTreeGroup": 1002002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 400802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100201"
+			],
+			"level": 310020101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002002003",
+			"squadTalentTreeGroup": 1002002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 400802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100202"
+			],
+			"level": 310020201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002003001",
+			"squadTalentTreeGroup": 1002003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1002004001,
+			"unlockCondition": 1,
+			"pointType": 400803,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100203"
+			],
+			"level": 210020301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1002004001",
+			"squadTalentTreeGroup": 1002004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 400804,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100204"
+			],
+			"level": 210020401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002004002",
+			"squadTalentTreeGroup": 1002004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 400804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100203"
+			],
+			"level": 310020301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002004003",
+			"squadTalentTreeGroup": 1002004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 400804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100204"
+			],
+			"level": 310020401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002005001",
+			"squadTalentTreeGroup": 1002005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1002006001,
+			"unlockCondition": 1,
+			"pointType": 400805,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100205"
+			],
+			"level": 210020501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1002006001",
+			"squadTalentTreeGroup": 1002006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 400806,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100206"
+			],
+			"level": 210020601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002006002",
+			"squadTalentTreeGroup": 1002006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 400806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100205"
+			],
+			"level": 310020501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002006003",
+			"squadTalentTreeGroup": 1002006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 400806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100206"
+			],
+			"level": 310020601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1002007001",
+			"squadTalentTreeGroup": 1002007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100207"
+			],
+			"level": 310020701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1003001001",
+			"squadTalentTreeGroup": 1003001,
+			"openType": 1003002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100301"
+			],
+			"level": 210030101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1003002001",
+			"squadTalentTreeGroup": 1003002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 400902,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100302"
+			],
+			"level": 210030201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003002002",
+			"squadTalentTreeGroup": 1003002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 400902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100301"
+			],
+			"level": 310030101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003002003",
+			"squadTalentTreeGroup": 1003002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 400902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100302"
+			],
+			"level": 310030201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003003001",
+			"squadTalentTreeGroup": 1003003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1003004001,
+			"unlockCondition": 1,
+			"pointType": 400903,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100303"
+			],
+			"level": 210030301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1003004001",
+			"squadTalentTreeGroup": 1003004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 400904,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100304"
+			],
+			"level": 210030401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003004002",
+			"squadTalentTreeGroup": 1003004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 400904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100303"
+			],
+			"level": 310030301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003004003",
+			"squadTalentTreeGroup": 1003004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 400904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100304"
+			],
+			"level": 310030401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003005001",
+			"squadTalentTreeGroup": 1003005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1003006001,
+			"unlockCondition": 1,
+			"pointType": 400905,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100305"
+			],
+			"level": 210030501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1003006001",
+			"squadTalentTreeGroup": 1003006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 400906,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100306"
+			],
+			"level": 210030601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003006002",
+			"squadTalentTreeGroup": 1003006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 400906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100305"
+			],
+			"level": 310030501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003006003",
+			"squadTalentTreeGroup": 1003006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 400906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100306"
+			],
+			"level": 310030601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1003007001",
+			"squadTalentTreeGroup": 1003007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100307"
+			],
+			"level": 310030701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1004001001",
+			"squadTalentTreeGroup": 1004001,
+			"openType": 1004002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100401"
+			],
+			"level": 210040101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1004002001",
+			"squadTalentTreeGroup": 1004002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 401502,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100402"
+			],
+			"level": 210040201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004002002",
+			"squadTalentTreeGroup": 1004002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 401502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100401"
+			],
+			"level": 310040101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004002003",
+			"squadTalentTreeGroup": 1004002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 401502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100402"
+			],
+			"level": 310040201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004003001",
+			"squadTalentTreeGroup": 1004003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1004004001,
+			"unlockCondition": 1,
+			"pointType": 401503,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100403"
+			],
+			"level": 210040301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1004004001",
+			"squadTalentTreeGroup": 1004004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 401504,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100404"
+			],
+			"level": 210040401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004004002",
+			"squadTalentTreeGroup": 1004004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 401504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100403"
+			],
+			"level": 310040301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004004003",
+			"squadTalentTreeGroup": 1004004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 401504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100404"
+			],
+			"level": 310040401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004005001",
+			"squadTalentTreeGroup": 1004005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1004006001,
+			"unlockCondition": 1,
+			"pointType": 401505,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100405"
+			],
+			"level": 210040501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1004006001",
+			"squadTalentTreeGroup": 1004006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 401506,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100406"
+			],
+			"level": 210040601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004006002",
+			"squadTalentTreeGroup": 1004006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 401506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100405"
+			],
+			"level": 310040501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004006003",
+			"squadTalentTreeGroup": 1004006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 401506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100406"
+			],
+			"level": 310040601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1004007001",
+			"squadTalentTreeGroup": 1004007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100407"
+			],
+			"level": 310040701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1005001001",
+			"squadTalentTreeGroup": 1005001,
+			"openType": 1005002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100501"
+			],
+			"level": 210050101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1005002001",
+			"squadTalentTreeGroup": 1005002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 401702,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100502"
+			],
+			"level": 210050201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005002002",
+			"squadTalentTreeGroup": 1005002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 401702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100501"
+			],
+			"level": 310050101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005002003",
+			"squadTalentTreeGroup": 1005002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 401702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100502"
+			],
+			"level": 310050201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005003001",
+			"squadTalentTreeGroup": 1005003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1005004001,
+			"unlockCondition": 1,
+			"pointType": 401703,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100503"
+			],
+			"level": 210050301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1005004001",
+			"squadTalentTreeGroup": 1005004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 401704,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100504"
+			],
+			"level": 210050401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005004002",
+			"squadTalentTreeGroup": 1005004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 401704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100503"
+			],
+			"level": 310050301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005004003",
+			"squadTalentTreeGroup": 1005004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 401704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100504"
+			],
+			"level": 310050401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005005001",
+			"squadTalentTreeGroup": 1005005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1005006001,
+			"unlockCondition": 1,
+			"pointType": 401705,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100505"
+			],
+			"level": 210050501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1005006001",
+			"squadTalentTreeGroup": 1005006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 401706,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100506"
+			],
+			"level": 210050601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005006002",
+			"squadTalentTreeGroup": 1005006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 401706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100505"
+			],
+			"level": 310050501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005006003",
+			"squadTalentTreeGroup": 1005006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 401706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100506"
+			],
+			"level": 310050601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1005007001",
+			"squadTalentTreeGroup": 1005007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100507"
+			],
+			"level": 310050701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1006001001",
+			"squadTalentTreeGroup": 1006001,
+			"openType": 1006002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100601"
+			],
+			"level": 210060101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1006002001",
+			"squadTalentTreeGroup": 1006002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402202,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100602"
+			],
+			"level": 210060201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006002002",
+			"squadTalentTreeGroup": 1006002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100601"
+			],
+			"level": 310060101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006002003",
+			"squadTalentTreeGroup": 1006002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100602"
+			],
+			"level": 310060201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006003001",
+			"squadTalentTreeGroup": 1006003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1006004001,
+			"unlockCondition": 1,
+			"pointType": 402203,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100603"
+			],
+			"level": 210060301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1006004001",
+			"squadTalentTreeGroup": 1006004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402204,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100604"
+			],
+			"level": 210060401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006004002",
+			"squadTalentTreeGroup": 1006004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100603"
+			],
+			"level": 310060301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006004003",
+			"squadTalentTreeGroup": 1006004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100604"
+			],
+			"level": 310060401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006005001",
+			"squadTalentTreeGroup": 1006005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1006006001,
+			"unlockCondition": 1,
+			"pointType": 402205,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100605"
+			],
+			"level": 210060501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1006006001",
+			"squadTalentTreeGroup": 1006006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402206,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100606"
+			],
+			"level": 210060601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006006002",
+			"squadTalentTreeGroup": 1006006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100605"
+			],
+			"level": 310060501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006006003",
+			"squadTalentTreeGroup": 1006006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100606"
+			],
+			"level": 310060601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1006007001",
+			"squadTalentTreeGroup": 1006007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100607"
+			],
+			"level": 310060701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1007001001",
+			"squadTalentTreeGroup": 1007001,
+			"openType": 1007002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100701"
+			],
+			"level": 210070101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1007002001",
+			"squadTalentTreeGroup": 1007002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402302,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100702"
+			],
+			"level": 210070201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007002002",
+			"squadTalentTreeGroup": 1007002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100701"
+			],
+			"level": 310070101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007002003",
+			"squadTalentTreeGroup": 1007002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100702"
+			],
+			"level": 310070201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007003001",
+			"squadTalentTreeGroup": 1007003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1007004001,
+			"unlockCondition": 1,
+			"pointType": 402303,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100703"
+			],
+			"level": 210070301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1007004001",
+			"squadTalentTreeGroup": 1007004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402304,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100704"
+			],
+			"level": 210070401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007004002",
+			"squadTalentTreeGroup": 1007004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100703"
+			],
+			"level": 310070301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007004003",
+			"squadTalentTreeGroup": 1007004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100704"
+			],
+			"level": 310070401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007005001",
+			"squadTalentTreeGroup": 1007005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1007006001,
+			"unlockCondition": 1,
+			"pointType": 402305,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100705"
+			],
+			"level": 210070501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1007006001",
+			"squadTalentTreeGroup": 1007006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402306,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100706"
+			],
+			"level": 210070601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007006002",
+			"squadTalentTreeGroup": 1007006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100705"
+			],
+			"level": 310070501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007006003",
+			"squadTalentTreeGroup": 1007006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100706"
+			],
+			"level": 310070601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1007007001",
+			"squadTalentTreeGroup": 1007007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100707"
+			],
+			"level": 310070701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1008001001",
+			"squadTalentTreeGroup": 1008001,
+			"openType": 1008002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100801"
+			],
+			"level": 210080101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1008002001",
+			"squadTalentTreeGroup": 1008002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403302,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100802"
+			],
+			"level": 210080201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008002002",
+			"squadTalentTreeGroup": 1008002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100801"
+			],
+			"level": 310080101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008002003",
+			"squadTalentTreeGroup": 1008002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100802"
+			],
+			"level": 310080201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008003001",
+			"squadTalentTreeGroup": 1008003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1008004001,
+			"unlockCondition": 1,
+			"pointType": 403303,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100803"
+			],
+			"level": 210080301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1008004001",
+			"squadTalentTreeGroup": 1008004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403304,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100804"
+			],
+			"level": 210080401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008004002",
+			"squadTalentTreeGroup": 1008004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100803"
+			],
+			"level": 310080301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008004003",
+			"squadTalentTreeGroup": 1008004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100804"
+			],
+			"level": 310080401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008005001",
+			"squadTalentTreeGroup": 1008005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1008006001,
+			"unlockCondition": 1,
+			"pointType": 403305,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100805"
+			],
+			"level": 210080501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1008006001",
+			"squadTalentTreeGroup": 1008006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403306,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100806"
+			],
+			"level": 210080601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008006002",
+			"squadTalentTreeGroup": 1008006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100805"
+			],
+			"level": 310080501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008006003",
+			"squadTalentTreeGroup": 1008006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100806"
+			],
+			"level": 310080601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1008007001",
+			"squadTalentTreeGroup": 1008007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100807"
+			],
+			"level": 310080701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1009001001",
+			"squadTalentTreeGroup": 1009001,
+			"openType": 1009002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100901"
+			],
+			"level": 210090101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1009002001",
+			"squadTalentTreeGroup": 1009002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402102,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100902"
+			],
+			"level": 210090201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009002002",
+			"squadTalentTreeGroup": 1009002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100901"
+			],
+			"level": 310090101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009002003",
+			"squadTalentTreeGroup": 1009002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100902"
+			],
+			"level": 310090201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009003001",
+			"squadTalentTreeGroup": 1009003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1009004001,
+			"unlockCondition": 1,
+			"pointType": 402103,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100903"
+			],
+			"level": 210090301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1009004001",
+			"squadTalentTreeGroup": 1009004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402104,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100904"
+			],
+			"level": 210090401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009004002",
+			"squadTalentTreeGroup": 1009004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100903"
+			],
+			"level": 310090301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009004003",
+			"squadTalentTreeGroup": 1009004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100904"
+			],
+			"level": 310090401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009005001",
+			"squadTalentTreeGroup": 1009005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1009006001,
+			"unlockCondition": 1,
+			"pointType": 402105,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100905"
+			],
+			"level": 210090501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1009006001",
+			"squadTalentTreeGroup": 1009006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402106,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2100906"
+			],
+			"level": 210090601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009006002",
+			"squadTalentTreeGroup": 1009006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100905"
+			],
+			"level": 310090501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009006003",
+			"squadTalentTreeGroup": 1009006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3100906"
+			],
+			"level": 310090601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1009007001",
+			"squadTalentTreeGroup": 1009007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3100907"
+			],
+			"level": 310090701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1010001001",
+			"squadTalentTreeGroup": 1010001,
+			"openType": 1010002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101001"
+			],
+			"level": 210100101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1010002001",
+			"squadTalentTreeGroup": 1010002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402402,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101002"
+			],
+			"level": 210100201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010002002",
+			"squadTalentTreeGroup": 1010002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101001"
+			],
+			"level": 310100101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010002003",
+			"squadTalentTreeGroup": 1010002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101002"
+			],
+			"level": 310100201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010003001",
+			"squadTalentTreeGroup": 1010003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1010004001,
+			"unlockCondition": 1,
+			"pointType": 402403,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101003"
+			],
+			"level": 210100301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1010004001",
+			"squadTalentTreeGroup": 1010004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402404,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101004"
+			],
+			"level": 210100401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010004002",
+			"squadTalentTreeGroup": 1010004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101003"
+			],
+			"level": 310100301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010004003",
+			"squadTalentTreeGroup": 1010004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101004"
+			],
+			"level": 310100401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010005001",
+			"squadTalentTreeGroup": 1010005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1010006001,
+			"unlockCondition": 1,
+			"pointType": 402405,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101005"
+			],
+			"level": 210100501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1010006001",
+			"squadTalentTreeGroup": 1010006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402406,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101006"
+			],
+			"level": 210100601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010006002",
+			"squadTalentTreeGroup": 1010006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101005"
+			],
+			"level": 310100501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010006003",
+			"squadTalentTreeGroup": 1010006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101006"
+			],
+			"level": 310100601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1010007001",
+			"squadTalentTreeGroup": 1010007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101007"
+			],
+			"level": 310100701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1011001001",
+			"squadTalentTreeGroup": 1011001,
+			"openType": 1011002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101101"
+			],
+			"level": 210110101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1011002001",
+			"squadTalentTreeGroup": 1011002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402502,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101102"
+			],
+			"level": 210110201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011002002",
+			"squadTalentTreeGroup": 1011002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101101"
+			],
+			"level": 310110101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011002003",
+			"squadTalentTreeGroup": 1011002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101102"
+			],
+			"level": 310110201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011003001",
+			"squadTalentTreeGroup": 1011003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1011004001,
+			"unlockCondition": 1,
+			"pointType": 402503,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101103"
+			],
+			"level": 210110301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1011004001",
+			"squadTalentTreeGroup": 1011004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402504,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101104"
+			],
+			"level": 210110401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011004002",
+			"squadTalentTreeGroup": 1011004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101103"
+			],
+			"level": 310110301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011004003",
+			"squadTalentTreeGroup": 1011004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101104"
+			],
+			"level": 310110401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011005001",
+			"squadTalentTreeGroup": 1011005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1011006001,
+			"unlockCondition": 1,
+			"pointType": 402505,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101105"
+			],
+			"level": 210110501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1011006001",
+			"squadTalentTreeGroup": 1011006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402506,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101106"
+			],
+			"level": 210110601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011006002",
+			"squadTalentTreeGroup": 1011006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101105"
+			],
+			"level": 310110501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011006003",
+			"squadTalentTreeGroup": 1011006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101106"
+			],
+			"level": 310110601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1011007001",
+			"squadTalentTreeGroup": 1011007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101107"
+			],
+			"level": 310110701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1012001001",
+			"squadTalentTreeGroup": 1012001,
+			"openType": 1012002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101201"
+			],
+			"level": 210120101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1012002001",
+			"squadTalentTreeGroup": 1012002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402602,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101202"
+			],
+			"level": 210120201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012002002",
+			"squadTalentTreeGroup": 1012002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402602,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101201"
+			],
+			"level": 310120101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012002003",
+			"squadTalentTreeGroup": 1012002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402602,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101202"
+			],
+			"level": 310120201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012004001",
+			"squadTalentTreeGroup": 1012004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402604,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101204"
+			],
+			"level": 210120401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012004002",
+			"squadTalentTreeGroup": 1012004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402604,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101203"
+			],
+			"level": 310120301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012004003",
+			"squadTalentTreeGroup": 1012004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402604,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101204"
+			],
+			"level": 310120401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012005001",
+			"squadTalentTreeGroup": 1012005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1012006001,
+			"unlockCondition": 1,
+			"pointType": 402605,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101205"
+			],
+			"level": 210120501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1012006001",
+			"squadTalentTreeGroup": 1012006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402606,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101206"
+			],
+			"level": 210120601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012006002",
+			"squadTalentTreeGroup": 1012006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402606,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101205"
+			],
+			"level": 310120501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012006003",
+			"squadTalentTreeGroup": 1012006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402606,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101206"
+			],
+			"level": 310120601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1012007001",
+			"squadTalentTreeGroup": 1012007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101207"
+			],
+			"level": 310120701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1013001001",
+			"squadTalentTreeGroup": 1013001,
+			"openType": 1013002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101301"
+			],
+			"level": 210130101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1013002001",
+			"squadTalentTreeGroup": 1013002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402702,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101302"
+			],
+			"level": 210130201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013002002",
+			"squadTalentTreeGroup": 1013002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101301"
+			],
+			"level": 310130101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013002003",
+			"squadTalentTreeGroup": 1013002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101302"
+			],
+			"level": 310130201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013003001",
+			"squadTalentTreeGroup": 1013003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1013004001,
+			"unlockCondition": 1,
+			"pointType": 402703,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101303"
+			],
+			"level": 210130301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1013004001",
+			"squadTalentTreeGroup": 1013004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402704,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101304"
+			],
+			"level": 210130401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013004002",
+			"squadTalentTreeGroup": 1013004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101303"
+			],
+			"level": 310130301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013004003",
+			"squadTalentTreeGroup": 1013004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101304"
+			],
+			"level": 310130401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013005001",
+			"squadTalentTreeGroup": 1013005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1013006001,
+			"unlockCondition": 1,
+			"pointType": 402705,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101305"
+			],
+			"level": 210130501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1013006001",
+			"squadTalentTreeGroup": 1013006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402706,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101306"
+			],
+			"level": 210130601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013006002",
+			"squadTalentTreeGroup": 1013006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101305"
+			],
+			"level": 310130501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013006003",
+			"squadTalentTreeGroup": 1013006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101306"
+			],
+			"level": 310130601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1013007001",
+			"squadTalentTreeGroup": 1013007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101307"
+			],
+			"level": 310130701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1014001001",
+			"squadTalentTreeGroup": 1014001,
+			"openType": 1014002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101401"
+			],
+			"level": 210140101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1014002001",
+			"squadTalentTreeGroup": 1014002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402802,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101402"
+			],
+			"level": 210140201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014002002",
+			"squadTalentTreeGroup": 1014002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101401"
+			],
+			"level": 310140101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014002003",
+			"squadTalentTreeGroup": 1014002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101402"
+			],
+			"level": 310140201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014003001",
+			"squadTalentTreeGroup": 1014003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1014004001,
+			"unlockCondition": 1,
+			"pointType": 402803,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101403"
+			],
+			"level": 210140301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1014004001",
+			"squadTalentTreeGroup": 1014004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402804,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101404"
+			],
+			"level": 210140401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014004002",
+			"squadTalentTreeGroup": 1014004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101403"
+			],
+			"level": 310140301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014004003",
+			"squadTalentTreeGroup": 1014004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101404"
+			],
+			"level": 310140401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014005001",
+			"squadTalentTreeGroup": 1014005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1014006001,
+			"unlockCondition": 1,
+			"pointType": 402805,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101405"
+			],
+			"level": 210140501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1014006001",
+			"squadTalentTreeGroup": 1014006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402806,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101406"
+			],
+			"level": 210140601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014006002",
+			"squadTalentTreeGroup": 1014006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101405"
+			],
+			"level": 310140501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014006003",
+			"squadTalentTreeGroup": 1014006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101406"
+			],
+			"level": 310140601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1014007001",
+			"squadTalentTreeGroup": 1014007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101407"
+			],
+			"level": 310140701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1015001001",
+			"squadTalentTreeGroup": 1015001,
+			"openType": 1015002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101501"
+			],
+			"level": 210150101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1015002001",
+			"squadTalentTreeGroup": 1015002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 402902,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101502"
+			],
+			"level": 210150201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015002002",
+			"squadTalentTreeGroup": 1015002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 402902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101501"
+			],
+			"level": 310150101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015002003",
+			"squadTalentTreeGroup": 1015002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 402902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101502"
+			],
+			"level": 310150201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015003001",
+			"squadTalentTreeGroup": 1015003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1015004001,
+			"unlockCondition": 1,
+			"pointType": 402903,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101503"
+			],
+			"level": 210150301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1015004001",
+			"squadTalentTreeGroup": 1015004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 402904,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101504"
+			],
+			"level": 210150401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015004002",
+			"squadTalentTreeGroup": 1015004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 402904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101503"
+			],
+			"level": 310150301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015004003",
+			"squadTalentTreeGroup": 1015004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 402904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101504"
+			],
+			"level": 310150401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015005001",
+			"squadTalentTreeGroup": 1015005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1015006001,
+			"unlockCondition": 1,
+			"pointType": 402905,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101505"
+			],
+			"level": 210150501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1015006001",
+			"squadTalentTreeGroup": 1015006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 402906,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101506"
+			],
+			"level": 210150601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015006002",
+			"squadTalentTreeGroup": 1015006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 402906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101505"
+			],
+			"level": 310150501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015006003",
+			"squadTalentTreeGroup": 1015006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 402906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101506"
+			],
+			"level": 310150601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1015007001",
+			"squadTalentTreeGroup": 1015007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101507"
+			],
+			"level": 310150701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1016001001",
+			"squadTalentTreeGroup": 1016001,
+			"openType": 1016002001,
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101601"
+			],
+			"level": 210160101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": [],
+			"pointType": 0
+		},
+		{
+			"pointId": "1016002001",
+			"squadTalentTreeGroup": 1016002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403202,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101602"
+			],
+			"level": 210160201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016002002",
+			"squadTalentTreeGroup": 1016002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101601"
+			],
+			"level": 310160101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016002003",
+			"squadTalentTreeGroup": 1016002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101602"
+			],
+			"level": 310160201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016003001",
+			"squadTalentTreeGroup": 1016003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1016004001,
+			"unlockCondition": 1,
+			"pointType": 403203,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101603"
+			],
+			"level": 210160301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1016004001",
+			"squadTalentTreeGroup": 1016004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403204,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101604"
+			],
+			"level": 210160401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016004002",
+			"squadTalentTreeGroup": 1016004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101603"
+			],
+			"level": 310160301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016004003",
+			"squadTalentTreeGroup": 1016004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101604"
+			],
+			"level": 310160401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016005001",
+			"squadTalentTreeGroup": 1016005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1016006001,
+			"unlockCondition": 1,
+			"pointType": 403205,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101605"
+			],
+			"level": 210160501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1016006001",
+			"squadTalentTreeGroup": 1016006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403206,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101606"
+			],
+			"level": 210160601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016006002",
+			"squadTalentTreeGroup": 1016006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101605"
+			],
+			"level": 310160501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016006003",
+			"squadTalentTreeGroup": 1016006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101606"
+			],
+			"level": 310160601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1016007001",
+			"squadTalentTreeGroup": 1016007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101607"
+			],
+			"level": 310160701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1017001001",
+			"squadTalentTreeGroup": 1017001,
+			"openType": 1017002001,
+			"unlockCondition": 1,
+			"pointType": 403401,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101701"
+			],
+			"level": 210170101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1017002001",
+			"squadTalentTreeGroup": 1017002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403402,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101702"
+			],
+			"level": 210170201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017002002",
+			"squadTalentTreeGroup": 1017002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101701"
+			],
+			"level": 310170101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017002003",
+			"squadTalentTreeGroup": 1017002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101702"
+			],
+			"level": 310170201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017003001",
+			"squadTalentTreeGroup": 1017003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1017004001,
+			"unlockCondition": 1,
+			"pointType": 403403,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101703"
+			],
+			"level": 210170301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1017004001",
+			"squadTalentTreeGroup": 1017004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403404,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101704"
+			],
+			"level": 210170401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017004002",
+			"squadTalentTreeGroup": 1017004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101703"
+			],
+			"level": 310170301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017004003",
+			"squadTalentTreeGroup": 1017004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101704"
+			],
+			"level": 310170401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017005001",
+			"squadTalentTreeGroup": 1017005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1017006001,
+			"unlockCondition": 1,
+			"pointType": 403405,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101705"
+			],
+			"level": 210170501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1017006001",
+			"squadTalentTreeGroup": 1017006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403406,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101706"
+			],
+			"level": 210170601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017006002",
+			"squadTalentTreeGroup": 1017006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101705"
+			],
+			"level": 310170501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017006003",
+			"squadTalentTreeGroup": 1017006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101706"
+			],
+			"level": 310170601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1017007001",
+			"squadTalentTreeGroup": 1017007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101707"
+			],
+			"level": 310170701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1018001001",
+			"squadTalentTreeGroup": 1018001,
+			"openType": 1018002001,
+			"unlockCondition": 1,
+			"pointType": 403501,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101801"
+			],
+			"level": 210180101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1018002001",
+			"squadTalentTreeGroup": 1018002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403502,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101802"
+			],
+			"level": 210180201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018002002",
+			"squadTalentTreeGroup": 1018002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101801"
+			],
+			"level": 310180101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018002003",
+			"squadTalentTreeGroup": 1018002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403502,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101802"
+			],
+			"level": 310180201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018003001",
+			"squadTalentTreeGroup": 1018003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1018004001,
+			"unlockCondition": 1,
+			"pointType": 403503,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101803"
+			],
+			"level": 210180301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1018004001",
+			"squadTalentTreeGroup": 1018004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403504,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101804"
+			],
+			"level": 210180401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018004002",
+			"squadTalentTreeGroup": 1018004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101803"
+			],
+			"level": 310180301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018004003",
+			"squadTalentTreeGroup": 1018004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403504,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101804"
+			],
+			"level": 310180401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018005001",
+			"squadTalentTreeGroup": 1018005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1018006001,
+			"unlockCondition": 1,
+			"pointType": 403505,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101805"
+			],
+			"level": 210180501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1018006001",
+			"squadTalentTreeGroup": 1018006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403506,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101806"
+			],
+			"level": 210180601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018006002",
+			"squadTalentTreeGroup": 1018006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101805"
+			],
+			"level": 310180501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018006003",
+			"squadTalentTreeGroup": 1018006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403506,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101806"
+			],
+			"level": 310180601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1018007001",
+			"squadTalentTreeGroup": 1018007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101807"
+			],
+			"level": 310180701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1019001001",
+			"squadTalentTreeGroup": 1019001,
+			"openType": 1019002001,
+			"unlockCondition": 1,
+			"pointType": 403601,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101901"
+			],
+			"level": 210190101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1019002001",
+			"squadTalentTreeGroup": 1019002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403602,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101902"
+			],
+			"level": 210190201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019002002",
+			"squadTalentTreeGroup": 1019002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403602,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101901"
+			],
+			"level": 310190101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019002003",
+			"squadTalentTreeGroup": 1019002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403602,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101902"
+			],
+			"level": 310190201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019003001",
+			"squadTalentTreeGroup": 1019003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1019004001,
+			"unlockCondition": 1,
+			"pointType": 403603,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101903"
+			],
+			"level": 210190301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1019004001",
+			"squadTalentTreeGroup": 1019004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403604,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101904"
+			],
+			"level": 210190401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019004002",
+			"squadTalentTreeGroup": 1019004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403604,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101903"
+			],
+			"level": 310190301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019004003",
+			"squadTalentTreeGroup": 1019004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403604,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101904"
+			],
+			"level": 310190401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019005001",
+			"squadTalentTreeGroup": 1019005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1019006001,
+			"unlockCondition": 1,
+			"pointType": 403605,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101905"
+			],
+			"level": 210190501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1019006001",
+			"squadTalentTreeGroup": 1019006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403606,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101906"
+			],
+			"level": 210190601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019006002",
+			"squadTalentTreeGroup": 1019006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403606,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101905"
+			],
+			"level": 310190501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019006003",
+			"squadTalentTreeGroup": 1019006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403606,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3101906"
+			],
+			"level": 310190601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1019007001",
+			"squadTalentTreeGroup": 1019007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3101907"
+			],
+			"level": 310190701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1020001001",
+			"squadTalentTreeGroup": 1020001,
+			"openType": 1020002001,
+			"unlockCondition": 1,
+			"pointType": 403701,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102001"
+			],
+			"level": 210200101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1020002001",
+			"squadTalentTreeGroup": 1020002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403702,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102002"
+			],
+			"level": 210200201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020002002",
+			"squadTalentTreeGroup": 1020002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102001"
+			],
+			"level": 310200101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020002003",
+			"squadTalentTreeGroup": 1020002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403702,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102002"
+			],
+			"level": 310200201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020003001",
+			"squadTalentTreeGroup": 1020003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1020004001,
+			"unlockCondition": 1,
+			"pointType": 403703,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102003"
+			],
+			"level": 210200301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1020004001",
+			"squadTalentTreeGroup": 1020004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403704,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102004"
+			],
+			"level": 210200401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020004002",
+			"squadTalentTreeGroup": 1020004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102003"
+			],
+			"level": 310200301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020004003",
+			"squadTalentTreeGroup": 1020004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403704,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102004"
+			],
+			"level": 310200401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020005001",
+			"squadTalentTreeGroup": 1020005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1020006001,
+			"unlockCondition": 1,
+			"pointType": 403705,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102005"
+			],
+			"level": 210200501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1020006001",
+			"squadTalentTreeGroup": 1020006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403706,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102006"
+			],
+			"level": 210200601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020006002",
+			"squadTalentTreeGroup": 1020006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102005"
+			],
+			"level": 310200501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020006003",
+			"squadTalentTreeGroup": 1020006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403706,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102006"
+			],
+			"level": 310200601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1020007001",
+			"squadTalentTreeGroup": 1020007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102007"
+			],
+			"level": 310200701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1021001001",
+			"squadTalentTreeGroup": 1021001,
+			"openType": 1021002001,
+			"unlockCondition": 1,
+			"pointType": 403801,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102101"
+			],
+			"level": 210210101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1021002001",
+			"squadTalentTreeGroup": 1021002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403802,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102102"
+			],
+			"level": 210210201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021002002",
+			"squadTalentTreeGroup": 1021002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102101"
+			],
+			"level": 310210101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021002003",
+			"squadTalentTreeGroup": 1021002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403802,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102102"
+			],
+			"level": 310210201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021003001",
+			"squadTalentTreeGroup": 1021003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1021004001,
+			"unlockCondition": 1,
+			"pointType": 403803,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102103"
+			],
+			"level": 210210301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1021004001",
+			"squadTalentTreeGroup": 1021004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403804,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102104"
+			],
+			"level": 210210401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021004002",
+			"squadTalentTreeGroup": 1021004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102103"
+			],
+			"level": 310210301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021004003",
+			"squadTalentTreeGroup": 1021004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403804,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102104"
+			],
+			"level": 310210401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021005001",
+			"squadTalentTreeGroup": 1021005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1021006001,
+			"unlockCondition": 1,
+			"pointType": 403805,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102105"
+			],
+			"level": 210210501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1021006001",
+			"squadTalentTreeGroup": 1021006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403806,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102106"
+			],
+			"level": 210210601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021006002",
+			"squadTalentTreeGroup": 1021006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102105"
+			],
+			"level": 310210501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021006003",
+			"squadTalentTreeGroup": 1021006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403806,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102106"
+			],
+			"level": 310210601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1021007001",
+			"squadTalentTreeGroup": 1021007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102107"
+			],
+			"level": 310210701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1022001001",
+			"squadTalentTreeGroup": 1022001,
+			"openType": 1022002001,
+			"unlockCondition": 1,
+			"pointType": 403901,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102201"
+			],
+			"level": 210220101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1022002001",
+			"squadTalentTreeGroup": 1022002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 403902,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102202"
+			],
+			"level": 210220201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022002002",
+			"squadTalentTreeGroup": 1022002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 403902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102201"
+			],
+			"level": 310220101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022002003",
+			"squadTalentTreeGroup": 1022002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 403902,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102202"
+			],
+			"level": 310220201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022003001",
+			"squadTalentTreeGroup": 1022003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1022004001,
+			"unlockCondition": 1,
+			"pointType": 403903,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102203"
+			],
+			"level": 210220301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1022004001",
+			"squadTalentTreeGroup": 1022004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 403904,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102204"
+			],
+			"level": 210220401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022004002",
+			"squadTalentTreeGroup": 1022004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 403904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102203"
+			],
+			"level": 310220301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022004003",
+			"squadTalentTreeGroup": 1022004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 403904,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102204"
+			],
+			"level": 310220401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022005001",
+			"squadTalentTreeGroup": 1022005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1022006001,
+			"unlockCondition": 1,
+			"pointType": 403905,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102205"
+			],
+			"level": 210220501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1022006001",
+			"squadTalentTreeGroup": 1022006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 403906,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102206"
+			],
+			"level": 210220601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022006002",
+			"squadTalentTreeGroup": 1022006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 403906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102205"
+			],
+			"level": 310220501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022006003",
+			"squadTalentTreeGroup": 1022006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 403906,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102206"
+			],
+			"level": 310220601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1022007001",
+			"squadTalentTreeGroup": 1022007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102207"
+			],
+			"level": 310220701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1023001001",
+			"squadTalentTreeGroup": 1023001,
+			"openType": 1023002001,
+			"unlockCondition": 1,
+			"pointType": 404001,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102301"
+			],
+			"level": 210230101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1023002001",
+			"squadTalentTreeGroup": 1023002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 404002,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102302"
+			],
+			"level": 210230201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023002002",
+			"squadTalentTreeGroup": 1023002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 404002,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102301"
+			],
+			"level": 310230101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023002003",
+			"squadTalentTreeGroup": 1023002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 404002,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102302"
+			],
+			"level": 310230201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023003001",
+			"squadTalentTreeGroup": 1023003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1023004001,
+			"unlockCondition": 1,
+			"pointType": 404003,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102303"
+			],
+			"level": 210230301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1023004001",
+			"squadTalentTreeGroup": 1023004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 404004,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102304"
+			],
+			"level": 210230401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023004002",
+			"squadTalentTreeGroup": 1023004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 404004,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102303"
+			],
+			"level": 310230301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023004003",
+			"squadTalentTreeGroup": 1023004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 404004,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102304"
+			],
+			"level": 310230401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023005001",
+			"squadTalentTreeGroup": 1023005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1023006001,
+			"unlockCondition": 1,
+			"pointType": 404005,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102305"
+			],
+			"level": 210230501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1023006001",
+			"squadTalentTreeGroup": 1023006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 404006,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102306"
+			],
+			"level": 210230601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023006002",
+			"squadTalentTreeGroup": 1023006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 404006,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102305"
+			],
+			"level": 310230501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023006003",
+			"squadTalentTreeGroup": 1023006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 404006,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102306"
+			],
+			"level": 310230601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1023007001",
+			"squadTalentTreeGroup": 1023007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102307"
+			],
+			"level": 310230701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1024001001",
+			"squadTalentTreeGroup": 1024001,
+			"openType": 1024002001,
+			"unlockCondition": 1,
+			"pointType": 404101,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102401"
+			],
+			"level": 210240101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1024002001",
+			"squadTalentTreeGroup": 1024002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 404102,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102402"
+			],
+			"level": 210240201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024002002",
+			"squadTalentTreeGroup": 1024002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 404102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102401"
+			],
+			"level": 310240101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024002003",
+			"squadTalentTreeGroup": 1024002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 404102,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102402"
+			],
+			"level": 310240201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024003001",
+			"squadTalentTreeGroup": 1024003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1024004001,
+			"unlockCondition": 1,
+			"pointType": 404103,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102403"
+			],
+			"level": 210240301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1024004001",
+			"squadTalentTreeGroup": 1024004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 404104,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102404"
+			],
+			"level": 210240401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024004002",
+			"squadTalentTreeGroup": 1024004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 404104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102403"
+			],
+			"level": 310240301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024004003",
+			"squadTalentTreeGroup": 1024004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 404104,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102404"
+			],
+			"level": 310240401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024005001",
+			"squadTalentTreeGroup": 1024005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1024006001,
+			"unlockCondition": 1,
+			"pointType": 404105,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102405"
+			],
+			"level": 210240501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1024006001",
+			"squadTalentTreeGroup": 1024006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 404106,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102406"
+			],
+			"level": 210240601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024006002",
+			"squadTalentTreeGroup": 1024006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 404106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102405"
+			],
+			"level": 310240501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024006003",
+			"squadTalentTreeGroup": 1024006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 404106,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102406"
+			],
+			"level": 310240601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1024007001",
+			"squadTalentTreeGroup": 1024007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102407"
+			],
+			"level": 310240701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1025001001",
+			"squadTalentTreeGroup": 1025001,
+			"openType": 1025002001,
+			"unlockCondition": 1,
+			"pointType": 404201,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102501"
+			],
+			"level": 210250101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1025002001",
+			"squadTalentTreeGroup": 1025002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 404202,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102502"
+			],
+			"level": 210250201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025002002",
+			"squadTalentTreeGroup": 1025002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 404202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102501"
+			],
+			"level": 310250101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025002003",
+			"squadTalentTreeGroup": 1025002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 404202,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102502"
+			],
+			"level": 310250201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025003001",
+			"squadTalentTreeGroup": 1025003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1025004001,
+			"unlockCondition": 1,
+			"pointType": 404203,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102503"
+			],
+			"level": 210250301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1025004001",
+			"squadTalentTreeGroup": 1025004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 404204,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102504"
+			],
+			"level": 210250401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025004002",
+			"squadTalentTreeGroup": 1025004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 404204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102503"
+			],
+			"level": 310250301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025004003",
+			"squadTalentTreeGroup": 1025004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 404204,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102504"
+			],
+			"level": 310250401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025005001",
+			"squadTalentTreeGroup": 1025005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1025006001,
+			"unlockCondition": 1,
+			"pointType": 404205,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102505"
+			],
+			"level": 210250501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1025006001",
+			"squadTalentTreeGroup": 1025006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 404206,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102506"
+			],
+			"level": 210250601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025006002",
+			"squadTalentTreeGroup": 1025006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 404206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102505"
+			],
+			"level": 310250501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025006003",
+			"squadTalentTreeGroup": 1025006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 404206,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102506"
+			],
+			"level": 310250601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1025007001",
+			"squadTalentTreeGroup": 1025007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102507"
+			],
+			"level": 310250701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1026001001",
+			"squadTalentTreeGroup": 1026001,
+			"openType": 1026002001,
+			"unlockCondition": 1,
+			"pointType": 404301,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102601"
+			],
+			"level": 210260101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1026002001",
+			"squadTalentTreeGroup": 1026002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 404302,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102602"
+			],
+			"level": 210260201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026002002",
+			"squadTalentTreeGroup": 1026002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 404302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102601"
+			],
+			"level": 310260101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026002003",
+			"squadTalentTreeGroup": 1026002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 404302,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102602"
+			],
+			"level": 310260201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026003001",
+			"squadTalentTreeGroup": 1026003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1026004001,
+			"unlockCondition": 1,
+			"pointType": 404303,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102603"
+			],
+			"level": 210260301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1026004001",
+			"squadTalentTreeGroup": 1026004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 404304,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102604"
+			],
+			"level": 210260401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026004002",
+			"squadTalentTreeGroup": 1026004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 404304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102603"
+			],
+			"level": 310260301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026004003",
+			"squadTalentTreeGroup": 1026004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 404304,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102604"
+			],
+			"level": 310260401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026005001",
+			"squadTalentTreeGroup": 1026005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1026006001,
+			"unlockCondition": 1,
+			"pointType": 404305,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102605"
+			],
+			"level": 210260501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1026006001",
+			"squadTalentTreeGroup": 1026006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 404306,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102606"
+			],
+			"level": 210260601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026006002",
+			"squadTalentTreeGroup": 1026006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 404306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102605"
+			],
+			"level": 310260501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026006003",
+			"squadTalentTreeGroup": 1026006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 404306,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102606"
+			],
+			"level": 310260601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1026007001",
+			"squadTalentTreeGroup": 1026007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102607"
+			],
+			"level": 310260701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		},
+		{
+			"pointId": "1027001001",
+			"squadTalentTreeGroup": 1027001,
+			"openType": 1027002001,
+			"unlockCondition": 1,
+			"pointType": 404401,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102701"
+			],
+			"level": 210270101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"perPoint": []
+		},
+		{
+			"pointId": "1027002001",
+			"squadTalentTreeGroup": 1027002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 1,
+			"pointType": 404402,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102702"
+			],
+			"level": 210270201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027002002",
+			"squadTalentTreeGroup": 1027002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 1,
+			"pointType": 404402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102701"
+			],
+			"level": 310270101,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027002003",
+			"squadTalentTreeGroup": 1027002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 1,
+			"pointType": 404402,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102702"
+			],
+			"level": 310270201,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027003001",
+			"squadTalentTreeGroup": 1027003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1027004001,
+			"unlockCondition": 1,
+			"pointType": 404403,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102703"
+			],
+			"level": 210270301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1027004001",
+			"squadTalentTreeGroup": 1027004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 1,
+			"pointType": 404404,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102704"
+			],
+			"level": 210270401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027004002",
+			"squadTalentTreeGroup": 1027004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 1,
+			"pointType": 404404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102703"
+			],
+			"level": 310270301,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027004003",
+			"squadTalentTreeGroup": 1027004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 1,
+			"pointType": 404404,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102704"
+			],
+			"level": 310270401,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027005001",
+			"squadTalentTreeGroup": 1027005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1027006001,
+			"unlockCondition": 1,
+			"pointType": 404405,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102705"
+			],
+			"level": 210270501,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
+			"pointId": "1027006001",
+			"squadTalentTreeGroup": 1027006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 1,
+			"pointType": 404406,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2102706"
+			],
+			"level": 210270601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027006002",
+			"squadTalentTreeGroup": 1027006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 1,
+			"pointType": 404406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102705"
+			],
+			"level": 310270501,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027006003",
+			"squadTalentTreeGroup": 1027006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 1,
+			"pointType": 404406,
+			"talentEffectGeneGroup": 3,
+			"traverseTalentEffectGeneGroup": [
+				"3102706"
+			],
+			"level": 310270601,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0
+		},
+		{
+			"pointId": "1027007001",
+			"squadTalentTreeGroup": 1027007,
+			"perPoint": [
+				"12"
+			],
+			"unlockCondition": 1,
+			"talentEffectGeneGroup": 4,
+			"traverseTalentEffectGeneGroup": [
+				"3102707"
+			],
+			"level": 310270701,
+			"maxLevel": 1,
+			"tpItemCost": 1,
+			"openType": 0,
+			"pointType": 0
+		}
+	]
+}

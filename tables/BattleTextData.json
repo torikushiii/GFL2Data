@@ -1,0 +1,244 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"keyWord": "Frontal Assault",
+			"explanation": "Rarely takes cover and focuses solely on attacking the nearest enemy."
+		},
+		{
+			"id": 2,
+			"keyWord": "Covert Ops",
+			"explanation": "Always attacks from behind Cover."
+		},
+		{
+			"id": 3,
+			"keyWord": "Agile Combat",
+			"explanation": "Will use Cover and fight with various tactics."
+		},
+		{
+			"id": 4,
+			"keyWord": "Close Quarters Combat",
+			"explanation": "Will charge forward but will also flank."
+		},
+		{
+			"id": 5,
+			"keyWord": "Swift Sprinter",
+			"explanation": "Able to move long distances. Unable to climb over cover or onto high ground due to its short stature. Also unable to attack enemies from behind Cover."
+		},
+		{
+			"id": 6,
+			"keyWord": "Self-Destruct",
+			"explanation": "Self-destructs when destroyed, dealing damage to units within a certain range."
+		},
+		{
+			"id": 7,
+			"keyWord": "Blast Zone",
+			"explanation": "Deals AoE damage to enemy units within the specified area and ignores Cover."
+		},
+		{
+			"id": 8,
+			"keyWord": "First Aid",
+			"explanation": "Able to heal allies."
+		},
+		{
+			"id": 9,
+			"keyWord": "Lingering Impact",
+			"explanation": "Creates tiles with varying effects."
+		},
+		{
+			"id": 10,
+			"keyWord": "Bull Rush",
+			"explanation": "Charges straight toward a target, ignoring low Cover and allies."
+		},
+		{
+			"id": 11,
+			"keyWord": "Lock-on",
+			"explanation": "Locks onto a target and attacks it on the next turn."
+		},
+		{
+			"id": 12,
+			"keyWord": "Elite",
+			"explanation": "Elite units often possess additional skills in addition to their normal attack."
+		},
+		{
+			"id": 13,
+			"keyWord": "Deep Blocker",
+			"explanation": "Unaffected by control effects like Stun, Taunt, Command Prohibition, or Frigid."
+		},
+		{
+			"id": 14,
+			"keyWord": "Large Target",
+			"explanation": "Cannot take Cover due to its large size."
+		},
+		{
+			"id": 15,
+			"keyWord": "Counterattack",
+			"explanation": "Counterattacks enemies that attack it."
+		},
+		{
+			"id": 16,
+			"keyWord": "Assist",
+			"explanation": "Immediately launches an assist attack when a unit within range is attacked."
+		},
+		{
+			"id": 17,
+			"keyWord": "Disruption",
+			"explanation": "Will make allied units lose some mobility."
+		},
+		{
+			"id": 18,
+			"keyWord": "Provoke",
+			"explanation": "Able to apply a Taunt effect on enemy units."
+		},
+		{
+			"id": 19,
+			"keyWord": "Reinforcement",
+			"explanation": "Able to summon different support units."
+		},
+		{
+			"id": 20,
+			"keyWord": "Carpet Bombing",
+			"explanation": "Inflicts AoE damage, which can be split across multiple targets."
+		},
+		{
+			"id": 21,
+			"keyWord": "Optical Camouflage",
+			"explanation": "Cannot be targeted in certain situations."
+		},
+		{
+			"id": 22,
+			"keyWord": "Surveillance",
+			"explanation": "Triggers an immediate attack when an enemy target tries to move within the specified area."
+		},
+		{
+			"id": 23,
+			"keyWord": "Motivated",
+			"explanation": "Deals additional damage to the target when specific conditions are met."
+		},
+		{
+			"id": 24,
+			"keyWord": "Overwatch",
+			"explanation": "A counterattack is triggered if an enemy unit attempts to attack within the specified area."
+		},
+		{
+			"id": 25,
+			"keyWord": "Change of Heart",
+			"explanation": "Becomes an ally when Stability is broken."
+		},
+		{
+			"id": 26,
+			"keyWord": "Immobilize",
+			"explanation": "Becomes immobilized when Stability is broken."
+		},
+		{
+			"id": 27,
+			"keyWord": "Support",
+			"explanation": "Will provide shields to allies."
+		},
+		{
+			"id": 28,
+			"keyWord": "Low-Altitude Flyers",
+			"explanation": "Attacks bypass Low-Cover protection, but the unit is also unable to benefit from Low-Cover protection."
+		},
+		{
+			"id": 29,
+			"keyWord": "Bastion",
+			"explanation": "Able to provide Stability protection to allies."
+		},
+		{
+			"id": 30,
+			"keyWord": "Preemptive Strike",
+			"explanation": "Performs an attack if an enemy unit takes any action within the specified area."
+		},
+		{
+			"id": 31,
+			"keyWord": "Team Enhancement",
+			"explanation": "Grants buffs to all allies."
+		},
+		{
+			"id": 32,
+			"keyWord": "Attack Rotation",
+			"explanation": "Able to switch between different combat stances."
+		},
+		{
+			"id": 33,
+			"keyWord": "Enemy Detection",
+			"explanation": "Exposes enemy units."
+		},
+		{
+			"id": 34,
+			"keyWord": "Hunter",
+			"explanation": "Will prioritize enemies with specific status effects."
+		},
+		{
+			"id": 35,
+			"keyWord": "Long-Range Specialist",
+			"explanation": "The greater the distance, the more powerful the attack."
+		},
+		{
+			"id": 36,
+			"keyWord": "Cornucopia",
+			"explanation": "Treasures will drop when hit!"
+		},
+		{
+			"id": 37,
+			"keyWord": "Magnet",
+			"explanation": "Will draw enemies towards themselves."
+		},
+		{
+			"id": 38,
+			"keyWord": "Enhancer",
+			"explanation": "Grants buffs to allies on the battlefield."
+		},
+		{
+			"id": 40,
+			"keyWord": "Inspire",
+			"explanation": "Grants buffs to allies within the specified area."
+		},
+		{
+			"id": 41,
+			"keyWord": "Resonate",
+			"explanation": "Grants buffs when they are near specific allies."
+		},
+		{
+			"id": 42,
+			"keyWord": "Heavy Ammo",
+			"explanation": "Has a short range, but has considerable firepower."
+		},
+		{
+			"id": 43,
+			"keyWord": "Armored Defense",
+			"explanation": "Has a large amount of HP."
+		},
+		{
+			"id": 44,
+			"keyWord": "Training Facility",
+			"explanation": "Effective in Combat Exercise."
+		},
+		{
+			"id": 45,
+			"keyWord": "Retaliation",
+			"explanation": "Performs an immediate counterattack when an enemy target attempts to attack or use a skill within the specified area."
+		},
+		{
+			"id": 46,
+			"keyWord": "Protection",
+			"explanation": "A counterattack is triggered when an ally within the specified area is attacked."
+		},
+		{
+			"id": 47,
+			"keyWord": "Emerge",
+			"explanation": "Cracks open and unleashes the monster(s) within at the start of the turn."
+		},
+		{
+			"id": 48,
+			"keyWord": "Stress Immunity",
+			"explanation": "When hit by crowd control effects such as Stun, Taunt, Command Prohibition, or Frigid, they will be immune to them for the next 3 turns."
+		},
+		{
+			"id": 49,
+			"keyWord": "Side By Side",
+			"explanation": "A tactical assault vehicle operated by the Commander. Allows the Commander to fight alongside Dolls, no matter where they are."
+		}
+	]
+}

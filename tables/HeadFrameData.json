@@ -1,0 +1,235 @@
+{
+	"data": [
+		{
+			"id": 24001,
+			"icon": "Item_HeadFrame_Default",
+			"unlockDes": "No Profile Frame",
+			"displayConfig": 1,
+			"sort": 9999
+		},
+		{
+			"id": 24019,
+			"icon": "Item_HeadFrame_ActivityDaiyan",
+			"unlockDes": "Complete Amidst Wings of Gray challenge mode to unlock.",
+			"displayConfig": 1,
+			"sort": 2001
+		},
+		{
+			"id": 24021,
+			"icon": "Item_HeadFrame_BP_9",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4001
+		},
+		{
+			"id": 24022,
+			"icon": "Item_HeadFrame_BP_10",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4002
+		},
+		{
+			"id": 24023,
+			"icon": "Item_HeadFrame_ActivityCafe2",
+			"unlockDes": "Unlock via the Zucchero Café event",
+			"sort": 2002,
+			"displayConfig": 0
+		},
+		{
+			"id": 24024,
+			"icon": "Item_HeadFrame_ActivityCafe",
+			"unlockDes": "Unlock by completing the Zucchero Café Challenge Mode",
+			"sort": 2003,
+			"displayConfig": 0
+		},
+		{
+			"id": 24025,
+			"icon": "Item_HeadFrame_BP_11",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4003,
+			"displayConfig": 0
+		},
+		{
+			"id": 24026,
+			"icon": "Item_HeadFrame_HighPVP_Season1",
+			"unlockDes": "Unlock by placing top 50% in Military Simulation Season: Ordered Dispute",
+			"displayConfig": 1,
+			"sort": 1001
+		},
+		{
+			"id": 24027,
+			"icon": "Item_HeadFrame_HighPVP_Season2",
+			"unlockDes": "Unlock by placing top 50% in Military Simulation Season: Breakout",
+			"displayConfig": 1,
+			"sort": 1002
+		},
+		{
+			"id": 24028,
+			"icon": "Item_HeadFrame_HighPVP_Season3",
+			"unlockDes": "Unlock by placing top 50% in Military Simulation Season: Bold Assault",
+			"displayConfig": 1,
+			"sort": 1003
+		},
+		{
+			"id": 24029,
+			"icon": "Item_HeadFrame_ActivityLenna_WarmUp",
+			"unlockDes": "Unlock by scratching off all Journey Preparations tiles",
+			"sort": 2004,
+			"displayConfig": 0
+		},
+		{
+			"id": 24030,
+			"icon": "Item_HeadFrame_ActivityLenna",
+			"unlockDes": "Unlock by completing Intertwined Assault Challenge Mode",
+			"sort": 2005,
+			"displayConfig": 0
+		},
+		{
+			"id": 24031,
+			"icon": "Item_HeadFrame_BP_12",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4004,
+			"displayConfig": 0
+		},
+		{
+			"id": 24032,
+			"icon": "Item_HeadFrame_ActivityJiangyu",
+			"unlockDes": "Unlock by completing Vestigial Display Challenge Mode",
+			"sort": 2006,
+			"displayConfig": 0
+		},
+		{
+			"id": 24033,
+			"icon": "Item_HeadFrame_BP_13",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4005,
+			"displayConfig": 0
+		},
+		{
+			"id": 24034,
+			"icon": "Item_HeadFrame_ActivityMacqiato",
+			"unlockDes": "Unlock by completing Rhapsody Quartet Challenge Mode",
+			"displayConfig": 1,
+			"sort": 2007
+		},
+		{
+			"id": 24035,
+			"icon": "Item_HeadFrame_HighPVP_Season4",
+			"unlockDes": "Unlock by ranking in the top 50% in Military Simulation Season: Potential Conflict",
+			"sort": 1004,
+			"displayConfig": 0
+		},
+		{
+			"id": 24036,
+			"icon": "Item_HeadFrame_HighPVP_Season5",
+			"unlockDes": "Unlocked by ranking in the top 50% in the Military Simulation Season: Invasion Crisis",
+			"sort": 1005,
+			"displayConfig": 0
+		},
+		{
+			"id": 24037,
+			"icon": "Item_HeadFrame_HighPVP_Season6",
+			"unlockDes": "Unlocked by ranking in the top 50% in the Military Simulation Season: Order Construction",
+			"sort": 1006,
+			"displayConfig": 0
+		},
+		{
+			"id": 24038,
+			"icon": "Item_HeadFrame_ActivityUllrid",
+			"unlockDes": "Unlocked by completing Sojourners of the Glass Island - Challenge Mode Part I",
+			"displayConfig": 1,
+			"sort": 2008
+		},
+		{
+			"id": 24039,
+			"icon": "Item_HeadFrame_ActivitySuomi",
+			"unlockDes": "Clear Sojourners of the Glass Island Challenge Mode - Part II to unlock",
+			"displayConfig": 1,
+			"sort": 2009
+		},
+		{
+			"id": 24040,
+			"icon": "Item_HeadFrame_BP_14",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4006,
+			"displayConfig": 0
+		},
+		{
+			"id": 24041,
+			"icon": "Item_HeadFrame_BP_15",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4007,
+			"displayConfig": 0
+		},
+		{
+			"id": 24042,
+			"icon": "Item_HeadFrame_BP_16",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4008,
+			"displayConfig": 0
+		},
+		{
+			"id": 24050,
+			"icon": "Item_HeadFrame_ActivityDusevnyj",
+			"unlockDes": "Unlocked by clearing the Challenge Mode in The Halting Station",
+			"sort": 2010,
+			"displayConfig": 0
+		},
+		{
+			"id": 24051,
+			"icon": "Item_HeadFrame_Love_Tololo",
+			"unlockDes": "A wandering star has been drawn to the constellations, now dwelling among them.\nThis heartfelt gift from the Doll unlocks when Affinity with Tololo reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3001
+		},
+		{
+			"id": 24052,
+			"icon": "Item_HeadFrame_Love_Qiongjiu",
+			"unlockDes": "The ink may be as frosty as winter, yet it holds warmth and noble sentiments, akin to jade.\nThis heartfelt gift from the Doll unlocks when Affinity with Qiongjiu reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3002
+		},
+		{
+			"id": 24053,
+			"icon": "Item_HeadFrame_Love_Zhaohui",
+			"unlockDes": "Beneath the cold blade, do emotions quietly flow?\nThis heartfelt gift from the Doll unlocks when Affinity with Zhaohui reaches Level 6.",
+			"sort": 3003,
+			"displayConfig": 0
+		},
+		{
+			"id": 24054,
+			"icon": "Item_HeadFrame_Love_Papasha",
+			"unlockDes": "Follow in the footsteps of pioneers and embrace the unknown.\nThis heartfelt gift from the Doll unlocks when Affinity with Papasha reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3004
+		},
+		{
+			"id": 24055,
+			"icon": "Item_HeadFrame_ActivityZhaohui",
+			"unlockDes": "Unlocked by clearing Echo of Dawn on Challenge Mode",
+			"sort": 2011,
+			"displayConfig": 0
+		},
+		{
+			"id": 24056,
+			"icon": "Item_HeadFrame_HighPVP_Season7",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation Season: Crisis Infiltration",
+			"sort": 1007,
+			"displayConfig": 0
+		},
+		{
+			"id": 24058,
+			"icon": "Item_HeadFrame_Love_Vepley",
+			"unlockDes": "In the brilliance of the spotlight, the performer's face shines resplendently.\nThis heartfelt gift from the Doll unlocks when Affinity with Vepley reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3006
+		},
+		{
+			"id": 24066,
+			"icon": "Item_HeadFrame_Love_Suomi",
+			"unlockDes": "Savor this deep and rich feeling.\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Suomi.",
+			"displayConfig": 1,
+			"sort": 3010
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"data": [
+		{
+			"id": 10997,
+			"name": "Past Events",
+			"type": 3,
+			"sort": 3,
+			"jump": 2501
+		},
+		{
+			"id": 10998,
+			"name": "Supply Missions",
+			"type": 3,
+			"sort": 4,
+			"jump": 1098
+		},
+		{
+			"id": 10999,
+			"name": "Combat Simulations",
+			"type": 3,
+			"sort": 5,
+			"jump": 1099
+		},
+		{
+			"id": 11001,
+			"name": "Campaign",
+			"type": 3,
+			"sort": 2,
+			"jump": 1000
+		},
+		{
+			"id": 12000,
+			"name": "Refitting Room",
+			"type": 2,
+			"sort": 0,
+			"jump": 0
+		},
+		{
+			"id": 13000,
+			"name": "Visitor Room",
+			"type": 2,
+			"sort": 4,
+			"jump": 0
+		},
+		{
+			"id": 16000,
+			"name": "Trading Post",
+			"type": 2,
+			"sort": 0,
+			"jump": 0
+		},
+		{
+			"id": 17000,
+			"name": "Storeroom",
+			"type": 2,
+			"sort": 0,
+			"jump": 0
+		},
+		{
+			"id": 20000,
+			"name": "Elmo Server Room",
+			"type": 2,
+			"sort": 0,
+			"jump": 0
+		},
+		{
+			"id": 21000,
+			"name": "Mail",
+			"type": 1,
+			"sort": 2,
+			"jump": 0
+		},
+		{
+			"id": 22000,
+			"name": "Notice",
+			"type": 1,
+			"sort": 3,
+			"jump": 0
+		},
+		{
+			"id": 26002,
+			"name": "Sign-In",
+			"type": 1,
+			"sort": 1,
+			"jump": 0
+		},
+		{
+			"id": 29101,
+			"name": "Voyage Logs",
+			"type": 1,
+			"sort": 4,
+			"jump": 0
+		},
+		{
+			"id": 29202,
+			"name": "Time-Limited Events",
+			"type": 3,
+			"sort": 1,
+			"jump": 0
+		},
+		{
+			"id": 30001,
+			"name": "Events Hub",
+			"type": 1,
+			"sort": 5,
+			"jump": 0
+		}
+	]
+}

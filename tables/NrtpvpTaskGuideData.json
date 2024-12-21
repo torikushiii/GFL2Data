@@ -1,0 +1,53 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"rewardList": {
+				"12": 5
+			},
+			"name": "Entrance Examination"
+		},
+		{
+			"id": 2,
+			"rewardList": {
+				"12": 5
+			},
+			"name": "Intermediate Examination"
+		},
+		{
+			"id": 3,
+			"rewardList": {
+				"1": 500
+			},
+			"name": "Intermediate Examination"
+		},
+		{
+			"id": 4,
+			"rewardList": {
+				"1": 500
+			},
+			"name": "Advanced Examination"
+		},
+		{
+			"id": 5,
+			"rewardList": {
+				"1": 500
+			},
+			"name": "Advanced Examination"
+		},
+		{
+			"id": 6,
+			"rewardList": {
+				"1": 500
+			},
+			"name": "Final Examination"
+		},
+		{
+			"id": 7,
+			"rewardList": {
+				"1": 500
+			},
+			"name": "Final Examination"
+		}
+	]
+}

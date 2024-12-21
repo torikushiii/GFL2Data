@@ -1,0 +1,881 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"name": "Mini Gun Turret",
+			"detail": "Deals damage equal to <color=#F26C1C>100%</color> of attack to any enemy target, maximum of <color=#F26C1C>2</color> selections.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				102,
+				102
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 102,
+			"name": "DS9 Tactical Support Turret",
+			"detail": "Places a turret in the selected <color=#F26C1C>1×1 area</color>. If it is not destroyed within <color=#F26C1C>5</color> allied turns, it automatically self-destructs at the start of the <color=#F26C1C>6th</color> allied turn.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				106
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 103,
+			"name": "Seeker Missile",
+			"detail": "Strikes a 7x7 area with missiles, dealing 100% damage.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				103
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 104,
+			"name": "Light Missile",
+			"detail": "",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				101,
+				101
+			],
+			"teCost": 20,
+			"stock": 99,
+			"icon": "Skill_Tactic2",
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 105,
+			"name": "Reset",
+			"detail": "",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1003,
+			"autoSkillList": 104,
+			"teCost": 30,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"timeline": "",
+			"camera": 0,
+			"ui": "",
+			"skillList": [],
+			"filter": ""
+		},
+		{
+			"id": 106,
+			"name": "Reset (Single target)",
+			"detail": "Reset all cooldowns of allied units in a 1x1 area.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				105
+			],
+			"teCost": 30,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 107,
+			"name": "Global Ultimate—Armed Buggy",
+			"detail": "Places an Armed Buggy in the selected <color=#F26C1C>1×1 area</color>. If it is not destroyed within <color=#F26C1C>5</color> allied turns, it automatically self-destructs at the start of the <color=#F26C1C>6th</color> allied turn.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				107
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1011,
+			"name": "Minigun Turret Lv.1",
+			"detail": "Deals damage equal to <color=#F26C1C>100%</color> of attack to any enemy target, maximum of <color=#F26C1C>2</color> selections.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1021,
+				1021
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1012,
+			"name": "Minigun Turret Lv.2",
+			"detail": "Deals damage equal to <color=#F26C1C>112%</color> of attack to any enemy, max of <color=#F26C1C>2</color> selections.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>112%</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1022,
+				1022
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1013,
+			"name": "Minigun Turret Lv.3",
+			"detail": "Deals damage equal to <color=#F26C1C>112%</color> of attack to any enemy, max of <color=#F26C1C>3</color> selections.",
+			"upgradeDescription": "Selections increased to<color=#F26C1C>3</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1023,
+				1023,
+				1023
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1014,
+			"name": "Minigun Turret Lv.4",
+			"detail": "Deals damage equal to <color=#F26C1C>120%</color> of attack to any enemy, max of <color=#F26C1C>3</color> selections.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>120%</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1024,
+				1024,
+				1024
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1015,
+			"name": "Minigun Turret Lv.5",
+			"detail": "Deals damage equal to <color=#F26C1C>128%</color> of attack to any enemy, max of <color=#F26C1C>3</color> selections.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>128%</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1025,
+				1025,
+				1025
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1016,
+			"name": "Minigun Turret Lv.6",
+			"detail": "Deals damage equal to <color=#F26C1C>130%</color> of attack to any enemy, max of <color=#F26C1C>4</color> selections.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>130%</color>, selections increased to<color=#F26C1C>4</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"video": 1005,
+			"timeline": "MachineGun",
+			"camera": 1,
+			"ui": "Missile",
+			"skillList": [
+				1026,
+				1026,
+				1026,
+				1026
+			],
+			"teCost": 40,
+			"stock": 99,
+			"icon": "Skill_Tactic1",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1021,
+			"name": "Fixed Turret Lv.1",
+			"detail": "Use to place on the selected tile. At the end of the allied turn, the turret attacks enemies <color=#F26C1C>once</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>90%</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1061
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1022,
+			"name": "Fixed Turret Lv.2",
+			"detail": "Use to place on the selected tile. At the end of the allied turn, the turret attacks enemies <color=#F26C1C>once</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>96%</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1062
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1023,
+			"name": "Fixed Turret Lv.3",
+			"detail": "Use to place on the selected tile. At the end of the allied turn, the turret attacks enemies <color=#F26C1C>2 times</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>96%</color>, now attacks <color=#F26C1C>2 times</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1063
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1024,
+			"name": "Fixed Turret Lv.4",
+			"detail": "Use to place on the selected tile. At the end of the allied turn, the turret attacks enemies <color=#F26C1C>2 times</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>107%</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1064
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1025,
+			"name": "Fixed Turret Lv.5",
+			"detail": "Use to place on the selected tile. At the end of the allied turn, the turret attacks enemies <color=#F26C1C>2 times</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>112%</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1065
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1026,
+			"name": "Fixed Turret Lv.6",
+			"detail": "Use to place on the selected tile. At the end of allied turn, the turret attacks enemies <color=#F26C1C>3 times</color>. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "Turret damage is increased to <color=#F26C1C>112%</color>, now attacks <color=#F26C1C>3 times</color>.",
+			"descriptionBrief": "Use to place on the selected tile.",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1066
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic4",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1031,
+			"name": "Seeker Missile Lv.1",
+			"detail": "Tap the <color=#F26C1C>Fire</color> button to call for fire support.",
+			"upgradeDescription": "",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1031
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1032,
+			"name": "Seeker Missile Lv.2",
+			"detail": "Selects <color=#F26C1C>1</color> tile, dealing AoE damage equal to <color=#F26C1C>112%</color> of attack in a <color=#F26C1C>3×3 area</color> around it.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>112%</color>.",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1032
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1033,
+			"name": "Seeker Missile Lv.3",
+			"detail": "Selects <color=#F26C1C>1</color> tile, dealing AoE damage equal to <color=#F26C1C>125%</color> of attack in a <color=#F26C1C>3×3 area</color> around it.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>125%</color>.",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1033
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1034,
+			"name": "Seeker Missile Lv.4",
+			"detail": "Selects <color=#F26C1C>1</color> tile, dealing AoE damage equal to <color=#F26C1C>137%</color> of attack in a <color=#F26C1C>3×3 area</color> around it.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>137%</color>.",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1034
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1035,
+			"name": "Seeker Missile Lv.5",
+			"detail": "Selects <color=#F26C1C>1</color> tile, dealing AoE damage equal to <color=#F26C1C>140%</color> of attack in a <color=#F26C1C>5×5 area</color> around it.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>140%</color>.",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1035
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1036,
+			"name": "Seeker Missile Lv.6",
+			"detail": "Selects <color=#F26C1C>1</color> tile, dealing AoE damage equal to <color=#F26C1C>150%</color> of attack in a <color=#F26C1C>5×5 area</color> around it.",
+			"upgradeDescription": "Damage is increased to <color=#F26C1C>150%</color>.",
+			"descriptionBrief": "Deals <color=#F26C1C>damage</color> to all units on selected tiles.",
+			"descriptionLiterary": "",
+			"video": 1001,
+			"timeline": "Missile",
+			"camera": 1,
+			"ui": "AirGunShip",
+			"skillList": [
+				1036
+			],
+			"teCost": 70,
+			"stock": 99,
+			"icon": "Skill_Tactic3",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1071,
+			"name": "Armed Patrol Buggy Lv.1",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>110%</color> damage.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1071
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1072,
+			"name": "Armed Patrol Buggy Lv.2",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>128%</color> damage.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1072
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1073,
+			"name": "Armed Patrol Buggy Lv.3",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>135%</color> damage. Explodes upon reaching <color=#F26C1C>0</color> HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1073
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1074,
+			"name": "Armed Patrol Buggy Lv.4",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>150%</color> damage. Explodes upon reaching <color=#F26C1C>0</color> HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1074
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1075,
+			"name": "Armed Patrol Buggy Lv.5",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>165%</color> damage. Explodes upon reaching <color=#F26C1C>0</color> HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1075
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1076,
+			"name": "Armed Patrol Buggy Lv.6",
+			"detail": "Use to place on the selected tile. The buggy seeks out and attacks enemies based on its own logic. Self-destructs after <color=#F26C1C>3 turns</color>.",
+			"upgradeDescription": "The buggy's attacks deal <color=#F26C1C>180%</color> damage. Explodes upon reaching <color=#F26C1C>0</color> HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1076
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic7",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1081,
+			"name": "Emergency Repair Unit Lv.1",
+			"detail": "Place <color=#F26C1C>1</color> Emergency Repair Unit on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>50%</color> of max HP and Extra Action.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1081
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1082,
+			"name": "Emergency Repair Unit Lv.2",
+			"detail": "Place <color=#F26C1C>1</color> Emergency Repair Unit on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>62%</color> of max HP and Extra Action.",
+			"upgradeDescription": "HP restored increased to <color=#F26C1C>62%</color> max HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1082
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1083,
+			"name": "Emergency Repair Unit Lv.3",
+			"detail": "Place <color=#F26C1C>1</color> Emergency Repair Unit on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>75%</color> of max HP and Extra Action.",
+			"upgradeDescription": "HP restored increased to <color=#F26C1C>75%</color> max HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1083
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1084,
+			"name": "Emergency Repair Unit Lv.4",
+			"detail": "Place <color=#F26C1C>1</color> Emergency Repair Unit on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>87%</color> of max HP and Extra Action.",
+			"upgradeDescription": "HP restored increased to <color=#F26C1C>87%</color> of max HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1084
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1085,
+			"name": "Emergency Repair Unit Lv.5",
+			"detail": "Place <color=#F26C1C>2</color> Emergency Repair Units on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>92%</color> of max HP and Extra Action.",
+			"upgradeDescription": "HP restored increased to <color=#F26C1C>92%</color> max HP. <color=#F26C1C>2 units</color> can now be placed",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1085
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1086,
+			"name": "Emergency Repair Unit Lv.6",
+			"detail": "Place <color=#F26C1C>2</color> Emergency Repair Units on the selected tile(s). Activating the unit grants a heal equal to <color=#F26C1C>100%</color> of max HP and Extra Action.",
+			"upgradeDescription": "HP restored increased to <color=#F26C1C>100%</color> max HP.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1086,
+				1086
+			],
+			"teCost": 60,
+			"stock": 99,
+			"icon": "Skill_Tactic8",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0,
+			"filter": ""
+		},
+		{
+			"id": 1091,
+			"name": "Temporary Burst Unit Lv.1",
+			"detail": "Places <color=#F26C1C>1</color> Temporary Burst Unit on the selected tile. Activating the unit grants <color=#F26C1C>5 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1091
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		},
+		{
+			"id": 1092,
+			"name": "Temporary Burst Unit Lv.2",
+			"detail": "Places <color=#F26C1C>1</color> Temporary Burst Unit on the selected tile. Activating the unit grants <color=#F26C1C>7 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "Confectance Index granted is increased to <color=#F26C1C>7 points</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1092
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		},
+		{
+			"id": 1093,
+			"name": "Temporary Burst Unit Lv.3",
+			"detail": "Places <color=#F26C1C>2</color> Temporary Burst Units on the selected tile(s). Activating the unit grants <color=#F26C1C>7 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "Can now deploy <color=#F26C1C>2</color> units.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1093,
+				1093
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		},
+		{
+			"id": 1094,
+			"name": "Temporary Burst Unit Lv.4",
+			"detail": "Places <color=#F26C1C>2</color> Temporary Burst Units on the selected tile(s). Activating the unit grants <color=#F26C1C>8 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "Confectance Index granted is increased to <color=#F26C1C>8 points</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1094,
+				1094
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		},
+		{
+			"id": 1095,
+			"name": "Temporary Burst Unit Lv.5",
+			"detail": "Places <color=#F26C1C>2</color> Temporary Burst Units on the selected tile(s). Activating the unit grants <color=#F26C1C>9 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "Confectance Index granted is increased to <color=#F26C1C>9 points</color>.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1095,
+				1095
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		},
+		{
+			"id": 1096,
+			"name": "Temporary Burst Unit Lv.6",
+			"detail": "Places <color=#F26C1C>3</color> Temporary Burst Units on the selected tile(s). Activating the unit grants <color=#F26C1C>10 points</color> of Confectance Index and Extra Action.",
+			"upgradeDescription": "Confectance Index granted is increased to <color=#F26C1C>10 points</color>, can now deploy <color=#F26C1C>3</color> units.",
+			"descriptionBrief": "",
+			"descriptionLiterary": "",
+			"camera": 2,
+			"ui": "NormalSkill",
+			"skillList": [
+				1096,
+				1096,
+				1096
+			],
+			"teCost": 40,
+			"stock": 99,
+			"filter": "TacticSkill/AC130CameraPP.asset",
+			"icon": "Skill_Tactic9",
+			"video": 0,
+			"timeline": "",
+			"autoSkillList": 0
+		}
+	]
+}

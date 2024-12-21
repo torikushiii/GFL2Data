@@ -1,0 +1,2392 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"taskGroup": 101,
+			"name": "Daily Indicator 1",
+			"des": "Attempt Chase Concerto once",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 901,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 3002,
+			"rewardList": [
+				"2:500",
+				"170001:15"
+			],
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1002,
+			"taskGroup": 101,
+			"name": "Daily Indicator 2",
+			"des": "Complete any stage of Chase Concerto (Auto Battle included)",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 906,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:500",
+				"170001:15"
+			],
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1003,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 1",
+			"des": "Unlock 3 Command Illustrations",
+			"sequence": 1,
+			"conditionClass": 908,
+			"conditionNum": 3,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:1000",
+				"170003:2"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1004,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 2",
+			"des": "Unlock 5 Command Illustrations",
+			"sequence": 2,
+			"conditionClass": 908,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:1000",
+				"170004:2"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1005,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 3",
+			"des": "Unlock 7 Command Illustrations",
+			"sequence": 3,
+			"conditionClass": 908,
+			"conditionNum": 7,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:1000",
+				"170005:2"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1006,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 4",
+			"des": "Unlock 9 Command Illustrations",
+			"sequence": 4,
+			"conditionClass": 908,
+			"conditionNum": 9,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:1000",
+				"170006:2"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1007,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 5",
+			"des": "Unlock 12 Command Illustrations",
+			"sequence": 5,
+			"conditionClass": 908,
+			"conditionNum": 12,
+			"conditionArg0": 101,
+			"conditionArg1": -1,
+			"rewardList": [
+				"2:1000",
+				"170007:2"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 1008,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 6",
+			"des": "Use Movement Command of any level 20 times",
+			"sequence": 6,
+			"conditionClass": 910,
+			"conditionNum": 20,
+			"conditionArg0": 101,
+			"conditionArg1": 100,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170005:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1009,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 7",
+			"des": "Use Remote Command of any level 10 times",
+			"sequence": 7,
+			"conditionClass": 910,
+			"conditionNum": 10,
+			"conditionArg0": 101,
+			"conditionArg1": 101,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170006:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1010,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 8",
+			"des": "Use Stability Component of any level 10 times",
+			"sequence": 8,
+			"conditionClass": 910,
+			"conditionNum": 10,
+			"conditionArg0": 101,
+			"conditionArg1": 27,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170007:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1011,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 9",
+			"des": "Use Emergency Power of any level 10 times",
+			"sequence": 9,
+			"conditionClass": 910,
+			"conditionNum": 10,
+			"conditionArg0": 101,
+			"conditionArg1": 102,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170003:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1012,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 10",
+			"des": "Use Ground Lock of any level 5 times",
+			"sequence": 10,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 6,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170004:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1013,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 11",
+			"des": "Use Temporary Shield of any level 5 times",
+			"sequence": 11,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 103,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170007:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1014,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 12",
+			"des": "Use Lightning Rod of any level 5 times",
+			"sequence": 12,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 21,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170006:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1015,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 13",
+			"des": "Use Obstacle Removal Kit of any level 5 times",
+			"sequence": 13,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 22,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170005:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1016,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 14",
+			"des": "Use No-Go Sign of any level 5 times",
+			"sequence": 14,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 16,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170004:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 1017,
+			"taskGroup": 101,
+			"name": "Fixed Indicator 15",
+			"des": "Use Automatic Roller of any level 5 times",
+			"sequence": 15,
+			"conditionClass": 910,
+			"conditionNum": 5,
+			"conditionArg0": 101,
+			"conditionArg1": 5,
+			"conditionArg2": -1,
+			"rewardList": [
+				"2:1000",
+				"170003:2"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 20101,
+			"taskGroup": 201,
+			"name": "Opening Preparations",
+			"des": "Complete Supply Mission 6 times",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 6,
+			"conditionArg0": 1,
+			"link": "1098",
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"rewardList": []
+		},
+		{
+			"id": 20102,
+			"taskGroup": 202,
+			"name": "Start-up Capital",
+			"des": "Complete Standardizing Sync 2 times",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"link": "3300",
+			"rewardList": []
+		},
+		{
+			"id": 20103,
+			"taskGroup": 203,
+			"name": "Equipment Collection",
+			"des": "Complete Targeted Study 2 times",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"link": "3800",
+			"rewardList": []
+		},
+		{
+			"id": 20104,
+			"taskGroup": 204,
+			"name": "Body Configuration",
+			"des": "Complete Cognitive Configuration 2 times",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"link": "3150",
+			"rewardList": []
+		},
+		{
+			"id": 20105,
+			"taskGroup": 205,
+			"name": "Experience Accumulation",
+			"des": "Complete In-Depth Search 2 times",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"link": "3200",
+			"rewardList": []
+		},
+		{
+			"id": 20106,
+			"taskGroup": 206,
+			"name": "Supply Storage",
+			"des": "Complete Equipment Analysis 2 times",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"link": "3400",
+			"rewardList": []
+		},
+		{
+			"id": 20107,
+			"taskGroup": 207,
+			"name": "Simulation Drill",
+			"des": "Complete Combat Exercise once",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"rewardList": []
+		},
+		{
+			"id": 30101,
+			"taskGroup": 301,
+			"name": "Consume 20 Intelligence Puzzles",
+			"des": "Consume 20 Intelligence Puzzles",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 20,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30102,
+			"taskGroup": 301,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30201,
+			"taskGroup": 302,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30202,
+			"taskGroup": 302,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30301,
+			"taskGroup": 303,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30302,
+			"taskGroup": 303,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30401,
+			"taskGroup": 304,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30402,
+			"taskGroup": 304,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30501,
+			"taskGroup": 305,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30502,
+			"taskGroup": 305,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30601,
+			"taskGroup": 306,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30602,
+			"taskGroup": 306,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30701,
+			"taskGroup": 307,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30702,
+			"taskGroup": 307,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30801,
+			"taskGroup": 308,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30802,
+			"taskGroup": 308,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30901,
+			"taskGroup": 309,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 30902,
+			"taskGroup": 309,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31001,
+			"taskGroup": 310,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31002,
+			"taskGroup": 310,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31101,
+			"taskGroup": 311,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31102,
+			"taskGroup": 311,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31201,
+			"taskGroup": 312,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31202,
+			"taskGroup": 312,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31301,
+			"taskGroup": 313,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31302,
+			"taskGroup": 313,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31401,
+			"taskGroup": 314,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31402,
+			"taskGroup": 314,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31501,
+			"taskGroup": 315,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31502,
+			"taskGroup": 315,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31601,
+			"taskGroup": 316,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31602,
+			"taskGroup": 316,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31701,
+			"taskGroup": 317,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31702,
+			"taskGroup": 317,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31801,
+			"taskGroup": 318,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31802,
+			"taskGroup": 318,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31901,
+			"taskGroup": 319,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 31902,
+			"taskGroup": 319,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32001,
+			"taskGroup": 320,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32002,
+			"taskGroup": 320,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32101,
+			"taskGroup": 321,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32102,
+			"taskGroup": 321,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32202,
+			"taskGroup": 322,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32301,
+			"taskGroup": 323,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32302,
+			"taskGroup": 323,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32401,
+			"taskGroup": 324,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32402,
+			"taskGroup": 324,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32501,
+			"taskGroup": 325,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32502,
+			"taskGroup": 325,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32601,
+			"taskGroup": 326,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32602,
+			"taskGroup": 326,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32701,
+			"taskGroup": 327,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32702,
+			"taskGroup": 327,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32801,
+			"taskGroup": 328,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32802,
+			"taskGroup": 328,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32901,
+			"taskGroup": 329,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 32902,
+			"taskGroup": 329,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 33001,
+			"taskGroup": 330,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 33002,
+			"taskGroup": 330,
+			"name": "Consume 60 Intelligence Puzzles",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1000",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 35101,
+			"taskGroup": 351,
+			"name": "Daily Indicator 1",
+			"des": "Attempt Cloud Exercise once",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 901,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 3002,
+			"rewardList": [
+				"170104:1",
+				"170105:1",
+				"2:500"
+			],
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35102,
+			"taskGroup": 351,
+			"name": "Daily Indicator 2",
+			"des": "Complete any stage of Cloud Exercise (Auto Battle included)",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 906,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"170106:1",
+				"170107:1",
+				"170108:1",
+				"2:500"
+			],
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35103,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 1",
+			"des": "Unlock 1 Command Illustration",
+			"sequence": 1,
+			"conditionClass": 908,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35104,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 2",
+			"des": "Unlock 3 Command Illustrations",
+			"sequence": 2,
+			"conditionClass": 908,
+			"conditionNum": 3,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35105,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 3",
+			"des": "Unlock 6 Command Illustrations",
+			"sequence": 3,
+			"conditionClass": 908,
+			"conditionNum": 6,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35106,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 4",
+			"des": "Unlock 9 Command Illustrations",
+			"sequence": 4,
+			"conditionClass": 908,
+			"conditionNum": 9,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35107,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 5",
+			"des": "Unlock 12 Command Illustrations",
+			"sequence": 5,
+			"conditionClass": 908,
+			"conditionNum": 12,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35108,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 6",
+			"des": "Use Movement Command of any level once",
+			"sequence": 6,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12100,
+			"conditionArg2": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35109,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 7",
+			"des": "Use Movement Command of any level 3 times",
+			"sequence": 7,
+			"conditionClass": 910,
+			"conditionNum": 3,
+			"conditionArg0": 103,
+			"conditionArg1": 12100,
+			"conditionArg2": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35110,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 8",
+			"des": "Use Remote Command of any level once",
+			"sequence": 8,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12101,
+			"conditionArg2": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35111,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 9",
+			"des": "Use Lightning Rod of any level once",
+			"sequence": 9,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12106,
+			"conditionArg2": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35112,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 10",
+			"des": "Use Stability Component of any level once",
+			"sequence": 10,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12103,
+			"conditionArg2": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35113,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 11",
+			"des": "Use Emergency Power of any level once",
+			"sequence": 11,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12102,
+			"conditionArg2": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35114,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 12",
+			"des": "Use Intercept Command of any level once",
+			"sequence": 12,
+			"conditionClass": 910,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 12108,
+			"conditionArg2": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"link": ""
+		},
+		{
+			"id": 35115,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 13",
+			"des": "Complete any stage of the Cloud Exercise once",
+			"sequence": 13,
+			"conditionClass": 909,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35116,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 14",
+			"des": "Complete any stage of the Cloud Exercise 5 times",
+			"sequence": 14,
+			"conditionClass": 909,
+			"conditionNum": 5,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"8301:2000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35117,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 15",
+			"des": "Complete any stage of the Cloud Exercise 10 times",
+			"sequence": 15,
+			"conditionClass": 909,
+			"conditionNum": 10,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:3000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35118,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 16",
+			"des": "Complete any stage of the Cloud Exercise 20 times",
+			"sequence": 16,
+			"conditionClass": 909,
+			"conditionNum": 20,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"8301:3000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35119,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 17",
+			"des": "Complete any stage of the Cloud Exercise 35 times",
+			"sequence": 17,
+			"conditionClass": 909,
+			"conditionNum": 35,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"25:3000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 35120,
+			"taskGroup": 351,
+			"name": "Fixed Indicator 18",
+			"des": "Complete any stage of the Cloud Exercise 50 times",
+			"sequence": 18,
+			"conditionClass": 909,
+			"conditionNum": 50,
+			"conditionArg0": 103,
+			"conditionArg1": -1,
+			"rewardList": [
+				"8301:3000"
+			],
+			"actionParam": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 45101,
+			"taskGroup": 451,
+			"name": "Daily Login",
+			"des": "Daily Login",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170001:1"
+			],
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 45102,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 1",
+			"des": "Consume 20 Intelligence Puzzles",
+			"sequence": 1,
+			"conditionClass": 2,
+			"conditionNum": 20,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45103,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 2",
+			"des": "Consume 40 Intelligence Puzzles",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 40,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45104,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 3",
+			"des": "Consume 60 Intelligence Puzzles",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45105,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 4",
+			"des": "Consume 80 Intelligence Puzzles",
+			"sequence": 1,
+			"conditionClass": 2,
+			"conditionNum": 80,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45106,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 5",
+			"des": "Consume 100 Intelligence Puzzles",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45107,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 6",
+			"des": "Consume 120 Intelligence Puzzles",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 120,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45108,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 7",
+			"des": "Consume 140 Intelligence Puzzles",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 140,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45109,
+			"taskGroup": 451,
+			"name": "Fixed Indicator 8",
+			"des": "Consume 160 Intelligence Puzzles",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 160,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 50101,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 50102,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 50103,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 50104,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 50105,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 50106,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 50107,
+			"taskGroup": 501,
+			"name": "Encore Commission",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 51101,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 51102,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 51103,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 51104,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 51105,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 51106,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 51107,
+			"taskGroup": 511,
+			"name": "Rhapsody Commission",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"172001:20"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 70101,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 70102,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 70103,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 70104,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 70105,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 70106,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 70107,
+			"taskGroup": 701,
+			"name": "Encampment Commission",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"174002:10"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 80101,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 80102,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 80103,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 80104,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 80105,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 80106,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 80107,
+			"taskGroup": 801,
+			"name": "Troupe Commission",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"175001:10"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		}
+	]
+}

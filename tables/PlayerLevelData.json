@@ -1,0 +1,542 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"gunLevel": 1,
+			"weaponLevel": 1,
+			"exp": 0,
+			"upgradeReward": {}
+		},
+		{
+			"id": 2,
+			"exp": 10,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 2,
+			"weaponLevel": 2
+		},
+		{
+			"id": 3,
+			"exp": 15,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 3,
+			"weaponLevel": 3
+		},
+		{
+			"id": 4,
+			"exp": 20,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 4,
+			"weaponLevel": 4
+		},
+		{
+			"id": 5,
+			"exp": 25,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 5,
+			"weaponLevel": 5
+		},
+		{
+			"id": 6,
+			"exp": 30,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 6,
+			"weaponLevel": 6
+		},
+		{
+			"id": 7,
+			"exp": 35,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 7,
+			"weaponLevel": 7
+		},
+		{
+			"id": 8,
+			"exp": 40,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 8,
+			"weaponLevel": 8
+		},
+		{
+			"id": 9,
+			"exp": 50,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 9,
+			"weaponLevel": 9
+		},
+		{
+			"id": 10,
+			"exp": 81,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 10,
+			"weaponLevel": 10
+		},
+		{
+			"id": 11,
+			"exp": 101,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 11,
+			"weaponLevel": 11
+		},
+		{
+			"id": 12,
+			"exp": 122,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 12,
+			"weaponLevel": 12
+		},
+		{
+			"id": 13,
+			"exp": 142,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 13,
+			"weaponLevel": 13
+		},
+		{
+			"id": 14,
+			"exp": 152,
+			"upgradeReward": {
+				"101": 10
+			},
+			"gunLevel": 14,
+			"weaponLevel": 14
+		},
+		{
+			"id": 15,
+			"exp": 163,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 15,
+			"weaponLevel": 15
+		},
+		{
+			"id": 16,
+			"exp": 163,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 16,
+			"weaponLevel": 16
+		},
+		{
+			"id": 17,
+			"exp": 173,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 17,
+			"weaponLevel": 17
+		},
+		{
+			"id": 18,
+			"exp": 184,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 18,
+			"weaponLevel": 18
+		},
+		{
+			"id": 19,
+			"exp": 215,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 19,
+			"weaponLevel": 19
+		},
+		{
+			"id": 20,
+			"exp": 246,
+			"upgradeReward": {
+				"101": 20
+			},
+			"gunLevel": 20,
+			"weaponLevel": 20
+		},
+		{
+			"id": 21,
+			"exp": 276,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 21,
+			"weaponLevel": 21
+		},
+		{
+			"id": 22,
+			"exp": 276,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 22,
+			"weaponLevel": 22
+		},
+		{
+			"id": 23,
+			"exp": 309,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 23,
+			"weaponLevel": 23
+		},
+		{
+			"id": 24,
+			"exp": 353,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 24,
+			"weaponLevel": 24
+		},
+		{
+			"id": 25,
+			"exp": 397,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 25,
+			"weaponLevel": 25
+		},
+		{
+			"id": 26,
+			"exp": 580,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 26,
+			"weaponLevel": 26
+		},
+		{
+			"id": 27,
+			"exp": 580,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 27,
+			"weaponLevel": 27
+		},
+		{
+			"id": 28,
+			"exp": 580,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 28,
+			"weaponLevel": 28
+		},
+		{
+			"id": 29,
+			"exp": 580,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 29,
+			"weaponLevel": 29
+		},
+		{
+			"id": 30,
+			"exp": 630,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 30,
+			"weaponLevel": 30
+		},
+		{
+			"id": 31,
+			"exp": 630,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 31,
+			"weaponLevel": 31
+		},
+		{
+			"id": 32,
+			"exp": 696,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 32,
+			"weaponLevel": 32
+		},
+		{
+			"id": 33,
+			"exp": 792,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 33,
+			"weaponLevel": 33
+		},
+		{
+			"id": 34,
+			"exp": 792,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 34,
+			"weaponLevel": 34
+		},
+		{
+			"id": 35,
+			"exp": 858,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 35,
+			"weaponLevel": 35
+		},
+		{
+			"id": 36,
+			"exp": 1056,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 36,
+			"weaponLevel": 36
+		},
+		{
+			"id": 37,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 37,
+			"weaponLevel": 37
+		},
+		{
+			"id": 38,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 38,
+			"weaponLevel": 38
+		},
+		{
+			"id": 39,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 39,
+			"weaponLevel": 39
+		},
+		{
+			"id": 40,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 40,
+			"weaponLevel": 40
+		},
+		{
+			"id": 41,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 41,
+			"weaponLevel": 41
+		},
+		{
+			"id": 42,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 42,
+			"weaponLevel": 42
+		},
+		{
+			"id": 43,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 43,
+			"weaponLevel": 43
+		},
+		{
+			"id": 44,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 44,
+			"weaponLevel": 44
+		},
+		{
+			"id": 45,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 45,
+			"weaponLevel": 45
+		},
+		{
+			"id": 46,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 46,
+			"weaponLevel": 46
+		},
+		{
+			"id": 47,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 47,
+			"weaponLevel": 47
+		},
+		{
+			"id": 48,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 48,
+			"weaponLevel": 48
+		},
+		{
+			"id": 49,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 49,
+			"weaponLevel": 49
+		},
+		{
+			"id": 50,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 50,
+			"weaponLevel": 50
+		},
+		{
+			"id": 51,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 51,
+			"weaponLevel": 51
+		},
+		{
+			"id": 52,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 52,
+			"weaponLevel": 52
+		},
+		{
+			"id": 53,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 53,
+			"weaponLevel": 53
+		},
+		{
+			"id": 54,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 54,
+			"weaponLevel": 54
+		},
+		{
+			"id": 55,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 55,
+			"weaponLevel": 55
+		},
+		{
+			"id": 56,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 56,
+			"weaponLevel": 56
+		},
+		{
+			"id": 57,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 57,
+			"weaponLevel": 57
+		},
+		{
+			"id": 58,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 58,
+			"weaponLevel": 58
+		},
+		{
+			"id": 59,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 59,
+			"weaponLevel": 59
+		},
+		{
+			"id": 60,
+			"exp": 1320,
+			"upgradeReward": {
+				"101": 30
+			},
+			"gunLevel": 60,
+			"weaponLevel": 60
+		}
+	]
+}

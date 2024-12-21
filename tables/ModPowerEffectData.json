@@ -1,0 +1,100 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"powerSkill": {
+				"3": 1001
+			},
+			"name": "Ultimate Pursuit",
+			"image": "WeaponPart_ModPower_Attack01"
+		},
+		{
+			"id": 2,
+			"powerSkill": {
+				"3": 1002
+			},
+			"name": "Double Strategy",
+			"image": "WeaponPart_ModPower_Attack02"
+		},
+		{
+			"id": 3,
+			"powerSkill": {
+				"3": 1003
+			},
+			"name": "Phase Strike",
+			"image": "WeaponPart_ModPower_Critical01"
+		},
+		{
+			"id": 4,
+			"powerSkill": {
+				"3": 1004
+			},
+			"name": "Phase Resonance",
+			"image": "WeaponPart_ModPower_Current01"
+		},
+		{
+			"id": 5,
+			"powerSkill": {
+				"3": 1005
+			},
+			"name": "Emergency Repair",
+			"image": "WeaponPart_ModPower_Support01"
+		},
+		{
+			"id": 6,
+			"powerSkill": {
+				"3": 1006
+			},
+			"name": "Allay Support",
+			"image": "WeaponPart_ModPower_Defend01"
+		},
+		{
+			"id": 7,
+			"powerSkill": {
+				"3": 1010
+			},
+			"name": "Ballistic Boost",
+			"image": "WeaponPart_ModPower_Physical"
+		},
+		{
+			"id": 8,
+			"powerSkill": {
+				"3": 1011
+			},
+			"name": "Burn Boost",
+			"image": "WeaponPart_ModPower_Fire"
+		},
+		{
+			"id": 9,
+			"powerSkill": {
+				"3": 1012
+			},
+			"name": "Freeze Boost",
+			"image": "WeaponPart_ModPower_Ice"
+		},
+		{
+			"id": 10,
+			"powerSkill": {
+				"3": 1013
+			},
+			"name": "Corrosion Boost",
+			"image": "WeaponPart_ModPower_Poison"
+		},
+		{
+			"id": 11,
+			"powerSkill": {
+				"3": 1014
+			},
+			"name": "Electric Boost",
+			"image": "WeaponPart_ModPower_Electric"
+		},
+		{
+			"id": 12,
+			"powerSkill": {
+				"3": 1015
+			},
+			"name": "Hydro Boost",
+			"image": "WeaponPart_ModPower_Water"
+		}
+	]
+}

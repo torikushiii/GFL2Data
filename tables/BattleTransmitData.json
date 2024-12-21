@@ -1,0 +1,251 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": 1,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"transmitFunction": 0
+		},
+		{
+			"id": 2,
+			"type": 3,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"transmitFunction": 0
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 169,
+			"type": 1,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"transmitFunction": 0
+		},
+		{
+			"id": 252,
+			"type": 4,
+			"shapeParam": [
+				300
+			],
+			"target": 1,
+			"transmitFunction": 1,
+			"targetIgnore": 1,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 253,
+			"type": 4,
+			"shapeParam": [
+				200
+			],
+			"target": 2,
+			"transmitFunction": 3,
+			"targetIgnore": 1,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6166301,
+			"type": 4,
+			"shapeParam": [
+				300
+			],
+			"target": 1,
+			"transmitFunction": 1,
+			"targetIgnore": 1,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6242300,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6443301,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6481201,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6703602,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 2,
+			"condition": "6703602",
+			"effectBeforeTransmit": "6873503_Buff",
+			"effectAfterTransmit": "6873503_Buff",
+			"transmitFunction": 2,
+			"targetIgnore": 0
+		},
+		{
+			"id": 6851901,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 1,
+			"condition": "230",
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6856501,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 1,
+			"transmitFunction": 3,
+			"targetIgnore": 1,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6873701,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 1,
+			"condition": "6873701",
+			"transmitFunction": 1,
+			"targetIgnore": 1,
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6951201,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 1,
+			"condition": "6951201",
+			"transmitFunction": 1,
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"targetIgnore": 0
+		},
+		{
+			"id": 10010411,
+			"type": 1,
+			"transmitFunction": 3,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"targetIgnore": 0
+		},
+		{
+			"id": 10040701,
+			"type": 1,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"transmitFunction": 0
+		},
+		{
+			"id": 10040711,
+			"type": 2,
+			"shapeParam": [
+				200,
+				0
+			],
+			"target": 2,
+			"transmitFunction": 2,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"targetIgnore": 0
+		},
+		{
+			"id": 10400711,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 10500403,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 2,
+			"condition": "10500403",
+			"effectBeforeTransmit": "6873503_Buff",
+			"effectAfterTransmit": "6873503_Buff",
+			"transmitFunction": 2,
+			"targetIgnore": 0
+		}
+	]
+}

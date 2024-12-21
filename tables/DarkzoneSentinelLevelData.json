@@ -1,0 +1,50 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"warnRange": [
+				301,
+				500
+			],
+			"effectLevel": 4,
+			"isWarnState": 1,
+			"addBuff": [
+				30502
+			],
+			"hint": [
+				903531,
+				903527,
+				903532
+			]
+		},
+		{
+			"id": 2,
+			"warnRange": [
+				151,
+				300
+			],
+			"effectLevel": 3,
+			"addBuff": [
+				30502
+			],
+			"hint": [
+				903526,
+				903527
+			],
+			"isWarnState": 0
+		},
+		{
+			"id": 3,
+			"warnRange": [
+				0,
+				150
+			],
+			"hint": [
+				903525
+			],
+			"effectLevel": 0,
+			"isWarnState": 0,
+			"addBuff": []
+		}
+	]
+}

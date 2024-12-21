@@ -1,0 +1,84 @@
+{
+	"data": [
+		{
+			"id": 80001,
+			"name": "Particle Accumulator - Energy I",
+			"supplyLevel": 1,
+			"isNormalSupply": true,
+			"propertySkillDes": "A low-spec particle accumulator, suited for units that favor energy attacks. Deals additional damage equal to 10% of the target's max HP.",
+			"resPath": "Icon_Supply_Special_1",
+			"type": 0,
+			"autoBuyCofig": 0
+		},
+		{
+			"id": 80002,
+			"name": "Particle Accumulator - Energy II",
+			"supplyLevel": 2,
+			"propertySkillDes": "A particle accumulator which can achieve greater particle intensity, suited for units that favor energy attacks. Deals additional damage equal to 20% of the target's max HP.",
+			"resPath": "Icon_Supply_Special_2",
+			"autoBuyCofig": 10,
+			"type": 0,
+			"isNormalSupply": false
+		},
+		{
+			"id": 80011,
+			"name": "Particle Accumulator - Dynamic I",
+			"type": 1,
+			"supplyLevel": 1,
+			"isNormalSupply": true,
+			"propertySkillDes": "A low-spec particle accumulator. Equipping it greatly increases the firepower of a weapon. Damage dealt increases by 5% when equipped.",
+			"resPath": "Icon_Supply_Physical_1",
+			"autoBuyCofig": 0
+		},
+		{
+			"id": 80012,
+			"name": "Particle Accumulator - Dynamic II",
+			"type": 1,
+			"supplyLevel": 2,
+			"propertySkillDes": "A particle accumulator which can achieve greater particle intensity, suited for units that favor energy attacks. Damage dealt increases by 10% when equipped.",
+			"resPath": "Icon_Supply_Physical_2",
+			"autoBuyCofig": 10,
+			"isNormalSupply": false
+		},
+		{
+			"id": 80021,
+			"name": "Particle Accumulator - Ion I",
+			"type": 2,
+			"supplyLevel": 1,
+			"isNormalSupply": true,
+			"propertySkillDes": "A low-spec particle accumulator, suited for units that favor ion attacks. Grants 15 points of ion reduction",
+			"resPath": "Icon_Supply_Magical_1",
+			"autoBuyCofig": 0
+		},
+		{
+			"id": 80022,
+			"name": "Particle Accumulator - Ion II",
+			"type": 2,
+			"supplyLevel": 2,
+			"propertySkillDes": "A particle accumulator which can achieve greater particle intensity, suited for units that favor ion attacks. Grants 30 points of ion reduction",
+			"resPath": "Icon_Supply_Magical_2",
+			"autoBuyCofig": 10,
+			"isNormalSupply": false
+		},
+		{
+			"id": 80031,
+			"name": "Particle Accumulator - Stability I",
+			"type": 3,
+			"supplyLevel": 1,
+			"propertySkillDes": "A low-spec particle accumulator. Equipping it allows you to more easily break enemy units' stability.\nOnce configured, it increases the unit’s stability index reduction by 15%.",
+			"resPath": "Icon_Supply_Suppress_1",
+			"autoBuyCofig": 10,
+			"isNormalSupply": false
+		},
+		{
+			"id": 80032,
+			"name": "Particle Accumulator - Stability II",
+			"type": 3,
+			"supplyLevel": 2,
+			"propertySkillDes": "A particle accumulator which can achieve greater particle intensity. Equipping it allows you to more easily break enemy units' stability.\nOnce configured, it increases the unit’s stability index reduction by 30%.",
+			"resPath": "Icon_Supply_Suppress_2",
+			"autoBuyCofig": 10,
+			"isNormalSupply": false
+		}
+	]
+}

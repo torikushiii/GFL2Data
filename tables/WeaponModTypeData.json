@@ -1,0 +1,374 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "Sight",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 2,
+			"type": 1,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "Muzzle Device",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"icon": "WeaponPart_Hangdown_None",
+			"name": "Underbarrel",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 4,
+			"type": 1,
+			"icon": "WeaponPart_Ensharp_None",
+			"name": "Blade Edge",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 8,
+			"type": 1,
+			"icon": "WeaponPart_Adjust_None",
+			"name": "Adjustable Module",
+			"weaponModDes": "",
+			"canSee": 2,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 9,
+			"type": 1,
+			"icon": "WeaponPart_Link_None",
+			"name": "Linked Module",
+			"weaponModDes": "",
+			"canSee": 2,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 11,
+			"type": 1,
+			"icon": "WeaponPart_orbment_None",
+			"name": "Modular Latch",
+			"weaponModDes": "",
+			"canSee": 2,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 12,
+			"type": 1,
+			"icon": "WeaponPart_Grip_None",
+			"name": "Universal Foregrip",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 13,
+			"type": 1,
+			"icon": "WeaponPart_Stool_None",
+			"name": "Universal Bipod",
+			"weaponModDes": "",
+			"canSee": 1,
+			"fatherType": 0,
+			"hangingPoint": 0
+		},
+		{
+			"id": 1011,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "AR Sight",
+			"weaponModDes": "For AR",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 1012,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "SMG Sight",
+			"weaponModDes": "For SMG",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 1013,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "MG Sight",
+			"weaponModDes": "For MG",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 1021,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "RF Sight",
+			"weaponModDes": "For RF",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 1031,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "SG Sight",
+			"weaponModDes": "For SG",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 1032,
+			"type": 2,
+			"fatherType": 1,
+			"icon": "WeaponPart_Scope_None",
+			"name": "HG Sight",
+			"weaponModDes": "For HG",
+			"canSee": 1,
+			"hangingPoint": 1
+		},
+		{
+			"id": 2011,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "AR Muzzle",
+			"weaponModDes": "For AR",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 2012,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "SMG Muzzle",
+			"weaponModDes": "For SMG",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 2021,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "MG Muzzle",
+			"weaponModDes": "For MG",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 2022,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "RF Muzzle",
+			"weaponModDes": "For RF",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 2031,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "SG Muzzle",
+			"weaponModDes": "For SG",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 2041,
+			"type": 2,
+			"fatherType": 2,
+			"icon": "WeaponPart_Muzzle_None",
+			"name": "HG Muzzle",
+			"weaponModDes": "For HG",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 3011,
+			"type": 2,
+			"fatherType": 3,
+			"icon": "WeaponPart_Lightweight_None",
+			"name": "AR Underbarrel",
+			"weaponModDes": "For AR",
+			"canSee": 1,
+			"hangingPoint": 3
+		},
+		{
+			"id": 3012,
+			"type": 2,
+			"fatherType": 3,
+			"icon": "WeaponPart_Lightweight_None",
+			"name": "SMG Underbarrel",
+			"weaponModDes": "For SMG",
+			"canSee": 1,
+			"hangingPoint": 3
+		},
+		{
+			"id": 3013,
+			"type": 2,
+			"fatherType": 3,
+			"icon": "WeaponPart_Lightweight_None",
+			"name": "MG Underbarrel",
+			"weaponModDes": "For MG",
+			"canSee": 1,
+			"hangingPoint": 3
+		},
+		{
+			"id": 3014,
+			"type": 2,
+			"fatherType": 3,
+			"icon": "WeaponPart_Lightweight_None",
+			"name": "RF Underbarrel",
+			"weaponModDes": "For RF",
+			"canSee": 1,
+			"hangingPoint": 3
+		},
+		{
+			"id": 4011,
+			"type": 2,
+			"fatherType": 4,
+			"icon": "WeaponPart_Ensharp_None",
+			"name": "Blade Edge",
+			"weaponModDes": "For Special Weapon",
+			"canSee": 1,
+			"hangingPoint": 2
+		},
+		{
+			"id": 8011,
+			"type": 2,
+			"fatherType": 8,
+			"icon": "WeaponPart_Adjust_None",
+			"name": "Blade Adjuster",
+			"weaponModDes": "For Special Weapon",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 9011,
+			"type": 2,
+			"fatherType": 9,
+			"icon": "WeaponPart_Link_None",
+			"name": "SG Link",
+			"weaponModDes": "For SG",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 9012,
+			"type": 2,
+			"fatherType": 9,
+			"icon": "WeaponPart_Link_None",
+			"name": "HG Link",
+			"weaponModDes": "For HG",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 9013,
+			"type": 2,
+			"fatherType": 9,
+			"icon": "WeaponPart_Link_None",
+			"name": "Special Link",
+			"weaponModDes": "For Special Weapon",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 11011,
+			"type": 2,
+			"fatherType": 11,
+			"icon": "WeaponPart_orbment_None",
+			"name": "SG Latch",
+			"weaponModDes": "For SG",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 11012,
+			"type": 2,
+			"fatherType": 11,
+			"icon": "WeaponPart_orbment_None",
+			"name": "HG Latch",
+			"weaponModDes": "For HG",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 11013,
+			"type": 2,
+			"fatherType": 11,
+			"icon": "WeaponPart_orbment_None",
+			"name": "Special Latch",
+			"weaponModDes": "For Special Weapon",
+			"canSee": 2,
+			"hangingPoint": 0
+		},
+		{
+			"id": 12011,
+			"type": 2,
+			"fatherType": 12,
+			"icon": "WeaponPart_Grip_None",
+			"name": "AR Foregrip",
+			"weaponModDes": "For AR",
+			"canSee": 1,
+			"hangingPoint": 6
+		},
+		{
+			"id": 12012,
+			"type": 2,
+			"fatherType": 12,
+			"icon": "WeaponPart_Grip_None",
+			"name": "SMG Foregrip",
+			"weaponModDes": "For SMG",
+			"canSee": 1,
+			"hangingPoint": 6
+		},
+		{
+			"id": 13011,
+			"type": 2,
+			"fatherType": 13,
+			"icon": "WeaponPart_Stool_None",
+			"name": "MG Bipod",
+			"weaponModDes": "For MG",
+			"canSee": 1,
+			"hangingPoint": 5
+		},
+		{
+			"id": 13012,
+			"type": 2,
+			"fatherType": 13,
+			"icon": "WeaponPart_Stool_None",
+			"name": "RF Bipod",
+			"weaponModDes": "For RF",
+			"canSee": 1,
+			"hangingPoint": 5
+		}
+	]
+}

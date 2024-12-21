@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"id": 2,
+			"name": "Light Ammo",
+			"nameEn": "A",
+			"icon": "Icon_BulletHit_Light",
+			"color": "95cc43FF",
+			"barrackAvaliable": 1
+		},
+		{
+			"id": 4,
+			"name": "Medium Ammo",
+			"nameEn": "B",
+			"icon": "Icon_BulletHit_Middle",
+			"color": "95cc43FF",
+			"barrackAvaliable": 1
+		},
+		{
+			"id": 8,
+			"name": "Heavy Ammo",
+			"nameEn": "C",
+			"icon": "Icon_BulletHit_Heavy",
+			"color": "95cc43FF",
+			"barrackAvaliable": 1
+		},
+		{
+			"id": 16,
+			"name": "Melee",
+			"nameEn": "D",
+			"icon": "Icon_BulletHit_Melee",
+			"color": "95cc43FF",
+			"barrackAvaliable": 1
+		},
+		{
+			"id": 32,
+			"name": "Shotgun Ammo",
+			"nameEn": "E",
+			"icon": "Icon_BulletHit_Shot",
+			"color": "95cc43FF",
+			"barrackAvaliable": 1
+		}
+	]
+}

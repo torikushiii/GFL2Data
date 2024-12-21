@@ -1,0 +1,310 @@
+{
+	"data": [
+		{
+			"id": 22001,
+			"name": "",
+			"qualify": "No badge yet",
+			"qualifySimplify": "",
+			"sort": 9999,
+			"icon": "",
+			"achievement": 0
+		},
+		{
+			"id": 22002,
+			"icon": "Item_Icon_Medal_Story01",
+			"name": "Badge - Double Pendulum Simulation",
+			"qualify": "Unlock by completing the Story Campaign Chapter 1: Double Pendulum Simulation",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 1: Double Pendulum Simulation",
+			"achievement": 48019,
+			"sort": 101
+		},
+		{
+			"id": 22003,
+			"icon": "Item_Icon_Medal_Story02",
+			"name": "Badge - Second Signal",
+			"qualify": "Unlock by completing the Story Campaign Chapter 2: Second Signal",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 2: Second Signal",
+			"achievement": 48020,
+			"sort": 102
+		},
+		{
+			"id": 22004,
+			"icon": "Item_Icon_Medal_Story03",
+			"name": "Badge - Lacuna Rectification",
+			"qualify": "Unlock by completing the Story Campaign Chapter 3: Lacuna Rectification",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 3: Lacuna Rectification",
+			"achievement": 48021,
+			"sort": 103
+		},
+		{
+			"id": 22005,
+			"icon": "Item_Icon_Medal_Story04",
+			"name": "Badge - Reverse Matrix",
+			"qualify": "Unlock by completing the Story Campaign Chapter 4: Reverse Matrix",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 4: Reverse Matrix",
+			"achievement": 48022,
+			"sort": 104
+		},
+		{
+			"id": 22006,
+			"icon": "Item_Icon_Medal_Story05",
+			"name": "Badge - Heterodyne Resonance",
+			"qualify": "Unlock by completing the Story Campaign Chapter 5: Heterodyne Resonance",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 5: Heterodyne Resonance",
+			"achievement": 48023,
+			"sort": 105
+		},
+		{
+			"id": 22007,
+			"icon": "Item_Icon_Medal_Story06",
+			"name": "Badge - Harmonic Cycle",
+			"qualify": "Unlock by completing the Story Campaign Chapter 6: Harmonic Cycle",
+			"qualifySimplify": "Unlock by completing the Story Campaign Chapter 6: Harmonic Cycle",
+			"achievement": 48024,
+			"sort": 106
+		},
+		{
+			"id": 22008,
+			"icon": "Item_Icon_Medal_Story07",
+			"name": "Badge: Radiation Decay",
+			"qualify": "Unlock after clearing the main Campaign Chapter 7 - Radiation Decay.",
+			"qualifySimplify": "Unlock after clearing the main Campaign Chapter 7 - Radiation Decay.",
+			"achievement": 48025,
+			"sort": 107
+		},
+		{
+			"id": 22009,
+			"icon": "Item_Icon_Medal_Gun_Collect01",
+			"name": "Badge - Busy Crowds",
+			"qualify": "Unlock by collecting {0}/12 Dolls",
+			"qualifySimplify": "Unlock by collecting {0}/12 Dolls",
+			"achievement": 48026,
+			"sort": 11
+		},
+		{
+			"id": 22010,
+			"icon": "Item_Icon_Medal_Gacha01",
+			"name": "Badge - Access Expert",
+			"qualify": "Unlock by accessing {0}/400 times",
+			"qualifySimplify": "Unlock by accessing {0}/400 times",
+			"achievement": 48027,
+			"sort": 12
+		},
+		{
+			"id": 22011,
+			"icon": "Item_Icon_Medal_Chrtalent01",
+			"name": "Badge - Artificial Master",
+			"qualify": "Unlock by activating {0}/8 Universal Keys",
+			"qualifySimplify": "Unlock by activating {0}/8 Universal Keys",
+			"achievement": 48028,
+			"sort": 19
+		},
+		{
+			"id": 22012,
+			"icon": "Item_Icon_Medal_Gun_LevelUp01",
+			"name": "Badge - Basic Team",
+			"qualify": "Unlock by having {0}/4 Dolls reach level 60",
+			"qualifySimplify": "Unlock by having {0}/4 Dolls reach level 60",
+			"achievement": 48029,
+			"sort": 20
+		},
+		{
+			"id": 22013,
+			"icon": "Item_Icon_Medal_Gun_LevelUp02",
+			"name": "Badge - Multiple Crews",
+			"qualify": "Unlock by having {0}/12 Dolls reach level 60",
+			"qualifySimplify": "Unlock by having {0}/12 Dolls reach level 60",
+			"achievement": 48030,
+			"sort": 21
+		},
+		{
+			"id": 22014,
+			"icon": "Item_Icon_Medal_Weapon_LevelUp01",
+			"name": "Badge - All Set",
+			"qualify": "Unlock by having {0}/4 weapons reach level 60",
+			"qualifySimplify": "Unlock by having {0}/4 weapons reach level 60",
+			"achievement": 48031,
+			"sort": 22
+		},
+		{
+			"id": 22015,
+			"icon": "Item_Icon_Medal_Weapon_LevelUp02",
+			"name": "Badge - Elite Squad",
+			"qualify": "Unlock by having {0}/12 weapons reach level 60",
+			"qualifySimplify": "Unlock by having {0}/12 weapons reach level 60",
+			"achievement": 48032,
+			"sort": 23
+		},
+		{
+			"id": 22018,
+			"icon": "Item_Icon_Medal_WeaponPart_GrowUp01",
+			"name": "Badge - Dazzling Display",
+			"qualify": "Unlock by having {0}/60 calibrated attachments",
+			"qualifySimplify": "Unlock by having {0}/60 calibrated attachments",
+			"achievement": 48035,
+			"sort": 13
+		},
+		{
+			"id": 22019,
+			"icon": "Item_Icon_Medal_Player_LevelUp01",
+			"name": "Badge - A Small Step",
+			"qualify": "Unlock by reaching Commander level {0}/60",
+			"qualifySimplify": "Unlock by reaching Commander level {0}/60",
+			"achievement": 48036,
+			"sort": 18
+		},
+		{
+			"id": 22020,
+			"icon": "Item_Icon_Medal_Consume_Energy01",
+			"name": "Badge - Mapping the Ground",
+			"qualify": "Unlock by using {0}/14,400 Intelligence Puzzles",
+			"qualifySimplify": "Unlock by using {0}/14,400 Intelligence Puzzles",
+			"achievement": 48039,
+			"sort": 14
+		},
+		{
+			"id": 22021,
+			"icon": "Item_Icon_Medal_Consume_Gold01",
+			"name": "Badge - The Mysterious Millionaire",
+			"qualify": "Unlock by consuming {0}/100,000,000 ounces of Sardis Gold",
+			"qualifySimplify": "Unlock by consuming {0}/100,000,000 ounces of Sardis Gold",
+			"achievement": 48040,
+			"sort": 15
+		},
+		{
+			"id": 22022,
+			"icon": "Item_Icon_Medal_Player_Login01",
+			"name": "Badge - Renowned Hunter",
+			"qualify": "Unlock by logging in for {0}/100 days",
+			"qualifySimplify": "Unlock by logging in for {0}/100 days",
+			"achievement": 48037,
+			"sort": 16
+		},
+		{
+			"id": 22023,
+			"icon": "Item_Icon_Medal_Player_SignIn01",
+			"name": "Badge - Veteran Hunter",
+			"qualify": "Unlock by logging in for {0}/30 consecutive days",
+			"qualifySimplify": "Unlock by logging in for {0}/30 consecutive days",
+			"achievement": 48038,
+			"sort": 17
+		},
+		{
+			"id": 22037,
+			"icon": "Item_Icon_Medal_PVP_Level5",
+			"name": "Badge - Combat Exercise Adept",
+			"qualify": "Unlock by reaching Adept in Combat Exercise",
+			"qualifySimplify": "Unlock by reaching Adept in Combat Exercise",
+			"achievement": 48001,
+			"sort": 2
+		},
+		{
+			"id": 22038,
+			"icon": "Item_Icon_Medal_PVP_Level6",
+			"name": "Badge - Combat Exercise Expert",
+			"qualify": "Unlock by reaching Expert in Combat Exercise",
+			"qualifySimplify": "Unlock by reaching Expert in Combat Exercise",
+			"achievement": 48002,
+			"sort": 3
+		},
+		{
+			"id": 22039,
+			"icon": "Item_Icon_Medal_PVP_Level7",
+			"name": "Badge - Combat Exercise Master",
+			"qualify": "Unlock by reaching Master in Combat Exercise",
+			"qualifySimplify": "Unlock by reaching Master in Combat Exercise",
+			"achievement": 48003,
+			"sort": 4
+		},
+		{
+			"id": 22040,
+			"icon": "Item_Icon_Medal_PVP_Defender",
+			"name": "Badge - Defender",
+			"qualify": "Unlock by successfully defending against other bounty hunters {0}/100 times in Combat Exercise",
+			"qualifySimplify": "Unlock by successfully defending against other bounty hunters {0}/100 times in Combat Exercise",
+			"achievement": 48004,
+			"sort": 5
+		},
+		{
+			"id": 22041,
+			"icon": "Item_Icon_Medal_PVP_Attacker",
+			"name": "Badge - Battle Fanatic",
+			"qualify": "Unlock by successfully attacking other bounty hunters {0}/1000 times in Combat Exercise",
+			"qualifySimplify": "Unlock by successfully attacking other bounty hunters {0}/1000 times in Combat Exercise",
+			"achievement": 48005,
+			"sort": 6
+		},
+		{
+			"id": 22043,
+			"icon": "Item_Icon_Medal_ActivityDaiyan1",
+			"name": "Badge - Prowling the Streets",
+			"qualify": "Unlock by completing the Gear Pursuit: Sonata",
+			"qualifySimplify": "Unlock by completing the Gear Pursuit: Sonata",
+			"achievement": 48041,
+			"sort": 201
+		},
+		{
+			"id": 22044,
+			"icon": "Item_Icon_Medal_ActivityDaiyan2",
+			"name": "Badge - Market Patrol",
+			"qualify": "Unlock by completing the Gear Pursuit: Trilogy",
+			"qualifySimplify": "Unlock by completing the Gear Pursuit: Trilogy",
+			"achievement": 48042,
+			"sort": 202
+		},
+		{
+			"id": 22045,
+			"icon": "Item_Icon_Medal_ActivityDaiyan3",
+			"name": "Badge - Festive Bash",
+			"qualify": "Unlock by completing the Gear Pursuit: Rondo",
+			"qualifySimplify": "Unlock by completing the Gear Pursuit: Rondo",
+			"achievement": 48043,
+			"sort": 203
+		},
+		{
+			"id": 22050,
+			"icon": "Item_Icon_Medal_eventbox",
+			"name": "Badge - Fragrance Pact",
+			"qualify": "Unlock by completing the specified mission in the Fragrance Gift",
+			"qualifySimplify": "Unlock by completing the specified mission in the Fragrance Gift",
+			"sort": 208,
+			"achievement": 0
+		},
+		{
+			"id": 22051,
+			"icon": "Item_Icon_Medal_HighPVP_Season1",
+			"name": "Badge - Ordered Dispute",
+			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Ordered Dispute",
+			"qualifySimplify": "Unlock by ranking in the top 80% in Military Simulation Season: Ordered Dispute",
+			"sort": 209,
+			"achievement": 0
+		},
+		{
+			"id": 22052,
+			"icon": "Item_Icon_Medal_HighPVP_Season2",
+			"name": "Badge - Breakout",
+			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Breakout",
+			"qualifySimplify": "Unlock by ranking in the top 80% in Military Simulation Season: Breakout",
+			"sort": 210,
+			"achievement": 0
+		},
+		{
+			"id": 22053,
+			"icon": "Item_Icon_Medal_HighPVP_Season3",
+			"name": "Badge - Bold Assault",
+			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Bold Assault",
+			"qualifySimplify": "Unlock by ranking in the top 80% in Military Simulation Season: Bold Assault",
+			"sort": 211,
+			"achievement": 0
+		},
+		{
+			"id": 22057,
+			"icon": "Item_Icon_Medal_Story08",
+			"name": "Badge: Aliasing Effect",
+			"qualify": "Unlocked via completion of Campaign Chapter 8 - Aliasing Effect",
+			"qualifySimplify": "Unlocked via completion of Campaign Chapter 8 - Aliasing Effect",
+			"sort": 108,
+			"achievement": 0
+		}
+	]
+}

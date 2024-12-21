@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"id": 13200,
+			"chars": "This redeem code is invalid or incorrectly entered"
+		},
+		{
+			"id": 13201,
+			"chars": "This redeem code has expired"
+		},
+		{
+			"id": 13202,
+			"chars": "This Gift Pack has already been redeemed on this account"
+		},
+		{
+			"id": 13203,
+			"chars": "This redeem code has reached its redemption limit"
+		},
+		{
+			"id": 13204,
+			"chars": "You've already redeemed today. Please try again tomorrow."
+		},
+		{
+			"id": 13205,
+			"chars": "This Gift Pack has reached its redemption limit for this account"
+		},
+		{
+			"id": 13206,
+			"chars": "Invalid Gift Pack code length"
+		},
+		{
+			"id": 13207,
+			"chars": "You have already used this redeem code"
+		},
+		{
+			"id": 13208,
+			"chars": "This redeem code has reached its redemption limit"
+		},
+		{
+			"id": 13209,
+			"chars": "This Gift Pack cannot be redeemed through the current channel"
+		}
+	]
+}

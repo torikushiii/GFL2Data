@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"enName": "task_cooperation",
+			"id": 4,
+			"name": "New Joint Missions"
+		},
+		{
+			"enName": "task_daily",
+			"id": 1,
+			"name": "Daily Actions"
+		},
+		{
+			"enName": "task_new",
+			"id": 3,
+			"name": "New Daily Missions"
+		},
+		{
+			"enName": "task_weekly",
+			"id": 2,
+			"name": "Weekly Actions"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 20
+			},
+			"name": "Daily Target: Sign-In",
+			"description": "Complete daily sign-in",
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "",
+			"unlockOn": 0
+		},
+		{
+			"id": 2,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 20
+			},
+			"link": "4015",
+			"name": "Daily Target: Dormitory",
+			"description": "Enter the Dormitory",
+			"conditionClass": 750,
+			"conditionNum": 1,
+			"unlockOn": 0
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 20
+			},
+			"link": "1000",
+			"name": "Daily Target: Operation 1",
+			"description": "Consume 60 Intelligence Puzzles",
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"unlockOn": 0
+		},
+		{
+			"id": 4,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 20
+			},
+			"link": "1000",
+			"name": "Daily Target: Operation 2",
+			"description": "Consume 120 Intelligence Puzzles",
+			"conditionClass": 2,
+			"conditionNum": 120,
+			"unlockOn": 0
+		},
+		{
+			"id": 5,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "1098",
+			"name": "Daily Target: Supply Mission",
+			"description": "Clear 1 Supply Mission",
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"unlockOn": 10998
+		},
+		{
+			"id": 6,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "1099",
+			"name": "Daily Target: Combat Simulation",
+			"description": "Clear 1 Combat Simulation",
+			"conditionClass": 210,
+			"conditionNum": 1,
+			"unlockOn": 10999
+		},
+		{
+			"id": 7,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "3801",
+			"name": "Daily Target: Targeted Study",
+			"description": "Win 2 times in Targeted Study",
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"unlockOn": 11012
+		},
+		{
+			"id": 8,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "2",
+			"name": "Daily Target: Intelligence Purchase",
+			"description": "Exchange Collapse Pieces for Intelligence Puzzles once",
+			"conditionClass": 407,
+			"conditionNum": 1,
+			"unlockOn": 0
+		},
+		{
+			"id": 9,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "4015",
+			"name": "Daily Indicator: Affinity",
+			"description": "Gift 5 items of your choice",
+			"conditionClass": 1303,
+			"conditionNum": 5,
+			"unlockOn": 0
+		}
+	]
+}

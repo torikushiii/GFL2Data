@@ -1,0 +1,64 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Phase Countermeasure",
+			"chapterImg": "Img_ArchivesCenter_PlotBg0",
+			"num": 0
+		},
+		{
+			"id": 2,
+			"num": 1,
+			"name": "Double Pendulum Simulation",
+			"chapterImg": "Img_ArchivesCenter_PlotBg1"
+		},
+		{
+			"id": 3,
+			"num": 2,
+			"name": "Second Signal",
+			"chapterImg": "Img_ArchivesCenter_PlotBg2"
+		},
+		{
+			"id": 4,
+			"num": 3,
+			"name": "Lacuna Rectification",
+			"chapterImg": "Img_ArchivesCenter_PlotBg3"
+		},
+		{
+			"id": 5,
+			"num": 4,
+			"name": "Reverse Matrix",
+			"chapterImg": "Img_ArchivesCenter_PlotBg4"
+		},
+		{
+			"id": 6,
+			"num": 5,
+			"name": "Heterodyne Resonance",
+			"chapterImg": "Img_ArchivesCenter_PlotBg5"
+		},
+		{
+			"id": 7,
+			"num": 6,
+			"name": "Harmonic Cycle",
+			"chapterImg": "Img_ArchivesCenter_PlotBg6"
+		},
+		{
+			"id": 8,
+			"num": 7,
+			"name": "Radiation Decay",
+			"chapterImg": "Img_ArchivesCenter_PlotBg7"
+		},
+		{
+			"id": 9,
+			"num": 8,
+			"name": "Aliasing Effect",
+			"chapterImg": "Img_ArchivesCenter_PlotBg8"
+		},
+		{
+			"id": 10,
+			"num": 9,
+			"name": "Aphelion - Part 1",
+			"chapterImg": "Img_ArchivesCenter_PlotBg9"
+		}
+	]
+}

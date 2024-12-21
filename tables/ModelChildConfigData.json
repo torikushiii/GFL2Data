@@ -1,0 +1,104 @@
+{
+	"data": [
+		{
+			"id": 654201,
+			"childModel": "Children/Transform_child_01/Bolidao_PhantomCannon_Poison",
+			"coverRendering": true
+		},
+		{
+			"id": 654202,
+			"childModel": "Children/Transform_child_02/Bolidao_PhantomCannon_Water",
+			"coverRendering": true
+		},
+		{
+			"id": 693101,
+			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y02",
+			"coverRendering": true
+		},
+		{
+			"id": 693102,
+			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y03",
+			"coverRendering": true
+		},
+		{
+			"id": 693103,
+			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y06",
+			"coverRendering": true
+		},
+		{
+			"id": 693601,
+			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y01",
+			"coverRendering": true
+		},
+		{
+			"id": 693602,
+			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y10",
+			"coverRendering": true
+		},
+		{
+			"id": 693603,
+			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y08",
+			"coverRendering": true
+		},
+		{
+			"id": 693604,
+			"childModel": "Children/Transform_child_04/MISC_deepWarshipCannon_y04",
+			"coverRendering": true
+		},
+		{
+			"id": 694101,
+			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y08",
+			"coverRendering": true
+		},
+		{
+			"id": 694102,
+			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y07",
+			"coverRendering": true
+		},
+		{
+			"id": 694103,
+			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y08_2",
+			"coverRendering": true
+		},
+		{
+			"id": 696301,
+			"childModel": "Children/Transform_child_01/NONE_KoshmarSummon_Clukay",
+			"coverRendering": true
+		},
+		{
+			"id": 696302,
+			"childModel": "Children/Transform_child_02/NONE_KoshmarSummon_Biyoca",
+			"coverRendering": true
+		},
+		{
+			"id": 696303,
+			"childModel": "Children/Transform_child_03/NONE_KoshmarSummon_Uchii",
+			"coverRendering": true
+		},
+		{
+			"id": 696304,
+			"childModel": "Children/Transform_child_04/NONE_KoshmarSummon_Vector",
+			"coverRendering": true
+		},
+		{
+			"id": 696305,
+			"childModel": "Children/Transform_child_05/NONE_KoshmarSummon_Mishty",
+			"coverRendering": true
+		},
+		{
+			"id": 696306,
+			"childModel": "Children/Transform_child_06/NONE_KoshmarSummon_Andoris",
+			"coverRendering": true
+		},
+		{
+			"id": 696307,
+			"childModel": "Children/Transform_child_07/NONE_KoshmarSummon_Welrod",
+			"coverRendering": true
+		},
+		{
+			"id": 696308,
+			"childModel": "Children/Transform_child_08/NONE_KoshmarSummon_Harpsy",
+			"coverRendering": true
+		}
+	]
+}

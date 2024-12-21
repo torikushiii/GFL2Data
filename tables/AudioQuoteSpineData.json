@@ -1,0 +1,279 @@
+{
+	"data": [
+		{
+			"id": 10001,
+			"spine": "Groza",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10002,
+			"spine": "Charolic",
+			"eventId": {
+				"Attack": 580012,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10003,
+			"spine": "Colphne",
+			"eventId": {
+				"Attack": 580002,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10004,
+			"spine": "Nemesis",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10005,
+			"spine": "Vepley",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10006,
+			"spine": "Lenna",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10007,
+			"spine": "Peritya",
+			"eventId": {
+				"Attack": 580001,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10008,
+			"spine": "Sharkry",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10009,
+			"spine": "Dusevnyj",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10010,
+			"spine": "Cheeta",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10011,
+			"spine": "Tololo",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10012,
+			"spine": "Sabrina",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10013,
+			"spine": "Nagant",
+			"eventId": {
+				"Attack": 580002,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10014,
+			"spine": "Qiongjiu",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10015,
+			"spine": "Centaureissi",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10016,
+			"spine": "Daiyan",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10017,
+			"spine": "Mosinnagant",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10018,
+			"spine": "Macqiato",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10019,
+			"spine": "Yinzhu",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10020,
+			"spine": "Ksenia",
+			"eventId": {
+				"Attack": 580002,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10021,
+			"spine": "Littara",
+			"eventId": {
+				"Attack": 580001,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10022,
+			"spine": "Lenna",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10023,
+			"spine": "Suomi",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10024,
+			"spine": "Mishty",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10025,
+			"spine": "Clukay",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 500001,
+			"spine": "Golyat",
+			"eventId": {
+				"Attack": 580010,
+				"Sprint": 580009
+			}
+		},
+		{
+			"id": 500002,
+			"spine": "Aegis",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580007
+			}
+		},
+		{
+			"id": 500003,
+			"spine": "Kuiper",
+			"eventId": {
+				"Attack": 580011,
+				"Sprint": 580008
+			}
+		},
+		{
+			"id": 500004,
+			"spine": "Urokrake",
+			"eventId": {
+				"Attack": 580019,
+				"Idle": 580021,
+				"Sprint": 580022
+			}
+		},
+		{
+			"id": 500005,
+			"spine": "Oljefat",
+			"eventId": {
+				"Attack": 580023,
+				"Sprint": 580013
+			}
+		},
+		{
+			"id": 500006,
+			"spine": "Scourge Moth",
+			"eventId": {
+				"Attack": 5624715,
+				"Idle": 5624722,
+				"Sprint": 5624701
+			}
+		},
+		{
+			"id": 500007,
+			"spine": "Nemertea",
+			"eventId": {
+				"Attack": 580014,
+				"Idle": 580016,
+				"Sprint": 580015
+			}
+		},
+		{
+			"id": 500008,
+			"spine": "Aegis-Dominator_SWAP",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580007
+			}
+		},
+		{
+			"id": 500009,
+			"spine": "Obshare",
+			"eventId": {
+				"Attack": 580017,
+				"Sprint": 580018
+			}
+		}
+	]
+}

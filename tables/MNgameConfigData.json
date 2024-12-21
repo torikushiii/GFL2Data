@@ -1,0 +1,39 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"activityType": 1,
+			"activityId": 60034,
+			"name": "Frontline Survivors",
+			"activityDesc": "Welcome to Frontline Survivors!\nIn this mode, the deployed Doll will shoot automatically. You only need to control her movement.\nBy eliminating enemy units, you gain Survivor Points and Experience, which allows you to level up after accumulating enough. Upon leveling up, you can choose a battlefield buff out of a random selection."
+		},
+		{
+			"id": 1002,
+			"activityType": 1,
+			"activityId": 60094,
+			"name": "Frontline Survivors - Season 2",
+			"activityDesc": "Welcome to Frontline Survivors - Season 2!\nIn this mode, the deployed Doll will shoot automatically. You only need to control her movement.\nBy eliminating enemy units, you gain Survivor Points and Experience, which allows you to level up after accumulating enough. Upon leveling up, you can choose a battlefield buff out of a random selection."
+		},
+		{
+			"id": 2001,
+			"activityType": 2,
+			"activityId": 60061,
+			"name": "Frostfire Leap",
+			"activityDesc": "Welcome to Frostfire Leap!\nIn this mode, you can control your character to jump, dash, and reverse gravity to maneuver and avoid attacks. You can also utilize the interaction between the elements of ice and fire to deal with special terrain.\nTry to reach the finish line as fast as you can!"
+		},
+		{
+			"id": 3001,
+			"activityType": 3,
+			"activityId": 60075,
+			"name": "Operation Ruin Flight",
+			"activityDesc": "Welcome to Operation Ruin Flight!\nThis fully functional Super Dinergate doesn't belong here. Control it to jump upwards and out of the ruins!"
+		},
+		{
+			"id": 4001,
+			"activityType": 4,
+			"name": "Copy Not Finalized",
+			"activityDesc": "Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized Copy Not Finalized",
+			"activityId": 0
+		}
+	]
+}

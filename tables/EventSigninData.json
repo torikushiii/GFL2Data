@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"id": 60001,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_1",
+			"activityType": 1
+		},
+		{
+			"id": 60008,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60013,
+			"image": "Img_MultiSignInItem_Bg_2",
+			"edType": 0,
+			"activityType": 0
+		},
+		{
+			"id": 60017,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_2",
+			"activityType": 1
+		},
+		{
+			"id": 60037,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_3",
+			"activityType": 0
+		},
+		{
+			"id": 60062,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60085,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_1",
+			"activityType": 1
+		},
+		{
+			"id": 60106,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60206,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60210,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60303,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 68001,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_5",
+			"activityType": 1
+		},
+		{
+			"id": 68002,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_4",
+			"activityType": 0
+		},
+		{
+			"id": 69996,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_1",
+			"activityType": 1
+		}
+	]
+}

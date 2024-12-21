@@ -1,0 +1,137 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Resistance lv:1",
+			"bankId": 1,
+			"skillId": 40010201,
+			"weight": 33
+		},
+		{
+			"id": 2,
+			"name": "Heal Cut lv:1",
+			"bankId": 1,
+			"skillId": 40010801,
+			"weight": 33
+		},
+		{
+			"id": 3,
+			"name": "Resistance lv:2",
+			"bankId": 1,
+			"skillId": 40010202,
+			"weight": 17
+		},
+		{
+			"id": 4,
+			"name": "Heal Cut lv:2",
+			"bankId": 1,
+			"skillId": 40010802,
+			"weight": 17
+		},
+		{
+			"id": 5,
+			"name": "Armor Cut lv:1",
+			"bankId": 2,
+			"skillId": 40010501,
+			"weight": 33
+		},
+		{
+			"id": 6,
+			"name": "Deviation lv:1",
+			"bankId": 2,
+			"skillId": 40010601,
+			"weight": 33
+		},
+		{
+			"id": 7,
+			"name": "Armor Cut lv:2",
+			"bankId": 2,
+			"skillId": 40010502,
+			"weight": 17
+		},
+		{
+			"id": 8,
+			"name": "Deviation lv:2",
+			"bankId": 2,
+			"skillId": 40010602,
+			"weight": 17
+		},
+		{
+			"id": 9,
+			"name": "Resistance lv:2",
+			"bankId": 3,
+			"skillId": 40010202,
+			"weight": 33
+		},
+		{
+			"id": 10,
+			"name": "Heal Cut lv:2",
+			"bankId": 3,
+			"skillId": 40010802,
+			"weight": 33
+		},
+		{
+			"id": 11,
+			"name": "Resistance lv:3",
+			"bankId": 3,
+			"skillId": 40010203,
+			"weight": 17
+		},
+		{
+			"id": 12,
+			"name": "Heal Cut lv:3",
+			"bankId": 3,
+			"skillId": 40010803,
+			"weight": 17
+		},
+		{
+			"id": 13,
+			"name": "Armor Cut lv:2",
+			"bankId": 4,
+			"skillId": 40010502,
+			"weight": 33
+		},
+		{
+			"id": 14,
+			"name": "Deviation lv:2",
+			"bankId": 4,
+			"skillId": 40010602,
+			"weight": 33
+		},
+		{
+			"id": 15,
+			"name": "Armor Cut lv:3",
+			"bankId": 4,
+			"skillId": 40010503,
+			"weight": 17
+		},
+		{
+			"id": 16,
+			"name": "Deviation lv:3",
+			"bankId": 4,
+			"skillId": 40010603,
+			"weight": 17
+		},
+		{
+			"id": 17,
+			"name": "Deceleration lv:1",
+			"bankId": 5,
+			"skillId": 40010101,
+			"weight": 33
+		},
+		{
+			"id": 18,
+			"name": "Infliction lv:1",
+			"bankId": 5,
+			"skillId": 40010701,
+			"weight": 33
+		},
+		{
+			"id": 19,
+			"name": "Concentration lv:1",
+			"bankId": 5,
+			"skillId": 40010901,
+			"weight": 33
+		}
+	]
+}

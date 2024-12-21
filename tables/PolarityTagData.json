@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"polarityId": 1,
+			"name": "Physical",
+			"icon": "Icon_BulletHit"
+		},
+		{
+			"polarityId": 2,
+			"name": "Burn",
+			"icon": "Icon_BulletHit"
+		},
+		{
+			"polarityId": 3,
+			"name": "Electric",
+			"icon": "Icon_BulletHit"
+		},
+		{
+			"polarityId": 4,
+			"name": "Freeze",
+			"icon": "Icon_BulletHit"
+		},
+		{
+			"polarityId": 5,
+			"name": "Corrosion",
+			"icon": "Icon_BulletHit"
+		}
+	]
+}

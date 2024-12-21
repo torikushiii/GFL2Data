@@ -1,0 +1,134 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Exotic Cadence",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				99901,
+				99902,
+				99903
+			],
+			"priority": 1,
+			"o_DBIIILHFKDF": "",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 2,
+			"name": "Zucchero Café",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				99904,
+				99905,
+				99906
+			],
+			"priority": 2,
+			"o_DBIIILHFKDF": "",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 6,
+			"name": "Intertwined Assault",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				311,
+				312,
+				313
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 4001,
+			"name": "Vestigial Display",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				501,
+				502
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Dusevnyj",
+			"o_HECAHBLCPEB": 501
+		},
+		{
+			"id": 5001,
+			"name": "Rhapsody Quartet",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				511,
+				512
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Macqiato",
+			"o_HECAHBLCPEB": 511
+		},
+		{
+			"id": 6001,
+			"name": "Sojourners of the Glass Island",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				601
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Ullrid",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 7001,
+			"name": "Halting Station",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				701,
+				702
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Dusevnyj",
+			"o_HECAHBLCPEB": 701
+		},
+		{
+			"id": 8001,
+			"name": "Echo of Dawn",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				801,
+				802
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Zhaohui",
+			"o_HECAHBLCPEB": 801
+		},
+		{
+			"id": 9001,
+			"name": "Aphelion",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				901
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Clukay",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 11001,
+			"name": "Amidst Wings of Gray",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1101
+			],
+			"priority": 1,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Daiyan",
+			"o_HECAHBLCPEB": 0
+		}
+	]
+}

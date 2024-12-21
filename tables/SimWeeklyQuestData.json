@@ -1,0 +1,355 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 1",
+			"description": "Clear the simulation scenario \"Fierce Foe 1\"",
+			"conditionKey": "71101200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71101,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 2,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 2",
+			"description": "Clear the simulation scenario \"Volatile Husk 1\"",
+			"conditionKey": "71201200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71201,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 3",
+			"description": "Clear the simulation scenario \"Myriadform 1\"",
+			"conditionKey": "71301200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71301,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 4,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 4",
+			"description": "Clear the simulation scenario \"Fierce Foe 3\"",
+			"conditionKey": "71103200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71103,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 5,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 5",
+			"description": "Clear the simulation scenario \"Volatile Husk 3\"",
+			"conditionKey": "71203200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71203,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 6,
+			"type": 1,
+			"name": "Data Segment Collection: Mark Check 6",
+			"description": "Clear the simulation scenario \"Myriadform 3\"",
+			"conditionKey": "71303200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71303,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 7,
+			"type": 1,
+			"name": "Data Segment Collection: Midway Check 1",
+			"description": "Clear the simulation scenario \"Fierce Foe: Midway Detection\"",
+			"conditionKey": "71105200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71105,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 8,
+			"type": 1,
+			"name": "Data Segment Collection: Midway Check 2",
+			"description": "Clear the simulation scenario \"Volatile Husk: Midway Detection\"",
+			"conditionKey": "71205200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71205,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 9,
+			"type": 1,
+			"name": "Data Segment Collection: Midway Check 3",
+			"description": "Clear the simulation scenario \"Myriadform: Midway Inspection\"",
+			"conditionKey": "71305200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71305,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 10,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 1",
+			"description": "Collect 1,000 points in Overclock Simulation",
+			"conditionKey": "1000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 1000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 11,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 2",
+			"description": "Collect 2,000 points in Overclock Simulation",
+			"conditionKey": "2000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 2000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 12,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 3",
+			"description": "Collect 3,000 points in Overclock Simulation",
+			"conditionKey": "3000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 3000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 13,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 4",
+			"description": "Collect 4,000 points in Overclock Simulation",
+			"conditionKey": "4000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 4000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 14,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 5",
+			"description": "Collect 5,000 points in Overclock Simulation",
+			"conditionKey": "5000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 5000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 15,
+			"type": 1,
+			"name": "Data Segment Collection: Volume Standard 6",
+			"description": "Collect 6,000 points in Overclock Simulation",
+			"conditionKey": "6000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 6000,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 16,
+			"type": 2,
+			"name": "2 - Fight 1",
+			"description": "Clear the checkpoint for Route 1",
+			"conditionKey": "71105200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71105,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 17,
+			"type": 2,
+			"name": "2 - Score 1",
+			"description": "Reach 500 points in Mode B",
+			"conditionKey": "500350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 500,
+			"reward": {
+				"8050": 10
+			}
+		},
+		{
+			"id": 18,
+			"type": 2,
+			"name": "2 - Fight 2",
+			"description": "Clear the checkpoint for Route 2",
+			"conditionKey": "71205200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71205,
+			"reward": {
+				"8050": 15
+			}
+		},
+		{
+			"id": 19,
+			"type": 2,
+			"name": "2 - Score 2",
+			"description": "Reach 1,000 points in Mode B",
+			"conditionKey": "1000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 1000,
+			"reward": {
+				"8050": 15
+			}
+		},
+		{
+			"id": 20,
+			"type": 2,
+			"name": "2 - Fighting 3",
+			"description": "Clear the checkpoint for Route 3",
+			"conditionKey": "71305200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71305,
+			"reward": {
+				"8050": 20
+			}
+		},
+		{
+			"id": 21,
+			"type": 2,
+			"name": "2 - Score 3",
+			"description": "Reach 1,500 points in Mode B",
+			"conditionKey": "1500350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 1500,
+			"reward": {
+				"8050": 20
+			}
+		},
+		{
+			"id": 22,
+			"type": 2,
+			"name": "2 - Fight 4",
+			"description": "Beat Route 1 boss stage",
+			"conditionKey": "71106200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71106,
+			"reward": {
+				"8050": 30
+			}
+		},
+		{
+			"id": 23,
+			"type": 2,
+			"name": "2 - Score 4",
+			"description": "Reach 2,000 points in Mode B",
+			"conditionKey": "2000350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 2000,
+			"reward": {
+				"8050": 30
+			}
+		},
+		{
+			"id": 24,
+			"type": 2,
+			"name": "2 - Fight 5",
+			"description": "Beat Route 2 boss stage",
+			"conditionKey": "71206200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71206,
+			"reward": {
+				"8050": 50
+			}
+		},
+		{
+			"id": 25,
+			"type": 2,
+			"name": "2 - Score 5",
+			"description": "Reach 2,100 points in Mode B",
+			"conditionKey": "2100350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 2100,
+			"reward": {
+				"8050": 50
+			}
+		},
+		{
+			"id": 26,
+			"type": 2,
+			"name": "2 - Fight 6",
+			"description": "Beat Route 3 boss stage",
+			"conditionKey": "71306200",
+			"conditionClass": 200,
+			"conditionNum": 1,
+			"conditionArg0": 71306,
+			"reward": {
+				"8050": 60
+			}
+		},
+		{
+			"id": 27,
+			"type": 2,
+			"name": "2 - Score 6",
+			"description": "Reach 2,300 points in Mode B",
+			"conditionKey": "2300350",
+			"conditionClass": 350,
+			"conditionNum": 1,
+			"conditionArg0": 2300,
+			"reward": {
+				"8050": 60
+			}
+		}
+	]
+}

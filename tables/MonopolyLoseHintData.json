@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"des": "Battle Failure"
+		},
+		{
+			"id": 2,
+			"des": "Maximum number of rounds reached"
+		},
+		{
+			"id": 3,
+			"des": "Abandon Defense"
+		},
+		{
+			"id": 4,
+			"des": "Failure condition met: enemy-occupied tile limit reached"
+		},
+		{
+			"id": 5,
+			"des": "Failure condition met: enemy-occupied tile lead limit reached"
+		},
+		{
+			"id": 6,
+			"des": "Failure condition met: enemy security vulnerability breach limit reached"
+		}
+	]
+}

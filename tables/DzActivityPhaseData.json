@@ -1,0 +1,37 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"activityDz": 101,
+			"unlockRate": 1,
+			"dzActivityQuest": [
+				1001,
+				1002
+			],
+			"modelTitle": "Basic Commission",
+			"unlockDaynum": 0
+		},
+		{
+			"id": 2,
+			"activityDz": 101,
+			"unlockDaynum": 1440,
+			"unlockRate": 3,
+			"dzActivityQuest": [
+				2001,
+				2003
+			],
+			"modelTitle": "Intermediate Commission"
+		},
+		{
+			"id": 3,
+			"activityDz": 101,
+			"unlockDaynum": 4320,
+			"unlockRate": 5,
+			"dzActivityQuest": [
+				3001,
+				3003
+			],
+			"modelTitle": "High-Level Commission"
+		}
+	]
+}

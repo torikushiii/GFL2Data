@@ -1,0 +1,116 @@
+{
+	"data": [
+		{
+			"id": [
+				21,
+				24,
+				27
+			],
+			"sidetagType": 0
+		},
+		{
+			"sidetagType": 1,
+			"id": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"sidetagType": 4,
+			"id": [
+				99
+			]
+		},
+		{
+			"sidetagType": 6,
+			"id": [
+				41,
+				42,
+				43,
+				44
+			]
+		},
+		{
+			"sidetagType": 10,
+			"id": [
+				25,
+				28
+			]
+		},
+		{
+			"sidetagType": 11,
+			"id": [
+				30
+			]
+		},
+		{
+			"sidetagType": 12,
+			"id": [
+				81
+			]
+		},
+		{
+			"sidetagType": 13,
+			"id": [
+				79,
+				80
+			]
+		},
+		{
+			"sidetagType": 21,
+			"id": [
+				61
+			]
+		},
+		{
+			"sidetagType": 22,
+			"id": [
+				71
+			]
+		},
+		{
+			"sidetagType": 23,
+			"id": [
+				72
+			]
+		},
+		{
+			"sidetagType": 24,
+			"id": [
+				73,
+				74
+			]
+		},
+		{
+			"sidetagType": 25,
+			"id": [
+				75
+			]
+		},
+		{
+			"sidetagType": 26,
+			"id": [
+				76
+			]
+		},
+		{
+			"sidetagType": 27,
+			"id": [
+				77,
+				78
+			]
+		},
+		{
+			"sidetagType": 29,
+			"id": [
+				82
+			]
+		}
+	]
+}

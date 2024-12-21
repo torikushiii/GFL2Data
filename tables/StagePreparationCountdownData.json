@@ -1,0 +1,208 @@
+{
+	"data": [
+		{
+			"canReconnect": true,
+			"id": 0,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 11,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 12,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 13,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 14,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 20,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 21,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 22,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 23,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 24,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 25,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 26,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 27,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 28,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 29,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 30,
+			"preparationCountdown": 80,
+			"canReconnect": true,
+			"canReconnectText": 901074
+		},
+		{
+			"id": 31,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 32,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 33,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 34,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 35,
+			"preparationCountdown": 80,
+			"canReconnect": true,
+			"canReconnectText": 901074
+		},
+		{
+			"id": 36,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 40,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 41,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 42,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 43,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 44,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 50,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 51,
+			"canReconnect": true,
+			"canReconnectText": 82039,
+			"preparationCountdown": 0
+		},
+		{
+			"id": 52,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 53,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 54,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 55,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 57,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"name": "Varjager",
+			"icon": "campicon_01",
+			"des": "A ragtag armed group that fights like a disorganized mob, but can perform exceptionally well when led by a commander."
+		},
+		{
+			"id": 1002,
+			"name": "ELID",
+			"icon": "Camp_icon_2",
+			"des": "The Infected lack teamwork and do not consider the impact of their AoE skills on allies when using them. Additionally, most Infected possess extraordinary regeneration abilities."
+		},
+		{
+			"id": 1003,
+			"name": "Private Military Contractor",
+			"icon": "Camp_icon_3",
+			"des": "The Sangvis Ferri units are equipped with random enhancement modules at the start of the battle."
+		},
+		{
+			"id": 1004,
+			"name": "Paradeus",
+			"icon": "Camp_icon_4",
+			"des": "\"502 Bad Gateway\" refers to an error on the gateway or an invalid gateway, indicating a network error on the Internet. This error typically appears as a webpage feedback in web browsers. It does not necessarily mean the upstream server is down (no response from the gateway/proxy); rather, it indicates that the upstream server and gateway/proxy are exchanging data using different protocols."
+		},
+		{
+			"id": 1005,
+			"name": "Marley Thermal Power Plant",
+			"icon": "Camp_icon_0",
+			"des": "Marley Thermal Power Plant"
+		},
+		{
+			"id": 1006,
+			"name": "URNC",
+			"icon": "Camp_icon_0",
+			"des": "Union of Rossartrist Nations Coalition"
+		},
+		{
+			"id": 1007,
+			"name": "Mangi Security Service",
+			"icon": "Camp_icon_0",
+			"des": "Mangi Security Service"
+		},
+		{
+			"id": 1099,
+			"name": "Unaffiliated",
+			"icon": "Camp_icon_0",
+			"des": "Unaffiliated"
+		},
+		{
+			"id": 1100,
+			"name": "Unknown",
+			"icon": "Camp_icon_0",
+			"des": "Unknown"
+		},
+		{
+			"id": 10010,
+			"name": "Mecha Varjager",
+			"icon": "campicon_01",
+			"des": "Mecha Varjager"
+		},
+		{
+			"id": 10020,
+			"name": "Level V Boojum",
+			"icon": "Camp_icon_2",
+			"des": "Level V Boojum"
+		},
+		{
+			"id": 10030,
+			"name": "The Third-Gen Dolls of the Conglomerate",
+			"icon": "Camp_icon_2",
+			"des": "The Third-Gen Dolls of the Conglomerate"
+		}
+	]
+}

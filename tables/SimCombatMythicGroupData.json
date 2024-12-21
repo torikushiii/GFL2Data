@@ -1,0 +1,103 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"o_ANJIHPIMEOM": 1,
+			"goupName": "Wave 1",
+			"groupBg": "Img_SimCombatMythic_Battle_1",
+			"groupDesc": "In a battle, playing dirty might be a compliment.",
+			"config": [
+				101
+			],
+			"groupType": 0
+		},
+		{
+			"id": 2,
+			"o_ANJIHPIMEOM": 2,
+			"goupName": "Wave 2",
+			"groupBg": "Img_SimCombatMythic_Battle_2",
+			"groupDesc": "On the battlefield, the timid ones are often the first to bite the dust.",
+			"config": [
+				201
+			],
+			"groupType": 0
+		},
+		{
+			"id": 3,
+			"o_ANJIHPIMEOM": 3,
+			"goupName": "Wave 3",
+			"groupBg": "Img_SimCombatMythic_Battle_3",
+			"groupDesc": "To be patient is to allow your foe to make mistakes.",
+			"config": [
+				301
+			],
+			"groupType": 0
+		},
+		{
+			"id": 4,
+			"o_ANJIHPIMEOM": 4,
+			"goupName": "Wave 4",
+			"groupBg": "Img_SimCombatMythic_Battle_4",
+			"groupDesc": "Patience and courage will clear the obstacles in your path.",
+			"config": [
+				401
+			],
+			"groupType": 0
+		},
+		{
+			"id": 5,
+			"o_ANJIHPIMEOM": 5,
+			"goupName": "Wave 5",
+			"groupBg": "Img_SimCombatMythic_Battle_5",
+			"groupDesc": "Courage often has an expiration date.",
+			"config": [
+				501
+			],
+			"groupType": 0
+		},
+		{
+			"id": 6,
+			"o_ANJIHPIMEOM": 6,
+			"goupName": "Wave 6",
+			"groupBg": "Img_SimCombatMythic_Battle_6",
+			"groupDesc": "The first decision you make may just decide where the battle swings.",
+			"config": [
+				601
+			],
+			"groupType": 0
+		},
+		{
+			"id": 7,
+			"groupType": 1,
+			"goupName": "Wave 7 - Variation",
+			"groupBg": "Img_SimCombatMythic_Battle_Infinite",
+			"groupDesc": "Dangers are ever-evolving, and survival necessitates tenacity.",
+			"config": [
+				701
+			],
+			"o_ANJIHPIMEOM": 0
+		},
+		{
+			"id": 8,
+			"groupType": 1,
+			"goupName": "Wave 7 - Variation",
+			"groupBg": "Img_SimCombatMythic_Battle_Infinite",
+			"groupDesc": "Dangers are ever-evolving, and survival necessitates tenacity.",
+			"config": [
+				801
+			],
+			"o_ANJIHPIMEOM": 0
+		},
+		{
+			"id": 9,
+			"o_ANJIHPIMEOM": 7,
+			"goupName": "Wave 7",
+			"groupBg": "Img_SimCombatMythic_Battle_7",
+			"groupDesc": "Dangers are ever-evolving, and survival necessitates tenacity.",
+			"config": [
+				901
+			],
+			"groupType": 0
+		}
+	]
+}

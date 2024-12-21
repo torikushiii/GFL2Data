@@ -1,0 +1,220 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"orderName": "Evacuate",
+			"orderDetail": "Reach the area and evacuate.",
+			"specialOrderType": 1,
+			"effectPath": "ArtsResource/Scene/Items/GuideArea.prefab",
+			"skillId": 1001
+		},
+		{
+			"id": 2,
+			"orderName": "Pick Up",
+			"orderDetail": "Pick up the item.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1002,
+			"specialOrderType": 0
+		},
+		{
+			"id": 3,
+			"orderName": "Connect",
+			"orderDetail": "Reach the area and tap into the data stream.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1008,
+			"specialOrderType": 0
+		},
+		{
+			"id": 4,
+			"orderName": "Interact",
+			"orderDetail": "Interact with the item.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1002,
+			"specialOrderType": 0
+		},
+		{
+			"id": 5,
+			"orderName": "Interact",
+			"orderDetail": "Reach the area and explore the surroundings.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1009,
+			"specialOrderType": 0
+		},
+		{
+			"id": 6,
+			"orderName": "Setup",
+			"orderDetail": "Reach the area and set up explosives.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1010,
+			"specialOrderType": 0
+		},
+		{
+			"id": 7,
+			"orderName": "Recycle",
+			"orderDetail": "Reach the area and retrieve the parts.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1011,
+			"specialOrderType": 0
+		},
+		{
+			"id": 8,
+			"orderName": "Collection",
+			"orderDetail": "Reach the area and collect the explosives.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1013,
+			"specialOrderType": 0
+		},
+		{
+			"id": 101,
+			"orderName": "Ammo Refill II",
+			"orderDetail": "Automatically collected when stationary, increasing damage by <color=#f0af14>30%</color> for this turn and the next.",
+			"specialOrderType": 2,
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+			"skillId": 1004
+		},
+		{
+			"id": 102,
+			"orderName": "Maintenance Kit",
+			"orderDetail": "Automatically collected when stationary, instantly restoring <color=#f0af14>50%</color> HP.",
+			"specialOrderType": 2,
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+			"skillId": 1005
+		},
+		{
+			"id": 103,
+			"orderName": "Maintenance Tool",
+			"orderDetail": "Reset all skill cooldowns.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 99000005,
+			"specialOrderType": 0
+		},
+		{
+			"id": 104,
+			"orderName": "Analysis Module V",
+			"orderDetail": "Automatically collected when stationary, granting <color=#f0af14>20 points</color> of Confectance Index.",
+			"specialOrderType": 2,
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+			"skillId": 1007
+		},
+		{
+			"id": 106,
+			"orderName": "Cleanup Program",
+			"orderDetail": "Automatically collected when stationary, instantly removing all debuffs from allied units on the battlefield.",
+			"specialOrderType": 2,
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+			"skillId": 1006
+		},
+		{
+			"id": 107,
+			"orderName": "Jammer",
+			"orderDetail": "Hack the specified turret to turn it into an allied unit and restore its HP.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+			"skillId": 99000005,
+			"specialOrderType": 0
+		},
+		{
+			"id": 108,
+			"orderName": "Pick Up",
+			"orderDetail": "Pick up the item.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1003,
+			"specialOrderType": 0
+		},
+		{
+			"id": 109,
+			"orderName": "Invade",
+			"orderDetail": "Reach the area and hack into the system.",
+			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+			"skillId": 1008,
+			"specialOrderType": 0
+		},
+		{
+			"id": 110,
+			"orderName": "One-Time Mechanism",
+			"orderDetail": "Interacting will toggle the turret's switch. Single use.",
+			"effectPath": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+			"skillId": 1042,
+			"specialOrderType": 0
+		},
+		{
+			"id": 111,
+			"orderName": "Reusable Mechanism",
+			"orderDetail": "Interacting will toggle the turret's switch. Unlimited uses.",
+			"effectPath": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+			"skillId": 1043,
+			"specialOrderType": 0
+		},
+		{
+			"id": 112,
+			"orderName": "Faction Swap Mechanism",
+			"orderDetail": "Interacting will change the turret's allegiance.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+			"skillId": 1042,
+			"specialOrderType": 0
+		},
+		{
+			"id": 1041,
+			"orderName": "Analysis Module I",
+			"orderDetail": "Automatically collected when stationary, granting <color=#f0af14>5 points</color> of Confectance Index.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Add.prefab",
+			"skillId": 1007,
+			"specialOrderType": 0
+		},
+		{
+			"id": 1042,
+			"orderName": "Analysis Module VI",
+			"orderDetail": "Automatically collected when stationary, gaining <color=#f0af14>40 points</color> of Confectance Index.",
+			"specialOrderType": 2,
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+			"skillId": 50703
+		},
+		{
+			"id": 1087,
+			"orderName": "Nano Suit",
+			"orderDetail": "Automatically collected when stationary, reducing damage taken this turn by <color=#f0af14>30%</color>.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+			"skillId": 1097,
+			"specialOrderType": 0
+		},
+		{
+			"id": 1088,
+			"orderName": "Stability Boost",
+			"orderDetail": "Automatically collected when stationary, reducing suppression damage this turn by <color=#f0af14>30%</color>.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+			"skillId": 1098,
+			"specialOrderType": 0
+		},
+		{
+			"id": 1089,
+			"orderName": "Tactical Supply",
+			"orderDetail": "Automatically collected when stationary, granting 1 <color=#00a0e9>extra action</color>.",
+			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
+			"skillId": 1099,
+			"specialOrderType": 0
+		},
+		{
+			"id": 90001,
+			"orderName": "Target Location",
+			"orderDetail": "Escort the Aegis Guard to this location.",
+			"effectPath": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+			"skillId": 1001,
+			"specialOrderType": 0
+		},
+		{
+			"id": 90002,
+			"orderName": "Collection",
+			"orderDetail": "Reach the area and collect the explosives.",
+			"effectPath": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
+			"skillId": 1014,
+			"specialOrderType": 0
+		},
+		{
+			"id": 90003,
+			"orderName": "test",
+			"orderDetail": "test",
+			"specialOrderType": 2,
+			"effectPath": "ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
+			"skillId": 1015
+		}
+	]
+}

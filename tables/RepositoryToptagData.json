@@ -1,0 +1,146 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"sequence": 1,
+			"title": "Physical",
+			"itemType": [
+				21
+			],
+			"args": [
+				1
+			]
+		},
+		{
+			"id": 2,
+			"sequence": 2,
+			"title": "Burn",
+			"itemType": [
+				21
+			],
+			"args": [
+				2
+			]
+		},
+		{
+			"id": 3,
+			"sequence": 3,
+			"title": "Electric",
+			"itemType": [
+				21
+			],
+			"args": [
+				3
+			]
+		},
+		{
+			"id": 4,
+			"sequence": 4,
+			"title": "Freeze",
+			"itemType": [
+				21
+			],
+			"args": [
+				4
+			]
+		},
+		{
+			"id": 5,
+			"sequence": 5,
+			"title": "Corrosion",
+			"itemType": [
+				21
+			],
+			"args": [
+				5
+			]
+		},
+		{
+			"id": 11,
+			"sequence": 11,
+			"title": "Versatile",
+			"itemType": [
+				31
+			],
+			"args": [
+				0
+			]
+		},
+		{
+			"id": 12,
+			"sequence": 12,
+			"title": "Bulwark",
+			"itemType": [
+				31
+			],
+			"args": [
+				1
+			]
+		},
+		{
+			"id": 13,
+			"sequence": 13,
+			"title": "Vanguard",
+			"itemType": [
+				31
+			],
+			"args": [
+				2
+			]
+		},
+		{
+			"id": 14,
+			"sequence": 14,
+			"title": "Support",
+			"itemType": [
+				31
+			],
+			"args": [
+				3
+			]
+		},
+		{
+			"id": 15,
+			"sequence": 15,
+			"title": "Sentinel",
+			"itemType": [
+				31
+			],
+			"args": [
+				4
+			]
+		},
+		{
+			"id": 21,
+			"sequence": 4,
+			"title": "Item Box",
+			"itemType": [
+				8,
+				105,
+				106,
+				107,
+				110,
+				115
+			],
+			"args": []
+		},
+		{
+			"id": 401,
+			"sequence": 16,
+			"title": "Neural Archive",
+			"itemType": [
+				11
+			],
+			"args": []
+		},
+		{
+			"id": 402,
+			"sequence": 17,
+			"title": "Weapon Blueprint",
+			"itemType": [
+				38
+			],
+			"args": []
+		}
+	]
+}

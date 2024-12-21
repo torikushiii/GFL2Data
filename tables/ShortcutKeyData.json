@@ -1,0 +1,444 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"type": 1,
+			"name": "Switch Background",
+			"value": [
+				"Tab"
+			]
+		},
+		{
+			"id": 1002,
+			"type": 1,
+			"name": "Navigation",
+			"value": [
+				"Q"
+			]
+		},
+		{
+			"id": 1003,
+			"type": 1,
+			"name": "Personal Settings",
+			"value": [
+				"I"
+			]
+		},
+		{
+			"id": 1004,
+			"type": 1,
+			"name": "Refitting Room",
+			"value": [
+				"C"
+			]
+		},
+		{
+			"id": 1005,
+			"type": 1,
+			"name": "Event",
+			"value": [
+				"D"
+			]
+		},
+		{
+			"id": 1006,
+			"type": 1,
+			"name": "Commissions",
+			"value": [
+				"U"
+			]
+		},
+		{
+			"id": 1007,
+			"type": 1,
+			"name": "Recruitment",
+			"value": [
+				"G"
+			]
+		},
+		{
+			"id": 1008,
+			"type": 1,
+			"name": "Voyage Logs",
+			"value": [
+				"V"
+			]
+		},
+		{
+			"id": 1009,
+			"type": 1,
+			"name": "Event Recap",
+			"value": [
+				"F"
+			]
+		},
+		{
+			"id": 1010,
+			"type": 1,
+			"name": "Shop",
+			"value": [
+				"E"
+			]
+		},
+		{
+			"id": 1011,
+			"type": 1,
+			"name": "Mail",
+			"value": [
+				"M"
+			]
+		},
+		{
+			"id": 1012,
+			"type": 1,
+			"name": "Notice",
+			"value": [
+				"O"
+			]
+		},
+		{
+			"id": 1013,
+			"type": 1,
+			"name": "Storeroom",
+			"value": [
+				"B"
+			]
+		},
+		{
+			"id": 1014,
+			"type": 1,
+			"name": "Sign-In",
+			"value": [
+				"J"
+			]
+		},
+		{
+			"id": 1015,
+			"type": 1,
+			"name": "Elmo Cloud",
+			"value": [
+				"K"
+			]
+		},
+		{
+			"id": 1016,
+			"type": 1,
+			"name": "Chat",
+			"value": [
+				"~"
+			]
+		},
+		{
+			"id": 1017,
+			"type": 1,
+			"name": "Platoon",
+			"value": [
+				"T"
+			]
+		},
+		{
+			"id": 1018,
+			"type": 1,
+			"name": "Public Area",
+			"value": [
+				"L"
+			]
+		},
+		{
+			"id": 3001,
+			"type": 2,
+			"name": "Combat Settings",
+			"value": [
+				"Esc"
+			]
+		},
+		{
+			"id": 3002,
+			"type": 2,
+			"name": "Undo",
+			"value": [
+				"R"
+			]
+		},
+		{
+			"id": 3003,
+			"type": 2,
+			"name": "End Turn",
+			"value": [
+				"T"
+			]
+		},
+		{
+			"id": 3004,
+			"type": 2,
+			"name": "Auto Battle",
+			"value": [
+				"O"
+			]
+		},
+		{
+			"id": 3005,
+			"type": 2,
+			"name": "Battle Speed",
+			"value": [
+				"="
+			]
+		},
+		{
+			"id": 3006,
+			"type": 2,
+			"name": "End Action",
+			"value": [
+				"Z"
+			]
+		},
+		{
+			"id": 3007,
+			"type": 2,
+			"name": "Show/Hide Details",
+			"value": [
+				"C"
+			]
+		},
+		{
+			"id": 3008,
+			"type": 2,
+			"name": "Next Doll",
+			"value": [
+				"Tab"
+			]
+		},
+		{
+			"id": 3009,
+			"type": 2,
+			"name": "Previous Doll",
+			"value": [
+				"LShift"
+			]
+		},
+		{
+			"id": 3010,
+			"type": 2,
+			"name": "Doll Positioning",
+			"value": [
+				"Y"
+			]
+		},
+		{
+			"id": 3011,
+			"type": 2,
+			"name": "Doll Skill 1",
+			"value": [
+				"1"
+			]
+		},
+		{
+			"id": 3012,
+			"type": 2,
+			"name": "Doll Skill 2",
+			"value": [
+				"2"
+			]
+		},
+		{
+			"id": 3013,
+			"type": 2,
+			"name": "Doll Skill 3",
+			"value": [
+				"3"
+			]
+		},
+		{
+			"id": 3014,
+			"type": 2,
+			"name": "Doll Skill 4",
+			"value": [
+				"4"
+			]
+		},
+		{
+			"id": 3015,
+			"type": 2,
+			"name": "Rotate",
+			"value": [
+				"Mouse2"
+			]
+		},
+		{
+			"id": 3016,
+			"type": 2,
+			"name": "Zoom",
+			"value": [
+				"Mouse4"
+			]
+		},
+		{
+			"id": 3017,
+			"type": 2,
+			"name": "Rotate Clockwise",
+			"value": [
+				"E"
+			]
+		},
+		{
+			"id": 3018,
+			"type": 2,
+			"name": "Rotate Counterclockwise",
+			"value": [
+				"Q"
+			]
+		},
+		{
+			"id": 3019,
+			"type": 2,
+			"name": "Scroll Scene Up",
+			"value": [
+				"W"
+			]
+		},
+		{
+			"id": 3020,
+			"type": 2,
+			"name": "Scroll Scene Down",
+			"value": [
+				"S"
+			]
+		},
+		{
+			"id": 3021,
+			"type": 2,
+			"name": "Scroll Scene Left",
+			"value": [
+				"A"
+			]
+		},
+		{
+			"id": 3022,
+			"type": 2,
+			"name": "Scroll Scene Right",
+			"value": [
+				"D"
+			]
+		},
+		{
+			"id": 3023,
+			"type": 2,
+			"name": "Interact",
+			"value": [
+				"F"
+			]
+		},
+		{
+			"id": 4001,
+			"type": 3,
+			"name": "Move Up",
+			"value": [
+				"W"
+			]
+		},
+		{
+			"id": 4002,
+			"type": 3,
+			"name": "Move Down",
+			"value": [
+				"S"
+			]
+		},
+		{
+			"id": 4003,
+			"type": 3,
+			"name": "Move Left",
+			"value": [
+				"A"
+			]
+		},
+		{
+			"id": 4004,
+			"type": 3,
+			"name": "Move Right",
+			"value": [
+				"D"
+			]
+		},
+		{
+			"id": 4005,
+			"type": 3,
+			"name": "Settings",
+			"value": [
+				"Esc"
+			]
+		},
+		{
+			"id": 4006,
+			"type": 3,
+			"name": "Mini-Map",
+			"value": [
+				"M"
+			]
+		},
+		{
+			"id": 4007,
+			"type": 3,
+			"name": "Backpack",
+			"value": [
+				"B"
+			]
+		},
+		{
+			"id": 4008,
+			"type": 3,
+			"name": "Aim",
+			"value": [
+				"Q"
+			]
+		},
+		{
+			"id": 4009,
+			"type": 3,
+			"name": "Take/Leave Cover",
+			"value": [
+				"E"
+			]
+		},
+		{
+			"id": 4010,
+			"type": 3,
+			"name": "Switch Leader 1",
+			"value": [
+				"1"
+			]
+		},
+		{
+			"id": 4011,
+			"type": 3,
+			"name": "Switch Leader 2",
+			"value": [
+				"2"
+			]
+		},
+		{
+			"id": 4012,
+			"type": 3,
+			"name": "Switch Leader 3",
+			"value": [
+				"3"
+			]
+		},
+		{
+			"id": 4013,
+			"type": 3,
+			"name": "Switch Leader 4",
+			"value": [
+				"4"
+			]
+		},
+		{
+			"id": 4014,
+			"type": 3,
+			"name": "Interact",
+			"value": [
+				"F"
+			]
+		}
+	]
+}

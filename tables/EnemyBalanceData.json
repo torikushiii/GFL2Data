@@ -1,0 +1,814 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 2,
+			"pow": 50,
+			"maxHp": 50,
+			"shieldArmor": 50
+		},
+		{
+			"id": 3,
+			"pow": 100,
+			"maxHp": 100,
+			"shieldArmor": 100
+		},
+		{
+			"id": 4,
+			"pow": 150,
+			"maxHp": 150,
+			"shieldArmor": 150
+		},
+		{
+			"id": 5,
+			"pow": 350,
+			"maxHp": 350,
+			"shieldArmor": 350
+		},
+		{
+			"id": 1001,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1002,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1003,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1004,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1005,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1006,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1007,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1008,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1009,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 1010,
+			"pow": -49,
+			"maxHp": -136,
+			"shieldArmor": -127
+		},
+		{
+			"id": 1011,
+			"pow": -51,
+			"maxHp": -140,
+			"shieldArmor": -138
+		},
+		{
+			"id": 1012,
+			"pow": -48,
+			"maxHp": -155,
+			"shieldArmor": -161
+		},
+		{
+			"id": 1013,
+			"pow": -49,
+			"maxHp": -140,
+			"shieldArmor": -138
+		},
+		{
+			"id": 1014,
+			"pow": -47,
+			"maxHp": -138,
+			"shieldArmor": -134
+		},
+		{
+			"id": 1015,
+			"pow": -46,
+			"maxHp": -85,
+			"shieldArmor": -85
+		},
+		{
+			"id": 1016,
+			"maxHp": -53,
+			"shieldArmor": -54,
+			"pow": 0
+		},
+		{
+			"id": 1017,
+			"maxHp": -39,
+			"shieldArmor": -39,
+			"pow": 0
+		},
+		{
+			"id": 1018,
+			"maxHp": -38,
+			"shieldArmor": -38,
+			"pow": 0
+		},
+		{
+			"id": 1019,
+			"pow": -29,
+			"maxHp": -37,
+			"shieldArmor": -37
+		},
+		{
+			"id": 1020,
+			"pow": -69,
+			"maxHp": -72,
+			"shieldArmor": -70
+		},
+		{
+			"id": 1021,
+			"pow": -82,
+			"maxHp": -139,
+			"shieldArmor": -137
+		},
+		{
+			"id": 1022,
+			"pow": -92,
+			"maxHp": -161,
+			"shieldArmor": -165
+		},
+		{
+			"id": 1023,
+			"pow": -103,
+			"maxHp": -178,
+			"shieldArmor": -182
+		},
+		{
+			"id": 1024,
+			"pow": -113,
+			"maxHp": -206,
+			"shieldArmor": -208
+		},
+		{
+			"id": 1025,
+			"pow": -122,
+			"maxHp": -220,
+			"shieldArmor": -215
+		},
+		{
+			"id": 1026,
+			"pow": -102,
+			"maxHp": -202,
+			"shieldArmor": -202
+		},
+		{
+			"id": 1027,
+			"pow": -84,
+			"maxHp": -199,
+			"shieldArmor": -197
+		},
+		{
+			"id": 1028,
+			"pow": -67,
+			"maxHp": -193,
+			"shieldArmor": -191
+		},
+		{
+			"id": 1029,
+			"pow": -53,
+			"maxHp": -191,
+			"shieldArmor": -192
+		},
+		{
+			"id": 1030,
+			"pow": -41,
+			"maxHp": -164,
+			"shieldArmor": -167
+		},
+		{
+			"id": 1031,
+			"pow": -49,
+			"maxHp": -150,
+			"shieldArmor": -150
+		},
+		{
+			"id": 1032,
+			"pow": -57,
+			"maxHp": -140,
+			"shieldArmor": -142
+		},
+		{
+			"id": 1033,
+			"pow": -65,
+			"maxHp": -130,
+			"shieldArmor": -131
+		},
+		{
+			"id": 1034,
+			"pow": -71,
+			"maxHp": -120,
+			"shieldArmor": -118
+		},
+		{
+			"id": 1035,
+			"pow": -78,
+			"maxHp": -164,
+			"shieldArmor": -163
+		},
+		{
+			"id": 1036,
+			"pow": -67,
+			"maxHp": -170,
+			"shieldArmor": -170
+		},
+		{
+			"id": 1037,
+			"pow": -58,
+			"maxHp": -190,
+			"shieldArmor": -190
+		},
+		{
+			"id": 1038,
+			"pow": -49,
+			"maxHp": -197,
+			"shieldArmor": -196
+		},
+		{
+			"id": 1039,
+			"pow": -43,
+			"maxHp": -157,
+			"shieldArmor": -156
+		},
+		{
+			"id": 1040,
+			"pow": -37,
+			"maxHp": -199,
+			"shieldArmor": -200
+		},
+		{
+			"id": 1041,
+			"pow": -33,
+			"maxHp": -217,
+			"shieldArmor": -217
+		},
+		{
+			"id": 1042,
+			"pow": -30,
+			"maxHp": -224,
+			"shieldArmor": -224
+		},
+		{
+			"id": 1043,
+			"pow": -27,
+			"maxHp": -231,
+			"shieldArmor": -232
+		},
+		{
+			"id": 1044,
+			"pow": -25,
+			"maxHp": -237,
+			"shieldArmor": -238
+		},
+		{
+			"id": 1045,
+			"pow": -22,
+			"maxHp": -254,
+			"shieldArmor": -255
+		},
+		{
+			"id": 1046,
+			"pow": -38,
+			"maxHp": -277,
+			"shieldArmor": -277
+		},
+		{
+			"id": 1047,
+			"pow": -52,
+			"maxHp": -309,
+			"shieldArmor": -308
+		},
+		{
+			"id": 1048,
+			"pow": -66,
+			"maxHp": -313,
+			"shieldArmor": -313
+		},
+		{
+			"id": 1049,
+			"pow": -78,
+			"maxHp": -317,
+			"shieldArmor": -318
+		},
+		{
+			"id": 1050,
+			"pow": -88,
+			"maxHp": -347,
+			"shieldArmor": -347
+		},
+		{
+			"id": 1051,
+			"pow": -97,
+			"maxHp": -400,
+			"shieldArmor": -401
+		},
+		{
+			"id": 1052,
+			"pow": -105,
+			"maxHp": -408,
+			"shieldArmor": -408
+		},
+		{
+			"id": 1053,
+			"pow": -113,
+			"maxHp": -416,
+			"shieldArmor": -416
+		},
+		{
+			"id": 1054,
+			"pow": -120,
+			"maxHp": -433,
+			"shieldArmor": -433
+		},
+		{
+			"id": 1055,
+			"pow": -127,
+			"maxHp": -440,
+			"shieldArmor": -440
+		},
+		{
+			"id": 1056,
+			"pow": -106,
+			"maxHp": -387,
+			"shieldArmor": -387
+		},
+		{
+			"id": 1057,
+			"pow": -86,
+			"maxHp": -372,
+			"shieldArmor": -372
+		},
+		{
+			"id": 1058,
+			"pow": -67,
+			"maxHp": -357,
+			"shieldArmor": -357
+		},
+		{
+			"id": 1059,
+			"pow": -49,
+			"maxHp": -343,
+			"shieldArmor": -343
+		},
+		{
+			"id": 1060,
+			"pow": -30,
+			"maxHp": -329,
+			"shieldArmor": -329
+		},
+		{
+			"id": 1061,
+			"pow": -33,
+			"maxHp": -305,
+			"shieldArmor": -306
+		},
+		{
+			"id": 1062,
+			"pow": -36,
+			"maxHp": -307,
+			"shieldArmor": -307
+		},
+		{
+			"id": 1063,
+			"pow": -39,
+			"maxHp": -308,
+			"shieldArmor": -308
+		},
+		{
+			"id": 1064,
+			"pow": -41,
+			"maxHp": -309,
+			"shieldArmor": -309
+		},
+		{
+			"id": 1065,
+			"pow": -43,
+			"maxHp": -311,
+			"shieldArmor": -311
+		},
+		{
+			"id": 2001,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 2002,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 2003,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 2004,
+			"pow": 0,
+			"maxHp": 0,
+			"shieldArmor": 0
+		},
+		{
+			"id": 2005,
+			"pow": 49,
+			"maxHp": 33,
+			"shieldArmor": 27
+		},
+		{
+			"id": 2006,
+			"pow": 52,
+			"maxHp": 39,
+			"shieldArmor": 53
+		},
+		{
+			"id": 2007,
+			"pow": 50,
+			"maxHp": 38,
+			"shieldArmor": 51
+		},
+		{
+			"id": 2008,
+			"pow": 48,
+			"maxHp": 34,
+			"shieldArmor": 23
+		},
+		{
+			"id": 2009,
+			"pow": 50,
+			"maxHp": 157,
+			"shieldArmor": 152
+		},
+		{
+			"id": 2010,
+			"pow": 46,
+			"maxHp": 136,
+			"shieldArmor": 145
+		},
+		{
+			"id": 2011,
+			"pow": 47,
+			"maxHp": 135,
+			"shieldArmor": 138
+		},
+		{
+			"id": 2012,
+			"pow": 48,
+			"maxHp": 126,
+			"shieldArmor": 129
+		},
+		{
+			"id": 2013,
+			"pow": 46,
+			"maxHp": 130,
+			"shieldArmor": 123
+		},
+		{
+			"id": 2014,
+			"pow": 47,
+			"maxHp": 129,
+			"shieldArmor": 134
+		},
+		{
+			"id": 2015,
+			"pow": 137,
+			"maxHp": 424,
+			"shieldArmor": 423
+		},
+		{
+			"id": 2016,
+			"pow": 134,
+			"maxHp": 431,
+			"shieldArmor": 432
+		},
+		{
+			"id": 2017,
+			"pow": 132,
+			"maxHp": 424,
+			"shieldArmor": 416
+		},
+		{
+			"id": 2018,
+			"pow": 133,
+			"maxHp": 420,
+			"shieldArmor": 430
+		},
+		{
+			"id": 2019,
+			"pow": 98,
+			"maxHp": 414,
+			"shieldArmor": 415
+		},
+		{
+			"id": 2020,
+			"pow": 220,
+			"maxHp": 535,
+			"shieldArmor": 530
+		},
+		{
+			"id": 2021,
+			"pow": 198,
+			"maxHp": 491,
+			"shieldArmor": 487
+		},
+		{
+			"id": 2022,
+			"pow": 181,
+			"maxHp": 467,
+			"shieldArmor": 465
+		},
+		{
+			"id": 2023,
+			"pow": 163,
+			"maxHp": 448,
+			"shieldArmor": 445
+		},
+		{
+			"id": 2024,
+			"pow": 147,
+			"maxHp": 412,
+			"shieldArmor": 409
+		},
+		{
+			"id": 2025,
+			"pow": 133,
+			"maxHp": 400,
+			"shieldArmor": 405
+		},
+		{
+			"id": 2026,
+			"pow": 169,
+			"maxHp": 503,
+			"shieldArmor": 509
+		},
+		{
+			"id": 2027,
+			"pow": 203,
+			"maxHp": 536,
+			"shieldArmor": 537
+		},
+		{
+			"id": 2028,
+			"pow": 232,
+			"maxHp": 641,
+			"shieldArmor": 642
+		},
+		{
+			"id": 2029,
+			"pow": 259,
+			"maxHp": 717,
+			"shieldArmor": 717
+		},
+		{
+			"id": 2030,
+			"pow": 281,
+			"maxHp": 773,
+			"shieldArmor": 769
+		},
+		{
+			"id": 2031,
+			"pow": 257,
+			"maxHp": 823,
+			"shieldArmor": 826
+		},
+		{
+			"id": 2032,
+			"pow": 233,
+			"maxHp": 833,
+			"shieldArmor": 835
+		},
+		{
+			"id": 2033,
+			"pow": 211,
+			"maxHp": 867,
+			"shieldArmor": 862
+		},
+		{
+			"id": 2034,
+			"pow": 192,
+			"maxHp": 878,
+			"shieldArmor": 878
+		},
+		{
+			"id": 2035,
+			"pow": 174,
+			"maxHp": 776,
+			"shieldArmor": 778
+		},
+		{
+			"id": 2036,
+			"pow": 193,
+			"maxHp": 874,
+			"shieldArmor": 873
+		},
+		{
+			"id": 2037,
+			"pow": 209,
+			"maxHp": 835,
+			"shieldArmor": 836
+		},
+		{
+			"id": 2038,
+			"pow": 223,
+			"maxHp": 781,
+			"shieldArmor": 783
+		},
+		{
+			"id": 2039,
+			"pow": 236,
+			"maxHp": 825,
+			"shieldArmor": 826
+		},
+		{
+			"id": 2040,
+			"pow": 247,
+			"maxHp": 877,
+			"shieldArmor": 876
+		},
+		{
+			"id": 2041,
+			"pow": 241,
+			"maxHp": 898,
+			"shieldArmor": 898
+		},
+		{
+			"id": 2042,
+			"pow": 233,
+			"maxHp": 879,
+			"shieldArmor": 880
+		},
+		{
+			"id": 2043,
+			"pow": 227,
+			"maxHp": 861,
+			"shieldArmor": 860
+		},
+		{
+			"id": 2044,
+			"pow": 220,
+			"maxHp": 845,
+			"shieldArmor": 846
+		},
+		{
+			"id": 2045,
+			"pow": 214,
+			"maxHp": 784,
+			"shieldArmor": 784
+		},
+		{
+			"id": 2046,
+			"pow": 187,
+			"maxHp": 850,
+			"shieldArmor": 850
+		},
+		{
+			"id": 2047,
+			"pow": 163,
+			"maxHp": 740,
+			"shieldArmor": 740
+		},
+		{
+			"id": 2048,
+			"pow": 141,
+			"maxHp": 734,
+			"shieldArmor": 733
+		},
+		{
+			"id": 2049,
+			"pow": 121,
+			"maxHp": 699,
+			"shieldArmor": 699
+		},
+		{
+			"id": 2050,
+			"pow": 102,
+			"maxHp": 603,
+			"shieldArmor": 603
+		},
+		{
+			"id": 2051,
+			"pow": 101,
+			"maxHp": 564,
+			"shieldArmor": 564
+		},
+		{
+			"id": 2052,
+			"pow": 99,
+			"maxHp": 535,
+			"shieldArmor": 536
+		},
+		{
+			"id": 2053,
+			"pow": 98,
+			"maxHp": 509,
+			"shieldArmor": 509
+		},
+		{
+			"id": 2054,
+			"pow": 97,
+			"maxHp": 461,
+			"shieldArmor": 461
+		},
+		{
+			"id": 2055,
+			"pow": 96,
+			"maxHp": 437,
+			"shieldArmor": 437
+		},
+		{
+			"id": 2056,
+			"pow": 96,
+			"maxHp": 476,
+			"shieldArmor": 476
+		},
+		{
+			"id": 2057,
+			"pow": 95,
+			"maxHp": 477,
+			"shieldArmor": 477
+		},
+		{
+			"id": 2058,
+			"pow": 95,
+			"maxHp": 477,
+			"shieldArmor": 477
+		},
+		{
+			"id": 2059,
+			"pow": 95,
+			"maxHp": 477,
+			"shieldArmor": 478
+		},
+		{
+			"id": 2060,
+			"pow": 96,
+			"maxHp": 477,
+			"shieldArmor": 477
+		},
+		{
+			"id": 2061,
+			"pow": 90,
+			"maxHp": 492,
+			"shieldArmor": 492
+		},
+		{
+			"id": 2062,
+			"pow": 85,
+			"maxHp": 492,
+			"shieldArmor": 492
+		},
+		{
+			"id": 2063,
+			"pow": 79,
+			"maxHp": 496,
+			"shieldArmor": 496
+		},
+		{
+			"id": 2064,
+			"pow": 75,
+			"maxHp": 495,
+			"shieldArmor": 495
+		},
+		{
+			"id": 2065,
+			"pow": 70,
+			"maxHp": 501,
+			"shieldArmor": 500
+		}
+	]
+}
