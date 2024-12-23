@@ -1622,13 +1622,13 @@
 		},
 		{
 			"id": 26002,
-			"conditionType": 1,
 			"condition": [
-				24000
+				26002
 			],
 			"lockType": 1,
 			"prompt": "Clear Story Campaign Stage 2-1",
 			"unlockName": "Sign-In",
+			"conditionType": 0,
 			"interfaceId": 0,
 			"icon": "",
 			"homeButtonRedhint": 0,
@@ -2107,6 +2107,21 @@
 			"homeButtonRedhint": 0,
 			"openDetail": "0",
 			"sequence": 0
+		},
+		{
+			"id": 32001,
+			"condition": [
+				32001
+			],
+			"prompt": "",
+			"icon": "Icon_NewFunctionUnlock_PVP",
+			"unlockName": "Elite Arena",
+			"sequence": 60,
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
 		},
 		{
 			"id": 33001,

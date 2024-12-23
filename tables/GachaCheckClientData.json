@@ -11,14 +11,14 @@
 			"id": 1001002,
 			"poolId": 1001,
 			"gachaType": 2,
-			"poolWeight": 37,
+			"poolWeight": 30,
 			"specialShow": 1
 		},
 		{
 			"id": 1001003,
 			"poolId": 1001,
 			"gachaType": 3,
-			"poolWeight": 22,
+			"poolWeight": 30,
 			"specialShow": 1
 		},
 		{

@@ -1306,9 +1306,24 @@
 			"weaponId": 0
 		},
 		{
+			"id": 4133035,
+			"weaponSkinType": 1,
+			"name": "Skin - Entrechat",
+			"order": 703,
+			"openType": 3,
+			"skinItem": 4133035,
+			"rank": 5,
+			"type": 3,
+			"resPath": "Player/RF_SSR_Set004/RF_SSR_Set004_WL",
+			"bullettype": 6,
+			"modelstype": 2,
+			"unlock": 0,
+			"weaponId": 0
+		},
+		{
 			"id": 4133054,
 			"weaponSkinType": 1,
-			"name": "Skin - Shadowless Solitary Bullet",
+			"name": "Skin - Invisible Shot",
 			"order": 410,
 			"openType": 3,
 			"skinItem": 4133054,

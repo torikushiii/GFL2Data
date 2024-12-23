@@ -1478,6 +1478,13 @@
 			"jumpCode": "5103"
 		},
 		{
+			"id": 190011,
+			"type": 19,
+			"title": "Time-Limited Package",
+			"canJump": true,
+			"jumpCode": "5107"
+		},
+		{
 			"id": 200001,
 			"type": 20,
 			"title": "Refitting Room",

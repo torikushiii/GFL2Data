@@ -111,6 +111,22 @@
 			"openCount": 99,
 			"type": 2,
 			"skillType": []
+		},
+		{
+			"itemId": 131601,
+			"skillType": [
+				102,
+				103,
+				104,
+				105,
+				106,
+				107
+			],
+			"weaponType": {
+				"0": 7003
+			},
+			"openCount": 99,
+			"type": 3
 		}
 	]
 }

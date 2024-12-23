@@ -34222,7 +34222,7 @@
 		},
 		{
 			"id": 202005038,
-			"senContent": "Miss Springfield, there are no more customers for now. Is everything alright?"
+			"senContent": "Manager, there are no more customers for now. Is everything alright?"
 		},
 		{
 			"id": 202005039,
@@ -34434,7 +34434,7 @@
 		},
 		{
 			"id": 202005091,
-			"senContent": "Oho— well, while you're not a clueless sheltered princess like me, I'm sure even the wise and experienced Miss Makiatto would have needed time to think of a plan to deal with this, right? So you weren't devoting all your processing power to badmouth Sharkry then~"
+			"senContent": "Oho—well, while you're not a clueless sheltered princess like me, I'm sure even the wise and experienced Miss Makiatto would have needed time to think of a plan to deal with this, right? So you weren't devoting all your processing power to badmouth Sharkry then~"
 		},
 		{
 			"id": 202005092,
@@ -34482,7 +34482,7 @@
 		},
 		{
 			"id": 202006002,
-			"senContent": "Citizens who wish to venture outdoors must supply an itinerary of their intended journey and cancel all non-essential outdoor activities. If an emergency arises, please report to your district office. Citizens will be notified of the curfew's expiry at a later date. Message repeats: An emergency curfew..."
+			"senContent": "Citizens who wish to venture outdoors must supply an itinerary of their intended journey and cancel all non-essential outdoor activities. If an emergency arises, please report to your district office within 30 minutes. Citizens will be notified of the curfew's expiry at a later date. Message repeats: An emergency curfew..."
 		},
 		{
 			"id": 202006003,
@@ -34626,7 +34626,7 @@
 		},
 		{
 			"id": 202006038,
-			"senContent": "That's right~ And wouldn't you know, the NMFA just doesn't have anyone on hand that we can send to Cherkasy to handle the matter..."
+			"senContent": "That's right~ And wouldn't you know, the NOMFA just doesn't have anyone on hand that we can send to Cherkasy to handle the matter..."
 		},
 		{
 			"id": 202006039,
@@ -34778,7 +34778,7 @@
 		},
 		{
 			"id": 202006076,
-			"senContent": "Of course there is. Don't you believe in your boss? |I'm sure everyone would be sad if their idol burst into tears."
+			"senContent": "Of course there is. Don't you believe in your Manager? |I'm sure everyone would be sad if their idol burst into tears."
 		},
 		{
 			"id": 202006077,
@@ -34850,7 +34850,7 @@
 		},
 		{
 			"id": 202006094,
-			"senContent": "Alright... Wait! While I'm very glad you feel that way, you do realize I'm the proprietor, right?"
+			"senContent": "Alright... Wait! While I'm very glad you feel that way, you do realize I'm the Manager, right?"
 		},
 		{
 			"id": 202006095,
@@ -34894,11 +34894,11 @@
 		},
 		{
 			"id": 202006105,
-			"senContent": "Miss Springfield, do you mean to say you intend to find the place where he's caching his goods?"
+			"senContent": "Manager, do you mean to say you intend to find the place where he's caching his goods?"
 		},
 		{
 			"id": 202006106,
-			"senContent": "Indeed. I'm sure there must be a place where large amounts of merchandise are stored somewhere in CHE-02."
+			"senContent": "Indeed. I'm sure there must be a place where large amounts of merchandise are stored in CHE-02."
 		},
 		{
 			"id": 202006107,
@@ -34934,7 +34934,7 @@
 		},
 		{
 			"id": 202006115,
-			"senContent": "Yeah, they've probably investigated it too... However, for a wanted criminal, a place that was just vetted would make the perfect blind spot in which to hide."
+			"senContent": "Yeah, they've probably investigated it too... However, for a wanted criminal, a place that was just vetted would make the perfect blind spot to hide."
 		},
 		{
 			"id": 202006116,
@@ -34950,7 +34950,7 @@
 		},
 		{
 			"id": 202006119,
-			"senContent": "Teehee, you sound so different whenever you're talking to the boss~"
+			"senContent": "Teehee, you sound so different whenever you're talking to the Manager~"
 		},
 		{
 			"id": 202006120,
@@ -35202,7 +35202,7 @@
 		},
 		{
 			"id": 202010003,
-			"senContent": "(After plugging the chip into she slot, the hacking program begins running.)"
+			"senContent": "(After plugging the chip into the slot, the hacking program begins running.)"
 		},
 		{
 			"id": 202010004,
@@ -35234,7 +35234,7 @@
 		},
 		{
 			"id": 202010011,
-			"senContent": "...All I can do is manually connect to the server and try to do something on Level II |Hmph, I'm sure this crappy system will have equally crappy defenses."
+			"senContent": "...All I can do is manually connect to the server and try to do something on Level II. |Hmph, I'm sure this crappy system will have equally crappy defenses."
 		},
 		{
 			"id": 202011001,
@@ -35286,7 +35286,7 @@
 		},
 		{
 			"id": 202011013,
-			"senContent": "O ye of little faith, Makiatto| Plus, Beepy can help out in case we run into trouble. Might even end up being more reliable than you~"
+			"senContent": "O ye of little faith, Makiatto. | Plus, Beepy can help out in case we run into trouble. Might even end up being more reliable than you~"
 		},
 		{
 			"id": 202011014,
@@ -35446,7 +35446,7 @@
 		},
 		{
 			"id": 202013024,
-			"senContent": "Teehee, well, I'm sure you'd come up with a whole range of reasons not to wear it if they weren't ♥ Sharkry needs to make sure everything is ready for Makiatto's— ah, no, I mean, for everyone's sake ♥"
+			"senContent": "Teehee, well, I'm sure you'd come up with a whole range of reasons not to wear it if they weren't ♥ Sharkry needs to make sure everything is ready for Makiatto's—ah, no, I mean, for everyone's sake ♥"
 		},
 		{
 			"id": 202013025,
@@ -35542,7 +35542,7 @@
 		},
 		{
 			"id": 202014005,
-			"senContent": "Hihi~ The Manager and I are at the target warehouse.| Ewwwww— It's all dark and filthy inside..."
+			"senContent": "Hihi~ The Manager and I are at the target warehouse. |Ewwwww—It's all dark and filthy inside..."
 		},
 		{
 			"id": 202014006,
@@ -35642,7 +35642,7 @@
 		},
 		{
 			"id": 202015003,
-			"senContent": "According to the plan, friendly units have returned and arrived at Point Alpha. |Target transport vehicle arriving in 2 minutes."
+			"senContent": "According to the plan, allied unit has returned and arrived at Point Alpha. |Target transport vehicle arriving in 2 minutes."
 		},
 		{
 			"id": 202015004,
@@ -35670,15 +35670,15 @@
 		},
 		{
 			"id": 202015010,
-			"senContent": "(Multiple arms extend from the garbage truck, grab the dumpster, and drag it into the truck's loading compartment.)"
+			"senContent": "(Multiple arms extend from the garbage truck, grab the dumpsters, and drag them into the truck's loading compartment.)"
 		},
 		{
 			"id": 202015011,
-			"senContent": "(Centaureissi opens one of them and takes a box out. She looks at the dull-colored but cheekily-styled clothes inside and freezes.)"
+			"senContent": "(Centaureissi opens one of the dumpsters and takes a box out. She looks at the dull-colored but cheekily-styled clothes inside and freezes.)"
 		},
 		{
 			"id": 202015012,
-			"senContent": "Centaureissi~ Remember- to- wear- it ♥"
+			"senContent": "Centaureissi~ Remember—to—wear—it ♥"
 		},
 		{
 			"id": 202015013,
@@ -35690,7 +35690,7 @@
 		},
 		{
 			"id": 202016002,
-			"senContent": "(The rear hatch opens and mechanical arms eject the dumpster, after which the faithful garbage truck drives away on its preplanned route—)"
+			"senContent": "(The rear hatch opens and mechanical arms eject the dumpsters, after which the faithful garbage truck drives away on its preplanned route—)"
 		},
 		{
 			"id": 202016003,
@@ -35706,7 +35706,7 @@
 		},
 		{
 			"id": 202016006,
-			"senContent": "Speaking of which why do the garbage trucks still pass by the port even after it's been abandoned for this long? Do garbage trucks like going for long drives by the sea?"
+			"senContent": "Speaking of which, why does the garbage truck still pass by the port even after it's been abandoned for this long? Does the garbage truck like going for long drives by the sea?"
 		},
 		{
 			"id": 202016007,
@@ -35814,7 +35814,7 @@
 		},
 		{
 			"id": 202016033,
-			"senContent": "(A thuggish-looking young man keeps his gun barrel trained on Centaureissi while raising his other hand, which holds a torchlight.)"
+			"senContent": "(The thuggish-looking young man keeps his gun barrel trained on Centaureissi while raising his other hand, which holds a torchlight.)"
 		},
 		{
 			"id": 202016034,
@@ -35926,7 +35926,7 @@
 		},
 		{
 			"id": 202016061,
-			"senContent": "Where's Makiatto now? If anything happens, Sharkry can save Centaureissi too ♥"
+			"senContent": "Where's Makiatto now? If anything happens, Sharkry can save Makiatto too ♥"
 		},
 		{
 			"id": 202016062,
@@ -36162,7 +36162,7 @@
 		},
 		{
 			"id": 202018022,
-			"senContent": "B-Boss, it's true... it must have, it must have been the delivery guy, he screwed up..."
+			"senContent": "B-Boss, it's true... it must have, it must have been the delivery Doll, it screwed up..."
 		},
 		{
 			"id": 202018023,
@@ -36182,7 +36182,7 @@
 		},
 		{
 			"id": 202018027,
-			"senContent": "(Farkas puts down his lights and promptly snatches up the rifle on a nearby packing crate.)"
+			"senContent": "(Farkas puts down his lighter and promptly snatches up the rifle on a nearby packing crate.)"
 		},
 		{
 			"id": 202018028,
@@ -36270,7 +36270,7 @@
 		},
 		{
 			"id": 202018049,
-			"senContent": "(The short man shoves Farkas away as the former is pouring wine all over him. Farkas isn't holding the bottle tightly and its contents splash all over Centaureissi, who's standing off to the side.)"
+			"senContent": "(The short man shoves Farkas away as the latter is pouring wine all over him. Farkas isn't holding the bottle tightly and its contents splash all over Centaureissi, who's standing off to the side.)"
 		},
 		{
 			"id": 202018050,
@@ -36734,7 +36734,7 @@
 		},
 		{
 			"id": 202019081,
-			"senContent": "Group one's mission is fairly simple. They just need to find the central control room. I checked the vessel just now, and everything below decks is just a cargo hold, so the control room ought to be above decks."
+			"senContent": "Group one's mission is fairly simple. They just need to find the central control room. |I checked the vessel just now, and everything below decks is just a cargo hold, so the control room ought to be above decks."
 		},
 		{
 			"id": 202019082,
@@ -36750,7 +36750,7 @@
 		},
 		{
 			"id": 202019085,
-			"senContent": "Maybe we could try calling them directly— Hmm, no, that won't work either~"
+			"senContent": "Maybe we could try calling them directly—Hmm, no, that won't work either~"
 		},
 		{
 			"id": 202019086,
@@ -36790,7 +36790,7 @@
 		},
 		{
 			"id": 202019095,
-			"senContent": "I'll be the distraction by myself. You two should be team two. It'll be safer that day. Plus, Sharkry's crazy ideas will probably come in handy."
+			"senContent": "I'll be the distraction by myself. You two should be team two. It'll be safer that way. Plus, Sharkry's crazy ideas will probably come in handy."
 		},
 		{
 			"id": 202019096,
@@ -36994,7 +36994,7 @@
 		},
 		{
 			"id": 202020002,
-			"senContent": "It's the ship! The ship's moving"
+			"senContent": "It's the ship! The ship's moving!"
 		},
 		{
 			"id": 202020003,
@@ -37002,7 +37002,7 @@
 		},
 		{
 			"id": 202020004,
-			"senContent": "This ship shudders and a smoking, spark-spewing robot slides across the deck on a collision course with Sharkry. Meanwhile, Sharkry is entangled in the remains of a destroyed robot and can't extricate herself in time—)"
+			"senContent": "(This ship shudders and a smoking, spark-spewing robot slides across the deck on a collision course with Sharkry. Meanwhile, Sharkry is entangled in the remains of a destroyed robot and can't extricate herself in time—)"
 		},
 		{
 			"id": 202020005,
@@ -37014,7 +37014,7 @@
 		},
 		{
 			"id": 202020007,
-			"senContent": "(Makiatto grabs one of Beepy's legs and throws it as Sharkry. With a \"doink\", Sharkry and Beepy recoil away from each other and sprawl on the ground."
+			"senContent": "(Makiatto grabs one of Beepy's legs and throws it to Sharkry. With a \"doink\", Sharkry and Beepy recoil away from each other and sprawl on the ground.)"
 		},
 		{
 			"id": 202020008,
@@ -37118,7 +37118,7 @@
 		},
 		{
 			"id": 202020033,
-			"senContent": "Oh— I see, Makiatto. You're so cute~|Now then... Sharkry will entrust Makiatto with Sharkry's work ♥"
+			"senContent": "Oh—I see, Makiatto. You're so cute~ |Now then... Sharkry will entrust Makiatto with Sharkry's work ♥"
 		},
 		{
 			"id": 202020034,
@@ -37182,7 +37182,7 @@
 		},
 		{
 			"id": 202020049,
-			"senContent": "That's right, over her, over here~ If you want a great show, then try and keep up with me ♥"
+			"senContent": "That's right, over here, over here~ If you want a great show, then try and keep up with me ♥"
 		},
 		{
 			"id": 202020050,
@@ -37278,7 +37278,7 @@
 		},
 		{
 			"id": 202020073,
-			"senContent": "(Not far away, Springfield's voice comes through Makiatto's communicator—）"
+			"senContent": "(Not far away, Springfield's voice comes through Sharkry's communicator—）"
 		},
 		{
 			"id": 202020074,
@@ -37310,7 +37310,7 @@
 		},
 		{
 			"id": 202020081,
-			"senContent": "Everyone~ Sharkry's over here! Did you miss me—"
+			"senContent": "Everyone~ Sharkry's over here! Don't fall behind, okay~?"
 		},
 		{
 			"id": 202020082,
@@ -37466,7 +37466,7 @@
 		},
 		{
 			"id": 202020120,
-			"senContent": "Haha, then it wasn't!~|Uwah— Say, Manager, is it me or are there more and more people here? Honestly, quit dragging your feet, Makiatto!"
+			"senContent": "Haha, then it wasn't!~ |Uwah—Say, Manager, is it me or are there more and more people here? Honestly, quit dragging your feet, Makiatto!"
 		},
 		{
 			"id": 202020121,
@@ -37518,7 +37518,7 @@
 		},
 		{
 			"id": 202021010,
-			"senContent": "The smoke sticks are gone... Sharkry, let's hit them from front and—"
+			"senContent": "The smoke sticks are gone... Sharkry, let's hit them from the front and—"
 		},
 		{
 			"id": 202021011,
@@ -37650,7 +37650,7 @@
 		},
 		{
 			"id": 202022003,
-			"senContent": "(Sharkry smooths out her slightly-mussed hair, then looks back to see Makiatto hanging onto the railings on the outside of the ship before launching herself up onto the deck with a flip. She's holding a filthy bear costume headpiece in one hand."
+			"senContent": "(Sharkry smooths out her slightly-mussed hair, then looks back to see Makiatto hanging onto the railings on the outside of the ship before launching herself up onto the deck with a flip. She's holding a filthy bear costume headpiece in one hand.)"
 		},
 		{
 			"id": 202022004,
@@ -37798,7 +37798,7 @@
 		},
 		{
 			"id": 202022040,
-			"senContent": "Are those your last words? Now then... As long as I have this Flareberus, there's no way I can lose! You'll never take me in! NEVER! AHAHAHAHA!"
+			"senContent": "Are those your last words? Now then... As long as I have this Flareberus, there's no way I can lose! |You'll never take me in! NEVER! AHAHAHAHA!"
 		},
 		{
 			"id": 202022041,
@@ -38162,7 +38162,7 @@
 		},
 		{
 			"id": 202024031,
-			"senContent": "Oho~ In other words, Makiatto's more or less acknowledges Sharkry then?|Hmhm~ In that case, Sharkry will have to trust Makiatto a little then ♥"
+			"senContent": "Oho~ In other words, Makiatto's more or less acknowledged Sharkry then? |Hmhm~ In that case, Sharkry will have to trust Makiatto a little then ♥"
 		},
 		{
 			"id": 202024032,
@@ -38258,7 +38258,7 @@
 		},
 		{
 			"id": 202024055,
-			"senContent": "(When they meet the Commander again, this place... will become a source of strength for them.)"
+			"senContent": "(When they meet Master again, this place... will become a source of strength for them.)"
 		},
 		{
 			"id": 202024056,
@@ -38362,7 +38362,7 @@
 		},
 		{
 			"id": 202024081,
-			"senContent": "Don't forget to prepare to open the store, yes?"
+			"senContent": "Don't forget to prepare to open the cafe, yes?"
 		},
 		{
 			"id": 202024082,
@@ -38410,11 +38410,11 @@
 		},
 		{
 			"id": 202024093,
-			"senContent": "(A shouted snatch of argument interrupts their call. Springfield exits the cafe, terminal in hand, and turns the sign on the door reading \"CLOSED\" to \"OPEN\"."
+			"senContent": "(A shouted snatch of argument interrupts their call. Springfield exits the cafe, terminal in hand, and turns the sign on the door reading \"CLOSED\" to \"OPEN\".)"
 		},
 		{
 			"id": 202024094,
-			"senContent": "(In a few more days, the cafe event will begin.)"
+			"senContent": "(In a few more days, the cafe live will begin.)"
 		},
 		{
 			"id": 202024095,
@@ -101898,7 +101898,7 @@
 		},
 		{
 			"id": 303101009,
-			"senContent": "(The Dolls soon disperse as the office quickly empties. Mosin-Nagant nods, staisfied.)"
+			"senContent": "(The Dolls soon disperse as the office quickly empties. Mosin-Nagant nods, satisfied.)"
 		},
 		{
 			"id": 303101010,
@@ -102438,7 +102438,7 @@
 		},
 		{
 			"id": 303104015,
-			"senContent": "A-ahaha, it was that obviuos, huh..."
+			"senContent": "A-ahaha, it was that obvious, huh..."
 		},
 		{
 			"id": 303104016,
@@ -102734,7 +102734,7 @@
 		},
 		{
 			"id": 303105036,
-			"senContent": "Me? I don't really have anything ot say."
+			"senContent": "Me? I don't really have anything to say."
 		},
 		{
 			"id": 303105037,
@@ -102846,7 +102846,7 @@
 		},
 		{
 			"id": 303105064,
-			"senContent": "Alright, I'll just up."
+			"senContent": "Alright, I'll just shut up."
 		},
 		{
 			"id": 303105065,
@@ -102858,7 +102858,7 @@
 		},
 		{
 			"id": 303105067,
-			"senContent": "Most people who live in a satellite city would know what would happen if you send in a fradulent complaint..."
+			"senContent": "Most people who live in a satellite city would know what would happen if you send in a fraudulent complaint..."
 		},
 		{
 			"id": 303105068,
@@ -102962,7 +102962,7 @@
 		},
 		{
 			"id": 303106009,
-			"senContent": "To make it convincing, wel'l need everyone's cooperation!"
+			"senContent": "To make it convincing, we'll need everyone's cooperation!"
 		},
 		{
 			"id": 303106010,
@@ -119882,7 +119882,7 @@
 		},
 		{
 			"id": 503001001,
-			"senContent": "<size=32>Bow-wow！</size>"
+			"senContent": "<size=32>Bow-wow!</size>"
 		},
 		{
 			"id": 503001002,
@@ -119966,7 +119966,7 @@
 		},
 		{
 			"id": 503001022,
-			"senContent": "So the Super Dinergate should wait at the door before people return, then circle around everyone while wagging its leg once they are back?"
+			"senContent": "So the Super Dinergate should wait at the door before people return, then circle around everyone while wagging its tail once they are back?"
 		},
 		{
 			"id": 503001023,
@@ -120018,7 +120018,7 @@
 		},
 		{
 			"id": 503001035,
-			"senContent": "I... It's alright, I'll remember something!"
+			"senContent": "I... It's alright, I'll think of something!"
 		},
 		{
 			"id": 503001036,

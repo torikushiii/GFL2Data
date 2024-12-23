@@ -1,6 +1,10 @@
 {
 	"data": [
 		{
+			"typeId": 51010,
+			"gridCanExit": 601
+		},
+		{
 			"typeId": 51011,
 			"gridCanExit": 601
 		},

@@ -15,6 +15,15 @@
 			"destroy": 0
 		},
 		{
+			"id": 62001,
+			"settleMethod": 2,
+			"itemToProperty": {
+				"1102": 100
+			},
+			"destroy": 1,
+			"isAutoPickItem": false
+		},
+		{
 			"id": 62002,
 			"settleMethod": 2,
 			"itemToProperty": {

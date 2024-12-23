@@ -115,6 +115,18 @@
 			"difficulty": 2
 		},
 		{
+			"id": 120,
+			"stage": 25210,
+			"bossElement": 2,
+			"difficulty": 2
+		},
+		{
+			"id": 121,
+			"stage": 25301,
+			"bossElement": 3,
+			"difficulty": 3
+		},
+		{
 			"id": 122,
 			"stage": 25302,
 			"bossElement": 1,

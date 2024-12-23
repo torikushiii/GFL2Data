@@ -5162,6 +5162,26 @@
 			"o_CDEOFLNEJEP": ""
 		},
 		{
+			"interId": 103810601,
+			"id": 1038106,
+			"type": 106,
+			"isActive": true,
+			"postposition": [
+				103830101
+			],
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-40,40",
+			"cameraDistance": "0.4,1",
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
 			"interId": 103810701,
 			"id": 1038107,
 			"type": 107,

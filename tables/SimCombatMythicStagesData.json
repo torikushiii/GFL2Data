@@ -56,7 +56,7 @@
 		},
 		{
 			"stageId": 20221,
-			"requireDesc": "Capture and defend the position.",
+			"requireDesc": "Capture and defend the Control Point.",
 			"reward": {
 				"1": 80,
 				"2": 5000,
@@ -308,7 +308,7 @@
 		},
 		{
 			"stageId": 20751,
-			"requireDesc": "Capture and defend the position.",
+			"requireDesc": "Capture and defend the Control Point.",
 			"reward": {
 				"1": 150,
 				"2": 12000,
@@ -335,7 +335,7 @@
 		},
 		{
 			"stageId": 20831,
-			"requireDesc": "Defend the position.",
+			"requireDesc": "Defend the Control Point.",
 			"reward": {
 				"1": 150,
 				"2": 12000,

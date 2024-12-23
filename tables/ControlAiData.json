@@ -29,6 +29,13 @@
 			"skillPoint": 0
 		},
 		{
+			"id": 1010401,
+			"round": 1,
+			"moveGrid": 1376287,
+			"useSkill": 6210101,
+			"skillPoint": 1376288
+		},
+		{
 			"id": 1010402,
 			"round": 1,
 			"moveGrid": 1310749,

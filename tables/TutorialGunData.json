@@ -4,15 +4,15 @@
 			"id": 39001,
 			"sourceGunid": 1032,
 			"gunTags": "1,8",
-			"briefIntro": "Fashioned with excellent mobility, it can also deal massive amounts of damage after accumulating buffs.",
+			"briefIntro": "Fashioned with excellent mobility, she can also deal massive amounts of damage after accumulating buffs.",
 			"iconSkill1": 10320501,
 			"textSkill1": "Deals damage to enemies and cleanses a buff.",
 			"iconSkill2": 10320701,
 			"textSkill2": "Gain 3 stacks of Tuning, granting 6 tiles of Extra Movement after attacking. Also gain 1 Extra Command. Deal stability damage equal to the number of Tuning stacks before attacking.",
 			"iconSkill3": 10320401,
-			"textSkill3": "Deal massive damage to enemies. Each stack of Tuning reduces cooldown by 1 turn. Consume all Tuning, then gain 1 stack of Fixed Tuning.",
+			"textSkill3": "Deals massive damage to enemies. Each stack of Tuning reduces cooldown by 1 turn. Consumes all Tuning, then gains 1 stack of Permanent Tuning.",
 			"iconSkill4": 10320801,
-			"textSkill4": "At the beginning of the turn, gain 1 point of Confectance Index and 1 stack of Tuning. When Daiyan has more than 2 stacks of Tuning and an enemy performs a targeted attack within her range, return fire before their targeted attack resolves and gain 1 stack of Permanent Tuning. Can trigger once per turn."
+			"textSkill4": "At the beginning of the turn, gains 1 point of Confectance Index and 1 stack of Tuning. When Daiyan has more than 2 stacks of Tuning and an enemy performs a targeted attack within her range, Intercepts the enemy before it attacks and gains 1 stack of Permanent Tuning. Can trigger once per turn."
 		},
 		{
 			"id": 39002,

@@ -2476,6 +2476,23 @@
 			"openType": 0
 		},
 		{
+			"pointId": "1012003001",
+			"squadTalentTreeGroup": 1012003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1012004001,
+			"unlockCondition": 1,
+			"pointType": 402603,
+			"talentEffectGeneGroup": 1,
+			"traverseTalentEffectGeneGroup": [
+				"2101203"
+			],
+			"level": 210120301,
+			"maxLevel": 1,
+			"tpItemCost": 1
+		},
+		{
 			"pointId": "1012004001",
 			"squadTalentTreeGroup": 1012004,
 			"perPoint": [

@@ -1962,7 +1962,7 @@
 		},
 		{
 			"id": 40120,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 40121,
@@ -2626,7 +2626,7 @@
 		},
 		{
 			"id": 71110,
-			"chars": "Our control point has been breached"
+			"chars": "Our Control Point has been breached"
 		},
 		{
 			"id": 71201,
@@ -5330,7 +5330,7 @@
 		},
 		{
 			"id": 102224,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 102225,
@@ -5998,7 +5998,7 @@
 		},
 		{
 			"id": 103097,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 103098,
@@ -10206,7 +10206,7 @@
 		},
 		{
 			"id": 140008,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 140009,
@@ -10242,7 +10242,7 @@
 		},
 		{
 			"id": 140017,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 140018,
@@ -10454,7 +10454,7 @@
 		},
 		{
 			"id": 160012,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 160013,
@@ -10846,7 +10846,7 @@
 		},
 		{
 			"id": 180179,
-			"chars": "Away temporarily"
+			"chars": "Exit Temporaily"
 		},
 		{
 			"id": 180180,
@@ -11426,7 +11426,7 @@
 		},
 		{
 			"id": 192097,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 192098,
@@ -11806,7 +11806,7 @@
 		},
 		{
 			"id": 220021,
-			"chars": "Level cap reached"
+			"chars": "Max Level"
 		},
 		{
 			"id": 220022,
@@ -14262,7 +14262,7 @@
 		},
 		{
 			"id": 260274,
-			"chars": "During the event, log in to receive the 'Elite Doll - Papasha' for free."
+			"chars": "During the event, log in to receive the \"Elite Doll - Papasha\" for free."
 		},
 		{
 			"id": 260275,
@@ -19146,7 +19146,7 @@
 		},
 		{
 			"id": 390072,
-			"chars": "Attribute bonuses only take effect in Dust Frontline"
+			"chars": "Stat bonuses only take effect in Gunsmoke Frontline"
 		},
 		{
 			"id": 390073,
@@ -19310,7 +19310,7 @@
 		},
 		{
 			"id": 390113,
-			"chars": "Task Rewards"
+			"chars": "Patrol Rewards"
 		},
 		{
 			"id": 390114,
@@ -19318,11 +19318,11 @@
 		},
 		{
 			"id": 390115,
-			"chars": "The daily tasks have been accomplished"
+			"chars": "Daily Patrol has been accomplished"
 		},
 		{
 			"id": 390116,
-			"chars": "Replenishment Allocation Log"
+			"chars": "Supply Allocation Log"
 		},
 		{
 			"id": 390117,
@@ -19506,7 +19506,7 @@
 		},
 		{
 			"id": 390162,
-			"chars": "Battle Support"
+			"chars": "Support"
 		},
 		{
 			"id": 390163,
@@ -19658,7 +19658,7 @@
 		},
 		{
 			"id": 390200,
-			"chars": "Front {0}"
+			"chars": "Top {0}"
 		},
 		{
 			"id": 390201,
@@ -19882,7 +19882,7 @@
 		},
 		{
 			"id": 390256,
-			"chars": "Platoon Glory"
+			"chars": "MVP"
 		},
 		{
 			"id": 390257,
@@ -19890,7 +19890,7 @@
 		},
 		{
 			"id": 390258,
-			"chars": "Daily Task"
+			"chars": "Daily Patrol"
 		},
 		{
 			"id": 390259,
@@ -19910,7 +19910,7 @@
 		},
 		{
 			"id": 390263,
-			"chars": "Daily Task"
+			"chars": "Daily Patrol"
 		},
 		{
 			"id": 390264,
@@ -19918,7 +19918,7 @@
 		},
 		{
 			"id": 390265,
-			"chars": "Battle Support"
+			"chars": "Support"
 		},
 		{
 			"id": 390266,
@@ -20262,7 +20262,7 @@
 		},
 		{
 			"id": 391052,
-			"chars": "Battle Support"
+			"chars": "Support"
 		},
 		{
 			"id": 391053,
@@ -22214,11 +22214,11 @@
 		},
 		{
 			"id": 430039,
-			"chars": "Terminate"
+			"chars": "Exit"
 		},
 		{
 			"id": 430040,
-			"chars": "Away temporarily"
+			"chars": "Exit Temporaily"
 		},
 		{
 			"id": 430041,
@@ -22770,7 +22770,7 @@
 		},
 		{
 			"id": 490010,
-			"chars": "{0} Purchases Left"
+			"chars": "{0} Purchase(s) Left"
 		},
 		{
 			"id": 490011,

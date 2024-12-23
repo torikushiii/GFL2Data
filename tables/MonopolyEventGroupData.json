@@ -125,6 +125,12 @@
 			"eventGroup": 1209,
 			"eventId": 120901,
 			"groupName": "Control Terminal"
+		},
+		{
+			"id": 121001,
+			"eventGroup": 1210,
+			"eventId": 121001,
+			"groupName": "Control Terminal"
 		}
 	]
 }

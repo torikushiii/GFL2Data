@@ -719,6 +719,123 @@
 			"limitBuy": 1,
 			"storeId": 10,
 			"price": 0
+		},
+		{
+			"id": 83,
+			"productId": "com.haoplay.gf2exilium.global.105",
+			"name": "探索补给·10级",
+			"describe": "探索补给·10级",
+			"limitBuy": 1,
+			"storeId": 15110,
+			"price": 0
+		},
+		{
+			"id": 84,
+			"productId": "com.haoplay.gf2exilium.global.106",
+			"name": "探索补给·20级",
+			"describe": "探索补给·20级",
+			"limitBuy": 1,
+			"storeId": 15120,
+			"price": 0
+		},
+		{
+			"id": 85,
+			"productId": "com.haoplay.gf2exilium.global.107",
+			"name": "探索补给·30级",
+			"describe": "探索补给·30级",
+			"limitBuy": 1,
+			"storeId": 15130,
+			"price": 0
+		},
+		{
+			"id": 86,
+			"productId": "com.haoplay.gf2exilium.global.108",
+			"name": "探索补给·35级",
+			"describe": "探索补给·35级",
+			"limitBuy": 1,
+			"storeId": 15135,
+			"price": 0
+		},
+		{
+			"id": 87,
+			"productId": "com.haoplay.gf2exilium.global.109",
+			"name": "探索补给·40级",
+			"describe": "探索补给·40级",
+			"limitBuy": 1,
+			"storeId": 15140,
+			"price": 0
+		},
+		{
+			"id": 88,
+			"productId": "com.haoplay.gf2exilium.global.110",
+			"name": "探索补给·45级",
+			"describe": "探索补给·45级",
+			"limitBuy": 1,
+			"storeId": 15145,
+			"price": 0
+		},
+		{
+			"id": 89,
+			"productId": "com.haoplay.gf2exilium.global.111",
+			"name": "探索补给·50级",
+			"describe": "探索补给·50级",
+			"limitBuy": 1,
+			"storeId": 15150,
+			"price": 0
+		},
+		{
+			"id": 90,
+			"productId": "com.haoplay.gf2exilium.global.112",
+			"name": "探索补给·55级",
+			"describe": "探索补给·55级",
+			"limitBuy": 1,
+			"storeId": 15155,
+			"price": 0
+		},
+		{
+			"id": 91,
+			"productId": "com.haoplay.gf2exilium.global.113",
+			"name": "探索补给·60级",
+			"describe": "探索补给·60级",
+			"limitBuy": 1,
+			"storeId": 15160,
+			"price": 0
+		},
+		{
+			"id": 92,
+			"productId": "com.haoplay.gf2exilium.global.114",
+			"name": "双旦庆贺访问箱",
+			"describe": "双旦庆贺访问箱",
+			"limitBuy": 2,
+			"storeId": 13042,
+			"price": 0
+		},
+		{
+			"id": 93,
+			"productId": "com.haoplay.gf2exilium.global.115",
+			"name": "双旦欢度访问箱",
+			"describe": "双旦欢度访问箱",
+			"limitBuy": 2,
+			"storeId": 13043,
+			"price": 0
+		},
+		{
+			"id": 94,
+			"productId": "com.haoplay.gf2exilium.global.116",
+			"name": "雪夜缀彩涂装礼箱",
+			"describe": "雪夜缀彩涂装礼箱",
+			"limitBuy": 1,
+			"storeId": 13056,
+			"price": 0
+		},
+		{
+			"id": 95,
+			"productId": "com.haoplay.gf2exilium.global.117",
+			"name": "涂装·交叠舞步",
+			"describe": "涂装·交叠舞步",
+			"limitBuy": 1,
+			"storeId": 9004,
+			"price": 0
 		}
 	]
 }

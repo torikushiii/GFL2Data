@@ -1126,6 +1126,23 @@
 			"conditionArg2": 0
 		},
 		{
+			"id": 32201,
+			"taskGroup": 322,
+			"name": "Daily Sign-In",
+			"des": "Daily Sign-In",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170101:4"
+			],
+			"link": "1",
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
 			"id": 32202,
 			"taskGroup": 322,
 			"name": "Consume 60 Intelligence Puzzles",
@@ -1413,25 +1430,6 @@
 			"link": "1000",
 			"conditionArg1": 0,
 			"conditionArg2": 0
-		},
-		{
-			"id": 35101,
-			"taskGroup": 351,
-			"name": "Daily Indicator 1",
-			"des": "Attempt Cloud Exercise once",
-			"sequence": 1,
-			"actionParam": 1,
-			"conditionClass": 901,
-			"conditionNum": 1,
-			"conditionArg0": 103,
-			"conditionArg1": 3002,
-			"rewardList": [
-				"170104:1",
-				"170105:1",
-				"2:500"
-			],
-			"conditionArg2": 0,
-			"link": ""
 		},
 		{
 			"id": 35102,

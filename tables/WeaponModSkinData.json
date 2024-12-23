@@ -872,6 +872,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7231155,
+			"weaponSkinType": 4,
+			"name": "Skin - Entrechat Sight",
+			"order": 615,
+			"openType": 3,
+			"skinItem": 7231155,
+			"rank": 5,
+			"type": 1021,
+			"resPath": "Sights/Scope_SSR_Set004_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331005,
 			"weaponSkinType": 4,
 			"name": "Skin - Grey Meteor",
@@ -894,6 +907,19 @@
 			"rank": 5,
 			"type": 1012,
 			"resPath": "Sights/Scope_SR_Cla_Qiongjiu_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331034,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Sight",
+			"order": 103,
+			"openType": 3,
+			"skinItem": 7331034,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_S101_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -963,6 +989,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332004,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Muzzle Mk.III",
+			"order": 100,
+			"openType": 3,
+			"skinItem": 7332004,
+			"rank": 4,
+			"type": 2041,
+			"resPath": "Silencers/Muzzle_SR_Cla_S104_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332014,
 			"weaponSkinType": 4,
 			"name": "Skin - Red Steel Muzzle",
@@ -976,6 +1015,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332024,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Muzzle Mk.I",
+			"order": 102,
+			"openType": 3,
+			"skinItem": 7332024,
+			"rank": 4,
+			"type": 2012,
+			"resPath": "Silencers/Muzzle_SR_Cla_S102_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332025,
 			"weaponSkinType": 4,
 			"name": "Skin - Glittering Tide Muzzle",
@@ -985,6 +1037,32 @@
 			"rank": 5,
 			"type": 2011,
 			"resPath": "Silencers/Muzzle_SSR_Set005_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7332145,
+			"weaponSkinType": 4,
+			"name": "Skin - Entrechat Muzzle",
+			"order": 614,
+			"openType": 3,
+			"skinItem": 7332145,
+			"rank": 5,
+			"type": 2022,
+			"resPath": "Silencers/Muzzle_SSR_Set004_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7332704,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Muzzle Mk.II",
+			"order": 101,
+			"openType": 3,
+			"skinItem": 7332704,
+			"rank": 4,
+			"type": 2031,
+			"resPath": "Silencers/Muzzle_SR_Cla_S103_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1054,6 +1132,32 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7333135,
+			"weaponSkinType": 4,
+			"name": "Skin - Entrechat Underbarrel",
+			"order": 613,
+			"openType": 3,
+			"skinItem": 7333135,
+			"rank": 5,
+			"type": 3014,
+			"resPath": "Lights/Hangdown_SSR_Set004_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7333984,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Underbarrel",
+			"order": 98,
+			"openType": 3,
+			"skinItem": 7333984,
+			"rank": 4,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SR_Cla_S106_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7334024,
 			"weaponSkinType": 4,
 			"name": "Skin - Gigaton Blade",
@@ -1102,6 +1206,19 @@
 			"rank": 4,
 			"type": 4011,
 			"resPath": "Blades/Ensharp_SR_Cla_C008_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7334994,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Edge",
+			"order": 99,
+			"openType": 3,
+			"skinItem": 7334994,
+			"rank": 4,
+			"type": 4011,
+			"resPath": "Blades/Ensharp_SR_Cla_S105_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1193,6 +1310,32 @@
 			"rank": 4,
 			"type": 13011,
 			"resPath": "Stool/Stool_SR_Cla_D002_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336974,
+			"weaponSkinType": 4,
+			"name": "Skin - Snowy Night Foregrip",
+			"order": 97,
+			"openType": 3,
+			"skinItem": 7336974,
+			"rank": 4,
+			"type": 12011,
+			"resPath": "Grip/Grip_SR_Cla_S107_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7337125,
+			"weaponSkinType": 4,
+			"name": "Skin - Entrechat Bipod",
+			"order": 612,
+			"openType": 3,
+			"skinItem": 7337125,
+			"rank": 5,
+			"type": 13012,
+			"resPath": "Stool/Stool_SSR_Set004_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},

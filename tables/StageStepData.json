@@ -462,39 +462,39 @@
 		},
 		{
 			"id": 3242,
-			"stepDetail": "Hold the position for 3 turns {0}/3"
+			"stepDetail": "Hold the Control Point for 3 turns {0}/3"
 		},
 		{
 			"id": 3243,
-			"stepDetail": "Hold the position for 4 turns {0}/4"
+			"stepDetail": "Hold the Control Point for 4 turns {0}/4"
 		},
 		{
 			"id": 3244,
-			"stepDetail": "Hold the position for 5 turns {0}/5"
+			"stepDetail": "Hold the Control Point for 5 turns {0}/5"
 		},
 		{
 			"id": 3245,
-			"stepDetail": "Hold the position for 6 turns {0}/6"
+			"stepDetail": "Hold the Control Point for 6 turns {0}/6"
 		},
 		{
 			"id": 3246,
-			"stepDetail": "Hold the position for 7 turns {0}/7"
+			"stepDetail": "Hold the Control Point for 7 turns {0}/7"
 		},
 		{
 			"id": 3247,
-			"stepDetail": "Hold the position for 8 turns {0}/8"
+			"stepDetail": "Hold the Control Point for 8 turns {0}/8"
 		},
 		{
 			"id": 3248,
-			"stepDetail": "Hold the position for 9 turns {0}/9"
+			"stepDetail": "Hold the Control Point for 9 turns {0}/9"
 		},
 		{
 			"id": 3249,
-			"stepDetail": "Hold the position for 10 turns {0}/10"
+			"stepDetail": "Hold the Control Point for 10 turns {0}/10"
 		},
 		{
 			"id": 3250,
-			"stepDetail": "Hold the position for 12 turns {0}/12"
+			"stepDetail": "Hold the Control Point for 12 turns {0}/12"
 		},
 		{
 			"id": 3260,
@@ -646,7 +646,7 @@
 		},
 		{
 			"id": 5105,
-			"stepDetail": "Hold the position"
+			"stepDetail": "Hold the Control Point"
 		},
 		{
 			"id": 5106,
@@ -690,7 +690,7 @@
 		},
 		{
 			"id": 5116,
-			"stepDetail": "While holding the position, retrieve all supplies, take out the enemy's heavy machine gun turret, and eliminate all incoming enemies!"
+			"stepDetail": "While holding the Control Point, retrieve all supplies, take out the enemy's heavy machine gun turret, and eliminate all incoming enemies!"
 		},
 		{
 			"id": 5117,
@@ -758,11 +758,11 @@
 		},
 		{
 			"id": 5209,
-			"stepDetail": "And defend the position"
+			"stepDetail": "And defend the Control Point"
 		},
 		{
 			"id": 5210,
-			"stepDetail": "Take the position before the enemy, {0} turns left"
+			"stepDetail": "Take the Control Point before the enemy, {0} turns left"
 		},
 		{
 			"id": 5211,
@@ -774,11 +774,11 @@
 		},
 		{
 			"id": 5213,
-			"stepDetail": "Capture and hold the position"
+			"stepDetail": "Capture and hold the Control Point"
 		},
 		{
 			"id": 5214,
-			"stepDetail": "Take the position before the enemy, {0} turns left"
+			"stepDetail": "Take the Control Point before the enemy, {0} turns left"
 		},
 		{
 			"id": 8001,
@@ -902,19 +902,19 @@
 		},
 		{
 			"id": 8031,
-			"stepDetail": "Capture the position {0}/1"
+			"stepDetail": "Capture the Control Point {0}/1"
 		},
 		{
 			"id": 8032,
-			"stepDetail": "Capture the positions {0}/2"
+			"stepDetail": "Capture the Control Points {0}/2"
 		},
 		{
 			"id": 8033,
-			"stepDetail": "Capture the positions {0}/3"
+			"stepDetail": "Capture the Control Points {0}/3"
 		},
 		{
 			"id": 8034,
-			"stepDetail": "Capture the positions {0}/4"
+			"stepDetail": "Capture the Control Points {0}/4"
 		},
 		{
 			"id": 8035,
@@ -930,7 +930,7 @@
 		},
 		{
 			"id": 8038,
-			"stepDetail": "Capture at least {0}/2 positions"
+			"stepDetail": "Capture at least {0}/2 Control Points"
 		},
 		{
 			"id": 8039,
@@ -1118,7 +1118,7 @@
 		},
 		{
 			"id": 9025,
-			"stepDetail": "Take the enemy position"
+			"stepDetail": "Take the enemy Control Point"
 		},
 		{
 			"id": 9026,
@@ -1130,15 +1130,15 @@
 		},
 		{
 			"id": 9028,
-			"stepDetail": "Prevent the enemy from capturing the position"
+			"stepDetail": "Prevent the enemy from capturing the Control Point"
 		},
 		{
 			"id": 9029,
-			"stepDetail": "Eliminate the target unit while defending the position"
+			"stepDetail": "Eliminate the target unit while defending the Control Point"
 		},
 		{
 			"id": 9030,
-			"stepDetail": "Eliminate all enemy units while defending the position"
+			"stepDetail": "Eliminate all enemy units while defending the Control Point"
 		},
 		{
 			"id": 9031,
@@ -1150,7 +1150,7 @@
 		},
 		{
 			"id": 9033,
-			"stepDetail": "Defend allied position"
+			"stepDetail": "Defend allied Control Point"
 		},
 		{
 			"id": 9034,
@@ -1158,7 +1158,7 @@
 		},
 		{
 			"id": 9035,
-			"stepDetail": "Take control of all positions"
+			"stepDetail": "Take control of all Control Points"
 		},
 		{
 			"id": 9036,
@@ -1190,7 +1190,7 @@
 		},
 		{
 			"id": 9043,
-			"stepDetail": "Prevent the enemy from capturing all allied positions"
+			"stepDetail": "Prevent the enemy from capturing all allied Control Points"
 		},
 		{
 			"id": 9044,
@@ -1206,7 +1206,7 @@
 		},
 		{
 			"id": 9047,
-			"stepDetail": "Defend the position and prevent enemies from recapturing the hacking zone"
+			"stepDetail": "Defend the Control Point and prevent enemies from recapturing the hacking zone"
 		},
 		{
 			"id": 9048,
@@ -1214,7 +1214,7 @@
 		},
 		{
 			"id": 9049,
-			"stepDetail": "Escort the target into position. The mission fails if the target dies"
+			"stepDetail": "Escort the target into Control Point. The mission fails if the target dies"
 		},
 		{
 			"id": 9050,
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"id": 9051,
-			"stepDetail": "Capture all positions {0}/3"
+			"stepDetail": "Capture all Control Points {0}/3"
 		},
 		{
 			"id": 9052,
@@ -1238,7 +1238,7 @@
 		},
 		{
 			"id": 9055,
-			"stepDetail": "Defend position for {0}/10 turns"
+			"stepDetail": "Defend Control Point for {0}/10 turns"
 		},
 		{
 			"id": 9056,
@@ -1270,7 +1270,7 @@
 		},
 		{
 			"id": 9063,
-			"stepDetail": "Capture the enemy position {0}/1"
+			"stepDetail": "Capture the enemy Control Point {0}/1"
 		},
 		{
 			"id": 9064,
@@ -1406,7 +1406,7 @@
 		},
 		{
 			"id": 9097,
-			"stepDetail": "Hold the position, {0} turns left"
+			"stepDetail": "Hold the Control Point, {0} turns left"
 		},
 		{
 			"id": 9098,
@@ -1486,11 +1486,11 @@
 		},
 		{
 			"id": 9117,
-			"stepDetail": "The center position scores +50 points per turn, while the left and right position grant +30 points per turn."
+			"stepDetail": "The center Control Point scores +50 points per turn, while the left and right Control Point grant +30 points per turn."
 		},
 		{
 			"id": 9118,
-			"stepDetail": "Get +40 points per turn for holding a position"
+			"stepDetail": "Get 40 points per turn for holding a Control Point"
 		},
 		{
 			"id": 9130,
@@ -1506,15 +1506,15 @@
 		},
 		{
 			"id": 9133,
-			"stepDetail": "Defend the position from enemies"
+			"stepDetail": "Defend the Control Point from enemies"
 		},
 		{
 			"id": 9134,
-			"stepDetail": "Eliminate enemies at target location and take over target position"
+			"stepDetail": "Eliminate enemies at target location and take over target Control Point"
 		},
 		{
 			"id": 9135,
-			"stepDetail": "Stop enemy units from entering the position, and eliminate the Atrocity Thorn & Mishap Thorn"
+			"stepDetail": "Stop enemy units from entering the Control Point, and eliminate the Atrocity Thorn & Mishap Thorn"
 		},
 		{
 			"id": 9136,
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"id": 9157,
-			"stepDetail": "Remaining HP of allied position: {0}"
+			"stepDetail": "Remaining HP of allied Control Point: {0}"
 		},
 		{
 			"id": 9158,
@@ -1614,7 +1614,7 @@
 		},
 		{
 			"id": 9160,
-			"stepDetail": "Capture all enemy positions: {0}/2"
+			"stepDetail": "Capture all enemy Control Points: {0}/2"
 		},
 		{
 			"id": 9161,
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"id": 9172,
-			"stepDetail": "Capture all positions: {0}/2"
+			"stepDetail": "Capture all Control Points: {0}/2"
 		},
 		{
 			"id": 9173,
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"id": 9192,
-			"stepDetail": "Capture all positions : {0}/4"
+			"stepDetail": "Capture all Control Points : {0}/4"
 		},
 		{
 			"id": 9193,
@@ -1790,7 +1790,7 @@
 		},
 		{
 			"id": 9204,
-			"stepDetail": "Earn +45 points per turn for holding a position"
+			"stepDetail": "Get 45 points per turn for holding a Control Point"
 		},
 		{
 			"id": 9205,
@@ -1810,7 +1810,7 @@
 		},
 		{
 			"id": 9209,
-			"stepDetail": "Prevent the enemy from holding all positions for 10 turns"
+			"stepDetail": "Prevent the enemy from holding all Control Points for 10 turns"
 		},
 		{
 			"id": 9210,
@@ -1818,7 +1818,7 @@
 		},
 		{
 			"id": 9211,
-			"stepDetail": "Capture all positions: {0}/3"
+			"stepDetail": "Capture all Control Points: {0}/3"
 		},
 		{
 			"id": 9212,
@@ -1826,7 +1826,7 @@
 		},
 		{
 			"id": 9213,
-			"stepDetail": "Capture the position within 9 turns and hold it for 6 turns"
+			"stepDetail": "Capture the Control Point within 9 turns and hold it for 6 turns"
 		},
 		{
 			"id": 9214,
@@ -1858,7 +1858,7 @@
 		},
 		{
 			"id": 9221,
-			"stepDetail": "Hold the position and evacuate at least 2 allied units: {0}/2"
+			"stepDetail": "Hold the Control Point and evacuate at least 2 allied units: {0}/2"
 		},
 		{
 			"id": 9222,
@@ -1870,7 +1870,7 @@
 		},
 		{
 			"id": 9224,
-			"stepDetail": "Capture the position and eliminate the target:\n{0}/3"
+			"stepDetail": "Capture the Control Point and eliminate the target:\n{0}/3"
 		},
 		{
 			"id": 9225,
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"id": 9227,
-			"stepDetail": "If the enemy's position isn't captured, reinforcements will continue to appear"
+			"stepDetail": "If the enemy's Control Point isn't captured, reinforcements will continue to appear"
 		},
 		{
 			"id": 9228,
@@ -2010,7 +2010,7 @@
 		},
 		{
 			"id": 9259,
-			"stepDetail": "Defend allied Control Point and take the enemy position"
+			"stepDetail": "Defend allied Control Point and take the enemy Control Point"
 		},
 		{
 			"id": 9260,
@@ -2087,6 +2087,10 @@
 		{
 			"id": 9278,
 			"stepDetail": "Eliminate the Tumorhynchus - Disaster and Tumorhynchus - Plague"
+		},
+		{
+			"id": 9282,
+			"stepDetail": "Get 120 points per turn for holding a Control Point"
 		}
 	]
 }

@@ -481,18 +481,6 @@
 			"lastJump": 0
 		},
 		{
-			"id": 1141,
-			"behavior": 1001,
-			"args": "1:1:141",
-			"isAdditive": false,
-			"unlockId": 0,
-			"planOpen": 0,
-			"planOpenHint": 0,
-			"planOpenFunction": 0,
-			"planOpenArgs": 0,
-			"lastJump": 0
-		},
-		{
 			"id": 1142,
 			"behavior": 1001,
 			"args": "1:1:142",

@@ -233,6 +233,10 @@
 			"maximumEffect": 5000
 		},
 		{
+			"id": 1120,
+			"maximumEffect": 1000
+		},
+		{
 			"id": 1121,
 			"maximumEffect": 0
 		},
