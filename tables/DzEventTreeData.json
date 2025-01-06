@@ -2288,12 +2288,6 @@
 			"nextEvent": []
 		},
 		{
-			"eventId": 211001,
-			"resultList": "13:2110005-0",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
 			"eventId": 211002,
 			"resultList": "13:2110006-0",
 			"condition": "",

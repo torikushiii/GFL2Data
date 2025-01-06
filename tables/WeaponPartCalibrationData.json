@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"id": 2101,
+			"partAbility": "max_will_value",
+			"partAbilityInterval": [
+				15,
+				20
+			],
+			"adjustNum": {
+				"2": 1
+			}
+		},
+		{
 			"id": 2102,
 			"partAbility": "max_will_value",
 			"partAbilityInterval": [

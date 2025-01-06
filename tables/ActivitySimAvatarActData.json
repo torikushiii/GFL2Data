@@ -253,16 +253,6 @@
 			"loop": false
 		},
 		{
-			"id": 2001,
-			"avatarId": 2001,
-			"actType": 1,
-			"actOrder": 999,
-			"actPath": "idle",
-			"face": "",
-			"conditionId": [],
-			"loop": false
-		},
-		{
 			"id": 2002,
 			"avatarId": 2001,
 			"actType": 2,

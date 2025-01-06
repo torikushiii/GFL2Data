@@ -71,6 +71,13 @@
 			"jump": 0
 		},
 		{
+			"id": 22000,
+			"name": "Notice",
+			"type": 1,
+			"sort": 3,
+			"jump": 0
+		},
+		{
 			"id": 26002,
 			"name": "Sign-In",
 			"type": 1,

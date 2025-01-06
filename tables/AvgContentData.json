@@ -558,7 +558,7 @@
 		},
 		{
 			"id": 158,
-			"senContent": "Pious U"
+			"senContent": "Pious Unitas"
 		},
 		{
 			"id": 159,
@@ -566,11 +566,11 @@
 		},
 		{
 			"id": 160,
-			"senContent": "Delighted U"
+			"senContent": "Delighted Unitas"
 		},
 		{
 			"id": 161,
-			"senContent": "Fanatical U"
+			"senContent": "Fanatical Unitas"
 		},
 		{
 			"id": 162,
@@ -2398,7 +2398,7 @@
 		},
 		{
 			"id": 101012016,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 101012017,
@@ -2646,7 +2646,7 @@
 		},
 		{
 			"id": 101013060,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 101013061,
@@ -7010,7 +7010,7 @@
 		},
 		{
 			"id": 103005018,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 103005019,
@@ -9918,7 +9918,7 @@
 		},
 		{
 			"id": 104002116,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 104002117,
@@ -14274,7 +14274,7 @@
 		},
 		{
 			"id": 105008068,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 105008069,
@@ -18590,7 +18590,7 @@
 		},
 		{
 			"id": 106007046,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 106007047,
@@ -18922,7 +18922,7 @@
 		},
 		{
 			"id": 106009012,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 106009013,
@@ -24702,7 +24702,7 @@
 		},
 		{
 			"id": 108002033,
-			"senContent": "Ah—It's something from the Leader! |Umm, I-I wasn't paying attention... Leader says they've captured the target, and they're returning soon!"
+			"senContent": "Ah—It's something from Leader! |Umm, I-I wasn't paying attention... Leader says they've captured the target, and they're returning soon!"
 		},
 		{
 			"id": 108002034,
@@ -25346,7 +25346,7 @@
 		},
 		{
 			"id": 108003086,
-			"senContent": "Additionally, upon making contact with \"Niter\" in Level II, I attempted to invade her neural cloud, but was immediately expelled for an unknown reason. My guess is that it's related to the abnormalities in Level II. |As brief as the time was, I managed to obtain a large quantity of information that I spent some time processing."
+			"senContent": "Additionally, upon making contact with \"Niter\" in Level II, I attempted to invade her virtual cognition image, but was immediately expelled for an unknown reason. My guess is that it's related to the abnormalities in Level II. |As brief as the time was, I managed to obtain a large quantity of information that I spent some time processing."
 		},
 		{
 			"id": 108003087,
@@ -25374,7 +25374,7 @@
 		},
 		{
 			"id": 108003093,
-			"senContent": "S-shut up if you can't hold it in! At least wait until the Leader is finished! Or are you messing with me on purpose, huh?!"
+			"senContent": "S-shut up if you can't hold it in! At least wait until Leader is finished! Or are you messing with me on purpose, huh?!"
 		},
 		{
 			"id": 108003094,
@@ -25430,7 +25430,7 @@
 		},
 		{
 			"id": 108003107,
-			"senContent": "And the nanomachines belonging to Paradeus inside \"Niter\" employ a system different from ours. Due to the different base structure, I could not successfully connect with the neural projection inside her Level II, which was what caused the abnormal imagery inside Level II. The Level II she connected into—"
+			"senContent": "And the nanomachines belonging to Paradeus inside \"Niter\" employ a system different from ours. Due to the different base structure, I could not successfully connect with the neural projection inside her virtual cognition image, which was what caused the abnormal imagery inside Level II. The Level II she connected into—"
 		},
 		{
 			"id": 108003108,
@@ -25442,7 +25442,7 @@
 		},
 		{
 			"id": 108003110,
-			"senContent": "You've already gone through that. Groza, is the Level II \"Niter\" uses abnormal?"
+			"senContent": "You've already gone through that. Groza, is the Level II layer \"Niter\" uses abnormal?"
 		},
 		{
 			"id": 108003111,
@@ -25470,7 +25470,7 @@
 		},
 		{
 			"id": 108003117,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 108003118,
@@ -25846,7 +25846,7 @@
 		},
 		{
 			"id": 108004045,
-			"senContent": "Mayling, the mission's changed. I haven't had the chance to notify you yet, but we don't need the signal jammer anymore. Instead, we need you to try and rig up some sort of tracker for Niter and process the information left in her neural cloud. Anyway, Colphne, what were you saying?"
+			"senContent": "Mayling, the mission's changed. I haven't had the chance to notify you yet, but we don't need the signal jammer anymore. Instead, we need you to try and rig up some sort of tracker for Niter and process the information left in her virtual cognition image. Anyway, Colphne, what were you saying?"
 		},
 		{
 			"id": 108004046,
@@ -26086,7 +26086,7 @@
 		},
 		{
 			"id": 108006008,
-			"senContent": "Ohh! Red, full, it score!"
+			"senContent": "Ohh! Red, full, adds score!"
 		},
 		{
 			"id": 108006009,
@@ -27586,7 +27586,7 @@
 		},
 		{
 			"id": 108014001,
-			"senContent": "(Krolik knocks her out and throws her over her shoulder to stop her from making mindless attacks.)"
+			"senContent": "(Krolik knocks Helena out and throws her over her shoulder to stop her from making mindless attacks.)"
 		},
 		{
 			"id": 108014002,
@@ -27826,7 +27826,7 @@
 		},
 		{
 			"id": 108016008,
-			"senContent": "Stop squirming around. If the backup breaks, Mayling is going to have a long night ahead of her—Leader, my bodily damage is above 50%. I can move, but my depth perception is busted, and it's hard to tell where things are with only visual modules."
+			"senContent": "Stop squirming around. If the backup breaks, Mayling is going to have a long night ahead of her—Leader, my frame damage is above 50%. I can move, but my depth perception is busted, and it's hard to tell where things are with only visual modules."
 		},
 		{
 			"id": 108016009,
@@ -27846,7 +27846,7 @@
 		},
 		{
 			"id": 108016013,
-			"senContent": "Oh, you want to f***ing go?!"
+			"senContent": "Oh, you want to fucking go?!"
 		},
 		{
 			"id": 108016014,
@@ -27926,7 +27926,7 @@
 		},
 		{
 			"id": 108016033,
-			"senContent": "...(Cough) Listen, Helena—Hey, hey, hey, what are you doing?!"
+			"senContent": "...(Clears throat) Listen, Helena—Hey, hey, hey, what are you doing?!"
 		},
 		{
 			"id": 108016034,
@@ -28078,7 +28078,7 @@
 		},
 		{
 			"id": 108018008,
-			"senContent": "My body and neural cloud are all yours. If you want to delete or reset it, it doesn't matter."
+			"senContent": "My frame and neural cloud are all yours. If you want to delete or reset it, it doesn't matter."
 		},
 		{
 			"id": 108018009,
@@ -28086,7 +28086,7 @@
 		},
 		{
 			"id": 108018010,
-			"senContent": "Your body and neural cloud are only of use to you; what am I going to do with them? |In terms of money, that's nothing compared to how much you've provided in terms of supplies and maintenance."
+			"senContent": "Your frame and neural cloud are only of use to you; what am I going to do with them? |In terms of money, that's nothing compared to how much you've provided in terms of supplies and maintenance."
 		},
 		{
 			"id": 108018011,
@@ -28102,7 +28102,7 @@
 		},
 		{
 			"id": 108018014,
-			"senContent": "If you or Leader gives the order, I can fight. I don't need a wage, and I'll be careful with the body I have right now. I just hope that you can give me basic support in maintenance and supplies... If I can still fight, I will."
+			"senContent": "If you or Leader gives the order, I can fight. I don't need a wage, and I'll be careful with the frame I have right now. I just hope that you can give me basic support in maintenance and supplies... If I can still fight, I will."
 		},
 		{
 			"id": 108018015,
@@ -28218,7 +28218,7 @@
 		},
 		{
 			"id": 108018043,
-			"senContent": "What is it—Is your body damaged? Has your balance equalization been thrown off?"
+			"senContent": "What is it—Is your frame damaged? Has your balance equalization been thrown off?"
 		},
 		{
 			"id": 108018044,
@@ -28318,7 +28318,7 @@
 		},
 		{
 			"id": 108018068,
-			"senContent": "(Sniff)"
+			"senContent": "(Cries)"
 		},
 		{
 			"id": 108018069,
@@ -28354,7 +28354,7 @@
 		},
 		{
 			"id": 108018077,
-			"senContent": "Sorry for causing so much trouble. Thank you for modifying my body and providing maintenance for me. I didn't want to leave without saying anything... but when I chose to leave, I thought that I shouldn't keep a neural backup on the MBV... and then, I came back."
+			"senContent": "Sorry for causing so much trouble. Thank you for modifying my frame and providing maintenance for me. I didn't want to leave without saying anything... but when I chose to leave, I thought that I shouldn't keep a neural backup on the MBV... and then, I came back."
 		},
 		{
 			"id": 108018078,
@@ -28606,7 +28606,7 @@
 		},
 		{
 			"id": 108020003,
-			"senContent": "Number of enemies: 1."
+			"senContent": "Enemy number confirmed to be just one."
 		},
 		{
 			"id": 108020004,
@@ -28618,15 +28618,15 @@
 		},
 		{
 			"id": 108020006,
-			"senContent": "(There is a burst of static over the comm channel and Groza's voice is a little garbled.)"
+			"senContent": "(A burst of static comes through the comms, making it difficult to make out what Groza is saying.)"
 		},
 		{
 			"id": 108020007,
-			"senContent": "She's the only one out there? There are no other Paradeus combat units on the field?"
+			"senContent": "It's just her? No other Paradeus combat units?"
 		},
 		{
 			"id": 108020008,
-			"senContent": "No. Enemy forces are confirmed to have exited the combat area."
+			"senContent": "No. Enemy confirmed to have left combat area."
 		},
 		{
 			"id": 108020009,
@@ -28634,43 +28634,43 @@
 		},
 		{
 			"id": 108020010,
-			"senContent": "She's holding position outside our firing range, but she has not left."
+			"senContent": "She's remaining outside of our firing range and is not leaving."
 		},
 		{
 			"id": 108020011,
-			"senContent": "Th-there's a new comm request— requester unknown!"
+			"senContent": "T-there's a new communications request—caller unknown!"
 		},
 		{
 			"id": 108020012,
-			"senContent": "...Put it through. Groza, watch the surroundings."
+			"senContent": "...Put it through. Groza, stay alert."
 		},
 		{
 			"id": 108020013,
-			"senContent": "(Mayling operates the main terminal and puts the new transmission on the projection screen.)"
+			"senContent": "(Mayling displays the new comms window on the projection screen.)"
 		},
 		{
 			"id": 108020014,
-			"senContent": "(I walk up to the screen.)"
+			"senContent": "(I walk up to the projection screen.)"
 		},
 		{
 			"id": 108020015,
-			"senContent": "...Gree...tings..."
+			"senContent": "Good... day..."
 		},
 		{
 			"id": 108020016,
-			"senContent": "(The screen shows Sextans, wearing a cape.)"
+			"senContent": "(I find myself looking at Sextans, who is wearing a hood.)"
 		},
 		{
 			"id": 108020017,
-			"senContent": "(Perhaps it's because of the Collapse storm or because her vocalizer module has been damaged, but Sextans is stuttering heavily. Even that short greeting took several seconds for her to get out.)"
+			"senContent": "(I cannot be certain if the Collapse storm is affecting the signal reception or if Sextans' vocalization module is damaged, but her words are very choppy, and the simple greetings took her seconds to get out.)"
 		},
 		{
 			"id": 108020018,
-			"senContent": "Cut the chatter. This should be the first time I'm seeing you directly— you followed us all the way to the contaminated zone, trailing us all the time. I want to know what you're up to, Sextans."
+			"senContent": "It's a terrible day. This should be the first time I've seen you in the flesh—Sextans, chasing us here, tailing us—what do you want?"
 		},
 		{
 			"id": 108020019,
-			"senContent": "...Is...Sex...tans...my...name...?"
+			"senContent": "Sex... tans... my... na... me...?"
 		},
 		{
 			"id": 108020020,
@@ -28678,15 +28678,15 @@
 		},
 		{
 			"id": 108020021,
-			"senContent": "...Do... you... know... who... I... am... please... tell... me..."
+			"senContent": "You... kn... ow... who... I... am... pl... ease... tell... me..."
 		},
 		{
 			"id": 108020022,
-			"senContent": "Are you trying to fool us with these childish tricks?"
+			"senContent": "Still trying these childish tricks on us?"
 		},
 		{
 			"id": 108020023,
-			"senContent": "(In the transmission window, Sextans doesn't answer and she doesn't move. She is like a static image on the transmission screen.)"
+			"senContent": "(Sextans makes no reply or any sort of movement. She looks like a static image pasted on the projection screen.)"
 		},
 		{
 			"id": 108020024,
@@ -28694,27 +28694,27 @@
 		},
 		{
 			"id": 108020025,
-			"senContent": "All normal. No movement from the enemy unit."
+			"senContent": "No abnormalities. No movement from enemy unit."
 		},
 		{
 			"id": 108020026,
-			"senContent": "I have no time to play games with you. Groza, kill her."
+			"senContent": "I have no time for this. Groza, get rid of her."
 		},
 		{
 			"id": 108020027,
-			"senContent": "...Tell...me..."
+			"senContent": "Tell... me..."
 		},
 		{
 			"id": 108020028,
-			"senContent": "(On the screen, I see Sextans take off her hat.)"
+			"senContent": "(Sextans takes off her hood...)"
 		},
 		{
 			"id": 108020029,
-			"senContent": "(Under it, a maze of exposed circuits, an avulsed eyeball and twisted metal appear before me.)"
+			"senContent": "(...Revealing her exposed circuitry, protruding eyeballs, and mangled metallic hardware.)"
 		},
 		{
 			"id": 108020030,
-			"senContent": "...Release...neural...cloud...access...restrictions...and...tell...me..."
+			"senContent": "Neu... ral... autho... ri... zation... un... lock... li... mit... tell... me..."
 		},
 		{
 			"id": 108020031,
@@ -28722,11 +28722,11 @@
 		},
 		{
 			"id": 108020032,
-			"senContent": "Your orders, Commander!"
+			"senContent": "Give me the order, Commander!"
 		},
 		{
 			"id": 108020033,
-			"senContent": "We've got a new transmission! It's on an encrypted channel... and the sender is... \"shining edge in hand\"?"
+			"senContent": "A new comms request! Encrypted channel... caller is... \"Light the dawn, shining edge in hand\"?"
 		},
 		{
 			"id": 108020034,
@@ -28742,7 +28742,7 @@
 		},
 		{
 			"id": 109001002,
-			"senContent": "We've got a new transmission! It's on an encrypted channel... and the sender is... \"shining edge in hand\"?"
+			"senContent": "A new comms request! Encrypted channel... caller is... \"Light the dawn, shining edge in hand\"?"
 		},
 		{
 			"id": 109001003,
@@ -34322,7 +34322,7 @@
 		},
 		{
 			"id": 202005063,
-			"senContent": "There, there. Let's try and figure out what's going on."
+			"senContent": "Alright, let's try and figure out what's going on."
 		},
 		{
 			"id": 202005064,
@@ -34842,7 +34842,7 @@
 		},
 		{
 			"id": 202006092,
-			"senContent": "Aw, have you forgotten alredy, Makiatto? Sharkry might not know how to sneak around, but as a top-class idol, Sharkry is great with applying makeup to disguise herself~"
+			"senContent": "Aw, have you forgotten already, Makiatto? Sharkry might not know how to sneak around, but as a top-class idol, Sharkry is great with applying makeup to disguise herself~"
 		},
 		{
 			"id": 202006093,
@@ -55718,7 +55718,7 @@
 		},
 		{
 			"id": 213001015,
-			"senContent": "(Dandelion looks at the girl before her and does not deny this, shaking her head as though in self-mockery.)"
+			"senContent": "(Dandelion looks at the girl before her who does not deny this, and shakes her head as though in self-mockery.)"
 		},
 		{
 			"id": 213001016,
@@ -55762,7 +55762,7 @@
 		},
 		{
 			"id": 213001026,
-			"senContent": "But that person has lost everything; wealth, fame, comrades, their precious future, and all our former friends — namely, those Dolls."
+			"senContent": "But that person has lost everything; wealth, fame, comrades, their precious future, and all our former friends—namely, those Dolls."
 		},
 		{
 			"id": 213001027,
@@ -55778,7 +55778,7 @@
 		},
 		{
 			"id": 213001030,
-			"senContent": "But if it's you, you'd surely reply that everything that happened was because of that person's protection."
+			"senContent": "But if it's you, you'd surely reply that everything that happened was meant to protect that person."
 		},
 		{
 			"id": 213001031,
@@ -55854,7 +55854,7 @@
 		},
 		{
 			"id": 213001049,
-			"senContent": "(Dandelion opens her eyes and gets up, her smile still on her face. She gazes on the radiant moon and begins talking to herself in a self-deprecating tone.)"
+			"senContent": "(Dandelion opens her eyes, and her face, still with a smile, gently lifts. She gazes on the radiant moon and begins talking to herself in a self-deprecating tone.)"
 		},
 		{
 			"id": 213001050,
@@ -55898,7 +55898,7 @@
 		},
 		{
 			"id": 213001060,
-			"senContent": "(The girl called Heli leaves without a sounds, leaving Dandelion alone in the garden.)"
+			"senContent": "(The girl called Heli leaves without a sound, leaving Dandelion alone in the garden.)"
 		},
 		{
 			"id": 213001061,
@@ -55918,7 +55918,7 @@
 		},
 		{
 			"id": 213002003,
-			"senContent": "(This seemingly unassuming supply station serves as a repository for supplies from outside the contaminated zone, and it is also the last and only hope for anyone seeking to leave the Yellow Zone.)"
+			"senContent": "(This seemingly unassuming supply station serves as a repository for supplies from outside the contamination zone, and it is also the last and only hope for anyone seeking to leave the Yellow Zone.)"
 		},
 		{
 			"id": 213002004,
@@ -55982,7 +55982,7 @@
 		},
 		{
 			"id": 213002019,
-			"senContent": "Uwah, I shouldn't have asked you."
+			"senContent": "Uwah, we shouldn't have asked you."
 		},
 		{
 			"id": 213002020,
@@ -55990,7 +55990,7 @@
 		},
 		{
 			"id": 213002021,
-			"senContent": "Big Sis, we spent the crystal pieces we saved up for half a year on the travel expenses for this journey. Was it really necessary?"
+			"senContent": "Big Sis, we spent the Collapse pieces we saved up for half a year on the travel expenses for this journey. Was it really necessary?"
 		},
 		{
 			"id": 213002022,
@@ -56022,7 +56022,7 @@
 		},
 		{
 			"id": 213002029,
-			"senContent": "Oh.... oh!"
+			"senContent": "Oh... oh!"
 		},
 		{
 			"id": 213002030,
@@ -56226,7 +56226,7 @@
 		},
 		{
 			"id": 213002080,
-			"senContent": "(The railway cop makes a big show of berating the security men while he pulls them aside, then quietly speaks to them.)"
+			"senContent": "(The railway police officer makes a big show of berating the security men while he pulls them aside, then quietly speaks to them.)"
 		},
 		{
 			"id": 213002081,
@@ -56518,7 +56518,7 @@
 		},
 		{
 			"id": 213003027,
-			"senContent": "(Sand and invisible Collapse particles are streaming in through the gap. The Dolls are stunned by the extent of the devastation here.)"
+			"senContent": "(Sand and invisible Collapse particles are streaming in through the breach. The Dolls are stunned by the extent of the devastation here.)"
 		},
 		{
 			"id": 213003028,
@@ -56534,11 +56534,11 @@
 		},
 		{
 			"id": 213003031,
-			"senContent": "(Daiyan looks over and sees a girl with blue hair on the ground. Her hands are tightly clenched around her weapon and there are three strange orbs circling her.)"
+			"senContent": "(Daiyan looks over and sees a girl with blue hair on the ground. Her hands are tightly clenched around her weapon and there are three strange spheres circling her.)"
 		},
 		{
 			"id": 213003032,
-			"senContent": "(The orbs glow with blue light, and the heat boiling off them makes the surrounding air ripple. It's plain to see that the previous destruction was their work.)"
+			"senContent": "(The spheres glow with blue light, and the heat boiling off them makes the surrounding air ripple. It's plain to see that the previous destruction was their work.)"
 		},
 		{
 			"id": 213003033,
@@ -56554,7 +56554,7 @@
 		},
 		{
 			"id": 213003036,
-			"senContent": "(Daiyan looks at the fallen Doll. The orbs have changed position and begun glowing in response to her approach. It looks like they might attack at any moment.)"
+			"senContent": "(Daiyan looks at the fallen Doll. The spheres have changed position and begun glowing in response to her approach. It looks like they might attack at any moment.)"
 		},
 		{
 			"id": 213003037,
@@ -56570,11 +56570,11 @@
 		},
 		{
 			"id": 213003040,
-			"senContent": "(Just as the Dolls come to a halt, the orbs suddenly flash with light before flying rapidly in the opposite direction from Daiyan and company.)"
+			"senContent": "(Just as the Dolls come to a halt, the spheres suddenly flash with light before flying rapidly in the opposite direction from Daiyan and company.)"
 		},
 		{
 			"id": 213003041,
-			"senContent": "Those orbs flew off... Does that mean it's safe?"
+			"senContent": "Those spheres flew off... Does that mean it's safe?"
 		},
 		{
 			"id": 213003042,
@@ -56606,7 +56606,7 @@
 		},
 		{
 			"id": 213003049,
-			"senContent": "The reason why you couldn't know about things beforehand?"
+			"senContent": "The reason that we couldn't know about ahead of time?"
 		},
 		{
 			"id": 213003050,
@@ -56642,7 +56642,7 @@
 		},
 		{
 			"id": 213003058,
-			"senContent": "Connecting to her was easy. The access format she uses is the same as ours."
+			"senContent": "Connecting to her was easy. The IFF handshake protocol she uses is the same as ours."
 		},
 		{
 			"id": 213003059,
@@ -56650,7 +56650,7 @@
 		},
 		{
 			"id": 213003060,
-			"senContent": "Can you recall where that Doll who uses the same access format as you might be?"
+			"senContent": "She's got the same IFF data as you, haven't you figured out why yet?"
 		},
 		{
 			"id": 213003061,
@@ -56814,7 +56814,7 @@
 		},
 		{
 			"id": 213004035,
-			"senContent": "Colphne, how are things on your end?"
+			"senContent": "How are things on Colphne's end?"
 		},
 		{
 			"id": 213004036,
@@ -56870,11 +56870,11 @@
 		},
 		{
 			"id": 213004049,
-			"senContent": "I didn't manage to trace them back in time... I didn't have enough time to do proper frame maintenance either, so all I could do was perform basic first aid on everyone..."
+			"senContent": "No time to backtrace... and no time for repair either. I've only been able to go through basic maintenance on everyone..."
 		},
 		{
 			"id": 213004050,
-			"senContent": "We're going up against Sextans, and the Collapse storm here is so strong... Uh, everything's going to be okay, right? We'll all be okay, won't we, Commander?"
+			"senContent": "Sextans is out there, and the storm here is bad... W-we'll be alright, right, Commander?"
 		},
 		{
 			"id": 213004051,
@@ -56882,7 +56882,7 @@
 		},
 		{
 			"id": 213004052,
-			"senContent": "Number of enemies: 1."
+			"senContent": "Enemy number confirmed to be just one."
 		},
 		{
 			"id": 213004053,
@@ -56894,59 +56894,59 @@
 		},
 		{
 			"id": 213004055,
-			"senContent": "(There is a burst of static over the comm channel and Groza's voice is a little garbled.)"
+			"senContent": "(A burst of static comes through the comms, making it difficult to make out what Groza is saying.)"
 		},
 		{
 			"id": 213004056,
-			"senContent": "She's the only one out there? There are no other Paradeus combat units on the field?"
+			"senContent": "It's just her? No other Paradeus combat units?"
 		},
 		{
 			"id": 213004057,
-			"senContent": "No. Enemy forces are confirmed to have exited the combat area."
+			"senContent": "No. Enemy confirmed to have left combat area."
 		},
 		{
 			"id": 213004058,
-			"senContent": "So they've withdrawn?"
+			"senContent": "She retreated?"
 		},
 		{
 			"id": 213004059,
-			"senContent": "She's holding position outside our firing range, but she has not left."
+			"senContent": "She's remaining outside of our firing range and is not leaving."
 		},
 		{
 			"id": 213004060,
-			"senContent": "Th-there's a new comm request— requester unknown!"
+			"senContent": "T-there's a new communications request—caller unknown!"
 		},
 		{
 			"id": 213004061,
-			"senContent": "...Put it through. Groza, watch the surroundings."
+			"senContent": "...Put it through. Groza, stay alert."
 		},
 		{
 			"id": 213004062,
-			"senContent": "(Mayling operates the main terminal and puts the new transmission on the projection screen.)"
+			"senContent": "(Mayling displays the new comms window on the projection screen.)"
 		},
 		{
 			"id": 213004063,
-			"senContent": "(I walk up to the screen.)"
+			"senContent": "(I walk up to the projection screen.)"
 		},
 		{
 			"id": 213004064,
-			"senContent": "...Gree...tings..."
+			"senContent": "Good... day..."
 		},
 		{
 			"id": 213004065,
-			"senContent": "(The screen shows Sextans, wearing a cape.)"
+			"senContent": "(I find myself looking at Sextans, who is wearing a hood.)"
 		},
 		{
 			"id": 213004066,
-			"senContent": "(Perhaps it's because of the Collapse storm or because her vocalizer module has been damaged, but Sextans is stuttering heavily. Even that short greeting took several seconds for her to get out.)"
+			"senContent": "(I cannot be certain if the Collapse storm is affecting the signal reception or if Sextans' vocalization module is damaged, but her words are very choppy, and the simple greetings took her seconds to get out.)"
 		},
 		{
 			"id": 213004067,
-			"senContent": "Cut the chatter. This should be the first time I'm seeing you directly— you followed us all the way to the contaminated zone, trailing us all the time. I want to know what you're up to, Sextans."
+			"senContent": "It's a terrible day. This should be the first time I've seen you in the flesh—Sextans, chasing us here, tailing us—what do you want?"
 		},
 		{
 			"id": 213004068,
-			"senContent": "...Is...Sex...tans...my...name...?"
+			"senContent": "Sex... tans... my... na... me...?"
 		},
 		{
 			"id": 213004069,
@@ -56954,15 +56954,15 @@
 		},
 		{
 			"id": 213004070,
-			"senContent": "...Do... you... know... who... I... am... please... tell... me..."
+			"senContent": "You... kn... ow... who... I... am... pl... ease... tell... me..."
 		},
 		{
 			"id": 213004071,
-			"senContent": "Are you trying to fool us with these childish tricks?"
+			"senContent": "Still trying these childish tricks on us?"
 		},
 		{
 			"id": 213004072,
-			"senContent": "(In the transmission window, Sextans doesn't answer and she doesn't move. She is like a static image on the transmission screen.)"
+			"senContent": "(Sextans makes no reply or any sort of movement. She looks like a static image pasted on the projection screen.)"
 		},
 		{
 			"id": 213004073,
@@ -56970,27 +56970,27 @@
 		},
 		{
 			"id": 213004074,
-			"senContent": "All normal. No movement from the enemy unit."
+			"senContent": "No abnormalities. No movement from enemy unit."
 		},
 		{
 			"id": 213004075,
-			"senContent": "I have no time to play games with you. Groza, kill her."
+			"senContent": "I have no time for this. Groza, get rid of her."
 		},
 		{
 			"id": 213004076,
-			"senContent": "...Tell...me..."
+			"senContent": "Tell... me..."
 		},
 		{
 			"id": 213004077,
-			"senContent": "(On the screen, I see Sextans take off her hat.)"
+			"senContent": "(Sextans takes off her hood...)"
 		},
 		{
 			"id": 213004078,
-			"senContent": "(Under it, a maze of exposed circuits, an avulsed eyeball and twisted metal appear before me.)"
+			"senContent": "(...Revealing her exposed circuitry, protruding eyeballs, and mangled metallic hardware.)"
 		},
 		{
 			"id": 213004079,
-			"senContent": "...Release...neural...cloud...access...restrictions...and...tell...me..."
+			"senContent": "Neu... ral... autho... ri... zation... un... lock... li... mit... tell... me..."
 		},
 		{
 			"id": 213004080,
@@ -56998,11 +56998,11 @@
 		},
 		{
 			"id": 213004081,
-			"senContent": "Your orders, Commander!"
+			"senContent": "Give me the order, Commander!"
 		},
 		{
 			"id": 213004082,
-			"senContent": "We've got a new transmission! It's on an encrypted channel... and the sender is... \"shining edge in hand\"?"
+			"senContent": "A new comms request! Encrypted channel... caller is... \"Light the dawn, shining edge in hand\"?"
 		},
 		{
 			"id": 213004083,
@@ -57026,7 +57026,7 @@
 		},
 		{
 			"id": 213004088,
-			"senContent": "That Doll called Sextans from just now showed up again, although she looks a little weird..."
+			"senContent": "That Doll called Sextans showed up again, although she looks a little weird..."
 		},
 		{
 			"id": 213004089,
@@ -57086,11 +57086,11 @@
 		},
 		{
 			"id": 213004103,
-			"senContent": "(I suddenly realize that it's been a last time since we last spoke like this, but I ended up taking this tone with her anyway. For some reason, I'm not worried at all that she'll be repulsed by my attitude. In fact, even her seemingly mocking tone is putting me at ease.)"
+			"senContent": "(I suddenly realize that it's been a long time since we last spoke like this, but I ended up taking this tone with her anyway. For some reason, I'm not worried at all that she'll be repulsed by my attitude. In fact, even her seemingly mocking tone is putting me at ease.)"
 		},
 		{
 			"id": 213004104,
-			"senContent": "(As expected, Dandelion smiles in that familiar yet annoying way. Every time I see that smile, I just know she must be laughing like a hyena deep inside her neural cloud, but at the same time I know she'll step in to solve my issues.)"
+			"senContent": "(As expected, Dandelion smiles in that familiar yet annoying way. Every time I see that smile, I just know she must be laughing like a hyena deep inside her virtual cognition image, but at the same time I know she'll step in to solve my issues.)"
 		},
 		{
 			"id": 213004105,
@@ -57106,7 +57106,7 @@
 		},
 		{
 			"id": 213004108,
-			"senContent": "I found the information on her easily enough in the NMFA databases. She's the Girard Group's newest product and their pride and joy."
+			"senContent": "I found the information on her easily enough in the NOMFA databases. She's the Girard Group's newest product and their pride and joy."
 		},
 		{
 			"id": 213004109,
@@ -57122,7 +57122,7 @@
 		},
 		{
 			"id": 213004112,
-			"senContent": "In short — way worse than RO."
+			"senContent": "In short—way worse than RO."
 		},
 		{
 			"id": 213004113,
@@ -57182,11 +57182,11 @@
 		},
 		{
 			"id": 213004127,
-			"senContent": "(Groza's squad begins falling back and I signal to Dandelion to work as fast as she can.)"
+			"senContent": "(Groza's team begins falling back and I signal to Dandelion to work as fast as she can.)"
 		},
 		{
 			"id": 213004128,
-			"senContent": "Miss Mayling, are you the Elmo's logistics officer?"
+			"senContent": "Miss Mayling, are you the Elmo's adjutant?"
 		},
 		{
 			"id": 213004129,
@@ -57202,7 +57202,7 @@
 		},
 		{
 			"id": 213004132,
-			"senContent": "Commander, good manners are very important for girls,  Commander. You're always breaking your subordinates' hearts because you keep forgetting that~"
+			"senContent": "Good manners are very important for girls, Commander. You're always breaking your subordinates' hearts because you keep forgetting that~"
 		},
 		{
 			"id": 213004133,
@@ -57214,7 +57214,7 @@
 		},
 		{
 			"id": 213004135,
-			"senContent": "H-how did you get into the Elmo's systems?"
+			"senContent": "H-how are you planning to get into the Elmo's systems?"
 		},
 		{
 			"id": 213004136,
@@ -57234,7 +57234,7 @@
 		},
 		{
 			"id": 213004140,
-			"senContent": "What's with those Dolls?"
+			"senContent": "As you wish~"
 		},
 		{
 			"id": 213004141,
@@ -57262,7 +57262,7 @@
 		},
 		{
 			"id": 213004147,
-			"senContent": "Oh yes, I rebooted some data backups from 10 years ago, and thanks to the massive data center on the Elmo and the nearby signal beacon, I managed to update part of my neural cloud data. Once it completely fuses with me, I'll be able to cohabitate with everyone down here~"
+			"senContent": "Oh yes, I booted up a data backup from 10 years ago, and thanks to the massive data center on the Elmo and the nearby signal beacon, I managed to update part of my virtual cognition image's data. Once it completely fuses with me, we'll all be happy campers here together~"
 		},
 		{
 			"id": 213004148,
@@ -57290,7 +57290,7 @@
 		},
 		{
 			"id": 213004154,
-			"senContent": "Ah... What I mean is that I helped keep the Elmo running in the past."
+			"senContent": "Ah... What I mean is that you helped keep the Elmo running in the past as well?"
 		},
 		{
 			"id": 213004155,
@@ -57378,7 +57378,7 @@
 		},
 		{
 			"id": 213004176,
-			"senContent": "I made some deductions based on the data and found that the data on the plants in Groza's and the other's Remolding Patterns was inaccurate, which led to them not being able to absorb Collapse particles at full efficiency."
+			"senContent": "I made some deductions based on the data and found that the data on the plants in Groza's and the others' Remolding Patterns was inaccurate, which led to them not being able to absorb Collapse particles at full efficiency."
 		},
 		{
 			"id": 213004177,
@@ -57418,7 +57418,7 @@
 		},
 		{
 			"id": 213005001,
-			"senContent": "Commander, we've recovered Sextans' frame. Estimated 20 minutes until we get back to the Elmo"
+			"senContent": "Commander, we've recovered Sextans' frame. Estimated 20 minutes until we get back to the Elmo."
 		},
 		{
 			"id": 213005002,
@@ -57466,7 +57466,7 @@
 		},
 		{
 			"id": 213005013,
-			"senContent": "Naturally, I understand that you're bound by the limitations of the \"Mephisto\" agreement, because SOME people are so terrified of you that the thought of you NOT being separated from those cute little Dolls of your keeps them up at night~"
+			"senContent": "Naturally, I understand that you're bound by the limitations of the \"Mephisto\" agreement, because SOME people are so terrified of you that the thought of you NOT being separated from those cute little Dolls of yours keeps them up at night~"
 		},
 		{
 			"id": 213005014,
@@ -57490,7 +57490,7 @@
 		},
 		{
 			"id": 213005019,
-			"senContent": "(All this while, I'd thought that I'd completed my mission, so I didn't want to experience those despair-inducing things again — things like watching my friends die and sacrificing my subordinates.)"
+			"senContent": "(All this while, I'd thought that I'd completed my mission, so I didn't want to experience those despair-inducing things again—things like watching my friends die and sacrificing my subordinates.)"
 		},
 		{
 			"id": 213005020,
@@ -57546,7 +57546,7 @@
 		},
 		{
 			"id": 213005033,
-			"senContent": "No, Leva - that is to say, 45 - is still on a mission with Kalin now."
+			"senContent": "No, Leva—that is to say, 45—is still on a mission with Miss Kalin now."
 		},
 		{
 			"id": 213005034,
@@ -57562,7 +57562,7 @@
 		},
 		{
 			"id": 213005037,
-			"senContent": "That way, you'll be making contact with them through a request posted by the NMFA. Doing that shouldn't cause too many problems."
+			"senContent": "That way, you'll be making contact with them through a request posted by the NOMFA. Doing that shouldn't cause too many problems."
 		},
 		{
 			"id": 213005038,
@@ -57574,7 +57574,7 @@
 		},
 		{
 			"id": 213005040,
-			"senContent": "Also, there's something else which is more important— like I said earlier, Helena needs to get to Kyiv by some other way..."
+			"senContent": "Also, there's something else which is more important—like I said earlier, Helena needs to get to Kyiv by some other way..."
 		},
 		{
 			"id": 213005041,
@@ -57606,7 +57606,7 @@
 		},
 		{
 			"id": 213005048,
-			"senContent": "While the intercontinental railway and the cities it passes through might not be 100% safe, at least the enemy won't be able to attack them so openly. In comparison, moving through the contaminated zones is riskier."
+			"senContent": "While the intercontinental railway and the cities it passes through might not be 100% safe, at least the enemy won't be able to attack them so openly. In comparison, moving through the contamination zones is riskier."
 		},
 		{
 			"id": 213005049,
@@ -57622,7 +57622,7 @@
 		},
 		{
 			"id": 213005052,
-			"senContent": "Who knows, you might end up \"encountering\" lots of friends of the road to Kyiv..."
+			"senContent": "Who knows, you might end up \"encountering\" lots of friends along the way to Kyiv..."
 		},
 		{
 			"id": 213005053,
@@ -57778,7 +57778,7 @@
 		},
 		{
 			"id": 213005091,
-			"senContent": "As you know, Kyiv is within the NMFA's sphere of influence, and it also has a place where Helena can get treatment, so we need to get her there safely ASAP."
+			"senContent": "As you know, Kyiv is within the NOMFA's sphere of influence, and it also has a place where Helena can get treatment, so we need to get her there safely ASAP."
 		},
 		{
 			"id": 213005092,
@@ -57874,7 +57874,7 @@
 		},
 		{
 			"id": 213005115,
-			"senContent": "(I rub my temples. I know what Groza's trying to say without her having to actually put it into words. Maybe ditching her would make things easier for me, but for some reason, I KNOW that I can't do that.)"
+			"senContent": "(I rub my temples. I know what Groza's trying to say without her having to actually put it into words. Maybe forgetting about the past would make things easier for me, but for some reason, I KNOW that I can't do that.)"
 		},
 		{
 			"id": 213005116,
@@ -58130,11 +58130,11 @@
 		},
 		{
 			"id": 213006048,
-			"senContent": "There were three floating orbs around you just now. They flew away when we approached you."
+			"senContent": "There were three floating spheres around you just now. They flew away when we approached you."
 		},
 		{
 			"id": 213006049,
-			"senContent": "Floating orbs..."
+			"senContent": "Floating spheres..."
 		},
 		{
 			"id": 213006050,
@@ -58234,7 +58234,7 @@
 		},
 		{
 			"id": 213006074,
-			"senContent": "Those orbs flew this way too. Maybe they went inside?"
+			"senContent": "Those spheres flew this way too. Maybe they went inside?"
 		},
 		{
 			"id": 213006075,
@@ -58298,7 +58298,7 @@
 		},
 		{
 			"id": 213006090,
-			"senContent": "From their coordinates, they seem to be far below us. Perhaps there's another faciity below."
+			"senContent": "From their coordinates, they seem to be far below us. Perhaps there's another facility below."
 		},
 		{
 			"id": 213006091,
@@ -58310,7 +58310,7 @@
 		},
 		{
 			"id": 213006093,
-			"senContent": "Looks like your instincts  are as accurate as ever, Daiyan."
+			"senContent": "Looks like your instincts are as accurate as ever, Daiyan."
 		},
 		{
 			"id": 213006094,
@@ -58342,7 +58342,7 @@
 		},
 		{
 			"id": 213007003,
-			"senContent": "(However, there was something strange about Groza's expression, especially when I was discussing the past with her. Still, she's the Doll squad leader, so she ought to be able to handle it.)"
+			"senContent": "(However, there was something strange about Groza's expression, especially when I was discussing the past with her. Still, she's the Doll team leader, so she ought to be able to handle it.)"
 		},
 		{
 			"id": 213007004,
@@ -58350,7 +58350,7 @@
 		},
 		{
 			"id": 213007005,
-			"senContent": "(The conclusion I reached is that I can rely on my own flexibility and Kalin's resources to take care of things in the city, but in the contaminated zones, Squad 404 needs fire support from the Dolls.)"
+			"senContent": "(The conclusion I reached is that I can rely on my own flexibility and Kalin's resources to take care of things in the city, but in the contamination zones, Squad 404 needs fire support from the Dolls.)"
 		},
 		{
 			"id": 213007006,
@@ -58686,7 +58686,7 @@
 		},
 		{
 			"id": 213007089,
-			"senContent": "I upgraded daughter forks of my neural cloud and had them learn and grow until they became autonomous intelligences who could work on my behalf~"
+			"senContent": "I upgraded daughter forks of my virtual cognition image and had them learn and grow until they became autonomous intelligences who could work on my behalf~"
 		},
 		{
 			"id": 213007090,
@@ -58790,7 +58790,7 @@
 		},
 		{
 			"id": 213007115,
-			"senContent": "Helena's going to be spending a long time out of the contaminated zone this time round. Is she alright?"
+			"senContent": "Helena's going to be spending a long time out of the contamination zone this time round. Is she alright?"
 		},
 		{
 			"id": 213007116,
@@ -58798,7 +58798,7 @@
 		},
 		{
 			"id": 213007117,
-			"senContent": "Also, I modified my Remolding Pattern. Now it can dispense Collapse Particles for Helena to absorb. That way her body won't degenerate too quickly."
+			"senContent": "Also, I modified my Remolding Pattern. Now it can dispense Collapse particles for Helena to absorb. That way her body won't degenerate too quickly."
 		},
 		{
 			"id": 213007118,
@@ -58954,7 +58954,7 @@
 		},
 		{
 			"id": 213007156,
-			"senContent": "There you go again, Commander. You get embarrassed when a girl praises you, even when it's a young one doing it"
+			"senContent": "There you go again, Commander. You get embarrassed when a girl praises you, even when it's a young one doing it."
 		},
 		{
 			"id": 213007157,
@@ -59118,11 +59118,11 @@
 		},
 		{
 			"id": 213007197,
-			"senContent": "(The box instantly transforms into the three orbs and I hurry to grab the Dinergate as the shockwave of the transformation tosses it aside.)"
+			"senContent": "(The box instantly transforms into the three spheres and I hurry to grab the Dinergate as the shockwave of the transformation tosses it aside.)"
 		},
 		{
 			"id": 213007198,
-			"senContent": "(The orbs fly over to Helena, slice her free of her safety belts and carry her into the air.)"
+			"senContent": "(The spheres fly over to Helena, slice her free of her safety belts and carry her into the air.)"
 		},
 		{
 			"id": 213007199,
@@ -59130,11 +59130,11 @@
 		},
 		{
 			"id": 213007200,
-			"senContent": "(After glancing coldly at Colphne, Helena flies free of the drone, ensconced within the embrace of her orbs, and swiftly disappears into the clouds.)"
+			"senContent": "(After glancing coldly at Colphne, Helena flies free of the drone, ensconced within the embrace of her spheres, and swiftly disappears into the clouds.)"
 		},
 		{
 			"id": 213007201,
-			"senContent": "(The disruption from the orbs makes the drone shake violently and I hold on tight to the handrails to try and keep my balance.)"
+			"senContent": "(The disruption from the spheres makes the drone shake violently and I hold on tight to the handrails to try and keep my balance.)"
 		},
 		{
 			"id": 213007202,
@@ -59162,7 +59162,7 @@
 		},
 		{
 			"id": 213007208,
-			"senContent": "(All I can do now is left Mayling handle things. I hold onto the handrail for dear life, and the blood surging into my brain makes me feel like I'm going to puke my guts out.)"
+			"senContent": "(All I can do now is let Mayling handle things. I hold onto the handrail for dear life, and the blood surging into my brain makes me feel like I'm going to puke my guts out.)"
 		},
 		{
 			"id": 213007209,
@@ -59178,15 +59178,15 @@
 		},
 		{
 			"id": 213007212,
-			"senContent": "(The wind is blowing so hard I can barely open my eyes. I channel all my strength into sticking the Dinergate to the drone so I can free up a hand to cling ever righter to the handrail.)"
+			"senContent": "(The wind is blowing so hard I can barely open my eyes. I channel all my strength into sticking the Dinergate to the drone so I can free up a hand to cling ever tighter to the handrail.)"
 		},
 		{
 			"id": 213007213,
-			"senContent": "Pull up you son of a bitch PULL UP!"
+			"senContent": "Pull up. PULL UP!"
 		},
 		{
 			"id": 213007214,
-			"senContent": "(Mayling yells over the comm channel. I've never heard her use that kind of language before.)"
+			"senContent": "(Mayling yells over the comm channel. I've never heard her yell that loud before.)"
 		},
 		{
 			"id": 213007215,
@@ -59266,7 +59266,7 @@
 		},
 		{
 			"id": 213007234,
-			"senContent": "Perhaps Helena has something in common with those Isomers we've seen before."
+			"senContent": "Perhaps Helena has something in common with those Nytos we've seen before."
 		},
 		{
 			"id": 213007235,
@@ -59274,7 +59274,7 @@
 		},
 		{
 			"id": 213007236,
-			"senContent": "I thought so too... When we first received her, the words Helena O-43 were written inside her box's logs."
+			"senContent": "I thought so too... When we first received her, the words Helena_O43 were written inside her box's logs."
 		},
 		{
 			"id": 213007237,
@@ -59294,7 +59294,7 @@
 		},
 		{
 			"id": 213007241,
-			"senContent": "(Looking down, we can see the glow from Helena's orbs in the distance.)"
+			"senContent": "(Looking down, we can see the glow from Helena's spheres in the distance.)"
 		},
 		{
 			"id": 213007242,
@@ -59450,7 +59450,7 @@
 		},
 		{
 			"id": 213009005,
-			"senContent": "(Her defense systems are laying down suppressive fire on her attackers. The Boojum takes advantage of this and rampages wildly, knocking over multiple armed vehicles armed with heavy weapons.)"
+			"senContent": "(Her defense systems are laying down suppressive fire on her attackers. The Boojum takes advantage of this and rampages wildly, knocking over multiple vehicles armed with heavy weapons.)"
 		},
 		{
 			"id": 213009006,
@@ -59546,7 +59546,7 @@
 		},
 		{
 			"id": 213009029,
-			"senContent": "(The Dinergate flies ahead of us and clears out path. With Mayling's directions and Dandelion highlighting enemy positions, we quickly eliminate the scattered troopers that we encounter.)"
+			"senContent": "(The Dinergate flies ahead of us and clears out a path. With Mayling's directions and Dandelion highlighting enemy positions, we quickly eliminate the scattered troopers that we encounter.)"
 		},
 		{
 			"id": 213009030,
@@ -59562,7 +59562,7 @@
 		},
 		{
 			"id": 213009033,
-			"senContent": "Tsk... Dandelion, we're moving in to hack the  defense systems. Can you control them and bring Helena down?"
+			"senContent": "Tsk... Dandelion, we're moving in to hack the defense systems. Can you control them and bring Helena down?"
 		},
 		{
 			"id": 213009034,
@@ -59634,7 +59634,7 @@
 		},
 		{
 			"id": 213010003,
-			"senContent": "(We aren't too high up, but it's enough for us to see Helena's side of the battlefield."
+			"senContent": "(We aren't too high up, but it's enough for us to see Helena's side of the battlefield.)"
 		},
 		{
 			"id": 213010004,
@@ -59662,7 +59662,7 @@
 		},
 		{
 			"id": 213010010,
-			"senContent": "(The orbs begun to waver and they stop shooting. The Dinergate boldly flies up to Helena and begins to examine her.)"
+			"senContent": "(The spheres begun to waver and they stop shooting. The Dinergate boldly flies up to Helena and begins to examine her.)"
 		},
 		{
 			"id": 213010011,
@@ -59718,11 +59718,11 @@
 		},
 		{
 			"id": 213010024,
-			"senContent": "No!"
+			"senContent": "NO!"
 		},
 		{
 			"id": 213010025,
-			"senContent": "I can't leave those kids behind!"
+			"senContent": "I CAN'T LEAVE THOSE KIDS BEHIND!"
 		},
 		{
 			"id": 213010026,
@@ -59814,7 +59814,7 @@
 		},
 		{
 			"id": 213012011,
-			"senContent": "Their weapons are all new, they've got a full set of accessories, their armors are equipped with air filters, you can tell right away that they're designed for use in contaminated zones."
+			"senContent": "Their weapons are all new, they've got a full set of accessories, their armors are equipped with air filters, you can tell right away that they're designed for use in contamination zones."
 		},
 		{
 			"id": 213012012,
@@ -59986,7 +59986,7 @@
 		},
 		{
 			"id": 213012054,
-			"senContent": "(A single transfer station wouldn't have that much \"capacity\". They must have been brought here from various locations.)"
+			"senContent": "A single transfer station wouldn't have that much \"capacity\". They must have been brought here from various locations."
 		},
 		{
 			"id": 213012055,
@@ -60062,7 +60062,7 @@
 		},
 		{
 			"id": 213012073,
-			"senContent": "(A sonorous liturgy comes from the distance. Several dozen acolytes in long robes recite verses over and over again from where they're standing around a deep, steep pit.)"
+			"senContent": "(A sonorous liturgy comes from the distance. Several dozen Unitates in long robes recite verses over and over again from where they're standing around a deep, steep pit.)"
 		},
 		{
 			"id": 213012074,
@@ -60134,7 +60134,7 @@
 		},
 		{
 			"id": 213012091,
-			"senContent": "(Cries of fear come from among the unitates, but their bodies continue marching up to the pit. Their trembling is visible even through their robes as terror echoes among the congregation.)"
+			"senContent": "(Cries of fear come from among the Unitates, but their bodies continue marching up to the pit. Their trembling is visible even through their robes as terror echoes among the congregation.)"
 		},
 		{
 			"id": 213012092,
@@ -60142,7 +60142,7 @@
 		},
 		{
 			"id": 213012093,
-			"senContent": "(The followers pull out daggers in trembling hands and point them toward their own throats. Some people try to struggle against this, but their bodies do not heed their commands, as though they were not in control of their actions.)"
+			"senContent": "(The Unitates pull out daggers in trembling hands and point them toward their own throats. Some people try to struggle against this, but their bodies do not heed their commands, as though they were not in control of their actions.)"
 		},
 		{
 			"id": 213012094,
@@ -60150,7 +60150,7 @@
 		},
 		{
 			"id": 213012095,
-			"senContent": "(The daggers plunge in forcefully, just as the followers fall into the pit along with their blood. The dull thud of their bodies hitting the ground rouses the monster at the base of the pit.)"
+			"senContent": "(The daggers plunge in forcefully, just as the Unitates fall into the pit along with their blood. The dull thud of their bodies hitting the ground rouses the monster at the base of the pit.)"
 		},
 		{
 			"id": 213012096,
@@ -60170,7 +60170,7 @@
 		},
 		{
 			"id": 213012100,
-			"senContent": "Is Paradeus is feeding their followers to Boojums?"
+			"senContent": "Paradeus is feeding their followers to Boojums?"
 		},
 		{
 			"id": 213012101,
@@ -60326,11 +60326,11 @@
 		},
 		{
 			"id": 213013024,
-			"senContent": "Dammit... Is the Collapse Storm that close already..."
+			"senContent": "Dammit... Is the Collapse storm that close already..."
 		},
 		{
 			"id": 213013025,
-			"senContent": "Fortunately, I found you quickly enough. Otherwise you'd be enjoying another full immersion in a Collapse Storm."
+			"senContent": "Fortunately, I found you quickly enough. Otherwise you'd be enjoying another full immersion in a Collapse storm."
 		},
 		{
 			"id": 213013026,
@@ -60454,7 +60454,7 @@
 		},
 		{
 			"id": 213013056,
-			"senContent": "(I force myself to my feet. Looking back, the ruins under the thick black clouds look like a massive graveyard.)"
+			"senContent": "(I force myself to my feet. Looking back, the ruins under the thick dark clouds look like a massive graveyard.)"
 		},
 		{
 			"id": 213013057,
@@ -60498,7 +60498,7 @@
 		},
 		{
 			"id": 213014010,
-			"senContent": "They're traders who do business in the contaminated zones. Naturally, the URNC views them as smugglers."
+			"senContent": "They're traders who do business in the contamination zones. Naturally, the URNC views them as smugglers."
 		},
 		{
 			"id": 213014011,
@@ -60518,7 +60518,7 @@
 		},
 		{
 			"id": 213014015,
-			"senContent": "(In theory, Dandelion should probably not know about these people and things that are only found within the contaminated zones, but for some reason, I have the feeling she's already familiar with these things.)"
+			"senContent": "(In theory, Dandelion should probably not know about these people and things that are only found within the contamination zones, but for some reason, I have the feeling she's already familiar with these things.)"
 		},
 		{
 			"id": 213014016,
@@ -60538,11 +60538,11 @@
 		},
 		{
 			"id": 213014020,
-			"senContent": "(The Dinergate flies into the hole, and then the door which looks like it was broken suddenly grinds shut.)"
+			"senContent": "(The Dinergate flies into the hole, and then the shutter which looks like it was broken suddenly grinds shut.)"
 		},
 		{
 			"id": 213014021,
-			"senContent": "(The interior of the holes lights up and the sound of  machinery echoes all around. As I feel the ground below me start to tremble, I realize that I'm standing on an elevator platform.)"
+			"senContent": "(The interior of the hole lights up and the sound of machinery echoes all around. As I feel the ground below me start to tremble, I realize that I'm standing on an elevator platform.)"
 		},
 		{
 			"id": 213014022,
@@ -60550,7 +60550,7 @@
 		},
 		{
 			"id": 213014023,
-			"senContent": "(We are currently descending underground on the elevator. The Dinergate flies in the direction where the platfotm is headed.)"
+			"senContent": "(We are currently descending underground on the elevator. The Dinergate flies in the direction where the platform is headed.)"
 		},
 		{
 			"id": 213014024,
@@ -60642,7 +60642,7 @@
 		},
 		{
 			"id": 213014046,
-			"senContent": "Did you lose anything down there?"
+			"senContent": "Did anyone vanish down there?"
 		},
 		{
 			"id": 213014047,
@@ -60666,7 +60666,7 @@
 		},
 		{
 			"id": 213014052,
-			"senContent": "The person who answered me should not become the new sacrifice..."
+			"senContent": "The people who answered me should not become the new sacrifice..."
 		},
 		{
 			"id": 213014053,
@@ -60726,7 +60726,7 @@
 		},
 		{
 			"id": 213014067,
-			"senContent": "That makes me jealous. Would you come to save us like this if we were in danger?"
+			"senContent": "That makes me jealous. Would you come to save me like this if I were in danger?"
 		},
 		{
 			"id": 213014068,
@@ -60926,7 +60926,7 @@
 		},
 		{
 			"id": 213016026,
-			"senContent": "(Part of it included the details of Helena appearing and the Boojum vanishing, and there just so happened to be a Collapse Storm at the time too...)"
+			"senContent": "(Part of it included the details of Helena appearing and the Boojum vanishing, and there just so happened to be a Collapse storm at the time too...)"
 		},
 		{
 			"id": 213016027,
@@ -61070,7 +61070,7 @@
 		},
 		{
 			"id": 213016062,
-			"senContent": "Dandelion finds a port on the control terminal and skilfully connects the Dinergate's data cable to it. Upon seeing me slowly approach the tanks to see what's inside, she thoughtgully turns on the tank lights."
+			"senContent": "Dandelion finds a port on the control terminal and skillfully connects the Dinergate's data cable to it. Upon seeing me slowly approach the tanks to see what's inside, she thoughtfully turns on the tank lights."
 		},
 		{
 			"id": 213016063,
@@ -61078,7 +61078,7 @@
 		},
 		{
 			"id": 213016064,
-			"senContent": "(Each tank is roughly a meter or so in height and covered in clumsy prayers. There is some kind of vegetation whose name I can't quite remember at the bottom of the tanks, while there are humans of different physiques, looks and ages on the upper portions.)"
+			"senContent": "(Each tank is roughly a meter or so in height and covered in clumsy prayers. There is some kind of vegetation whose name I can't tell at the bottom of the tanks, while there are humans of different physiques, looks and ages on the upper portions.)"
 		},
 		{
 			"id": 213016065,
@@ -61162,7 +61162,7 @@
 		},
 		{
 			"id": 213016085,
-			"senContent": "Coudl it be that everyone in the village had been captured for experiments..."
+			"senContent": "Could it be that everyone in the village had been captured for experiments..."
 		},
 		{
 			"id": 213016086,
@@ -61186,7 +61186,7 @@
 		},
 		{
 			"id": 213016091,
-			"senContent": "Hm... There's a lot of missing information. My guess is they're experiments in fusing live humans with plants, using different concentrations of bonding fluid to catalyze the reaction."
+			"senContent": "Hm... There's a lot of missing information. My guess is they're conducting experiments in fusing live humans with plants, using different concentrations of bonding fluid to catalyze the reaction."
 		},
 		{
 			"id": 213016092,
@@ -61334,7 +61334,7 @@
 		},
 		{
 			"id": 213017011,
-			"senContent": "Atop the Boojum, below the three revolving orbs, I can barely make out a shadow vaguely shaped like a girl inside its body.)"
+			"senContent": "Atop the Boojum, below the three revolving orbs, a shadow vaguely shaped like a girl can be barely made out inside its body.)"
 		},
 		{
 			"id": 213017012,
@@ -61406,7 +61406,7 @@
 		},
 		{
 			"id": 213018007,
-			"senContent": "(But just then, the orb on the Boojum's head shines with a blinding like. Niter's face fills with savage glee, as though she's heard something.)"
+			"senContent": "(But just then, the sphere on the Boojum's head start to shine with a blinding light. Niter's face fills with savage glee, as though she's heard something.)"
 		},
 		{
 			"id": 213018008,
@@ -61414,11 +61414,11 @@
 		},
 		{
 			"id": 213018009,
-			"senContent": "(The orb shines and light slices open the Boojum's body. Helena slowly floats into view, and despite the Boojum's wounds spewing slime everywhere, her body is not touched by any of it.)"
+			"senContent": "(The sphere shine and light slices open the Boojum's body. Helena slowly floats into view, and despite the Boojum's wounds spewing slime everywhere, her body is not touched by any of it.)"
 		},
 		{
 			"id": 213018010,
-			"senContent": "(The Boojum howls in agony, but Helena pays it no heed. All she does it glare coldly at Niter.)"
+			"senContent": "(The Boojum howls in agony, but Helena pays it no heed. All she does is glare coldly at Niter.)"
 		},
 		{
 			"id": 213018011,
@@ -61426,7 +61426,7 @@
 		},
 		{
 			"id": 213018012,
-			"senContent": "(However, her face turns pale and her face twists as she roars in anger.)"
+			"senContent": "(However, her face turns pale and twists as she roars in anger.)"
 		},
 		{
 			"id": 213018013,
@@ -61434,7 +61434,7 @@
 		},
 		{
 			"id": 213018014,
-			"senContent": "You are not her!!"
+			"senContent": "You are not her!!!"
 		},
 		{
 			"id": 213018015,
@@ -61546,7 +61546,7 @@
 		},
 		{
 			"id": 213018042,
-			"senContent": "(However, the orbs glow and the bullets are easily melted. The Helena in mid-air looks down scornfully toward the ground, making her final statement.)"
+			"senContent": "(However, the spheres glow and the bullets are easily melted. The Helena in mid-air looks down scornfully toward the ground, making her final statement.)"
 		},
 		{
 			"id": 213018043,
@@ -61562,7 +61562,7 @@
 		},
 		{
 			"id": 213018046,
-			"senContent": "(The orbs begin to circle the airborne Helena. An energy beam gathers between the orbs and it looks like it's about to fire.)"
+			"senContent": "(The spheres begin to circle the airborne Helena. An energy beam gathers between the orbs and it looks like it's about to fire.)"
 		},
 		{
 			"id": 213018047,
@@ -61630,7 +61630,7 @@
 		},
 		{
 			"id": 213018063,
-			"senContent": "(Colphne happily flashes me a thumbs up, then she looks at the Colphne in the air before exclaiming in surprise.)"
+			"senContent": "(Colphne happily flashes me a thumbs up, then she looks at the Helena in the air before exclaiming in surprise.)"
 		},
 		{
 			"id": 213018064,
@@ -61670,7 +61670,7 @@
 		},
 		{
 			"id": 213018073,
-			"senContent": "Didn't that mercenary just now said there were reinforcements incoming?"
+			"senContent": "Didn't that PMC just now said there were reinforcements incoming?"
 		},
 		{
 			"id": 213018074,
@@ -68394,7 +68394,7 @@
 		},
 		{
 			"id": 300503079,
-			"senContent": "It's just that...|Leader Groza won't have the chanec to put a gun to my head for a bit."
+			"senContent": "It's just that...|Leader Groza won't have the chance to put a gun to my head for a bit."
 		},
 		{
 			"id": 300503080,
@@ -68462,7 +68462,7 @@
 		},
 		{
 			"id": 300503096,
-			"senContent": "And, if my judgment was poor and I attacked the wrong node, the results could have been so mcuh worse."
+			"senContent": "And, if my judgment was poor and I attacked the wrong node, the results could have been so much worse."
 		},
 		{
 			"id": 300503097,
@@ -68474,7 +68474,7 @@
 		},
 		{
 			"id": 300504001,
-			"senContent": "(The rains have ceased, and quietude covers the surroundings. There is only the sound of flowing waterfrom a faraway cistern.)"
+			"senContent": "(The rains has ceased, and quietude covers the surroundings. There is only the sound of flowing water from a faraway cistern.)"
 		},
 		{
 			"id": 300504002,
@@ -68562,7 +68562,7 @@
 		},
 		{
 			"id": 300504023,
-			"senContent": "(Peritya extends a hand, hooking her index finger. The blue streamsform up like a school of fish, swimming over Peritya's arm.)"
+			"senContent": "(Peritya extends a hand, hooking her index finger. The blue streams form up like a school of fish, swimming over Peritya's arm.)"
 		},
 		{
 			"id": 300504024,
@@ -117186,7 +117186,7 @@
 		},
 		{
 			"id": 501003020,
-			"senContent": "The Commander?"
+			"senContent": "Commander?"
 		},
 		{
 			"id": 501003021,
@@ -119538,7 +119538,7 @@
 		},
 		{
 			"id": 501803049,
-			"senContent": "Commander, do you remember the borken jade bangle I showed you earlier? This is based on the idea of \"preserving the bangle's break\" which you mentioned before..."
+			"senContent": "Commander, do you remember the broken jade bangle I showed you earlier? This is based on the idea of \"preserving the bangle's break\" which you mentioned before..."
 		},
 		{
 			"id": 501803050,
@@ -120050,7 +120050,7 @@
 		},
 		{
 			"id": 503001043,
-			"senContent": "Ah—I should write this down too. When the Commander is bored, provide skinship or play with the Commander. Oh! Papasha can do that too!."
+			"senContent": "Ah—I should write this down too. When the Commander is bored, provide skinship or play with the Commander. Oh! Papasha can do that too!"
 		},
 		{
 			"id": 503001044,
@@ -120102,7 +120102,7 @@
 		},
 		{
 			"id": 503002002,
-			"senContent": "(However— A familiar figure keeps appearing within my peripheral vision. Sometimes it comes in but exits the ops room right away, and sometimes it fiddles with a console in the room, their eyes observing me.)"
+			"senContent": "(However—A familiar figure keeps appearing within my peripheral vision. Sometimes it comes in but exits the ops room right away, and sometimes it fiddles with a console in the room, with its eyes observing me.)"
 		},
 		{
 			"id": 503002003,
@@ -120114,7 +120114,7 @@
 		},
 		{
 			"id": 503002005,
-			"senContent": "Ah! I...I wanted to ask, have you thought of it yet?"
+			"senContent": "Ah! I... I wanted to ask, have you thought of it yet?"
 		},
 		{
 			"id": 503002006,
@@ -120198,7 +120198,7 @@
 		},
 		{
 			"id": 503002026,
-			"senContent": "(A smile has appeared on Papasha's face ever since I said the words \"clean the ops room\".)"
+			"senContent": "(A smile has appeared on Papasha's face ever since I said the words \"clean up this place\".)"
 		},
 		{
 			"id": 503002027,
@@ -120362,7 +120362,7 @@
 		},
 		{
 			"id": 503003012,
-			"senContent": "I–I admit it! I've been peeking at you again... But I made sure I didn't didn't delay any work, I'm just coming over in my free time..."
+			"senContent": "I–I admit it! I've been peeking at you again... But I made sure I didn't delay any work, I'm just coming over in my free time..."
 		},
 		{
 			"id": 503003013,
@@ -120454,7 +120454,7 @@
 		},
 		{
 			"id": 503003035,
-			"senContent": "(Papasha's hands droop. Her always-positive yet serious face became dejected.)"
+			"senContent": "(Papasha's hands droop. Her always-positive yet serious face becomes dejected.)"
 		},
 		{
 			"id": 503003036,
@@ -120542,7 +120542,7 @@
 		},
 		{
 			"id": 503003057,
-			"senContent": "(I pat Papasha on the head. Only then did she start to look up and give me a smile.)"
+			"senContent": "(I pat Papasha on the head. Only then does she start to look up and give me a smile.)"
 		},
 		{
 			"id": 503003058,
@@ -120562,7 +120562,7 @@
 		},
 		{
 			"id": 503004002,
-			"senContent": "Ah, Commander! I— Ow!"
+			"senContent": "Ah, Commander! I—Ow!"
 		},
 		{
 			"id": 503004003,
@@ -120638,7 +120638,7 @@
 		},
 		{
 			"id": 503004021,
-			"senContent": "(Just like how you kept asking me. Likewise, do you have something you would like me to do for you, Papasha?)"
+			"senContent": "Just like how you kept asking me. Likewise, do you have something you would like me to do for you, Papasha?"
 		},
 		{
 			"id": 503004022,
@@ -120646,7 +120646,7 @@
 		},
 		{
 			"id": 503004023,
-			"senContent": "I...I... If that's how you put it, I...do have something..."
+			"senContent": "I...I... If that's how you put it, I... do have something..."
 		},
 		{
 			"id": 503004024,

@@ -2094,7 +2094,7 @@
 		},
 		{
 			"id": 45030,
-			"chars": "<COLOR=#F26C1C>{0}</COLOR> to unlock the skin"
+			"chars": "Unlockable in <COLOR=#F26C1C>{0}</COLOR>"
 		},
 		{
 			"id": 45031,
@@ -4666,7 +4666,7 @@
 		},
 		{
 			"id": 90204,
-			"chars": "Lock-on"
+			"chars": "Confirm Lock"
 		},
 		{
 			"id": 90205,
@@ -8701,10 +8701,6 @@
 			"chars": "You've detected a subgroup difference, would you like to proceed?"
 		},
 		{
-			"id": 111020,
-			"chars": "Enemies within the horde will be much stronger, please consider your decision carefully!"
-		},
-		{
 			"id": 111021,
 			"chars": "Purchase"
 		},
@@ -9402,7 +9398,7 @@
 		},
 		{
 			"id": 120027,
-			"chars": "Confirm Use"
+			"chars": "Confirm"
 		},
 		{
 			"id": 120028,
@@ -10846,7 +10842,7 @@
 		},
 		{
 			"id": 180179,
-			"chars": "Exit Temporaily"
+			"chars": "Leave Temp."
 		},
 		{
 			"id": 180180,
@@ -13022,7 +13018,7 @@
 		},
 		{
 			"id": 251016,
-			"chars": "Search attachments"
+			"chars": "Search Attachments"
 		},
 		{
 			"id": 251017,
@@ -13118,7 +13114,7 @@
 		},
 		{
 			"id": 251040,
-			"chars": "Lock-on"
+			"chars": "Confirm Lock"
 		},
 		{
 			"id": 251041,
@@ -14470,7 +14466,7 @@
 		},
 		{
 			"id": 270050,
-			"chars": "Obtain rewards"
+			"chars": "Rewards obtained"
 		},
 		{
 			"id": 270051,
@@ -16810,7 +16806,7 @@
 		},
 		{
 			"id": 290010,
-			"chars": "Total Offensive and Defensive Matches"
+			"chars": "Total Matches (Off. & Def.)"
 		},
 		{
 			"id": 290011,
@@ -16874,7 +16870,7 @@
 		},
 		{
 			"id": 290402,
-			"chars": "Confirm Use"
+			"chars": "Confirm"
 		},
 		{
 			"id": 290403,
@@ -19210,7 +19206,7 @@
 		},
 		{
 			"id": 390088,
-			"chars": "Appointed as Deputy Platoon Leader"
+			"chars": "Appoint as Deputy Platoon Leader"
 		},
 		{
 			"id": 390089,
@@ -19218,7 +19214,7 @@
 		},
 		{
 			"id": 390090,
-			"chars": "Transition to Platoon leader"
+			"chars": "Set as Platoon Leader"
 		},
 		{
 			"id": 390091,
@@ -19266,11 +19262,11 @@
 		},
 		{
 			"id": 390102,
-			"chars": "Appointed as Deputy Platoon Leader"
+			"chars": "Appoint as Deputy Platoon Leader"
 		},
 		{
 			"id": 390103,
-			"chars": "After being promoted to the position of Assistant Platoon Leader, this member will gain managerial privileges."
+			"chars": "After being promoted to the Deputy Platoon Leader, this member will gain managerial privileges."
 		},
 		{
 			"id": 390104,
@@ -19286,7 +19282,7 @@
 		},
 		{
 			"id": 390107,
-			"chars": "Transition to Platoon leader"
+			"chars": "Set as Platoon Leader"
 		},
 		{
 			"id": 390108,
@@ -19490,7 +19486,7 @@
 		},
 		{
 			"id": 390158,
-			"chars": "Take a break"
+			"chars": "On Break"
 		},
 		{
 			"id": 390159,
@@ -21802,7 +21798,7 @@
 		},
 		{
 			"id": 410143,
-			"chars": "Obtain rewards"
+			"chars": "Rewards obtained"
 		},
 		{
 			"id": 410144,
@@ -22218,7 +22214,7 @@
 		},
 		{
 			"id": 430040,
-			"chars": "Exit Temporaily"
+			"chars": "Leave Temp."
 		},
 		{
 			"id": 430041,
@@ -22827,6 +22823,10 @@
 		{
 			"id": 600008,
 			"chars": "{0} seconds left"
+		},
+		{
+			"id": 600009,
+			"chars": "You are not logged in to your Steam account. Please launch the game from Steam after logging in to your Steam account."
 		},
 		{
 			"id": 900001,

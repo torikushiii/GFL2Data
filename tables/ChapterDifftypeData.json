@@ -442,7 +442,7 @@
 			"relation": 101,
 			"notes": 1,
 			"tabName": "剧情模式",
-			"planId": 50038,
+			"planId": 1000000,
 			"unlock": [
 				29301
 			],
@@ -982,7 +982,7 @@
 			"relation": 201,
 			"notes": 1,
 			"tabName": "物资模式",
-			"planId": 51023,
+			"planId": 1000001,
 			"unlock": [
 				93001
 			],
@@ -1120,7 +1120,7 @@
 			"type": 4,
 			"stageGroup": 994001,
 			"tabName": "挑战模式",
-			"planId": 51024,
+			"planId": 1000002,
 			"chapterDes": "",
 			"background": "Img_Branch_Daiyan",
 			"mapBackground": "Img_Daiyan_ChapterBg_1",

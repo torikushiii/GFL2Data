@@ -85,6 +85,12 @@
 			"soundPath": 7100160
 		},
 		{
+			"id": 1002101,
+			"model": "ColphneR01",
+			"soundType": 101,
+			"soundPath": 7100244
+		},
+		{
 			"id": 1002102,
 			"model": "ColphneR01",
 			"soundType": 102,

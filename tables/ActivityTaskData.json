@@ -1432,6 +1432,25 @@
 			"conditionArg2": 0
 		},
 		{
+			"id": 35101,
+			"taskGroup": 351,
+			"name": "Daily Indicator 1",
+			"des": "Attempt Cloud Exercise once",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 901,
+			"conditionNum": 1,
+			"conditionArg0": 103,
+			"conditionArg1": 3002,
+			"rewardList": [
+				"170104:1",
+				"170105:1",
+				"2:500"
+			],
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
 			"id": 35102,
 			"taskGroup": 351,
 			"name": "Daily Indicator 2",

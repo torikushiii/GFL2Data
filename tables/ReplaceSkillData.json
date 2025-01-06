@@ -1,6 +1,27 @@
 {
 	"data": [
 		{
+			"id": 1,
+			"beforeSkillGroupId1": [
+				101
+			],
+			"nowSkillGroupId1": [
+				201
+			],
+			"beforeSkillGroupId2": [
+				102
+			],
+			"nowSkillGroupId2": [
+				202
+			],
+			"beforeSkillGroupId3": [
+				103
+			],
+			"nowSkillGroupId3": [
+				203
+			]
+		},
+		{
 			"id": 2,
 			"beforeSkillGroupId1": [
 				0

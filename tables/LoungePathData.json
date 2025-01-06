@@ -37,15 +37,6 @@
 			"point": ""
 		},
 		{
-			"id": 203,
-			"name": "A2",
-			"endPoint": "A3",
-			"ifReturn": true,
-			"point": "B2.B1;",
-			"mark": "沙发到床",
-			"ifLoop": false
-		},
-		{
 			"id": 601,
 			"name": "A1",
 			"endPoint": "A1",

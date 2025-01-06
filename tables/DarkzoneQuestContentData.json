@@ -423,12 +423,6 @@
 			"targetArgs": {}
 		},
 		{
-			"targetId": 112601,
-			"targetName": "Find the evacuation signal station and evacuate",
-			"targetType": 0,
-			"targetArgs": {}
-		},
-		{
 			"targetId": 112701,
 			"targetName": "Find and eliminate Giordre",
 			"targetType": 1,

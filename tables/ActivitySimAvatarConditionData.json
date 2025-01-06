@@ -43,6 +43,12 @@
 			"avatarId": 0
 		},
 		{
+			"id": 200101,
+			"articleId": 999,
+			"pointId": 0,
+			"avatarId": 0
+		},
+		{
 			"id": 200102,
 			"articleId": 998,
 			"pointId": 0,

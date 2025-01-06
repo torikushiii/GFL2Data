@@ -1,6 +1,11 @@
 {
 	"data": [
 		{
+			"id": 2,
+			"name": "Light Ammo",
+			"icon": "Icon_BulletHit_Light"
+		},
+		{
 			"id": 4,
 			"name": "Medium Ammo",
 			"icon": "Icon_BulletHit_Middle"

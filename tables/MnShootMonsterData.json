@@ -36,6 +36,11 @@
 			"spine": "Golyat"
 		},
 		{
+			"id": 21,
+			"skinid": "02",
+			"spine": "Aegis02"
+		},
+		{
 			"id": 22,
 			"skinid": "03",
 			"spine": "Aegis02"

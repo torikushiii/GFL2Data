@@ -52,7 +52,7 @@
 		},
 		{
 			"id": 11,
-			"keyWord": "Lock-on",
+			"keyWord": "Confirm Lock",
 			"explanation": "Locks onto a target and attacks it on the next turn."
 		},
 		{
