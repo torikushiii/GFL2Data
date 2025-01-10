@@ -8701,6 +8701,10 @@
 			"chars": "You've detected a subgroup difference, would you like to proceed?"
 		},
 		{
+			"id": 111020,
+			"chars": "Enemies within the horde will be much stronger, please consider your decision carefully!"
+		},
+		{
 			"id": 111021,
 			"chars": "Purchase"
 		},
@@ -22829,6 +22833,10 @@
 			"chars": "You are not logged in to your Steam account. Please launch the game from Steam after logging in to your Steam account."
 		},
 		{
+			"id": 600010,
+			"chars": "On Sale"
+		},
+		{
 			"id": 900001,
 			"chars": "Underground Guild"
 		},
@@ -26746,7 +26754,7 @@
 		},
 		{
 			"id": 3300022,
-			"chars": "Accumulate {1} points to unlock {0}"
+			"chars": "Accumulate {1} points in {0} to unlock"
 		},
 		{
 			"id": 3300023,

@@ -331,6 +331,16 @@
 			"triggerCount": 1
 		},
 		{
+			"id": 1100,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
 			"id": 1900,
 			"create": 1,
 			"lifetime": -1,

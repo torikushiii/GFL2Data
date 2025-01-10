@@ -8374,6 +8374,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 410411,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocked when Lotta reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 410412,
 			"group": 1,
 			"name": "Unlock Doll Archive",

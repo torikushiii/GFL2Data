@@ -64,13 +64,6 @@
 			"jump": 0
 		},
 		{
-			"id": 21000,
-			"name": "Mail",
-			"type": 1,
-			"sort": 2,
-			"jump": 0
-		},
-		{
 			"id": 22000,
 			"name": "Notice",
 			"type": 1,

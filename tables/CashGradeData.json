@@ -130,20 +130,6 @@
 			"autoOpen": true
 		},
 		{
-			"id": 10,
-			"gradeGroupId": 3,
-			"gradeId": 2,
-			"gradeIcon": "Icon_SimcombatGold_Rated_2_S",
-			"minScore": 150,
-			"awardDropList": [
-				261026
-			],
-			"awardDropViewList": {
-				"2": 240
-			},
-			"autoOpen": true
-		},
-		{
 			"id": 11,
 			"gradeGroupId": 3,
 			"gradeId": 3,
