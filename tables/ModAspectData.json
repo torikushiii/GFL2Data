@@ -553,6 +553,14 @@
 			]
 		},
 		{
+			"aspectId": 102131,
+			"fatherType": 1,
+			"type": 1021,
+			"modelIdGroup": [
+				1021311
+			]
+		},
+		{
 			"aspectId": 102132,
 			"fatherType": 1,
 			"type": 1021,

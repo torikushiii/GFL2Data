@@ -314,17 +314,6 @@
 			"isTpsShootCamera": 0
 		},
 		{
-			"id": 30,
-			"name": "CharolicSR01_Ultraskill",
-			"type": 21,
-			"prefab": [
-				"SkillTimeline/CharolicSR01/CharolicSR01_UltraSkill"
-			],
-			"tacticReplace": 30,
-			"batchTypeId": 0,
-			"isTpsShootCamera": 0
-		},
-		{
 			"id": 31,
 			"name": "OnPreAim",
 			"type": 20,

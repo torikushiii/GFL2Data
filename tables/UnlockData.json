@@ -1443,6 +1443,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 23000,
+			"condition": [
+				99100
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Comms",
+			"unlockName": "Friend",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 23001,
 			"condition": [
 				99100

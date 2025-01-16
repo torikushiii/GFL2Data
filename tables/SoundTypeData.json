@@ -229,12 +229,6 @@
 			"soundPath": 7100351
 		},
 		{
-			"id": 1003301,
-			"model": "NemesisR01",
-			"soundType": 301,
-			"soundPath": 7100355
-		},
-		{
 			"id": 1003302,
 			"model": "NemesisR01",
 			"soundType": 302,

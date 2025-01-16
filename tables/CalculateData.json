@@ -4311,16 +4311,6 @@
 			"moldParameter": ""
 		},
 		{
-			"id": 910120402,
-			"formula": "1000/{0}",
-			"parameter": "2:max_hp,0",
-			"dynamicParameter": "",
-			"potentialParameter": "",
-			"distenceParameter": "",
-			"buffParameter": "",
-			"moldParameter": ""
-		},
-		{
 			"id": 910120403,
 			"formula": "{0}*0.5",
 			"parameter": "1:pow,0",

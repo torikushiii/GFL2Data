@@ -795,6 +795,32 @@
 			"description": "Capture at least 3 Control Points within the first 9 turns"
 		},
 		{
+			"id": 10840,
+			"type": 34,
+			"args": [
+				"4"
+			],
+			"argsFail": [
+				"4"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points"
+		},
+		{
+			"id": 10841,
+			"type": 33,
+			"args": [
+				"4",
+				"1"
+			],
+			"argsFail": [
+				"4",
+				"1"
+			],
+			"title": "Swift as the Wind",
+			"description": "Capture at least 4 Control Points in the first turn"
+		},
+		{
 			"id": 10842,
 			"type": 33,
 			"args": [

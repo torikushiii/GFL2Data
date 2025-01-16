@@ -223,6 +223,13 @@
 			"unlockDes": "In the brilliance of the spotlight, the performer's face shines resplendently.\nThis heartfelt gift from the Doll unlocks when Affinity with Vepley reaches Level 6.",
 			"displayConfig": 1,
 			"sort": 3006
+		},
+		{
+			"id": 24066,
+			"icon": "Item_HeadFrame_Love_Suomi",
+			"unlockDes": "Savor this deep and rich feeling.\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Suomi.",
+			"displayConfig": 1,
+			"sort": 3010
 		}
 	]
 }

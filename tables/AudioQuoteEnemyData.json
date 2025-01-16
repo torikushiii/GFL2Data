@@ -1543,6 +1543,13 @@
 			"audioVoice": 0
 		},
 		{
+			"Id": 68521,
+			"typeCode": 2,
+			"model": "MISC_EnemyBeTokenWarning",
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
 			"Id": 68631,
 			"cuesheetUsed": [
 				"EN_SFG_Blusphere02_Summon"

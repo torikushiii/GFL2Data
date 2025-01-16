@@ -46,21 +46,6 @@
 			"transition": 0
 		},
 		{
-			"id": 201,
-			"position": "FixCamera_201",
-			"cameratype": 1,
-			"coverpathpoint": [
-				1,
-				8
-			],
-			"area": 2,
-			"rotationdegree": [
-				0,
-				360
-			],
-			"transition": 0
-		},
-		{
 			"id": 202,
 			"position": "FixCamera_202",
 			"cameratype": 1,

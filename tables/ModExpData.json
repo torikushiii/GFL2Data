@@ -271,6 +271,24 @@
 			"money": 1
 		},
 		{
+			"id": 2101,
+			"rank": 2,
+			"quality": 1,
+			"level": 1,
+			"money": 1,
+			"exp": 0,
+			"expTotal": 0
+		},
+		{
+			"id": 2102,
+			"rank": 2,
+			"quality": 1,
+			"level": 2,
+			"exp": 8,
+			"expTotal": 8,
+			"money": 1
+		},
+		{
 			"id": 2103,
 			"rank": 2,
 			"quality": 1,

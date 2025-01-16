@@ -190,26 +190,6 @@
 			"o_KELCOAHGKGO": []
 		},
 		{
-			"id": 10,
-			"maxLevel": 8,
-			"levelId": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8
-			],
-			"bCost": {
-				"304": 1
-			},
-			"bName": "Overclock Simulation",
-			"bBossIntegral": 1,
-			"o_KELCOAHGKGO": []
-		},
-		{
 			"id": 11,
 			"maxLevel": 8,
 			"levelId": [

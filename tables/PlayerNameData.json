@@ -157,10 +157,6 @@
 			"name": "Atlee"
 		},
 		{
-			"id": 40,
-			"name": "Augustine"
-		},
-		{
 			"id": 41,
 			"name": "Augustus"
 		},
@@ -355,6 +351,14 @@
 		{
 			"id": 89,
 			"name": "Beaton"
+		},
+		{
+			"id": 90,
+			"name": "Bethune"
+		},
+		{
+			"id": 91,
+			"name": "Betsy"
 		},
 		{
 			"id": 92,

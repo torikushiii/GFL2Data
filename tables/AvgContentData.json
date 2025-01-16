@@ -57326,7 +57326,7 @@
 		},
 		{
 			"id": 213004166,
-			"senContent": "No no, it's just a tiny adjustment. Our prior decisions might have been leaked and Miss Kalin's still looking for the source of the leak. Until then, we'll be transferring Helena to a reliable faction."
+			"senContent": "Our prior decisions might have been leaked, and Miss Kalin's still looking for its source. Until then, we'll be transferring Helena to a reliable group."
 		},
 		{
 			"id": 213004167,
@@ -57562,15 +57562,15 @@
 		},
 		{
 			"id": 213005040,
-			"senContent": "Also, there's something else which is more important—like I said earlier, Helena needs to get to Kyiv by some other way..."
+			"senContent": "Also, there's something else which is more important— like I said earlier, Helena needs to get to Lviv."
 		},
 		{
 			"id": 213005041,
-			"senContent": "In other words, without using the Elmo, right?"
+			"senContent": "Lviv?"
 		},
 		{
 			"id": 213005042,
-			"senContent": "That's right. Kyiv has forces and organizations that are completely under the control of the Non-Military Forces Administration, including hospitals with comprehensive care units."
+			"senContent": "That's right. The Non-Military Forces Administration has forces under its complete control there, including hospitals with comprehensive care units."
 		},
 		{
 			"id": 213005043,
@@ -57610,7 +57610,7 @@
 		},
 		{
 			"id": 213005052,
-			"senContent": "Who knows, you might end up \"encountering\" lots of friends along the way to Kyiv..."
+			"senContent": "Who knows, you might end up \"encountering\" lots of friends on the road to Lviv..."
 		},
 		{
 			"id": 213005053,
@@ -57762,11 +57762,11 @@
 		},
 		{
 			"id": 213005090,
-			"senContent": "Yup, Kalin provided us with a new pickup method. I'll be bringing her to the nearby intercontinental railway station."
+			"senContent": "Yup, Kalin gave us a new pickup point, at Lviv."
 		},
 		{
 			"id": 213005091,
-			"senContent": "As you know, Kyiv is within the NOMFA's sphere of influence, and it also has a place where Helena can get treatment, so we need to get her there safely ASAP."
+			"senContent": "As you know, it's within the NOMFA's sphere of influence, and it also has a place where Helena can get treatment, so we need to get her there safely ASAP."
 		},
 		{
 			"id": 213005092,
@@ -58386,7 +58386,7 @@
 		},
 		{
 			"id": 213007017,
-			"senContent": "So you're saying... You're going to head out with us in Dinergate form?"
+			"senContent": "So you're saying... You're going to head out with us in Dinergate form? To Lviv?"
 		},
 		{
 			"id": 213007018,
@@ -58998,7 +58998,7 @@
 		},
 		{
 			"id": 213007170,
-			"senContent": "Commander... If Helena gets cured during this trip to Kyiv, will she come back with us?"
+			"senContent": "Commander... If Helena gets cured during this trip to Lviv, will she be coming back with us?"
 		},
 		{
 			"id": 213007171,
@@ -98830,7 +98830,7 @@
 		},
 		{
 			"id": 302802078,
-			"senContent": "I filtered the transaction logs for the entire city using the make of the stolen vehicle as a keyword, but I found that the records for all the other vehicles of the same model are currently on file in the Automobile Directorate."
+			"senContent": "While I could use my score database to make the song perfect, that would merely be a performance derived from countless previous recordings. There would be no trace of \"me\" in it.|A true performer shouldn't be doing that..."
 		},
 		{
 			"id": 302802079,
@@ -98846,7 +98846,7 @@
 		},
 		{
 			"id": 302802082,
-			"senContent": "Hold on... I get that you have staff access to the dealership's sales system, but how do you have access to the Automobile Directorate."
+			"senContent": "Hold on... I get that you have staff access to the dealership's sales system, but how do you have access to the Motor Vehicle Bureau's system?"
 		},
 		{
 			"id": 302802083,
