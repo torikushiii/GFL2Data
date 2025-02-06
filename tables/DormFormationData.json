@@ -2377,6 +2377,474 @@
 			"clothesId": 0
 		},
 		{
+			"id": 104201,
+			"type": 2,
+			"modleId": 1042,
+			"name": "Idle",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Andoris01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104202,
+			"type": 2,
+			"modleId": 1042,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Andoris02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104203,
+			"type": 2,
+			"modleId": 1042,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Andoris03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410421,
+			"clothesId": 0
+		},
+		{
+			"id": 104204,
+			"type": 2,
+			"modleId": 1042,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Andoris04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410421,
+			"clothesId": 0
+		},
+		{
+			"id": 104205,
+			"type": 2,
+			"modleId": 1042,
+			"name": "Entertainment",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Andoris05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410422,
+			"clothesId": 0
+		},
+		{
+			"id": 104301,
+			"type": 2,
+			"modleId": 1043,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Faye01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104302,
+			"type": 2,
+			"modleId": 1043,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Faye02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104303,
+			"type": 2,
+			"modleId": 1043,
+			"name": "Watching",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Faye03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410431,
+			"clothesId": 0
+		},
+		{
+			"id": 104304,
+			"type": 2,
+			"modleId": 1043,
+			"name": "Entertainment",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Faye04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410431,
+			"clothesId": 0
+		},
+		{
+			"id": 104305,
+			"type": 2,
+			"modleId": 1043,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Faye05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410432,
+			"clothesId": 0
+		},
+		{
+			"id": 104401,
+			"type": 2,
+			"modleId": 1044,
+			"name": "Entertainment",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Vector01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104402,
+			"type": 2,
+			"modleId": 1044,
+			"name": "Concentration",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Vector02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104403,
+			"type": 2,
+			"modleId": 1044,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Vector03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410441,
+			"clothesId": 0
+		},
+		{
+			"id": 104404,
+			"type": 2,
+			"modleId": 1044,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Vector04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410441,
+			"clothesId": 0
+		},
+		{
+			"id": 104405,
+			"type": 2,
+			"modleId": 1044,
+			"name": "Resting",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Vector05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410442,
+			"clothesId": 0
+		},
+		{
+			"id": 104501,
+			"type": 2,
+			"modleId": 1045,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Biyoca01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104502,
+			"type": 2,
+			"modleId": 1045,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Biyoca02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104503,
+			"type": 2,
+			"modleId": 1045,
+			"name": "Zoning Out",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Biyoca03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410451,
+			"clothesId": 0
+		},
+		{
+			"id": 104504,
+			"type": 2,
+			"modleId": 1045,
+			"name": "Tidy up",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Biyoca04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410451,
+			"clothesId": 0
+		},
+		{
+			"id": 104505,
+			"type": 2,
+			"modleId": 1045,
+			"name": "Entertainment",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Biyoca05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410452,
+			"clothesId": 0
+		},
+		{
+			"id": 104701,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Springfield01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104702,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Springfield02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104703,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Springfield03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410471,
+			"clothesId": 0
+		},
+		{
+			"id": 104704,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Observing",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Springfield04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410471,
+			"clothesId": 0
+		},
+		{
+			"id": 104705,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Springfield05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410472,
+			"clothesId": 0
+		},
+		{
+			"id": 104706,
+			"type": 2,
+			"modleId": 1047,
+			"name": "Waiting",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_06_Idle",
+			"uiicon": "Springfield06",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"clothesId": 1104701,
+			"unlockType": 0
+		},
+		{
 			"id": 105001,
 			"type": 2,
 			"modleId": 1050,
@@ -2464,6 +2932,96 @@
 			],
 			"unlock": 1,
 			"unlockType": 410502,
+			"clothesId": 0
+		},
+		{
+			"id": 105101,
+			"type": 2,
+			"modleId": 1051,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Mishty01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105102,
+			"type": 2,
+			"modleId": 1051,
+			"name": "Zoning Out",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Mishty02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105103,
+			"type": 2,
+			"modleId": 1051,
+			"name": "Resting",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Mishty03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410511,
+			"clothesId": 0
+		},
+		{
+			"id": 105104,
+			"type": 2,
+			"modleId": 1051,
+			"name": "Playing Games",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Mishty04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410511,
+			"clothesId": 0
+		},
+		{
+			"id": 105105,
+			"type": 2,
+			"modleId": 1051,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Mishty05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410512,
 			"clothesId": 0
 		},
 		{

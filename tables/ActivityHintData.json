@@ -273,7 +273,7 @@
 				101
 			],
 			"textEnums": "270050",
-			"text": "Rewards obtained"
+			"text": "Obtain rewards"
 		},
 		{
 			"id": 101014,
@@ -9800,7 +9800,7 @@
 				103
 			],
 			"textEnums": "270050",
-			"text": "Rewards obtained"
+			"text": "Obtain rewards"
 		},
 		{
 			"id": 132014,
@@ -14411,6 +14411,26 @@
 			"text": "Opens after {0}"
 		},
 		{
+			"id": 135004,
+			"activityId": 4001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 135005,
+			"activityId": 4001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
 			"id": 136002,
 			"activityId": 5001,
 			"textType": 2,
@@ -14430,6 +14450,26 @@
 			],
 			"textEnums": "271122",
 			"text": "Opens after {0}"
+		},
+		{
+			"id": 136004,
+			"activityId": 5001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 136005,
+			"activityId": 5001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
 		},
 		{
 			"id": 140001,
@@ -16047,6 +16087,26 @@
 			"text": "All rewards have been claimed"
 		},
 		{
+			"id": 143006,
+			"activityId": 6001,
+			"textType": 1,
+			"textTypeId": [
+				261
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 143007,
+			"activityId": 6001,
+			"textType": 1,
+			"textTypeId": [
+				261
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
 			"id": 151001,
 			"activityId": 7001,
 			"textType": 2,
@@ -16066,6 +16126,36 @@
 			],
 			"textEnums": "271122",
 			"text": "Opens after {0}"
+		},
+		{
+			"id": 151003,
+			"activityId": 7001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 151004,
+			"activityId": 7001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 151005,
+			"activityId": 7001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "271123",
+			"text": "This event has ended"
 		},
 		{
 			"id": 152001,
@@ -16098,6 +16188,26 @@
 			],
 			"textEnums": "196001",
 			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 152004,
+			"activityId": 8001,
+			"textType": 1,
+			"textTypeId": [
+				262
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 152005,
+			"activityId": 8001,
+			"textType": 1,
+			"textTypeId": [
+				262
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
 		},
 		{
 			"id": 163001,
@@ -16140,6 +16250,2064 @@
 			],
 			"textEnums": "210007",
 			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 163005,
+			"activityId": 9001,
+			"textType": 1,
+			"textTypeId": [
+				271
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 163006,
+			"activityId": 9001,
+			"textType": 1,
+			"textTypeId": [
+				271
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 172001,
+			"activityId": 10001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994015
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 172002,
+			"activityId": 10001,
+			"textType": 1,
+			"textTypeId": [
+				272
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 172003,
+			"activityId": 10001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994015
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 172004,
+			"activityId": 10001,
+			"textType": 1,
+			"textTypeId": [
+				272
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 172005,
+			"activityId": 10001,
+			"textType": 1,
+			"textTypeId": [
+				272
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 173001,
+			"activityId": 12001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994016
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 173002,
+			"activityId": 12001,
+			"textType": 1,
+			"textTypeId": [
+				281
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 173003,
+			"activityId": 12001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994016
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 173004,
+			"activityId": 12001,
+			"textType": 1,
+			"textTypeId": [
+				281
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 173005,
+			"activityId": 12001,
+			"textType": 1,
+			"textTypeId": [
+				281
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 174001,
+			"activityId": 13001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994017
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 174002,
+			"activityId": 13001,
+			"textType": 1,
+			"textTypeId": [
+				282
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 174003,
+			"activityId": 13001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994017
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 174004,
+			"activityId": 13001,
+			"textType": 1,
+			"textTypeId": [
+				282
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 174005,
+			"activityId": 13001,
+			"textType": 1,
+			"textTypeId": [
+				282
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 174006,
+			"activityId": 13001,
+			"textType": 1,
+			"textTypeId": [
+				282
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 175001,
+			"activityId": 14001,
+			"textType": 1,
+			"textTypeId": [
+				291
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 175002,
+			"activityId": 14001,
+			"textType": 1,
+			"textTypeId": [
+				291
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 175003,
+			"activityId": 14001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994018
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 175004,
+			"activityId": 14001,
+			"textType": 2,
+			"textTypeId": [
+				2005,
+				994019
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 175005,
+			"activityId": 14001,
+			"textType": 1,
+			"textTypeId": [
+				291
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 175006,
+			"activityId": 14001,
+			"textType": 1,
+			"textTypeId": [
+				291
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 180001,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003007",
+			"text": "Restock"
+		},
+		{
+			"id": 180002,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003008",
+			"text": "Mix"
+		},
+		{
+			"id": 180003,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003009",
+			"text": "Current Shop Efficiency"
+		},
+		{
+			"id": 180004,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003010",
+			"text": "Decal Sticker"
+		},
+		{
+			"id": 180005,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003011",
+			"text": "Sales Volume"
+		},
+		{
+			"id": 180006,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003012",
+			"text": "Customer Traffic"
+		},
+		{
+			"id": 180007,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003013",
+			"text": "Currently Being Sold"
+		},
+		{
+			"id": 180008,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003014",
+			"text": "Drink Description"
+		},
+		{
+			"id": 180009,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003015",
+			"text": "Drink Overview"
+		},
+		{
+			"id": 180010,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003016",
+			"text": "Time Taken to Sell"
+		},
+		{
+			"id": 180011,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003017",
+			"text": "Remaining Sellable"
+		},
+		{
+			"id": 180012,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003018",
+			"text": "Sell Profit"
+		},
+		{
+			"id": 180013,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003019",
+			"text": "Coffee Brewing"
+		},
+		{
+			"id": 180014,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003020",
+			"text": "Current Stock"
+		},
+		{
+			"id": 180015,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003021",
+			"text": "Number to Mix"
+		},
+		{
+			"id": 180016,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003022",
+			"text": "Sell Period"
+		},
+		{
+			"id": 180017,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003023",
+			"text": "Amount"
+		},
+		{
+			"id": 180018,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003024",
+			"text": "Drink Ingredients"
+		},
+		{
+			"id": 180019,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003025",
+			"text": "Proceed to Acquire"
+		},
+		{
+			"id": 180020,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003026",
+			"text": "Make"
+		},
+		{
+			"id": 180021,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003027",
+			"text": "New Product Unlocked"
+		},
+		{
+			"id": 180022,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003028",
+			"text": "More products available for exchange"
+		},
+		{
+			"id": 180023,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003029",
+			"text": "{0} Unlocked"
+		},
+		{
+			"id": 180024,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003030",
+			"text": "More can be made"
+		},
+		{
+			"id": 180025,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003031",
+			"text": "Current Shop Rating"
+		},
+		{
+			"id": 180026,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003032",
+			"text": "Special Blend"
+		},
+		{
+			"id": 180027,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003033",
+			"text": "{0} Mins/cup"
+		},
+		{
+			"id": 180028,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003034",
+			"text": "Uses {0}/{1}"
+		},
+		{
+			"id": 180029,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003035",
+			"text": "{0} cups of {1} mixed"
+		},
+		{
+			"id": 180030,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003036",
+			"text": "Number of drinks to mix cannot be 0"
+		},
+		{
+			"id": 180031,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003037",
+			"text": "Unlocked upon reaching shop level {0}"
+		},
+		{
+			"id": 180032,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003038",
+			"text": "Currently unavailable"
+		},
+		{
+			"id": 180033,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003039",
+			"text": "New Product Unlocked"
+		},
+		{
+			"id": 180034,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003040",
+			"text": "More rewards available for exchange"
+		},
+		{
+			"id": 180035,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003041",
+			"text": "【{0}】Unlocked"
+		},
+		{
+			"id": 180036,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003042",
+			"text": "Drinks can be mixed"
+		},
+		{
+			"id": 180037,
+			"activityId": 50001,
+			"textType": 1,
+			"textTypeId": [
+				131
+			],
+			"textEnums": "271101",
+			"text": "Opening Preparations Have Begun!"
+		},
+		{
+			"id": 180038,
+			"activityId": 50001,
+			"textType": 1,
+			"textTypeId": [
+				131
+			],
+			"textEnums": "271181",
+			"text": "Warmup"
+		},
+		{
+			"id": 180039,
+			"activityId": 50001,
+			"textType": 1,
+			"textTypeId": [
+				231
+			],
+			"textEnums": "271120",
+			"text": "Opening Preparations Are Over"
+		},
+		{
+			"id": 180040,
+			"activityId": 50001,
+			"textType": 1,
+			"textTypeId": [
+				231
+			],
+			"textEnums": "271121",
+			"text": "Zucchero Café officially opens"
+		},
+		{
+			"id": 180041,
+			"activityId": 50001,
+			"textType": 1,
+			"textTypeId": [
+				231
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 180042,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271102",
+			"text": "Current Trending"
+		},
+		{
+			"id": 180043,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271103",
+			"text": "Claim"
+		},
+		{
+			"id": 180044,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271104",
+			"text": "Order 1"
+		},
+		{
+			"id": 180045,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271105",
+			"text": "Order 2"
+		},
+		{
+			"id": 180046,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271106",
+			"text": "Order 3"
+		},
+		{
+			"id": 180047,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271107",
+			"text": "Order 4"
+		},
+		{
+			"id": 180048,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271108",
+			"text": "Place Order"
+		},
+		{
+			"id": 180049,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271109",
+			"text": "Not Enough Materials"
+		},
+		{
+			"id": 180050,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271110",
+			"text": "Submission successful"
+		},
+		{
+			"id": 180051,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271111",
+			"text": "Shop Popularity"
+		},
+		{
+			"id": 180052,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271112",
+			"text": "Missions refresh at 05:00AM each day, please take note"
+		},
+		{
+			"id": 180053,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271113",
+			"text": "Today's missions are complete! Thanks for your hard work! Now collecting missions for the next day..."
+		},
+		{
+			"id": 180054,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271168",
+			"text": "Zucchero Main Page"
+		},
+		{
+			"id": 180055,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271169",
+			"text": "Preparation Missions"
+		},
+		{
+			"id": 180056,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271170",
+			"text": "Preparing"
+		},
+		{
+			"id": 180057,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271171",
+			"text": "Preparation Time:"
+		},
+		{
+			"id": 180058,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271184",
+			"text": "Item Details"
+		},
+		{
+			"id": 180059,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271187",
+			"text": "Complete the Opening Preparation Missions, increase the café's popularity and gain corresponding rewards."
+		},
+		{
+			"id": 180060,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "2300101",
+			"text": "Proceed"
+		},
+		{
+			"id": 180061,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "2300102",
+			"text": "Standard not met"
+		},
+		{
+			"id": 180062,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3001,
+				201
+			],
+			"textEnums": "271146",
+			"text": "Obtain Methods"
+		},
+		{
+			"id": 180063,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271114",
+			"text": "Ends In {0}"
+		},
+		{
+			"id": 180064,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271115",
+			"text": "Stock running low. Please complete Mellow Commissions to restock"
+		},
+		{
+			"id": 180065,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271116",
+			"text": "Stocks are depleted, please replenish by completing Mellow Commissions"
+		},
+		{
+			"id": 180066,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271117",
+			"text": "Probability"
+		},
+		{
+			"id": 180067,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271118",
+			"text": "No recommendations"
+		},
+		{
+			"id": 180068,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271119",
+			"text": "{0}/Cup"
+		},
+		{
+			"id": 180069,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271122",
+			"text": "Total Sales"
+		},
+		{
+			"id": 180070,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271123",
+			"text": "Customer Traffic"
+		},
+		{
+			"id": 180071,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271124",
+			"text": "One-Click Collect"
+		},
+		{
+			"id": 180072,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271125",
+			"text": "Zucchero Assistant"
+		},
+		{
+			"id": 180073,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271126",
+			"text": "Zucchero Merch"
+		},
+		{
+			"id": 180074,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271127",
+			"text": "Drinks Menu"
+		},
+		{
+			"id": 180075,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271128",
+			"text": "Feedback Wall"
+		},
+		{
+			"id": 180076,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271129",
+			"text": "Next rating unlocks after completing all missions [{0}/{1}]"
+		},
+		{
+			"id": 180077,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271130",
+			"text": "Shop rating improved"
+		},
+		{
+			"id": 180078,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271131",
+			"text": "Has achieved the highest rating"
+		},
+		{
+			"id": 180079,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271132",
+			"text": "Note Automatic Exchange"
+		},
+		{
+			"id": 180080,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271133",
+			"text": "Click the Opinion Box to stick the note on the Feedback Wall"
+		},
+		{
+			"id": 180081,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271134",
+			"text": "Opinion Box"
+		},
+		{
+			"id": 180082,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271135",
+			"text": "No notes available at the moment, please go to the Self-Serve Bar and collect first."
+		},
+		{
+			"id": 180083,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271136",
+			"text": "The Opinion Wall is full. Please consolidate feedback first"
+		},
+		{
+			"id": 180084,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271137",
+			"text": "Consolidating opinions"
+		},
+		{
+			"id": 180085,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271138",
+			"text": "Highly Rated Note"
+		},
+		{
+			"id": 180086,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271139",
+			"text": "Combine 3 notes of the same shape and color to obtain 1 note of the same color and of the next highest level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of the next highest level and 1 additional note."
+		},
+		{
+			"id": 180087,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271140",
+			"text": "×{0}"
+		},
+		{
+			"id": 180088,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271141",
+			"text": "Positive Feedback Redemption"
+		},
+		{
+			"id": 180089,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271142",
+			"text": "When the Shop Rating reaches its maximum, top-ranked rating stickers can be exchanged for Sardis Gold, Battlefield Reports and Analysis Blueprints until the maximum exchange limit is reached."
+		},
+		{
+			"id": 180090,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271143",
+			"text": "Sale Price"
+		},
+		{
+			"id": 180091,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271144",
+			"text": "Duration"
+		},
+		{
+			"id": 180092,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271145",
+			"text": "Sold Out"
+		},
+		{
+			"id": 180093,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271146",
+			"text": "Obtain Methods"
+		},
+		{
+			"id": 180094,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271147",
+			"text": "Inventory"
+		},
+		{
+			"id": 180095,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271148",
+			"text": "Recommended For You"
+		},
+		{
+			"id": 180096,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271149",
+			"text": "{0} Sales Ranking"
+		},
+		{
+			"id": 180097,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271150",
+			"text": "Level progress"
+		},
+		{
+			"id": 180098,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271151",
+			"text": "Currently unavailable"
+		},
+		{
+			"id": 180099,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271152",
+			"text": "Unlocked upon reaching shop rating {0}"
+		},
+		{
+			"id": 180100,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271153",
+			"text": "No sales data"
+		},
+		{
+			"id": 180101,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271154",
+			"text": "Unlocks at Store Rating {0}"
+		},
+		{
+			"id": 180102,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271155",
+			"text": "Merch Exchange"
+		},
+		{
+			"id": 180103,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271156",
+			"text": "Level"
+		},
+		{
+			"id": 180104,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271157",
+			"text": "Upgrade"
+		},
+		{
+			"id": 180105,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271158",
+			"text": "{0}/{1}"
+		},
+		{
+			"id": 180106,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271159",
+			"text": "{0} upgrade successful"
+		},
+		{
+			"id": 180107,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271160",
+			"text": "Maxed"
+		},
+		{
+			"id": 180108,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271161",
+			"text": "Restricted by store rating"
+		},
+		{
+			"id": 180109,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271162",
+			"text": "The Zucchero Café Event has concluded"
+		},
+		{
+			"id": 180110,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271163",
+			"text": "Standard not met"
+		},
+		{
+			"id": 180111,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271164",
+			"text": "Claim"
+		},
+		{
+			"id": 180112,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271165",
+			"text": "Required Ingredients"
+		},
+		{
+			"id": 180113,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271166",
+			"text": "I Understand"
+		},
+		{
+			"id": 180114,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271167",
+			"text": "Append"
+		},
+		{
+			"id": 180115,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271168",
+			"text": "Zucchero Main Page"
+		},
+		{
+			"id": 180116,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271172",
+			"text": "Cafe Opening Time:"
+		},
+		{
+			"id": 180117,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271173",
+			"text": "In Progress"
+		},
+		{
+			"id": 180118,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271174",
+			"text": "Expenditure"
+		},
+		{
+			"id": 180119,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271175",
+			"text": "Purchase"
+		},
+		{
+			"id": 180120,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271176",
+			"text": "Has stopped running"
+		},
+		{
+			"id": 180121,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271177",
+			"text": "Maximum exchange amount reached"
+		},
+		{
+			"id": 180122,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271178",
+			"text": "Shop Rating"
+		},
+		{
+			"id": 180123,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271179",
+			"text": "Opinion Box is full"
+		},
+		{
+			"id": 180124,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271180",
+			"text": "Premium Sticky Notes"
+		},
+		{
+			"id": 180125,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271183",
+			"text": "Unlock Conditions"
+		},
+		{
+			"id": 180126,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271184",
+			"text": "Item Details"
+		},
+		{
+			"id": 180127,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271185",
+			"text": "Raw Material Details"
+		},
+		{
+			"id": 180128,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271186",
+			"text": "End Time:"
+		},
+		{
+			"id": 180129,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271188",
+			"text": "Closed"
+		},
+		{
+			"id": 180130,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271191",
+			"text": "Commander, how may I help you?"
+		},
+		{
+			"id": 180131,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271192",
+			"text": "This drink has sold out. Please open the drinks menu and make some new drinks!"
+		},
+		{
+			"id": 180132,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271193",
+			"text": "Lacking ingredients to make drinks. Please head to Supply Mode to gather ingredients!"
+		},
+		{
+			"id": 180133,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271194",
+			"text": "<color=#d67849>{0}</color> is working."
+		},
+		{
+			"id": 180134,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271195",
+			"text": "<color=#d67849>{0}</color> has stopped."
+		},
+		{
+			"id": 180135,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271196",
+			"text": "<color=#5085ad>{0}</color> is open for business."
+		},
+		{
+			"id": 180136,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271197",
+			"text": "<color=#5085ad>{0}</color> is closed for business."
+		},
+		{
+			"id": 180137,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271198",
+			"text": "Total Sales +{0}"
+		},
+		{
+			"id": 180138,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271199",
+			"text": "Customer Traffic +{0}"
+		},
+		{
+			"id": 180139,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271200",
+			"text": "Feedback Received: <color=#d67849>{0} ×{1}</color>"
+		},
+		{
+			"id": 180140,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271201",
+			"text": "<color=#5085ad>{0} ×{1}</color> have been sold"
+		},
+		{
+			"id": 180141,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271202",
+			"text": "Welcome back, Commander"
+		},
+		{
+			"id": 180142,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271203",
+			"text": "While you were away"
+		},
+		{
+			"id": 180143,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271204",
+			"text": "Sold Out"
+		},
+		{
+			"id": 180144,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271205",
+			"text": "Unlocks when Shop Rating reaches <color=#d67849>[{0}]</color>"
+		},
+		{
+			"id": 180145,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271206",
+			"text": "Upgrade Self-Serve Bar"
+		},
+		{
+			"id": 180146,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271207",
+			"text": "Upgrade Self-Serve Bar to level {0}"
+		},
+		{
+			"id": 180147,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271208",
+			"text": "New Mission Tier Unlocked"
+		},
+		{
+			"id": 180148,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271209",
+			"text": "{0} has been unlocked"
+		},
+		{
+			"id": 180149,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271210",
+			"text": "Level cap raised"
+		},
+		{
+			"id": 180150,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271211",
+			"text": "Level cap for {0} has been raised to {1}"
+		},
+		{
+			"id": 180151,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "271212",
+			"text": "Freight Machine"
+		},
+		{
+			"id": 180152,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003001",
+			"text": "Once the Shop Rating reaches its highest level, the Highly Rated Note with the highest rating will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+		},
+		{
+			"id": 180153,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003002",
+			"text": "Brewing Successful"
+		},
+		{
+			"id": 180154,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003003",
+			"text": "Overall Explanation"
+		},
+		{
+			"id": 180155,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003004",
+			"text": "How to Obtain Extra Notes"
+		},
+		{
+			"id": 180156,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003005",
+			"text": "Orange square shows the position of the last-placed Note"
+		},
+		{
+			"id": 180157,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003006",
+			"text": "Suggestion Box is full, please review the feedback"
+		},
+		{
+			"id": 180158,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994002
+			],
+			"textEnums": "22002001",
+			"text": "Challenge"
+		},
+		{
+			"id": 180159,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994002
+			],
+			"textEnums": "22002002",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 180160,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994002
+			],
+			"textEnums": "22002003",
+			"text": "Challenge"
+		},
+		{
+			"id": 180161,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				2001,
+				4002
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 180162,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				2001,
+				4002
+			],
+			"textEnums": "22001002",
+			"text": "Supplies"
+		},
+		{
+			"id": 180163,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003103",
+			"text": "Locked"
+		},
+		{
+			"id": 180164,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003104",
+			"text": "Maximum inventory reached"
+		},
+		{
+			"id": 180165,
+			"activityId": 50001,
+			"textType": 2,
+			"textTypeId": [
+				3003,
+				201
+			],
+			"textEnums": "23003105",
+			"text": "Insufficient materials, please obtain more from Resource Mode"
 		}
 	]
 }

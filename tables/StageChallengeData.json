@@ -153,6 +153,30 @@
 			"description": "Win within 12 turns"
 		},
 		{
+			"id": 10213,
+			"type": 2,
+			"args": [
+				"13"
+			],
+			"argsFail": [
+				"13"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 13 turns"
+		},
+		{
+			"id": 10214,
+			"type": 2,
+			"args": [
+				"14"
+			],
+			"argsFail": [
+				"14"
+			],
+			"title": "Careful Deliberation",
+			"description": "Win within 14 turns"
+		},
+		{
 			"id": 10301,
 			"args": [
 				"1"
@@ -4064,15 +4088,15 @@
 			"id": 12056,
 			"type": 20,
 			"args": [
-				"61212",
-				"2"
+				"61211",
+				"1"
 			],
 			"argsFail": [
-				"61212",
-				"2"
+				"61211",
+				"1"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 2 Felaskju - BUR Type II"
+			"description": "Eliminate 1 Felaskju - BUR Type I"
 		},
 		{
 			"id": 12057,
@@ -4129,6 +4153,20 @@
 			],
 			"title": "Tactical Strike",
 			"description": "Eliminate 1 Production Expert"
+		},
+		{
+			"id": 12061,
+			"type": 20,
+			"args": [
+				"65011",
+				"2"
+			],
+			"argsFail": [
+				"65011",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Fertilizer Scholar Type I"
 		},
 		{
 			"id": 12101,
@@ -5432,15 +5470,15 @@
 			"args": [
 				"64221",
 				"3",
-				"4"
+				"6"
 			],
 			"argsFail": [
 				"64221",
 				"3",
-				"4"
+				"6"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 3 U 039 - BUR Type I within 4 turns"
+			"description": "Eliminate 3 U 039 - BUR Type I within 6 turns"
 		},
 		{
 			"id": 13712,
@@ -5480,15 +5518,15 @@
 			"args": [
 				"62012",
 				"2",
-				"3"
+				"4"
 			],
 			"argsFail": [
 				"62012",
 				"2",
-				"3"
+				"4"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 2 Thoad - FRZ Type II within 3 turns"
+			"description": "Eliminate 2 Thoad - FRZ Type II within 4 turns"
 		},
 		{
 			"id": 13715,
@@ -5527,16 +5565,16 @@
 			"type": 37,
 			"args": [
 				"64331",
-				"3",
+				"1",
 				"4"
 			],
 			"argsFail": [
 				"64331",
-				"3",
+				"1",
 				"4"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 3 U 015 - COR within 4 turns"
+			"description": "Eliminate 1 U 015 - COR within 4 turns"
 		},
 		{
 			"id": 13718,
@@ -5560,15 +5598,15 @@
 			"args": [
 				"64222",
 				"3",
-				"4"
+				"6"
 			],
 			"argsFail": [
 				"64222",
 				"3",
-				"4"
+				"6"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 3 U 039 - BUR Type II within 4 turns"
+			"description": "Eliminate 3 U 039 - BUR Type II within 6 turns"
 		},
 		{
 			"id": 13720,
@@ -5601,6 +5639,38 @@
 			],
 			"title": "Tactical Strike",
 			"description": "Eliminate Niter No.249 within 5 turns"
+		},
+		{
+			"id": 13722,
+			"type": 37,
+			"args": [
+				"65032",
+				"2",
+				"4"
+			],
+			"argsFail": [
+				"65032",
+				"2",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate 2 Irrigation Scholar Type II within 4 turns"
+		},
+		{
+			"id": 13723,
+			"type": 37,
+			"args": [
+				"6243",
+				"1",
+				"3"
+			],
+			"argsFail": [
+				"6243",
+				"1",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": ""
 		},
 		{
 			"id": 13801,

@@ -80,6 +80,168 @@
 				"23048": 1
 			},
 			"rewardType": 2
+		},
+		{
+			"id": 7,
+			"rewardGroup": 1006,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22058": 1,
+				"23050": 1,
+				"24035": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 8,
+			"rewardGroup": 1006,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22058": 1,
+				"23050": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 9,
+			"rewardGroup": 1007,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22059": 1,
+				"23051": 1,
+				"24036": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 10,
+			"rewardGroup": 1007,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22059": 1,
+				"23051": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 11,
+			"rewardGroup": 1008,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22060": 1,
+				"23052": 1,
+				"24037": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 12,
+			"rewardGroup": 1008,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22060": 1,
+				"23052": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 13,
+			"rewardGroup": 1009,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22061": 1,
+				"23092": 1,
+				"24056": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 14,
+			"rewardGroup": 1009,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22061": 1,
+				"23092": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 15,
+			"rewardGroup": 1010,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22062": 1,
+				"23141": 1,
+				"24064": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 16,
+			"rewardGroup": 1010,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22062": 1,
+				"23141": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 17,
+			"rewardGroup": 1011,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22063": 1,
+				"23142": 1,
+				"24107": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 18,
+			"rewardGroup": 1011,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22063": 1,
+				"23142": 1
+			},
+			"rewardType": 2
 		}
 	]
 }

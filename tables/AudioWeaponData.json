@@ -2,8 +2,8 @@
 	"data": [
 		{
 			"typeId": 1,
-			"selector": "Special",
-			"track": "Sword"
+			"selector": "Gun_Accessories",
+			"track": "Normal"
 		},
 		{
 			"typeId": 101,
@@ -66,6 +66,11 @@
 			"track": "G11"
 		},
 		{
+			"typeId": 308,
+			"selector": "Gun_AR",
+			"track": "G28"
+		},
+		{
 			"typeId": 401,
 			"selector": "Gun_SMG",
 			"track": "MP7"
@@ -104,6 +109,76 @@
 			"typeId": 602,
 			"selector": "Gun_SG",
 			"track": "Pump"
+		},
+		{
+			"typeId": 900,
+			"selector": "Special",
+			"track": "Sword"
+		},
+		{
+			"typeId": 20111,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20116,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20118,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20121,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20126,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20128,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20211,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20221,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20224,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20411,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20414,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 20415,
+			"selector": "Gun_Accessories",
+			"track": "WithSilencer"
+		},
+		{
+			"typeId": 7332714,
+			"selector": "Gun_ZZ",
+			"track": "SHOUQING"
 		}
 	]
 }

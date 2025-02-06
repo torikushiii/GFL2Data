@@ -25,9 +25,19 @@
 			"system": 1,
 			"systemType": 1,
 			"openTime": "1714366800",
-			"closeTime": "4070926799",
+			"closeTime": "1746075599",
 			"args": [
 				3
+			]
+		},
+		{
+			"id": 10004,
+			"system": 1,
+			"systemType": 1,
+			"openTime": "1746075600",
+			"closeTime": "4070926799",
+			"args": [
+				4
 			]
 		},
 		{
@@ -1314,8 +1324,8 @@
 			"id": 30010,
 			"system": 3,
 			"systemType": 3,
-			"openTime": "2528082000",
-			"closeTime": "2530742399",
+			"openTime": "1739163600",
+			"closeTime": "1741823999",
 			"args": [
 				30010
 			]
@@ -1324,8 +1334,8 @@
 			"id": 30011,
 			"system": 3,
 			"systemType": 3,
-			"openTime": "2530674000",
-			"closeTime": "2531969999",
+			"openTime": "1742187600",
+			"closeTime": "1744847999",
 			"args": [
 				30011
 			]
@@ -1334,8 +1344,8 @@
 			"id": 30012,
 			"system": 3,
 			"systemType": 3,
-			"openTime": "2531970000",
-			"closeTime": "2534561999",
+			"openTime": "1745211600",
+			"closeTime": "1747871999",
 			"args": [
 				30012
 			]
@@ -1524,20 +1534,10 @@
 			"id": 50031,
 			"system": 5,
 			"systemType": 5,
-			"openTime": "1721127600",
-			"closeTime": "1722963599",
+			"openTime": "1738832400",
+			"closeTime": "1741201199",
 			"args": [
 				701
-			]
-		},
-		{
-			"id": 50032,
-			"system": 5,
-			"systemType": 5,
-			"openTime": "1722963600",
-			"closeTime": "1723481999",
-			"args": [
-				702
 			]
 		},
 		{
@@ -1564,10 +1564,30 @@
 			"id": 50035,
 			"system": 5,
 			"systemType": 5,
-			"openTime": "1724734800",
-			"closeTime": "1729011599",
+			"openTime": "1742461200",
+			"closeTime": "1746644399",
 			"args": [
 				901
+			]
+		},
+		{
+			"id": 50036,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1728460800",
+			"closeTime": "1730188799",
+			"args": [
+				1001
+			]
+		},
+		{
+			"id": 50037,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1730188800",
+			"closeTime": "1730696399",
+			"args": [
+				1002
 			]
 		},
 		{
@@ -1581,11 +1601,51 @@
 			]
 		},
 		{
+			"id": 50040,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1730188800",
+			"closeTime": "1732003199",
+			"args": [
+				1201
+			]
+		},
+		{
+			"id": 50041,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1732003200",
+			"closeTime": "1732510799",
+			"args": [
+				1202
+			]
+		},
+		{
+			"id": 50042,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1732003200",
+			"closeTime": "1734325199",
+			"args": [
+				1301
+			]
+		},
+		{
+			"id": 50043,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1730707200",
+			"closeTime": "1737953999",
+			"args": [
+				1401
+			]
+		},
+		{
 			"id": 51001,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1706936400",
-			"closeTime": "1708426799",
+			"openTime": "1740646800",
+			"closeTime": "1742410799",
 			"args": [
 				94002
 			]
@@ -1594,8 +1654,8 @@
 			"id": 51002,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1707368400",
-			"closeTime": "1708426799",
+			"openTime": "1741237200",
+			"closeTime": "1742410799",
 			"args": [
 				994002
 			]
@@ -1704,8 +1764,8 @@
 			"id": 51013,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1721127600",
-			"closeTime": "1722963599",
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
 			"args": [
 				94011
 			]
@@ -1714,8 +1774,8 @@
 			"id": 51014,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1721710800",
-			"closeTime": "1722963599",
+			"openTime": "1739437200",
+			"closeTime": "1740596399",
 			"args": [
 				994011
 			]
@@ -1744,8 +1804,8 @@
 			"id": 51017,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1724734800",
-			"closeTime": "1728471599",
+			"openTime": "1742461200",
+			"closeTime": "1746039599",
 			"args": [
 				94013
 			]
@@ -1754,8 +1814,8 @@
 			"id": 51018,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1725339600",
-			"closeTime": "1728471599",
+			"openTime": "1743051600",
+			"closeTime": "1746039599",
 			"args": [
 				994013
 			]
@@ -1764,8 +1824,8 @@
 			"id": 51019,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1726743600",
-			"closeTime": "1728471599",
+			"openTime": "1744261200",
+			"closeTime": "1746039599",
 			"args": [
 				94014
 			]
@@ -1774,10 +1834,30 @@
 			"id": 51020,
 			"system": 13,
 			"systemType": 13,
-			"openTime": "1727154000",
-			"closeTime": "1728471599",
+			"openTime": "1744866000",
+			"closeTime": "1746039599",
 			"args": [
 				994014
+			]
+		},
+		{
+			"id": 51021,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1728460800",
+			"closeTime": "1730188799",
+			"args": [
+				94015
+			]
+		},
+		{
+			"id": 51022,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1728968400",
+			"closeTime": "1730188799",
+			"args": [
+				994015
 			]
 		},
 		{
@@ -1798,6 +1878,86 @@
 			"closeTime": "1738796399",
 			"args": [
 				994001
+			]
+		},
+		{
+			"id": 51025,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730188800",
+			"closeTime": "1732003199",
+			"args": [
+				94016
+			]
+		},
+		{
+			"id": 51026,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730782800",
+			"closeTime": "1732003199",
+			"args": [
+				994016
+			]
+		},
+		{
+			"id": 51027,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": [
+				94017
+			]
+		},
+		{
+			"id": 51028,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1732510800",
+			"closeTime": "1733817599",
+			"args": [
+				994017
+			]
+		},
+		{
+			"id": 51029,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": [
+				94018
+			]
+		},
+		{
+			"id": 51030,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": [
+				994018
+			]
+		},
+		{
+			"id": 51031,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": [
+				94019
+			]
+		},
+		{
+			"id": 51032,
+			"system": 13,
+			"systemType": 13,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": [
+				994019
 			]
 		},
 		{
@@ -1908,6 +2068,56 @@
 			"closeTime": "32503679999",
 			"args": [
 				9001
+			]
+		},
+		{
+			"id": 70012,
+			"system": 7,
+			"systemType": 7,
+			"openTime": "4083130800",
+			"closeTime": "32503679999",
+			"args": [
+				10001
+			]
+		},
+		{
+			"id": 70013,
+			"system": 7,
+			"systemType": 7,
+			"openTime": "4083130800",
+			"closeTime": "32503679999",
+			"args": [
+				12001
+			]
+		},
+		{
+			"id": 70014,
+			"system": 7,
+			"systemType": 7,
+			"openTime": "4083130800",
+			"closeTime": "32503679999",
+			"args": [
+				13001
+			]
+		},
+		{
+			"id": 70015,
+			"system": 7,
+			"systemType": 7,
+			"openTime": "4083130800",
+			"closeTime": "32503679999",
+			"args": [
+				14001
+			]
+		},
+		{
+			"id": 70016,
+			"system": 7,
+			"systemType": 7,
+			"openTime": "4083130800",
+			"closeTime": "32503679999",
+			"args": [
+				15001
 			]
 		},
 		{
@@ -2501,6 +2711,16 @@
 			]
 		},
 		{
+			"id": 110004,
+			"system": 11,
+			"systemType": 11,
+			"openTime": "1743051600",
+			"closeTime": "1744261199",
+			"args": [
+				4001
+			]
+		},
+		{
 			"id": 120001,
 			"system": 12,
 			"systemType": 12,
@@ -2588,64 +2808,72 @@
 			"id": 500050,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1724734800",
-			"closeTime": "1728471599",
+			"openTime": "1742461200",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500051,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1725339600",
-			"closeTime": "1728471599",
+			"openTime": "1743051600",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500052,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1726743600",
-			"closeTime": "1728471599",
+			"openTime": "1744275600",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500053,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1727154000",
-			"closeTime": "1728471599",
+			"openTime": "1744866000",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500054,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1725339600",
-			"closeTime": "1728471599",
+			"openTime": "1743051600",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500055,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1724734800",
-			"closeTime": "1728471599",
+			"openTime": "1742461200",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500056,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1726743600",
-			"closeTime": "1728471599",
+			"openTime": "1744275600",
+			"closeTime": "1746039599",
 			"args": []
 		},
 		{
 			"id": 500057,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1727154000",
-			"closeTime": "1728471599",
+			"openTime": "1744866000",
+			"closeTime": "1746039599",
+			"args": []
+		},
+		{
+			"id": 500058,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1728460800",
+			"closeTime": "1730188799",
 			"args": []
 		},
 		{
@@ -2713,6 +2941,150 @@
 			"args": []
 		},
 		{
+			"id": 500069,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730188800",
+			"closeTime": "1732003199",
+			"args": []
+		},
+		{
+			"id": 500070,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500071,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500072,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500073,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732510800",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500074,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500075,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500076,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1732003200",
+			"closeTime": "1733817599",
+			"args": []
+		},
+		{
+			"id": 500077,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500078,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500079,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1735632000",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500080,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1736226000",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500081,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500082,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500083,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500084,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500085,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
+			"id": 500086,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1730707200",
+			"closeTime": "1737446399",
+			"args": []
+		},
+		{
 			"id": 500241,
 			"system": 14,
 			"systemType": 14,
@@ -2724,8 +3096,8 @@
 			"id": 570011,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1721127600",
-			"closeTime": "1722963599",
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
 			"args": []
 		},
 		{
@@ -2740,9 +3112,29 @@
 			"id": 590011,
 			"system": 14,
 			"systemType": 14,
-			"openTime": "1724734800",
-			"closeTime": "1728471599",
+			"openTime": "1742461200",
+			"closeTime": "1746039599",
 			"args": []
+		},
+		{
+			"id": 600001,
+			"system": 15,
+			"systemType": 15,
+			"openTime": "1840705200",
+			"closeTime": "1843815599",
+			"args": [
+				1
+			]
+		},
+		{
+			"id": 600002,
+			"system": 15,
+			"systemType": 15,
+			"openTime": "1843815600",
+			"closeTime": "1875351599",
+			"args": [
+				2
+			]
 		},
 		{
 			"id": 600011,
@@ -2766,6 +3158,34 @@
 			"systemType": 14,
 			"openTime": "1737032400",
 			"closeTime": "1738796399",
+			"args": []
+		},
+		{
+			"id": 700001,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1740646800",
+			"closeTime": "1742410799",
+			"args": [
+				5001
+			]
+		},
+		{
+			"id": 700002,
+			"system": 5,
+			"systemType": 5,
+			"openTime": "1742410800",
+			"closeTime": "1743015599",
+			"args": [
+				5002
+			]
+		},
+		{
+			"id": 700003,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1740646800",
+			"closeTime": "1742410799",
 			"args": []
 		},
 		{
@@ -2816,6 +3236,62 @@
 			"systemType": 14,
 			"openTime": "1737032400",
 			"closeTime": "1739401199",
+			"args": []
+		},
+		{
+			"id": 1000004,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1741201199",
+			"args": []
+		},
+		{
+			"id": 1000005,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1741201199",
+			"args": []
+		},
+		{
+			"id": 1000006,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
+			"args": []
+		},
+		{
+			"id": 1000007,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
+			"args": []
+		},
+		{
+			"id": 1000008,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
+			"args": []
+		},
+		{
+			"id": 1000009,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1738832400",
+			"closeTime": "1740596399",
+			"args": []
+		},
+		{
+			"id": 1000010,
+			"system": 14,
+			"systemType": 14,
+			"openTime": "1739437200",
+			"closeTime": "1740596399",
 			"args": []
 		}
 	]

@@ -328,6 +328,111 @@
 			"globalTab": 0
 		},
 		{
+			"id": 3002,
+			"name": "Bitter Thorns and Daisies",
+			"difficultyType": 1,
+			"difficultyGroup": 302,
+			"type": 3,
+			"stageGroup": 3002,
+			"relation": 102,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70002,
+			"unlock": [
+				10997
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Cafe",
+			"mapBackground": "Img_ActivityCafe_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 3003,
+			"name": "Intertwined Assault",
+			"difficultyType": 1,
+			"difficultyGroup": 303,
+			"type": 3,
+			"stageGroup": 4006,
+			"relation": 103,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70003,
+			"unlock": [
+				10997
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 3004,
+			"name": "Vestigial Display",
+			"difficultyType": 1,
+			"difficultyGroup": 304,
+			"type": 3,
+			"stageGroup": 4007,
+			"relation": 104,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70004,
+			"unlock": [
+				10997
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"mapBackground": "Img_Jiangyu_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
 			"id": 3005,
 			"name": "Rhapsody Quartet",
 			"difficultyType": 1,
@@ -433,6 +538,321 @@
 			"globalTab": 0
 		},
 		{
+			"id": 3008,
+			"name": "Halting Station",
+			"difficultyType": 1,
+			"difficultyGroup": 308,
+			"type": 3,
+			"stageGroup": 4011,
+			"relation": 108,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70008,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Dusevnyj",
+			"mapBackground": "Img_Dusevnyj_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3009,
+			"name": "Echo of Dawn",
+			"difficultyType": 1,
+			"difficultyGroup": 309,
+			"type": 3,
+			"stageGroup": 4012,
+			"relation": 109,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70009,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Zhaohui",
+			"mapBackground": "Img_Zhaohui_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3010,
+			"name": "Aphelion - Part 1",
+			"difficultyType": 1,
+			"difficultyGroup": 310,
+			"type": 3,
+			"stageGroup": 4013,
+			"relation": 110,
+			"tab": 1,
+			"tabName": "剧情战役",
+			"planId": 70010,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3011,
+			"name": "Aphelion - Part 2",
+			"difficultyType": 1,
+			"difficultyGroup": 311,
+			"type": 3,
+			"stageGroup": 4014,
+			"relation": 111,
+			"tab": 1,
+			"tabName": "剧情战役",
+			"planId": 70011,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3012,
+			"name": "Escape from Cyborg",
+			"difficultyType": 1,
+			"difficultyGroup": 312,
+			"type": 3,
+			"stageGroup": 4015,
+			"relation": 112,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70012,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Vector",
+			"mapBackground": "Img_Vector_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3013,
+			"name": "404 Found",
+			"difficultyType": 1,
+			"difficultyGroup": 313,
+			"type": 3,
+			"stageGroup": 4016,
+			"relation": 113,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70013,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Biyoca",
+			"mapBackground": "Img_Biyoca_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3014,
+			"name": "Into the Shadows",
+			"difficultyType": 1,
+			"difficultyGroup": 314,
+			"type": 3,
+			"stageGroup": 4017,
+			"relation": 114,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70014,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Andoris",
+			"mapBackground": "Img_Andoris_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3015,
+			"name": "Mímisbrunnr's Loop - Part I",
+			"difficultyType": 1,
+			"difficultyGroup": 315,
+			"type": 3,
+			"stageGroup": 4018,
+			"relation": 115,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70015,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				42
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Springfield",
+			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3016,
+			"name": "Mímisbrunnr's Loop - Part II",
+			"difficultyType": 1,
+			"difficultyGroup": 316,
+			"type": 3,
+			"stageGroup": 4019,
+			"relation": 116,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70016,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				42
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Peri",
+			"mapBackground": "Img_Peri_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
 			"id": 4001,
 			"name": "Amidst Wings of Gray",
 			"difficultyType": 1,
@@ -454,6 +874,111 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Daiyan",
 			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4002,
+			"name": "Bitter Thorns and Daisies",
+			"difficultyType": 1,
+			"difficultyGroup": 402,
+			"type": 4,
+			"stageGroup": 3002,
+			"relation": 102,
+			"notes": 1,
+			"tabName": "活动战役",
+			"planId": 700001,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Cafe",
+			"mapBackground": "Img_ActivityCafe_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4006,
+			"name": "Intertwined Assault",
+			"difficultyType": 1,
+			"difficultyGroup": 406,
+			"type": 4,
+			"stageGroup": 4006,
+			"relation": 103,
+			"notes": 1,
+			"planId": 50021,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"tabName": "",
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4007,
+			"name": "Vestigial Display",
+			"difficultyType": 1,
+			"difficultyGroup": 407,
+			"type": 4,
+			"stageGroup": 4007,
+			"relation": 104,
+			"notes": 1,
+			"tabName": "普通模式",
+			"planId": 50017,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"mapBackground": "Img_Jiangyu_ChapterBg_1",
 			"decoration": "UIChapterDecoration1Item",
 			"effects": "story_sandwind",
 			"chapterRewardShow": {
@@ -511,7 +1036,7 @@
 			"stageGroup": 4009,
 			"relation": 106,
 			"notes": 1,
-			"tabName": "普通模式",
+			"tabName": "剧情模式",
 			"planId": 500059,
 			"unlock": [
 				29301
@@ -546,7 +1071,7 @@
 			"stageGroup": 4010,
 			"relation": 107,
 			"notes": 1,
-			"tabName": "普通模式",
+			"tabName": "剧情模式",
 			"planId": 500061,
 			"unlock": [
 				29301
@@ -559,6 +1084,286 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Ullrid",
 			"mapBackground": "Img_Ullrid_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4011,
+			"name": "Halting Station",
+			"difficultyType": 1,
+			"difficultyGroup": 411,
+			"type": 4,
+			"stageGroup": 4011,
+			"relation": 108,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 1000008,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Dusevnyj",
+			"mapBackground": "Img_Dusevnyj_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4012,
+			"name": "Echo of Dawn",
+			"difficultyType": 1,
+			"difficultyGroup": 412,
+			"type": 4,
+			"stageGroup": 4012,
+			"relation": 109,
+			"notes": 1,
+			"tabName": "普通模式",
+			"planId": 50033,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Zhaohui",
+			"mapBackground": "Img_Zhaohui_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4013,
+			"name": "Aphelion - Part 1",
+			"difficultyType": 1,
+			"difficultyGroup": 413,
+			"type": 4,
+			"stageGroup": 4013,
+			"relation": 110,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500050,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4014,
+			"name": "Aphelion - Part 2",
+			"difficultyType": 1,
+			"difficultyGroup": 414,
+			"type": 4,
+			"stageGroup": 4014,
+			"relation": 111,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500052,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4015,
+			"name": "Escape from Cyborg",
+			"difficultyType": 1,
+			"difficultyGroup": 415,
+			"type": 4,
+			"stageGroup": 4015,
+			"relation": 112,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 50036,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Vector",
+			"mapBackground": "Img_Vector_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4016,
+			"name": "404 Found",
+			"difficultyType": 1,
+			"difficultyGroup": 416,
+			"type": 4,
+			"stageGroup": 4016,
+			"relation": 113,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 50040,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Biyoca",
+			"mapBackground": "Img_Biyoca_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4017,
+			"name": "Into the Shadows",
+			"difficultyType": 1,
+			"difficultyGroup": 417,
+			"type": 4,
+			"stageGroup": 4017,
+			"relation": 114,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500071,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Andoris",
+			"mapBackground": "Img_Andoris_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4018,
+			"name": "Mímisbrunnr's Loop - Part I",
+			"difficultyType": 1,
+			"difficultyGroup": 418,
+			"type": 4,
+			"stageGroup": 4018,
+			"relation": 115,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500077,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				42
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Springfield",
+			"mapBackground": "Img_Springfield_ChapterBg_1",
 			"decoration": "UIChapterDecoration1Item",
 			"effects": "story_sandwind",
 			"chapterRewardShow": {
@@ -907,6 +1712,138 @@
 			"globalTab": 0
 		},
 		{
+			"id": 93002,
+			"name": "Bitter Thorns and Daisies",
+			"difficultyType": 2,
+			"difficultyGroup": 302,
+			"type": 3,
+			"stageGroup": 93002,
+			"relation": 202,
+			"tab": 2,
+			"tabName": "活动战役",
+			"planId": 70002,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Cafe",
+			"mapBackground": "Img_ActivityCafe_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93003,
+			"name": "Intertwined Assault",
+			"difficultyType": 2,
+			"difficultyGroup": 303,
+			"type": 3,
+			"stageGroup": 94006,
+			"relation": 203,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70003,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93004,
+			"name": "Vestigial Display",
+			"difficultyType": 2,
+			"difficultyGroup": 304,
+			"type": 3,
+			"stageGroup": 94007,
+			"relation": 204,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70004,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"mapBackground": "Img_Jiangyu_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93005,
+			"name": "Rhapsody Quartet",
+			"difficultyType": 2,
+			"difficultyGroup": 305,
+			"type": 3,
+			"stageGroup": 94008,
+			"relation": 205,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70005,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Macqiato",
+			"mapBackground": "Img_Macqiato_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
 			"id": 93006,
 			"name": "Sojourners - Part I",
 			"difficultyType": 2,
@@ -973,6 +1910,311 @@
 			"globalTab": 0
 		},
 		{
+			"id": 93008,
+			"name": "Halting Station",
+			"difficultyType": 2,
+			"difficultyGroup": 308,
+			"type": 3,
+			"stageGroup": 94011,
+			"relation": 208,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70008,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Dusevnyj",
+			"mapBackground": "Img_Dusevnyj_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93009,
+			"name": "Echo of Dawn",
+			"difficultyType": 2,
+			"difficultyGroup": 309,
+			"type": 3,
+			"stageGroup": 94012,
+			"relation": 209,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70009,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Zhaohui",
+			"mapBackground": "Img_Zhaohui_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93010,
+			"name": "Aphelion - Part 1",
+			"difficultyType": 2,
+			"difficultyGroup": 310,
+			"type": 3,
+			"stageGroup": 94013,
+			"relation": 210,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70010,
+			"unlock": [
+				93006
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:14000|12:1,1:100,8301:14000|12:2,1:150,2:14000",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93011,
+			"name": "Aphelion - Part 2",
+			"difficultyType": 2,
+			"difficultyGroup": 311,
+			"type": 3,
+			"stageGroup": 94014,
+			"relation": 211,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70011,
+			"unlock": [
+				93007
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:14000|12:1,1:100,8301:14000|12:2,1:150,2:14000",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93012,
+			"name": "Escape from Cyborg",
+			"difficultyType": 2,
+			"difficultyGroup": 312,
+			"type": 3,
+			"stageGroup": 94015,
+			"relation": 212,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70012,
+			"unlock": [
+				93008
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Vector",
+			"mapBackground": "Img_Vector_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93013,
+			"name": "404 Found",
+			"difficultyType": 2,
+			"difficultyGroup": 313,
+			"type": 3,
+			"stageGroup": 94016,
+			"relation": 213,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70013,
+			"unlock": [
+				93009
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Biyoca",
+			"mapBackground": "Img_Biyoca_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93014,
+			"name": "Into the Shadows",
+			"difficultyType": 2,
+			"difficultyGroup": 314,
+			"type": 3,
+			"stageGroup": 94017,
+			"relation": 214,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70014,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Andoris",
+			"mapBackground": "Img_Andoris_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93015,
+			"name": "Mímisbrunnr's Loop - Part I",
+			"difficultyType": 2,
+			"difficultyGroup": 315,
+			"type": 3,
+			"stageGroup": 94018,
+			"relation": 215,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70015,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Springfield",
+			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93016,
+			"name": "",
+			"difficultyType": 2,
+			"difficultyGroup": 316,
+			"type": 3,
+			"stageGroup": 94019,
+			"relation": 216,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70016,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "#REF!",
+			"mapBackground": "#REF!",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
 			"id": 94001,
 			"name": "Amidst Wings of Gray",
 			"difficultyType": 2,
@@ -1005,6 +2247,107 @@
 			"preChapter": [],
 			"decoration": "",
 			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94002,
+			"name": "Bitter Thorns and Daisies",
+			"difficultyType": 2,
+			"difficultyGroup": 402,
+			"type": 4,
+			"stageGroup": 93002,
+			"relation": 202,
+			"notes": 1,
+			"tabName": "活动战役",
+			"planId": 51001,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Cafe",
+			"mapBackground": "Img_ActivityCafe_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94006,
+			"name": "Intertwined Assault",
+			"difficultyType": 2,
+			"difficultyGroup": 406,
+			"type": 4,
+			"stageGroup": 94006,
+			"relation": 203,
+			"notes": 1,
+			"planId": 51003,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"tabName": "",
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94007,
+			"name": "Vestigial Display",
+			"difficultyType": 2,
+			"difficultyGroup": 407,
+			"type": 4,
+			"stageGroup": 94007,
+			"relation": 204,
+			"notes": 1,
+			"tabName": "困难模式",
+			"planId": 51005,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"mapBackground": "Img_Jiangyu_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
 			"globalTab": 0
 		},
 		{
@@ -1113,6 +2456,276 @@
 			"globalTab": 0
 		},
 		{
+			"id": 94011,
+			"name": "Halting Station",
+			"difficultyType": 2,
+			"difficultyGroup": 411,
+			"type": 4,
+			"stageGroup": 94011,
+			"relation": 208,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 1000009,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Dusevnyj",
+			"mapBackground": "Img_Dusevnyj_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94012,
+			"name": "Echo of Dawn",
+			"difficultyType": 2,
+			"difficultyGroup": 412,
+			"type": 4,
+			"stageGroup": 94012,
+			"relation": 209,
+			"notes": 1,
+			"tabName": "困难模式",
+			"planId": 51015,
+			"unlock": [
+				93005
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Zhaohui",
+			"mapBackground": "Img_Zhaohui_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94013,
+			"name": "Aphelion - Part 1",
+			"difficultyType": 2,
+			"difficultyGroup": 413,
+			"type": 4,
+			"stageGroup": 94013,
+			"relation": 210,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51017,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:14000|12:1,1:100,8301:14000|12:2,1:150,2:14000",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94014,
+			"name": "Aphelion - Part 2",
+			"difficultyType": 2,
+			"difficultyGroup": 414,
+			"type": 4,
+			"stageGroup": 94014,
+			"relation": 211,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51019,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "12:1,1:50,25:14000|12:1,1:100,8301:14000|12:2,1:150,2:14000",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94015,
+			"name": "Escape from Cyborg",
+			"difficultyType": 2,
+			"difficultyGroup": 415,
+			"type": 4,
+			"stageGroup": 94015,
+			"relation": 212,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51021,
+			"unlock": [
+				93008
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Vector",
+			"mapBackground": "Img_Vector_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94016,
+			"name": "404 Found",
+			"difficultyType": 2,
+			"difficultyGroup": 416,
+			"type": 4,
+			"stageGroup": 94016,
+			"relation": 213,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51025,
+			"unlock": [
+				93009
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Biyoca",
+			"mapBackground": "Img_Biyoca_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94017,
+			"name": "Into the Shadows",
+			"difficultyType": 2,
+			"difficultyGroup": 417,
+			"type": 4,
+			"stageGroup": 94017,
+			"relation": 214,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51027,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Andoris",
+			"mapBackground": "Img_Andoris_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94018,
+			"name": "Mímisbrunnr's Loop - Part I",
+			"difficultyType": 2,
+			"difficultyGroup": 418,
+			"type": 4,
+			"stageGroup": 94018,
+			"relation": 215,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51029,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Springfield",
+			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
 			"id": 994001,
 			"name": "Amidst Wings of Gray",
 			"difficultyType": 3,
@@ -1124,6 +2737,81 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Daiyan",
 			"mapBackground": "Img_Daiyan_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994002,
+			"name": "Bitter Thorns and Daisies",
+			"difficultyType": 3,
+			"difficultyGroup": 99402,
+			"type": 4,
+			"stageGroup": 994002,
+			"tabName": "挑战模式",
+			"planId": 51002,
+			"chapterDes": "",
+			"background": "Img_Branch_Cafe",
+			"mapBackground": "Img_ActivityCafe_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994004,
+			"name": "Intertwined Assault",
+			"difficultyType": 3,
+			"difficultyGroup": 99404,
+			"type": 4,
+			"stageGroup": 994004,
+			"tabName": "挑战模式",
+			"planId": 51004,
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994007,
+			"name": "Vestigial Display",
+			"difficultyType": 3,
+			"difficultyGroup": 99407,
+			"type": 4,
+			"stageGroup": 994007,
+			"tabName": "挑战模式",
+			"planId": 51006,
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"mapBackground": "Img_Jiangyu_ChapterBg_2",
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
@@ -1199,6 +2887,206 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Ullrid",
 			"mapBackground": "Img_Ullrid_ChapterBg_2",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994011,
+			"name": "Halting Station",
+			"difficultyType": 3,
+			"difficultyGroup": 99411,
+			"type": 4,
+			"stageGroup": 994011,
+			"tabName": "挑战模式",
+			"planId": 1000010,
+			"chapterDes": "",
+			"background": "Img_Branch_Dusevnyj",
+			"mapBackground": "Img_Dusevnyj_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994012,
+			"name": "Echo of Dawn",
+			"difficultyType": 3,
+			"difficultyGroup": 99412,
+			"type": 4,
+			"stageGroup": 994012,
+			"tabName": "挑战模式",
+			"planId": 51016,
+			"chapterDes": "",
+			"background": "Img_Branch_Zhaohui",
+			"mapBackground": "Img_Zhaohui_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994013,
+			"name": "Aphelion - Part 1",
+			"difficultyType": 3,
+			"difficultyGroup": 99413,
+			"type": 4,
+			"stageGroup": 994013,
+			"tabName": "挑战模式·上篇",
+			"planId": 51018,
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994014,
+			"name": "Aphelion - Part 2",
+			"difficultyType": 3,
+			"difficultyGroup": 99414,
+			"type": 4,
+			"stageGroup": 994014,
+			"tabName": "挑战模式·下篇",
+			"planId": 51020,
+			"chapterDes": "",
+			"background": "Img_Branch_Clukay",
+			"mapBackground": "Img_Clukay_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994015,
+			"name": "Escape from Cyborg",
+			"difficultyType": 3,
+			"difficultyGroup": 99415,
+			"type": 4,
+			"stageGroup": 994015,
+			"tabName": "挑战模式",
+			"planId": 51022,
+			"chapterDes": "",
+			"background": "Img_Branch_Vector",
+			"mapBackground": "Img_Vector_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994016,
+			"name": "404 Found",
+			"difficultyType": 3,
+			"difficultyGroup": 99416,
+			"type": 4,
+			"stageGroup": 994016,
+			"tabName": "挑战模式",
+			"planId": 51026,
+			"chapterDes": "",
+			"background": "Img_Branch_Biyoca",
+			"mapBackground": "Img_Biyoca_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994017,
+			"name": "Into the Shadows",
+			"difficultyType": 3,
+			"difficultyGroup": 99417,
+			"type": 4,
+			"stageGroup": 994017,
+			"tabName": "挑战模式",
+			"planId": 51028,
+			"chapterDes": "",
+			"background": "Img_Branch_Andoris",
+			"mapBackground": "Img_Andoris_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994018,
+			"name": "Mímisbrunnr's Loop - Part I",
+			"difficultyType": 3,
+			"difficultyGroup": 99418,
+			"type": 4,
+			"stageGroup": 994018,
+			"tabName": "挑战模式",
+			"planId": 51030,
+			"chapterDes": "",
+			"background": "Img_Branch_Springfield",
+			"mapBackground": "Img_Springfield_ChapterBg_1",
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,

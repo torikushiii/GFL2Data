@@ -331,17 +331,6 @@
 			"articleId": 119
 		},
 		{
-			"id": 1021012,
-			"sceneName": "Activity_SimCafe",
-			"pointGroup": 10203,
-			"sceneArea": 3,
-			"sceneLevel": 1,
-			"pointX": -14.77,
-			"pointZ": -1.5,
-			"articleId": 202,
-			"pointY": 0.0
-		},
-		{
 			"id": 1021013,
 			"sceneName": "Activity_SimCafe",
 			"pointGroup": 10202,
@@ -428,17 +417,6 @@
 			"pointY": -0.33,
 			"pointZ": -0.8,
 			"articleId": 0
-		},
-		{
-			"id": 1022007,
-			"sceneName": "Activity_SimCafe",
-			"pointGroup": 10203,
-			"sceneArea": 3,
-			"sceneLevel": 2,
-			"pointX": -13.34,
-			"pointZ": -0.5,
-			"articleId": 201,
-			"pointY": 0.0
 		},
 		{
 			"id": 1022008,

@@ -55,6 +55,15 @@
 			"closeType": 0
 		},
 		{
+			"id": 60508,
+			"bingoId": 10006,
+			"gameId": 3002,
+			"gameIcon": "Icon_TreasureActivity_MiniGame_3",
+			"gameSpec": "Mask_TreasureActivityItem_MiniGame_3",
+			"bpId": 0,
+			"closeType": 0
+		},
+		{
 			"id": 68003,
 			"bingoId": 10007,
 			"bpId": 0,
@@ -66,6 +75,24 @@
 		{
 			"id": 68004,
 			"bingoId": 10008,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
+			"id": 68008,
+			"bingoId": 10009,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
+			"id": 68011,
+			"bingoId": 10010,
 			"bpId": 0,
 			"gameId": 0,
 			"gameIcon": "",

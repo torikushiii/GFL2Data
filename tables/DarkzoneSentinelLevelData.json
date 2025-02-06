@@ -3,11 +3,10 @@
 		{
 			"id": 1,
 			"warnRange": [
-				301,
+				401,
 				500
 			],
 			"effectLevel": 4,
-			"isWarnState": 1,
 			"addBuff": [
 				30502
 			],
@@ -20,30 +19,50 @@
 		{
 			"id": 2,
 			"warnRange": [
-				151,
-				300
+				301,
+				400
 			],
-			"effectLevel": 3,
-			"addBuff": [
-				30502
-			],
+			"effectLevel": 4,
 			"hint": [
-				903526,
+				903532,
 				903527
 			],
-			"isWarnState": 0
+			"addBuff": []
 		},
 		{
 			"id": 3,
 			"warnRange": [
+				201,
+				300
+			],
+			"effectLevel": 3,
+			"hint": [
+				903530
+			],
+			"addBuff": []
+		},
+		{
+			"id": 4,
+			"warnRange": [
+				101,
+				200
+			],
+			"effectLevel": 3,
+			"hint": [
+				903528
+			],
+			"addBuff": []
+		},
+		{
+			"id": 5,
+			"warnRange": [
 				0,
-				150
+				100
 			],
 			"hint": [
 				903525
 			],
 			"effectLevel": 0,
-			"isWarnState": 0,
 			"addBuff": []
 		}
 	]

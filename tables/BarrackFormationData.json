@@ -326,6 +326,71 @@
 			"changeclothes": "c_LottaSR01_BarrackEntrance_Normal"
 		},
 		{
+			"id": 104201,
+			"gunId": 1042,
+			"type": 1,
+			"barrackIdleNormal": "c_AndorisSSR01_BarrackIdle",
+			"barrackEntrance": "c_AndorisSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "AndorisSSR01/c_AndorisSSR01_Upgrade",
+			"classTrainingShootResource": "AndorisSSR01/c_AndorisSSR01_Class",
+			"ending": "AndorisSSR01/c_AndorisSSR01_Ending",
+			"endingidle": "AndorisSSR01/c_AndorisSSR01_EndingIdle",
+			"toidle": "c_AndorisSSR01_ToIdle",
+			"changeclothes": "c_AndorisSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 104301,
+			"gunId": 1043,
+			"type": 1,
+			"barrackIdleNormal": "c_FayeSSR01_BarrackIdle",
+			"barrackEntrance": "c_FayeSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "FayeSSR01/c_FayeSSR01_Upgrade",
+			"classTrainingShootResource": "FayeSSR01/c_FayeSSR01_Class",
+			"ending": "FayeSSR01/c_FayeSSR01_Ending",
+			"endingidle": "FayeSSR01/c_FayeSSR01_EndingIdle",
+			"toidle": "c_FayeSSR01_ToIdle",
+			"changeclothes": "c_FayeSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 104401,
+			"gunId": 1044,
+			"type": 1,
+			"barrackIdleNormal": "c_VectorSSR01_BarrackIdle",
+			"barrackEntrance": "c_VectorSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "VectorSSR01/c_VectorSSR01_Upgrade",
+			"classTrainingShootResource": "VectorSSR01/c_VectorSSR01_Class",
+			"ending": "VectorSSR01/c_VectorSSR01_Ending",
+			"endingidle": "VectorSSR01/c_VectorSSR01_EndingIdle",
+			"toidle": "c_VectorSSR01_ToIdle",
+			"changeclothes": "c_VectorSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 104501,
+			"gunId": 1045,
+			"type": 1,
+			"barrackIdleNormal": "c_BiyocaSSR01_BarrackIdle",
+			"barrackEntrance": "c_BiyocaSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "BiyocaSSR01/c_BiyocaSSR01_Upgrade",
+			"classTrainingShootResource": "BiyocaSSR01/c_BiyocaSSR01_Class",
+			"ending": "BiyocaSSR01/c_BiyocaSSR01_Ending",
+			"endingidle": "BiyocaSSR01/c_BiyocaSSR01_EndingIdle",
+			"toidle": "c_BiyocaSSR01_ToIdle",
+			"changeclothes": "c_BiyocaSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 104701,
+			"gunId": 1047,
+			"type": 1,
+			"barrackIdleNormal": "c_SpringfieldSSR01_BarrackIdle",
+			"barrackEntrance": "c_SpringfieldSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "SpringfieldSSR01/c_SpringfieldSSR01_Upgrade",
+			"classTrainingShootResource": "SpringfieldSSR01/c_SpringfieldSSR01_Class",
+			"ending": "SpringfieldSSR01/c_SpringfieldSSR01_Ending",
+			"endingidle": "SpringfieldSSR01/c_SpringfieldSSR01_EndingIdle",
+			"toidle": "c_SpringfieldSSR01_ToIdle",
+			"changeclothes": "c_SpringfieldSSR01_BarrackEntrance_Normal"
+		},
+		{
 			"id": 105001,
 			"gunId": 1050,
 			"type": 1,
@@ -337,6 +402,19 @@
 			"endingidle": "ZhaohuiSSR01/c_ZhaohuiSSR01_EndingIdle",
 			"toidle": "c_ZhaohuiSSR01_ToIdle",
 			"changeclothes": "c_ZhaohuiSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105101,
+			"gunId": 1051,
+			"type": 1,
+			"barrackIdleNormal": "c_MishtySSR01_BarrackIdle",
+			"barrackEntrance": "c_MishtySSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "MishtySSR01/c_MishtySSR01_Upgrade",
+			"classTrainingShootResource": "MishtySSR01/c_MishtySSR01_Class",
+			"ending": "MishtySSR01/c_MishtySSR01_Ending",
+			"endingidle": "MishtySSR01/c_MishtySSR01_EndingIdle",
+			"toidle": "c_MishtySSR01_ToIdle",
+			"changeclothes": "c_MishtySSR01_BarrackEntrance_Normal"
 		},
 		{
 			"id": 105201,

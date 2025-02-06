@@ -47,7 +47,7 @@
 		},
 		{
 			"stageId": 20211,
-			"requireDesc": "Eliminate the target within the time limit and defend the base.",
+			"requireDesc": "Eliminate the target within the time limit and defend the Control Point.",
 			"reward": {
 				"1": 80,
 				"2": 5000,
@@ -92,7 +92,7 @@
 		},
 		{
 			"stageId": 20311,
-			"requireDesc": "Defend the base and eliminate all targets.",
+			"requireDesc": "Defend the Control Point and eliminate all targets.",
 			"reward": {
 				"1": 80,
 				"2": 6000,
@@ -128,7 +128,7 @@
 		},
 		{
 			"stageId": 20351,
-			"requireDesc": "Defend the base and eliminate all targets.",
+			"requireDesc": "Defend the Control Point and eliminate all targets.",
 			"reward": {
 				"1": 80,
 				"2": 6000,
@@ -191,7 +191,7 @@
 		},
 		{
 			"stageId": 20521,
-			"requireDesc": "Capture the base and eliminate the target.",
+			"requireDesc": "Capture the Control Point and eliminate specified targets",
 			"reward": {
 				"1": 120,
 				"2": 10000,
@@ -200,7 +200,7 @@
 		},
 		{
 			"stageId": 20531,
-			"requireDesc": "Capture and hold the base for 6 turns.",
+			"requireDesc": "Capture and defend the Control Point for 6 turns.",
 			"reward": {
 				"1": 120,
 				"2": 10000,
@@ -317,7 +317,7 @@
 		},
 		{
 			"stageId": 20811,
-			"requireDesc": "Protect allies and capture all the bases.",
+			"requireDesc": "Protect allies and capture all the Control Points.",
 			"reward": {
 				"1": 150,
 				"2": 12000,
@@ -362,7 +362,7 @@
 		},
 		{
 			"stageId": 20911,
-			"requireDesc": "Eliminate all enemies.",
+			"requireDesc": "Rescue allies and eliminate specified targets",
 			"reward": {
 				"1": 180,
 				"2": 14400,
@@ -371,7 +371,7 @@
 		},
 		{
 			"stageId": 20921,
-			"requireDesc": "Defend the base",
+			"requireDesc": "Eliminate the target and evacuate everyone",
 			"reward": {
 				"1": 180,
 				"2": 14400,
@@ -380,7 +380,7 @@
 		},
 		{
 			"stageId": 20931,
-			"requireDesc": "Eliminate the target",
+			"requireDesc": "Evacuate everyone.",
 			"reward": {
 				"1": 180,
 				"2": 14400,
@@ -389,7 +389,7 @@
 		},
 		{
 			"stageId": 20941,
-			"requireDesc": "Eliminate all enemies.",
+			"requireDesc": "Rescue and escort the target.",
 			"reward": {
 				"1": 180,
 				"2": 14400,
@@ -398,7 +398,7 @@
 		},
 		{
 			"stageId": 20951,
-			"requireDesc": "Eliminate all enemies.",
+			"requireDesc": "Capture and defend the Control Point.",
 			"reward": {
 				"1": 180,
 				"2": 14400,

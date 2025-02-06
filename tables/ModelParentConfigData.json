@@ -1,11 +1,12 @@
 {
 	"data": [
 		{
-			"id": 6542,
+			"id": 6762,
 			"typeCode": 2,
-			"parentModel": "Bolidao_ReclamationExpertPhantomMix",
+			"parentModel": "SK_Mopro_ProcessorMix",
 			"prefabType": 1,
-			"figureType": 9,
+			"figureType": 10,
+			"hurtPerformType": 1,
 			"dissolveStartDelay": 60,
 			"dissolveDuration": 120
 		},
@@ -16,7 +17,8 @@
 			"prefabType": 1,
 			"figureType": 8,
 			"dissolveStartDelay": 60,
-			"dissolveDuration": 120
+			"dissolveDuration": 120,
+			"hurtPerformType": 0
 		},
 		{
 			"id": 6936,
@@ -25,7 +27,8 @@
 			"prefabType": 1,
 			"figureType": 8,
 			"dissolveStartDelay": 60,
-			"dissolveDuration": 120
+			"dissolveDuration": 120,
+			"hurtPerformType": 0
 		},
 		{
 			"id": 6941,
@@ -34,7 +37,8 @@
 			"prefabType": 1,
 			"figureType": 8,
 			"dissolveStartDelay": 60,
-			"dissolveDuration": 120
+			"dissolveDuration": 120,
+			"hurtPerformType": 0
 		},
 		{
 			"id": 6963,
@@ -42,6 +46,7 @@
 			"parentModel": "NONE_KoshmarMix",
 			"prefabType": 1,
 			"figureType": 8,
+			"hurtPerformType": 1,
 			"dissolveStartDelay": 60,
 			"dissolveDuration": 120
 		}

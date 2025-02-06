@@ -164,6 +164,46 @@
 			"id": 33,
 			"name": "Stack",
 			"description": "Specific to stacked effects"
+		},
+		{
+			"id": 34,
+			"name": "Damage Buff",
+			"description": "Buff Effect Breakdown"
+		},
+		{
+			"id": 35,
+			"name": "Basic Attack Enhancement",
+			"description": ""
+		},
+		{
+			"id": 36,
+			"name": "Fixed Damage",
+			"description": ""
+		},
+		{
+			"id": 37,
+			"name": "Agile Combat",
+			"description": "Used on characters with multiple Extra Actions"
+		},
+		{
+			"id": 38,
+			"name": "Damage Distribution",
+			"description": ""
+		},
+		{
+			"id": 39,
+			"name": "Overflow Damage",
+			"description": "Conditions where excess status effects will increase damage"
+		},
+		{
+			"id": 40,
+			"name": "Ignores defense",
+			"description": "Partially ignores defense"
+		},
+		{
+			"id": 41,
+			"name": "Ignores obstructions",
+			"description": "Can move past enemy units"
 		}
 	]
 }

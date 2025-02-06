@@ -89,6 +89,18 @@
 			"unlock": 0,
 			"soldCheckbox": {},
 			"soldHint": []
+		},
+		{
+			"id": 10,
+			"sequence": 7,
+			"title": "Souvenirs",
+			"canSold": [
+				0
+			],
+			"unlock": 0,
+			"soldCheckbox": {},
+			"soldHint": [],
+			"toptag": []
 		}
 	]
 }

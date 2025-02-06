@@ -3293,6 +3293,734 @@
 			],
 			"perGroup": [],
 			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1028001,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028002
+			],
+			"openPoijnt": [
+				"1028001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1028001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028002,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028003
+			],
+			"openPoijnt": [
+				"1028002001",
+				"1028002002",
+				"1028002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1028002001",
+				"1028002002",
+				"1028002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028003,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028004
+			],
+			"openPoijnt": [
+				"1028003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1028003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028004,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028005
+			],
+			"openPoijnt": [
+				"1028004001",
+				"1028004002",
+				"1028004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1028004001",
+				"1028004002",
+				"1028004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028005,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028006
+			],
+			"openPoijnt": [
+				"1028005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1028005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028006,
+			"squadTalentTreeId": 1028,
+			"perGroup": [
+				1028007
+			],
+			"openPoijnt": [
+				"1028006001",
+				"1028006002",
+				"1028006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1028006001",
+				"1028006002",
+				"1028006003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1028007,
+			"squadTalentTreeId": 1028,
+			"openPoijnt": [
+				"1028007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1028007001"
+			],
+			"perGroup": [],
+			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1029001,
+			"squadTalentTreeId": 1029,
+			"perGroup": [
+				1029002
+			],
+			"openPoijnt": [
+				"1029001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1029001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1029002,
+			"squadTalentTreeId": 1029,
+			"perGroup": [
+				1029003
+			],
+			"openPoijnt": [
+				"1029002001",
+				"1029002002",
+				"1029002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1029002001",
+				"1029002002",
+				"1029002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1029003,
+			"squadTalentTreeId": 1029,
+			"perGroup": [
+				1029004
+			],
+			"openPoijnt": [
+				"1029003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1029003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1029004,
+			"squadTalentTreeId": 1029,
+			"perGroup": [
+				1029005
+			],
+			"openPoijnt": [
+				"1029004001",
+				"1029004002",
+				"1029004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1029004001",
+				"1029004002",
+				"1029004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1029005,
+			"squadTalentTreeId": 1029,
+			"perGroup": [
+				1029006
+			],
+			"openPoijnt": [
+				"1029005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1029005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1029006,
+			"squadTalentTreeId": 1029,
+			"openPoijnt": [
+				"1029006001",
+				"1029006002",
+				"1029006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1029006001",
+				"1029006002",
+				"1029006003"
+			],
+			"perGroup": []
+		},
+		{
+			"squadTalentTreeGroupId": 1029007,
+			"squadTalentTreeId": 1029,
+			"openPoijnt": [
+				"1029007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1029007001"
+			],
+			"perGroup": [],
+			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1030001,
+			"squadTalentTreeId": 1030,
+			"perGroup": [
+				1030002
+			],
+			"openPoijnt": [
+				"1030001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1030001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1030002,
+			"squadTalentTreeId": 1030,
+			"perGroup": [
+				1030003
+			],
+			"openPoijnt": [
+				"1030002001",
+				"1030002002",
+				"1030002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1030002001",
+				"1030002002",
+				"1030002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1030003,
+			"squadTalentTreeId": 1030,
+			"perGroup": [
+				1030004
+			],
+			"openPoijnt": [
+				"1030003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1030003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1030004,
+			"squadTalentTreeId": 1030,
+			"perGroup": [
+				1030005
+			],
+			"openPoijnt": [
+				"1030004001",
+				"1030004002",
+				"1030004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1030004001",
+				"1030004002",
+				"1030004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1030005,
+			"squadTalentTreeId": 1030,
+			"perGroup": [
+				1030006
+			],
+			"openPoijnt": [
+				"1030005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1030005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1030006,
+			"squadTalentTreeId": 1030,
+			"openPoijnt": [
+				"1030006001",
+				"1030006002",
+				"1030006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1030006001",
+				"1030006002",
+				"1030006003"
+			],
+			"perGroup": []
+		},
+		{
+			"squadTalentTreeGroupId": 1030007,
+			"squadTalentTreeId": 1030,
+			"openPoijnt": [
+				"1030007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1030007001"
+			],
+			"perGroup": [],
+			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1031001,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031002
+			],
+			"openPoijnt": [
+				"1031001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1031001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031002,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031003
+			],
+			"openPoijnt": [
+				"1031002001",
+				"1031002002",
+				"1031002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1031002001",
+				"1031002002",
+				"1031002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031003,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031004
+			],
+			"openPoijnt": [
+				"1031003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1031003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031004,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031005
+			],
+			"openPoijnt": [
+				"1031004001",
+				"1031004002",
+				"1031004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1031004001",
+				"1031004002",
+				"1031004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031005,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031006
+			],
+			"openPoijnt": [
+				"1031005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1031005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031006,
+			"squadTalentTreeId": 1031,
+			"perGroup": [
+				1031007
+			],
+			"openPoijnt": [
+				"1031006001",
+				"1031006002",
+				"1031006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1031006001",
+				"1031006002",
+				"1031006003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1031007,
+			"squadTalentTreeId": 1031,
+			"openPoijnt": [
+				"1031007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1031007001"
+			],
+			"perGroup": [],
+			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1032001,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032002
+			],
+			"openPoijnt": [
+				"1032001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1032001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032002,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032003
+			],
+			"openPoijnt": [
+				"1032002001",
+				"1032002002",
+				"1032002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1032002001",
+				"1032002002",
+				"1032002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032003,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032004
+			],
+			"openPoijnt": [
+				"1032003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1032003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032004,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032005
+			],
+			"openPoijnt": [
+				"1032004001",
+				"1032004002",
+				"1032004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1032004001",
+				"1032004002",
+				"1032004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032005,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032006
+			],
+			"openPoijnt": [
+				"1032005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1032005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032006,
+			"squadTalentTreeId": 1032,
+			"perGroup": [
+				1032007
+			],
+			"openPoijnt": [
+				"1032006001",
+				"1032006002",
+				"1032006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1032006001",
+				"1032006002",
+				"1032006003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1032007,
+			"squadTalentTreeId": 1032,
+			"openPoijnt": [
+				"1032007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1032007001"
+			],
+			"perGroup": [],
+			"icon": ""
+		},
+		{
+			"squadTalentTreeGroupId": 1033001,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033002
+			],
+			"openPoijnt": [
+				"1033001001"
+			],
+			"openType": 1,
+			"name": "Spiral I (1)",
+			"icon": "Icon_ChrTalent_1_1",
+			"traversePointId": [
+				"1033001001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033002,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033003
+			],
+			"openPoijnt": [
+				"1033002001",
+				"1033002002",
+				"1033002003"
+			],
+			"openType": 1,
+			"name": "Spiral I (2)",
+			"icon": "Icon_ChrTalent_1_2",
+			"traversePointId": [
+				"1033002001",
+				"1033002002",
+				"1033002003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033003,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033004
+			],
+			"openPoijnt": [
+				"1033003001"
+			],
+			"openType": 1,
+			"name": "Spiral I (3)",
+			"icon": "Icon_ChrTalent_1_3",
+			"traversePointId": [
+				"1033003001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033004,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033005
+			],
+			"openPoijnt": [
+				"1033004001",
+				"1033004002",
+				"1033004003"
+			],
+			"openType": 1,
+			"name": "Spiral I (4)",
+			"icon": "Icon_ChrTalent_1_4",
+			"traversePointId": [
+				"1033004001",
+				"1033004002",
+				"1033004003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033005,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033006
+			],
+			"openPoijnt": [
+				"1033005001"
+			],
+			"openType": 1,
+			"name": "Spiral I (5)",
+			"icon": "Icon_ChrTalent_2_1",
+			"traversePointId": [
+				"1033005001"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033006,
+			"squadTalentTreeId": 1033,
+			"perGroup": [
+				1033007
+			],
+			"openPoijnt": [
+				"1033006001",
+				"1033006002",
+				"1033006003"
+			],
+			"openType": 1,
+			"name": "Spiral I (6)",
+			"icon": "Icon_ChrTalent_2_2",
+			"traversePointId": [
+				"1033006001",
+				"1033006002",
+				"1033006003"
+			]
+		},
+		{
+			"squadTalentTreeGroupId": 1033007,
+			"squadTalentTreeId": 1033,
+			"openPoijnt": [
+				"1033007001"
+			],
+			"openType": 1,
+			"name": "Helix - 1 (7)",
+			"traversePointId": [
+				"1033007001"
+			],
+			"perGroup": [],
+			"icon": ""
 		}
 	]
 }

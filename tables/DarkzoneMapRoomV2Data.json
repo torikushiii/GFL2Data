@@ -231,6 +231,11 @@
 			"scene": "/Darkzone/l_darkzone_yd081246/l_darkzone_yd081246"
 		},
 		{
+			"id": 10081247,
+			"collider": "ColliderNode_yd081247",
+			"scene": "/Darkzone/l_darkzone_yd081247/l_darkzone_yd081247"
+		},
+		{
 			"id": 10120801,
 			"collider": "ColliderNode_yd120801",
 			"scene": "/Darkzone/l_darkzone_yd120801/l_darkzone_yd120801"

@@ -1,324 +1,278 @@
 {
 	"data": [
 		{
-			"targetGroupId": 1101,
-			"targetGroupDesc": "Find and eliminate the Tosk.",
-			"targetList": [
-				110101,
-				110102
-			]
-		},
-		{
-			"targetGroupId": 1102,
-			"targetGroupDesc": "Find and eliminate the Angriper.",
-			"targetList": [
-				110201,
-				110202
-			]
-		},
-		{
-			"targetGroupId": 1103,
-			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
-			"targetList": [
-				110301
-			]
-		},
-		{
-			"targetGroupId": 1104,
-			"targetGroupDesc": "Eliminate the Storm Titan, find the evacuation signal station and evacuate.",
-			"targetList": [
-				110401,
-				110402
-			]
-		},
-		{
-			"targetGroupId": 1105,
-			"targetGroupDesc": "Find and eliminate the Nemertea.",
-			"targetList": [
-				110501,
-				110502
-			]
-		},
-		{
-			"targetGroupId": 1106,
-			"targetGroupDesc": "Eliminate Blade Titan, find the evacuation signal station and evacuate.",
-			"targetList": [
-				110601,
-				110602,
-				110603
-			]
-		},
-		{
-			"targetGroupId": 1107,
-			"targetGroupDesc": "Find and eliminate the Aegis SWAP Artillery.",
-			"targetList": [
-				110701,
-				110702
-			]
-		},
-		{
-			"targetGroupId": 1108,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
-			"targetList": [
-				110801,
-				110802
-			]
-		},
-		{
-			"targetGroupId": 1109,
-			"targetGroupDesc": "Find and eliminate the Aegis SWAP Myrmidon.",
-			"targetList": [
-				110901,
-				110902
-			]
-		},
-		{
-			"targetGroupId": 1110,
-			"targetGroupDesc": "After eliminating Darture - Forsaken, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111001,
-				111002,
-				111003
-			]
-		},
-		{
-			"targetGroupId": 1111,
-			"targetGroupDesc": "Find and eliminate the Oljefat.",
-			"targetList": [
-				111101,
-				111102,
-				111103,
-				111104
-			]
-		},
-		{
-			"targetGroupId": 1112,
-			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
-			"targetList": [
-				111201,
-				111202
-			]
-		},
-		{
-			"targetGroupId": 1113,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
-			"targetList": [
-				111301,
-				111302
-			]
-		},
-		{
-			"targetGroupId": 1114,
-			"targetGroupDesc": "Eliminate the Tusk Beasteel, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111401,
-				111402,
-				111403
-			]
-		},
-		{
-			"targetGroupId": 1115,
-			"targetGroupDesc": "After eliminating Darture - Forsaken, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111501,
-				111502
-			]
-		},
-		{
-			"targetGroupId": 1116,
-			"targetGroupDesc": "After eliminating Beak Beasteel, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111601,
-				111602,
-				111603,
-				111604
-			]
-		},
-		{
-			"targetGroupId": 1117,
-			"targetGroupDesc": "Eliminate the Oljefat, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111701,
-				111702
-			]
-		},
-		{
-			"targetGroupId": 1118,
-			"targetGroupDesc": "Eliminate the Fortress Titan, find the evacuation signal station and evacuate.",
-			"targetList": [
-				111801,
-				111802
-			]
-		},
-		{
-			"targetGroupId": 1119,
+			"targetGroupId": 4001,
 			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
 			"targetList": [
-				111901
+				400101
 			]
 		},
 		{
-			"targetGroupId": 1120,
-			"targetGroupDesc": "Avoid Darture - Forsaken's pursuit, find the evacuation signal station and evacuate.",
-			"targetList": [
-				112001,
-				112002
-			]
-		},
-		{
-			"targetGroupId": 1121,
-			"targetGroupDesc": "Find and eliminate the Aegis SWAP Myrmidon.",
-			"targetList": [
-				112101,
-				112102
-			]
-		},
-		{
-			"targetGroupId": 1122,
-			"targetGroupDesc": "Eliminate the Oljefat, find the evacuation signal station and evacuate.",
-			"targetList": [
-				112201,
-				112202
-			]
-		},
-		{
-			"targetGroupId": 1123,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
-			"targetList": [
-				112301,
-				112302
-			]
-		},
-		{
-			"targetGroupId": 1124,
+			"targetGroupId": 4003,
 			"targetGroupDesc": "After eliminating Temblor Titan, find the evacuation signal station and evacuate.",
 			"targetList": [
-				112401,
-				112402
+				4003001,
+				4003002
 			]
 		},
 		{
-			"targetGroupId": 1125,
-			"targetGroupDesc": "Eliminate the Lycosa Singoriensis, find the evacuation signal station and evacuate.",
+			"targetGroupId": 4031,
+			"targetGroupDesc": "After eliminating the designated Blade Titan, find the Evac Station and evacuate.",
 			"targetList": [
-				112501,
-				112502
+				4031001,
+				4031002
 			]
 		},
 		{
-			"targetGroupId": 1126,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
+			"targetGroupId": 4032,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
 			"targetList": [
-				112601
+				4032001
 			]
 		},
 		{
-			"targetGroupId": 1127,
-			"targetGroupDesc": "Find and eliminate the Giordre.",
+			"targetGroupId": 4001001,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
 			"targetList": [
-				112701
+				4001001
 			]
 		},
 		{
-			"targetGroupId": 1128,
-			"targetGroupDesc": "After eliminating Fortress Titan, find the evacuation signal station and evacuate.",
+			"targetGroupId": 4001101,
+			"targetGroupDesc": "Find and eliminate the Oljefat.",
 			"targetList": [
-				112801,
-				112802
+				4001101
 			]
 		},
 		{
-			"targetGroupId": 1165,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
+			"targetGroupId": 4002001,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
 			"targetList": [
-				116501
+				4002001
 			]
 		},
 		{
-			"targetGroupId": 1169,
-			"targetGroupDesc": "Find and defeat any one enemy boss",
+			"targetGroupId": 4004001,
+			"targetGroupDesc": "Locate the designated Horn Beasteel and eliminate it.",
 			"targetList": [
-				116901
+				4004001
 			]
 		},
 		{
-			"targetGroupId": 1170,
-			"targetGroupDesc": "Find and defeat any one enemy boss",
+			"targetGroupId": 4004101,
+			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
 			"targetList": [
-				117001
+				4004101
 			]
 		},
 		{
-			"targetGroupId": 1171,
-			"targetGroupDesc": "Find and defeat any one enemy boss",
+			"targetGroupId": 4004201,
+			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
 			"targetList": [
-				117101
+				4004201
 			]
 		},
 		{
-			"targetGroupId": 1172,
-			"targetGroupDesc": "Find the enemy boss Horn Beasteel and eliminate it.",
+			"targetGroupId": 4006001,
+			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
 			"targetList": [
-				117201
+				4006001
 			]
 		},
 		{
-			"targetGroupId": 1173,
-			"targetGroupDesc": "Eliminate the Oljefat, find the evacuation signal station and evacuate.",
+			"targetGroupId": 4006101,
+			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
 			"targetList": [
-				117301,
-				117302
+				4006101
 			]
 		},
 		{
-			"targetGroupId": 2101,
-			"targetGroupDesc": "Escort the Transporter to the destination.",
-			"targetList": [
-				210102,
-				210103
-			]
-		},
-		{
-			"targetGroupId": 3000,
-			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
-			"targetList": [
-				300001
-			]
-		},
-		{
-			"targetGroupId": 3001,
-			"targetGroupDesc": "Find the evacuation signal station and evacuate",
-			"targetList": [
-				300101
-			]
-		},
-		{
-			"targetGroupId": 3002,
-			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
-			"targetList": [
-				300201
-			]
-		},
-		{
-			"targetGroupId": 3003,
-			"targetGroupDesc": "Eliminate the Fortress Titan, find the evacuation signal station and evacuate.",
-			"targetList": [
-				300301,
-				300302
-			]
-		},
-		{
-			"targetGroupId": 3004,
+			"targetGroupId": 4007001,
 			"targetGroupDesc": "Find and eliminate the Nemertea.",
 			"targetList": [
-				300401
+				4007001
 			]
 		},
 		{
-			"targetGroupId": 3005,
-			"targetGroupDesc": "Find and eliminate the Blade Titan.",
+			"targetGroupId": 4008001,
+			"targetGroupDesc": "Find and eliminate the Nemertea.",
 			"targetList": [
-				300501
+				4008001
+			]
+		},
+		{
+			"targetGroupId": 4009001,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
+			"targetList": [
+				4009001
+			]
+		},
+		{
+			"targetGroupId": 4010001,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
+			"targetList": [
+				4010001
+			]
+		},
+		{
+			"targetGroupId": 4011001,
+			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
+			"targetList": [
+				4011001
+			]
+		},
+		{
+			"targetGroupId": 4012001,
+			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetList": [
+				4012001
+			]
+		},
+		{
+			"targetGroupId": 4013001,
+			"targetGroupDesc": "Locate the designated Horn Beasteel and eliminate it.",
+			"targetList": [
+				4013001
+			]
+		},
+		{
+			"targetGroupId": 4014001,
+			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetList": [
+				4014001
+			]
+		},
+		{
+			"targetGroupId": 4015001,
+			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetList": [
+				4015001
+			]
+		},
+		{
+			"targetGroupId": 4017001,
+			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetList": [
+				4017001
+			]
+		},
+		{
+			"targetGroupId": 4017101,
+			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetList": [
+				4017101
+			]
+		},
+		{
+			"targetGroupId": 4018001,
+			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
+			"targetList": [
+				4018001
+			]
+		},
+		{
+			"targetGroupId": 4021001,
+			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetList": [
+				4021001
+			]
+		},
+		{
+			"targetGroupId": 4022001,
+			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetList": [
+				4022001
+			]
+		},
+		{
+			"targetGroupId": 4022101,
+			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
+			"targetList": [
+				4022101
+			]
+		},
+		{
+			"targetGroupId": 4022201,
+			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetList": [
+				4022201
+			]
+		},
+		{
+			"targetGroupId": 4022301,
+			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetList": [
+				4022301
+			]
+		},
+		{
+			"targetGroupId": 4023001,
+			"targetGroupDesc": "Find and eliminate the Oljefat.",
+			"targetList": [
+				4023001
+			]
+		},
+		{
+			"targetGroupId": 4023101,
+			"targetGroupDesc": "Find and eliminate Darture - Forsaken.",
+			"targetList": [
+				4023101
+			]
+		},
+		{
+			"targetGroupId": 4025001,
+			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
+			"targetList": [
+				4025001
+			]
+		},
+		{
+			"targetGroupId": 4026001,
+			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetList": [
+				4026001
+			]
+		},
+		{
+			"targetGroupId": 4029001,
+			"targetGroupDesc": "Locate the designated Horn Beasteel and eliminate it.",
+			"targetList": [
+				4029001
+			]
+		},
+		{
+			"targetGroupId": 4029101,
+			"targetGroupDesc": "Locate the designated Horn Beasteel and eliminate it.",
+			"targetList": [
+				4029101
+			]
+		},
+		{
+			"targetGroupId": 4030001,
+			"targetGroupDesc": "Find and eliminate the Nemertea.",
+			"targetList": [
+				4030001
+			]
+		},
+		{
+			"targetGroupId": 4035001,
+			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetList": [
+				4035001
+			]
+		},
+		{
+			"targetGroupId": 4036001,
+			"targetGroupDesc": "Find and eliminate the Oljefat.",
+			"targetList": [
+				4036001
+			]
+		},
+		{
+			"targetGroupId": 4037001,
+			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetList": [
+				4037001
 			]
 		}
 	]

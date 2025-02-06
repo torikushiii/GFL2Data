@@ -3,69 +3,97 @@
 		{
 			"id": 1,
 			"checkinNum": 1,
-			"reward": {
-				"1": 100
-			},
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 2,
-			"checkinNum": 2,
-			"reward": {
-				"1": 100
-			},
+			"checkinNum": 1,
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 3,
-			"checkinNum": 3,
-			"reward": {
-				"1": 100
-			},
+			"checkinNum": 1,
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 4,
-			"checkinNum": 4,
-			"reward": {
-				"1": 100
-			},
+			"checkinNum": 1,
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 5,
-			"checkinNum": 5,
-			"reward": {
-				"1": 100
-			},
+			"checkinNum": 1,
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 6,
-			"checkinNum": 6,
-			"reward": {
-				"1": 100
-			},
+			"checkinNum": 1,
 			"rewardSort": {
 				"1": 100
 			}
 		},
 		{
 			"id": 7,
-			"checkinNum": 7,
-			"reward": {
+			"checkinNum": 1,
+			"rewardSort": {
 				"1": 100
-			},
+			}
+		},
+		{
+			"id": 8,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 9,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 10,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 11,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 12,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 13,
+			"checkinNum": 2,
+			"rewardSort": {
+				"1": 100
+			}
+		},
+		{
+			"id": 14,
+			"checkinNum": 2,
 			"rewardSort": {
 				"1": 100
 			}

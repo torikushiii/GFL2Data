@@ -16,6 +16,11 @@
 			"name": "New Daily Missions"
 		},
 		{
+			"enName": "task_season",
+			"id": 5,
+			"name": "Season Missions"
+		},
+		{
 			"enName": "task_weekly",
 			"id": 2,
 			"name": "Weekly Actions"

@@ -49,15 +49,6 @@
 			"isAutoPickItem": false
 		},
 		{
-			"id": 62005,
-			"settleMethod": 2,
-			"itemToProperty": {
-				"1103": 25
-			},
-			"destroy": 1,
-			"isAutoPickItem": false
-		},
-		{
 			"id": 70111,
 			"settleMethod": 0,
 			"itemToProperty": {},

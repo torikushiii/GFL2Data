@@ -176,6 +176,21 @@
 			"videoFemale": "AVG/TIME_09_02.usm"
 		},
 		{
+			"id": 11001,
+			"videoMale": "AVG/TIME_10_01_1.usm",
+			"videoFemale": "AVG/TIME_10_01_1.usm"
+		},
+		{
+			"id": 11002,
+			"videoMale": "AVG/TIME_10_01_2.usm",
+			"videoFemale": "AVG/TIME_10_01_2.usm"
+		},
+		{
+			"id": 11003,
+			"videoMale": "AVG/TIME_10_02.usm",
+			"videoFemale": "AVG/TIME_10_02.usm"
+		},
+		{
 			"id": 20001,
 			"videoMale": "Tutorial/Video_Tutorial_Command_First_Male.usm",
 			"videoFemale": "Tutorial/Video_Tutorial_Command_First_Female.usm"

@@ -403,12 +403,6 @@
 			"monopolyRewardId": 120100
 		},
 		{
-			"id": 1201120,
-			"turnRewardId": 12011,
-			"turnNum": 20,
-			"monopolyRewardId": 120100
-		},
-		{
 			"id": 1201121,
 			"turnRewardId": 12011,
 			"turnNum": 21,

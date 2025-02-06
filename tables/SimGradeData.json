@@ -14,7 +14,7 @@
 			"shopMax": 1,
 			"dailyLimit": 2,
 			"uavMax": 1,
-			"gradeName": "Next",
+			"gradeName": "C",
 			"packageLimit": 9999
 		},
 		{
@@ -50,7 +50,7 @@
 			"shopMax": 2,
 			"dailyLimit": 2,
 			"uavMax": 3,
-			"gradeName": "Medium",
+			"gradeName": "A",
 			"packageLimit": 9999
 		},
 		{
@@ -114,6 +114,137 @@
 		{
 			"gradeId": 7,
 			"gradeGroup": 1011,
+			"level": 7,
+			"idleLevel": 4,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003,
+				3004
+			],
+			"menuMax": 6,
+			"shopMax": 4,
+			"dailyLimit": 2,
+			"uavMax": 6,
+			"gradeName": "S",
+			"packageLimit": 9999,
+			"taskGroup": 0
+		},
+		{
+			"gradeId": 8,
+			"gradeGroup": 2011,
+			"level": 1,
+			"taskGroup": 102101,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001
+			],
+			"menuMax": 1,
+			"shopMax": 1,
+			"dailyLimit": 2,
+			"uavMax": 1,
+			"gradeName": "C",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 9,
+			"gradeGroup": 2011,
+			"level": 2,
+			"taskGroup": 102102,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002
+			],
+			"menuMax": 2,
+			"shopMax": 2,
+			"dailyLimit": 2,
+			"uavMax": 2,
+			"gradeName": "C+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 10,
+			"gradeGroup": 2011,
+			"level": 3,
+			"taskGroup": 102103,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002
+			],
+			"menuMax": 3,
+			"shopMax": 3,
+			"dailyLimit": 2,
+			"uavMax": 3,
+			"gradeName": "A",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 11,
+			"gradeGroup": 2011,
+			"level": 4,
+			"taskGroup": 102104,
+			"idleLevel": 2,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003
+			],
+			"menuMax": 4,
+			"shopMax": 3,
+			"dailyLimit": 2,
+			"uavMax": 4,
+			"gradeName": "B+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 12,
+			"gradeGroup": 2011,
+			"level": 5,
+			"taskGroup": 102105,
+			"idleLevel": 2,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003
+			],
+			"menuMax": 5,
+			"shopMax": 4,
+			"dailyLimit": 2,
+			"uavMax": 5,
+			"gradeName": "A",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 13,
+			"gradeGroup": 2011,
+			"level": 6,
+			"taskGroup": 102106,
+			"idleLevel": 3,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003,
+				3004
+			],
+			"menuMax": 6,
+			"shopMax": 4,
+			"dailyLimit": 2,
+			"uavMax": 6,
+			"gradeName": "A+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 14,
+			"gradeGroup": 2011,
 			"level": 7,
 			"idleLevel": 4,
 			"avatarCd": 60,

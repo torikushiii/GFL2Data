@@ -225,34 +225,10 @@
 			"stageId": 10102
 		},
 		{
-			"id": 39,
-			"description": "1046乌琪技能1和技能2",
-			"tutorialPageId": 490020202,
-			"skillId": 39,
-			"storyId": 110,
-			"stageId": 10102
-		},
-		{
 			"id": 40,
 			"description": "1047春田技能1和技能2",
 			"tutorialPageId": 490020202,
 			"skillId": 40,
-			"storyId": 110,
-			"stageId": 10102
-		},
-		{
-			"id": 41,
-			"description": "104864式步枪技能1和技能2",
-			"tutorialPageId": 490020202,
-			"skillId": 41,
-			"storyId": 110,
-			"stageId": 10102
-		},
-		{
-			"id": 42,
-			"description": "1049哈卜茜技能1和技能2",
-			"tutorialPageId": 490020202,
-			"skillId": 42,
 			"storyId": 110,
 			"stageId": 10102
 		},
@@ -505,33 +481,9 @@
 			"tutorialPageId": 0
 		},
 		{
-			"id": 74,
-			"description": "1046乌琪技能1和技能2",
-			"skillId": 74,
-			"storyId": 107,
-			"stageId": 10103,
-			"tutorialPageId": 0
-		},
-		{
 			"id": 75,
 			"description": "1047春田技能1和技能2",
 			"skillId": 75,
-			"storyId": 107,
-			"stageId": 10103,
-			"tutorialPageId": 0
-		},
-		{
-			"id": 76,
-			"description": "104864式步枪技能1和技能2",
-			"skillId": 76,
-			"storyId": 107,
-			"stageId": 10103,
-			"tutorialPageId": 0
-		},
-		{
-			"id": 77,
-			"description": "1049哈卜茜技能1和技能2",
-			"skillId": 77,
 			"storyId": 107,
 			"stageId": 10103,
 			"tutorialPageId": 0

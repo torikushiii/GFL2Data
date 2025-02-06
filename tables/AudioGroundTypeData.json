@@ -51,6 +51,11 @@
 			"track": "Glass"
 		},
 		{
+			"typeId": 11,
+			"selector": "Ground_Material",
+			"track": "WaterBeach"
+		},
+		{
 			"typeId": 101,
 			"selector": "Effect_Material",
 			"track": "Hole"

@@ -129,8 +129,8 @@
 			"bustFemale": "Avatar_Bust_CentaureissiSSR",
 			"itemId": 21013,
 			"unlockDes": "Unlock by acquiring Centaureissi",
-			"sort": 1012,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1012
 		},
 		{
 			"id": 21014,
@@ -161,7 +161,7 @@
 			"bust": "Avatar_Bust_ActivityDaiyan",
 			"bustFemale": "Avatar_Bust_ActivityDaiyan",
 			"itemId": 21025,
-			"unlockDes": "Complete Amidst Wings of Gray story stages to unlock.",
+			"unlockDes": "Unlocked by completing all stages for Amidst Wings of Gray",
 			"displayConfig": 1,
 			"sort": 5001
 		},
@@ -205,9 +205,9 @@
 			"bust": "Avatar_Bust_ActivityCafe",
 			"bustFemale": "Avatar_Bust_ActivityCafe",
 			"itemId": 21029,
-			"unlockDes": "Unlock by completing the Zucchero Café event campaign on normal mode",
-			"sort": 5002,
-			"displayConfig": 0
+			"unlockDes": "Unlocks after completing the Zucchero Cafe main storyline mode.",
+			"displayConfig": 1,
+			"sort": 5002
 		},
 		{
 			"id": 21030,
@@ -282,7 +282,7 @@
 			"bust": "Avatar_Head_ActivityMacqiato1",
 			"bustFemale": "Avatar_Head_ActivityMacqiato1",
 			"itemId": 21036,
-			"unlockDes": "Unlock by completing the Rhapsody Quartet event campaign on normal mode",
+			"unlockDes": "Unlocked by completing Rhapsody Quartet story stages",
 			"displayConfig": 1,
 			"sort": 5006
 		},
@@ -514,8 +514,8 @@
 			"bustFemale": "Avatar_Bust_DusevnyjSSR",
 			"itemId": 21058,
 			"unlockDes": "Unlocked after obtaining Dushevnaya",
-			"sort": 1021,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1021
 		},
 		{
 			"id": 21059,
@@ -562,6 +562,61 @@
 			"sort": 1025
 		},
 		{
+			"id": 21063,
+			"icon": "Avatar_Head_AndorisSSR",
+			"iconFemale": "Avatar_Head_AndorisSSR",
+			"bust": "Avatar_Bust_AndorisSSR",
+			"bustFemale": "Avatar_Bust_AndorisSSR",
+			"itemId": 21063,
+			"unlockDes": "Unlocked after obtaining Andoris",
+			"sort": 1026,
+			"displayConfig": 0
+		},
+		{
+			"id": 21064,
+			"icon": "Avatar_Head_FayeSSR",
+			"iconFemale": "Avatar_Head_FayeSSR",
+			"bust": "Avatar_Bust_FayeSSR",
+			"bustFemale": "Avatar_Bust_FayeSSR",
+			"itemId": 21064,
+			"unlockDes": "Unlocked after obtaining Faye",
+			"sort": 1027,
+			"displayConfig": 0
+		},
+		{
+			"id": 21065,
+			"icon": "Avatar_Head_VectorSSR",
+			"iconFemale": "Avatar_Head_VectorSSR",
+			"bust": "Avatar_Bust_VectorSSR",
+			"bustFemale": "Avatar_Bust_VectorSSR",
+			"itemId": 21065,
+			"unlockDes": "Unlocked after obtaining Vector",
+			"sort": 1028,
+			"displayConfig": 0
+		},
+		{
+			"id": 21066,
+			"icon": "Avatar_Head_BiyocaSSR",
+			"iconFemale": "Avatar_Head_BiyocaSSR",
+			"bust": "Avatar_Bust_BiyocaSSR",
+			"bustFemale": "Avatar_Bust_BiyocaSSR",
+			"itemId": 21066,
+			"unlockDes": "Unlocked after obtaining Belka",
+			"sort": 1029,
+			"displayConfig": 0
+		},
+		{
+			"id": 21068,
+			"icon": "Avatar_Head_SpringfieldSSR",
+			"iconFemale": "Avatar_Head_SpringfieldSSR",
+			"bust": "Avatar_Bust_SpringfieldSSR",
+			"bustFemale": "Avatar_Bust_SpringfieldSSR",
+			"itemId": 21068,
+			"unlockDes": "Unlocked after obtaining Springfield",
+			"sort": 1031,
+			"displayConfig": 0
+		},
+		{
 			"id": 21071,
 			"icon": "Avatar_Head_ZhaohuiSSR",
 			"iconFemale": "Avatar_Head_ZhaohuiSSR",
@@ -573,6 +628,17 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21072,
+			"icon": "Avatar_Head_MishtySSR",
+			"iconFemale": "Avatar_Head_MishtySSR",
+			"bust": "Avatar_Bust_MishtySSR",
+			"bustFemale": "Avatar_Bust_MishtySSR",
+			"itemId": 21072,
+			"unlockDes": "Unlocked after obtaining Mechty",
+			"displayConfig": 1,
+			"sort": 1035
+		},
+		{
 			"id": 21073,
 			"icon": "Avatar_Head_ClukaySSR",
 			"iconFemale": "Avatar_Head_ClukaySSR",
@@ -580,8 +646,8 @@
 			"bustFemale": "Avatar_Bust_ClukaySSR",
 			"itemId": 21073,
 			"unlockDes": "Unlocked after obtaining Klukai",
-			"sort": 1036,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1036
 		},
 		{
 			"id": 21076,
@@ -591,8 +657,8 @@
 			"bustFemale": "Avatar_Bust_ActivityDusevnyj1",
 			"itemId": 21076,
 			"unlockDes": "Unlocked by collecting the final reward of The Halting Station - Encampment Commission",
-			"sort": 5010,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5010
 		},
 		{
 			"id": 21077,
@@ -601,9 +667,9 @@
 			"bust": "Avatar_Bust_ActivityDusevnyj2",
 			"bustFemale": "Avatar_Bust_ActivityDusevnyj2",
 			"itemId": 21077,
-			"unlockDes": "Unlocked by clearing all Normal Stages in The Halting Station",
-			"sort": 5011,
-			"displayConfig": 0
+			"unlockDes": "Unlock by completing all Halting Encampment story stages.",
+			"displayConfig": 1,
+			"sort": 5011
 		},
 		{
 			"id": 21078,
@@ -613,8 +679,8 @@
 			"bustFemale": "Avatar_Head_SabrinaSSR01",
 			"itemId": 21078,
 			"unlockDes": "Unlocked after obtaining Sabrina's Outfit - Strawberry Zabaione",
-			"sort": 4018,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4018
 		},
 		{
 			"id": 21079,
@@ -635,8 +701,8 @@
 			"bustFemale": "Avatar_Head_ClukaySSR01",
 			"itemId": 21080,
 			"unlockDes": "Unlocked after obtaining Klukai's Outfit - Speed Star",
-			"sort": 4020,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4020
 		},
 		{
 			"id": 21081,
@@ -705,6 +771,28 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21105,
+			"icon": "Avatar_Head_CheetaSR01",
+			"iconFemale": "Avatar_Head_CheetaSR01",
+			"bust": "Avatar_Head_CheetaSR01",
+			"bustFemale": "Avatar_Head_CheetaSR01",
+			"itemId": 21105,
+			"unlockDes": "Unlocked after obtaining Cheeta's outfit - Sparks on the Circuit",
+			"displayConfig": 1,
+			"sort": 4021
+		},
+		{
+			"id": 21106,
+			"icon": "Avatar_Head_ClukayLove",
+			"iconFemale": "Avatar_Head_ClukayLove",
+			"bust": "Avatar_Head_ClukayLove",
+			"bustFemale": "Avatar_Head_ClukayLove",
+			"itemId": 21106,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2005
+		},
+		{
 			"id": 21107,
 			"icon": "Avatar_Head_VepleyLove",
 			"iconFemale": "Avatar_Head_VepleyLove",
@@ -716,6 +804,61 @@
 			"sort": 2006
 		},
 		{
+			"id": 21108,
+			"icon": "Avatar_Head_MishtyLove",
+			"iconFemale": "Avatar_Head_MishtyLove",
+			"bust": "Avatar_Head_MishtyLove",
+			"bustFemale": "Avatar_Head_MishtyLove",
+			"itemId": 21108,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2007
+		},
+		{
+			"id": 21109,
+			"icon": "Avatar_Head_DaiyanLove",
+			"iconFemale": "Avatar_Head_DaiyanLove",
+			"bust": "Avatar_Head_DaiyanLove",
+			"bustFemale": "Avatar_Head_DaiyanLove",
+			"itemId": 21109,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2008
+		},
+		{
+			"id": 21110,
+			"icon": "Avatar_Head_ActivityClukay",
+			"iconFemale": "Avatar_Head_ActivityClukay",
+			"bust": "Avatar_Head_ActivityClukay",
+			"bustFemale": "Avatar_Head_ActivityClukay",
+			"itemId": 21110,
+			"unlockDes": "Unlocked by completing Aphelion - Part I",
+			"displayConfig": 1,
+			"sort": 5014
+		},
+		{
+			"id": 21111,
+			"icon": "Avatar_Head_ActivityMishty",
+			"iconFemale": "Avatar_Head_ActivityMishty",
+			"bust": "Avatar_Head_ActivityMishty",
+			"bustFemale": "Avatar_Head_ActivityMishty",
+			"itemId": 21111,
+			"unlockDes": "Unlocked by completing Aphelion - Part II",
+			"displayConfig": 1,
+			"sort": 5015
+		},
+		{
+			"id": 21112,
+			"icon": "Avatar_Head_VectorLove",
+			"iconFemale": "Avatar_Head_VectorLove",
+			"bust": "Avatar_Head_VectorLove",
+			"bustFemale": "Avatar_Head_VectorLove",
+			"itemId": 21112,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2009,
+			"displayConfig": 0
+		},
+		{
 			"id": 21113,
 			"icon": "Avatar_Head_SuomiLove",
 			"iconFemale": "Avatar_Head_SuomiLove",
@@ -725,6 +868,215 @@
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
 			"displayConfig": 1,
 			"sort": 2010
+		},
+		{
+			"id": 21114,
+			"icon": "Avatar_Head_BiyocaLove",
+			"iconFemale": "Avatar_Head_BiyocaLove",
+			"bust": "Avatar_Head_BiyocaLove",
+			"bustFemale": "Avatar_Head_BiyocaLove",
+			"itemId": 21114,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2011,
+			"displayConfig": 0
+		},
+		{
+			"id": 21115,
+			"icon": "Avatar_Head_MacqiatoLove",
+			"iconFemale": "Avatar_Head_MacqiatoLove",
+			"bust": "Avatar_Head_MacqiatoLove",
+			"bustFemale": "Avatar_Head_MacqiatoLove",
+			"itemId": 21115,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2012
+		},
+		{
+			"id": 21116,
+			"icon": "Avatar_Head_AndorisLove",
+			"iconFemale": "Avatar_Head_AndorisLove",
+			"bust": "Avatar_Head_AndorisLove",
+			"bustFemale": "Avatar_Head_AndorisLove",
+			"itemId": 21116,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2013,
+			"displayConfig": 0
+		},
+		{
+			"id": 21118,
+			"icon": "Avatar_Head_SpringfieldLove",
+			"iconFemale": "Avatar_Head_SpringfieldLove",
+			"bust": "Avatar_Head_SpringfieldLove",
+			"bustFemale": "Avatar_Head_SpringfieldLove",
+			"itemId": 21118,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2015,
+			"displayConfig": 0
+		},
+		{
+			"id": 21119,
+			"icon": "Avatar_Head_GrozaLove",
+			"iconFemale": "Avatar_Head_GrozaLove",
+			"bust": "Avatar_Head_GrozaLove",
+			"bustFemale": "Avatar_Head_GrozaLove",
+			"itemId": 21119,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2016
+		},
+		{
+			"id": 21156,
+			"icon": "Avatar_Head_ActivityVector1",
+			"iconFemale": "Avatar_Head_ActivityVector1",
+			"bust": "Avatar_Bust_ActivityVector1",
+			"bustFemale": "Avatar_Bust_ActivityVector1",
+			"itemId": 21156,
+			"unlockDes": "Unlocked by claiming the final reward from Escape from Cyborg - Ops Target",
+			"sort": 5014,
+			"displayConfig": 0
+		},
+		{
+			"id": 21157,
+			"icon": "Avatar_Head_ActivityVector2",
+			"iconFemale": "Avatar_Head_ActivityVector2",
+			"bust": "Avatar_Bust_ActivityVector2",
+			"bustFemale": "Avatar_Bust_ActivityVector2",
+			"itemId": 21157,
+			"unlockDes": "Unlocked by completing all story stages for Escape from Cyborg",
+			"sort": 5015,
+			"displayConfig": 0
+		},
+		{
+			"id": 21158,
+			"icon": "Avatar_Head_BiyocaSSR01",
+			"iconFemale": "Avatar_Head_BiyocaSSR01",
+			"bust": "Avatar_Head_BiyocaSSR01",
+			"bustFemale": "Avatar_Head_BiyocaSSR01",
+			"itemId": 21158,
+			"unlockDes": "Unlocked after obtaining Belka's outfit - Enchanting Imp",
+			"sort": 4022,
+			"displayConfig": 0
+		},
+		{
+			"id": 21159,
+			"icon": "Avatar_Head_ActivityBiyoca1",
+			"iconFemale": "Avatar_Head_ActivityBiyoca1",
+			"bust": "Avatar_Head_ActivityBiyoca1",
+			"bustFemale": "Avatar_Head_ActivityBiyoca1",
+			"itemId": 21159,
+			"unlockDes": "Unlocked by claiming the final reward from 404 Found - Preparation for a Surprise",
+			"sort": 5016,
+			"displayConfig": 0
+		},
+		{
+			"id": 21160,
+			"icon": "Avatar_Head_ActivityBiyoca2",
+			"iconFemale": "Avatar_Head_ActivityBiyoca2",
+			"bust": "Avatar_Head_ActivityBiyoca2",
+			"bustFemale": "Avatar_Head_ActivityBiyoca2",
+			"itemId": 21160,
+			"unlockDes": "Unlocked by completing all story stages for 404 Found",
+			"sort": 5017,
+			"displayConfig": 0
+		},
+		{
+			"id": 21161,
+			"icon": "Avatar_Head_ClukaySSR02",
+			"iconFemale": "Avatar_Head_ClukaySSR02",
+			"bust": "Avatar_Head_ClukaySSR02",
+			"bustFemale": "Avatar_Head_ClukaySSR02",
+			"itemId": 21161,
+			"unlockDes": "Unlocked after obtaining Klukai's outfit - Astral Luminous",
+			"displayConfig": 1,
+			"sort": 4023
+		},
+		{
+			"id": 21162,
+			"icon": "Avatar_Head_SpringfieldSSR01",
+			"iconFemale": "Avatar_Head_SpringfieldSSR01",
+			"bust": "Avatar_Head_SpringfieldSSR01",
+			"bustFemale": "Avatar_Head_SpringfieldSSR01",
+			"itemId": 21162,
+			"unlockDes": "Unlocked after obtaining Springfield's outfit - Queen In Radiance",
+			"sort": 4024,
+			"displayConfig": 0
+		},
+		{
+			"id": 21163,
+			"icon": "Avatar_Head_PerityaSSR01",
+			"iconFemale": "Avatar_Head_PerityaSSR01",
+			"bust": "Avatar_Head_PerityaSSR01",
+			"bustFemale": "Avatar_Head_PerityaSSR01",
+			"itemId": 21163,
+			"unlockDes": "Unlocked after obtaining Peritya's outfit - Born Huntress",
+			"displayConfig": 1,
+			"sort": 4025
+		},
+		{
+			"id": 21165,
+			"icon": "Avatar_Head_ActivityAndoris1",
+			"iconFemale": "Avatar_Head_ActivityAndoris1",
+			"bust": "Avatar_Head_ActivityAndoris1",
+			"bustFemale": "Avatar_Head_ActivityAndoris1",
+			"itemId": 21165,
+			"unlockDes": "Unlocked by claiming the final reward from Into the Shadows - Assessment Prep",
+			"sort": 5018,
+			"displayConfig": 0
+		},
+		{
+			"id": 21166,
+			"icon": "Avatar_Head_ActivityAndoris2",
+			"iconFemale": "Avatar_Head_ActivityAndoris2",
+			"bust": "Avatar_Head_ActivityAndoris2",
+			"bustFemale": "Avatar_Head_ActivityAndoris2",
+			"itemId": 21166,
+			"unlockDes": "Unlocked by completing all story stages for Into the Shadows",
+			"sort": 5019,
+			"displayConfig": 0
+		},
+		{
+			"id": 21167,
+			"icon": "Avatar_Head_ActivityKittyCafe",
+			"iconFemale": "Avatar_Head_ActivityKittyCafe",
+			"bust": "Avatar_Head_ActivityKittyCafe",
+			"bustFemale": "Avatar_Head_ActivityKittyCafe",
+			"itemId": 21167,
+			"unlockDes": "Unlocked by reaching max Cat Cafe level",
+			"sort": 5020,
+			"displayConfig": 0
+		},
+		{
+			"id": 21168,
+			"icon": "Avatar_Head_ActivitySpringfield",
+			"iconFemale": "Avatar_Head_ActivitySpringfield",
+			"bust": "Avatar_Head_ActivitySpringfield",
+			"bustFemale": "Avatar_Head_ActivitySpringfield",
+			"itemId": 21168,
+			"unlockDes": "Unlocked by completing Mímisbrunnr's Loop - Part I",
+			"sort": 5021,
+			"displayConfig": 0
+		},
+		{
+			"id": 21170,
+			"icon": "Avatar_Head_LottaSR01",
+			"iconFemale": "Avatar_Head_LottaSR01",
+			"bust": "Avatar_Head_LottaSR01",
+			"bustFemale": "Avatar_Head_LottaSR01",
+			"itemId": 21170,
+			"unlockDes": "Unlocked after obtaining Lotta's outfit - Athletics Rookie",
+			"displayConfig": 1,
+			"sort": 4027
+		},
+		{
+			"id": 21171,
+			"icon": "Avatar_Head_LennaSSR01",
+			"iconFemale": "Avatar_Head_LennaSSR01",
+			"bust": "Avatar_Head_LennaSSR01",
+			"bustFemale": "Avatar_Head_LennaSSR01",
+			"itemId": 21171,
+			"unlockDes": "",
+			"sort": 4028,
+			"displayConfig": 0
 		},
 		{
 			"id": 21999,

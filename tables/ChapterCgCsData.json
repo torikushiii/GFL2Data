@@ -251,6 +251,30 @@
 			"name": "Unpleasant Encounter",
 			"img": "2DRes/9kelukai/CG/CG_15_Confrontation_Threaten",
 			"stageId": 3138101
+		},
+		{
+			"id": 43,
+			"name": "",
+			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle",
+			"stageId": 3148201
+		},
+		{
+			"id": 44,
+			"name": "",
+			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Fight",
+			"stageId": 3148201
+		},
+		{
+			"id": 45,
+			"name": "",
+			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Ready",
+			"stageId": 3148201
+		},
+		{
+			"id": 46,
+			"name": "",
+			"img": "2DRes/9.5mishiti/CG/CG_18_Assault",
+			"stageId": 3141111
 		}
 	]
 }

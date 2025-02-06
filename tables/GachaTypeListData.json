@@ -47,6 +47,12 @@
 			"name": "调度室卡池",
 			"enName": "gacha_type_control_room",
 			"sheet": "7,8,9"
+		},
+		{
+			"id": 9,
+			"name": "特殊卡池",
+			"enName": "gacha_type_clothes",
+			"sheet": "7,8,9"
 		}
 	]
 }

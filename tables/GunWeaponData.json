@@ -1,59 +1,6 @@
 {
 	"data": [
 		{
-			"id": 10001,
-			"name": "Papa-Figo",
-			"description": "A high-performance handgun with an ingenious, elegant design. Named after a mythical monster said to devour disobedient children, according to its creator.",
-			"type": 1,
-			"modelstype": 1,
-			"bullettype": 5,
-			"element": 1,
-			"resCode": "Weapon_BpHRssr001_5",
-			"resPath": "Player/BpHRssr001/BpHRssr001_WL",
-			"rank": 5,
-			"skill": 5100011,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
-			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41057,
-			"unlockCost": {
-				"12056": 60
-			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
-				2041,
-				1032,
-				9012,
-				11012
-			],
-			"audio": 101,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100019
-			],
-			"brand": "",
-			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"isHide": false
-		},
-		{
 			"id": 10002,
 			"name": "Classified Manuscript",
 			"description": "A high-performance SMG, a powerful and unique weapon. When he gave it this name, the designer probably intended it to be a secret weapon.",
@@ -570,13 +517,13 @@
 				13012,
 				3014
 			],
-			"isHide": true,
 			"audio": 201,
 			"weaponTag": 8,
 			"elemenSkill": 0,
 			"slot": [],
 			"privateSkill": 0,
 			"characterId": 0,
+			"isHide": false,
 			"weaponSkill": []
 		},
 		{
@@ -621,7 +568,6 @@
 				13012,
 				3014
 			],
-			"isHide": true,
 			"audio": 201,
 			"weaponTag": 8,
 			"weaponSkill": [
@@ -630,7 +576,8 @@
 			"elemenSkill": 0,
 			"slot": [],
 			"privateSkill": 0,
-			"characterId": 0
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10233,
@@ -676,14 +623,14 @@
 				13012,
 				3014
 			],
-			"isHide": true,
 			"audio": 201,
 			"weaponTag": 8,
 			"weaponSkill": [
 				5102339
 			],
 			"elemenSkill": 0,
-			"slot": []
+			"slot": [],
+			"isHide": false
 		},
 		{
 			"id": 10331,
@@ -1940,6 +1887,791 @@
 			"isHide": false
 		},
 		{
+			"id": 10421,
+			"name": "Retired G36K-KSK",
+			"description": "A cheap weapon purchased from an underground broker. It's really old and worn out, and looks like it's reaching the upper limit of it's lifespan.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_G36KKSK_3",
+			"resPath": "Player/AndorisR01/AndorisR01_WL",
+			"brand": "G36KKSK",
+			"rank": 3,
+			"skill": 5110101,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41110,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 306,
+			"weaponTag": 4,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10422,
+			"name": "G36K-KSK",
+			"description": "A firearm highly compatible with Andoris. Modified based on her combat preferences, it features improved firepower and error correction.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_G36KKSK_4",
+			"resPath": "Player/AndorisSR01/AndorisSR01_WL",
+			"brand": "G36KKSK",
+			"rank": 4,
+			"skill": 5104221,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41111,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 306,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5104229
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10423,
+			"name": "Aglaea",
+			"description": "A high-performance assault rifle assigned to Andoris. Based on the G36K-KSK. It is easy to handle, reliable, and has improved firepower. With this in hand, Andoris gains the confidence to protect those she views as important.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_G36KKSK_5",
+			"resPath": "Player/AndorisSSR01/AndorisSSR01_WL",
+			"brand": "G36KKSK",
+			"rank": 5,
+			"skill": 5104231,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41112,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5104230,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 27,
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 306,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5104229
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
+			"id": 10431,
+			"name": "Retired Skoda 75",
+			"description": "A cheap weapon purchased from an underground broker. There are some problems with the firing mechanism, but one must make do with what they have.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_CZ75_3",
+			"resPath": "Player/FayeR01/FayeR01_WL",
+			"brand": "CZ75",
+			"rank": 3,
+			"skill": 5110091,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41116,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"isHide": true,
+			"audio": 101,
+			"weaponTag": 2,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10432,
+			"name": "Skoda 75",
+			"description": "A firearm highly compatible with Faye. Modified based on her combat preferences, it is durable, light and easy to handle.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_CZ75_4",
+			"resPath": "Player/FayeSR01/FayeSR01_WL",
+			"brand": "CZ75",
+			"rank": 4,
+			"skill": 5104321,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41117,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"isHide": true,
+			"audio": 101,
+			"weaponTag": 2,
+			"weaponSkill": [
+				5104329
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10433,
+			"name": "Hestia",
+			"description": "A high-performance handgun assigned to Faye. Based on the Skoda 75, it is convenient to carry, reliable, precise and accurate. In Faye's hands, Hestia becomes as fearsome as a true Goddess of Flame.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_CZ75_5",
+			"resPath": "Player/FayeSSR01/FayeSSR01_WL",
+			"brand": "CZ75",
+			"rank": 5,
+			"skill": 5104331,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41118,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5104330,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 28,
+			"modNum": 4,
+			"modTypeGroup": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"isHide": true,
+			"audio": 101,
+			"weaponTag": 2,
+			"weaponSkill": [
+				5104329
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
+			"id": 10441,
+			"name": "Retired KSVec .45 ACP",
+			"description": "An old weapon commonly seen in the contaminated zones. It's about to completely fall apart, but can still be used if you are careful enough.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_Vector_3",
+			"resPath": "Player/VectorR01/VectorR01_WL",
+			"brand": "Vector",
+			"rank": 3,
+			"skill": 5110091,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41104,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"isHide": true,
+			"audio": 401,
+			"weaponTag": 2,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10442,
+			"name": "KSVec .45 ACP",
+			"description": "A firearm highly compatible with Vector. Modified based on her combat preferences, it is highly maneuverable and stable.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_Vector_4",
+			"resPath": "Player/VectorSR01/VectorSR01_WL",
+			"brand": "Vector",
+			"rank": 4,
+			"skill": 5104421,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41105,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"isHide": true,
+			"audio": 401,
+			"weaponTag": 2,
+			"weaponSkill": [
+				5110379
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10443,
+			"name": "Banshee's Whisper",
+			"description": "A high-performance submachine gun assigned to Vector. Based on the KSVec .45 ACP, it has been completely overhauled. Pull the trigger, and let death whisper a song into the ears of enemies.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_Vector_5",
+			"resPath": "Player/VectorSSR01/VectorSSR01_WL",
+			"brand": "Vector",
+			"rank": 5,
+			"skill": 5104431,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41106,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5104430,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 29,
+			"modNum": 4,
+			"modTypeGroup": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"isHide": true,
+			"audio": 401,
+			"weaponTag": 2,
+			"weaponSkill": [
+				5110379
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
+			"id": 10451,
+			"name": "Retired Gewehr 28",
+			"description": "An old weapon commonly seen in the contaminated zones. It shows a high degree of erosion by the elements.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_G28_3",
+			"resPath": "Player/BiyocaR01/BiyocaR01_WL",
+			"brand": "G28",
+			"rank": 3,
+			"skill": 5110091,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41107,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 308,
+			"weaponTag": 4,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10452,
+			"name": "Gewehr 28",
+			"description": "A firearm highly compatible with Belka. Modified based on her combat preferences, it is now even more suited for long-range shooting.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_G28_4",
+			"resPath": "Player/BiyocaSR01/BiyocaSR01_WL",
+			"brand": "G28",
+			"rank": 4,
+			"skill": 5104521,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41108,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 308,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5104529
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10453,
+			"name": "Sylvan Elf",
+			"description": "A high-performance assault rifle assigned to Belka. Based on the Gewehr 28, it has been further improved in terms of shooting accuracy, precision and firepower. She bounces around the battlefield like an elf in a forest, pushing back intruders with agility and precision.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_G28_5",
+			"resPath": "Player/BiyocaSSR01/BiyocaSSR01_WL",
+			"brand": "G28",
+			"rank": 5,
+			"skill": 5104531,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41109,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5104530,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 30,
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 308,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5104539
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
+			"id": 10471,
+			"name": "Retired Springfield",
+			"description": "A cheap weapon purchased from an underground broker. It’s not very stable or reliable, but can still be used, more or less.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_M1903_3",
+			"resPath": "Player/SpringfieldR01/SpringfieldR01_WL",
+			"brand": "M1903",
+			"rank": 3,
+			"skill": 5110081,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41113,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"isHide": true,
+			"audio": 201,
+			"weaponTag": 8,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10472,
+			"name": "Springfield",
+			"description": "A firearm highly compatible with Springfield. Modified based on her combat preferences, it provides increased bullet velocity, hence improving firepower.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_M1903_4",
+			"resPath": "Player/SpringfieldSR01/SpringfieldSR01_WL",
+			"brand": "M1903",
+			"rank": 4,
+			"skill": 5104721,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41114,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"isHide": true,
+			"audio": 201,
+			"weaponTag": 8,
+			"weaponSkill": [
+				5110569
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10473,
+			"name": "Radiance",
+			"description": "A high-performance rifle assigned to Springfield. Based on the Springfield, it has been further improved in terms of carrying convenience and firing speed. Pierce through all adversity, to carve out a brighter future for those you deem important.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 2,
+			"resCode": "Weapon_M1903_5",
+			"resPath": "Player/SpringfieldSSR01/SpringfieldSSR01_WL",
+			"brand": "M1903",
+			"rank": 5,
+			"skill": 5104731,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41115,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5104730,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 32,
+			"modNum": 4,
+			"modTypeGroup": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"isHide": true,
+			"audio": 201,
+			"weaponTag": 8,
+			"weaponSkill": [
+				5110569
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
 			"id": 10501,
 			"name": "Retired CS/LS06",
 			"description": "A cheap weapon from an underground broker. Its barrel is a little rusty, and its lethality is in question.",
@@ -2097,6 +2829,163 @@
 			"slot": []
 		},
 		{
+			"id": 10511,
+			"name": "Retired Hülsenlosen 11",
+			"description": "An old weapon commonly seen in the contaminated zones. It is tattered and worn, but can still be used.",
+			"type": 4,
+			"modelstype": 2,
+			"resCode": "Weapon_G11_3",
+			"resPath": "Player/MishtyR01/MishtyR01_WL",
+			"brand": "G11",
+			"rank": 3,
+			"skill": 5110091,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41100,
+			"unlockCost": {
+				"15341": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"audio": 307,
+			"weaponTag": 4,
+			"bullettype": 0,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"isHide": false,
+			"weaponSkill": []
+		},
+		{
+			"id": 10512,
+			"name": "Hülsenlosen 11",
+			"description": "A firearm highly compatible with Mechty. Modified based on her combat preferences, it has improved rate of fire, precision and accuracy.",
+			"type": 4,
+			"modelstype": 2,
+			"resCode": "Weapon_G11_4",
+			"resPath": "Player/MishtySR01/MishtySR01_WL",
+			"brand": "G11",
+			"rank": 4,
+			"skill": 5105121,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41102,
+			"unlockCost": {
+				"15342": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"audio": 307,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5110449
+			],
+			"bullettype": 0,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"isHide": false
+		},
+		{
+			"id": 10513,
+			"name": "Daydream",
+			"description": "A high-performance assault rifle assigned to Mechty. Based on the Hülsenlosen 11, its firepower has been further improved. A gun that complements Mechty's burst-firing nature, it is dedicated to shattering the daydreams of enemies.",
+			"type": 4,
+			"modelstype": 2,
+			"resCode": "Weapon_G11_5",
+			"resPath": "Player/MishtySSR01/MishtySSR01_WL",
+			"brand": "G11",
+			"rank": 5,
+			"skill": 5105131,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41103,
+			"unlockCost": {
+				"15343": 60
+			},
+			"privateSkill": 5105130,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 36,
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"audio": 307,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5105139
+			],
+			"bullettype": 0,
+			"element": 0,
+			"elemenSkill": 0,
+			"slot": [],
+			"isHide": false
+		},
+		{
 			"id": 10521,
 			"name": "Retired 416",
 			"description": "An old weapon commonly seen in the contaminated zones. It looks old, but the damage to it is minimal and it can be used normally.",
@@ -2137,7 +3026,6 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 306,
 			"weaponTag": 4,
 			"element": 0,
@@ -2145,6 +3033,7 @@
 			"slot": [],
 			"privateSkill": 0,
 			"characterId": 0,
+			"isHide": false,
 			"weaponSkill": []
 		},
 		{
@@ -2188,7 +3077,6 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 306,
 			"weaponTag": 4,
 			"weaponSkill": [
@@ -2198,7 +3086,8 @@
 			"elemenSkill": 0,
 			"slot": [],
 			"privateSkill": 0,
-			"characterId": 0
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10523,
@@ -2243,7 +3132,6 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 306,
 			"weaponTag": 4,
 			"weaponSkill": [
@@ -2251,7 +3139,8 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"slot": [],
+			"isHide": false
 		},
 		{
 			"id": 11007,
@@ -4023,13 +4912,13 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 301,
 			"weaponTag": 4,
 			"elemenSkill": 0,
 			"slot": [],
 			"privateSkill": 0,
 			"characterId": 0,
+			"isHide": false,
 			"weaponSkill": []
 		},
 		{
@@ -4074,7 +4963,6 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 301,
 			"weaponTag": 4,
 			"weaponSkill": [
@@ -4083,7 +4971,8 @@
 			"elemenSkill": 0,
 			"slot": [],
 			"privateSkill": 0,
-			"characterId": 0
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 11056,
@@ -4129,14 +5018,14 @@
 				12011,
 				3011
 			],
-			"isHide": true,
 			"audio": 301,
 			"weaponTag": 4,
 			"weaponSkill": [
 				5110569
 			],
 			"elemenSkill": 0,
-			"slot": []
+			"slot": [],
+			"isHide": false
 		}
 	]
 }

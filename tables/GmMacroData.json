@@ -437,22 +437,22 @@
 		{
 			"id": 63,
 			"type": "战斗",
-			"name": "无尽映射-第3期全解锁",
-			"arg": "GmSetPoint@3100@2000|GmSetPoint@3200@2000|GmSetPoint@3300@2000|GmSetPoint@3400@2000|GmSetPoint@3500@2000",
+			"name": "无尽映射-第4期全解锁",
+			"arg": "GmSetPoint@4100@2000|GmSetPoint@4200@2000|GmSetPoint@4300@2000|GmSetPoint@4400@2000|GmSetPoint@4500@0",
 			"argClient": ""
 		},
 		{
 			"id": 64,
 			"type": "战斗",
-			"name": "首领挑战-跳到下一层BOSS",
-			"arg": "GmSimCombatWeekFinishTask",
+			"name": "首领挑战-跳到下一层",
+			"arg": "GmSimCombatWeekNextStorey@2@0",
 			"argClient": ""
 		},
 		{
 			"id": 65,
 			"type": "战斗",
-			"name": "首领挑战-完成全部BOSS关卡",
-			"arg": "GmSimCombatWeekLast",
+			"name": "首领挑战-完成BOSS壁瘤棘虫",
+			"arg": "GmSimCombatWeekNextStorey@3@13",
 			"argClient": ""
 		},
 		{
@@ -549,15 +549,218 @@
 		{
 			"id": 79,
 			"type": "战斗",
-			"name": "地层探索关卡全解锁（开发中",
-			"arg": "SendItem@31050@1",
+			"name": "2.2米什缇+奇塔皮肤+白日梦枪",
+			"arg": "SendItem@1051@1|SendItem@31055@1|SendItem@10513@1",
 			"argClient": ""
 		},
 		{
 			"id": 80,
 			"type": "战斗",
+			"name": "地层探索关卡全解锁",
+			"arg": "GMDungeonUnlockAll@101",
+			"argClient": ""
+		},
+		{
+			"id": 81,
+			"type": "战斗",
 			"name": "好感度关卡解锁：\nGMSetLoveVowed@1001 \nGMSetLoveLevel@1001@5（自己去GM输入框执行）",
 			"arg": "GMSetLoveVowed@1001|GMSetLoveLevel@1001@5",
+			"argClient": ""
+		},
+		{
+			"id": 82,
+			"type": "战斗",
+			"name": "公会战一键上榜",
+			"arg": "GMGuildSetMemberScore@9999|GMGuildSetScore@9999",
+			"argClient": ""
+		},
+		{
+			"id": 83,
+			"type": "战斗",
+			"name": "2.3维克托+报丧轻语+爆发共键",
+			"arg": "SendItem@1044@1|SendItem@10442@1|SendItem@10443@1|SendItem@93011@1",
+			"argClient": ""
+		},
+		{
+			"id": 84,
+			"type": "暗区",
+			"name": "发电辐晶99999（暗区天赋点）",
+			"arg": "SendItem@62005@10000",
+			"argClient": ""
+		},
+		{
+			"id": 85,
+			"type": "暗区",
+			"name": "解锁暗区新手关",
+			"arg": "GMUnlockWeeklyPreMap",
+			"argClient": ""
+		},
+		{
+			"id": 86,
+			"type": "暗区",
+			"name": "清编队冷却CD",
+			"arg": "GMResetWeeklyGunCd",
+			"argClient": ""
+		},
+		{
+			"id": 87,
+			"type": "暗区",
+			"name": "满天赋",
+			"arg": "GMSetTalent@0",
+			"argClient": ""
+		},
+		{
+			"id": 88,
+			"type": "暗区",
+			"name": "解锁天赋与悬赏1",
+			"arg": "ReachCounter@551@3@[4031,1]",
+			"argClient": ""
+		},
+		{
+			"id": 89,
+			"type": "暗区",
+			"name": "解锁天赋与悬赏1",
+			"arg": "ReachCounter@551@3@[4039,1]",
+			"argClient": ""
+		},
+		{
+			"id": 90,
+			"type": "暗区",
+			"name": "奖励池_浅层_1当箱子全满",
+			"arg": "GMSetRewardRecord@1@40|GMSetRewardRecord@2@40",
+			"argClient": ""
+		},
+		{
+			"id": 91,
+			"type": "暗区",
+			"name": "奖励池_浅层_2当箱子全满",
+			"arg": "GMSetRewardRecord@3@7|GMSetRewardRecord@4@8|GMSetRewardRecord@5@45",
+			"argClient": ""
+		},
+		{
+			"id": 92,
+			"type": "暗区",
+			"name": "奖励池_浅层_3当箱子全满",
+			"arg": "GMSetRewardRecord@6@8",
+			"argClient": ""
+		},
+		{
+			"id": 93,
+			"type": "暗区",
+			"name": "奖励池_浅层满后→间层_1当箱子全满",
+			"arg": "GMSetRewardRecord@2001@20|GMSetRewardRecord@2002@20",
+			"argClient": ""
+		},
+		{
+			"id": 94,
+			"type": "暗区",
+			"name": "奖励池_浅层满后→间层_2当箱子全满",
+			"arg": "GMSetRewardRecord@2003@3|GMSetRewardRecord@2004@2|GMSetRewardRecord@2005@15",
+			"argClient": ""
+		},
+		{
+			"id": 95,
+			"type": "暗区",
+			"name": "奖励池_浅层满后→间层_3当箱子全满",
+			"arg": "GMSetRewardRecord@2006@8",
+			"argClient": ""
+		},
+		{
+			"id": 96,
+			"type": "暗区",
+			"name": "奖励池_间层满后→深层_1当箱子全满",
+			"arg": "GMSetRewardRecord@3001@24|GMSetRewardRecord@3002@24",
+			"argClient": ""
+		},
+		{
+			"id": 97,
+			"type": "暗区",
+			"name": "奖励池_间层满后→深层_2当箱子全满",
+			"arg": "GMSetRewardRecord@3003@4|GMSetRewardRecord@3004@4|GMSetRewardRecord@3005@24",
+			"argClient": ""
+		},
+		{
+			"id": 98,
+			"type": "暗区",
+			"name": "奖励池_间层满后→深层_3当箱子全满",
+			"arg": "GMSetRewardRecord@3006@8",
+			"argClient": ""
+		},
+		{
+			"id": 99,
+			"type": "肉鸽",
+			"name": "跳过当前地图节点",
+			"arg": "GMRougeNextNode",
+			"argClient": ""
+		},
+		{
+			"id": 100,
+			"type": "肉鸽",
+			"name": "加天赋道具",
+			"arg": "SendItem@9990101@9999",
+			"argClient": ""
+		},
+		{
+			"id": 101,
+			"type": "肉鸽",
+			"name": "探索等级一键满级",
+			"arg": "GMRougeAddExp@99999",
+			"argClient": ""
+		},
+		{
+			"id": 102,
+			"type": "肉鸽",
+			"name": "探索等级经验+100",
+			"arg": "GMRougeAddExp@100",
+			"argClient": ""
+		},
+		{
+			"id": 103,
+			"type": "肉鸽",
+			"name": "重置肉鸽进入的cd",
+			"arg": "GMRougeResetEnterCD",
+			"argClient": ""
+		},
+		{
+			"id": 104,
+			"type": "肉鸽",
+			"name": "到下一层(局内使用",
+			"arg": "GMRougeJumpToNextLayer",
+			"argClient": ""
+		},
+		{
+			"id": 105,
+			"type": "肉鸽",
+			"name": "解锁所有难度",
+			"arg": "GMRougeUnlockAllDifficulty",
+			"argClient": ""
+		},
+		{
+			"id": 106,
+			"type": "肉鸽",
+			"name": "添加当前赛季所有芯片(局内使用",
+			"arg": "GMRougeAddAllSeasonChips",
+			"argClient": ""
+		},
+		{
+			"id": 107,
+			"type": "肉鸽",
+			"name": "局内弹出指定芯片包(目前填的1",
+			"arg": "GMRougeAddChipPack@1",
+			"argClient": ""
+		},
+		{
+			"id": 108,
+			"type": "肉鸽",
+			"name": "替换当前层且重置当前层进度(目前填的第五层",
+			"arg": "GMReplaceCurrentLayer@1015",
+			"argClient": ""
+		},
+		{
+			"id": 109,
+			"type": "肉鸽",
+			"name": "商店货币遗珍+9999",
+			"arg": "SendItem@9990102@9999",
 			"argClient": ""
 		}
 	]

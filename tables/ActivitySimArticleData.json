@@ -8,7 +8,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -19,7 +18,6 @@
 			"articleType": 1,
 			"multiAvater": 1,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -30,8 +28,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 1,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 104,
@@ -41,8 +38,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 2,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 105,
@@ -52,7 +48,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -63,7 +58,6 @@
 			"articleType": 1,
 			"multiAvater": 1,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -74,7 +68,6 @@
 			"articleType": 1,
 			"multiAvater": 1,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -85,7 +78,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -96,7 +88,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -107,7 +98,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -118,7 +108,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -129,7 +118,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -140,7 +128,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -151,7 +138,6 @@
 			"articleType": 1,
 			"multiAvater": 1,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -162,7 +148,6 @@
 			"articleType": 1,
 			"multiAvater": 1,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -173,8 +158,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 2,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 117,
@@ -184,8 +168,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 1,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 118,
@@ -195,7 +178,6 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"articleButton": "",
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -206,8 +188,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 2,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 120,
@@ -217,8 +198,7 @@
 			"articleType": 1,
 			"multiAvater": 2,
 			"mirrorItem": 1,
-			"articleButton": "",
-			"openUi": 0
+			"articleButton": ""
 		},
 		{
 			"articleId": 121,
@@ -227,29 +207,6 @@
 			"articleName": "activity_cafe_table_04",
 			"articleType": 1,
 			"multiAvater": 2,
-			"articleButton": "",
-			"openUi": 0,
-			"mirrorItem": 0
-		},
-		{
-			"articleId": 201,
-			"articleNameShow": "Mellow Commission",
-			"articleDescShow": "",
-			"articleName": "activity_cafe_darkzone_entry",
-			"articleType": 2,
-			"openUi": 2600,
-			"multiAvater": 1,
-			"articleButton": "",
-			"mirrorItem": 0
-		},
-		{
-			"articleId": 202,
-			"articleNameShow": "Freight Machine",
-			"articleDescShow": "",
-			"articleName": "activity_cafe_robot",
-			"articleType": 2,
-			"openUi": 1730,
-			"multiAvater": 1,
 			"articleButton": "",
 			"mirrorItem": 0
 		},
@@ -261,7 +218,6 @@
 			"articleName": "activity_cafe_idle_C",
 			"articleType": 999,
 			"multiAvater": 1,
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -272,7 +228,6 @@
 			"articleName": "activity_cafe_idle_B",
 			"articleType": 999,
 			"multiAvater": 1,
-			"openUi": 0,
 			"mirrorItem": 0
 		},
 		{
@@ -283,7 +238,6 @@
 			"articleName": "activity_cafe_idle_A",
 			"articleType": 999,
 			"multiAvater": 1,
-			"openUi": 0,
 			"mirrorItem": 0
 		}
 	]

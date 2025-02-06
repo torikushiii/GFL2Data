@@ -1037,6 +1037,230 @@
 			"jumpCode": "1846"
 		},
 		{
+			"id": 140901,
+			"type": 14,
+			"title": "Story Campaign 9-1",
+			"canJump": true,
+			"jumpCode": "1901"
+		},
+		{
+			"id": 140902,
+			"type": 14,
+			"title": "Story Campaign 9-2",
+			"canJump": true,
+			"jumpCode": "1902"
+		},
+		{
+			"id": 140903,
+			"type": 14,
+			"title": "Story Campaign 9-3",
+			"canJump": true,
+			"jumpCode": "1903"
+		},
+		{
+			"id": 140904,
+			"type": 14,
+			"title": "Story Campaign 9-4",
+			"canJump": true,
+			"jumpCode": "1904"
+		},
+		{
+			"id": 140905,
+			"type": 14,
+			"title": "Story Campaign 9-5",
+			"canJump": true,
+			"jumpCode": "1905"
+		},
+		{
+			"id": 140906,
+			"type": 14,
+			"title": "Story Campaign 9-6",
+			"canJump": true,
+			"jumpCode": "1906"
+		},
+		{
+			"id": 140907,
+			"type": 14,
+			"title": "Story Campaign 9-7",
+			"canJump": true,
+			"jumpCode": "1907"
+		},
+		{
+			"id": 140908,
+			"type": 14,
+			"title": "Story Campaign 9-8",
+			"canJump": true,
+			"jumpCode": "1908"
+		},
+		{
+			"id": 140909,
+			"type": 14,
+			"title": "Story Campaign 9-9",
+			"canJump": true,
+			"jumpCode": "1909"
+		},
+		{
+			"id": 140910,
+			"type": 14,
+			"title": "Story Campaign 9-10",
+			"canJump": true,
+			"jumpCode": "1910"
+		},
+		{
+			"id": 140941,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-1",
+			"canJump": true,
+			"jumpCode": "1941"
+		},
+		{
+			"id": 140942,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-2",
+			"canJump": true,
+			"jumpCode": "1942"
+		},
+		{
+			"id": 140943,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-3",
+			"canJump": true,
+			"jumpCode": "1943"
+		},
+		{
+			"id": 140944,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-4",
+			"canJump": true,
+			"jumpCode": "1944"
+		},
+		{
+			"id": 140945,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-5",
+			"canJump": true,
+			"jumpCode": "1945"
+		},
+		{
+			"id": 140946,
+			"type": 14,
+			"title": "Story Campaign Stage BH-9-6",
+			"canJump": true,
+			"jumpCode": "1946"
+		},
+		{
+			"id": 141001,
+			"type": 14,
+			"title": "Story Campaign 10-1",
+			"canJump": true,
+			"jumpCode": "11001"
+		},
+		{
+			"id": 141002,
+			"type": 14,
+			"title": "Story Campaign 10-2",
+			"canJump": true,
+			"jumpCode": "11002"
+		},
+		{
+			"id": 141003,
+			"type": 14,
+			"title": "Story Campaign 10-3",
+			"canJump": true,
+			"jumpCode": "11003"
+		},
+		{
+			"id": 141004,
+			"type": 14,
+			"title": "Story Campaign 10-4",
+			"canJump": true,
+			"jumpCode": "11004"
+		},
+		{
+			"id": 141005,
+			"type": 14,
+			"title": "Story Campaign 10-5",
+			"canJump": true,
+			"jumpCode": "11005"
+		},
+		{
+			"id": 141006,
+			"type": 14,
+			"title": "Story Campaign 10-6",
+			"canJump": true,
+			"jumpCode": "11006"
+		},
+		{
+			"id": 141007,
+			"type": 14,
+			"title": "Story Campaign 10-7",
+			"canJump": true,
+			"jumpCode": "11007"
+		},
+		{
+			"id": 141008,
+			"type": 14,
+			"title": "Story Campaign 10-8",
+			"canJump": true,
+			"jumpCode": "11008"
+		},
+		{
+			"id": 141009,
+			"type": 14,
+			"title": "Story Campaign 10-9",
+			"canJump": true,
+			"jumpCode": "11009"
+		},
+		{
+			"id": 141010,
+			"type": 14,
+			"title": "Story Campaign 10-10",
+			"canJump": true,
+			"jumpCode": "11010"
+		},
+		{
+			"id": 141041,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-1",
+			"canJump": true,
+			"jumpCode": "11041"
+		},
+		{
+			"id": 141042,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-2",
+			"canJump": true,
+			"jumpCode": "11042"
+		},
+		{
+			"id": 141043,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-3",
+			"canJump": true,
+			"jumpCode": "11043"
+		},
+		{
+			"id": 141044,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-4",
+			"canJump": true,
+			"jumpCode": "11044"
+		},
+		{
+			"id": 141045,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-5",
+			"canJump": true,
+			"jumpCode": "11045"
+		},
+		{
+			"id": 141046,
+			"type": 14,
+			"title": "Story Campaign Stage BH-10-6",
+			"canJump": true,
+			"jumpCode": "11046"
+		},
+		{
 			"id": 163101,
 			"type": 16,
 			"title": "Cognitive Configuration - Solid I",
@@ -1478,6 +1702,13 @@
 			"jumpCode": "5103"
 		},
 		{
+			"id": 190010,
+			"type": 19,
+			"title": "Custom Skin",
+			"canJump": true,
+			"jumpCode": "5109"
+		},
+		{
 			"id": 190011,
 			"type": 19,
 			"title": "Time-Limited Package",
@@ -1588,6 +1819,20 @@
 			"title": "Military Simulation Season: Tempered Glory",
 			"canJump": true,
 			"jumpCode": "31006"
+		},
+		{
+			"id": 270008,
+			"type": 27,
+			"title": "Military Simulation Season: Labrynthine Clash",
+			"canJump": true,
+			"jumpCode": "31007"
+		},
+		{
+			"id": 270009,
+			"type": 27,
+			"title": "Military Simulation Season: Lightning Strike",
+			"canJump": true,
+			"jumpCode": "31008"
 		},
 		{
 			"id": 280101,
@@ -1982,6 +2227,34 @@
 			"jumpCode": "12602"
 		},
 		{
+			"id": 290020,
+			"type": 29,
+			"title": "Escape from Cyborg",
+			"canJump": true,
+			"jumpCode": "5012"
+		},
+		{
+			"id": 290021,
+			"type": 29,
+			"title": "Neural Migration - 404 Found",
+			"canJump": true,
+			"jumpCode": "5013"
+		},
+		{
+			"id": 290022,
+			"type": 29,
+			"title": "Logistics Support",
+			"canJump": true,
+			"jumpCode": "5015"
+		},
+		{
+			"id": 290023,
+			"type": 29,
+			"title": "Safehouse - Part 1",
+			"canJump": true,
+			"jumpCode": "5016"
+		},
+		{
 			"id": 310001,
 			"type": 31,
 			"title": "Equipment Analysis - Basic I",
@@ -2066,6 +2339,13 @@
 			"jumpCode": "30000"
 		},
 		{
+			"id": 312004,
+			"type": 33,
+			"title": "Neural Integration",
+			"canJump": true,
+			"jumpCode": "5014"
+		},
+		{
 			"id": 320000,
 			"type": 32,
 			"title": "Obtained from Themed Event",
@@ -2127,6 +2407,27 @@
 			"title": "Obtain Zucchero Assistant - Capsule Coffee Machine",
 			"canJump": false,
 			"jumpCode": ""
+		},
+		{
+			"id": 320017,
+			"type": 32,
+			"title": "Obtained through Zucchero Assistant - Making Drinks",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 320018,
+			"type": 32,
+			"title": "Obtained through Zucchero Assistant - Completing Assessment Missions",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 320019,
+			"type": 32,
+			"title": "Obtain from Event Missions",
+			"canJump": true,
+			"jumpCode": "50001"
 		},
 		{
 			"id": 321002,
@@ -2325,9 +2626,51 @@
 			"jumpCode": ""
 		},
 		{
+			"id": 341042,
+			"type": 34,
+			"title": "Neural Helix - Andoris",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341043,
+			"type": 34,
+			"title": "Neural Helix - Faye",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341044,
+			"type": 34,
+			"title": "Neural Helix - Vector",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341045,
+			"type": 34,
+			"title": "Neural Helix - Belka",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341047,
+			"type": 34,
+			"title": "Neural Helix - Springfield",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
 			"id": 341050,
 			"type": 34,
 			"title": "Neural Helix - Zhaohui",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341051,
+			"type": 34,
+			"title": "Neural Helix - Mechty",
 			"canJump": false,
 			"jumpCode": ""
 		},
@@ -2346,6 +2689,20 @@
 			"jumpCode": "4020"
 		},
 		{
+			"id": 351017,
+			"type": 35,
+			"title": "Increase Groza's Affinity",
+			"canJump": true,
+			"jumpCode": "4021"
+		},
+		{
+			"id": 351023,
+			"type": 35,
+			"title": "Increase Dushevnaya's Affinity",
+			"canJump": true,
+			"jumpCode": "4024"
+		},
+		{
 			"id": 351025,
 			"type": 35,
 			"title": "Increase Tololo's Affinity",
@@ -2360,6 +2717,27 @@
 			"jumpCode": "4029"
 		},
 		{
+			"id": 351032,
+			"type": 35,
+			"title": "Increase Daiyan's Affinity",
+			"canJump": true,
+			"jumpCode": "4032"
+		},
+		{
+			"id": 351034,
+			"type": 35,
+			"title": "Increase Makiatto's Affinity",
+			"canJump": true,
+			"jumpCode": "4034"
+		},
+		{
+			"id": 351039,
+			"type": 35,
+			"title": "Increase Suomi's Affinity",
+			"canJump": true,
+			"jumpCode": "4039"
+		},
+		{
 			"id": 351040,
 			"type": 35,
 			"title": "Increase Papasha's Affinity",
@@ -2367,11 +2745,46 @@
 			"jumpCode": "4040"
 		},
 		{
+			"id": 351042,
+			"type": 35,
+			"title": "Increase Andoris' Affinity",
+			"canJump": true,
+			"jumpCode": "4047"
+		},
+		{
+			"id": 351044,
+			"type": 35,
+			"title": "Increase Vector's Affinity",
+			"canJump": true,
+			"jumpCode": "4045"
+		},
+		{
+			"id": 351045,
+			"type": 35,
+			"title": "Increase Belka's Affinity",
+			"canJump": true,
+			"jumpCode": "4046"
+		},
+		{
+			"id": 351047,
+			"type": 35,
+			"title": "Increase Springfield's Affinity",
+			"canJump": true,
+			"jumpCode": "4048"
+		},
+		{
 			"id": 351050,
 			"type": 35,
 			"title": "Increase Zhaohui's Affinity",
 			"canJump": true,
 			"jumpCode": "4042"
+		},
+		{
+			"id": 351051,
+			"type": 35,
+			"title": "Increase Mechty's Affinity",
+			"canJump": true,
+			"jumpCode": "4044"
 		},
 		{
 			"id": 351052,
@@ -2388,11 +2801,11 @@
 			"jumpCode": "41001"
 		},
 		{
-			"id": 990001,
-			"type": 99,
-			"title": "Obtained through Crafting",
-			"canJump": false,
-			"jumpCode": ""
+			"id": 360002,
+			"type": 36,
+			"title": "Past Events",
+			"canJump": true,
+			"jumpCode": "1097"
 		},
 		{
 			"id": 990002,

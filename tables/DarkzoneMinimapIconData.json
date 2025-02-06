@@ -303,13 +303,13 @@
 			"id": 24,
 			"icon": "Icon_DarkzoneMap_Mask19",
 			"iconName": "Repair Station",
-			"iconVisible": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
 			"iconSort": 2,
+			"iconVisible": false,
 			"iconAbovefog": false
 		},
 		{
@@ -329,14 +329,14 @@
 			"id": 26,
 			"icon": "Icon_DarkzoneMap_Mask21",
 			"iconName": "Filter Supply Pile",
-			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
-			"iconSort": 1
+			"iconSort": 1,
+			"iconVisible": false
 		},
 		{
 			"id": 27,
@@ -368,26 +368,26 @@
 			"id": 29,
 			"icon": "Icon_DarkzoneMap_Mask22",
 			"iconName": "Reactivate Service Station",
-			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
+			"iconVisible": false,
 			"iconSort": 0
 		},
 		{
 			"id": 30,
 			"icon": "Icon_DarkzoneMap_Mask23",
 			"iconName": "Integrated Service Station",
-			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
+			"iconVisible": false,
 			"iconSort": 0
 		},
 		{

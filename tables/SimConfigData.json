@@ -9,13 +9,22 @@
 			"gradeGroup": 1011,
 			"idleGroup": 1012,
 			"menuGroup": 1013,
-			"shopGroup": 1014,
-			"synthesisGroup": 1015,
-			"synthesisOrder": 1016,
-			"name": "Zucchero Café",
-			"planId": 0,
-			"unlockId": 0,
-			"unlockDayNum": 0
+			"synthesisGroup": 1014,
+			"synthesisOrder": 1015,
+			"shopGroup": 0
+		},
+		{
+			"submoduleId": 201,
+			"tokenItem": 170201,
+			"sceneGroup": 102,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 102,
+			"gradeGroup": 2011,
+			"idleGroup": 1012,
+			"menuGroup": 1013,
+			"shopGroup": 2001,
+			"synthesisGroup": 2014,
+			"synthesisOrder": 1015
 		}
 	]
 }

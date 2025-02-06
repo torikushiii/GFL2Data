@@ -139,1846 +139,6 @@
 			]
 		},
 		{
-			"id": 1101,
-			"background": "Img_DarkzoneMapPic_1101",
-			"darkzoneMapOffset": [
-				18.01,
-				25.21
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1102,
-			"background": "Img_DarkzoneMapPic_1102",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1103,
-			"background": "Img_DarkzoneMapPic_1103",
-			"darkzoneMapOffset": [
-				18.01,
-				27.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1104,
-			"background": "Img_DarkzoneMapPic_1104",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1105,
-			"background": "Img_DarkzoneMapPic_1105",
-			"darkzoneMapOffset": [
-				0.01,
-				18.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1106,
-			"background": "Img_DarkzoneMapPic_1106",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1107,
-			"background": "Img_DarkzoneMapPic_1107",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1108,
-			"background": "Img_DarkzoneMapPic_1108",
-			"darkzoneMapOffset": [
-				0.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1109,
-			"background": "Img_DarkzoneMapPic_1109",
-			"darkzoneMapOffset": [
-				18.01,
-				27.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1110,
-			"background": "Img_DarkzoneMapPic_1110",
-			"darkzoneMapOffset": [
-				0.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1111,
-			"background": "Img_DarkzoneMapPic_1111",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1112,
-			"background": "Img_DarkzoneMapPic_1112",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1113,
-			"background": "Img_DarkzoneMapPic_1113",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1114,
-			"background": "Img_DarkzoneMapPic_1114",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1115,
-			"background": "Img_DarkzoneMapPic_1115",
-			"darkzoneMapOffset": [
-				18.01,
-				27.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1116,
-			"background": "Img_DarkzoneMapPic_1116",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1117,
-			"background": "Img_DarkzoneMapPic_1117",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1118,
-			"background": "Img_DarkzoneMapPic_1118",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1119,
-			"background": "Img_DarkzoneMapPic_1119",
-			"darkzoneMapOffset": [
-				0.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1120,
-			"background": "Img_DarkzoneMapPic_1120",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1121,
-			"background": "Img_DarkzoneMapPic_1121",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1122,
-			"background": "Img_DarkzoneMapPic_1122",
-			"darkzoneMapOffset": [
-				0.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1123,
-			"background": "Img_DarkzoneMapPic_1123",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1124,
-			"background": "Img_DarkzoneMapPic_1124",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1125,
-			"background": "Img_DarkzoneMapPic_1125",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1126,
-			"background": "Img_DarkzoneMapPic_1126",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1127,
-			"background": "Img_DarkzoneMapPic_1127",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1128,
-			"background": "Img_DarkzoneMapPic_1128",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1165,
-			"background": "Img_DarkzoneMapPic_1165",
-			"darkzoneMapOffset": [
-				18.01,
-				25.21
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1169,
-			"background": "Img_DarkzoneMapPic_1169",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1170,
-			"background": "Img_DarkzoneMapPic_1170",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1171,
-			"background": "Img_DarkzoneMapPic_1171",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1172,
-			"background": "Img_DarkzoneMapPic_1172",
-			"darkzoneMapOffset": [
-				18.01,
-				25.21
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1173,
-			"background": "Img_DarkzoneMapPic_1173",
-			"darkzoneMapOffset": [
-				9.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1201,
-			"background": "Img_DarkzoneMapPic_1201",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1202,
-			"background": "Img_DarkzoneMapPic_1202",
-			"darkzoneMapOffset": [
-				3.6,
-				16.2
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1203,
-			"background": "Img_DarkzoneMapPic_1203",
-			"darkzoneMapOffset": [
-				20.02,
-				25.37
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1204,
-			"background": "Img_DarkzoneMapPic_1204",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1205,
-			"background": "Img_DarkzoneMapPic_1205",
-			"darkzoneMapOffset": [
-				3.6,
-				16.2
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1206,
-			"background": "Img_DarkzoneMapPic_1206",
-			"darkzoneMapOffset": [
-				10.8,
-				14.6
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1207,
-			"background": "Img_DarkzoneMapPic_1207",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1208,
-			"background": "Img_DarkzoneMapPic_1208",
-			"darkzoneMapOffset": [
-				5.4,
-				16.08
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1209,
-			"background": "Img_DarkzoneMapPic_1209",
-			"darkzoneMapOffset": [
-				10.8,
-				14.6
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1301,
-			"background": "Img_DarkzoneMapPic_1301",
-			"darkzoneMapOffset": [
-				20.02,
-				25.37
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1302,
-			"background": "Img_DarkzoneMapPic_1302",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1303,
-			"background": "Img_DarkzoneMapPic_1303",
-			"darkzoneMapOffset": [
-				20.02,
-				25.37
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1304,
-			"background": "Img_DarkzoneMapPic_1304",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1305,
-			"background": "Img_DarkzoneMapPic_1305",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1311,
-			"background": "Img_DarkzoneMapPic_1311",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1312,
-			"background": "Img_DarkzoneMapPic_1312",
-			"darkzoneMapOffset": [
-				3.6,
-				16.2
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1313,
-			"background": "Img_DarkzoneMapPic_1313",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1321,
-			"background": "Img_DarkzoneMapPic_1321",
-			"darkzoneMapOffset": [
-				20.02,
-				25.37
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1322,
-			"background": "Img_DarkzoneMapPic_1322",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1323,
-			"background": "Img_DarkzoneMapPic_1323",
-			"darkzoneMapOffset": [
-				10.8,
-				14.6
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1331,
-			"background": "Img_DarkzoneMapPic_1331",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1332,
-			"background": "Img_DarkzoneMapPic_1332",
-			"darkzoneMapOffset": [
-				10.8,
-				14.6
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1333,
-			"background": "Img_DarkzoneMapPic_1333",
-			"darkzoneMapOffset": [
-				5.4,
-				16.08
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1341,
-			"background": "Img_DarkzoneMapPic_1341",
-			"darkzoneMapOffset": [
-				18.22,
-				28.07
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1342,
-			"background": "Img_DarkzoneMapPic_1342",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1343,
-			"background": "Img_DarkzoneMapPic_1343",
-			"darkzoneMapOffset": [
-				5.4,
-				16.08
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1351,
-			"background": "Img_DarkzoneMapPic_1351",
-			"darkzoneMapOffset": [
-				20.02,
-				25.37
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1352,
-			"background": "Img_DarkzoneMapPic_1352",
-			"darkzoneMapOffset": [
-				3.6,
-				16.2
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 1353,
-			"background": "Img_DarkzoneMapPic_1353",
-			"darkzoneMapOffset": [
-				0.03,
-				12.77
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2101,
-			"background": "Img_DarkzoneMapPic_2101",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2102,
-			"background": "Img_DarkzoneMapPic_2102",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2103,
-			"background": "Img_DarkzoneMapPic_2103",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2104,
-			"background": "Img_DarkzoneMapPic_2104",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2105,
-			"background": "Img_DarkzoneMapPic_2105",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2106,
-			"background": "Img_DarkzoneMapPic_2106",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2107,
-			"background": "Img_DarkzoneMapPic_2107",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2108,
-			"background": "Img_DarkzoneMapPic_2108",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2109,
-			"background": "Img_DarkzoneMapPic_2109",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2110,
-			"background": "Img_DarkzoneMapPic_2110",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 2111,
-			"background": "Img_DarkzoneMapPic_2111",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3000,
-			"background": "Img_DarkzoneMapPic_3000",
-			"darkzoneMapOffset": [
-				0.01,
-				18.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3001,
-			"background": "Img_DarkzoneMapPic_3001",
-			"darkzoneMapOffset": [
-				0.01,
-				18.01
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3002,
-			"background": "Img_DarkzoneMapPic_3002",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3003,
-			"background": "Img_DarkzoneMapPic_3003",
-			"darkzoneMapOffset": [
-				0.01,
-				-1.79
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3004,
-			"background": "Img_DarkzoneMapPic_3004",
-			"darkzoneMapOffset": [
-				0.01,
-				14.41
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
-			"id": 3005,
-			"background": "Img_DarkzoneMapPic_3005",
-			"darkzoneMapOffset": [
-				0.01,
-				12.61
-			],
-			"darkzoneMapScale": 18.96,
-			"darkzoneMapZoomBenchmarkMax": 3,
-			"darkzoneMapZoomBenchmarkMin": 1,
-			"darkzoneMapZoomLimit": [
-				1,
-				3
-			],
-			"darkzoneFogStartPos": [
-				0.0,
-				0.0
-			],
-			"darkzoneFogEndPos": [
-				300.0,
-				300.0
-			]
-		},
-		{
 			"id": 4001,
 			"background": "Img_DarkzoneMapPic_4001",
 			"darkzoneMapOffset": [
@@ -2006,7 +166,7 @@
 			"background": "Img_DarkzoneMapPic_4002",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				18.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2029,7 +189,7 @@
 			"background": "Img_DarkzoneMapPic_4003",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				18.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2052,7 +212,7 @@
 			"background": "Img_DarkzoneMapPic_4004",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				-1.79
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2074,8 +234,8 @@
 			"id": 4005,
 			"background": "Img_DarkzoneMapPic_4005",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				27.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2098,7 +258,7 @@
 			"background": "Img_DarkzoneMapPic_4006",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				-1.79
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2121,7 +281,7 @@
 			"background": "Img_DarkzoneMapPic_4007",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2144,7 +304,7 @@
 			"background": "Img_DarkzoneMapPic_4008",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2166,8 +326,8 @@
 			"id": 4009,
 			"background": "Img_DarkzoneMapPic_4009",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				9.01,
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2190,7 +350,7 @@
 			"background": "Img_DarkzoneMapPic_4010",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2213,7 +373,7 @@
 			"background": "Img_DarkzoneMapPic_4011",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2236,7 +396,7 @@
 			"background": "Img_DarkzoneMapPic_4012",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				18.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2281,8 +441,8 @@
 			"id": 4014,
 			"background": "Img_DarkzoneMapPic_4014",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				25.21
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2327,8 +487,8 @@
 			"id": 4016,
 			"background": "Img_DarkzoneMapPic_4016",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				27.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2351,7 +511,7 @@
 			"background": "Img_DarkzoneMapPic_4017",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				-1.79
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2396,8 +556,8 @@
 			"id": 4019,
 			"background": "Img_DarkzoneMapPic_4019",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				25.21
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2419,8 +579,8 @@
 			"id": 4020,
 			"background": "Img_DarkzoneMapPic_4020",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				27.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2442,8 +602,8 @@
 			"id": 4021,
 			"background": "Img_DarkzoneMapPic_4021",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				9.01,
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2466,7 +626,7 @@
 			"background": "Img_DarkzoneMapPic_4022",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				-1.79
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2489,7 +649,7 @@
 			"background": "Img_DarkzoneMapPic_4023",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				18.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2511,8 +671,8 @@
 			"id": 4024,
 			"background": "Img_DarkzoneMapPic_4024",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				25.21
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2535,7 +695,7 @@
 			"background": "Img_DarkzoneMapPic_4025",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2557,8 +717,8 @@
 			"id": 4026,
 			"background": "Img_DarkzoneMapPic_4026",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				9.01,
+				14.41
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2580,8 +740,8 @@
 			"id": 4027,
 			"background": "Img_DarkzoneMapPic_4027",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				27.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2603,8 +763,8 @@
 			"id": 4028,
 			"background": "Img_DarkzoneMapPic_4028",
 			"darkzoneMapOffset": [
-				0.01,
-				12.61
+				18.01,
+				25.21
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2627,7 +787,7 @@
 			"background": "Img_DarkzoneMapPic_4029",
 			"darkzoneMapOffset": [
 				0.01,
-				12.61
+				18.01
 			],
 			"darkzoneMapScale": 18.96,
 			"darkzoneMapZoomBenchmarkMax": 3,
@@ -2648,6 +808,213 @@
 		{
 			"id": 4030,
 			"background": "Img_DarkzoneMapPic_4030",
+			"darkzoneMapOffset": [
+				0.01,
+				12.61
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4031,
+			"background": "Img_DarkzoneMapPic_4031",
+			"darkzoneMapOffset": [
+				0.01,
+				14.41
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4032,
+			"background": "Img_DarkzoneMapPic_4032",
+			"darkzoneMapOffset": [
+				18.01,
+				27.01
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4033,
+			"background": "Img_DarkzoneMapPic_4033",
+			"darkzoneMapOffset": [
+				18.01,
+				25.21
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4034,
+			"background": "Img_DarkzoneMapPic_4034",
+			"darkzoneMapOffset": [
+				0.01,
+				18.01
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4035,
+			"background": "Img_DarkzoneMapPic_4035",
+			"darkzoneMapOffset": [
+				9.01,
+				14.41
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4036,
+			"background": "Img_DarkzoneMapPic_4036",
+			"darkzoneMapOffset": [
+				0.01,
+				12.61
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4037,
+			"background": "Img_DarkzoneMapPic_4037",
+			"darkzoneMapOffset": [
+				0.01,
+				-1.79
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4038,
+			"background": "Img_DarkzoneMapPic_4038",
+			"darkzoneMapOffset": [
+				0.01,
+				14.41
+			],
+			"darkzoneMapScale": 18.96,
+			"darkzoneMapZoomBenchmarkMax": 3,
+			"darkzoneMapZoomBenchmarkMin": 1,
+			"darkzoneMapZoomLimit": [
+				1,
+				3
+			],
+			"darkzoneFogStartPos": [
+				0.0,
+				0.0
+			],
+			"darkzoneFogEndPos": [
+				300.0,
+				300.0
+			]
+		},
+		{
+			"id": 4039,
+			"background": "Img_DarkzoneMapPic_4039",
 			"darkzoneMapOffset": [
 				0.01,
 				12.61

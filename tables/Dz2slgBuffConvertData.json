@@ -19,15 +19,6 @@
 			"timeScale": 30000
 		},
 		{
-			"dztoslgBuffId": 20000,
-			"condition": [
-				1,
-				2
-			],
-			"inSlgBuffId": 52001,
-			"timeScale": 1
-		},
-		{
 			"dztoslgBuffId": 20002,
 			"condition": [
 				1,

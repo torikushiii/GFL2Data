@@ -649,6 +649,71 @@
 			"reward": {
 				"13": 820
 			}
+		},
+		{
+			"id": 1091,
+			"level": 109,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				36599
+			],
+			"rank": 1,
+			"reward": {
+				"13": 850
+			}
+		},
+		{
+			"id": 1092,
+			"level": 109,
+			"name": "Good",
+			"scoreSection": [
+				36600,
+				91499
+			],
+			"rank": 2,
+			"reward": {
+				"13": 880
+			}
+		},
+		{
+			"id": 1093,
+			"level": 109,
+			"name": "Great",
+			"scoreSection": [
+				91500,
+				146399
+			],
+			"rank": 3,
+			"reward": {
+				"13": 920
+			}
+		},
+		{
+			"id": 1094,
+			"level": 109,
+			"name": "Excellent",
+			"scoreSection": [
+				146400,
+				182999
+			],
+			"rank": 4,
+			"reward": {
+				"13": 960
+			}
+		},
+		{
+			"id": 1095,
+			"level": 109,
+			"name": "Outstanding",
+			"scoreSection": [
+				183000,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 1000
+			}
 		}
 	]
 }

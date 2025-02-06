@@ -1155,7 +1155,7 @@
 			"id": 121,
 			"interfaceName": "UIActivityThemeBMainPanel",
 			"audioName": [
-				30093
+				30103
 			],
 			"priority": 0,
 			"selector": "",
@@ -1193,10 +1193,10 @@
 		},
 		{
 			"id": 125,
-			"interfaceName": "UIChrBlessingPanel",
 			"audioName": [
 				30106
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1206,6 +1206,66 @@
 			"interfaceName": "UIActivityTourDifficultySelectPanel",
 			"audioName": [
 				30089
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 127,
+			"audioName": [
+				30085
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_1",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 128,
+			"audioName": [
+				30086
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_2",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 129,
+			"interfaceName": "UIKittyCafeMainPanel",
+			"audioName": [
+				30087
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_3",
+			"priority": 0
+		},
+		{
+			"id": 130,
+			"audioName": [
+				30113
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 131,
+			"interfaceName": "UIAnniversary1stMainPanel",
+			"audioName": [
+				30114
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 132,
+			"interfaceName": "UIDormGiftPanel",
+			"audioName": [
+				30084
 			],
 			"priority": 0,
 			"selector": "",

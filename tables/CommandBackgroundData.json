@@ -209,6 +209,19 @@
 			"timeline": ""
 		},
 		{
+			"id": 3015,
+			"type": 3,
+			"name": "Maid's Leisurely Hour",
+			"pic": "Img_CommandCenterBgPic_2D_14",
+			"bg": "CentaureissiSSR01/CentaureissiSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 71009,
+			"des": "Unlocked after obtaining Centaureissi",
+			"audioBgm": 90012,
+			"gunId": 1028,
+			"timeline": ""
+		},
+		{
 			"id": 3016,
 			"type": 3,
 			"name": "Frost Guardian",
@@ -245,6 +258,32 @@
 			"des": "Unlocked after obtaining Littara.",
 			"audioBgm": 90012,
 			"gunId": 1038,
+			"timeline": ""
+		},
+		{
+			"id": 3019,
+			"type": 3,
+			"name": "Hyper-Speed Infiltration",
+			"pic": "Img_CommandCenterBgPic_2D_LennaSSR01",
+			"bg": "LennaSSR01/LennaSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 71013,
+			"des": "Unlocked after obtaining Lenna",
+			"audioBgm": 90002,
+			"gunId": 1013,
+			"timeline": ""
+		},
+		{
+			"id": 3020,
+			"type": 3,
+			"name": "Fiery Kick",
+			"pic": "Img_CommandCenterBgPic_2D_JiangyuSSR01",
+			"bg": "JiangyuSSR01/JiangyuSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 71014,
+			"des": "Unlocked after obtaining Jiangyu",
+			"audioBgm": 90002,
+			"gunId": 1035,
 			"timeline": ""
 		},
 		{
@@ -287,6 +326,19 @@
 			"timeline": ""
 		},
 		{
+			"id": 3024,
+			"type": 3,
+			"name": "Seal, Off!",
+			"pic": "Img_CommandCenterBgPic_2D_DusevnyjSSR01",
+			"bg": "DusevnyjSSR01/DusevnyjSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44023,
+			"des": "Unlocked after obtaining Dushevnaya",
+			"audioBgm": 90002,
+			"gunId": 1023,
+			"timeline": ""
+		},
+		{
 			"id": 3025,
 			"type": 3,
 			"name": "Walking in Light",
@@ -311,6 +363,123 @@
 			"audioBgm": 90002,
 			"gunId": 1040,
 			"timeline": ""
+		},
+		{
+			"id": 3027,
+			"type": 3,
+			"name": "Omni-Directional Protection",
+			"pic": "Img_CommandCenterBgPic_2D_AndorisSSR01",
+			"bg": "AndorisSSR01/AndorisSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44042,
+			"des": "Unlocked after obtaining Andoris",
+			"audioBgm": 90002,
+			"gunId": 1042,
+			"timeline": ""
+		},
+		{
+			"id": 3028,
+			"type": 3,
+			"name": "Burning Heart",
+			"pic": "Img_CommandCenterBgPic_2D_FayeSSR01",
+			"bg": "FayeSSR01/FayeSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44043,
+			"des": "Unlocked after obtaining Faye",
+			"audioBgm": 90002,
+			"gunId": 1043,
+			"timeline": ""
+		},
+		{
+			"id": 3029,
+			"type": 3,
+			"name": "Trial of Silence",
+			"pic": "Img_CommandCenterBgPic_2D_VectorSSR01",
+			"bg": "VectorSSR01/VectorSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44044,
+			"des": "Unlocked after obtaining Vector",
+			"audioBgm": 90002,
+			"gunId": 1044,
+			"timeline": ""
+		},
+		{
+			"id": 3030,
+			"type": 3,
+			"name": "Colorful Excitement",
+			"pic": "Img_CommandCenterBgPic_2D_BiyocaSSR01",
+			"bg": "BiyocaSSR01/BiyocaSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44045,
+			"des": "Unlocked after obtaining Belka",
+			"audioBgm": 90002,
+			"gunId": 1045,
+			"timeline": ""
+		},
+		{
+			"id": 3032,
+			"type": 3,
+			"name": "Gentle Gaze",
+			"pic": "Img_CommandCenterBgPic_2D_SpringfieldSSR01",
+			"bg": "SpringfieldSSR01/SpringfieldSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44047,
+			"des": "Unlocked after obtaining Springfield",
+			"audioBgm": 90002,
+			"gunId": 1047,
+			"timeline": ""
+		},
+		{
+			"id": 3035,
+			"type": 3,
+			"name": "Rustling Leaves",
+			"pic": "Img_CommandCenterBgPic_2D_ZhaohuiSSR01",
+			"bg": "ZhaohuiSSR01/ZhaohuiSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44050,
+			"des": "Unlocked after obtaining Zhaohui",
+			"audioBgm": 90002,
+			"gunId": 1050,
+			"timeline": ""
+		},
+		{
+			"id": 3036,
+			"type": 3,
+			"name": "Sweet Dreams Tonight",
+			"pic": "Img_CommandCenterBgPic_2D_MishtySSR01",
+			"bg": "MishtySSR01/MishtySSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44051,
+			"des": "Unlocked after obtaining Mechty",
+			"audioBgm": 90002,
+			"gunId": 1051,
+			"timeline": ""
+		},
+		{
+			"id": 3037,
+			"type": 3,
+			"name": "Fast as Lightning",
+			"pic": "Img_CommandCenterBgPic_2D_ClukaySSR01",
+			"bg": "ClukaySSR01/ClukaySSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44052,
+			"des": "Unlocked after obtaining Klukai",
+			"audioBgm": 90002,
+			"gunId": 1052,
+			"timeline": ""
+		},
+		{
+			"id": 3056,
+			"type": 6,
+			"name": "Linger Under the Moonlight",
+			"pic": "Img_CommandCenterBgPic_2D_SpringfieldSSR0101",
+			"bg": "SpringfieldSSR0101/SpringfieldSSR0101_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 43001,
+			"des": "Unlocked after obtaining Outfit - Queen in Radiance",
+			"audioBgm": 90002,
+			"timeline": "",
+			"gunId": 0
 		}
 	]
 }

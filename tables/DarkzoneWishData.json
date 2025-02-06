@@ -1,0 +1,688 @@
+{
+	"data": [
+		{
+			"id": 150001,
+			"name": "Type I Set Carrier Card - Short Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"1": 367,
+				"3": 367,
+				"8": 367
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150002,
+			"name": "Type I Set Loadout Card - Medium Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"1": 700,
+				"3": 700,
+				"8": 700
+			},
+			"weightTypeShow": {
+				"1": 401
+			}
+		},
+		{
+			"id": 150003,
+			"name": "Type I Set Carrier Card - Long Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"1": 1000,
+				"3": 1000,
+				"8": 1000
+			},
+			"weightTypeShow": {
+				"2": 1
+			}
+		},
+		{
+			"id": 150004,
+			"name": "Type II Set Carrier Card - Short Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"2": 367,
+				"4": 367,
+				"9": 367
+			},
+			"weightTypeShow": {
+				"3": 1
+			}
+		},
+		{
+			"id": 150005,
+			"name": "Type II Set Carrier Card - Medium Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"2": 700,
+				"4": 700,
+				"9": 700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150006,
+			"name": "Type II Set Carrier Card - Long wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"2": 1000,
+				"4": 1000,
+				"9": 1000
+			},
+			"weightTypeShow": {
+				"1": 401
+			}
+		},
+		{
+			"id": 150007,
+			"name": "Type III Set Carrier Card - Short Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"5": 367,
+				"6": 367,
+				"7": 367
+			},
+			"weightTypeShow": {
+				"2": 1
+			}
+		},
+		{
+			"id": 150008,
+			"name": "Type III Set Carrier Card - Medium Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"5": 700,
+				"6": 700,
+				"7": 700
+			},
+			"weightTypeShow": {
+				"3": 1
+			}
+		},
+		{
+			"id": 150009,
+			"name": "Type III Set Carrier Card - Long Wave",
+			"des": "",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 4,
+			"weight": {
+				"5": 1000,
+				"6": 1000,
+				"7": 1000
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150010,
+			"name": "Type I Component Carrier Card - Short Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				1201,
+				1301,
+				901,
+				1001
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"3": 367,
+				"5": 367
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150011,
+			"name": "Type I Component Loadout Card - Medium Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				1201,
+				1301,
+				901,
+				1001
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"3": 700,
+				"5": 700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150012,
+			"name": "Type I Component Loadout Card - Long Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				1201,
+				1301,
+				901,
+				1001
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"3": 1700,
+				"5": 1700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150013,
+			"name": "Type II Component Loadout Card - Short Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				101,
+				102,
+				103,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"2": 367,
+				"6": 367
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150014,
+			"name": "Type II Component Loadout Card - Medium Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				101,
+				102,
+				103,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"2": 700,
+				"6": 700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150015,
+			"name": "Type II Component Loadout Card - Long Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				101,
+				102,
+				103,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"2": 1700,
+				"6": 1700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150016,
+			"name": "Type III Component Loadout Card - Short Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"1": 367,
+				"5": 367,
+				"6": 367
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150017,
+			"name": "Type III Component Loadout Card - Medium Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"1": 700,
+				"5": 700,
+				"6": 700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150018,
+			"name": "Type III Component Carrier Card - Long Wave",
+			"des": "",
+			"type": 4,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 1,
+			"weight": {
+				"1": 1700,
+				"5": 1700,
+				"6": 1700
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150019,
+			"name": "Type I Function Loadout Card - Short Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"3": 350
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150020,
+			"name": "Type I Function Loadout Card - Medium Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"3": 600
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150021,
+			"name": "Type I Function Loadout Card - Long Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"3": 1100
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150022,
+			"name": "Type II Function Loadout Card - Short Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"2": 400
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150023,
+			"name": "Type II Function Loadout Card - Medium Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"2": 650
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150024,
+			"name": "Type II Function Carrier Card - Long Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				1001,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"2": 1067
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150025,
+			"name": "Type III Function Loadout Card - Short Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"4": 371
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150026,
+			"name": "Type III Function Carrier Card - Medium Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"4": 633
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150027,
+			"name": "Type III Function Loadout Card - Long Wave",
+			"des": "",
+			"type": 2,
+			"effectType": [
+				201,
+				202,
+				203,
+				204,
+				401
+			],
+			"effectTypeDes": "",
+			"weightType": 2,
+			"weight": {
+				"4": 1000
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150028,
+			"name": "Perfect Color Carrier Card - Short Wave",
+			"des": "",
+			"type": 1,
+			"effectType": [
+				101,
+				102,
+				103,
+				201,
+				202,
+				203,
+				204,
+				301,
+				401,
+				801,
+				901,
+				1001,
+				1101,
+				1201,
+				1301,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 3,
+			"weight": {
+				"2": 100,
+				"3": 33
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150029,
+			"name": "Perfect Color Carrier Card - Medium Wave",
+			"des": "",
+			"type": 1,
+			"effectType": [
+				101,
+				102,
+				103,
+				201,
+				202,
+				203,
+				204,
+				301,
+				401,
+				801,
+				901,
+				1001,
+				1101,
+				1201,
+				1301,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 3,
+			"weight": {
+				"2": 150,
+				"3": 50
+			},
+			"weightTypeShow": {}
+		},
+		{
+			"id": 150030,
+			"name": "Perfect Quality Carrier Card - Long Wave",
+			"des": "",
+			"type": 1,
+			"effectType": [
+				101,
+				102,
+				103,
+				201,
+				202,
+				203,
+				204,
+				301,
+				401,
+				801,
+				901,
+				1001,
+				1101,
+				1201,
+				1301,
+				1401
+			],
+			"effectTypeDes": "",
+			"weightType": 3,
+			"weight": {
+				"2": 225,
+				"3": 75
+			},
+			"weightTypeShow": {}
+		}
+	]
+}

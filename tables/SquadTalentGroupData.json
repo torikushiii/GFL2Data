@@ -4,16 +4,13 @@
 			"pointId": "1001001001",
 			"squadTalentTreeGroup": 1001001,
 			"openType": 1001002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100101,
 			"traverseTalentEffectGeneGroup": [
-				"2100101"
+				"210010101"
 			],
-			"level": 210010101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1001002001",
@@ -21,15 +18,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 400102,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400102,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100102,
 			"traverseTalentEffectGeneGroup": [
-				"2100102"
+				"210010201"
 			],
-			"level": 210010201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -38,15 +32,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 400102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100101,
 			"traverseTalentEffectGeneGroup": [
-				"3100101"
+				"310010101"
 			],
-			"level": 310010101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -55,15 +46,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 400102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100102,
 			"traverseTalentEffectGeneGroup": [
-				"3100102"
+				"310010201"
 			],
-			"level": 310010201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -73,15 +61,12 @@
 				"4"
 			],
 			"openType": 1001004001,
-			"unlockCondition": 1,
-			"pointType": 400103,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400103,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100103,
 			"traverseTalentEffectGeneGroup": [
-				"2100103"
-			],
-			"level": 210010301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210010301"
+			]
 		},
 		{
 			"pointId": "1001004001",
@@ -89,15 +74,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 400104,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400104,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100104,
 			"traverseTalentEffectGeneGroup": [
-				"2100104"
+				"210010401"
 			],
-			"level": 210010401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -106,15 +88,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 400104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100103,
 			"traverseTalentEffectGeneGroup": [
-				"3100103"
+				"310010301"
 			],
-			"level": 310010301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -123,15 +102,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 400104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100104,
 			"traverseTalentEffectGeneGroup": [
-				"3100104"
+				"310010401"
 			],
-			"level": 310010401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -141,15 +117,12 @@
 				"8"
 			],
 			"openType": 1001006001,
-			"unlockCondition": 1,
-			"pointType": 400105,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400105,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100105,
 			"traverseTalentEffectGeneGroup": [
-				"2100105"
-			],
-			"level": 210010501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210010501"
+			]
 		},
 		{
 			"pointId": "1001006001",
@@ -157,15 +130,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 400106,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400106,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100106,
 			"traverseTalentEffectGeneGroup": [
-				"2100106"
+				"210010601"
 			],
-			"level": 210010601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -174,15 +144,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 400106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100105,
 			"traverseTalentEffectGeneGroup": [
-				"3100105"
+				"310010501"
 			],
-			"level": 310010501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -191,15 +158,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 400106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100106,
 			"traverseTalentEffectGeneGroup": [
-				"3100106"
+				"310010601"
 			],
-			"level": 310010601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -208,31 +172,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100107,
 			"traverseTalentEffectGeneGroup": [
-				"3100107"
+				"310010701"
 			],
-			"level": 310010701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1002001001",
 			"squadTalentTreeGroup": 1002001,
 			"openType": 1002002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100201,
 			"traverseTalentEffectGeneGroup": [
-				"2100201"
+				"210020101"
 			],
-			"level": 210020101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1002002001",
@@ -240,15 +198,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 400802,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400802,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100202,
 			"traverseTalentEffectGeneGroup": [
-				"2100202"
+				"210020201"
 			],
-			"level": 210020201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -257,15 +212,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 400802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100201,
 			"traverseTalentEffectGeneGroup": [
-				"3100201"
+				"310020101"
 			],
-			"level": 310020101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -274,15 +226,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 400802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100202,
 			"traverseTalentEffectGeneGroup": [
-				"3100202"
+				"310020201"
 			],
-			"level": 310020201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -292,15 +241,12 @@
 				"4"
 			],
 			"openType": 1002004001,
-			"unlockCondition": 1,
-			"pointType": 400803,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400803,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100203,
 			"traverseTalentEffectGeneGroup": [
-				"2100203"
-			],
-			"level": 210020301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210020301"
+			]
 		},
 		{
 			"pointId": "1002004001",
@@ -308,15 +254,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 400804,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400804,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100204,
 			"traverseTalentEffectGeneGroup": [
-				"2100204"
+				"210020401"
 			],
-			"level": 210020401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -325,15 +268,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 400804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100203,
 			"traverseTalentEffectGeneGroup": [
-				"3100203"
+				"310020301"
 			],
-			"level": 310020301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -342,15 +282,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 400804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100204,
 			"traverseTalentEffectGeneGroup": [
-				"3100204"
+				"310020401"
 			],
-			"level": 310020401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -360,15 +297,12 @@
 				"8"
 			],
 			"openType": 1002006001,
-			"unlockCondition": 1,
-			"pointType": 400805,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400805,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100205,
 			"traverseTalentEffectGeneGroup": [
-				"2100205"
-			],
-			"level": 210020501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210020501"
+			]
 		},
 		{
 			"pointId": "1002006001",
@@ -376,15 +310,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 400806,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400806,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100206,
 			"traverseTalentEffectGeneGroup": [
-				"2100206"
+				"210020601"
 			],
-			"level": 210020601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -393,15 +324,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 400806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100205,
 			"traverseTalentEffectGeneGroup": [
-				"3100205"
+				"310020501"
 			],
-			"level": 310020501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -410,15 +338,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 400806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100206,
 			"traverseTalentEffectGeneGroup": [
-				"3100206"
+				"310020601"
 			],
-			"level": 310020601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -427,31 +352,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100207,
 			"traverseTalentEffectGeneGroup": [
-				"3100207"
+				"310020701"
 			],
-			"level": 310020701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1003001001",
 			"squadTalentTreeGroup": 1003001,
 			"openType": 1003002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100301,
 			"traverseTalentEffectGeneGroup": [
-				"2100301"
+				"210030101"
 			],
-			"level": 210030101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1003002001",
@@ -459,15 +378,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 400902,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400902,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100302,
 			"traverseTalentEffectGeneGroup": [
-				"2100302"
+				"210030201"
 			],
-			"level": 210030201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -476,15 +392,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 400902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100301,
 			"traverseTalentEffectGeneGroup": [
-				"3100301"
+				"310030101"
 			],
-			"level": 310030101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -493,15 +406,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 400902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100302,
 			"traverseTalentEffectGeneGroup": [
-				"3100302"
+				"310030201"
 			],
-			"level": 310030201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -511,15 +421,12 @@
 				"4"
 			],
 			"openType": 1003004001,
-			"unlockCondition": 1,
-			"pointType": 400903,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400903,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100303,
 			"traverseTalentEffectGeneGroup": [
-				"2100303"
-			],
-			"level": 210030301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210030301"
+			]
 		},
 		{
 			"pointId": "1003004001",
@@ -527,15 +434,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 400904,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400904,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100304,
 			"traverseTalentEffectGeneGroup": [
-				"2100304"
+				"210030401"
 			],
-			"level": 210030401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -544,15 +448,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 400904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100303,
 			"traverseTalentEffectGeneGroup": [
-				"3100303"
+				"310030301"
 			],
-			"level": 310030301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -561,15 +462,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 400904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100304,
 			"traverseTalentEffectGeneGroup": [
-				"3100304"
+				"310030401"
 			],
-			"level": 310030401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -579,15 +477,12 @@
 				"8"
 			],
 			"openType": 1003006001,
-			"unlockCondition": 1,
-			"pointType": 400905,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400905,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100305,
 			"traverseTalentEffectGeneGroup": [
-				"2100305"
-			],
-			"level": 210030501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210030501"
+			]
 		},
 		{
 			"pointId": "1003006001",
@@ -595,15 +490,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 400906,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 400906,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100306,
 			"traverseTalentEffectGeneGroup": [
-				"2100306"
+				"210030601"
 			],
-			"level": 210030601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -612,15 +504,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 400906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100305,
 			"traverseTalentEffectGeneGroup": [
-				"3100305"
+				"310030501"
 			],
-			"level": 310030501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -629,15 +518,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 400906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 400906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100306,
 			"traverseTalentEffectGeneGroup": [
-				"3100306"
+				"310030601"
 			],
-			"level": 310030601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -646,31 +532,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100307,
 			"traverseTalentEffectGeneGroup": [
-				"3100307"
+				"310030701"
 			],
-			"level": 310030701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1004001001",
 			"squadTalentTreeGroup": 1004001,
 			"openType": 1004002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100401,
 			"traverseTalentEffectGeneGroup": [
-				"2100401"
+				"210040101"
 			],
-			"level": 210040101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1004002001",
@@ -678,15 +558,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 401502,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401502,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100402,
 			"traverseTalentEffectGeneGroup": [
-				"2100402"
+				"210040201"
 			],
-			"level": 210040201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -695,15 +572,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 401502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100401,
 			"traverseTalentEffectGeneGroup": [
-				"3100401"
+				"310040101"
 			],
-			"level": 310040101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -712,15 +586,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 401502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100402,
 			"traverseTalentEffectGeneGroup": [
-				"3100402"
+				"310040201"
 			],
-			"level": 310040201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -730,15 +601,12 @@
 				"4"
 			],
 			"openType": 1004004001,
-			"unlockCondition": 1,
-			"pointType": 401503,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401503,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100403,
 			"traverseTalentEffectGeneGroup": [
-				"2100403"
-			],
-			"level": 210040301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210040301"
+			]
 		},
 		{
 			"pointId": "1004004001",
@@ -746,15 +614,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 401504,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401504,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100404,
 			"traverseTalentEffectGeneGroup": [
-				"2100404"
+				"210040401"
 			],
-			"level": 210040401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -763,15 +628,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 401504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100403,
 			"traverseTalentEffectGeneGroup": [
-				"3100403"
+				"310040301"
 			],
-			"level": 310040301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -780,15 +642,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 401504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100404,
 			"traverseTalentEffectGeneGroup": [
-				"3100404"
+				"310040401"
 			],
-			"level": 310040401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -798,15 +657,12 @@
 				"8"
 			],
 			"openType": 1004006001,
-			"unlockCondition": 1,
-			"pointType": 401505,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401505,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100405,
 			"traverseTalentEffectGeneGroup": [
-				"2100405"
-			],
-			"level": 210040501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210040501"
+			]
 		},
 		{
 			"pointId": "1004006001",
@@ -814,15 +670,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 401506,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401506,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100406,
 			"traverseTalentEffectGeneGroup": [
-				"2100406"
+				"210040601"
 			],
-			"level": 210040601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -831,15 +684,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 401506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100405,
 			"traverseTalentEffectGeneGroup": [
-				"3100405"
+				"310040501"
 			],
-			"level": 310040501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -848,15 +698,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 401506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100406,
 			"traverseTalentEffectGeneGroup": [
-				"3100406"
+				"310040601"
 			],
-			"level": 310040601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -865,31 +712,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100407,
 			"traverseTalentEffectGeneGroup": [
-				"3100407"
+				"310040701"
 			],
-			"level": 310040701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1005001001",
 			"squadTalentTreeGroup": 1005001,
 			"openType": 1005002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100501,
 			"traverseTalentEffectGeneGroup": [
-				"2100501"
+				"210050101"
 			],
-			"level": 210050101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1005002001",
@@ -897,15 +738,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 401702,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401702,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100502,
 			"traverseTalentEffectGeneGroup": [
-				"2100502"
+				"210050201"
 			],
-			"level": 210050201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -914,15 +752,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 401702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100501,
 			"traverseTalentEffectGeneGroup": [
-				"3100501"
+				"310050101"
 			],
-			"level": 310050101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -931,15 +766,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 401702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100502,
 			"traverseTalentEffectGeneGroup": [
-				"3100502"
+				"310050201"
 			],
-			"level": 310050201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -949,15 +781,12 @@
 				"4"
 			],
 			"openType": 1005004001,
-			"unlockCondition": 1,
-			"pointType": 401703,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401703,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100503,
 			"traverseTalentEffectGeneGroup": [
-				"2100503"
-			],
-			"level": 210050301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210050301"
+			]
 		},
 		{
 			"pointId": "1005004001",
@@ -965,15 +794,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 401704,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401704,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100504,
 			"traverseTalentEffectGeneGroup": [
-				"2100504"
+				"210050401"
 			],
-			"level": 210050401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -982,15 +808,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 401704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100503,
 			"traverseTalentEffectGeneGroup": [
-				"3100503"
+				"310050301"
 			],
-			"level": 310050301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -999,15 +822,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 401704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100504,
 			"traverseTalentEffectGeneGroup": [
-				"3100504"
+				"310050401"
 			],
-			"level": 310050401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1017,15 +837,12 @@
 				"8"
 			],
 			"openType": 1005006001,
-			"unlockCondition": 1,
-			"pointType": 401705,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401705,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100505,
 			"traverseTalentEffectGeneGroup": [
-				"2100505"
-			],
-			"level": 210050501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210050501"
+			]
 		},
 		{
 			"pointId": "1005006001",
@@ -1033,15 +850,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 401706,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 401706,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100506,
 			"traverseTalentEffectGeneGroup": [
-				"2100506"
+				"210050601"
 			],
-			"level": 210050601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1050,15 +864,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 401706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100505,
 			"traverseTalentEffectGeneGroup": [
-				"3100505"
+				"310050501"
 			],
-			"level": 310050501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1067,15 +878,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 401706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 401706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100506,
 			"traverseTalentEffectGeneGroup": [
-				"3100506"
+				"310050601"
 			],
-			"level": 310050601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1084,31 +892,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100507,
 			"traverseTalentEffectGeneGroup": [
-				"3100507"
+				"310050701"
 			],
-			"level": 310050701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1006001001",
 			"squadTalentTreeGroup": 1006001,
 			"openType": 1006002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100601,
 			"traverseTalentEffectGeneGroup": [
-				"2100601"
+				"210060101"
 			],
-			"level": 210060101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1006002001",
@@ -1116,15 +918,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402202,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402202,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100602,
 			"traverseTalentEffectGeneGroup": [
-				"2100602"
+				"210060201"
 			],
-			"level": 210060201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1133,15 +932,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100601,
 			"traverseTalentEffectGeneGroup": [
-				"3100601"
+				"310060101"
 			],
-			"level": 310060101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1150,15 +946,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100602,
 			"traverseTalentEffectGeneGroup": [
-				"3100602"
+				"310060201"
 			],
-			"level": 310060201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1168,15 +961,12 @@
 				"4"
 			],
 			"openType": 1006004001,
-			"unlockCondition": 1,
-			"pointType": 402203,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402203,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100603,
 			"traverseTalentEffectGeneGroup": [
-				"2100603"
-			],
-			"level": 210060301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210060301"
+			]
 		},
 		{
 			"pointId": "1006004001",
@@ -1184,15 +974,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402204,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402204,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100604,
 			"traverseTalentEffectGeneGroup": [
-				"2100604"
+				"210060401"
 			],
-			"level": 210060401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1201,15 +988,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100603,
 			"traverseTalentEffectGeneGroup": [
-				"3100603"
+				"310060301"
 			],
-			"level": 310060301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1218,15 +1002,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100604,
 			"traverseTalentEffectGeneGroup": [
-				"3100604"
+				"310060401"
 			],
-			"level": 310060401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1236,15 +1017,12 @@
 				"8"
 			],
 			"openType": 1006006001,
-			"unlockCondition": 1,
-			"pointType": 402205,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402205,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100605,
 			"traverseTalentEffectGeneGroup": [
-				"2100605"
-			],
-			"level": 210060501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210060501"
+			]
 		},
 		{
 			"pointId": "1006006001",
@@ -1252,15 +1030,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402206,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402206,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100606,
 			"traverseTalentEffectGeneGroup": [
-				"2100606"
+				"210060601"
 			],
-			"level": 210060601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1269,15 +1044,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100605,
 			"traverseTalentEffectGeneGroup": [
-				"3100605"
+				"310060501"
 			],
-			"level": 310060501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1286,15 +1058,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100606,
 			"traverseTalentEffectGeneGroup": [
-				"3100606"
+				"310060601"
 			],
-			"level": 310060601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1303,31 +1072,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100607,
 			"traverseTalentEffectGeneGroup": [
-				"3100607"
+				"310060701"
 			],
-			"level": 310060701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1007001001",
 			"squadTalentTreeGroup": 1007001,
 			"openType": 1007002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100701,
 			"traverseTalentEffectGeneGroup": [
-				"2100701"
+				"210070101"
 			],
-			"level": 210070101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1007002001",
@@ -1335,15 +1098,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402302,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402302,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100702,
 			"traverseTalentEffectGeneGroup": [
-				"2100702"
+				"210070201"
 			],
-			"level": 210070201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1352,15 +1112,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100701,
 			"traverseTalentEffectGeneGroup": [
-				"3100701"
+				"310070101"
 			],
-			"level": 310070101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1369,15 +1126,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100702,
 			"traverseTalentEffectGeneGroup": [
-				"3100702"
+				"310070201"
 			],
-			"level": 310070201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1387,15 +1141,12 @@
 				"4"
 			],
 			"openType": 1007004001,
-			"unlockCondition": 1,
-			"pointType": 402303,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402303,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100703,
 			"traverseTalentEffectGeneGroup": [
-				"2100703"
-			],
-			"level": 210070301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210070301"
+			]
 		},
 		{
 			"pointId": "1007004001",
@@ -1403,15 +1154,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402304,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402304,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100704,
 			"traverseTalentEffectGeneGroup": [
-				"2100704"
+				"210070401"
 			],
-			"level": 210070401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1420,15 +1168,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100703,
 			"traverseTalentEffectGeneGroup": [
-				"3100703"
+				"310070301"
 			],
-			"level": 310070301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1437,15 +1182,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100704,
 			"traverseTalentEffectGeneGroup": [
-				"3100704"
+				"310070401"
 			],
-			"level": 310070401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1455,15 +1197,12 @@
 				"8"
 			],
 			"openType": 1007006001,
-			"unlockCondition": 1,
-			"pointType": 402305,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402305,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100705,
 			"traverseTalentEffectGeneGroup": [
-				"2100705"
-			],
-			"level": 210070501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210070501"
+			]
 		},
 		{
 			"pointId": "1007006001",
@@ -1471,15 +1210,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402306,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402306,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100706,
 			"traverseTalentEffectGeneGroup": [
-				"2100706"
+				"210070601"
 			],
-			"level": 210070601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1488,15 +1224,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100705,
 			"traverseTalentEffectGeneGroup": [
-				"3100705"
+				"310070501"
 			],
-			"level": 310070501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1505,15 +1238,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100706,
 			"traverseTalentEffectGeneGroup": [
-				"3100706"
+				"310070601"
 			],
-			"level": 310070601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1522,31 +1252,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100707,
 			"traverseTalentEffectGeneGroup": [
-				"3100707"
+				"310070701"
 			],
-			"level": 310070701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1008001001",
 			"squadTalentTreeGroup": 1008001,
 			"openType": 1008002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100801,
 			"traverseTalentEffectGeneGroup": [
-				"2100801"
+				"210080101"
 			],
-			"level": 210080101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1008002001",
@@ -1554,15 +1278,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403302,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403302,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100802,
 			"traverseTalentEffectGeneGroup": [
-				"2100802"
+				"210080201"
 			],
-			"level": 210080201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1571,15 +1292,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100801,
 			"traverseTalentEffectGeneGroup": [
-				"3100801"
+				"310080101"
 			],
-			"level": 310080101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1588,15 +1306,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100802,
 			"traverseTalentEffectGeneGroup": [
-				"3100802"
+				"310080201"
 			],
-			"level": 310080201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1606,15 +1321,12 @@
 				"4"
 			],
 			"openType": 1008004001,
-			"unlockCondition": 1,
-			"pointType": 403303,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403303,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100803,
 			"traverseTalentEffectGeneGroup": [
-				"2100803"
-			],
-			"level": 210080301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210080301"
+			]
 		},
 		{
 			"pointId": "1008004001",
@@ -1622,15 +1334,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403304,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403304,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100804,
 			"traverseTalentEffectGeneGroup": [
-				"2100804"
+				"210080401"
 			],
-			"level": 210080401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1639,15 +1348,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100803,
 			"traverseTalentEffectGeneGroup": [
-				"3100803"
+				"310080301"
 			],
-			"level": 310080301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1656,15 +1362,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100804,
 			"traverseTalentEffectGeneGroup": [
-				"3100804"
+				"310080401"
 			],
-			"level": 310080401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1674,15 +1377,12 @@
 				"8"
 			],
 			"openType": 1008006001,
-			"unlockCondition": 1,
-			"pointType": 403305,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403305,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100805,
 			"traverseTalentEffectGeneGroup": [
-				"2100805"
-			],
-			"level": 210080501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210080501"
+			]
 		},
 		{
 			"pointId": "1008006001",
@@ -1690,15 +1390,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403306,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403306,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100806,
 			"traverseTalentEffectGeneGroup": [
-				"2100806"
+				"210080601"
 			],
-			"level": 210080601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1707,15 +1404,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100805,
 			"traverseTalentEffectGeneGroup": [
-				"3100805"
+				"310080501"
 			],
-			"level": 310080501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1724,15 +1418,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100806,
 			"traverseTalentEffectGeneGroup": [
-				"3100806"
+				"310080601"
 			],
-			"level": 310080601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1741,31 +1432,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100807,
 			"traverseTalentEffectGeneGroup": [
-				"3100807"
+				"310080701"
 			],
-			"level": 310080701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1009001001",
 			"squadTalentTreeGroup": 1009001,
 			"openType": 1009002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100901,
 			"traverseTalentEffectGeneGroup": [
-				"2100901"
+				"210090101"
 			],
-			"level": 210090101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1009002001",
@@ -1773,15 +1458,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402102,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402102,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100902,
 			"traverseTalentEffectGeneGroup": [
-				"2100902"
+				"210090201"
 			],
-			"level": 210090201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1790,15 +1472,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100901,
 			"traverseTalentEffectGeneGroup": [
-				"3100901"
+				"310090101"
 			],
-			"level": 310090101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1807,15 +1486,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100902,
 			"traverseTalentEffectGeneGroup": [
-				"3100902"
+				"310090201"
 			],
-			"level": 310090201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1825,15 +1501,12 @@
 				"4"
 			],
 			"openType": 1009004001,
-			"unlockCondition": 1,
-			"pointType": 402103,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402103,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100903,
 			"traverseTalentEffectGeneGroup": [
-				"2100903"
-			],
-			"level": 210090301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210090301"
+			]
 		},
 		{
 			"pointId": "1009004001",
@@ -1841,15 +1514,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402104,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402104,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100904,
 			"traverseTalentEffectGeneGroup": [
-				"2100904"
+				"210090401"
 			],
-			"level": 210090401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1858,15 +1528,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100903,
 			"traverseTalentEffectGeneGroup": [
-				"3100903"
+				"310090301"
 			],
-			"level": 310090301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1875,15 +1542,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100904,
 			"traverseTalentEffectGeneGroup": [
-				"3100904"
+				"310090401"
 			],
-			"level": 310090401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1893,15 +1557,12 @@
 				"8"
 			],
 			"openType": 1009006001,
-			"unlockCondition": 1,
-			"pointType": 402105,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402105,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100905,
 			"traverseTalentEffectGeneGroup": [
-				"2100905"
-			],
-			"level": 210090501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210090501"
+			]
 		},
 		{
 			"pointId": "1009006001",
@@ -1909,15 +1570,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402106,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402106,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2100906,
 			"traverseTalentEffectGeneGroup": [
-				"2100906"
+				"210090601"
 			],
-			"level": 210090601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1926,15 +1584,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100905,
 			"traverseTalentEffectGeneGroup": [
-				"3100905"
+				"310090501"
 			],
-			"level": 310090501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1943,15 +1598,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3100906,
 			"traverseTalentEffectGeneGroup": [
-				"3100906"
+				"310090601"
 			],
-			"level": 310090601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -1960,31 +1612,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3100907,
 			"traverseTalentEffectGeneGroup": [
-				"3100907"
+				"310090701"
 			],
-			"level": 310090701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1010001001",
 			"squadTalentTreeGroup": 1010001,
 			"openType": 1010002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101001,
 			"traverseTalentEffectGeneGroup": [
-				"2101001"
+				"210100101"
 			],
-			"level": 210100101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1010002001",
@@ -1992,15 +1638,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402402,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402402,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101002,
 			"traverseTalentEffectGeneGroup": [
-				"2101002"
+				"210100201"
 			],
-			"level": 210100201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2009,15 +1652,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101001,
 			"traverseTalentEffectGeneGroup": [
-				"3101001"
+				"310100101"
 			],
-			"level": 310100101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2026,15 +1666,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101002,
 			"traverseTalentEffectGeneGroup": [
-				"3101002"
+				"310100201"
 			],
-			"level": 310100201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2044,15 +1681,12 @@
 				"4"
 			],
 			"openType": 1010004001,
-			"unlockCondition": 1,
-			"pointType": 402403,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402403,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101003,
 			"traverseTalentEffectGeneGroup": [
-				"2101003"
-			],
-			"level": 210100301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210100301"
+			]
 		},
 		{
 			"pointId": "1010004001",
@@ -2060,15 +1694,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402404,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402404,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101004,
 			"traverseTalentEffectGeneGroup": [
-				"2101004"
+				"210100401"
 			],
-			"level": 210100401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2077,15 +1708,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101003,
 			"traverseTalentEffectGeneGroup": [
-				"3101003"
+				"310100301"
 			],
-			"level": 310100301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2094,15 +1722,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101004,
 			"traverseTalentEffectGeneGroup": [
-				"3101004"
+				"310100401"
 			],
-			"level": 310100401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2112,15 +1737,12 @@
 				"8"
 			],
 			"openType": 1010006001,
-			"unlockCondition": 1,
-			"pointType": 402405,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402405,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101005,
 			"traverseTalentEffectGeneGroup": [
-				"2101005"
-			],
-			"level": 210100501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210100501"
+			]
 		},
 		{
 			"pointId": "1010006001",
@@ -2128,15 +1750,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402406,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402406,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101006,
 			"traverseTalentEffectGeneGroup": [
-				"2101006"
+				"210100601"
 			],
-			"level": 210100601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2145,15 +1764,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101005,
 			"traverseTalentEffectGeneGroup": [
-				"3101005"
+				"310100501"
 			],
-			"level": 310100501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2162,15 +1778,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101006,
 			"traverseTalentEffectGeneGroup": [
-				"3101006"
+				"310100601"
 			],
-			"level": 310100601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2179,31 +1792,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101007,
 			"traverseTalentEffectGeneGroup": [
-				"3101007"
+				"310100701"
 			],
-			"level": 310100701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1011001001",
 			"squadTalentTreeGroup": 1011001,
 			"openType": 1011002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101101,
 			"traverseTalentEffectGeneGroup": [
-				"2101101"
+				"210110101"
 			],
-			"level": 210110101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1011002001",
@@ -2211,15 +1818,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402502,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402502,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101102,
 			"traverseTalentEffectGeneGroup": [
-				"2101102"
+				"210110201"
 			],
-			"level": 210110201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2228,15 +1832,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101101,
 			"traverseTalentEffectGeneGroup": [
-				"3101101"
+				"310110101"
 			],
-			"level": 310110101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2245,15 +1846,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101102,
 			"traverseTalentEffectGeneGroup": [
-				"3101102"
+				"310110201"
 			],
-			"level": 310110201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2263,15 +1861,12 @@
 				"4"
 			],
 			"openType": 1011004001,
-			"unlockCondition": 1,
-			"pointType": 402503,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402503,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101103,
 			"traverseTalentEffectGeneGroup": [
-				"2101103"
-			],
-			"level": 210110301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210110301"
+			]
 		},
 		{
 			"pointId": "1011004001",
@@ -2279,15 +1874,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402504,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402504,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101104,
 			"traverseTalentEffectGeneGroup": [
-				"2101104"
+				"210110401"
 			],
-			"level": 210110401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2296,15 +1888,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101103,
 			"traverseTalentEffectGeneGroup": [
-				"3101103"
+				"310110301"
 			],
-			"level": 310110301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2313,15 +1902,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101104,
 			"traverseTalentEffectGeneGroup": [
-				"3101104"
+				"310110401"
 			],
-			"level": 310110401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2331,15 +1917,12 @@
 				"8"
 			],
 			"openType": 1011006001,
-			"unlockCondition": 1,
-			"pointType": 402505,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402505,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101105,
 			"traverseTalentEffectGeneGroup": [
-				"2101105"
-			],
-			"level": 210110501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210110501"
+			]
 		},
 		{
 			"pointId": "1011006001",
@@ -2347,15 +1930,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402506,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402506,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101106,
 			"traverseTalentEffectGeneGroup": [
-				"2101106"
+				"210110601"
 			],
-			"level": 210110601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2364,15 +1944,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101105,
 			"traverseTalentEffectGeneGroup": [
-				"3101105"
+				"310110501"
 			],
-			"level": 310110501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2381,15 +1958,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101106,
 			"traverseTalentEffectGeneGroup": [
-				"3101106"
+				"310110601"
 			],
-			"level": 310110601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2398,31 +1972,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101107,
 			"traverseTalentEffectGeneGroup": [
-				"3101107"
+				"310110701"
 			],
-			"level": 310110701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1012001001",
 			"squadTalentTreeGroup": 1012001,
 			"openType": 1012002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101201,
 			"traverseTalentEffectGeneGroup": [
-				"2101201"
+				"210120101"
 			],
-			"level": 210120101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1012002001",
@@ -2430,15 +1998,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402602,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402602,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101202,
 			"traverseTalentEffectGeneGroup": [
-				"2101202"
+				"210120201"
 			],
-			"level": 210120201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2447,15 +2012,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402602,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101201,
 			"traverseTalentEffectGeneGroup": [
-				"3101201"
+				"310120101"
 			],
-			"level": 310120101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2464,15 +2026,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402602,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101202,
 			"traverseTalentEffectGeneGroup": [
-				"3101202"
+				"310120201"
 			],
-			"level": 310120201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2482,15 +2041,12 @@
 				"4"
 			],
 			"openType": 1012004001,
-			"unlockCondition": 1,
-			"pointType": 402603,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402603,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101203,
 			"traverseTalentEffectGeneGroup": [
-				"2101203"
-			],
-			"level": 210120301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210120301"
+			]
 		},
 		{
 			"pointId": "1012004001",
@@ -2498,15 +2054,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402604,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402604,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101204,
 			"traverseTalentEffectGeneGroup": [
-				"2101204"
+				"210120401"
 			],
-			"level": 210120401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2515,15 +2068,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402604,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101203,
 			"traverseTalentEffectGeneGroup": [
-				"3101203"
+				"310120301"
 			],
-			"level": 310120301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2532,15 +2082,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402604,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101204,
 			"traverseTalentEffectGeneGroup": [
-				"3101204"
+				"310120401"
 			],
-			"level": 310120401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2550,15 +2097,12 @@
 				"8"
 			],
 			"openType": 1012006001,
-			"unlockCondition": 1,
-			"pointType": 402605,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402605,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101205,
 			"traverseTalentEffectGeneGroup": [
-				"2101205"
-			],
-			"level": 210120501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210120501"
+			]
 		},
 		{
 			"pointId": "1012006001",
@@ -2566,15 +2110,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402606,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402606,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101206,
 			"traverseTalentEffectGeneGroup": [
-				"2101206"
+				"210120601"
 			],
-			"level": 210120601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2583,15 +2124,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402606,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101205,
 			"traverseTalentEffectGeneGroup": [
-				"3101205"
+				"310120501"
 			],
-			"level": 310120501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2600,15 +2138,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402606,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101206,
 			"traverseTalentEffectGeneGroup": [
-				"3101206"
+				"310120601"
 			],
-			"level": 310120601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2617,31 +2152,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101207,
 			"traverseTalentEffectGeneGroup": [
-				"3101207"
+				"310120701"
 			],
-			"level": 310120701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1013001001",
 			"squadTalentTreeGroup": 1013001,
 			"openType": 1013002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101301,
 			"traverseTalentEffectGeneGroup": [
-				"2101301"
+				"210130101"
 			],
-			"level": 210130101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1013002001",
@@ -2649,15 +2178,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402702,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402702,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101302,
 			"traverseTalentEffectGeneGroup": [
-				"2101302"
+				"210130201"
 			],
-			"level": 210130201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2666,15 +2192,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101301,
 			"traverseTalentEffectGeneGroup": [
-				"3101301"
+				"310130101"
 			],
-			"level": 310130101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2683,15 +2206,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101302,
 			"traverseTalentEffectGeneGroup": [
-				"3101302"
+				"310130201"
 			],
-			"level": 310130201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2701,15 +2221,12 @@
 				"4"
 			],
 			"openType": 1013004001,
-			"unlockCondition": 1,
-			"pointType": 402703,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402703,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101303,
 			"traverseTalentEffectGeneGroup": [
-				"2101303"
-			],
-			"level": 210130301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210130301"
+			]
 		},
 		{
 			"pointId": "1013004001",
@@ -2717,15 +2234,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402704,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402704,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101304,
 			"traverseTalentEffectGeneGroup": [
-				"2101304"
+				"210130401"
 			],
-			"level": 210130401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2734,15 +2248,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101303,
 			"traverseTalentEffectGeneGroup": [
-				"3101303"
+				"310130301"
 			],
-			"level": 310130301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2751,15 +2262,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101304,
 			"traverseTalentEffectGeneGroup": [
-				"3101304"
+				"310130401"
 			],
-			"level": 310130401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2769,15 +2277,12 @@
 				"8"
 			],
 			"openType": 1013006001,
-			"unlockCondition": 1,
-			"pointType": 402705,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402705,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101305,
 			"traverseTalentEffectGeneGroup": [
-				"2101305"
-			],
-			"level": 210130501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210130501"
+			]
 		},
 		{
 			"pointId": "1013006001",
@@ -2785,15 +2290,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402706,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402706,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101306,
 			"traverseTalentEffectGeneGroup": [
-				"2101306"
+				"210130601"
 			],
-			"level": 210130601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2802,15 +2304,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101305,
 			"traverseTalentEffectGeneGroup": [
-				"3101305"
+				"310130501"
 			],
-			"level": 310130501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2819,15 +2318,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101306,
 			"traverseTalentEffectGeneGroup": [
-				"3101306"
+				"310130601"
 			],
-			"level": 310130601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2836,31 +2332,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101307,
 			"traverseTalentEffectGeneGroup": [
-				"3101307"
+				"310130701"
 			],
-			"level": 310130701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1014001001",
 			"squadTalentTreeGroup": 1014001,
 			"openType": 1014002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101401,
 			"traverseTalentEffectGeneGroup": [
-				"2101401"
+				"210140101"
 			],
-			"level": 210140101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1014002001",
@@ -2868,15 +2358,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402802,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402802,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101402,
 			"traverseTalentEffectGeneGroup": [
-				"2101402"
+				"210140201"
 			],
-			"level": 210140201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2885,15 +2372,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101401,
 			"traverseTalentEffectGeneGroup": [
-				"3101401"
+				"310140101"
 			],
-			"level": 310140101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2902,15 +2386,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101402,
 			"traverseTalentEffectGeneGroup": [
-				"3101402"
+				"310140201"
 			],
-			"level": 310140201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2920,15 +2401,12 @@
 				"4"
 			],
 			"openType": 1014004001,
-			"unlockCondition": 1,
-			"pointType": 402803,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402803,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101403,
 			"traverseTalentEffectGeneGroup": [
-				"2101403"
-			],
-			"level": 210140301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210140301"
+			]
 		},
 		{
 			"pointId": "1014004001",
@@ -2936,15 +2414,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402804,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402804,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101404,
 			"traverseTalentEffectGeneGroup": [
-				"2101404"
+				"210140401"
 			],
-			"level": 210140401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2953,15 +2428,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101403,
 			"traverseTalentEffectGeneGroup": [
-				"3101403"
+				"310140301"
 			],
-			"level": 310140301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2970,15 +2442,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101404,
 			"traverseTalentEffectGeneGroup": [
-				"3101404"
+				"310140401"
 			],
-			"level": 310140401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -2988,15 +2457,12 @@
 				"8"
 			],
 			"openType": 1014006001,
-			"unlockCondition": 1,
-			"pointType": 402805,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402805,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101405,
 			"traverseTalentEffectGeneGroup": [
-				"2101405"
-			],
-			"level": 210140501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210140501"
+			]
 		},
 		{
 			"pointId": "1014006001",
@@ -3004,15 +2470,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402806,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402806,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101406,
 			"traverseTalentEffectGeneGroup": [
-				"2101406"
+				"210140601"
 			],
-			"level": 210140601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3021,15 +2484,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101405,
 			"traverseTalentEffectGeneGroup": [
-				"3101405"
+				"310140501"
 			],
-			"level": 310140501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3038,15 +2498,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101406,
 			"traverseTalentEffectGeneGroup": [
-				"3101406"
+				"310140601"
 			],
-			"level": 310140601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3055,31 +2512,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101407,
 			"traverseTalentEffectGeneGroup": [
-				"3101407"
+				"310140701"
 			],
-			"level": 310140701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1015001001",
 			"squadTalentTreeGroup": 1015001,
 			"openType": 1015002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101501,
 			"traverseTalentEffectGeneGroup": [
-				"2101501"
+				"210150101"
 			],
-			"level": 210150101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1015002001",
@@ -3087,15 +2538,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 402902,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402902,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101502,
 			"traverseTalentEffectGeneGroup": [
-				"2101502"
+				"210150201"
 			],
-			"level": 210150201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3104,15 +2552,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 402902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101501,
 			"traverseTalentEffectGeneGroup": [
-				"3101501"
+				"310150101"
 			],
-			"level": 310150101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3121,15 +2566,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 402902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101502,
 			"traverseTalentEffectGeneGroup": [
-				"3101502"
+				"310150201"
 			],
-			"level": 310150201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3139,15 +2581,12 @@
 				"4"
 			],
 			"openType": 1015004001,
-			"unlockCondition": 1,
-			"pointType": 402903,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402903,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101503,
 			"traverseTalentEffectGeneGroup": [
-				"2101503"
-			],
-			"level": 210150301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210150301"
+			]
 		},
 		{
 			"pointId": "1015004001",
@@ -3155,15 +2594,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 402904,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402904,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101504,
 			"traverseTalentEffectGeneGroup": [
-				"2101504"
+				"210150401"
 			],
-			"level": 210150401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3172,15 +2608,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 402904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101503,
 			"traverseTalentEffectGeneGroup": [
-				"3101503"
+				"310150301"
 			],
-			"level": 310150301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3189,15 +2622,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 402904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101504,
 			"traverseTalentEffectGeneGroup": [
-				"3101504"
+				"310150401"
 			],
-			"level": 310150401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3207,15 +2637,12 @@
 				"8"
 			],
 			"openType": 1015006001,
-			"unlockCondition": 1,
-			"pointType": 402905,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402905,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101505,
 			"traverseTalentEffectGeneGroup": [
-				"2101505"
-			],
-			"level": 210150501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210150501"
+			]
 		},
 		{
 			"pointId": "1015006001",
@@ -3223,15 +2650,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 402906,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 402906,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101506,
 			"traverseTalentEffectGeneGroup": [
-				"2101506"
+				"210150601"
 			],
-			"level": 210150601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3240,15 +2664,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 402906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101505,
 			"traverseTalentEffectGeneGroup": [
-				"3101505"
+				"310150501"
 			],
-			"level": 310150501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3257,15 +2678,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 402906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 402906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101506,
 			"traverseTalentEffectGeneGroup": [
-				"3101506"
+				"310150601"
 			],
-			"level": 310150601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3274,31 +2692,25 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101507,
 			"traverseTalentEffectGeneGroup": [
-				"3101507"
+				"310150701"
 			],
-			"level": 310150701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1016001001",
 			"squadTalentTreeGroup": 1016001,
 			"openType": 1016002001,
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 1,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101601,
 			"traverseTalentEffectGeneGroup": [
-				"2101601"
+				"210160101"
 			],
-			"level": 210160101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": [],
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1016002001",
@@ -3306,15 +2718,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403202,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403202,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101602,
 			"traverseTalentEffectGeneGroup": [
-				"2101602"
+				"210160201"
 			],
-			"level": 210160201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3323,15 +2732,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101601,
 			"traverseTalentEffectGeneGroup": [
-				"3101601"
+				"310160101"
 			],
-			"level": 310160101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3340,15 +2746,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101602,
 			"traverseTalentEffectGeneGroup": [
-				"3101602"
+				"310160201"
 			],
-			"level": 310160201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3358,15 +2761,12 @@
 				"4"
 			],
 			"openType": 1016004001,
-			"unlockCondition": 1,
-			"pointType": 403203,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403203,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101603,
 			"traverseTalentEffectGeneGroup": [
-				"2101603"
-			],
-			"level": 210160301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210160301"
+			]
 		},
 		{
 			"pointId": "1016004001",
@@ -3374,15 +2774,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403204,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403204,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101604,
 			"traverseTalentEffectGeneGroup": [
-				"2101604"
+				"210160401"
 			],
-			"level": 210160401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3391,15 +2788,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101603,
 			"traverseTalentEffectGeneGroup": [
-				"3101603"
+				"310160301"
 			],
-			"level": 310160301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3408,15 +2802,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101604,
 			"traverseTalentEffectGeneGroup": [
-				"3101604"
+				"310160401"
 			],
-			"level": 310160401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3426,15 +2817,12 @@
 				"8"
 			],
 			"openType": 1016006001,
-			"unlockCondition": 1,
-			"pointType": 403205,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403205,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101605,
 			"traverseTalentEffectGeneGroup": [
-				"2101605"
-			],
-			"level": 210160501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210160501"
+			]
 		},
 		{
 			"pointId": "1016006001",
@@ -3442,15 +2830,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403206,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403206,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101606,
 			"traverseTalentEffectGeneGroup": [
-				"2101606"
+				"210160601"
 			],
-			"level": 210160601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3459,15 +2844,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101605,
 			"traverseTalentEffectGeneGroup": [
-				"3101605"
+				"310160501"
 			],
-			"level": 310160501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3476,15 +2858,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101606,
 			"traverseTalentEffectGeneGroup": [
-				"3101606"
+				"310160601"
 			],
-			"level": 310160601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3493,30 +2872,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101607,
 			"traverseTalentEffectGeneGroup": [
-				"3101607"
+				"310160701"
 			],
-			"level": 310160701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1017001001",
 			"squadTalentTreeGroup": 1017001,
 			"openType": 1017002001,
-			"unlockCondition": 1,
-			"pointType": 403401,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403401,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101701,
 			"traverseTalentEffectGeneGroup": [
-				"2101701"
+				"210170101"
 			],
-			"level": 210170101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -3525,15 +2898,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403402,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403402,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101702,
 			"traverseTalentEffectGeneGroup": [
-				"2101702"
+				"210170201"
 			],
-			"level": 210170201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3542,15 +2912,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101701,
 			"traverseTalentEffectGeneGroup": [
-				"3101701"
+				"310170101"
 			],
-			"level": 310170101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3559,15 +2926,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101702,
 			"traverseTalentEffectGeneGroup": [
-				"3101702"
+				"310170201"
 			],
-			"level": 310170201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3577,15 +2941,12 @@
 				"4"
 			],
 			"openType": 1017004001,
-			"unlockCondition": 1,
-			"pointType": 403403,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403403,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101703,
 			"traverseTalentEffectGeneGroup": [
-				"2101703"
-			],
-			"level": 210170301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210170301"
+			]
 		},
 		{
 			"pointId": "1017004001",
@@ -3593,15 +2954,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403404,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403404,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101704,
 			"traverseTalentEffectGeneGroup": [
-				"2101704"
+				"210170401"
 			],
-			"level": 210170401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3610,15 +2968,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101703,
 			"traverseTalentEffectGeneGroup": [
-				"3101703"
+				"310170301"
 			],
-			"level": 310170301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3627,15 +2982,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101704,
 			"traverseTalentEffectGeneGroup": [
-				"3101704"
+				"310170401"
 			],
-			"level": 310170401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3645,15 +2997,12 @@
 				"8"
 			],
 			"openType": 1017006001,
-			"unlockCondition": 1,
-			"pointType": 403405,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403405,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101705,
 			"traverseTalentEffectGeneGroup": [
-				"2101705"
-			],
-			"level": 210170501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210170501"
+			]
 		},
 		{
 			"pointId": "1017006001",
@@ -3661,15 +3010,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403406,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403406,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101706,
 			"traverseTalentEffectGeneGroup": [
-				"2101706"
+				"210170601"
 			],
-			"level": 210170601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3678,15 +3024,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101705,
 			"traverseTalentEffectGeneGroup": [
-				"3101705"
+				"310170501"
 			],
-			"level": 310170501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3695,15 +3038,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101706,
 			"traverseTalentEffectGeneGroup": [
-				"3101706"
+				"310170601"
 			],
-			"level": 310170601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3712,30 +3052,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101707,
 			"traverseTalentEffectGeneGroup": [
-				"3101707"
+				"310170701"
 			],
-			"level": 310170701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1018001001",
 			"squadTalentTreeGroup": 1018001,
 			"openType": 1018002001,
-			"unlockCondition": 1,
-			"pointType": 403501,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403501,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101801,
 			"traverseTalentEffectGeneGroup": [
-				"2101801"
+				"210180101"
 			],
-			"level": 210180101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -3744,15 +3078,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403502,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403502,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101802,
 			"traverseTalentEffectGeneGroup": [
-				"2101802"
+				"210180201"
 			],
-			"level": 210180201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3761,15 +3092,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101801,
 			"traverseTalentEffectGeneGroup": [
-				"3101801"
+				"310180101"
 			],
-			"level": 310180101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3778,15 +3106,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403502,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101802,
 			"traverseTalentEffectGeneGroup": [
-				"3101802"
+				"310180201"
 			],
-			"level": 310180201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3796,15 +3121,12 @@
 				"4"
 			],
 			"openType": 1018004001,
-			"unlockCondition": 1,
-			"pointType": 403503,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403503,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101803,
 			"traverseTalentEffectGeneGroup": [
-				"2101803"
-			],
-			"level": 210180301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210180301"
+			]
 		},
 		{
 			"pointId": "1018004001",
@@ -3812,15 +3134,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403504,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403504,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101804,
 			"traverseTalentEffectGeneGroup": [
-				"2101804"
+				"210180401"
 			],
-			"level": 210180401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3829,15 +3148,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101803,
 			"traverseTalentEffectGeneGroup": [
-				"3101803"
+				"310180301"
 			],
-			"level": 310180301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3846,15 +3162,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403504,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101804,
 			"traverseTalentEffectGeneGroup": [
-				"3101804"
+				"310180401"
 			],
-			"level": 310180401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3864,15 +3177,12 @@
 				"8"
 			],
 			"openType": 1018006001,
-			"unlockCondition": 1,
-			"pointType": 403505,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403505,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101805,
 			"traverseTalentEffectGeneGroup": [
-				"2101805"
-			],
-			"level": 210180501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210180501"
+			]
 		},
 		{
 			"pointId": "1018006001",
@@ -3880,15 +3190,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403506,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403506,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101806,
 			"traverseTalentEffectGeneGroup": [
-				"2101806"
+				"210180601"
 			],
-			"level": 210180601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3897,15 +3204,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101805,
 			"traverseTalentEffectGeneGroup": [
-				"3101805"
+				"310180501"
 			],
-			"level": 310180501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3914,15 +3218,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403506,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101806,
 			"traverseTalentEffectGeneGroup": [
-				"3101806"
+				"310180601"
 			],
-			"level": 310180601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3931,30 +3232,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101807,
 			"traverseTalentEffectGeneGroup": [
-				"3101807"
+				"310180701"
 			],
-			"level": 310180701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1019001001",
 			"squadTalentTreeGroup": 1019001,
 			"openType": 1019002001,
-			"unlockCondition": 1,
-			"pointType": 403601,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403601,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101901,
 			"traverseTalentEffectGeneGroup": [
-				"2101901"
+				"210190101"
 			],
-			"level": 210190101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -3963,15 +3258,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403602,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403602,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101902,
 			"traverseTalentEffectGeneGroup": [
-				"2101902"
+				"210190201"
 			],
-			"level": 210190201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3980,15 +3272,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403602,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101901,
 			"traverseTalentEffectGeneGroup": [
-				"3101901"
+				"310190101"
 			],
-			"level": 310190101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -3997,15 +3286,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403602,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101902,
 			"traverseTalentEffectGeneGroup": [
-				"3101902"
+				"310190201"
 			],
-			"level": 310190201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4015,15 +3301,12 @@
 				"4"
 			],
 			"openType": 1019004001,
-			"unlockCondition": 1,
-			"pointType": 403603,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403603,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101903,
 			"traverseTalentEffectGeneGroup": [
-				"2101903"
-			],
-			"level": 210190301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210190301"
+			]
 		},
 		{
 			"pointId": "1019004001",
@@ -4031,15 +3314,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403604,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403604,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101904,
 			"traverseTalentEffectGeneGroup": [
-				"2101904"
+				"210190401"
 			],
-			"level": 210190401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4048,15 +3328,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403604,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101903,
 			"traverseTalentEffectGeneGroup": [
-				"3101903"
+				"310190301"
 			],
-			"level": 310190301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4065,15 +3342,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403604,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101904,
 			"traverseTalentEffectGeneGroup": [
-				"3101904"
+				"310190401"
 			],
-			"level": 310190401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4083,15 +3357,12 @@
 				"8"
 			],
 			"openType": 1019006001,
-			"unlockCondition": 1,
-			"pointType": 403605,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403605,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101905,
 			"traverseTalentEffectGeneGroup": [
-				"2101905"
-			],
-			"level": 210190501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210190501"
+			]
 		},
 		{
 			"pointId": "1019006001",
@@ -4099,15 +3370,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403606,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403606,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2101906,
 			"traverseTalentEffectGeneGroup": [
-				"2101906"
+				"210190601"
 			],
-			"level": 210190601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4116,15 +3384,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403606,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101905,
 			"traverseTalentEffectGeneGroup": [
-				"3101905"
+				"310190501"
 			],
-			"level": 310190501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4133,15 +3398,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403606,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3101906,
 			"traverseTalentEffectGeneGroup": [
-				"3101906"
+				"310190601"
 			],
-			"level": 310190601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4150,30 +3412,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3101907,
 			"traverseTalentEffectGeneGroup": [
-				"3101907"
+				"310190701"
 			],
-			"level": 310190701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1020001001",
 			"squadTalentTreeGroup": 1020001,
 			"openType": 1020002001,
-			"unlockCondition": 1,
-			"pointType": 403701,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403701,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102001,
 			"traverseTalentEffectGeneGroup": [
-				"2102001"
+				"210200101"
 			],
-			"level": 210200101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -4182,15 +3438,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403702,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403702,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102002,
 			"traverseTalentEffectGeneGroup": [
-				"2102002"
+				"210200201"
 			],
-			"level": 210200201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4199,15 +3452,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102001,
 			"traverseTalentEffectGeneGroup": [
-				"3102001"
+				"310200101"
 			],
-			"level": 310200101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4216,15 +3466,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403702,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102002,
 			"traverseTalentEffectGeneGroup": [
-				"3102002"
+				"310200201"
 			],
-			"level": 310200201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4234,15 +3481,12 @@
 				"4"
 			],
 			"openType": 1020004001,
-			"unlockCondition": 1,
-			"pointType": 403703,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403703,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102003,
 			"traverseTalentEffectGeneGroup": [
-				"2102003"
-			],
-			"level": 210200301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210200301"
+			]
 		},
 		{
 			"pointId": "1020004001",
@@ -4250,15 +3494,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403704,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403704,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102004,
 			"traverseTalentEffectGeneGroup": [
-				"2102004"
+				"210200401"
 			],
-			"level": 210200401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4267,15 +3508,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102003,
 			"traverseTalentEffectGeneGroup": [
-				"3102003"
+				"310200301"
 			],
-			"level": 310200301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4284,15 +3522,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403704,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102004,
 			"traverseTalentEffectGeneGroup": [
-				"3102004"
+				"310200401"
 			],
-			"level": 310200401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4302,15 +3537,12 @@
 				"8"
 			],
 			"openType": 1020006001,
-			"unlockCondition": 1,
-			"pointType": 403705,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403705,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102005,
 			"traverseTalentEffectGeneGroup": [
-				"2102005"
-			],
-			"level": 210200501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210200501"
+			]
 		},
 		{
 			"pointId": "1020006001",
@@ -4318,15 +3550,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403706,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403706,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102006,
 			"traverseTalentEffectGeneGroup": [
-				"2102006"
+				"210200601"
 			],
-			"level": 210200601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4335,15 +3564,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102005,
 			"traverseTalentEffectGeneGroup": [
-				"3102005"
+				"310200501"
 			],
-			"level": 310200501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4352,15 +3578,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403706,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102006,
 			"traverseTalentEffectGeneGroup": [
-				"3102006"
+				"310200601"
 			],
-			"level": 310200601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4369,30 +3592,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102007,
 			"traverseTalentEffectGeneGroup": [
-				"3102007"
+				"310200701"
 			],
-			"level": 310200701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1021001001",
 			"squadTalentTreeGroup": 1021001,
 			"openType": 1021002001,
-			"unlockCondition": 1,
-			"pointType": 403801,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403801,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102101,
 			"traverseTalentEffectGeneGroup": [
-				"2102101"
+				"210210101"
 			],
-			"level": 210210101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -4401,15 +3618,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403802,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403802,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102102,
 			"traverseTalentEffectGeneGroup": [
-				"2102102"
+				"210210201"
 			],
-			"level": 210210201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4418,15 +3632,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102101,
 			"traverseTalentEffectGeneGroup": [
-				"3102101"
+				"310210101"
 			],
-			"level": 310210101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4435,15 +3646,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403802,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102102,
 			"traverseTalentEffectGeneGroup": [
-				"3102102"
+				"310210201"
 			],
-			"level": 310210201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4453,15 +3661,12 @@
 				"4"
 			],
 			"openType": 1021004001,
-			"unlockCondition": 1,
-			"pointType": 403803,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403803,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102103,
 			"traverseTalentEffectGeneGroup": [
-				"2102103"
-			],
-			"level": 210210301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210210301"
+			]
 		},
 		{
 			"pointId": "1021004001",
@@ -4469,15 +3674,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403804,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403804,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102104,
 			"traverseTalentEffectGeneGroup": [
-				"2102104"
+				"210210401"
 			],
-			"level": 210210401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4486,15 +3688,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102103,
 			"traverseTalentEffectGeneGroup": [
-				"3102103"
+				"310210301"
 			],
-			"level": 310210301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4503,15 +3702,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403804,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102104,
 			"traverseTalentEffectGeneGroup": [
-				"3102104"
+				"310210401"
 			],
-			"level": 310210401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4521,15 +3717,12 @@
 				"8"
 			],
 			"openType": 1021006001,
-			"unlockCondition": 1,
-			"pointType": 403805,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403805,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102105,
 			"traverseTalentEffectGeneGroup": [
-				"2102105"
-			],
-			"level": 210210501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210210501"
+			]
 		},
 		{
 			"pointId": "1021006001",
@@ -4537,15 +3730,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403806,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403806,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102106,
 			"traverseTalentEffectGeneGroup": [
-				"2102106"
+				"210210601"
 			],
-			"level": 210210601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4554,15 +3744,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102105,
 			"traverseTalentEffectGeneGroup": [
-				"3102105"
+				"310210501"
 			],
-			"level": 310210501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4571,15 +3758,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403806,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102106,
 			"traverseTalentEffectGeneGroup": [
-				"3102106"
+				"310210601"
 			],
-			"level": 310210601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4588,30 +3772,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102107,
 			"traverseTalentEffectGeneGroup": [
-				"3102107"
+				"310210701"
 			],
-			"level": 310210701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1022001001",
 			"squadTalentTreeGroup": 1022001,
 			"openType": 1022002001,
-			"unlockCondition": 1,
-			"pointType": 403901,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403901,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102201,
 			"traverseTalentEffectGeneGroup": [
-				"2102201"
+				"210220101"
 			],
-			"level": 210220101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -4620,15 +3798,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 403902,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403902,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102202,
 			"traverseTalentEffectGeneGroup": [
-				"2102202"
+				"210220201"
 			],
-			"level": 210220201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4637,15 +3812,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 403902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102201,
 			"traverseTalentEffectGeneGroup": [
-				"3102201"
+				"310220101"
 			],
-			"level": 310220101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4654,15 +3826,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 403902,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102202,
 			"traverseTalentEffectGeneGroup": [
-				"3102202"
+				"310220201"
 			],
-			"level": 310220201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4672,15 +3841,12 @@
 				"4"
 			],
 			"openType": 1022004001,
-			"unlockCondition": 1,
-			"pointType": 403903,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403903,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102203,
 			"traverseTalentEffectGeneGroup": [
-				"2102203"
-			],
-			"level": 210220301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210220301"
+			]
 		},
 		{
 			"pointId": "1022004001",
@@ -4688,15 +3854,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 403904,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403904,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102204,
 			"traverseTalentEffectGeneGroup": [
-				"2102204"
+				"210220401"
 			],
-			"level": 210220401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4705,15 +3868,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 403904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102203,
 			"traverseTalentEffectGeneGroup": [
-				"3102203"
+				"310220301"
 			],
-			"level": 310220301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4722,15 +3882,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 403904,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102204,
 			"traverseTalentEffectGeneGroup": [
-				"3102204"
+				"310220401"
 			],
-			"level": 310220401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4740,15 +3897,12 @@
 				"8"
 			],
 			"openType": 1022006001,
-			"unlockCondition": 1,
-			"pointType": 403905,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403905,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102205,
 			"traverseTalentEffectGeneGroup": [
-				"2102205"
-			],
-			"level": 210220501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210220501"
+			]
 		},
 		{
 			"pointId": "1022006001",
@@ -4756,15 +3910,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 403906,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 403906,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102206,
 			"traverseTalentEffectGeneGroup": [
-				"2102206"
+				"210220601"
 			],
-			"level": 210220601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4773,15 +3924,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 403906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102205,
 			"traverseTalentEffectGeneGroup": [
-				"3102205"
+				"310220501"
 			],
-			"level": 310220501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4790,15 +3938,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 403906,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 403906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102206,
 			"traverseTalentEffectGeneGroup": [
-				"3102206"
+				"310220601"
 			],
-			"level": 310220601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4807,30 +3952,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102207,
 			"traverseTalentEffectGeneGroup": [
-				"3102207"
+				"310220701"
 			],
-			"level": 310220701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1023001001",
 			"squadTalentTreeGroup": 1023001,
 			"openType": 1023002001,
-			"unlockCondition": 1,
-			"pointType": 404001,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404001,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102301,
 			"traverseTalentEffectGeneGroup": [
-				"2102301"
+				"210230101"
 			],
-			"level": 210230101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -4839,15 +3978,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 404002,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404002,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102302,
 			"traverseTalentEffectGeneGroup": [
-				"2102302"
+				"210230201"
 			],
-			"level": 210230201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4856,15 +3992,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 404002,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404002,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102301,
 			"traverseTalentEffectGeneGroup": [
-				"3102301"
+				"310230101"
 			],
-			"level": 310230101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4873,15 +4006,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 404002,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404002,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102302,
 			"traverseTalentEffectGeneGroup": [
-				"3102302"
+				"310230201"
 			],
-			"level": 310230201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4891,15 +4021,12 @@
 				"4"
 			],
 			"openType": 1023004001,
-			"unlockCondition": 1,
-			"pointType": 404003,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404003,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102303,
 			"traverseTalentEffectGeneGroup": [
-				"2102303"
-			],
-			"level": 210230301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210230301"
+			]
 		},
 		{
 			"pointId": "1023004001",
@@ -4907,15 +4034,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 404004,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404004,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102304,
 			"traverseTalentEffectGeneGroup": [
-				"2102304"
+				"210230401"
 			],
-			"level": 210230401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4924,15 +4048,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 404004,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404004,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102303,
 			"traverseTalentEffectGeneGroup": [
-				"3102303"
+				"310230301"
 			],
-			"level": 310230301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4941,15 +4062,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 404004,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404004,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102304,
 			"traverseTalentEffectGeneGroup": [
-				"3102304"
+				"310230401"
 			],
-			"level": 310230401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4959,15 +4077,12 @@
 				"8"
 			],
 			"openType": 1023006001,
-			"unlockCondition": 1,
-			"pointType": 404005,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404005,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102305,
 			"traverseTalentEffectGeneGroup": [
-				"2102305"
-			],
-			"level": 210230501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210230501"
+			]
 		},
 		{
 			"pointId": "1023006001",
@@ -4975,15 +4090,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 404006,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404006,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102306,
 			"traverseTalentEffectGeneGroup": [
-				"2102306"
+				"210230601"
 			],
-			"level": 210230601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -4992,15 +4104,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 404006,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404006,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102305,
 			"traverseTalentEffectGeneGroup": [
-				"3102305"
+				"310230501"
 			],
-			"level": 310230501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5009,15 +4118,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 404006,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404006,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102306,
 			"traverseTalentEffectGeneGroup": [
-				"3102306"
+				"310230601"
 			],
-			"level": 310230601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5026,30 +4132,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102307,
 			"traverseTalentEffectGeneGroup": [
-				"3102307"
+				"310230701"
 			],
-			"level": 310230701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1024001001",
 			"squadTalentTreeGroup": 1024001,
 			"openType": 1024002001,
-			"unlockCondition": 1,
-			"pointType": 404101,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404101,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102401,
 			"traverseTalentEffectGeneGroup": [
-				"2102401"
+				"210240101"
 			],
-			"level": 210240101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -5058,15 +4158,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 404102,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404102,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102402,
 			"traverseTalentEffectGeneGroup": [
-				"2102402"
+				"210240201"
 			],
-			"level": 210240201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5075,15 +4172,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 404102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102401,
 			"traverseTalentEffectGeneGroup": [
-				"3102401"
+				"310240101"
 			],
-			"level": 310240101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5092,15 +4186,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 404102,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404102,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102402,
 			"traverseTalentEffectGeneGroup": [
-				"3102402"
+				"310240201"
 			],
-			"level": 310240201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5110,15 +4201,12 @@
 				"4"
 			],
 			"openType": 1024004001,
-			"unlockCondition": 1,
-			"pointType": 404103,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404103,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102403,
 			"traverseTalentEffectGeneGroup": [
-				"2102403"
-			],
-			"level": 210240301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210240301"
+			]
 		},
 		{
 			"pointId": "1024004001",
@@ -5126,15 +4214,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 404104,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404104,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102404,
 			"traverseTalentEffectGeneGroup": [
-				"2102404"
+				"210240401"
 			],
-			"level": 210240401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5143,15 +4228,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 404104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102403,
 			"traverseTalentEffectGeneGroup": [
-				"3102403"
+				"310240301"
 			],
-			"level": 310240301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5160,15 +4242,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 404104,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404104,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102404,
 			"traverseTalentEffectGeneGroup": [
-				"3102404"
+				"310240401"
 			],
-			"level": 310240401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5178,15 +4257,12 @@
 				"8"
 			],
 			"openType": 1024006001,
-			"unlockCondition": 1,
-			"pointType": 404105,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404105,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102405,
 			"traverseTalentEffectGeneGroup": [
-				"2102405"
-			],
-			"level": 210240501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210240501"
+			]
 		},
 		{
 			"pointId": "1024006001",
@@ -5194,15 +4270,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 404106,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404106,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102406,
 			"traverseTalentEffectGeneGroup": [
-				"2102406"
+				"210240601"
 			],
-			"level": 210240601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5211,15 +4284,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 404106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102405,
 			"traverseTalentEffectGeneGroup": [
-				"3102405"
+				"310240501"
 			],
-			"level": 310240501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5228,15 +4298,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 404106,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404106,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102406,
 			"traverseTalentEffectGeneGroup": [
-				"3102406"
+				"310240601"
 			],
-			"level": 310240601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5245,30 +4312,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102407,
 			"traverseTalentEffectGeneGroup": [
-				"3102407"
+				"310240701"
 			],
-			"level": 310240701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1025001001",
 			"squadTalentTreeGroup": 1025001,
 			"openType": 1025002001,
-			"unlockCondition": 1,
-			"pointType": 404201,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404201,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102501,
 			"traverseTalentEffectGeneGroup": [
-				"2102501"
+				"210250101"
 			],
-			"level": 210250101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -5277,15 +4338,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 404202,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404202,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102502,
 			"traverseTalentEffectGeneGroup": [
-				"2102502"
+				"210250201"
 			],
-			"level": 210250201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5294,15 +4352,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 404202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102501,
 			"traverseTalentEffectGeneGroup": [
-				"3102501"
+				"310250101"
 			],
-			"level": 310250101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5311,15 +4366,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 404202,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404202,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102502,
 			"traverseTalentEffectGeneGroup": [
-				"3102502"
+				"310250201"
 			],
-			"level": 310250201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5329,15 +4381,12 @@
 				"4"
 			],
 			"openType": 1025004001,
-			"unlockCondition": 1,
-			"pointType": 404203,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404203,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102503,
 			"traverseTalentEffectGeneGroup": [
-				"2102503"
-			],
-			"level": 210250301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210250301"
+			]
 		},
 		{
 			"pointId": "1025004001",
@@ -5345,15 +4394,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 404204,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404204,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102504,
 			"traverseTalentEffectGeneGroup": [
-				"2102504"
+				"210250401"
 			],
-			"level": 210250401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5362,15 +4408,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 404204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102503,
 			"traverseTalentEffectGeneGroup": [
-				"3102503"
+				"310250301"
 			],
-			"level": 310250301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5379,15 +4422,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 404204,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404204,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102504,
 			"traverseTalentEffectGeneGroup": [
-				"3102504"
+				"310250401"
 			],
-			"level": 310250401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5397,15 +4437,12 @@
 				"8"
 			],
 			"openType": 1025006001,
-			"unlockCondition": 1,
-			"pointType": 404205,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404205,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102505,
 			"traverseTalentEffectGeneGroup": [
-				"2102505"
-			],
-			"level": 210250501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210250501"
+			]
 		},
 		{
 			"pointId": "1025006001",
@@ -5413,15 +4450,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 404206,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404206,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102506,
 			"traverseTalentEffectGeneGroup": [
-				"2102506"
+				"210250601"
 			],
-			"level": 210250601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5430,15 +4464,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 404206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102505,
 			"traverseTalentEffectGeneGroup": [
-				"3102505"
+				"310250501"
 			],
-			"level": 310250501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5447,15 +4478,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 404206,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404206,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102506,
 			"traverseTalentEffectGeneGroup": [
-				"3102506"
+				"310250601"
 			],
-			"level": 310250601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5464,30 +4492,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102507,
 			"traverseTalentEffectGeneGroup": [
-				"3102507"
+				"310250701"
 			],
-			"level": 310250701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1026001001",
 			"squadTalentTreeGroup": 1026001,
 			"openType": 1026002001,
-			"unlockCondition": 1,
-			"pointType": 404301,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404301,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102601,
 			"traverseTalentEffectGeneGroup": [
-				"2102601"
+				"210260101"
 			],
-			"level": 210260101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -5496,15 +4518,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 404302,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404302,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102602,
 			"traverseTalentEffectGeneGroup": [
-				"2102602"
+				"210260201"
 			],
-			"level": 210260201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5513,15 +4532,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 404302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102601,
 			"traverseTalentEffectGeneGroup": [
-				"3102601"
+				"310260101"
 			],
-			"level": 310260101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5530,15 +4546,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 404302,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404302,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102602,
 			"traverseTalentEffectGeneGroup": [
-				"3102602"
+				"310260201"
 			],
-			"level": 310260201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5548,15 +4561,12 @@
 				"4"
 			],
 			"openType": 1026004001,
-			"unlockCondition": 1,
-			"pointType": 404303,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404303,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102603,
 			"traverseTalentEffectGeneGroup": [
-				"2102603"
-			],
-			"level": 210260301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210260301"
+			]
 		},
 		{
 			"pointId": "1026004001",
@@ -5564,15 +4574,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 404304,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404304,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102604,
 			"traverseTalentEffectGeneGroup": [
-				"2102604"
+				"210260401"
 			],
-			"level": 210260401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5581,15 +4588,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 404304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102603,
 			"traverseTalentEffectGeneGroup": [
-				"3102603"
+				"310260301"
 			],
-			"level": 310260301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5598,15 +4602,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 404304,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404304,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102604,
 			"traverseTalentEffectGeneGroup": [
-				"3102604"
+				"310260401"
 			],
-			"level": 310260401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5616,15 +4617,12 @@
 				"8"
 			],
 			"openType": 1026006001,
-			"unlockCondition": 1,
-			"pointType": 404305,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404305,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102605,
 			"traverseTalentEffectGeneGroup": [
-				"2102605"
-			],
-			"level": 210260501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210260501"
+			]
 		},
 		{
 			"pointId": "1026006001",
@@ -5632,15 +4630,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 404306,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404306,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102606,
 			"traverseTalentEffectGeneGroup": [
-				"2102606"
+				"210260601"
 			],
-			"level": 210260601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5649,15 +4644,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 404306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102605,
 			"traverseTalentEffectGeneGroup": [
-				"3102605"
+				"310260501"
 			],
-			"level": 310260501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5666,15 +4658,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 404306,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404306,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102606,
 			"traverseTalentEffectGeneGroup": [
-				"3102606"
+				"310260601"
 			],
-			"level": 310260601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5683,30 +4672,24 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102607,
 			"traverseTalentEffectGeneGroup": [
-				"3102607"
+				"310260701"
 			],
-			"level": 310260701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
 		},
 		{
 			"pointId": "1027001001",
 			"squadTalentTreeGroup": 1027001,
 			"openType": 1027002001,
-			"unlockCondition": 1,
-			"pointType": 404401,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404401,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102701,
 			"traverseTalentEffectGeneGroup": [
-				"2102701"
+				"210270101"
 			],
-			"level": 210270101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"perPoint": []
 		},
 		{
@@ -5715,15 +4698,12 @@
 			"perPoint": [
 				"1"
 			],
-			"unlockCondition": 1,
-			"pointType": 404402,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404402,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102702,
 			"traverseTalentEffectGeneGroup": [
-				"2102702"
+				"210270201"
 			],
-			"level": 210270201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5732,15 +4712,12 @@
 			"perPoint": [
 				"2"
 			],
-			"unlockCondition": 1,
-			"pointType": 404402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102701,
 			"traverseTalentEffectGeneGroup": [
-				"3102701"
+				"310270101"
 			],
-			"level": 310270101,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5749,15 +4726,12 @@
 			"perPoint": [
 				"3"
 			],
-			"unlockCondition": 1,
-			"pointType": 404402,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404402,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102702,
 			"traverseTalentEffectGeneGroup": [
-				"3102702"
+				"310270201"
 			],
-			"level": 310270201,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5767,15 +4741,12 @@
 				"4"
 			],
 			"openType": 1027004001,
-			"unlockCondition": 1,
-			"pointType": 404403,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404403,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102703,
 			"traverseTalentEffectGeneGroup": [
-				"2102703"
-			],
-			"level": 210270301,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210270301"
+			]
 		},
 		{
 			"pointId": "1027004001",
@@ -5783,15 +4754,12 @@
 			"perPoint": [
 				"5"
 			],
-			"unlockCondition": 1,
-			"pointType": 404404,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404404,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102704,
 			"traverseTalentEffectGeneGroup": [
-				"2102704"
+				"210270401"
 			],
-			"level": 210270401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5800,15 +4768,12 @@
 			"perPoint": [
 				"6"
 			],
-			"unlockCondition": 1,
-			"pointType": 404404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102703,
 			"traverseTalentEffectGeneGroup": [
-				"3102703"
+				"310270301"
 			],
-			"level": 310270301,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5817,15 +4782,12 @@
 			"perPoint": [
 				"7"
 			],
-			"unlockCondition": 1,
-			"pointType": 404404,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404404,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102704,
 			"traverseTalentEffectGeneGroup": [
-				"3102704"
+				"310270401"
 			],
-			"level": 310270401,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5835,15 +4797,12 @@
 				"8"
 			],
 			"openType": 1027006001,
-			"unlockCondition": 1,
-			"pointType": 404405,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404405,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102705,
 			"traverseTalentEffectGeneGroup": [
-				"2102705"
-			],
-			"level": 210270501,
-			"maxLevel": 1,
-			"tpItemCost": 1
+				"210270501"
+			]
 		},
 		{
 			"pointId": "1027006001",
@@ -5851,15 +4810,12 @@
 			"perPoint": [
 				"9"
 			],
-			"unlockCondition": 1,
-			"pointType": 404406,
-			"talentEffectGeneGroup": 1,
+			"unlockCondition": 404406,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102706,
 			"traverseTalentEffectGeneGroup": [
-				"2102706"
+				"210270601"
 			],
-			"level": 210270601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5868,15 +4824,12 @@
 			"perPoint": [
 				"10"
 			],
-			"unlockCondition": 1,
-			"pointType": 404406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102705,
 			"traverseTalentEffectGeneGroup": [
-				"3102705"
+				"310270501"
 			],
-			"level": 310270501,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5885,15 +4838,12 @@
 			"perPoint": [
 				"11"
 			],
-			"unlockCondition": 1,
-			"pointType": 404406,
-			"talentEffectGeneGroup": 3,
+			"unlockCondition": 404406,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102706,
 			"traverseTalentEffectGeneGroup": [
-				"3102706"
+				"310270601"
 			],
-			"level": 310270601,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0
 		},
 		{
@@ -5902,16 +4852,1093 @@
 			"perPoint": [
 				"12"
 			],
-			"unlockCondition": 1,
-			"talentEffectGeneGroup": 4,
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102707,
 			"traverseTalentEffectGeneGroup": [
-				"3102707"
+				"310270701"
 			],
-			"level": 310270701,
-			"maxLevel": 1,
-			"tpItemCost": 1,
 			"openType": 0,
-			"pointType": 0
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1028001001",
+			"squadTalentTreeGroup": 1028001,
+			"openType": 1028002001,
+			"unlockCondition": 404501,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102801,
+			"traverseTalentEffectGeneGroup": [
+				"210280101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1028002001",
+			"squadTalentTreeGroup": 1028002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 404502,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102802,
+			"traverseTalentEffectGeneGroup": [
+				"210280201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028002002",
+			"squadTalentTreeGroup": 1028002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 404502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102801,
+			"traverseTalentEffectGeneGroup": [
+				"310280101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028002003",
+			"squadTalentTreeGroup": 1028002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 404502,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102802,
+			"traverseTalentEffectGeneGroup": [
+				"310280201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028003001",
+			"squadTalentTreeGroup": 1028003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1028004001,
+			"unlockCondition": 404503,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102803,
+			"traverseTalentEffectGeneGroup": [
+				"210280301"
+			]
+		},
+		{
+			"pointId": "1028004001",
+			"squadTalentTreeGroup": 1028004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 404504,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102804,
+			"traverseTalentEffectGeneGroup": [
+				"210280401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028004002",
+			"squadTalentTreeGroup": 1028004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 404504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102803,
+			"traverseTalentEffectGeneGroup": [
+				"310280301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028004003",
+			"squadTalentTreeGroup": 1028004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 404504,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102804,
+			"traverseTalentEffectGeneGroup": [
+				"310280401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028005001",
+			"squadTalentTreeGroup": 1028005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1028006001,
+			"unlockCondition": 404505,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102805,
+			"traverseTalentEffectGeneGroup": [
+				"210280501"
+			]
+		},
+		{
+			"pointId": "1028006001",
+			"squadTalentTreeGroup": 1028006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 404506,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102806,
+			"traverseTalentEffectGeneGroup": [
+				"210280601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028006002",
+			"squadTalentTreeGroup": 1028006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 404506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102805,
+			"traverseTalentEffectGeneGroup": [
+				"310280501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028006003",
+			"squadTalentTreeGroup": 1028006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 404506,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102806,
+			"traverseTalentEffectGeneGroup": [
+				"310280601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1028007001",
+			"squadTalentTreeGroup": 1028007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102807,
+			"traverseTalentEffectGeneGroup": [
+				"310280701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1029001001",
+			"squadTalentTreeGroup": 1029001,
+			"openType": 1029002001,
+			"unlockCondition": 404601,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102901,
+			"traverseTalentEffectGeneGroup": [
+				"210290101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1029002001",
+			"squadTalentTreeGroup": 1029002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 404602,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102902,
+			"traverseTalentEffectGeneGroup": [
+				"210290201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029002002",
+			"squadTalentTreeGroup": 1029002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 404602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102901,
+			"traverseTalentEffectGeneGroup": [
+				"310290101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029002003",
+			"squadTalentTreeGroup": 1029002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 404602,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102902,
+			"traverseTalentEffectGeneGroup": [
+				"310290201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029003001",
+			"squadTalentTreeGroup": 1029003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1029004001,
+			"unlockCondition": 404603,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102903,
+			"traverseTalentEffectGeneGroup": [
+				"210290301"
+			]
+		},
+		{
+			"pointId": "1029004001",
+			"squadTalentTreeGroup": 1029004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 404604,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102904,
+			"traverseTalentEffectGeneGroup": [
+				"210290401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029004002",
+			"squadTalentTreeGroup": 1029004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 404604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102903,
+			"traverseTalentEffectGeneGroup": [
+				"310290301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029004003",
+			"squadTalentTreeGroup": 1029004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 404604,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102904,
+			"traverseTalentEffectGeneGroup": [
+				"310290401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029005001",
+			"squadTalentTreeGroup": 1029005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1029006001,
+			"unlockCondition": 404605,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102905,
+			"traverseTalentEffectGeneGroup": [
+				"210290501"
+			]
+		},
+		{
+			"pointId": "1029006001",
+			"squadTalentTreeGroup": 1029006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 404606,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2102906,
+			"traverseTalentEffectGeneGroup": [
+				"210290601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029006002",
+			"squadTalentTreeGroup": 1029006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 404606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102905,
+			"traverseTalentEffectGeneGroup": [
+				"310290501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029006003",
+			"squadTalentTreeGroup": 1029006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 404606,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3102906,
+			"traverseTalentEffectGeneGroup": [
+				"310290601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1029007001",
+			"squadTalentTreeGroup": 1029007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3102907,
+			"traverseTalentEffectGeneGroup": [
+				"310290701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1030001001",
+			"squadTalentTreeGroup": 1030001,
+			"openType": 1030002001,
+			"unlockCondition": 404701,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103001,
+			"traverseTalentEffectGeneGroup": [
+				"210300101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1030002001",
+			"squadTalentTreeGroup": 1030002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 404702,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103002,
+			"traverseTalentEffectGeneGroup": [
+				"210300201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030002002",
+			"squadTalentTreeGroup": 1030002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 404702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103001,
+			"traverseTalentEffectGeneGroup": [
+				"310300101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030002003",
+			"squadTalentTreeGroup": 1030002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 404702,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103002,
+			"traverseTalentEffectGeneGroup": [
+				"310300201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030003001",
+			"squadTalentTreeGroup": 1030003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1030004001,
+			"unlockCondition": 404703,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103003,
+			"traverseTalentEffectGeneGroup": [
+				"210300301"
+			]
+		},
+		{
+			"pointId": "1030004001",
+			"squadTalentTreeGroup": 1030004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 404704,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103004,
+			"traverseTalentEffectGeneGroup": [
+				"210300401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030004002",
+			"squadTalentTreeGroup": 1030004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 404704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103003,
+			"traverseTalentEffectGeneGroup": [
+				"310300301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030004003",
+			"squadTalentTreeGroup": 1030004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 404704,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103004,
+			"traverseTalentEffectGeneGroup": [
+				"310300401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030005001",
+			"squadTalentTreeGroup": 1030005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1030006001,
+			"unlockCondition": 404705,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103005,
+			"traverseTalentEffectGeneGroup": [
+				"210300501"
+			]
+		},
+		{
+			"pointId": "1030006001",
+			"squadTalentTreeGroup": 1030006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 404706,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103006,
+			"traverseTalentEffectGeneGroup": [
+				"210300601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030006002",
+			"squadTalentTreeGroup": 1030006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 404706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103005,
+			"traverseTalentEffectGeneGroup": [
+				"310300501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030006003",
+			"squadTalentTreeGroup": 1030006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 404706,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103006,
+			"traverseTalentEffectGeneGroup": [
+				"310300601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1030007001",
+			"squadTalentTreeGroup": 1030007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3103007,
+			"traverseTalentEffectGeneGroup": [
+				"310300701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1031001001",
+			"squadTalentTreeGroup": 1031001,
+			"openType": 1031002001,
+			"unlockCondition": 404801,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103101,
+			"traverseTalentEffectGeneGroup": [
+				"210310101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1031002001",
+			"squadTalentTreeGroup": 1031002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 404802,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103102,
+			"traverseTalentEffectGeneGroup": [
+				"210310201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031002002",
+			"squadTalentTreeGroup": 1031002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 404802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103101,
+			"traverseTalentEffectGeneGroup": [
+				"310310101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031002003",
+			"squadTalentTreeGroup": 1031002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 404802,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103102,
+			"traverseTalentEffectGeneGroup": [
+				"310310201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031003001",
+			"squadTalentTreeGroup": 1031003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1031004001,
+			"unlockCondition": 404803,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103103,
+			"traverseTalentEffectGeneGroup": [
+				"210310301"
+			]
+		},
+		{
+			"pointId": "1031004001",
+			"squadTalentTreeGroup": 1031004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 404804,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103104,
+			"traverseTalentEffectGeneGroup": [
+				"210310401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031004002",
+			"squadTalentTreeGroup": 1031004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 404804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103103,
+			"traverseTalentEffectGeneGroup": [
+				"310310301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031004003",
+			"squadTalentTreeGroup": 1031004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 404804,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103104,
+			"traverseTalentEffectGeneGroup": [
+				"310310401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031005001",
+			"squadTalentTreeGroup": 1031005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1031006001,
+			"unlockCondition": 404805,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103105,
+			"traverseTalentEffectGeneGroup": [
+				"210310501"
+			]
+		},
+		{
+			"pointId": "1031006001",
+			"squadTalentTreeGroup": 1031006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 404806,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103106,
+			"traverseTalentEffectGeneGroup": [
+				"210310601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031006002",
+			"squadTalentTreeGroup": 1031006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 404806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103105,
+			"traverseTalentEffectGeneGroup": [
+				"310310501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031006003",
+			"squadTalentTreeGroup": 1031006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 404806,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103106,
+			"traverseTalentEffectGeneGroup": [
+				"310310601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1031007001",
+			"squadTalentTreeGroup": 1031007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3103107,
+			"traverseTalentEffectGeneGroup": [
+				"310310701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1032001001",
+			"squadTalentTreeGroup": 1032001,
+			"openType": 1032002001,
+			"unlockCondition": 404901,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103201,
+			"traverseTalentEffectGeneGroup": [
+				"210320101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1032002001",
+			"squadTalentTreeGroup": 1032002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 404902,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103202,
+			"traverseTalentEffectGeneGroup": [
+				"210320201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032002002",
+			"squadTalentTreeGroup": 1032002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 404902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103201,
+			"traverseTalentEffectGeneGroup": [
+				"310320101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032002003",
+			"squadTalentTreeGroup": 1032002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 404902,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103202,
+			"traverseTalentEffectGeneGroup": [
+				"310320201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032003001",
+			"squadTalentTreeGroup": 1032003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1032004001,
+			"unlockCondition": 404903,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103203,
+			"traverseTalentEffectGeneGroup": [
+				"210320301"
+			]
+		},
+		{
+			"pointId": "1032004001",
+			"squadTalentTreeGroup": 1032004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 404904,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103204,
+			"traverseTalentEffectGeneGroup": [
+				"210320401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032004002",
+			"squadTalentTreeGroup": 1032004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 404904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103203,
+			"traverseTalentEffectGeneGroup": [
+				"310320301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032004003",
+			"squadTalentTreeGroup": 1032004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 404904,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103204,
+			"traverseTalentEffectGeneGroup": [
+				"310320401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032005001",
+			"squadTalentTreeGroup": 1032005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1032006001,
+			"unlockCondition": 404905,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103205,
+			"traverseTalentEffectGeneGroup": [
+				"210320501"
+			]
+		},
+		{
+			"pointId": "1032006001",
+			"squadTalentTreeGroup": 1032006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 404906,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103206,
+			"traverseTalentEffectGeneGroup": [
+				"210320601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032006002",
+			"squadTalentTreeGroup": 1032006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 404906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103205,
+			"traverseTalentEffectGeneGroup": [
+				"310320501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032006003",
+			"squadTalentTreeGroup": 1032006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 404906,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103206,
+			"traverseTalentEffectGeneGroup": [
+				"310320601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1032007001",
+			"squadTalentTreeGroup": 1032007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3103207,
+			"traverseTalentEffectGeneGroup": [
+				"310320701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
+		},
+		{
+			"pointId": "1033001001",
+			"squadTalentTreeGroup": 1033001,
+			"openType": 1033002001,
+			"unlockCondition": 405001,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103301,
+			"traverseTalentEffectGeneGroup": [
+				"210330101"
+			],
+			"perPoint": []
+		},
+		{
+			"pointId": "1033002001",
+			"squadTalentTreeGroup": 1033002,
+			"perPoint": [
+				"1"
+			],
+			"unlockCondition": 405002,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103302,
+			"traverseTalentEffectGeneGroup": [
+				"210330201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033002002",
+			"squadTalentTreeGroup": 1033002,
+			"perPoint": [
+				"2"
+			],
+			"unlockCondition": 405002,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103301,
+			"traverseTalentEffectGeneGroup": [
+				"310330101"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033002003",
+			"squadTalentTreeGroup": 1033002,
+			"perPoint": [
+				"3"
+			],
+			"unlockCondition": 405002,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103302,
+			"traverseTalentEffectGeneGroup": [
+				"310330201"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033003001",
+			"squadTalentTreeGroup": 1033003,
+			"perPoint": [
+				"4"
+			],
+			"openType": 1033004001,
+			"unlockCondition": 405003,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103303,
+			"traverseTalentEffectGeneGroup": [
+				"210330301"
+			]
+		},
+		{
+			"pointId": "1033004001",
+			"squadTalentTreeGroup": 1033004,
+			"perPoint": [
+				"5"
+			],
+			"unlockCondition": 405004,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103304,
+			"traverseTalentEffectGeneGroup": [
+				"210330401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033004002",
+			"squadTalentTreeGroup": 1033004,
+			"perPoint": [
+				"6"
+			],
+			"unlockCondition": 405004,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103303,
+			"traverseTalentEffectGeneGroup": [
+				"310330301"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033004003",
+			"squadTalentTreeGroup": 1033004,
+			"perPoint": [
+				"7"
+			],
+			"unlockCondition": 405004,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103304,
+			"traverseTalentEffectGeneGroup": [
+				"310330401"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033005001",
+			"squadTalentTreeGroup": 1033005,
+			"perPoint": [
+				"8"
+			],
+			"openType": 1033006001,
+			"unlockCondition": 405005,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103305,
+			"traverseTalentEffectGeneGroup": [
+				"210330501"
+			]
+		},
+		{
+			"pointId": "1033006001",
+			"squadTalentTreeGroup": 1033006,
+			"perPoint": [
+				"9"
+			],
+			"unlockCondition": 405006,
+			"pointType": 1,
+			"talentEffectGeneGroup": 2103306,
+			"traverseTalentEffectGeneGroup": [
+				"210330601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033006002",
+			"squadTalentTreeGroup": 1033006,
+			"perPoint": [
+				"10"
+			],
+			"unlockCondition": 405006,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103305,
+			"traverseTalentEffectGeneGroup": [
+				"310330501"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033006003",
+			"squadTalentTreeGroup": 1033006,
+			"perPoint": [
+				"11"
+			],
+			"unlockCondition": 405006,
+			"pointType": 3,
+			"talentEffectGeneGroup": 3103306,
+			"traverseTalentEffectGeneGroup": [
+				"310330601"
+			],
+			"openType": 0
+		},
+		{
+			"pointId": "1033007001",
+			"squadTalentTreeGroup": 1033007,
+			"perPoint": [
+				"12"
+			],
+			"pointType": 4,
+			"talentEffectGeneGroup": 3103307,
+			"traverseTalentEffectGeneGroup": [
+				"310330701"
+			],
+			"openType": 0,
+			"unlockCondition": 0
 		}
 	]
 }

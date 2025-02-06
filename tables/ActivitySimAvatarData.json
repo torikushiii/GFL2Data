@@ -5,7 +5,7 @@
 			"avatarGroup": 101,
 			"avatarId": 1001,
 			"avatarType": 1,
-			"avaterPath": "Springfield",
+			"avaterPath": "Character/Springfield",
 			"pathGroup": 11002
 		},
 		{
@@ -13,7 +13,7 @@
 			"avatarGroup": 101,
 			"avatarId": 1002,
 			"avatarType": 1,
-			"avaterPath": "Centaureissi",
+			"avaterPath": "Character/Centaureissi",
 			"pathGroup": 11001
 		},
 		{
@@ -21,7 +21,7 @@
 			"avatarGroup": 101,
 			"avatarId": 1003,
 			"avatarType": 1,
-			"avaterPath": "customer_reporter",
+			"avaterPath": "Npc/customer_reporter",
 			"pathGroup": 11003
 		},
 		{
@@ -29,7 +29,7 @@
 			"avatarGroup": 101,
 			"avatarId": 1004,
 			"avatarType": 1,
-			"avaterPath": "customer_gourmet",
+			"avaterPath": "Npc/customer_gourmet",
 			"pathGroup": 11004
 		},
 		{
@@ -37,7 +37,7 @@
 			"avatarGroup": 101,
 			"avatarId": 1005,
 			"avatarType": 1,
-			"avaterPath": "customer_artist",
+			"avaterPath": "Npc/customer_artist",
 			"pathGroup": 11005
 		},
 		{
@@ -45,7 +45,7 @@
 			"avatarGroup": 101,
 			"avatarId": 2008,
 			"avatarType": 1,
-			"avaterPath": "customer_shopkeeper",
+			"avaterPath": "Npc/customer_shopkeeper",
 			"pathGroup": 11006
 		},
 		{
@@ -53,7 +53,7 @@
 			"avatarGroup": 101,
 			"avatarId": 2012,
 			"avatarType": 1,
-			"avaterPath": "customer_headmaster",
+			"avaterPath": "Npc/customer_headmaster",
 			"pathGroup": 11007
 		},
 		{
@@ -61,7 +61,7 @@
 			"avatarGroup": 102,
 			"avatarId": 1001,
 			"avatarType": 1,
-			"avaterPath": "Springfield",
+			"avaterPath": "Character/Springfield",
 			"pathGroup": 21002
 		},
 		{
@@ -69,7 +69,7 @@
 			"avatarGroup": 102,
 			"avatarId": 1002,
 			"avatarType": 1,
-			"avaterPath": "Centaureissi",
+			"avaterPath": "Character/Centaureissi",
 			"pathGroup": 21001
 		},
 		{
@@ -77,7 +77,7 @@
 			"avatarGroup": 102,
 			"avatarId": 1003,
 			"avatarType": 1,
-			"avaterPath": "customer_reporter",
+			"avaterPath": "Npc/customer_reporter",
 			"pathGroup": 21003
 		},
 		{
@@ -85,7 +85,7 @@
 			"avatarGroup": 102,
 			"avatarId": 1004,
 			"avatarType": 1,
-			"avaterPath": "customer_gourmet",
+			"avaterPath": "Npc/customer_gourmet",
 			"pathGroup": 21004
 		},
 		{
@@ -93,7 +93,7 @@
 			"avatarGroup": 102,
 			"avatarId": 1005,
 			"avatarType": 1,
-			"avaterPath": "customer_artist",
+			"avaterPath": "Npc/customer_artist",
 			"pathGroup": 21005
 		},
 		{
@@ -101,7 +101,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2001,
 			"avatarType": 2,
-			"avaterPath": "customer_builder",
+			"avaterPath": "Npc/customer_builder",
 			"pathGroup": 22001
 		},
 		{
@@ -109,7 +109,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2002,
 			"avatarType": 2,
-			"avaterPath": "customer_designer",
+			"avaterPath": "Npc/customer_designer",
 			"pathGroup": 22002
 		},
 		{
@@ -117,7 +117,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2003,
 			"avatarType": 2,
-			"avaterPath": "customer_engineer",
+			"avaterPath": "Npc/customer_engineer",
 			"pathGroup": 22003
 		},
 		{
@@ -125,7 +125,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2004,
 			"avatarType": 2,
-			"avaterPath": "customer_PM",
+			"avaterPath": "Npc/customer_PM",
 			"pathGroup": 22004
 		},
 		{
@@ -133,7 +133,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2005,
 			"avatarType": 2,
-			"avaterPath": "customer_handyman",
+			"avaterPath": "Npc/customer_handyman",
 			"pathGroup": 22005
 		},
 		{
@@ -141,7 +141,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2006,
 			"avatarType": 2,
-			"avaterPath": "customer_desserter",
+			"avaterPath": "Npc/customer_desserter",
 			"pathGroup": 22006
 		},
 		{
@@ -149,7 +149,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2007,
 			"avatarType": 2,
-			"avaterPath": "customer_chief",
+			"avaterPath": "Npc/customer_chief",
 			"pathGroup": 22007
 		},
 		{
@@ -157,7 +157,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2008,
 			"avatarType": 2,
-			"avaterPath": "customer_shopkeeper",
+			"avaterPath": "Npc/customer_shopkeeper",
 			"pathGroup": 22008
 		},
 		{
@@ -165,7 +165,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2009,
 			"avatarType": 2,
-			"avaterPath": "customer_TA",
+			"avaterPath": "Npc/customer_TA",
 			"pathGroup": 22009
 		},
 		{
@@ -173,7 +173,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2010,
 			"avatarType": 2,
-			"avaterPath": "customer_lecturer",
+			"avaterPath": "Npc/customer_lecturer",
 			"pathGroup": 22010
 		},
 		{
@@ -181,7 +181,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2011,
 			"avatarType": 2,
-			"avaterPath": "customer_professor",
+			"avaterPath": "Npc/customer_professor",
 			"pathGroup": 22011
 		},
 		{
@@ -189,7 +189,7 @@
 			"avatarGroup": 102,
 			"avatarId": 2012,
 			"avatarType": 2,
-			"avaterPath": "customer_headmaster",
+			"avaterPath": "Npc/customer_headmaster",
 			"pathGroup": 22012
 		},
 		{
@@ -197,7 +197,7 @@
 			"avatarGroup": 102,
 			"avatarId": 3001,
 			"avatarType": 3,
-			"avaterPath": "Daiyan",
+			"avaterPath": "Character/Daiyan",
 			"pathGroup": 23001
 		},
 		{
@@ -205,7 +205,7 @@
 			"avatarGroup": 102,
 			"avatarId": 3002,
 			"avatarType": 3,
-			"avaterPath": "Chaohui",
+			"avaterPath": "Character/Chaohui",
 			"pathGroup": 23002
 		},
 		{
@@ -213,7 +213,7 @@
 			"avatarGroup": 102,
 			"avatarId": 3003,
 			"avatarType": 3,
-			"avaterPath": "Jiangyu",
+			"avaterPath": "Character/Jiangyu",
 			"pathGroup": 23003
 		},
 		{
@@ -221,7 +221,7 @@
 			"avatarGroup": 102,
 			"avatarId": 3004,
 			"avatarType": 3,
-			"avaterPath": "Cheeta",
+			"avaterPath": "Character/Cheeta",
 			"pathGroup": 23004
 		}
 	]

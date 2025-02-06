@@ -467,6 +467,119 @@
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
+		},
+		{
+			"id": 241,
+			"stageId": 72931,
+			"stageLevle": 1,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72911001
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 242,
+			"stageId": 72932,
+			"stageLevle": 2,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72912002,
+				72912003
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 243,
+			"stageId": 72933,
+			"stageLevle": 3,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72913002,
+				72913003,
+				72913004
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 251,
+			"stageId": 72941,
+			"stageLevle": 1,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 252,
+			"stageId": 72942,
+			"stageLevle": 2,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 261,
+			"stageId": 72951,
+			"stageLevle": 1,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 262,
+			"stageId": 72952,
+			"stageLevle": 2,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 1091,
+			"stageId": 72804,
+			"stageLevle": 1,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72804001
+			],
+			"recordBuffId": [
+				69340151,
+				69340156
+			],
+			"recordBuffNumber": [
+				3,
+				99
+			],
+			"buffCamp": [
+				1,
+				2
+			]
+		},
+		{
+			"id": 1092,
+			"stageId": 72805,
+			"stageLevle": 2,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72805002,
+				72805003
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
 		}
 	]
 }

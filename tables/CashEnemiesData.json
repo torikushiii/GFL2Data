@@ -69,6 +69,20 @@
 			"enemyScore2": "2020,40",
 			"enemyScore3": "2026,80",
 			"enemyScore5": "2019,200"
+		},
+		{
+			"enermyGroupId": 11,
+			"enemyScore1": "2021,10",
+			"enemyScore2": "2020,40",
+			"enemyScore3": "2026,80",
+			"enemyScore5": "2019,200"
+		},
+		{
+			"enermyGroupId": 12,
+			"enemyScore1": "2021,10",
+			"enemyScore2": "2020,40",
+			"enemyScore3": "2026,80",
+			"enemyScore5": "2019,200"
 		}
 	]
 }

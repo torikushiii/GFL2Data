@@ -30,6 +30,7 @@
 			"sidetagType": 1,
 			"includeTag": [
 				110,
+				117,
 				113,
 				111,
 				104
@@ -95,8 +96,7 @@
 			"sidetagType": 1,
 			"includeTag": [
 				114,
-				115,
-				116
+				115
 			],
 			"globalTab": 107,
 			"sort": 4,
@@ -174,6 +174,42 @@
 			],
 			"unlock": 16008,
 			"npc": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 31,
+			"name": "Basic Purchase",
+			"sidetagType": 2,
+			"includeTag": [
+				202
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 32,
+			"name": "Growth Stack",
+			"sidetagType": 2,
+			"includeTag": [
+				203
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 33,
+			"name": "Neural Integration",
+			"sidetagType": 2,
+			"includeTag": [
+				204
+			],
+			"npc": 0,
+			"unlock": 0,
 			"globalTab": 0,
 			"sort": 0
 		},
@@ -374,10 +410,70 @@
 		},
 		{
 			"id": 82,
+			"name": "Cyborg Gift Shop",
+			"sidetagType": 28,
+			"includeTag": [
+				709
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 83,
 			"name": "Bazaar",
 			"sidetagType": 29,
 			"includeTag": [
 				710
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 84,
+			"name": "Gift Exchange",
+			"sidetagType": 30,
+			"includeTag": [
+				711
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 85,
+			"name": "Logistics Support",
+			"sidetagType": 31,
+			"includeTag": [
+				712
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 86,
+			"name": "Safehouse - Part 1",
+			"sidetagType": 32,
+			"includeTag": [
+				713
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 87,
+			"name": "Safehouse - Part 2",
+			"sidetagType": 32,
+			"includeTag": [
+				714
 			],
 			"npc": 0,
 			"unlock": 0,

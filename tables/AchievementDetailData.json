@@ -1697,6 +1697,17 @@
 			"reward": {}
 		},
 		{
+			"id": 43001,
+			"group": 1,
+			"name": "Scenic Tour",
+			"des": "Unlocked after obtaining Springfield's Outfit - Queen In Radiance",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 44001,
 			"group": 1,
 			"name": "Avatar",
@@ -1994,6 +2005,94 @@
 			"jumpId": ""
 		},
 		{
+			"id": 44042,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Andoris",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44043,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Faye",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44044,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining KSVec .45 ACP",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44045,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Belka",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44046,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Ruchey",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44047,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Springfield",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44048,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Type 64 Rifle",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44049,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Harpsy",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 44050,
 			"group": 1,
 			"name": "Avatar",
@@ -2005,10 +2104,219 @@
 			"jumpId": ""
 		},
 		{
+			"id": 44051,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Mechty",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 44052,
 			"group": 1,
 			"name": "Avatar",
 			"des": "Unlocked after obtaining Klukai",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44053,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Peli",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44054,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Yoo Hee",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44055,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Nikketa",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44056,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Leva",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44057,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Robella",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44058,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining UMP40",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44059,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Lind",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44060,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44061,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44062,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44063,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44064,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44065,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining Alva",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44066,
+			"group": 1,
+			"name": "Avatar",
+			"des": "Unlocks after obtaining AK-15",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44067,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44068,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44069,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 44070,
+			"group": 1,
+			"name": "Avatar",
+			"des": "",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -4260,6 +4568,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 71019,
+			"group": 1,
+			"name": "Background Unlocked",
+			"des": "Unlocks after obtaining the outfit Queen In Radiance",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 72001,
 			"group": 1,
 			"name": "Personal test mission - get 8100",
@@ -4702,7 +5021,7 @@
 		{
 			"id": 93002,
 			"group": 1,
-			"name": "Clear Ullrid's Story Mode",
+			"name": "Complete the Ullrid event in normal mode",
 			"des": "Clear <color=#f26c1c>Story Mode US-1-3</color>",
 			"conditionNum": 1,
 			"tag": 0,
@@ -4713,7 +5032,7 @@
 		{
 			"id": 93003,
 			"group": 1,
-			"name": "Clear Suomi's Story Mode",
+			"name": "Clear the Suomi Event on Normal Mode",
 			"des": "Clear <color=#f26c1c>Story Mode SA-1-9</color>",
 			"conditionNum": 1,
 			"tag": 0,
@@ -4724,8 +5043,8 @@
 		{
 			"id": 93004,
 			"group": 1,
-			"name": "Clear the Dushevnaya Event Normal Stage",
-			"des": "Complete <color=#f26c1c>Normal Stage DA-1-9 Fate Pauses Here</color>",
+			"name": "Complete Dushevnaya's Story Mode",
+			"des": "Complete <color=#f26c1c>Story Mode Stage DA-1-9</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -4746,8 +5065,8 @@
 		{
 			"id": 93006,
 			"group": 1,
-			"name": "Complete Klukai Normal Mode",
-			"des": "Complete <color=#f26c1c>Normal Stage SL-9-4</color>",
+			"name": "Complete Klukai's Story Mode",
+			"des": "Complete <color=#f26c1c>Story Mode Stage SL-9-4</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -4766,10 +5085,54 @@
 			"jumpId": ""
 		},
 		{
+			"id": 93008,
+			"group": 1,
+			"name": "Complete KSVec .45 ACP's Normal Mode stages",
+			"des": "Complete <color=#f26c1c>Story Mode stage VA-1-9</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 93009,
+			"group": 1,
+			"name": "Complete Belka's Normal Mode stages",
+			"des": "Complete <color=#f26c1c>Story Mode stage BA-1-9</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 93010,
+			"group": 1,
+			"name": "Complete Andoris' Normal Mode stages",
+			"des": "Complete <color=#f26c1c>Story Mode Stage AA-1-9</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 93011,
 			"group": 1,
 			"name": "Clear Makiatto's Story Mode",
 			"des": "Clear <color=#f26c1c>Story Mode MA-1-9</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 93012,
+			"group": 1,
+			"name": "Complete Centaureissi's Normal Mode stages",
+			"des": "Complete <color=#f26c1c>Story Mode Stage CE-1-9</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -5272,6 +5635,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 400110,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 400801,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -5365,6 +5739,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 400810,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -5470,6 +5855,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 400910,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 401501,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -5563,6 +5959,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 401510,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -5668,6 +6075,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 401710,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 402101,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -5761,6 +6179,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 402110,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -5866,6 +6295,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 402210,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 402301,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -5959,6 +6399,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 402310,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -6064,6 +6515,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 402410,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 402501,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -6157,6 +6619,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 402510,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -6262,6 +6735,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 402610,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 402701,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -6355,6 +6839,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 402710,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -6460,6 +6955,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 402810,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 402901,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -6553,6 +7059,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 402910,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -6658,6 +7175,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 403210,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 403301,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -6751,6 +7279,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 403310,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -6856,6 +7395,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 403410,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 403501,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -6949,6 +7499,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 403510,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -7054,6 +7615,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 403610,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 403701,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -7147,6 +7719,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 403710,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -7252,6 +7835,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 403810,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 403901,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -7345,6 +7939,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 403910,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -7450,6 +8055,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 404010,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 404101,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -7543,6 +8159,17 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404110,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -7648,6 +8275,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 404210,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 404301,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -7747,6 +8385,17 @@
 			"jumpId": ""
 		},
 		{
+			"id": 404310,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 404401,
 			"group": 1,
 			"name": "Unlocking conditions for Neural Helix nodes",
@@ -7840,6 +8489,787 @@
 			"name": "Unlocking conditions for Neural Helix nodes",
 			"des": "Doll reaches level 55",
 			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404410,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404501,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404502,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404503,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404504,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404505,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404506,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404507,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404508,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404509,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404510,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404601,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404602,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404603,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404604,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404605,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404606,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404607,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404608,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404609,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404610,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404701,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404702,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404703,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404704,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404705,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404706,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404707,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404708,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404709,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404710,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404801,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404802,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404803,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404804,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404805,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404806,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404807,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404808,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404809,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404810,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404901,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404902,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404903,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404904,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404905,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404906,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404907,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404908,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404909,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 404910,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405001,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405002,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405003,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405004,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405005,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405006,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405007,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405008,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405009,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405010,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405101,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405102,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405103,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405104,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405105,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405106,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405107,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405108,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405109,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405110,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Raise Doll to Level 60",
+			"conditionNum": 60,
 			"tag": 0,
 			"icon": "",
 			"reward": {},
@@ -8396,6 +9826,182 @@
 			"jumpId": ""
 		},
 		{
+			"id": 410421,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410422,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410431,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410432,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410441,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410442,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410451,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410452,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410461,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Ruchey reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410462,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Ruchey reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410471,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410472,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410481,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Type 64 Rifle reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410482,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Type 64 Rifle reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410491,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Harpsy reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410492,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Harpsy reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 410501,
 			"group": 1,
 			"name": "Unlock Doll Archive",
@@ -8418,6 +10024,28 @@
 			"jumpId": ""
 		},
 		{
+			"id": 410511,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410512,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 410521,
 			"group": 1,
 			"name": "Unlock Doll Archive",
@@ -8433,6 +10061,402 @@
 			"group": 1,
 			"name": "Unlock Doll Archive",
 			"des": "Unlocked when Klukai reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410531,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Peli reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410532,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Peli reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410541,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Yoo Hee reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410542,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Yoo Hee reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410551,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Nikketa reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410552,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Nikketa reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410561,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Leva reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410562,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Leva reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410571,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Robella reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410572,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Robella reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410581,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when UMP40 reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410582,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when UMP40 reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410591,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Lind reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410592,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Lind reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410601,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410602,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410611,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410612,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410621,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410622,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410631,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410632,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410641,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410642,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410651,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Alva reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410652,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when Alva reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410661,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when AK-15 reaches Level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410662,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "Unlocks when AK-15 reaches Level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410671,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410672,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410681,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410682,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410691,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410692,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410701,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 410702,
+			"group": 1,
+			"name": "Unlock Doll Archive",
+			"des": "",
 			"conditionNum": 40,
 			"tag": 0,
 			"icon": "",
@@ -10130,6 +12154,565 @@
 			"jumpId": ""
 		},
 		{
+			"id": 2200001,
+			"group": 82,
+			"name": "A Small Goal",
+			"des": "Complete 1 stage in Boundary Push Mission Mode",
+			"conditionNum": 1,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200002,
+			"group": 83,
+			"name": "One Small Step For You",
+			"des": "Complete 2 stages in Boundary Push Mission Mode",
+			"conditionNum": 2,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200003,
+			"group": 84,
+			"name": "One Giant Step For Bounty Hunters",
+			"des": "Complete 3 stages in Boundary Push Mission Mode",
+			"conditionNum": 3,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200004,
+			"group": 85,
+			"name": "It's An Adept!",
+			"des": "Complete 4 stages in Boundary Push Mission Mode",
+			"conditionNum": 4,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200005,
+			"group": 86,
+			"name": "Adept's Daily Life",
+			"des": "Complete 5 stages in Boundary Push Mission Mode",
+			"conditionNum": 5,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200006,
+			"group": 87,
+			"name": "Adept's Challenger",
+			"des": "Complete 6 stages in Boundary Push Mission Mode",
+			"conditionNum": 6,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200007,
+			"group": 88,
+			"name": "Adept Sparring",
+			"des": "Complete 7 stages in Boundary Push Mission Mode",
+			"conditionNum": 7,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200008,
+			"group": 89,
+			"name": "Adept Alert",
+			"des": "Complete 8 stages in Boundary Push Mission Mode",
+			"conditionNum": 8,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200009,
+			"group": 90,
+			"name": "It's An Expert!",
+			"des": "Complete 9 stages in Boundary Push Mission Mode",
+			"conditionNum": 9,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200010,
+			"group": 91,
+			"name": "Expert's Daily Life",
+			"des": "Complete 10 stages in Boundary Push Mission Mode",
+			"conditionNum": 10,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200011,
+			"group": 92,
+			"name": "Expert Challenger",
+			"des": "Complete 11 stages in Boundary Push Mission Mode",
+			"conditionNum": 11,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200012,
+			"group": 93,
+			"name": "Expert Sparring",
+			"des": "Complete 12 stages in Boundary Push Mission Mode",
+			"conditionNum": 12,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200013,
+			"group": 94,
+			"name": "Expert Alert",
+			"des": "Complete 13 stages in Boundary Push Mission Mode",
+			"conditionNum": 13,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200014,
+			"group": 95,
+			"name": "It's A Master!",
+			"des": "Complete 14 stages in Boundary Push Mission Mode",
+			"conditionNum": 14,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200015,
+			"group": 96,
+			"name": "Master's Daily Life",
+			"des": "Complete 15 stages in Boundary Push Mission Mode",
+			"conditionNum": 15,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200016,
+			"group": 97,
+			"name": "Master Challenger",
+			"des": "Complete 16 stages in Boundary Push Mission Mode",
+			"conditionNum": 16,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"tag": 0,
+			"jumpId": ""
+		},
+		{
+			"id": 2200101,
+			"group": 98,
+			"tag": 2,
+			"name": "A Small Goal",
+			"des": "Complete 1 Boundary Push Local Bounty",
+			"conditionNum": 1,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200102,
+			"group": 99,
+			"tag": 2,
+			"name": "One Small Step For You",
+			"des": "Complete 2 Boundary Push Local Bounties",
+			"conditionNum": 2,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200103,
+			"group": 100,
+			"tag": 2,
+			"name": "One Giant Step For Bounty Hunters",
+			"des": "Complete 3 Boundary Push Local Bounties",
+			"conditionNum": 3,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200104,
+			"group": 101,
+			"tag": 2,
+			"name": "It's An Adept!",
+			"des": "Complete 4 Boundary Push Local Bounties",
+			"conditionNum": 4,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200105,
+			"group": 102,
+			"tag": 2,
+			"name": "Adept's Daily Life",
+			"des": "Complete 6 Boundary Push Local Bounties",
+			"conditionNum": 6,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200106,
+			"group": 103,
+			"tag": 2,
+			"name": "Adept's Challenger",
+			"des": "Complete 8 Boundary Push Local Bounties",
+			"conditionNum": 8,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200107,
+			"group": 104,
+			"tag": 2,
+			"name": "Adept Sparring",
+			"des": "Complete 10 Boundary Push Local Bounties",
+			"conditionNum": 10,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200108,
+			"group": 105,
+			"tag": 2,
+			"name": "Adept Alert",
+			"des": "Complete 12 Boundary Push Local Bounties",
+			"conditionNum": 12,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200109,
+			"group": 106,
+			"tag": 2,
+			"name": "It's An Expert!",
+			"des": "Complete 14 Boundary Push Local Bounties",
+			"conditionNum": 14,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200110,
+			"group": 107,
+			"tag": 2,
+			"name": "Expert's Daily Life",
+			"des": "Complete 16 Boundary Push Local Bounties",
+			"conditionNum": 16,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200111,
+			"group": 108,
+			"tag": 2,
+			"name": "Expert Challenger",
+			"des": "Complete 18 Boundary Push Local Bounties",
+			"conditionNum": 18,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200112,
+			"group": 109,
+			"tag": 2,
+			"name": "Expert Sparring",
+			"des": "Complete 20 Boundary Push Local Bounties",
+			"conditionNum": 20,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200113,
+			"group": 110,
+			"tag": 2,
+			"name": "Expert Alert",
+			"des": "Complete 24 Boundary Push Local Bounties",
+			"conditionNum": 24,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200114,
+			"group": 111,
+			"tag": 2,
+			"name": "It's A Master!",
+			"des": "Complete 28 Boundary Push Local Bounties",
+			"conditionNum": 28,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200115,
+			"group": 112,
+			"tag": 2,
+			"name": "Master's Daily Life",
+			"des": "Complete 32 Boundary Push Local Bounties",
+			"conditionNum": 32,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2200116,
+			"group": 113,
+			"tag": 2,
+			"name": "Master Challenger",
+			"des": "Complete 36 Boundary Push Local Bounties",
+			"conditionNum": 36,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210001,
+			"group": 98,
+			"tag": 2,
+			"name": "Nomination Form",
+			"des": "Complete 1 Daily Patrol",
+			"conditionNum": 1,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210002,
+			"group": 99,
+			"tag": 2,
+			"name": "The Platoon Is My Home",
+			"des": "Complete  Daily Missions",
+			"conditionNum": 10,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210003,
+			"group": 100,
+			"tag": 2,
+			"name": "20 Days Of Sweat",
+			"des": "Complete 20 daily missions",
+			"conditionNum": 20,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210004,
+			"group": 101,
+			"tag": 2,
+			"name": "Outstanding Probationary Performance",
+			"des": "Complete 30 daily missions",
+			"conditionNum": 30,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210005,
+			"group": 102,
+			"tag": 2,
+			"name": "But What You Can Do For THe Platoon",
+			"des": "Complete 40 daily missions",
+			"conditionNum": 40,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210006,
+			"group": 103,
+			"tag": 2,
+			"name": "Strength And Muscle And Platoon Work",
+			"des": "Complete 50 daily missions",
+			"conditionNum": 50,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210007,
+			"group": 104,
+			"tag": 2,
+			"name": "Going Solo",
+			"des": "Complete 60 daily missions",
+			"conditionNum": 60,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210008,
+			"group": 105,
+			"tag": 2,
+			"name": "High Speed Low Drag",
+			"des": "Complete 70 daily missions",
+			"conditionNum": 70,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210009,
+			"group": 106,
+			"tag": 2,
+			"name": "Are You A Robot",
+			"des": "Complete 80 daily missions",
+			"conditionNum": 80,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210010,
+			"group": 107,
+			"tag": 2,
+			"name": "Mr. Do-It-All",
+			"des": "Complete 90 daily missions",
+			"conditionNum": 90,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
+			"id": 2210011,
+			"group": 108,
+			"tag": 2,
+			"name": "Platoonmate Of The Year",
+			"des": "Complete 100 daily missions",
+			"conditionNum": 100,
+			"icon": "Icon_Achievement_Battle",
+			"reward": {
+				"1": 10
+			},
+			"jumpId": ""
+		},
+		{
 			"id": 2220001,
 			"group": 109,
 			"tag": 2,
@@ -10270,6 +12853,39 @@
 			"reward": {
 				"1": 10
 			},
+			"jumpId": ""
+		},
+		{
+			"id": 2410291,
+			"group": 2,
+			"name": "Dark Zone Newbie Tutorial",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 2410292,
+			"group": 2,
+			"name": "Dark Zone Newbie Tutorial",
+			"des": "",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 2410293,
+			"group": 2,
+			"name": "Dark Zone Newbie Tutorial",
+			"des": "Reach Exploration Level 2",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
 			"jumpId": ""
 		},
 		{
@@ -12110,7 +14726,7 @@
 			"group": 22,
 			"tag": 4,
 			"name": "Zero, Starting Life in Another World",
-			"des": "Log in for 2 days",
+			"des": "Log in for a total of 2 days",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12123,7 +14739,7 @@
 			"group": 23,
 			"tag": 4,
 			"name": "Good, Full of Energy!",
-			"des": "Log in for 3 days",
+			"des": "Log in for a total of 3 days",
 			"conditionNum": 3,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12136,7 +14752,7 @@
 			"group": 24,
 			"tag": 4,
 			"name": "A Good Morning Starts with Coffee",
-			"des": "Log in for 4 days",
+			"des": "Log in for a total of 4 days",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12149,7 +14765,7 @@
 			"group": 25,
 			"tag": 4,
 			"name": "A Walk in the Sand... Yuck.",
-			"des": "Log in for 5 days",
+			"des": "Log in for a total of 5 days",
 			"conditionNum": 5,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12162,7 +14778,7 @@
 			"group": 26,
 			"tag": 4,
 			"name": "Another Day the Wind Blows",
-			"des": "Log in for 6 days",
+			"des": "Log in for a total of 6 days",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12175,7 +14791,7 @@
 			"group": 27,
 			"tag": 4,
 			"name": "Every Day Is a Day I Don't Want To Work",
-			"des": "Log in for 7 days",
+			"des": "Log in for a total of 7 days",
 			"conditionNum": 7,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12188,7 +14804,7 @@
 			"group": 28,
 			"tag": 4,
 			"name": "A Symmetrical Number",
-			"des": "Log in for 8 days",
+			"des": "Log in for a total of 8 days",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12201,7 +14817,7 @@
 			"group": 29,
 			"tag": 4,
 			"name": "Let's Get BBQ Tonight!",
-			"des": "Log in for 9 days",
+			"des": "Log in for a total of 9 days",
 			"conditionNum": 9,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12214,7 +14830,7 @@
 			"group": 30,
 			"tag": 4,
 			"name": "A 10/10 Day to Not Work",
-			"des": "Log in for 10 days",
+			"des": "Log in for a total of 10 days",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12227,7 +14843,7 @@
 			"group": 31,
 			"tag": 4,
 			"name": "An Ordinary Office Worker On the Elmo",
-			"des": "Log in for 15 days",
+			"des": "Log in for a total of 15 days",
 			"conditionNum": 15,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12240,7 +14856,7 @@
 			"group": 32,
 			"tag": 4,
 			"name": "A Lazy Worker is a Smart Worker",
-			"des": "Log in for 20 days",
+			"des": "Log in for a total of 20 days",
 			"conditionNum": 20,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12253,7 +14869,7 @@
 			"group": 33,
 			"tag": 4,
 			"name": "Persist in Victory",
-			"des": "Log in for 25 days",
+			"des": "Log in for a total of 25 days",
 			"conditionNum": 25,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12266,7 +14882,7 @@
 			"group": 34,
 			"tag": 4,
 			"name": "Every Month is a Month I Don't Want to Work",
-			"des": "Log in for 30 days",
+			"des": "Log in for a total of 30 days",
 			"conditionNum": 30,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12279,7 +14895,7 @@
 			"group": 35,
 			"tag": 4,
 			"name": "See That Cake? It's Not a Lie",
-			"des": "Log in for 35 days",
+			"des": "Log in for a total of 35 days",
 			"conditionNum": 35,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12292,7 +14908,7 @@
 			"group": 36,
 			"tag": 4,
 			"name": "Persica's \"Coffee\"",
-			"des": "Log in for 40 days",
+			"des": "Log in for a total of 40 days",
 			"conditionNum": 40,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12305,7 +14921,7 @@
 			"group": 37,
 			"tag": 4,
 			"name": "Big Cleaning Day",
-			"des": "Log in for 45 days",
+			"des": "Log in for a total of 45 days",
 			"conditionNum": 45,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12318,7 +14934,7 @@
 			"group": 38,
 			"tag": 4,
 			"name": "Collapse Fluid Is Green, It Must be Healthy",
-			"des": "Log in for 50 days",
+			"des": "Log in for a total of 50 days",
 			"conditionNum": 50,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12331,7 +14947,7 @@
 			"group": 39,
 			"tag": 4,
 			"name": "Blue Forget-Me-Not",
-			"des": "Log in for 55 days",
+			"des": "Log in for a total of 55 days",
 			"conditionNum": 55,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12344,7 +14960,7 @@
 			"group": 40,
 			"tag": 4,
 			"name": "Slave of Light",
-			"des": "Log in for 60 days",
+			"des": "Log in for a total of 60 days",
 			"conditionNum": 60,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12357,7 +14973,7 @@
 			"group": 41,
 			"tag": 4,
 			"name": "Another Peaceful Day",
-			"des": "Log in for 65 days",
+			"des": "Log in for a total of 65 days",
 			"conditionNum": 65,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12370,7 +14986,7 @@
 			"group": 42,
 			"tag": 4,
 			"name": "Work, Work, I Love Work",
-			"des": "Log in for 70 days",
+			"des": "Log in for a total of 70 days",
 			"conditionNum": 70,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12383,7 +14999,7 @@
 			"group": 43,
 			"tag": 4,
 			"name": "Commander Is Doing Great Today, Too",
-			"des": "Log in for 75 days",
+			"des": "Log in for a total of 75 days",
 			"conditionNum": 75,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12396,7 +15012,7 @@
 			"group": 44,
 			"tag": 4,
 			"name": "Butler to the Elmo",
-			"des": "Log in for 80 days",
+			"des": "Log in for a total of 80 days",
 			"conditionNum": 80,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12409,7 +15025,7 @@
 			"group": 45,
 			"tag": 4,
 			"name": "Self-Discipline is a Measure of Beauty",
-			"des": "Log in for 85 days",
+			"des": "Log in for a total of 85 days",
 			"conditionNum": 85,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12422,7 +15038,7 @@
 			"group": 46,
 			"tag": 4,
 			"name": "A Quarter Later, I Still Don't Want to Work",
-			"des": "Log in for 90 days",
+			"des": "Log in for a total of 90 days",
 			"conditionNum": 90,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12435,7 +15051,7 @@
 			"group": 47,
 			"tag": 4,
 			"name": "Just A Little Bit More",
-			"des": "Log in for 95 days",
+			"des": "Log in for a total of 95 days",
 			"conditionNum": 95,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12448,7 +15064,7 @@
 			"group": 48,
 			"tag": 4,
 			"name": "100 First Dates",
-			"des": "Log in for 100 days",
+			"des": "Log in for a total of 100 days",
 			"conditionNum": 100,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12461,7 +15077,7 @@
 			"group": 49,
 			"tag": 4,
 			"name": "Well, Someone's Got an Agenda",
-			"des": "Log in for 105 days",
+			"des": "Log in for a total of 105 days",
 			"conditionNum": 105,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12474,7 +15090,7 @@
 			"group": 50,
 			"tag": 4,
 			"name": "East, West, Home Is Best",
-			"des": "Log in for 110 days",
+			"des": "Log in for a total of 110 days",
 			"conditionNum": 110,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12487,7 +15103,7 @@
 			"group": 51,
 			"tag": 4,
 			"name": "Crazy Journey",
-			"des": "Log in for 115 days",
+			"des": "Log in for a total of 115 days",
 			"conditionNum": 115,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12500,7 +15116,7 @@
 			"group": 52,
 			"tag": 4,
 			"name": "Daily Cleanup",
-			"des": "Log in for 120 days",
+			"des": "Log in for a total of 120 days",
 			"conditionNum": 120,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12513,7 +15129,7 @@
 			"group": 53,
 			"tag": 4,
 			"name": "Mobile Odd Jobs Vehicle",
-			"des": "Log in for 125 days",
+			"des": "Log in for a total of 125 days",
 			"conditionNum": 125,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12526,7 +15142,7 @@
 			"group": 54,
 			"tag": 4,
 			"name": "\"Eh?\"",
-			"des": "Log in for 130 days",
+			"des": "Log in for a total of 130 days",
 			"conditionNum": 130,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12539,7 +15155,7 @@
 			"group": 55,
 			"tag": 4,
 			"name": "Admirable Determination",
-			"des": "Log in for 135 days",
+			"des": "Log in for a total of 135 days",
 			"conditionNum": 135,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12552,7 +15168,7 @@
 			"group": 56,
 			"tag": 4,
 			"name": "Swimming Against the Tide",
-			"des": "Log in for 140 days",
+			"des": "Log in for a total of 140 days",
 			"conditionNum": 140,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12565,7 +15181,7 @@
 			"group": 57,
 			"tag": 4,
 			"name": "Can GnK Do It!?",
-			"des": "Log in for 145 days",
+			"des": "Log in for a total of 145 days",
 			"conditionNum": 145,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12578,7 +15194,7 @@
 			"group": 58,
 			"tag": 4,
 			"name": "Red Zone Redemption",
-			"des": "Log in for 150 days",
+			"des": "Log in for a total of 150 days",
 			"conditionNum": 150,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12591,7 +15207,7 @@
 			"group": 59,
 			"tag": 4,
 			"name": "A Tower of Strength",
-			"des": "Log in for 155 days",
+			"des": "Log in for a total of 155 days",
 			"conditionNum": 155,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12604,7 +15220,7 @@
 			"group": 60,
 			"tag": 4,
 			"name": "Oh, Let's Write It Down!",
-			"des": "Log in for 160 days",
+			"des": "Log in for a total of 160 days",
 			"conditionNum": 160,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12617,7 +15233,7 @@
 			"group": 61,
 			"tag": 4,
 			"name": "\"Your Mileage May Vary\"",
-			"des": "Log in for 165 days",
+			"des": "Log in for a total of 165 days",
 			"conditionNum": 165,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12630,7 +15246,7 @@
 			"group": 62,
 			"tag": 4,
 			"name": "Forward",
-			"des": "Log in for 170 days",
+			"des": "Log in for a total of 170 days",
 			"conditionNum": 170,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12643,7 +15259,7 @@
 			"group": 63,
 			"tag": 4,
 			"name": "Glaring Mission List",
-			"des": "Log in for 175 days",
+			"des": "Log in for a total of 175 days",
 			"conditionNum": 175,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12656,7 +15272,7 @@
 			"group": 64,
 			"tag": 4,
 			"name": "Every Half Year is a Half Year I Don't Want to Work",
-			"des": "Log in for 180 days",
+			"des": "Log in for a total of 180 days",
 			"conditionNum": 180,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12669,7 +15285,7 @@
 			"group": 65,
 			"tag": 4,
 			"name": "The Half-Year Itch",
-			"des": "Log in for 185 days",
+			"des": "Log in for a total of 185 days",
 			"conditionNum": 185,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12682,7 +15298,7 @@
 			"group": 66,
 			"tag": 4,
 			"name": "May Mayling Be With You",
-			"des": "Log in for 190 days",
+			"des": "Log in for a total of 190 days",
 			"conditionNum": 190,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12695,7 +15311,7 @@
 			"group": 67,
 			"tag": 4,
 			"name": "Round and Round We Go",
-			"des": "Log in for 195 days",
+			"des": "Log in for a total of 195 days",
 			"conditionNum": 195,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12708,7 +15324,7 @@
 			"group": 68,
 			"tag": 4,
 			"name": "The Diligent Fire Keeper",
-			"des": "Log in for 200 days",
+			"des": "Log in for a total of 200 days",
 			"conditionNum": 200,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12721,7 +15337,7 @@
 			"group": 69,
 			"tag": 4,
 			"name": "\"On the Commander's Degree of Competence\"",
-			"des": "Log in for 205 days",
+			"des": "Log in for a total of 205 days",
 			"conditionNum": 205,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12734,7 +15350,7 @@
 			"group": 70,
 			"tag": 4,
 			"name": "Love-Filled MBV",
-			"des": "Log in for 210 days",
+			"des": "Log in for a total of 210 days",
 			"conditionNum": 210,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12747,7 +15363,7 @@
 			"group": 71,
 			"tag": 4,
 			"name": "Exemplary Hunter",
-			"des": "Log in for 215 days",
+			"des": "Log in for a total of 215 days",
 			"conditionNum": 215,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12760,7 +15376,7 @@
 			"group": 72,
 			"tag": 4,
 			"name": "Applause for the Diligent Commander",
-			"des": "Log in for 220 days",
+			"des": "Log in for a total of 220 days",
 			"conditionNum": 220,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12773,7 +15389,7 @@
 			"group": 73,
 			"tag": 4,
 			"name": "Getting on is Easy, Getting off is Hard",
-			"des": "Log in for 225 days",
+			"des": "Log in for a total of 225 days",
 			"conditionNum": 225,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12786,7 +15402,7 @@
 			"group": 74,
 			"tag": 4,
 			"name": "The Best of Intentions",
-			"des": "Log in for 230 days",
+			"des": "Log in for a total of 230 days",
 			"conditionNum": 230,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12799,7 +15415,7 @@
 			"group": 75,
 			"tag": 4,
 			"name": "Time Traveler",
-			"des": "Log in for 235 days",
+			"des": "Log in for a total of 235 days",
 			"conditionNum": 235,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12812,7 +15428,7 @@
 			"group": 76,
 			"tag": 4,
 			"name": "Passing Through the Earl's World",
-			"des": "Log in for 240 days",
+			"des": "Log in for a total of 240 days",
 			"conditionNum": 240,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12825,7 +15441,7 @@
 			"group": 77,
 			"tag": 4,
 			"name": "My Heart Will Go On",
-			"des": "Log in for 245 days",
+			"des": "Log in for a total of 245 days",
 			"conditionNum": 245,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12838,7 +15454,7 @@
 			"group": 78,
 			"tag": 4,
 			"name": "Weld the Door of the Elmo Shut",
-			"des": "Log in for 250 days",
+			"des": "Log in for a total of 250 days",
 			"conditionNum": 250,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12851,7 +15467,7 @@
 			"group": 83,
 			"tag": 4,
 			"name": "Unfinished Journey",
-			"des": "Log in for 275 days",
+			"des": "Log in for a total of 275 days",
 			"conditionNum": 275,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12864,7 +15480,7 @@
 			"group": 88,
 			"tag": 4,
 			"name": "The Duel at Rossartre Peak",
-			"des": "Log in for 300 days",
+			"des": "Log in for a total of 300 days",
 			"conditionNum": 300,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12877,7 +15493,7 @@
 			"group": 91,
 			"tag": 4,
 			"name": "I Pledge Myself to You",
-			"des": "Log in for 315 days",
+			"des": "Log in for a total of 315 days",
 			"conditionNum": 315,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12890,7 +15506,7 @@
 			"group": 94,
 			"tag": 4,
 			"name": "This World Needs Light",
-			"des": "Log in for 330 days",
+			"des": "Log in for a total of 330 days",
 			"conditionNum": 330,
 			"icon": "Icon_Achievement_Other",
 			"reward": {
@@ -12903,7 +15519,7 @@
 			"group": 101,
 			"tag": 4,
 			"name": "Perfect Attendance Award!",
-			"des": "Log in for 365 days",
+			"des": "Log in for a total of 365 days",
 			"conditionNum": 365,
 			"icon": "Icon_Achievement_Other",
 			"reward": {

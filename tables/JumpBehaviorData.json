@@ -297,7 +297,7 @@
 		{
 			"id": 1901,
 			"jumpScene": "HallScene",
-			"jumpPrefab": "UIDarkZoneMainPanel",
+			"jumpPrefab": "UIDarkzoneExploreMainPanel",
 			"unlockId": 28000
 		},
 		{
@@ -445,6 +445,12 @@
 			"unlockId": 29301
 		},
 		{
+			"id": 2803,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIAnniversary1stMainPanel",
+			"unlockId": 29301
+		},
+		{
 			"id": 2901,
 			"jumpScene": "HallScene",
 			"jumpPrefab": "HigherPVPMainPanel",
@@ -469,6 +475,12 @@
 			"jumpPrefab": ""
 		},
 		{
+			"id": 4088,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIControlFightChapterPanel",
+			"unlockId": 34001
+		},
+		{
 			"id": 4100,
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIBarrackChangeSkinPanel",
@@ -491,6 +503,42 @@
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIActivityDialog",
 			"unlockId": 30001
+		},
+		{
+			"id": 6001,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIActivityCafeChapterPanel",
+			"unlockId": 29301
+		},
+		{
+			"id": 12000,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIKittyCafeMainPanel",
+			"unlockId": 29301
+		},
+		{
+			"id": 12001,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIKittyCafeHandbookDialog",
+			"unlockId": 29301
+		},
+		{
+			"id": 12002,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIKittyCafeCollectPanel",
+			"unlockId": 29301
+		},
+		{
+			"id": 12003,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIKittyCafePutPanel",
+			"unlockId": 29301
+		},
+		{
+			"id": 12007,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIKittyCafeMakePanel",
+			"unlockId": 29301
 		}
 	]
 }

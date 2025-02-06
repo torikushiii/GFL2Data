@@ -6,6 +6,13 @@
 			"loginTime": 14,
 			"upTime": 7,
 			"taskTime": 14
+		},
+		{
+			"id": 2,
+			"boxTime": 14,
+			"loginTime": 14,
+			"upTime": 14,
+			"taskTime": 0
 		}
 	]
 }

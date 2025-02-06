@@ -9997,14 +9997,6 @@
 			]
 		},
 		{
-			"uuid": "10150701000",
-			"eventType": 2,
-			"eventId": 10150101,
-			"paramIds": [
-				"10150701000"
-			]
-		},
-		{
 			"uuid": "10150701001",
 			"eventType": 1,
 			"paramIds": [

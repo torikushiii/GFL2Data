@@ -229,6 +229,12 @@
 			"soundPath": 7100351
 		},
 		{
+			"id": 1003301,
+			"model": "NemesisR01",
+			"soundType": 301,
+			"soundPath": 7100355
+		},
+		{
 			"id": 1003302,
 			"model": "NemesisR01",
 			"soundType": 302,
@@ -287,12 +293,6 @@
 			"model": "GrozaR01",
 			"soundType": 109,
 			"soundPath": 7100452
-		},
-		{
-			"id": 1004110,
-			"model": "GrozaR01",
-			"soundType": 110,
-			"soundPath": 7100453
 		},
 		{
 			"id": 1004201,

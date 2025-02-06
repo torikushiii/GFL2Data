@@ -29,6 +29,13 @@
 			"activityDesc": "Welcome to Operation Ruin Flight!\nThis fully functional Super Dinergate doesn't belong here. Control it to jump upwards and out of the ruins!"
 		},
 		{
+			"id": 3002,
+			"activityType": 3,
+			"activityId": 60508,
+			"name": "Operation Ruin Flight - Season 2",
+			"activityDesc": "Welcome to Operation Ruin Flight!\nThis fully functional Super Dinergate doesn't belong here. Control it to jump upwards and out of the ruins!"
+		},
+		{
 			"id": 4001,
 			"activityType": 4,
 			"name": "Copy Not Finalized",

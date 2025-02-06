@@ -526,6 +526,182 @@
 				"131002": 2
 			},
 			"point": 1800
+		},
+		{
+			"id": 41001,
+			"groupId": 4100,
+			"progressReward": {
+				"1": 60
+			},
+			"point": 50
+		},
+		{
+			"id": 41002,
+			"groupId": 4100,
+			"progressReward": {
+				"1": 60,
+				"2": 10000
+			},
+			"point": 100
+		},
+		{
+			"id": 41003,
+			"groupId": 4100,
+			"progressReward": {
+				"1": 60,
+				"12": 2
+			},
+			"point": 150
+		},
+		{
+			"id": 41004,
+			"groupId": 4100,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 200
+		},
+		{
+			"id": 42001,
+			"groupId": 4200,
+			"progressReward": {
+				"1": 60
+			},
+			"point": 125
+		},
+		{
+			"id": 42002,
+			"groupId": 4200,
+			"progressReward": {
+				"1": 60,
+				"2": 10000
+			},
+			"point": 250
+		},
+		{
+			"id": 42003,
+			"groupId": 4200,
+			"progressReward": {
+				"1": 60,
+				"12": 2
+			},
+			"point": 375
+		},
+		{
+			"id": 42004,
+			"groupId": 4200,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 500
+		},
+		{
+			"id": 43001,
+			"groupId": 4300,
+			"progressReward": {
+				"1": 60
+			},
+			"point": 175
+		},
+		{
+			"id": 43002,
+			"groupId": 4300,
+			"progressReward": {
+				"1": 60,
+				"2": 10000
+			},
+			"point": 350
+		},
+		{
+			"id": 43003,
+			"groupId": 4300,
+			"progressReward": {
+				"1": 60,
+				"12": 2
+			},
+			"point": 525
+		},
+		{
+			"id": 43004,
+			"groupId": 4300,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 700
+		},
+		{
+			"id": 44001,
+			"groupId": 4400,
+			"progressReward": {
+				"1": 60
+			},
+			"point": 225
+		},
+		{
+			"id": 44002,
+			"groupId": 4400,
+			"progressReward": {
+				"1": 60,
+				"2": 10000
+			},
+			"point": 450
+		},
+		{
+			"id": 44003,
+			"groupId": 4400,
+			"progressReward": {
+				"1": 60,
+				"12": 2
+			},
+			"point": 675
+		},
+		{
+			"id": 44004,
+			"groupId": 4400,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 900
+		},
+		{
+			"id": 45001,
+			"groupId": 4500,
+			"progressReward": {
+				"1": 60,
+				"2": 15000
+			},
+			"point": 450
+		},
+		{
+			"id": 45002,
+			"groupId": 4500,
+			"progressReward": {
+				"1": 60,
+				"12": 2
+			},
+			"point": 900
+		},
+		{
+			"id": 45003,
+			"groupId": 4500,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 1350
+		},
+		{
+			"id": 45004,
+			"groupId": 4500,
+			"progressReward": {
+				"1": 60,
+				"131002": 2
+			},
+			"point": 1800
 		}
 	]
 }

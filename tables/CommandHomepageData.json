@@ -33,14 +33,6 @@
 			"globalTab": 13
 		},
 		{
-			"id": 16000,
-			"name": "Shop",
-			"type": 2,
-			"sort": 5,
-			"icon": "Icon_CommandCenter_Gashapon",
-			"globalTab": 15
-		},
-		{
 			"id": 29202,
 			"name": "Time-Limited Events",
 			"type": 2,

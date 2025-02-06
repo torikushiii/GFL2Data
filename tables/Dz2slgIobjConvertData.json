@@ -1,36 +1,6 @@
 {
 	"data": [
 		{
-			"typeId": 601,
-			"canEnter": 1,
-			"meshCanEnter": 1,
-			"bringOutCheck": 1
-		},
-		{
-			"typeId": 602,
-			"canEnter": 1,
-			"meshCanEnter": 1,
-			"bringOutCheck": 1
-		},
-		{
-			"typeId": 603,
-			"canEnter": 1,
-			"meshCanEnter": 1,
-			"bringOutCheck": 1
-		},
-		{
-			"typeId": 604,
-			"canEnter": 1,
-			"meshCanEnter": 1,
-			"bringOutCheck": 1
-		},
-		{
-			"typeId": 605,
-			"canEnter": 1,
-			"meshCanEnter": 1,
-			"bringOutCheck": 1
-		},
-		{
 			"typeId": 1401,
 			"canEnter": 1,
 			"meshCanEnter": 1,
@@ -80,6 +50,12 @@
 		},
 		{
 			"typeId": 4101,
+			"canEnter": 1,
+			"meshCanEnter": 1,
+			"bringOutCheck": 0
+		},
+		{
+			"typeId": 4102,
 			"canEnter": 1,
 			"meshCanEnter": 1,
 			"bringOutCheck": 0

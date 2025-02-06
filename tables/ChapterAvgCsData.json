@@ -59,6 +59,12 @@
 			"num": 9,
 			"name": "Aphelion - Part 1",
 			"chapterImg": "Img_ArchivesCenter_PlotBg9"
+		},
+		{
+			"id": 11,
+			"num": 10,
+			"name": "Aphelion - Part 2",
+			"chapterImg": "Img_ArchivesCenter_PlotBg10"
 		}
 	]
 }

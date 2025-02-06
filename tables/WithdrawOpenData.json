@@ -131,6 +131,10 @@
 		{
 			"id": 57,
 			"isWithdrawStageOpen": 1
+		},
+		{
+			"id": 58,
+			"isWithdrawStageOpen": 1
 		}
 	]
 }

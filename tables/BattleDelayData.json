@@ -24,6 +24,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -51,6 +52,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -78,6 +80,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -105,6 +108,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -132,6 +136,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -159,6 +164,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -186,6 +192,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -213,6 +220,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -240,6 +248,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -267,6 +276,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -294,6 +304,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -321,6 +332,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -348,6 +360,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -375,6 +388,35 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 6167401,
+			"delayTrigger": "1",
+			"skillSuccess": 6167402,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"delayInterrupt": 1,
+			"skillInterrupt": "399999",
+			"cellEffectId": 1,
+			"bindType": 1,
+			"skillCancelTarget": 0,
+			"buffId": 0,
+			"skillInterruptTarget": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"refreshBindType": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -402,6 +444,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -429,6 +472,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -456,6 +500,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -483,6 +528,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -510,6 +556,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -537,6 +584,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -564,6 +612,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -591,6 +640,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -618,6 +668,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -645,6 +696,7 @@
 			"shapeParam": "",
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -672,6 +724,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -699,6 +752,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -726,6 +780,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -753,6 +808,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -780,6 +836,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -807,6 +864,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -834,6 +892,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -861,6 +920,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -888,6 +948,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -916,6 +977,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
+			"cellRangeType": 0,
 			"animDirType": 0
 		},
 		{
@@ -942,6 +1004,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -969,6 +1032,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -996,6 +1060,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1023,6 +1088,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1050,6 +1116,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1077,6 +1144,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1104,6 +1172,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1131,6 +1200,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1158,6 +1228,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1185,6 +1256,7 @@
 			"shape": 0,
 			"shapeParam": "",
 			"shapeCrossTerrain": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1212,6 +1284,7 @@
 			"shape": 0,
 			"shapeParam": "",
 			"shapeCrossTerrain": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1239,6 +1312,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1266,6 +1340,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1293,6 +1368,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1320,6 +1396,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1347,6 +1424,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1374,6 +1452,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1401,6 +1480,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1428,6 +1508,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1455,6 +1536,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1482,6 +1564,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1509,6 +1592,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1536,6 +1620,63 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 6963101,
+			"delayTrigger": "1",
+			"skillSuccess": 6963102,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 3,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"refreshBindType": 9,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 6963201,
+			"delayTrigger": "1",
+			"skillSuccess": 6963202,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 3,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"refreshBindType": 9,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1563,6 +1704,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1590,6 +1732,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1617,6 +1760,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1644,6 +1788,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1671,6 +1816,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1697,6 +1843,35 @@
 			"shapeParam": "",
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 62834501,
+			"delayTrigger": "1",
+			"skillSuccess": 62834502,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 3,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"cellRangeType": 1,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"refreshBindType": 0,
 			"skillDelayIn": "",
 			"chargeKeepIk": false,
 			"animDirType": 0
@@ -1725,6 +1900,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1752,6 +1928,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1779,6 +1956,91 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 63481211,
+			"delayTrigger": "1",
+			"skillSuccess": 63481212,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 1,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"refreshBindType": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 67620402,
+			"delayTrigger": "1",
+			"skillSuccess": 67620403,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 3,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"refreshBindType": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
+			"chargeKeepIk": false,
+			"animDirType": 0
+		},
+		{
+			"id": 67620502,
+			"delayTrigger": "1",
+			"skillSuccess": 67620503,
+			"skillSuccessTarget": 1,
+			"skillSuccessLifetime": "1",
+			"skillSuccessLimit": 1,
+			"delayLifetimeCancel": 99,
+			"skillCancel": "399999",
+			"skillCancelTarget": 1,
+			"delayInterrupt": 3,
+			"skillInterrupt": "399999",
+			"skillInterruptTarget": 1,
+			"cellEffectId": 1,
+			"bindType": 1,
+			"buffId": 0,
+			"skillDelayOut": "",
+			"gridOccupyDelay": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeCrossTerrain": 0,
+			"bindLogicPoint": 0,
+			"refreshBindType": 0,
+			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1806,6 +2068,7 @@
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		},
@@ -1834,7 +2097,8 @@
 			"shapeParam": "",
 			"shapeCrossTerrain": 0,
 			"bindLogicPoint": 0,
-			"refreshBindType": 0
+			"refreshBindType": 0,
+			"cellRangeType": 0
 		},
 		{
 			"id": 96169202,
@@ -1860,6 +2124,7 @@
 			"bindLogicPoint": 0,
 			"refreshBindType": 0,
 			"skillDelayIn": "",
+			"cellRangeType": 0,
 			"chargeKeepIk": false,
 			"animDirType": 0
 		}

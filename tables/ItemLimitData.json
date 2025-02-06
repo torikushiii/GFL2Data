@@ -1,0 +1,256 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "",
+			"isBag": false,
+			"initNum": 0,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 2,
+			"name": "",
+			"isBag": false,
+			"initNum": 0,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 3,
+			"name": "",
+			"isBag": false,
+			"initNum": 0,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 4,
+			"name": "Module Slot",
+			"isBag": true,
+			"initNum": 500,
+			"maxLimit": 1000,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 5,
+			"name": "Weapon Backpack Slot",
+			"isBag": true,
+			"initNum": 1500,
+			"maxLimit": 1500,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 6,
+			"name": "",
+			"isBag": true,
+			"initNum": 240,
+			"maxLimit": 500,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 7,
+			"name": "Async PVP Ticket Limit",
+			"isBag": true,
+			"initNum": 3,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 9,
+			"name": "",
+			"initNum": 3,
+			"maxLimit": 3000,
+			"overflow": true,
+			"isBag": false,
+			"type": 0
+		},
+		{
+			"id": 20,
+			"name": "",
+			"initNum": 3,
+			"maxLimit": 99,
+			"overflow": true,
+			"isBag": false,
+			"type": 0
+		},
+		{
+			"id": 21,
+			"name": "",
+			"initNum": 3,
+			"maxLimit": 99,
+			"overflow": true,
+			"isBag": false,
+			"type": 0
+		},
+		{
+			"id": 22,
+			"name": "Weapon Attachment Slot",
+			"isBag": true,
+			"initNum": 1500,
+			"maxLimit": 10000,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 25,
+			"name": "",
+			"isBag": false,
+			"initNum": 0,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 35,
+			"name": "",
+			"isBag": true,
+			"initNum": 1000,
+			"maxLimit": 10000,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 90,
+			"name": "",
+			"isBag": true,
+			"initNum": 5,
+			"maxLimit": 5,
+			"overflow": true,
+			"type": 0
+		},
+		{
+			"id": 101,
+			"name": "",
+			"initNum": 240,
+			"maxLimit": 800,
+			"isBag": false,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 102,
+			"name": "",
+			"initNum": 3,
+			"maxLimit": 5000,
+			"overflow": true,
+			"type": 1,
+			"isBag": false
+		},
+		{
+			"id": 106,
+			"name": "",
+			"initNum": 5,
+			"maxLimit": 5,
+			"isBag": false,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 304,
+			"name": "",
+			"initNum": 3,
+			"type": 2,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false
+		},
+		{
+			"id": 310,
+			"name": "Dark Zone Daily Mission Reset Times",
+			"initNum": 3,
+			"maxLimit": 3,
+			"overflow": true,
+			"isBag": false,
+			"type": 0
+		},
+		{
+			"id": 311,
+			"name": "Dark Zone Daily Mission Complete Attempts",
+			"initNum": 999,
+			"maxLimit": 9999,
+			"overflow": true,
+			"type": 1,
+			"isBag": false
+		},
+		{
+			"id": 354,
+			"name": "",
+			"initNum": 1,
+			"maxLimit": 3,
+			"overflow": true,
+			"type": 1,
+			"isBag": false
+		},
+		{
+			"id": 1008,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 1017,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 21999,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 22001,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 23001,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 24001,
+			"name": "",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 800002,
+			"name": "",
+			"initNum": 2,
+			"maxLimit": 2,
+			"overflow": true,
+			"type": 1,
+			"isBag": false
+		}
+	]
+}

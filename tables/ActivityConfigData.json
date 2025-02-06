@@ -86,8 +86,7 @@
 			"unlockId": 29301,
 			"activityType": 1,
 			"activityEntrance": [
-				701,
-				702
+				701
 			],
 			"priority": 3,
 			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Dusevnyj",
@@ -119,6 +118,19 @@
 			"o_HECAHBLCPEB": 0
 		},
 		{
+			"id": 10001,
+			"name": "Escape from Cyborg",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1001,
+				1002
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Vector",
+			"o_HECAHBLCPEB": 1001
+		},
+		{
 			"id": 11001,
 			"name": "Amidst Wings of Gray",
 			"unlockId": 29301,
@@ -128,6 +140,56 @@
 			],
 			"priority": 1,
 			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Daiyan",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 12001,
+			"name": "404 Found",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1201,
+				1202
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Biyoca",
+			"o_HECAHBLCPEB": 1201
+		},
+		{
+			"id": 13001,
+			"name": "Into the Shadows",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1301
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Andoris",
+			"o_HECAHBLCPEB": 1301
+		},
+		{
+			"id": 14001,
+			"name": "Mímisbrunnr's Loop",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1401
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Springfield",
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 50001,
+			"name": "Zucchero Café",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				5001,
+				5002
+			],
+			"priority": 2,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Centaureissi",
 			"o_HECAHBLCPEB": 0
 		}
 	]

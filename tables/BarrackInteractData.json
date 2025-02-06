@@ -15,6 +15,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -33,6 +34,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -51,6 +53,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -69,6 +72,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -91,6 +95,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -108,6 +113,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -126,6 +132,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -144,6 +151,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -162,6 +170,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -184,6 +193,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -201,6 +211,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -219,6 +230,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -237,6 +249,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -255,6 +268,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -273,6 +287,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -291,6 +306,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -309,6 +325,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -331,6 +348,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -348,6 +366,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -366,6 +385,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -384,6 +404,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -402,6 +423,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -424,6 +446,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -441,6 +464,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -459,6 +483,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -477,6 +502,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -495,6 +521,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -513,6 +540,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -531,6 +559,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -549,6 +578,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -571,6 +601,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -588,6 +619,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -606,6 +638,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -624,6 +657,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -646,6 +680,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -663,6 +698,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -681,6 +717,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -699,6 +736,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -718,6 +756,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -735,6 +774,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -753,6 +793,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -776,6 +817,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -793,6 +835,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -811,6 +854,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -829,6 +873,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -848,6 +893,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -865,6 +911,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -883,6 +930,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -901,6 +949,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -924,6 +973,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -941,6 +991,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -960,6 +1011,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -977,6 +1029,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -995,6 +1048,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1013,6 +1067,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1036,6 +1091,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1053,6 +1109,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1071,6 +1128,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1094,6 +1152,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1111,6 +1170,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1130,6 +1190,7 @@
 			"isBreak": false,
 			"isEsc": false,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -1147,6 +1208,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1165,6 +1227,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1183,6 +1246,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1201,6 +1265,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1219,6 +1284,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1241,6 +1307,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1258,6 +1325,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1276,6 +1344,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1294,6 +1363,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1316,6 +1386,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1333,6 +1404,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1351,6 +1423,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1369,6 +1442,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1389,6 +1463,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1406,6 +1481,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -1425,6 +1501,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1443,6 +1520,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1461,6 +1539,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1484,6 +1563,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1501,6 +1581,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1519,6 +1600,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1537,6 +1619,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1555,6 +1638,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1578,6 +1662,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1595,6 +1680,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1613,6 +1699,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1631,6 +1718,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1651,6 +1739,7 @@
 			"preposition": 102110101,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -1669,6 +1758,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -1688,6 +1778,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1706,6 +1797,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1724,6 +1816,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1742,6 +1835,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1764,6 +1858,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1781,6 +1876,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1799,6 +1895,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1817,6 +1914,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1839,6 +1937,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1856,6 +1955,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1874,6 +1974,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1892,6 +1993,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1910,6 +2012,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1928,6 +2031,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1946,6 +2050,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -1969,6 +2074,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -1986,6 +2092,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2004,6 +2111,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2022,6 +2130,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2040,6 +2149,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2058,6 +2168,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2081,6 +2192,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2098,6 +2210,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2116,6 +2229,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2138,6 +2252,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2155,6 +2270,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2173,6 +2289,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2191,6 +2308,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2210,6 +2328,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -2228,6 +2347,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -2247,6 +2367,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2269,6 +2390,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2286,6 +2408,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2304,6 +2427,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2322,6 +2446,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2340,6 +2465,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2360,6 +2486,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -2378,6 +2505,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -2397,6 +2525,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2415,6 +2544,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2433,6 +2563,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2451,6 +2582,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2469,6 +2601,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2492,6 +2625,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2509,6 +2643,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2527,6 +2662,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2545,6 +2681,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2568,6 +2705,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2585,6 +2723,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2603,6 +2742,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2621,6 +2761,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2639,6 +2780,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2657,6 +2799,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2675,6 +2818,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2693,6 +2837,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2711,6 +2856,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2733,6 +2879,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2750,6 +2897,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2768,6 +2916,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2786,6 +2935,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2808,6 +2958,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2825,6 +2976,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2843,6 +2995,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2861,6 +3014,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2879,6 +3033,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2897,6 +3052,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2915,6 +3071,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2933,6 +3090,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2951,6 +3109,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -2974,6 +3133,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -2991,6 +3151,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3009,6 +3170,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3032,6 +3194,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3049,6 +3212,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3067,6 +3231,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3085,6 +3250,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3103,6 +3269,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3121,6 +3288,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3139,6 +3307,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3157,6 +3326,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3180,6 +3350,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3196,6 +3367,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3217,6 +3389,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3234,6 +3407,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3253,6 +3427,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3276,6 +3451,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3293,6 +3469,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3311,6 +3488,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3328,6 +3506,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3349,6 +3528,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3367,6 +3547,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3386,6 +3567,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3404,6 +3586,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3421,6 +3604,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3440,6 +3624,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3458,6 +3643,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3481,6 +3667,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3498,6 +3685,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3516,6 +3704,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3536,6 +3725,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3553,6 +3743,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3572,6 +3763,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3595,6 +3787,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3611,6 +3804,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3630,6 +3824,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3648,6 +3843,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3666,6 +3862,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3686,6 +3883,7 @@
 			"preposition": 102910601,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3704,6 +3902,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -3723,6 +3922,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3741,6 +3941,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3759,6 +3960,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3777,6 +3979,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3800,6 +4003,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3817,6 +4021,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3835,6 +4040,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3853,6 +4059,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3876,6 +4083,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -3893,6 +4101,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3911,6 +4120,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3929,6 +4139,7 @@
 			"postposition": [],
 			"isBreak": false,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3947,6 +4158,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3965,6 +4177,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -3983,6 +4196,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4001,6 +4215,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4024,6 +4239,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4041,6 +4257,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4059,6 +4276,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4077,6 +4295,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4100,6 +4319,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4117,6 +4337,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4135,6 +4356,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4153,6 +4375,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4171,6 +4394,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4189,6 +4413,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4207,6 +4432,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4230,6 +4456,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4247,6 +4474,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4264,6 +4492,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -4283,6 +4512,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4301,6 +4531,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4318,6 +4549,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -4337,6 +4569,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4355,6 +4588,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4378,6 +4612,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4396,6 +4631,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -4413,6 +4649,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4431,6 +4668,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4454,6 +4692,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4471,6 +4710,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4489,6 +4729,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4508,6 +4749,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -4526,6 +4768,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -4544,6 +4787,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"weaponId": []
 		},
 		{
@@ -4561,6 +4805,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4579,6 +4824,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4602,6 +4848,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4619,6 +4866,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4637,6 +4885,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4655,6 +4904,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4673,6 +4923,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4691,6 +4942,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4713,6 +4965,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4730,6 +4983,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4748,6 +5002,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4766,6 +5021,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4784,6 +5040,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4802,6 +5059,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4820,6 +5078,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4842,6 +5101,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4859,6 +5119,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4877,6 +5138,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4895,6 +5157,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4918,6 +5181,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -4935,6 +5199,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4953,6 +5218,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4971,6 +5237,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -4989,6 +5256,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5007,6 +5275,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5025,6 +5294,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5048,6 +5318,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5065,6 +5336,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5083,6 +5355,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5101,6 +5374,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5119,6 +5393,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5137,6 +5412,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5159,6 +5435,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5178,6 +5455,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5195,6 +5473,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -5214,6 +5493,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5232,6 +5512,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5250,6 +5531,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5268,6 +5550,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5286,6 +5569,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5308,6 +5592,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5327,6 +5612,7 @@
 			"preposition": 103810601,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -5345,6 +5631,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"cameraX": "",
+			"cameraY": "",
 			"cameraDistance": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
@@ -5364,6 +5651,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5382,6 +5670,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5400,6 +5689,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5423,6 +5713,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5440,6 +5731,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5458,6 +5750,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5476,6 +5769,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5494,6 +5788,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5512,6 +5807,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5530,6 +5826,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5553,6 +5850,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5570,6 +5868,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5588,6 +5887,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5606,6 +5906,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5629,6 +5930,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5646,6 +5948,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5664,6 +5967,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5682,6 +5986,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5700,6 +6005,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5718,6 +6024,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5736,6 +6043,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5754,6 +6062,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5777,6 +6086,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5794,6 +6104,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5812,6 +6123,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5830,6 +6142,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5853,6 +6166,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -5870,6 +6184,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5888,6 +6203,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5906,6 +6222,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5924,6 +6241,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5942,6 +6260,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5960,6 +6279,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -5983,7 +6303,1074 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104210101,
+			"id": 1042101,
+			"type": 101,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104210102,
+			"id": 1042101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104210201,
+			"id": 1042102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104210202,
+			"id": 1042102,
+			"type": 102,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10421,
+				10422,
+				10423
+			],
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104210301,
+			"id": 1042103,
+			"type": 103,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104210401,
+			"id": 1042104,
+			"type": 104,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104220102,
+			"id": 1042201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10421,
+				10422,
+				10423
+			],
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104220103,
+			"id": 1042201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104220104,
+			"id": 1042201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104220105,
+			"id": 1042201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104310101,
+			"id": 1043101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104310102,
+			"id": 1043101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104310201,
+			"id": 1043102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104310202,
+			"id": 1043102,
+			"type": 102,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10431,
+				10432,
+				10433
+			],
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104310401,
+			"id": 1043104,
+			"type": 104,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104310601,
+			"id": 1043106,
+			"type": 106,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104320101,
+			"id": 1043201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104320102,
+			"id": 1043201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10431,
+				10432,
+				10433
+			],
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104320103,
+			"id": 1043201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104320104,
+			"id": 1043201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104320105,
+			"id": 1043201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104410101,
+			"id": 1044101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104410102,
+			"id": 1044101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104410201,
+			"id": 1044102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104410202,
+			"id": 1044102,
+			"type": 102,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10441,
+				10442,
+				10443
+			],
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104410401,
+			"id": 1044104,
+			"type": 104,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-50,50",
+			"cameraDistance": "0.45,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104410601,
+			"id": 1044106,
+			"type": 106,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104420101,
+			"id": 1044201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104420102,
+			"id": 1044201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10441,
+				10442,
+				10443
+			],
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104420103,
+			"id": 1044201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104420104,
+			"id": 1044201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104420105,
+			"id": 1044201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104510101,
+			"id": 1045101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104510102,
+			"id": 1045101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104510201,
+			"id": 1045102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104510202,
+			"id": 1045102,
+			"type": 102,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10451,
+				10452,
+				10453
+			],
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104510301,
+			"id": 1045103,
+			"type": 103,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-50,50",
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104510601,
+			"id": 1045106,
+			"type": 106,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104520101,
+			"id": 1045201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104520102,
+			"id": 1045201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10451,
+				10452,
+				10453
+			],
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104520103,
+			"id": 1045201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104520104,
+			"id": 1045201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraX": "-50,50",
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104520105,
+			"id": 1045201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104710101,
+			"id": 1047101,
+			"type": 101,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104710102,
+			"id": 1047101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraY": "-13,18",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104710201,
+			"id": 1047102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104710202,
+			"id": 1047102,
+			"type": 102,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10471,
+				10472,
+				10473
+			],
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104710301,
+			"id": 1047103,
+			"type": 103,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "-120,-45",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104710405,
+			"id": 1047104,
+			"type": 104,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraY": "-13,18",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104720101,
+			"id": 1047201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104720102,
+			"id": 1047201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10471,
+				10472,
+				10473
+			],
+			"postposition": [],
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 104720103,
+			"id": 1047201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "-120,-45",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104720104,
+			"id": 1047201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 104720105,
+			"id": 1047201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraY": "-13,18",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
 		},
 		{
 			"interId": 105010101,
@@ -6000,6 +7387,26 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105010102,
+			"id": 1050101,
+			"type": 101,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6018,6 +7425,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6041,6 +7449,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -6058,6 +7467,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6076,6 +7486,26 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105010602,
+			"id": 1050106,
+			"type": 106,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraDistance": "0.5,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6094,6 +7524,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6117,6 +7548,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -6134,6 +7566,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6152,6 +7585,205 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105110101,
+			"id": 1051101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105110102,
+			"id": 1051101,
+			"type": 101,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105110201,
+			"id": 1051102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
+			"weight": 100,
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105110202,
+			"id": 1051102,
+			"type": 102,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10511,
+				10512,
+				10513
+			],
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 105110301,
+			"id": 1051103,
+			"type": 103,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "-80,-45",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105110601,
+			"id": 1051106,
+			"type": 106,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-60,60",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105120101,
+			"id": 1051201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Look",
+			"weight": 100,
+			"cameraX": "-20,20",
+			"cameraDistance": "0,0.2",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105120102,
+			"id": 1051201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_InspectExclusive",
+			"weight": 100,
+			"triggeringtime": 5.0,
+			"cameraDistance": "0.3,1",
+			"weaponId": [
+				10511,
+				10512,
+				10513
+			],
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": ""
+		},
+		{
+			"interId": 105120103,
+			"id": 1051201,
+			"type": 201,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "-80,-45",
+			"cameraDistance": "0.4,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105120104,
+			"id": 1051201,
+			"type": 201,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6170,6 +7802,26 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 105210102,
+			"id": 1052101,
+			"type": 101,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Head",
+			"weight": 100,
+			"cameraX": "-30,30",
+			"cameraDistance": "0.2,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6181,13 +7833,14 @@
 			"isEsc": true,
 			"barrackInteract": "c_{0}_Barracksp_Touch_Gun",
 			"weight": 100,
-			"cameraX": "-30,30",
 			"cameraDistance": "0.3,1",
 			"postposition": [],
 			"isTimeline": false,
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6211,6 +7864,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -6228,6 +7882,7 @@
 			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6246,6 +7901,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6264,6 +7920,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6287,6 +7944,7 @@
 			"isBreak": false,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": ""
 		},
 		{
@@ -6295,15 +7953,16 @@
 			"type": 201,
 			"isActive": true,
 			"isTimeline": true,
+			"isEsc": true,
 			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
 			"weight": 100,
 			"cameraX": "-120,-45",
 			"cameraDistance": "0.4,1",
 			"postposition": [],
 			"isBreak": false,
-			"isEsc": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6322,6 +7981,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6340,6 +8000,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6358,6 +8019,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6376,6 +8038,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6394,6 +8057,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6412,6 +8076,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6430,6 +8095,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6448,6 +8114,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6466,6 +8133,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6484,6 +8152,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6502,6 +8171,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6520,6 +8190,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6538,6 +8209,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6556,6 +8228,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6574,6 +8247,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6592,6 +8266,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6610,6 +8285,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6628,6 +8304,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6646,6 +8323,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6664,6 +8342,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6682,6 +8361,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6700,6 +8380,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6718,6 +8399,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6736,6 +8418,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6754,6 +8437,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6772,6 +8456,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6790,6 +8475,7 @@
 			"triggeringtime": 0.0,
 			"preposition": 0,
 			"cameraX": "",
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6808,6 +8494,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6826,6 +8513,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6844,6 +8532,7 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		},
@@ -6862,6 +8551,273 @@
 			"isBreak": false,
 			"triggeringtime": 0.0,
 			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1042151001,
+			"id": 10421510,
+			"type": 1510,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1042151101,
+			"id": 10421511,
+			"type": 1511,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1043151001,
+			"id": 10431510,
+			"type": 1510,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1043151101,
+			"id": 10431511,
+			"type": 1511,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1044151001,
+			"id": 10441510,
+			"type": 1510,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.5,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1044151101,
+			"id": 10441511,
+			"type": 1511,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Camera_Aroud",
+			"weight": 100,
+			"cameraX": "150,210",
+			"cameraDistance": "0.5,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1045151001,
+			"id": 10451510,
+			"type": 1510,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1045151101,
+			"id": 10451511,
+			"type": 1511,
+			"isActive": true,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1047151001,
+			"id": 10471510,
+			"type": 1510,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1047151101,
+			"id": 10471511,
+			"type": 1511,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1051151001,
+			"id": 10511510,
+			"type": 1510,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1051151101,
+			"id": 10511511,
+			"type": 1511,
+			"isActive": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Barracksp_Behave_Stretch",
+			"weight": 100,
+			"cameraDistance": "0.3,1",
+			"postposition": [],
+			"isTimeline": false,
+			"isBreak": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraX": "",
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1052151001,
+			"id": 10521510,
+			"type": 1510,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-40,40",
+			"cameraDistance": "0.45,1",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
+			"o_CDEOFLNEJEP": "",
+			"weaponId": []
+		},
+		{
+			"interId": 1052151101,
+			"id": 10521511,
+			"type": 1511,
+			"isActive": true,
+			"isTimeline": true,
+			"barrackInteract": "c_{0}_Barracksp_Touch_Pocket",
+			"weight": 100,
+			"cameraX": "-40,40",
+			"cameraDistance": "0.45,1",
+			"postposition": [],
+			"isBreak": false,
+			"isEsc": false,
+			"triggeringtime": 0.0,
+			"preposition": 0,
+			"cameraY": "",
 			"o_CDEOFLNEJEP": "",
 			"weaponId": []
 		}

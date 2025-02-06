@@ -39,15 +39,15 @@
 			"id": 24024,
 			"icon": "Item_HeadFrame_ActivityCafe",
 			"unlockDes": "Unlock by completing the Zucchero Café Challenge Mode",
-			"sort": 2003,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2003
 		},
 		{
 			"id": 24025,
 			"icon": "Item_HeadFrame_BP_11",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4003,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4003
 		},
 		{
 			"id": 24026,
@@ -88,8 +88,8 @@
 			"id": 24031,
 			"icon": "Item_HeadFrame_BP_12",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4004,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4004
 		},
 		{
 			"id": 24032,
@@ -102,8 +102,8 @@
 			"id": 24033,
 			"icon": "Item_HeadFrame_BP_13",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4005,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4005
 		},
 		{
 			"id": 24034,
@@ -116,22 +116,22 @@
 			"id": 24035,
 			"icon": "Item_HeadFrame_HighPVP_Season4",
 			"unlockDes": "Unlock by ranking in the top 50% in Military Simulation Season: Potential Conflict",
-			"sort": 1004,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1004
 		},
 		{
 			"id": 24036,
 			"icon": "Item_HeadFrame_HighPVP_Season5",
 			"unlockDes": "Unlocked by ranking in the top 50% in the Military Simulation Season: Invasion Crisis",
-			"sort": 1005,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1005
 		},
 		{
 			"id": 24037,
 			"icon": "Item_HeadFrame_HighPVP_Season6",
 			"unlockDes": "Unlocked by ranking in the top 50% in the Military Simulation Season: Order Construction",
-			"sort": 1006,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1006
 		},
 		{
 			"id": 24038,
@@ -169,11 +169,39 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 24043,
+			"icon": "Item_HeadFrame_BP_17",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4009,
+			"displayConfig": 0
+		},
+		{
+			"id": 24044,
+			"icon": "Item_HeadFrame_BP_18",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4010,
+			"displayConfig": 0
+		},
+		{
+			"id": 24045,
+			"icon": "Item_HeadFrame_BP_19",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4011,
+			"displayConfig": 0
+		},
+		{
+			"id": 24046,
+			"icon": "Item_HeadFrame_BP_20",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4012,
+			"displayConfig": 0
+		},
+		{
 			"id": 24050,
 			"icon": "Item_HeadFrame_ActivityDusevnyj",
 			"unlockDes": "Unlocked by clearing the Challenge Mode in The Halting Station",
-			"sort": 2010,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2010
 		},
 		{
 			"id": 24051,
@@ -218,6 +246,13 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 24057,
+			"icon": "Item_HeadFrame_Love_Clukay",
+			"unlockDes": "Pride, the privilege of an elite; her gaze, the proof of secret fondness.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Klukai",
+			"displayConfig": 1,
+			"sort": 3005
+		},
+		{
 			"id": 24058,
 			"icon": "Item_HeadFrame_Love_Vepley",
 			"unlockDes": "In the brilliance of the spotlight, the performer's face shines resplendently.\nThis heartfelt gift from the Doll unlocks when Affinity with Vepley reaches Level 6.",
@@ -225,11 +260,144 @@
 			"sort": 3006
 		},
 		{
+			"id": 24059,
+			"icon": "Item_HeadFrame_Love_Mishty",
+			"unlockDes": "It's time to say goodnight. Let's drift leisurely, lying together in the clouds...\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Mechty",
+			"displayConfig": 1,
+			"sort": 3007
+		},
+		{
+			"id": 24060,
+			"icon": "Item_HeadFrame_Love_Daiyan",
+			"unlockDes": "Soulmates seldom come by. As strings quiver, your melodies merge in harmony.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Daiyan",
+			"displayConfig": 1,
+			"sort": 3008
+		},
+		{
+			"id": 24061,
+			"icon": "Item_HeadFrame_ActivityClukay",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Aphelion - Part I",
+			"displayConfig": 1,
+			"sort": 2012
+		},
+		{
+			"id": 24062,
+			"icon": "Item_HeadFrame_ActivityMishty",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Aphelion - Part II",
+			"displayConfig": 1,
+			"sort": 2013
+		},
+		{
+			"id": 24063,
+			"icon": "Item_HeadFrame_ActivityVector",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Escape from Cyborg",
+			"sort": 2014,
+			"displayConfig": 0
+		},
+		{
+			"id": 24064,
+			"icon": "Item_HeadFrame_HighPVP_Season8",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Tempered Glory",
+			"sort": 1008,
+			"displayConfig": 0
+		},
+		{
+			"id": 24065,
+			"icon": "Item_HeadFrame_Love_Vector",
+			"unlockDes": "The scattered fragrance lingering through her strands, a treasured memory uniquely yours.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Vector",
+			"sort": 3009,
+			"displayConfig": 0
+		},
+		{
 			"id": 24066,
 			"icon": "Item_HeadFrame_Love_Suomi",
 			"unlockDes": "Savor this deep and rich feeling.\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Suomi.",
 			"displayConfig": 1,
 			"sort": 3010
+		},
+		{
+			"id": 24067,
+			"icon": "Item_HeadFrame_Love_Biyoca",
+			"unlockDes": "No matter how high the branches she scales, you remain ever-present in her gaze.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Belka",
+			"sort": 3011,
+			"displayConfig": 0
+		},
+		{
+			"id": 24068,
+			"icon": "Item_HeadFrame_Love_Macqiato",
+			"unlockDes": "Against foes, her violin case holds nothing but instruments of harm; for you, it brims with veiled emotions.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Makiatto",
+			"displayConfig": 1,
+			"sort": 3012
+		},
+		{
+			"id": 24069,
+			"icon": "Item_HeadFrame_Love_Andoris",
+			"unlockDes": "This tenderness extended to you, ever so distinct from that of others.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Andoris",
+			"sort": 3013,
+			"displayConfig": 0
+		},
+		{
+			"id": 24071,
+			"icon": "Item_HeadFrame_Love_Springfield",
+			"unlockDes": "The sweetness is just right, yet it is not enough to carry the deep affection in her smile.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Springfield.",
+			"sort": 3015,
+			"displayConfig": 0
+		},
+		{
+			"id": 24072,
+			"icon": "Item_HeadFrame_Love_Groza",
+			"unlockDes": "She will be present on every long night and afternoon from now on.\nThis heartfelt gift from the Doll unlocks when Affinity with Groza reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3016
+		},
+		{
+			"id": 24107,
+			"icon": "Item_HeadFrame_HighPVP_Season9",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Maze",
+			"sort": 1009,
+			"displayConfig": 0
+		},
+		{
+			"id": 24108,
+			"icon": "Item_HeadFrame_ActivityBiyoca",
+			"unlockDes": "Unlocked by completing all challenge mode stages for 404 Found",
+			"sort": 2014,
+			"displayConfig": 0
+		},
+		{
+			"id": 24109,
+			"icon": "Item_HeadFrame_ActivityAndoris",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Into the Shadows",
+			"sort": 2015,
+			"displayConfig": 0
+		},
+		{
+			"id": 24110,
+			"icon": "Item_HeadFrame_SpringfieldSSR01",
+			"unlockDes": "Unlocked after obtaining Springfield's Outfit - Queen In Radiance",
+			"sort": 2016,
+			"displayConfig": 0
+		},
+		{
+			"id": 24111,
+			"icon": "Item_HeadFrame_ActivitySpringfield",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Mímisbrunnr's Loop",
+			"sort": 2017,
+			"displayConfig": 0
+		},
+		{
+			"id": 24113,
+			"icon": "Item_HeadFrame_HighPVP_Season10",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Thunder Strike",
+			"sort": 1010,
+			"displayConfig": 0
+		},
+		{
+			"id": 24114,
+			"icon": "Item_HeadFrame_ActivityCafe2",
+			"unlockDes": "Unlocks after completing Zucchero Cafe Resource Mode",
+			"displayConfig": 1,
+			"sort": 2002
 		}
 	]
 }

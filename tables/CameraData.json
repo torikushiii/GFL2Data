@@ -314,6 +314,17 @@
 			"isTpsShootCamera": 0
 		},
 		{
+			"id": 30,
+			"name": "CharolicSR01_Ultraskill",
+			"type": 21,
+			"prefab": [
+				"SkillTimeline/CharolicSR01/CharolicSR01_UltraSkill"
+			],
+			"tacticReplace": 30,
+			"batchTypeId": 0,
+			"isTpsShootCamera": 0
+		},
+		{
 			"id": 31,
 			"name": "OnPreAim",
 			"type": 20,
@@ -541,6 +552,17 @@
 				"OnEnemyAttackThrow"
 			],
 			"tacticReplace": 0,
+			"batchTypeId": 0,
+			"isTpsShootCamera": 0
+		},
+		{
+			"id": 101,
+			"name": "OnSkillAllTargetHigher",
+			"type": 20,
+			"prefab": [
+				"OnSkillAllTargetHigher"
+			],
+			"tacticReplace": 45,
 			"batchTypeId": 0,
 			"isTpsShootCamera": 0
 		},
@@ -847,17 +869,6 @@
 			"type": 21,
 			"prefab": [
 				"SkillTimeline/DusevnyjSSR01_Ultraskill_Tac"
-			],
-			"tacticReplace": 0,
-			"batchTypeId": 0,
-			"isTpsShootCamera": 0
-		},
-		{
-			"id": 6269905,
-			"name": "OnNemerteaSkill",
-			"type": 20,
-			"prefab": [
-				"OnNemerteaSkill"
 			],
 			"tacticReplace": 0,
 			"batchTypeId": 0,

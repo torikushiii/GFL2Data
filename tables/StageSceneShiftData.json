@@ -391,6 +391,30 @@
 			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d00.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d01.prefab"
 		},
 		{
+			"id": 1102501,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_mesh_sim1.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_mesh_sim1.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_mesh_sim1.prefab"
+		},
+		{
+			"id": 1102601,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1.prefab"
+		},
+		{
+			"id": 1102602,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1_90.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1_90.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/highwall_edge_mesh_sim1_90.prefab"
+		},
+		{
+			"id": 1102701,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_slg_simcombat01_s03w.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_slg_simcombat01_s03w.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_slg_simcombat01_s03w.prefab"
+		},
+		{
 			"id": 1110101,
 			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_slg_sim_boundaryeffect_01_a.prefab",
 			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_slg_sim_boundaryeffect_01_a.prefab",
@@ -701,6 +725,12 @@
 			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d00.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d01.prefab",
 			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d00.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d01.prefab",
 			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d00.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d01.prefab"
+		},
+		{
+			"id": 1202501,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat02/SIM_Common/s_slg_simcombat02_s03w.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat02/SIM_Common/s_slg_simcombat02_s03w.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat02/SIM_Common/s_slg_simcombat02_s03w.prefab"
 		},
 		{
 			"id": 1210101,
@@ -1015,6 +1045,12 @@
 			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d00.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/s_l_slg_HollowHighLand_SimCombat01_s01_d01.prefab"
 		},
 		{
+			"id": 1302501,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_simcombat03_s03w.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_simcombat03_s03w.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_simcombat03_s03w.prefab"
+		},
+		{
 			"id": 1310101,
 			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_sim_boundaryeffect_03.prefab",
 			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_sim_boundaryeffect_03.prefab",
@@ -1310,27 +1346,27 @@
 		},
 		{
 			"id": 1402001,
-			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01.prefab",
-			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01.prefab",
-			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01.prefab"
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01.prefab"
 		},
 		{
 			"id": 1402002,
-			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01_90.prefab",
-			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01_90.prefab",
-			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat01/SIM_Common/p_l_slg_shield_HE_y01_90.prefab"
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01_90.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01_90.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/p_l_slg_simcombat04shield_HE_y01_90.prefab"
 		},
 		{
 			"id": 1402101,
-			"route": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01.prefab",
-			"routePc": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01.prefab",
-			"routeMb": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01.prefab"
+			"route": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01.prefab",
+			"routePc": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01.prefab",
+			"routeMb": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01.prefab"
 		},
 		{
 			"id": 1402102,
-			"route": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01_90.prefab",
-			"routePc": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01_90.prefab",
-			"routeMb": "Assets/Level/LevelItem/CoverItem/p_l_slg_shield_pe_s01_90.prefab"
+			"route": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01_90.prefab",
+			"routePc": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01_90.prefab",
+			"routeMb": "Assets/Level/LevelItem/CoverItem/p_l_slg_simcombat04shield_pe_s01_90.prefab"
 		},
 		{
 			"id": 1402201,
@@ -1357,10 +1393,28 @@
 			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s04.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s04_pillar.prefab"
 		},
 		{
+			"id": 1402501,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s13.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s14.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s13.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s14.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s13.prefab,Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s14.prefab"
+		},
+		{
+			"id": 1402601,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15.prefab"
+		},
+		{
+			"id": 1402602,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15_90.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15_90.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_simcombat04_s15_90.prefab"
+		},
+		{
 			"id": 1410101,
-			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_sim_boundaryeffect_03.prefab",
-			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_sim_boundaryeffect_03.prefab",
-			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat03/SIM_Common/s_slg_sim_boundaryeffect_03.prefab"
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_sim_boundaryeffect_04.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_sim_boundaryeffect_04.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_Common/s_slg_sim_boundaryeffect_04.prefab"
 		},
 		{
 			"id": 1410201,

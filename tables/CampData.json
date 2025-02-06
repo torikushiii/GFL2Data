@@ -43,6 +43,18 @@
 			"des": "Mangi Security Service"
 		},
 		{
+			"id": 1008,
+			"name": "City Security Department",
+			"icon": "Camp_icon_0",
+			"des": "City Security Department"
+		},
+		{
+			"id": 1009,
+			"name": "Saikad Technologies",
+			"icon": "Camp_icon_0",
+			"des": "Saikad Technologies"
+		},
+		{
 			"id": 1099,
 			"name": "Unaffiliated",
 			"icon": "Camp_icon_0",

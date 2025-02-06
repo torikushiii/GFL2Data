@@ -131,6 +131,90 @@
 			"bgImage": "ActivityChrTryItemBg_Suomi",
 			"gachaId": "45001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60401,
+			"bgImage": "ActivityChrTryItemBg_Mishty",
+			"gachaId": "47001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60402,
+			"bgImage": "ActivityChrTryItemBg_Dusevnyj",
+			"gachaId": "49001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60501,
+			"bgImage": "ActivityChrTryItemBg_Vector",
+			"gachaId": "51001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60502,
+			"bgImage": "ActivityChrTryItemBg_Zhaohui",
+			"gachaId": "53001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
+		},
+		{
+			"id": 60601,
+			"bgImage": "ActivityChrTryItemBg_Biyoca",
+			"gachaId": "55001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 60602,
+			"bgImage": "ActivityChrTryItemBg_Clukay",
+			"gachaId": "57001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
+		},
+		{
+			"id": 60701,
+			"bgImage": "ActivityChrTryItemBg_Andoris",
+			"gachaId": "59001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62F"
+		},
+		{
+			"id": 60702,
+			"bgImage": "ActivityChrTryItemBg_Mishty",
+			"gachaId": "61001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60710,
+			"bgImage": "ActivityChrTryItemBg_Jiangyu",
+			"gachaId": "63001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60807,
+			"bgImage": "ActivityChrTryItemBg_Springfield",
+			"gachaId": "65001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60808,
+			"bgImage": "ActivityChrTryItemBg_Vector",
+			"gachaId": "67001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60809,
+			"bgImage": "ActivityChrTryItemBg_Macqiato",
+			"gachaId": "69001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 60905,
+			"bgImage": "ActivityChrTryItemBg_Biyoca",
+			"gachaId": "73001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 60906,
+			"bgImage": "ActivityChrTryItemBg_Centaureissi",
+			"gachaId": "75001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		}
 	]
 }

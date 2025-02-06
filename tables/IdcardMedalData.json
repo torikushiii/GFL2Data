@@ -262,6 +262,33 @@
 			"sort": 203
 		},
 		{
+			"id": 22046,
+			"icon": "Item_Icon_Medal_ActivityCafe1",
+			"name": "Badge: Adept Merchant",
+			"qualify": "Unlocked after completing a Mellow Commission - Basic Commission",
+			"qualifySimplify": "Unlocked after completing a Mellow Commission - Basic Commission",
+			"sort": 204,
+			"achievement": 0
+		},
+		{
+			"id": 22047,
+			"icon": "Item_Icon_Medal_ActivityCafe2",
+			"name": "Badge: An Eye for Wares",
+			"qualify": "Unlocked after completing a Mellow Commission - Intermediate Commission",
+			"qualifySimplify": "Unlocked after completing a Mellow Commission - Intermediate Commission",
+			"sort": 205,
+			"achievement": 0
+		},
+		{
+			"id": 22048,
+			"icon": "Item_Icon_Medal_ActivityCafe3",
+			"name": "Badge: Shipping Precursor",
+			"qualify": "Unlocked after completing a Mellow Commission - High-Level Commission",
+			"qualifySimplify": "Unlocked after completing a Mellow Commission - High-Level Commission",
+			"sort": 206,
+			"achievement": 0
+		},
+		{
 			"id": 22050,
 			"icon": "Item_Icon_Medal_eventbox",
 			"name": "Badge - Fragrance Pact",
@@ -298,12 +325,120 @@
 			"achievement": 0
 		},
 		{
+			"id": 22054,
+			"icon": "Item_Icon_Medal_ActivityLenna",
+			"name": "Badge: Prevention Over Cure",
+			"qualify": "Unlocked after completing Dynamic Defense - Macro Virus",
+			"qualifySimplify": "Unlocked after completing Dynamic Defense - Macro Virus",
+			"sort": 212,
+			"achievement": 0
+		},
+		{
+			"id": 22055,
+			"icon": "Item_Icon_Medal_ActivityLenna2",
+			"name": "Badge: Faultless Protection",
+			"qualify": "Unlocked after completing Dynamic Defense - Slow Attack",
+			"qualifySimplify": "Unlocked after completing Dynamic Defense - Slow Attack",
+			"sort": 213,
+			"achievement": 0
+		},
+		{
+			"id": 22056,
+			"icon": "Item_Icon_Medal_ActivityLenna3",
+			"name": "Badge: Absolute Defense",
+			"qualify": "Unlocked after completing Dynamic Defense - Overload",
+			"qualifySimplify": "Unlocked after completing Dynamic Defense - Overload",
+			"sort": 214,
+			"achievement": 0
+		},
+		{
 			"id": 22057,
 			"icon": "Item_Icon_Medal_Story08",
 			"name": "Badge: Aliasing Effect",
 			"qualify": "Unlocked via completion of Campaign Chapter 8 - Aliasing Effect",
 			"qualifySimplify": "Unlocked via completion of Campaign Chapter 8 - Aliasing Effect",
 			"sort": 108,
+			"achievement": 0
+		},
+		{
+			"id": 22058,
+			"icon": "Item_Icon_Medal_HighPVP_Season4",
+			"name": "Badge: Potential Conflict.",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Potential Conflict.",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Potential Conflict.",
+			"sort": 215,
+			"achievement": 0
+		},
+		{
+			"id": 22059,
+			"icon": "Item_Icon_Medal_HighPVP_Season5",
+			"name": "Badge: Invasion Crisis",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Invasion Crisis",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Invasion Crisis",
+			"sort": 216,
+			"achievement": 0
+		},
+		{
+			"id": 22060,
+			"icon": "Item_Icon_Medal_HighPVP_Season6",
+			"name": "Badge: Order Construction",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Order Construction",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Order Construction",
+			"sort": 217,
+			"achievement": 0
+		},
+		{
+			"id": 22061,
+			"icon": "Item_Icon_Medal_HighPVP_Season7",
+			"name": "Badge: Crisis Infiltration",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Crisis Infiltration",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Crisis Infiltration",
+			"sort": 218,
+			"achievement": 0
+		},
+		{
+			"id": 22062,
+			"icon": "Item_Icon_Medal_HighPVP_Season8",
+			"name": "Badge: Tempered Glory",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Tempered Glory.",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Tempered Glory.",
+			"sort": 219,
+			"achievement": 0
+		},
+		{
+			"id": 22063,
+			"icon": "Item_Icon_Medal_HighPVP_Season9",
+			"name": "Badge: Labyrinth Confrontation",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Labyrinth Confrontation.",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Labyrinth Confrontation.",
+			"sort": 220,
+			"achievement": 0
+		},
+		{
+			"id": 22064,
+			"icon": "Item_Icon_Medal_Story09",
+			"name": "Badge: Aphelion I",
+			"qualify": "Unlocked after completing Aphelion - Part I",
+			"qualifySimplify": "Unlocked after completing Aphelion - Part I",
+			"sort": 109,
+			"achievement": 0
+		},
+		{
+			"id": 22065,
+			"icon": "Item_Icon_Medal_Story10",
+			"name": "Badge: Aphelion II",
+			"qualify": "Unlocked after completing Aphelion - Part II",
+			"qualifySimplify": "Unlocked after completing Aphelion - Part II",
+			"sort": 110,
+			"achievement": 0
+		},
+		{
+			"id": 22066,
+			"icon": "Item_Icon_Medal_HighPVP_Season10",
+			"name": "Badge: Lightning Strike",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Thunder Strike.",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Thunder Strike.",
+			"sort": 221,
 			"achievement": 0
 		}
 	]

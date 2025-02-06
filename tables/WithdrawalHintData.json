@@ -203,7 +203,7 @@
 		{
 			"gunId": 1042,
 			"hintIdSecond": 71201,
-			"hintIdThird": 71206
+			"hintIdThird": 71233
 		},
 		{
 			"gunId": 1043,
@@ -213,12 +213,12 @@
 		{
 			"gunId": 1044,
 			"hintIdSecond": 71201,
-			"hintIdThird": 71206
+			"hintIdThird": 71231
 		},
 		{
 			"gunId": 1045,
 			"hintIdSecond": 71201,
-			"hintIdThird": 71206
+			"hintIdThird": 71232
 		},
 		{
 			"gunId": 1046,
@@ -244,6 +244,11 @@
 			"gunId": 1050,
 			"hintIdSecond": 71201,
 			"hintIdThird": 71227
+		},
+		{
+			"gunId": 1051,
+			"hintIdSecond": 71201,
+			"hintIdThird": 71230
 		},
 		{
 			"gunId": 1052,

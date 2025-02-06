@@ -13,7 +13,7 @@
 				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_B_01.prefab",
-			"blockCollision": "0,100,0|40,200,360",
+			"blockCollision": "0,300,0|40,900,360",
 			"interactCollision": "0,0,0|0,0,0",
 			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
 			"severInteractCollision": "0,0|0,0|0,0|0,0",
@@ -73,7 +73,7 @@
 				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_B_02.prefab",
-			"blockCollision": "0,100,0|40,200,360",
+			"blockCollision": "0,300,0|40,900,360",
 			"interactCollision": "0,0,0|0,0,0",
 			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
 			"severInteractCollision": "0,0|0,0|0,0|0,0",
@@ -240,7 +240,7 @@
 				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_A_01.prefab",
-			"blockCollision": "0,100,0|40,200,180",
+			"blockCollision": "0,300,0|40,900,180",
 			"interactCollision": "0,0,0|0,0,0",
 			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
 			"severInteractCollision": "0,0|0,0|0,0|0,0",
@@ -300,7 +300,7 @@
 				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_A_02.prefab",
-			"blockCollision": "0,100,0|40,200,180",
+			"blockCollision": "0,300,0|40,900,180",
 			"interactCollision": "0,0,0|0,0,0",
 			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
 			"severInteractCollision": "0,0|0,0|0,0|0,0",
@@ -342,6 +342,63 @@
 			"costNum": [],
 			"isShowInteractToken": 0,
 			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 200,
+			"name": "Supply Box",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 201,
+				"1": 202,
+				"2": 203,
+				"3": 204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|180,100,180",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				20000,
+				20001,
+				20002,
+				20003
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "18",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -3302,7 +3359,7 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"0": 0,
+				"0": 1,
 				"1": 0,
 				"2": 0,
 				"3": 0
@@ -3839,7 +3896,7 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"0": 0,
+				"0": 1,
 				"1": 0,
 				"2": 0,
 				"3": 0
@@ -4087,6 +4144,186 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 940,
+			"name": "Electronic Security Gate",
+			"type": 1,
+			"priority": 39,
+			"state": {
+				"0": 901,
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
+			"blockCollision": "0,0,0|360,1200,50",
+			"interactCollision": "0,0,0|360,100,250",
+			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"activeShape": true,
+			"shapeIds": [
+				94000,
+				94001,
+				94002,
+				94003
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 941,
+			"name": "Companion Banned",
+			"type": 1,
+			"priority": 33,
+			"state": {
+				"0": 99,
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Warning_01/Dz_dio_Warning_01.prefab",
+			"blockCollision": "0,0,0|360,1200,50",
+			"interactCollision": "0,0,0|360,100,250",
+			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"activeShape": true,
+			"shapeIds": [
+				94100,
+				94101,
+				94102,
+				94103
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 942,
+			"name": "Companion Banned",
+			"type": 1,
+			"priority": 33,
+			"state": {
+				"0": 99,
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Warning_01/Dz_dio_Warning_01.prefab",
+			"blockCollision": "0,0,0|360,1200,50",
+			"interactCollision": "0,0,0|360,100,250",
+			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"activeShape": true,
+			"shapeIds": [
+				94200,
+				94201,
+				94202,
+				94203
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 1001,
 			"name": "[Logic Interactive Object] Player Box",
 			"type": 10,
@@ -4244,9 +4481,9 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|180,100,200",
+			"interactCollision": "0,0,0|180,100,240",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
-			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"severInteractCollision": "-300,300|300,300|300,-300|-300,-300",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -4295,7 +4532,7 @@
 			"blockCollision": "0,0,0|0,0,0",
 			"interactCollision": "0,0,0|180,100,120",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
-			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"severInteractCollision": "-300,300|300,300|300,-300|-300,-300",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -4333,14 +4570,16 @@
 		},
 		{
 			"id": 1203,
-			"name": "[Logic Interactible] Teleport Point",
+			"name": "[Logic Interactive Object] Relocation Point - Blue",
 			"type": 12,
 			"priority": 26,
+			"initState": 1,
 			"state": {
-				"0": 4401,
-				"1": 4402
+				"1": 4401,
+				"2": 4401,
+				"3": 4402
 			},
-			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_PreTeleportation_blue/Dz_dio_PreTeleportation_blue.prefab",
 			"blockCollision": "0,0,0|0,0,0",
 			"interactCollision": "0,50,0|180,100,180",
 			"severBlockCollision": "0,0,0|0,0,0",
@@ -4354,7 +4593,7 @@
 			"interactTokenState": {
 				"0": 0
 			},
-			"param": "0",
+			"param": "40104;40105",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 0,
@@ -4363,7 +4602,100 @@
 				"3": 0
 			},
 			"tokenYShifting": 150,
-			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 1204,
+			"name": "[Logic Interactive Object] Relocation Point - Red",
+			"type": 12,
+			"priority": 26,
+			"initState": 1,
+			"state": {
+				"1": 4401,
+				"2": 4401,
+				"3": 4402
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_PreTeleportation_red/Dz_dio_PreTeleportation_red.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "40204;40205",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 1205,
+			"name": "[Logic Interactive Object] Relocation Point - Green",
+			"type": 12,
+			"priority": 26,
+			"initState": 1,
+			"state": {
+				"1": 4401,
+				"2": 4401,
+				"3": 4402
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_PreTeleportation_green/Dz_dio_PreTeleportation_green.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "40304;40305",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
 			"slgPrefabPath": "",
 			"useLimit": 0,
 			"cdSequence": {},
@@ -7631,8 +7963,55 @@
 			"frontCheck": 0
 		},
 		{
+			"id": 3000,
+			"name": "Reactivation Station",
+			"type": 27,
+			"priority": 99,
+			"state": {
+				"0": 300001,
+				"1": 300002,
+				"2": 300003
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_checkpoint/Dz_dio_checkpoint_temp.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,200,0|540,400,540",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "0,0,0;30003",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 3001,
-			"name": "Reactivate Base - Respawn Point",
+			"name": "Reactivation Station",
 			"type": 27,
 			"priority": 99,
 			"state": {
@@ -7642,9 +8021,9 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_checkpoint/Dz_dio_checkpoint.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|180,200,180",
+			"interactCollision": "0,0,0|300,600,300",
 			"severBlockCollision": "0,0,0|0,0,0",
-			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"severInteractCollision": "-150,150|150,150|150,-150|-150,-150",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -7679,7 +8058,7 @@
 		},
 		{
 			"id": 3002,
-			"name": "Relay Point - Teleport Point",
+			"name": "Relay Point",
 			"type": 26,
 			"priority": 99,
 			"state": {
@@ -7689,7 +8068,7 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_teleporter/Dz_dio_teleporter.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|540,200,540",
+			"interactCollision": "0,200,0|540,400,540",
 			"severBlockCollision": "0,0,0|0,0,0",
 			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
 			"monsterInteractCollision": "0,0,0|0,0,0",
@@ -7930,7 +8309,7 @@
 		},
 		{
 			"id": 3007,
-			"name": "Square Stone Block - Cover of Single Grid Interactive Item",
+			"name": "Stone Shell",
 			"type": 33,
 			"priority": 99,
 			"state": {
@@ -7938,7 +8317,7 @@
 				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_barrier/Dz_dio_barrier.prefab",
-			"blockCollision": "0,65,0|160,180,160",
+			"blockCollision": "0,0,0|160,30,160",
 			"interactCollision": "0,0,0|0,0,0",
 			"severBlockCollision": "-80,80|80,80|80,-80|-80,-80",
 			"severInteractCollision": "0,0|0,0|0,0|0,0",
@@ -8014,7 +8393,6 @@
 				"0": 0
 			},
 			"param": "0",
-			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 1,
@@ -8028,6 +8406,7 @@
 			"costId": [],
 			"costNum": [],
 			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -8117,7 +8496,6 @@
 				"0": 0
 			},
 			"param": "5104;2;2;1;0",
-			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -8132,6 +8510,7 @@
 			"costId": [],
 			"costNum": [],
 			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -8168,7 +8547,6 @@
 				"0": 0
 			},
 			"param": "5103;2;1;1",
-			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -8183,6 +8561,7 @@
 			"costId": [],
 			"costNum": [],
 			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -8219,7 +8598,6 @@
 				"0": 0
 			},
 			"param": "5102;2;1;1",
-			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -8234,6 +8612,7 @@
 			"costId": [],
 			"costNum": [],
 			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -8349,7 +8728,7 @@
 			"priority": 99,
 			"state": {
 				"0": 907,
-				"1": 904,
+				"1": 910,
 				"2": 907,
 				"3": 903
 			},
@@ -8400,7 +8779,7 @@
 			"priority": 99,
 			"state": {
 				"0": 907,
-				"1": 904,
+				"1": 910,
 				"2": 907,
 				"3": 903
 			},
@@ -8495,8 +8874,59 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 3200,
+			"name": "Reboot Station - Buff",
+			"type": 13,
+			"priority": 41,
+			"state": {
+				"0": 300001,
+				"1": 300001,
+				"2": 300003,
+				"3": 300003
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_checkpoint/Dz_dio_checkpoint_temp.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,200,0|540,400,540",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 99999,
+			"cd": [
+				4000
+			],
+			"activeShape": true,
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "30004;1",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 3201,
-			"name": "Barricade (Middle of certain tiles)",
+			"name": "Barricade",
 			"type": 32,
 			"priority": 99,
 			"state": {
@@ -8547,7 +8977,7 @@
 		},
 		{
 			"id": 3202,
-			"name": "Barricade (Between certain tiles)",
+			"name": "Barricade",
 			"type": 32,
 			"priority": 99,
 			"state": {
@@ -8649,7 +9079,7 @@
 		},
 		{
 			"id": 4001,
-			"name": "Dynamic Ladder",
+			"name": "Normal Red Ladder (Non-preset)",
 			"type": 40,
 			"priority": 61,
 			"state": {
@@ -8658,9 +9088,58 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Stair_01/Dz_dio_Stair_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|180,100,120",
+			"interactCollision": "0,0,0|180,100,200",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
-			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"severInteractCollision": "-300,300|300,300|300,-300|-300,-300",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "0",
+			"isInvisiableInGrass": 1,
+			"showInSlg": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"activeShape": false,
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4002,
+			"name": "Normal Blue Ladder (Non-preset)",
+			"type": 40,
+			"priority": 61,
+			"state": {
+				"0": 14,
+				"1": 99
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Stair_02/Dz_dio_Stair_02.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|180,100,200",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-300,300|300,300|300,-300|-300,-300",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -8698,7 +9177,7 @@
 		},
 		{
 			"id": 4101,
-			"name": "Preset Ladder",
+			"name": "Preset Ladder (Red)",
 			"type": 41,
 			"priority": 61,
 			"state": {
@@ -8712,7 +9191,7 @@
 			"blockCollision": "0,20,0|120,40,60",
 			"interactCollision": "0,200,0|160,400,160",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
-			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"severInteractCollision": "-200,200|200,200|200,-200|-200,-200",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -8724,6 +9203,60 @@
 				410101,
 				410102,
 				410103
+			],
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "11,22;11,23",
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4102,
+			"name": "Preset Ladder (Blue)",
+			"type": 41,
+			"priority": 61,
+			"state": {
+				"0": 99,
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_PreStair_02/Dz_dio_PreStair_02.prefab",
+			"blockCollision": "0,20,0|120,40,60",
+			"interactCollision": "0,200,0|160,400,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-200,200|200,200|200,-200|-200,-200",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"shapeIds": [
+				410200,
+				410201,
+				410202,
+				410203
 			],
 			"interactTokenState": {
 				"0": 0
@@ -9269,11 +9802,11 @@
 				"3": 100,
 				"4": 100
 			},
-			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_4-4.prefab",
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_4_4.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|720,100,720",
+			"interactCollision": "0,50,0|720,100,720",
 			"severBlockCollision": "0,0,0|0,0,0",
-			"severInteractCollision": "-360,360|360,360|360,-360|-360,-360",
+			"severInteractCollision": "-400,400|400,400|400,-400|-400,-400",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"useLimit": 1,
@@ -9330,7 +9863,7 @@
 			"blockCollision": "0,0,0|0,0,0",
 			"interactCollision": "0,50,90|720,100,360",
 			"severBlockCollision": "0,0,0|0,0,0",
-			"severInteractCollision": "-360,270|360,270|360,-90|-3600,-90",
+			"severInteractCollision": "-360,270|360,270|360,-90|-360,-90",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"useLimit": 1,
@@ -9615,7 +10148,7 @@
 			"blockCollision": "0,0,0|0,0,0",
 			"interactCollision": "-90,50,0|360,100,540",
 			"severBlockCollision": "0,0,0|0,0,0",
-			"severInteractCollision": "-270,270|90,270|90,-270|-270,-270",
+			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"useLimit": 1,
@@ -9828,17 +10361,245 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 4220,
+			"name": "Preset 1x5 Bushes",
+			"type": 42,
+			"priority": 27,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_1_5.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,900",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,450|90,450|90,-450|-90,-450",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				422000,
+				422001,
+				422002,
+				422003
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"param": "",
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4221,
+			"name": "Preset 1x6 Bushes",
+			"type": 42,
+			"priority": 27,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_1_6.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,-90|180,100,1080",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,450|90,450|90,-630|-90,-630",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				422100,
+				422101,
+				422102,
+				422103
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"param": "",
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4222,
+			"name": "Preset 4x2 Bushes",
+			"type": 42,
+			"priority": 27,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_2_4.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|360,100,720",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-360,360|360,360|360,-360|-360,-360",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				422200,
+				422201,
+				422202,
+				422203
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"param": "",
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4223,
+			"name": "Preset 1x9 Bushes",
+			"type": 42,
+			"priority": 27,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Pregrass_Z01/Dz_dio_Pregrass_1_9.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,1620",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,830|90,830|90,-830|-90,-830",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				422300,
+				422301,
+				422302,
+				422303
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"param": "",
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 4301,
 			"name": "Hidden Interactible",
 			"type": 43,
 			"priority": 99,
 			"state": {
-				"0": 58,
+				"0": 4301,
 				"1": 58,
 				"2": 203,
 				"3": 204
 			},
-			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Infiltration/Dz_dio_Infiltration.prefab",
 			"blockCollision": "0,0,0|90,100,80",
 			"interactCollision": "0,0,0|180,100,180",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
@@ -9856,12 +10617,8 @@
 				430102,
 				430103
 			],
-			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"0": 1,
-				"1": 0,
-				"2": 0,
-				"3": 0
+				"0": 0
 			},
 			"param": "3001;0",
 			"isInvisiableInGrass": 1,
@@ -9878,6 +10635,7 @@
 			"costType": 0,
 			"costId": [],
 			"costNum": [],
+			"isShowInteractToken": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -9885,7 +10643,7 @@
 		},
 		{
 			"id": 4401,
-			"name": "Teleport Point",
+			"name": "Relocation Point - Blue",
 			"type": 44,
 			"priority": 26,
 			"state": {
@@ -9915,7 +10673,223 @@
 			"interactTokenState": {
 				"0": 0
 			},
-			"param": "15000,0,7900;15000,300,5400",
+			"param": "180,0,0;360,0,0;1203",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4402,
+			"name": "Relocation Point - Red",
+			"type": 44,
+			"priority": 26,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"shapeIds": [
+				440200,
+				440201,
+				440202,
+				440203
+			],
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "180,0,0;360,0,0;1204",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4403,
+			"name": "Relocation Point - Green",
+			"type": 44,
+			"priority": 26,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"shapeIds": [
+				440300,
+				440301,
+				440302,
+				440303
+			],
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "180,0,0;360,0,0;1205",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4404,
+			"name": "Relocation Point - Blue (Tutorial)",
+			"type": 44,
+			"priority": 26,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"shapeIds": [
+				440400,
+				440401,
+				440402,
+				440403
+			],
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "180,0,0;360,0,0;1203",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4405,
+			"name": "Relocation Point - Green (Tutorial)",
+			"type": 44,
+			"priority": 26,
+			"state": {
+				"0": 100,
+				"1": 100,
+				"2": 100,
+				"3": 100,
+				"4": 100
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,50,0|180,100,180",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-90,90|90,90|90,-90|-90,-90",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				0
+			],
+			"activeShape": true,
+			"shapeIds": [
+				440500,
+				440501,
+				440502,
+				440503
+			],
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "180,0,0;360,0,0;1205",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 0,
@@ -9943,17 +10917,17 @@
 			"type": 45,
 			"priority": 39,
 			"state": {
-				"0": 901,
-				"1": 904,
-				"2": 902,
-				"3": 903,
-				"5": 98
+				"0": 908,
+				"1": 909,
+				"2": 909,
+				"3": 909,
+				"5": 909
 			},
-			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
-			"blockCollision": "0,0,0|360,1200,50",
-			"interactCollision": "0,0,0|360,100,250",
-			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
-			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_ExploreGate_Door_01/Dz_dio_ExploreGate_Door_01.prefab",
+			"blockCollision": "0,0,0|360,1200,15",
+			"interactCollision": "0,0,0|360,250,300",
+			"severBlockCollision": "-180,30|180,30|-180,-30|180,30",
+			"severInteractCollision": "-180,180|180,180|180,-180|-180,-180",
 			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
 			"backCollision": "-150,150|150,150|0,0|0,0",
 			"useLimit": 1,
@@ -9970,14 +10944,13 @@
 				450102,
 				450103
 			],
-			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"0": 1,
+				"0": 0,
 				"1": 0,
 				"2": 0,
 				"3": 0
 			},
-			"param": "1",
+			"param": "903742",
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -9991,9 +10964,241 @@
 			"costType": 0,
 			"costId": [],
 			"costNum": [],
+			"isShowInteractToken": 0,
 			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4502,
+			"name": "Room Exploration Door",
+			"type": 45,
+			"priority": 39,
+			"state": {
+				"0": 908,
+				"1": 909,
+				"2": 909,
+				"3": 909,
+				"5": 909
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_ExploreGate_Door_02/Dz_dio_ExploreGate_Door_02.prefab",
+			"blockCollision": "0,0,0|360,1200,60",
+			"interactCollision": "0,0,0|360,250,300",
+			"severBlockCollision": "-180,30|180,30|-180,-30|180,30",
+			"severInteractCollision": "-180,180|180,180|180,-180|-180,-180",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"activeShape": true,
+			"shapeIds": [
+				450200,
+				450201,
+				450202,
+				450203
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "903742",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4601,
+			"name": "Basic Supply Box",
+			"type": 46,
+			"priority": 99,
+			"state": {
+				"0": 201,
+				"1": 202,
+				"2": 203,
+				"3": 204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|200,100,200",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-360,360|360,360|360,-360|-360,-360",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				460100,
+				460101,
+				460102,
+				460103
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "18",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4602,
+			"name": "Standard Supply Box",
+			"type": 46,
+			"priority": 99,
+			"state": {
+				"0": 1105,
+				"1": 1102,
+				"2": 1103,
+				"3": 1104
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_B01/Dz_dio_Loot_B01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				460200,
+				460201,
+				460202,
+				460203
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "16",
+			"isInvisiableInGrass": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 4603,
+			"name": "Deluxe Supply Box",
+			"type": 46,
+			"priority": 99,
+			"state": {
+				"0": 1201,
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|190,100,180",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				460300,
+				460301,
+				460302,
+				460303
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "16",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
 			"frontCheck": 0,
 			"minigameCreate": []
 		},

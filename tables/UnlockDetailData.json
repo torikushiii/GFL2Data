@@ -241,6 +241,54 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 41,
+			"name": "Activate all nodes on Mechty's talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 42,
+			"name": "Activate all nodes on KSVec .45 ACP's talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 43,
+			"name": "Activate all nodes on Belka's talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 44,
+			"name": "Activate all nodes on Andoris' talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 45,
+			"name": "Activate all nodes on Springfield's talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 46,
+			"name": "Activate all nodes on Faye's talent tree",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 47,
+			"name": "",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 48,
+			"name": "",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
 			"id": 9999,
 			"name": "Reached Commander Level 30",
 			"des": "Unlock conditions for testing",
@@ -319,6 +367,30 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 26003,
+			"name": "",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 28008,
+			"name": "Dark Zone New Entrance",
+			"des": "Reach Commander Level <color=#f26c1c>21</color>",
+			"conditionNum": 21
+		},
+		{
+			"id": 28009,
+			"name": "Dark Zone Talent Entrance",
+			"des": "Complete any <color=#f26c1c>3</color> explorations in Boundary Breakthrough",
+			"conditionNum": 1
+		},
+		{
+			"id": 28010,
+			"name": "Dark Zone Mission Entrance",
+			"des": "Complete any <color=#f26c1c>4</color> explorations in Boundary Breakthrough",
+			"conditionNum": 1
+		},
+		{
 			"id": 29002,
 			"name": "Proficiency Boost",
 			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
@@ -351,8 +423,8 @@
 		{
 			"id": 34001,
 			"name": "Requirements for Unlocking the Battle Tower",
-			"des": "Commander Level reaches 35",
-			"conditionNum": 35
+			"des": "Commander Level reaches 45",
+			"conditionNum": 45
 		},
 		{
 			"id": 35001,
@@ -393,8 +465,8 @@
 		{
 			"id": 37001,
 			"name": "Roguelike Unlock Conditions",
-			"des": "Commander Level reaches 99",
-			"conditionNum": 99
+			"des": "Reach Commander Level 25",
+			"conditionNum": 25
 		},
 		{
 			"id": 38001,
@@ -425,6 +497,12 @@
 			"name": "[Dungeon Exploration Game Mode]",
 			"des": "Commander Level reaches 20",
 			"conditionNum": 20
+		},
+		{
+			"id": 40001,
+			"name": "Player Care",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
+			"conditionNum": 1
 		},
 		{
 			"id": 60000,
@@ -787,9 +865,39 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 60062,
+			"name": "Daydream",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Daydream</COLOR>",
+			"conditionNum": 1
+		},
+		{
 			"id": 60063,
 			"name": "Scylla",
 			"des": "Obtain <COLOR=#F26C1C>Scylla</COLOR> to unlock skin",
+			"conditionNum": 1
+		},
+		{
+			"id": 60064,
+			"name": "Banshee's Whisper",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Banshee's Whisper</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60065,
+			"name": "Sylvan Elf",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Sylvan Elf</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60066,
+			"name": "Aglaea",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Aglaea</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60067,
+			"name": "Radiance",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Radiance</COLOR>",
 			"conditionNum": 1
 		},
 		{
@@ -835,9 +943,51 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 60075,
+			"name": "Hülsenlosen 11",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Hülsenlosen 11</COLOR>",
+			"conditionNum": 1
+		},
+		{
 			"id": 60076,
 			"name": "416",
 			"des": "Obtain <COLOR=#F26C1C>416</COLOR> to unlock skin",
+			"conditionNum": 1
+		},
+		{
+			"id": 60077,
+			"name": "KSVec .45 ACP",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>KSVec .45 ACP</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60078,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60079,
+			"name": "Gewehr 28",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Gewehr 28</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60080,
+			"name": "G36K-KSK",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>G36K-KSK</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60081,
+			"name": "Springfield",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Springfield</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60082,
+			"name": "Skoda 75",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Skoda 75</COLOR>",
 			"conditionNum": 1
 		},
 		{
@@ -883,15 +1033,381 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 60090,
+			"name": "Retired Hülsenlosen 11",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Hülsenlosen 11</COLOR>",
+			"conditionNum": 1
+		},
+		{
 			"id": 60091,
 			"name": "Retired 416",
 			"des": "Obtain <COLOR=#F26C1C>Retired 416</COLOR> to unlock skin",
 			"conditionNum": 1
 		},
 		{
+			"id": 60092,
+			"name": "Retired KSVec .45 ACP",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired KSVec .45 ACP</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60093,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60094,
+			"name": "Retired Gewehr 28",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Gewehr 28</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60095,
+			"name": "Retired G36K-KSK",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired G36K-KSK</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60096,
+			"name": "Retired Springfield",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Springfield</COLOR>",
+			"conditionNum": 1
+		},
+		{
+			"id": 60097,
+			"name": "Retired Skoda 75",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Skoda 75</COLOR>",
+			"conditionNum": 1
+		},
+		{
 			"id": 60098,
 			"name": "Svarog",
 			"des": "Acquire <COLOR=#F26C1C>Svarog</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60099,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60100,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60101,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60102,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60103,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60104,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60105,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60106,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60107,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60108,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60109,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60110,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60111,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60112,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60113,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60114,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60115,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60116,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60117,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60118,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60119,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60120,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60121,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60122,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60123,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60124,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60125,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60126,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60127,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60128,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60129,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60130,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60131,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60132,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60133,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60134,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60135,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60136,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60137,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60138,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60139,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60140,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60141,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60142,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60143,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60144,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60145,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60146,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60147,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60148,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60149,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60150,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60151,
+			"name": "",
+			"des": "",
+			"conditionNum": 1
+		},
+		{
+			"id": 60152,
+			"name": "Hestia",
+			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Hestia</COLOR>",
 			"conditionNum": 1
 		},
 		{

@@ -763,36 +763,6 @@
 			"finishGroup": []
 		},
 		{
-			"id": 3101,
-			"condition": [
-				28000
-			],
-			"priority": 11,
-			"timing": 3101,
-			"finishGroup": [
-				3111
-			],
-			"isPause": true,
-			"isWasdBanned": true,
-			"clientCondition": [],
-			"finishCondition": 0
-		},
-		{
-			"id": 3111,
-			"condition": [
-				28000
-			],
-			"priority": 11,
-			"timing": 3111,
-			"finishGroup": [
-				3101
-			],
-			"isPause": true,
-			"isWasdBanned": true,
-			"clientCondition": [],
-			"finishCondition": 0
-		},
-		{
 			"id": 3201,
 			"condition": [
 				28000
@@ -1109,6 +1079,370 @@
 			"clientCondition": [],
 			"finishCondition": 0,
 			"finishGroup": []
+		},
+		{
+			"id": 9100,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9100,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9301,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9301,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9302,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9302,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9303,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9303,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9304,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9304,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9305,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9305,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9306,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9306,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9307,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9307,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9308,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9308,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9309,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9309,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9310,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9310,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9311,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9311,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9312,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9312,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9313,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9313,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9314,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9314,
+			"finishGroup": [
+				9321,
+				9326
+			],
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0
+		},
+		{
+			"id": 9315,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9315,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9316,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9316,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9317,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9317,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9318,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9318,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9319,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9319,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9320,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9320,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9321,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9321,
+			"finishGroup": [
+				9314,
+				9326
+			],
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0
+		},
+		{
+			"id": 9322,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9322,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9323,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9323,
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishGroup": []
+		},
+		{
+			"id": 9324,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9324,
+			"finishGroup": [
+				9325
+			],
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0
+		},
+		{
+			"id": 9325,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9325,
+			"finishGroup": [
+				9324
+			],
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0
+		},
+		{
+			"id": 9326,
+			"condition": [
+				28000
+			],
+			"priority": 10,
+			"timing": 9326,
+			"finishGroup": [
+				9321,
+				9314
+			],
+			"isPause": true,
+			"isWasdBanned": true,
+			"clientCondition": [],
+			"finishCondition": 0
 		}
 	]
 }

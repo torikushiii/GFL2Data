@@ -67,6 +67,42 @@
 			"activityType": 0
 		},
 		{
+			"id": 60403,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_4",
+			"activityType": 0
+		},
+		{
+			"id": 60504,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
+			"id": 60607,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 60704,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 60813,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_4",
+			"activityType": 1
+		},
+		{
+			"id": 60901,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"activityType": 0
+		},
+		{
 			"id": 68001,
 			"edType": 1,
 			"image": "Img_Activity_SignIn_Bg_5",

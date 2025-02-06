@@ -1,0 +1,292 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"npcId": 401,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 1002,
+			"npcId": 401,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1003,
+			"npcId": 401,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1004,
+			"npcId": 401,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1005,
+			"npcId": 401,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1006,
+			"npcId": 401,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1007,
+			"npcId": 401,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 1008,
+			"npcId": 401,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2001,
+			"npcId": 402,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 2002,
+			"npcId": 402,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2003,
+			"npcId": 402,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2004,
+			"npcId": 402,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2005,
+			"npcId": 402,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2006,
+			"npcId": 402,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2007,
+			"npcId": 402,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 2008,
+			"npcId": 402,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3001,
+			"npcId": 403,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 3002,
+			"npcId": 403,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3003,
+			"npcId": 403,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3004,
+			"npcId": 403,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3005,
+			"npcId": 403,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3006,
+			"npcId": 403,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3007,
+			"npcId": 403,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 3008,
+			"npcId": 403,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4001,
+			"npcId": 404,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 4002,
+			"npcId": 404,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4003,
+			"npcId": 404,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4004,
+			"npcId": 404,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4005,
+			"npcId": 404,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4006,
+			"npcId": 404,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4007,
+			"npcId": 404,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "",
+			"npcStory": ""
+		},
+		{
+			"id": 4008,
+			"npcId": 404,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "",
+			"npcStory": ""
+		}
+	]
+}

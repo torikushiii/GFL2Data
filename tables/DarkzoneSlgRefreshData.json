@@ -33,9 +33,9 @@
 			"roundType": 1,
 			"roundTime": 2,
 			"positionType": 1,
-			"monsterType": 2,
+			"monsterType": 1,
 			"monsterData": {
-				"11123": 1
+				"400050171": 1
 			},
 			"successEvent": 2,
 			"failEvent": 2,
@@ -46,15 +46,14 @@
 			"id": 200,
 			"roundType": 1,
 			"roundTime": 2,
-			"positionType": 2,
+			"positionType": 1,
 			"monsterType": 1,
 			"monsterData": {
-				"1010910": 1,
-				"12034710": 1
+				"400050211": 2
 			},
-			"successEvent": 1,
-			"failEvent": 1,
-			"roundCamp": 2,
+			"successEvent": 2,
+			"failEvent": 2,
+			"roundCamp": 1,
 			"roundTrigger": 4
 		},
 		{
@@ -70,6 +69,21 @@
 			"successEvent": 1,
 			"failEvent": 1,
 			"roundCamp": 2,
+			"roundTrigger": 4
+		},
+		{
+			"id": 300,
+			"roundType": 1,
+			"roundTime": 2,
+			"positionType": 1,
+			"monsterType": 1,
+			"monsterData": {
+				"400050171": 2,
+				"400050211": 2
+			},
+			"successEvent": 2,
+			"failEvent": 2,
+			"roundCamp": 1,
 			"roundTrigger": 4
 		},
 		{

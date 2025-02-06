@@ -190,6 +190,15 @@
 			"sort": 2013
 		},
 		{
+			"id": 23025,
+			"icon": "Img_Title_GunGet_Centaureissi",
+			"name": "Centaureissi - Joined",
+			"title": "Centaureissi - Joined",
+			"qualify": "Unlocked after obtaining Centaureissi",
+			"achievement": 46034,
+			"sort": 2014
+		},
+		{
 			"id": 23038,
 			"icon": "Img_Title_ActivityDaiyan",
 			"name": "Exotic Traveler",
@@ -224,6 +233,33 @@
 			"qualify": "Unlocked after obtaining Littara",
 			"achievement": 46039,
 			"sort": 2017
+		},
+		{
+			"id": 23042,
+			"icon": "Img_Title_ActivityCafe",
+			"name": "Coffee Hunter",
+			"title": "Coffee Hunter",
+			"qualify": "Unlocked after completing Cafe Assessment Missions for the first time",
+			"sort": 4002,
+			"achievement": 0
+		},
+		{
+			"id": 23043,
+			"icon": "Img_Title_GunGet_Lenna",
+			"name": "Lenna - Joined",
+			"title": "Lenna - Joined",
+			"qualify": "Unlocked after obtaining Lenna",
+			"sort": 2018,
+			"achievement": 0
+		},
+		{
+			"id": 23044,
+			"icon": "Img_Title_GunGet_Jiangyu",
+			"name": "Jiangyu - Joined",
+			"title": "Jiangyu - Joined",
+			"qualify": "Unlocked after obtaining Jiangyu",
+			"sort": 2019,
+			"achievement": 0
 		},
 		{
 			"id": 23045,
@@ -271,12 +307,48 @@
 			"achievement": 0
 		},
 		{
+			"id": 23050,
+			"icon": "Img_Title_HighPVP_Season4",
+			"name": "Potential Conflict",
+			"title": "Potential Conflict",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Potential Conflict.",
+			"sort": 1010,
+			"achievement": 0
+		},
+		{
+			"id": 23051,
+			"icon": "Img_Title_HighPVP_Season5",
+			"name": "Invasion Crisis",
+			"title": "Invasion Crisis",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Invasion Crisis",
+			"sort": 1011,
+			"achievement": 0
+		},
+		{
+			"id": 23052,
+			"icon": "Img_Title_HighPVP_Season6",
+			"name": "Order Construction",
+			"title": "Order Construction",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Order Construction",
+			"sort": 1012,
+			"achievement": 0
+		},
+		{
 			"id": 23053,
 			"icon": "Img_Title_Tutorial",
 			"name": "Hexagon Hunter",
 			"title": "Hexagon Hunter",
 			"qualify": "Unlocked upon completion of all categories of the Hunter Assessment.",
 			"sort": 2,
+			"achievement": 0
+		},
+		{
+			"id": 23054,
+			"icon": "Img_Title_GunGet_Dusevnyj",
+			"name": "Dushevnaya - Joined",
+			"title": "Dushevnaya - Joined",
+			"qualify": "Unlocked after obtaining Dushevnaya",
+			"sort": 2021,
 			"achievement": 0
 		},
 		{
@@ -300,8 +372,8 @@
 		{
 			"id": 23057,
 			"icon": "Img_Title_GunGet_Papasha",
-			"name": "Hello, Papasha.",
-			"title": "Hello, Papasha.",
+			"name": "Papasha - Joined",
+			"title": "Papasha - Joined",
 			"qualify": "Unlocked after obtaining Papasha",
 			"sort": 2024,
 			"achievement": 0
@@ -313,6 +385,78 @@
 			"title": "Lotta - Joined",
 			"qualify": "Unlocked after obtaining Lotta",
 			"sort": 2025,
+			"achievement": 0
+		},
+		{
+			"id": 23059,
+			"icon": "Img_Title_GunGet_Andoris",
+			"name": "Andoris - Joined",
+			"title": "Andoris - Joined",
+			"qualify": "Unlocked after obtaining Andoris",
+			"sort": 2026,
+			"achievement": 0
+		},
+		{
+			"id": 23060,
+			"icon": "Img_Title_GunGet_Fayee",
+			"name": "Faye - Joined",
+			"title": "Faye - Joined",
+			"qualify": "Unlocked after obtaining Faye",
+			"sort": 2027,
+			"achievement": 0
+		},
+		{
+			"id": 23061,
+			"icon": "Img_Title_GunGet_Vector",
+			"name": "Vector - Joined",
+			"title": "Vector - Joined",
+			"qualify": "Unlocked after obtaining Vector",
+			"sort": 2028,
+			"achievement": 0
+		},
+		{
+			"id": 23062,
+			"icon": "Img_Title_GunGet_Biyoca",
+			"name": "Belka - Joined",
+			"title": "Belka - Joined",
+			"qualify": "Unlocked after obtaining Belka",
+			"sort": 2029,
+			"achievement": 0
+		},
+		{
+			"id": 23064,
+			"icon": "Img_Title_GunGet_Springfield",
+			"name": "Springfield - Joined",
+			"title": "Springfield - Joined",
+			"qualify": "Unlocked after obtaining Springfield",
+			"sort": 2031,
+			"achievement": 0
+		},
+		{
+			"id": 23067,
+			"icon": "Img_Title_GunGet_Zhaohui",
+			"name": "Zhaohui - Joined",
+			"title": "Zhaohui - Joined",
+			"qualify": "Unlocked after obtaining Zhaohui",
+			"sort": 2034,
+			"achievement": 0
+		},
+		{
+			"id": 23068,
+			"icon": "Img_Title_GunGet_Mishty",
+			"name": "Mechty - Joined",
+			"title": "Mechty - Joined",
+			"qualify": "Unlocked after obtaining Mechty",
+			"sort": 2035,
+			"achievement": 0
+		},
+		{
+			"id": 23069,
+			"icon": "Img_Title_GunGet_Clukay",
+			"name": "Klukai - Joined",
+			"title": "Klukai - Joined",
+			"qualify": "Unlocked after obtaining Klukai",
+			"sort": 2036,
 			"achievement": 0
 		},
 		{
@@ -334,12 +478,39 @@
 			"achievement": 0
 		},
 		{
+			"id": 23072,
+			"icon": "Img_Title_Love_Zhaohui",
+			"name": "Corny Joke Enthusiast",
+			"title": "Corny Joke Enthusiast",
+			"qualify": "I appreciate the response to every single joke.\nProof of Affinity with a Doll. Unlocked via reaching Affinity Level 8 with Zhaohui.",
+			"sort": 3003,
+			"achievement": 0
+		},
+		{
 			"id": 23073,
 			"icon": "Img_Title_Love_Papasha",
 			"name": "Versatile Helper",
 			"title": "Versatile Helper",
 			"qualify": "If the Commander asks, nothing is too difficult.\nProof of Affinity with a Doll. Unlocked via reaching Affinity Level 8 with Papasha.",
 			"sort": 3004,
+			"achievement": 0
+		},
+		{
+			"id": 23092,
+			"icon": "Img_Title_HighPVP_Season7",
+			"name": "Crisis Infiltration",
+			"title": "Crisis Infiltration",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Crisis Infiltration",
+			"sort": 1013,
+			"achievement": 0
+		},
+		{
+			"id": 23093,
+			"icon": "Img_Title_Love_Clukay",
+			"name": "Confidant in Umbra",
+			"title": "Confidant in Umbra",
+			"qualify": "The rear seat on my bike will always be reserved for you. No need for the thanks.\nProof of affinity with a Doll, unlocked after reaching affinity level 8 with Klukai.",
+			"sort": 3005,
 			"achievement": 0
 		},
 		{
@@ -352,12 +523,111 @@
 			"achievement": 0
 		},
 		{
+			"id": 23095,
+			"icon": "Img_Title_Love_Mishty",
+			"name": "Connoisseur of Dreams",
+			"title": "Connoisseur of Dreams",
+			"qualify": "Just a little closer. I want to share with you, Commander... last night's dream.\nProof of affinity with a Doll, unlocked after reaching affinity level 8 with Mechty.",
+			"sort": 3007,
+			"achievement": 0
+		},
+		{
+			"id": 23096,
+			"icon": "Img_Title_Love_Daiyan",
+			"name": "A Tune Realized",
+			"title": "A Tune Realized",
+			"qualify": "Sentiments too shameful to speak out loud, all on display in music.\nProof of affinity with a Doll, unlocked after reaching affinity level 8 with Daiyan.",
+			"sort": 3008,
+			"achievement": 0
+		},
+		{
+			"id": 23097,
+			"icon": "Img_Title_Love_Vector",
+			"name": "Lord of an Hollow Garden",
+			"title": "Lord of an Hollow Garden",
+			"qualify": "An empty garden, brimming with life because of you.\nProof of affinity with a Doll, unlocked after reaching affinity level 8 with Vector.",
+			"sort": 3009,
+			"achievement": 0
+		},
+		{
 			"id": 23098,
 			"icon": "Img_Title_Love_Suomi",
 			"name": "Secret VIP Audience",
 			"title": "Secret VIP Audience",
 			"qualify": "You're the only one invited to this secret concert.\nA proof of of forming a covenant with a Doll, unlocked after reaching Affinity Level 8 with Suomi.",
-			"sort": 3007,
+			"sort": 3010,
+			"achievement": 0
+		},
+		{
+			"id": 23099,
+			"icon": "Img_Title_Love_Biyoca",
+			"name": "Special Squirrel Observer",
+			"title": "Special Squirrel Observer",
+			"qualify": "How many little tidbits just for you can you see through with closer observation?\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3011,
+			"achievement": 0
+		},
+		{
+			"id": 23100,
+			"icon": "Img_Title_Love_Macqiato",
+			"name": "Caramel Aficionado",
+			"title": "Caramel Aficionado",
+			"qualify": "A specially made caramel macchiato that Makiatto's only too happy to share with you—just don't expect her to be honest about it.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3012,
+			"achievement": 0
+		},
+		{
+			"id": 23101,
+			"icon": "Img_Title_Love_Andoris",
+			"name": "Refuge Like no Other",
+			"title": "Refuge Like no Other",
+			"qualify": "In the vast ocean of people, she only feels safe by your side.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3013,
+			"achievement": 0
+		},
+		{
+			"id": 23103,
+			"icon": "Img_Title_Love_Springfield",
+			"name": "Zucchero's Guest of Honor",
+			"title": "Zucchero's Guest of Honor",
+			"qualify": "Zucchero is always open to its friends, but only you are fit to gaze into its master's heart.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3014,
+			"achievement": 0
+		},
+		{
+			"id": 23104,
+			"icon": "Img_Title_Love_Groza",
+			"name": "Trustworthy Gourmet",
+			"title": "Trustworthy Gourmet",
+			"qualify": "You are her personal, private food critic.\nProof of affinity with a Doll. Unlocked via reaching Affinity Level 8.",
+			"sort": 3015,
+			"achievement": 0
+		},
+		{
+			"id": 23141,
+			"icon": "Img_Title_HighPVP_Season8",
+			"name": "Tempered Glory",
+			"title": "Tempered Glory",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Tempered Glory.",
+			"sort": 1014,
+			"achievement": 0
+		},
+		{
+			"id": 23142,
+			"icon": "Img_Title_HighPVP_Season9",
+			"name": "Labyrinth Confrontation",
+			"title": "Labyrinth Confrontation",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Labyrinth Confrontation.",
+			"sort": 1015,
+			"achievement": 0
+		},
+		{
+			"id": 23143,
+			"icon": "Img_Title_HighPVP_Season10",
+			"name": "Thunder Strike",
+			"title": "Thunder Strike",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Thunder Strike.",
+			"sort": 1016,
 			"achievement": 0
 		},
 		{

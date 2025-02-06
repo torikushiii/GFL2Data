@@ -600,6 +600,27 @@
 			"nowSkillGroupId3": []
 		},
 		{
+			"id": 102805,
+			"beforeSkillGroupId1": [
+				10280501,
+				102805011
+			],
+			"nowSkillGroupId1": [
+				10280511,
+				102805111
+			],
+			"beforeSkillGroupId2": [
+				10280502,
+				102805021
+			],
+			"nowSkillGroupId2": [
+				10280512,
+				102805121
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
 			"id": 102807,
 			"beforeSkillGroupId1": [
 				10280701
@@ -1012,6 +1033,65 @@
 			"nowSkillGroupId3": []
 		},
 		{
+			"id": 104405,
+			"beforeSkillGroupId1": [
+				10440501
+			],
+			"nowSkillGroupId1": [
+				10440511
+			],
+			"beforeSkillGroupId2": [
+				10440502
+			],
+			"nowSkillGroupId2": [
+				10440512
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
+			"id": 104507,
+			"beforeSkillGroupId1": [
+				10450701,
+				104507011
+			],
+			"nowSkillGroupId1": [
+				10450711,
+				104507111
+			],
+			"beforeSkillGroupId2": [
+				10450702,
+				104507021
+			],
+			"nowSkillGroupId2": [
+				10450712,
+				104507121
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
+			"id": 104704,
+			"beforeSkillGroupId1": [
+				10470401
+			],
+			"nowSkillGroupId1": [
+				10470411
+			],
+			"beforeSkillGroupId2": [
+				10470402
+			],
+			"nowSkillGroupId2": [
+				10470412
+			],
+			"beforeSkillGroupId3": [
+				10470403
+			],
+			"nowSkillGroupId3": [
+				10470413
+			]
+		},
+		{
 			"id": 105005,
 			"beforeSkillGroupId1": [
 				10500501
@@ -1043,6 +1123,40 @@
 			],
 			"nowSkillGroupId2": [
 				10500712
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
+			"id": 105103,
+			"beforeSkillGroupId1": [
+				10510501
+			],
+			"nowSkillGroupId1": [
+				10510511
+			],
+			"beforeSkillGroupId2": [
+				10510502
+			],
+			"nowSkillGroupId2": [
+				10510512
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
+			"id": 105104,
+			"beforeSkillGroupId1": [
+				10510701
+			],
+			"nowSkillGroupId1": [
+				10510711
+			],
+			"beforeSkillGroupId2": [
+				10510702
+			],
+			"nowSkillGroupId2": [
+				10510712
 			],
 			"beforeSkillGroupId3": [],
 			"nowSkillGroupId3": []

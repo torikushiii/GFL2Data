@@ -1,6 +1,26 @@
 {
 	"data": [
 		{
+			"id": 101,
+			"rewardGroup": 101,
+			"taskGroup": 101,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Zucchero Café Opening Preparation"
+		},
+		{
+			"id": 501,
+			"rewardGroup": 501,
+			"taskGroup": 501,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Special Commission"
+		},
+		{
 			"id": 511,
 			"rewardGroup": 511,
 			"taskGroup": 511,
@@ -8,8 +28,57 @@
 			"sceneGroup": 101,
 			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
 			"avatarGroup": 101,
-			"name": "Rhapsody Commission",
-			"unlockDayNum": 0
+			"name": "Rhapsody Commission"
+		},
+		{
+			"id": 701,
+			"rewardGroup": 701,
+			"taskGroup": 701,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Encampment Commission"
+		},
+		{
+			"id": 801,
+			"rewardGroup": 801,
+			"taskGroup": 801,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Echo Commission"
+		},
+		{
+			"id": 1001,
+			"rewardGroup": 1001,
+			"taskGroup": 1001,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Ops Target"
+		},
+		{
+			"id": 1201,
+			"rewardGroup": 1201,
+			"taskGroup": 1201,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Preparation for a Surprise"
+		},
+		{
+			"id": 1301,
+			"rewardGroup": 1301,
+			"taskGroup": 1301,
+			"pointIcon": "Img_GashaponPic_W_1",
+			"sceneGroup": 101,
+			"scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+			"avatarGroup": 101,
+			"name": "Assessment Prep"
 		}
 	]
 }
