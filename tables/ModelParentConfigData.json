@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"id": 6542,
+			"typeCode": 2,
+			"parentModel": "Bolidao_ReclamationExpertPhantomMix",
+			"prefabType": 1,
+			"figureType": 9,
+			"dissolveStartDelay": 60,
+			"dissolveDuration": 120,
+			"hurtPerformType": 0
+		},
+		{
 			"id": 6762,
 			"typeCode": 2,
 			"parentModel": "SK_Mopro_ProcessorMix",

@@ -42,7 +42,7 @@
 		{
 			"id": 14,
 			"level": 1,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				7680,
 				9599
@@ -55,7 +55,7 @@
 		{
 			"id": 15,
 			"level": 1,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				9600,
 				999999
@@ -107,7 +107,7 @@
 		{
 			"id": 24,
 			"level": 2,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				10000,
 				12499
@@ -120,7 +120,7 @@
 		{
 			"id": 25,
 			"level": 2,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				12500,
 				999999
@@ -172,7 +172,7 @@
 		{
 			"id": 34,
 			"level": 3,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				13040,
 				16299
@@ -185,7 +185,7 @@
 		{
 			"id": 35,
 			"level": 3,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				16300,
 				999999
@@ -237,7 +237,7 @@
 		{
 			"id": 44,
 			"level": 4,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				18960,
 				23699
@@ -250,7 +250,7 @@
 		{
 			"id": 45,
 			"level": 4,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				23700,
 				999999
@@ -302,7 +302,7 @@
 		{
 			"id": 54,
 			"level": 5,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				24320,
 				30399
@@ -315,7 +315,7 @@
 		{
 			"id": 55,
 			"level": 5,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				30400,
 				999999
@@ -367,7 +367,7 @@
 		{
 			"id": 64,
 			"level": 6,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				45600,
 				56999
@@ -380,7 +380,7 @@
 		{
 			"id": 65,
 			"level": 6,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				57000,
 				999999
@@ -432,7 +432,7 @@
 		{
 			"id": 74,
 			"level": 7,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				59280,
 				74099
@@ -445,7 +445,7 @@
 		{
 			"id": 75,
 			"level": 7,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				74100,
 				999999
@@ -497,7 +497,7 @@
 		{
 			"id": 84,
 			"level": 8,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				77040,
 				96299
@@ -510,7 +510,7 @@
 		{
 			"id": 85,
 			"level": 8,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				96300,
 				999999
@@ -562,7 +562,7 @@
 		{
 			"id": 94,
 			"level": 9,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				157280,
 				196599
@@ -575,7 +575,7 @@
 		{
 			"id": 95,
 			"level": 9,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				196600,
 				999999
@@ -627,7 +627,7 @@
 		{
 			"id": 104,
 			"level": 10,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				244000,
 				304999
@@ -640,7 +640,7 @@
 		{
 			"id": 105,
 			"level": 10,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				305000,
 				999999
@@ -692,7 +692,7 @@
 		{
 			"id": 1094,
 			"level": 109,
-			"name": "Excellent",
+			"name": "Outstanding",
 			"scoreSection": [
 				146400,
 				182999
@@ -705,7 +705,7 @@
 		{
 			"id": 1095,
 			"level": 109,
-			"name": "Outstanding",
+			"name": "Excellent",
 			"scoreSection": [
 				183000,
 				999999

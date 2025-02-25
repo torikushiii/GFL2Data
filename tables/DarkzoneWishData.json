@@ -1,34 +1,9 @@
 {
 	"data": [
 		{
-			"id": 150001,
-			"name": "Type I Set Carrier Card - Short Wave",
-			"des": "",
-			"type": 3,
-			"effectType": [
-				101,
-				102,
-				103,
-				1201,
-				1301,
-				1101,
-				801,
-				901,
-				301
-			],
-			"effectTypeDes": "",
-			"weightType": 4,
-			"weight": {
-				"1": 367,
-				"3": 367,
-				"8": 367
-			},
-			"weightTypeShow": {}
-		},
-		{
 			"id": 150002,
 			"name": "Type I Set Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Attachments with Coordinated Defense, Battlefield Rescue, and Heavy Rescue attributes have increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -41,7 +16,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"1": 700,
@@ -55,7 +30,7 @@
 		{
 			"id": 150003,
 			"name": "Type I Set Carrier Card - Long Wave",
-			"des": "",
+			"des": "Attachments with Coordinated Defense, Battlefield Rescue, and Heavy Rescue attributes have greatly increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -68,7 +43,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"1": 1000,
@@ -82,7 +57,7 @@
 		{
 			"id": 150004,
 			"name": "Type II Set Carrier Card - Short Wave",
-			"des": "",
+			"des": "Attachments with Poised Defense, Alerted Rescue, and Explosive Raid attributes have slightly increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -95,7 +70,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"2": 367,
@@ -109,7 +84,7 @@
 		{
 			"id": 150005,
 			"name": "Type II Set Carrier Card - Medium Wave",
-			"des": "",
+			"des": "Attachments with Poised Defense, Alerted Rescue, and Explosive Raid attributes have increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -122,7 +97,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"2": 700,
@@ -134,7 +109,7 @@
 		{
 			"id": 150006,
 			"name": "Type II Set Carrier Card - Long wave",
-			"des": "",
+			"des": "Attachments with Poised Defense, Alerted Rescue, and Explosive Raid attributes have greatly increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -147,7 +122,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"2": 1000,
@@ -161,7 +136,7 @@
 		{
 			"id": 150007,
 			"name": "Type III Set Carrier Card - Short Wave",
-			"des": "",
+			"des": "Attachments with Buckshot Effect, Confectance Fusion, and Stability Suppression attributes have slightly increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -174,7 +149,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"5": 367,
@@ -188,7 +163,7 @@
 		{
 			"id": 150008,
 			"name": "Type III Set Carrier Card - Medium Wave",
-			"des": "",
+			"des": "Attachments with Buckshot Effect, Confectance Fusion, and Stability Suppression attributes have increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -201,7 +176,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"5": 700,
@@ -215,7 +190,7 @@
 		{
 			"id": 150009,
 			"name": "Type III Set Carrier Card - Long Wave",
-			"des": "",
+			"des": "Attachments with Buckshot Effect, Confectance Fusion, and Stability Suppression attributes have greatly increased drop rates",
 			"type": 3,
 			"effectType": [
 				101,
@@ -228,7 +203,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Set",
 			"weightType": 4,
 			"weight": {
 				"5": 1000,
@@ -240,7 +215,7 @@
 		{
 			"id": 150010,
 			"name": "Type I Component Carrier Card - Short Wave",
-			"des": "",
+			"des": "Foregrip, Bipod, Linked Module, and Material Coating have slightly increased drop rates",
 			"type": 4,
 			"effectType": [
 				1201,
@@ -248,7 +223,7 @@
 				901,
 				1001
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"3": 367,
@@ -259,7 +234,7 @@
 		{
 			"id": 150011,
 			"name": "Type I Component Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Foregrip, Bipod, Linked Module, and Material Coating have increased drop rates",
 			"type": 4,
 			"effectType": [
 				1201,
@@ -267,7 +242,7 @@
 				901,
 				1001
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"3": 700,
@@ -278,7 +253,7 @@
 		{
 			"id": 150012,
 			"name": "Type I Component Loadout Card - Long Wave",
-			"des": "",
+			"des": "Foregrip, Bipod, Linked Module, and Material Coating have greatly increased drop rates",
 			"type": 4,
 			"effectType": [
 				1201,
@@ -286,7 +261,7 @@
 				901,
 				1001
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"3": 1700,
@@ -297,7 +272,7 @@
 		{
 			"id": 150013,
 			"name": "Type II Component Loadout Card - Short Wave",
-			"des": "",
+			"des": "Sight and Engineering Chip have slightly increased drop rates",
 			"type": 4,
 			"effectType": [
 				101,
@@ -305,7 +280,7 @@
 				103,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"2": 367,
@@ -316,7 +291,7 @@
 		{
 			"id": 150014,
 			"name": "Type II Component Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Sight and Engineering Chip have increased drop rates",
 			"type": 4,
 			"effectType": [
 				101,
@@ -324,7 +299,7 @@
 				103,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"2": 700,
@@ -335,7 +310,7 @@
 		{
 			"id": 150015,
 			"name": "Type II Component Loadout Card - Long Wave",
-			"des": "",
+			"des": "Sight and Engineering Chip have greatly increased drop rates",
 			"type": 4,
 			"effectType": [
 				101,
@@ -343,7 +318,7 @@
 				103,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"2": 1700,
@@ -354,7 +329,7 @@
 		{
 			"id": 150016,
 			"name": "Type III Component Loadout Card - Short Wave",
-			"des": "",
+			"des": "Muzzle Device, Material Coating, and Engineering Chip have slightly increased drop rates",
 			"type": 4,
 			"effectType": [
 				201,
@@ -364,7 +339,7 @@
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"1": 367,
@@ -376,7 +351,7 @@
 		{
 			"id": 150017,
 			"name": "Type III Component Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Muzzle Device, Material Coating, and Engineering Chip have increased drop rates",
 			"type": 4,
 			"effectType": [
 				201,
@@ -386,7 +361,7 @@
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"1": 700,
@@ -398,7 +373,7 @@
 		{
 			"id": 150018,
 			"name": "Type III Component Carrier Card - Long Wave",
-			"des": "",
+			"des": "Muzzle Device, Material Coating, and Engineering Chip have greatly increased drop rates",
 			"type": 4,
 			"effectType": [
 				201,
@@ -408,7 +383,7 @@
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Component",
 			"weightType": 1,
 			"weight": {
 				"1": 1700,
@@ -420,7 +395,7 @@
 		{
 			"id": 150019,
 			"name": "Type I Function Loadout Card - Short Wave",
-			"des": "",
+			"des": "Assembled Attachments have slightly increased drop rates",
 			"type": 2,
 			"effectType": [
 				101,
@@ -433,7 +408,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"3": 350
@@ -443,7 +418,7 @@
 		{
 			"id": 150020,
 			"name": "Type I Function Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Assembled Attachments have increased drop rates",
 			"type": 2,
 			"effectType": [
 				101,
@@ -456,7 +431,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"3": 600
@@ -466,7 +441,7 @@
 		{
 			"id": 150021,
 			"name": "Type I Function Loadout Card - Long Wave",
-			"des": "",
+			"des": "Assembled Attachments have greatly increased drop rates",
 			"type": 2,
 			"effectType": [
 				101,
@@ -479,7 +454,7 @@
 				901,
 				301
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"3": 1100
@@ -489,13 +464,13 @@
 		{
 			"id": 150022,
 			"name": "Type II Function Loadout Card - Short Wave",
-			"des": "",
+			"des": "Infinite Attachments have slightly increased drop rates",
 			"type": 2,
 			"effectType": [
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"2": 400
@@ -505,13 +480,13 @@
 		{
 			"id": 150023,
 			"name": "Type II Function Loadout Card - Medium Wave",
-			"des": "",
+			"des": "Infinite Attachments have increased drop rates",
 			"type": 2,
 			"effectType": [
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"2": 650
@@ -521,13 +496,13 @@
 		{
 			"id": 150024,
 			"name": "Type II Function Carrier Card - Long Wave",
-			"des": "",
+			"des": "Infinite Attachments have greatly increased drop rates",
 			"type": 2,
 			"effectType": [
 				1001,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"2": 1067
@@ -537,7 +512,7 @@
 		{
 			"id": 150025,
 			"name": "Type III Function Loadout Card - Short Wave",
-			"des": "",
+			"des": "Specialized Attachments have slightly increased drop rates",
 			"type": 2,
 			"effectType": [
 				201,
@@ -546,7 +521,7 @@
 				204,
 				401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"4": 371
@@ -556,7 +531,7 @@
 		{
 			"id": 150026,
 			"name": "Type III Function Carrier Card - Medium Wave",
-			"des": "",
+			"des": "Specialized Attachments have increased drop rates",
 			"type": 2,
 			"effectType": [
 				201,
@@ -565,7 +540,7 @@
 				204,
 				401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"4": 633
@@ -575,7 +550,7 @@
 		{
 			"id": 150027,
 			"name": "Type III Function Loadout Card - Long Wave",
-			"des": "",
+			"des": "Specialized Attachments have greatly increased drop rates",
 			"type": 2,
 			"effectType": [
 				201,
@@ -584,7 +559,7 @@
 				204,
 				401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Type",
 			"weightType": 2,
 			"weight": {
 				"4": 1000
@@ -594,7 +569,7 @@
 		{
 			"id": 150028,
 			"name": "Perfect Color Carrier Card - Short Wave",
-			"des": "",
+			"des": "Normal and Perfect Quality Attachments have slightly increased drop rates",
 			"type": 1,
 			"effectType": [
 				101,
@@ -614,7 +589,7 @@
 				1301,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Quality",
 			"weightType": 3,
 			"weight": {
 				"2": 100,
@@ -625,7 +600,7 @@
 		{
 			"id": 150029,
 			"name": "Perfect Color Carrier Card - Medium Wave",
-			"des": "",
+			"des": "Normal and Perfect Quality Attachments have increased drop rates",
 			"type": 1,
 			"effectType": [
 				101,
@@ -645,7 +620,7 @@
 				1301,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Quality",
 			"weightType": 3,
 			"weight": {
 				"2": 150,
@@ -656,7 +631,7 @@
 		{
 			"id": 150030,
 			"name": "Perfect Quality Carrier Card - Long Wave",
-			"des": "",
+			"des": "Normal and Perfect Quality Attachments have greatly increased drop rates",
 			"type": 1,
 			"effectType": [
 				101,
@@ -676,7 +651,7 @@
 				1301,
 				1401
 			],
-			"effectTypeDes": "",
+			"effectTypeDes": "Designate Quality",
 			"weightType": 3,
 			"weight": {
 				"2": 225,

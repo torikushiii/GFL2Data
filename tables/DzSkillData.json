@@ -18,40 +18,40 @@
 		},
 		{
 			"id": 3,
-			"name": "",
-			"description": "",
+			"name": "Swift",
+			"description": "Increase movement speed by 30%",
 			"icon": 2,
 			"effectId": 10001,
 			"battleSkillCe": 500
 		},
 		{
 			"id": 4,
-			"name": "",
-			"description": "",
+			"name": "Eagle Eye",
+			"description": "Increase field of vision by 20%",
 			"icon": 2,
 			"effectId": 10002,
 			"battleSkillCe": 500
 		},
 		{
 			"id": 5,
-			"name": "",
-			"description": "",
+			"name": "Sniper",
+			"description": "Increase range by 200 yards",
 			"icon": 2,
 			"effectId": 10003,
 			"battleSkillCe": 500
 		},
 		{
 			"id": 6,
-			"name": "",
-			"description": "",
+			"name": "Root Nature",
+			"description": "Increase max stamina by 20",
 			"icon": 2,
 			"effectId": 10004,
 			"battleSkillCe": 500
 		},
 		{
 			"id": 7,
-			"name": "",
-			"description": "",
+			"name": "Still Water",
+			"description": "Increase stamina regeneration by 2 points",
 			"icon": 2,
 			"effectId": 10005,
 			"battleSkillCe": 500

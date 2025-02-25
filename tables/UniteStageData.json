@@ -1329,6 +1329,314 @@
 			"stage": 282601,
 			"stagePic": "1",
 			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9001,
+			"stage": 64001,
+			"unlockCondition": 0,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9002,
+			"unlockCondition": 9001,
+			"stage": 64002,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9003,
+			"unlockCondition": 9002,
+			"stage": 64003,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9004,
+			"unlockCondition": 9003,
+			"stage": 64004,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9005,
+			"unlockCondition": 9004,
+			"stage": 64005,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9006,
+			"unlockCondition": 9005,
+			"stage": 64006,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9007,
+			"unlockCondition": 9006,
+			"stage": 64007,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9008,
+			"unlockCondition": 9007,
+			"stage": 64008,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9009,
+			"unlockCondition": 9008,
+			"stage": 64009,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9010,
+			"unlockCondition": 9009,
+			"stage": 64010,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9011,
+			"unlockCondition": 9010,
+			"stage": 640101,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9012,
+			"stage": 64011,
+			"unlockCondition": 0,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9013,
+			"unlockCondition": 9012,
+			"stage": 64012,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9014,
+			"unlockCondition": 9013,
+			"stage": 64013,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9015,
+			"unlockCondition": 9014,
+			"stage": 64014,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9016,
+			"unlockCondition": 9015,
+			"stage": 64015,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9017,
+			"unlockCondition": 9016,
+			"stage": 64016,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9018,
+			"unlockCondition": 9017,
+			"stage": 64017,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9019,
+			"unlockCondition": 9018,
+			"stage": 64018,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9020,
+			"unlockCondition": 9019,
+			"stage": 64019,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9021,
+			"unlockCondition": 9020,
+			"stage": 64020,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9022,
+			"unlockCondition": 9021,
+			"stage": 640201,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9023,
+			"stage": 64021,
+			"unlockCondition": 0,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9024,
+			"unlockCondition": 9023,
+			"stage": 64022,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9025,
+			"unlockCondition": 9024,
+			"stage": 64023,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9026,
+			"unlockCondition": 9025,
+			"stage": 64024,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9027,
+			"unlockCondition": 9026,
+			"stage": 64025,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9028,
+			"unlockCondition": 9027,
+			"stage": 64026,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9029,
+			"unlockCondition": 9028,
+			"stage": 64027,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9030,
+			"unlockCondition": 9029,
+			"stage": 64028,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9031,
+			"unlockCondition": 9030,
+			"stage": 64029,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9032,
+			"unlockCondition": 9031,
+			"stage": 64030,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9033,
+			"unlockCondition": 9032,
+			"stage": 640301,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9034,
+			"stage": 64031,
+			"unlockCondition": 0,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9035,
+			"unlockCondition": 9034,
+			"stage": 64032,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9036,
+			"unlockCondition": 9035,
+			"stage": 64033,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9037,
+			"unlockCondition": 9036,
+			"stage": 64034,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9038,
+			"unlockCondition": 9037,
+			"stage": 64035,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9039,
+			"unlockCondition": 9038,
+			"stage": 64036,
+			"stagePic": "",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9040,
+			"unlockCondition": 9039,
+			"stage": 64037,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9041,
+			"unlockCondition": 9040,
+			"stage": 64038,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9042,
+			"unlockCondition": 9041,
+			"stage": 64039,
+			"stagePic": "1",
+			"bossIcon": ""
+		},
+		{
+			"programmeId": 9043,
+			"unlockCondition": 9042,
+			"stage": 64040,
+			"stagePic": "1",
+			"bossIcon": "1"
+		},
+		{
+			"programmeId": 9044,
+			"unlockCondition": 9043,
+			"stage": 640401,
+			"stagePic": "1",
+			"bossIcon": "1"
 		}
 	]
 }

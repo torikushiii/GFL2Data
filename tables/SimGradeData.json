@@ -50,7 +50,7 @@
 			"shopMax": 2,
 			"dailyLimit": 2,
 			"uavMax": 3,
-			"gradeName": "A",
+			"gradeName": "B",
 			"packageLimit": 9999
 		},
 		{
@@ -181,7 +181,7 @@
 			"shopMax": 3,
 			"dailyLimit": 2,
 			"uavMax": 3,
-			"gradeName": "A",
+			"gradeName": "B",
 			"packageLimit": 9999
 		},
 		{

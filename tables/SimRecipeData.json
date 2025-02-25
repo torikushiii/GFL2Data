@@ -15,7 +15,7 @@
 		{
 			"recipeId": 10102,
 			"menuGroup": 1013,
-			"recipeName": "Coconut Snow Mountain",
+			"recipeName": "Coconut Snow Top",
 			"recipeIcon": "Item_Icon_ActivityCafe_Coconut",
 			"itemMaterial": 170016,
 			"materialNum": 1,
@@ -63,7 +63,7 @@
 		{
 			"recipeId": 10106,
 			"menuGroup": 1013,
-			"recipeName": "Beloved Makiatto",
+			"recipeName": "Beloved Macchiato",
 			"recipeIcon": "Item_Icon_ActivityCafe_Macchiato",
 			"itemMaterial": 170020,
 			"materialNum": 1,

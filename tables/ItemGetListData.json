@@ -2808,6 +2808,13 @@
 			"jumpCode": "1097"
 		},
 		{
+			"id": 990001,
+			"type": 99,
+			"title": "Obtained through Crafting",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
 			"id": 990002,
 			"type": 99,
 			"title": "Available in the Shop.",

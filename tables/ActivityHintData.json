@@ -4889,7 +4889,7 @@
 				231
 			],
 			"textEnums": "271121",
-			"text": "Zucchero Café officially opens"
+			"text": "Welcome to Zucchero Café"
 		},
 		{
 			"id": 104005,
@@ -5042,7 +5042,7 @@
 				101
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 105014,
@@ -5218,7 +5218,7 @@
 				101
 			],
 			"textEnums": "271123",
-			"text": "Customer Traffic"
+			"text": "Customer(s)"
 		},
 		{
 			"id": 106009,
@@ -5394,7 +5394,7 @@
 				101
 			],
 			"textEnums": "271139",
-			"text": "Combine 3 notes of the same shape and color to obtain a note of the same color and of the next highest level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of the next highest level and 1 additional note."
+			"text": "Combine 3 notes of the same shape and color to obtain a note of the same color and of a higher level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of a higher level and 1 additional note."
 		},
 		{
 			"id": 106025,
@@ -5427,7 +5427,7 @@
 				101
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches its highest level, extra Highly Rated Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 106028,
@@ -5713,7 +5713,7 @@
 				101
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 106054,
@@ -5900,7 +5900,7 @@
 				101
 			],
 			"textEnums": "271193",
-			"text": "The Beverage Counter lacks ingredients. Please replenish your supplies through [Mellow Commission]."
+			"text": "The Beverage Sales lacks ingredients. Please replenish your supplies through [Mellow Commission]."
 		},
 		{
 			"id": 106073,
@@ -5966,7 +5966,7 @@
 				101
 			],
 			"textEnums": "271199",
-			"text": "Customer Traffic +{0}"
+			"text": "Customer(s) +{0}"
 		},
 		{
 			"id": 106079,
@@ -6120,7 +6120,7 @@
 				101
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches its highest level, extra Highly Rated Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 106093,
@@ -6175,7 +6175,7 @@
 				101
 			],
 			"textEnums": "23003006",
-			"text": "Suggestion Box is full, please review the feedback"
+			"text": "Feedback Box is full, please review the feedback"
 		},
 		{
 			"id": 107001,
@@ -7858,7 +7858,7 @@
 				101
 			],
 			"textEnums": "271315",
-			"text": "The number of <color=#F26C1C>[Coconut Snow Mountain Pack]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
+			"text": "The number of <color=#F26C1C>[Coconut Snow Top Pack]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
 		},
 		{
 			"id": 107154,
@@ -7869,7 +7869,7 @@
 				101
 			],
 			"textEnums": "271316",
-			"text": "The number of <color=#F26C1C>[Shiny Night Packs]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
+			"text": "The number of <color=#F26C1C>[Sparkling Night Packs]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
 		},
 		{
 			"id": 107155,
@@ -8184,7 +8184,7 @@
 				231
 			],
 			"textEnums": "271121",
-			"text": "Zucchero Café officially opens"
+			"text": "Welcome to Zucchero Café"
 		},
 		{
 			"id": 109005,
@@ -8337,7 +8337,7 @@
 				102
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 110014,
@@ -8513,7 +8513,7 @@
 				102
 			],
 			"textEnums": "271123",
-			"text": "Customer Traffic"
+			"text": "Customer(s)"
 		},
 		{
 			"id": 111009,
@@ -8689,7 +8689,7 @@
 				102
 			],
 			"textEnums": "271139",
-			"text": "Combine 3 notes of the same shape and color to obtain a note of the same color and of the next highest level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of the next highest level and 1 additional note."
+			"text": "Combine 3 notes of the same shape and color to obtain a note of the same color and of a higher level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of a higher level and 1 additional note."
 		},
 		{
 			"id": 111025,
@@ -8722,7 +8722,7 @@
 				102
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches its highest level, extra Highly Rated Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 111028,
@@ -9008,7 +9008,7 @@
 				102
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 111054,
@@ -9195,7 +9195,7 @@
 				102
 			],
 			"textEnums": "271193",
-			"text": "The Beverage Counter lacks ingredients. Please replenish your supplies through [Mellow Commission]."
+			"text": "The Beverage Sales lacks ingredients. Please replenish your supplies through [Mellow Commission]."
 		},
 		{
 			"id": 111073,
@@ -9261,7 +9261,7 @@
 				102
 			],
 			"textEnums": "271199",
-			"text": "Customer Traffic +{0}"
+			"text": "Customer(s) +{0}"
 		},
 		{
 			"id": 111079,
@@ -9415,7 +9415,7 @@
 				102
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches its highest level, extra Highly Rated Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 111093,
@@ -16563,7 +16563,7 @@
 				201
 			],
 			"textEnums": "23003012",
-			"text": "Customer Traffic"
+			"text": "Customer(s)"
 		},
 		{
 			"id": 180007,
@@ -16574,7 +16574,7 @@
 				201
 			],
 			"textEnums": "23003013",
-			"text": "Currently Being Sold"
+			"text": "On Sale"
 		},
 		{
 			"id": 180008,
@@ -16629,7 +16629,7 @@
 				201
 			],
 			"textEnums": "23003018",
-			"text": "Sell Profit"
+			"text": "Sale Profit"
 		},
 		{
 			"id": 180013,
@@ -16673,7 +16673,7 @@
 				201
 			],
 			"textEnums": "23003022",
-			"text": "Sell Period"
+			"text": "Sale Period"
 		},
 		{
 			"id": 180017,
@@ -16794,7 +16794,7 @@
 				201
 			],
 			"textEnums": "23003033",
-			"text": "{0} Mins/cup"
+			"text": "{0} Min/Cup"
 		},
 		{
 			"id": 180028,
@@ -16933,7 +16933,7 @@
 				231
 			],
 			"textEnums": "271121",
-			"text": "Zucchero Café officially opens"
+			"text": "Welcome to Zucchero Café"
 		},
 		{
 			"id": 180041,
@@ -17086,7 +17086,7 @@
 				201
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 180055,
@@ -17262,7 +17262,7 @@
 				201
 			],
 			"textEnums": "271123",
-			"text": "Customer Traffic"
+			"text": "Customer(s)"
 		},
 		{
 			"id": 180071,
@@ -17438,7 +17438,7 @@
 				201
 			],
 			"textEnums": "271139",
-			"text": "Combine 3 notes of the same shape and color to obtain 1 note of the same color and of the next highest level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of the next highest level and 1 additional note."
+			"text": "Combine 3 notes of the same shape and color to obtain 1 note of the same color and of a higher level.\nCombine 6 notes of the same shape and color to obtain 2 notes of the same color and of a higher level and 1 additional note."
 		},
 		{
 			"id": 180087,
@@ -17471,7 +17471,7 @@
 				201
 			],
 			"textEnums": "271142",
-			"text": "When the Shop Rating reaches its maximum, top-ranked rating stickers can be exchanged for Sardis Gold, Battlefield Reports and Analysis Blueprints until the maximum exchange limit is reached."
+			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 180090,
@@ -17757,7 +17757,7 @@
 				201
 			],
 			"textEnums": "271168",
-			"text": "Zucchero Main Page"
+			"text": "Main Page"
 		},
 		{
 			"id": 180116,
@@ -18010,7 +18010,7 @@
 				201
 			],
 			"textEnums": "271199",
-			"text": "Customer Traffic +{0}"
+			"text": "Customer(s) +{0}"
 		},
 		{
 			"id": 180139,
@@ -18164,7 +18164,7 @@
 				201
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches its highest level, the Highly Rated Note with the highest rating will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 180153,
@@ -18296,7 +18296,7 @@
 				201
 			],
 			"textEnums": "23003104",
-			"text": "Maximum inventory reached"
+			"text": "Inventory is full"
 		},
 		{
 			"id": 180165,

@@ -875,6 +875,17 @@
 			"isTpsShootCamera": 0
 		},
 		{
+			"id": 6269905,
+			"name": "OnNemerteaSkill",
+			"type": 20,
+			"prefab": [
+				"OnNemerteaSkill"
+			],
+			"tacticReplace": 0,
+			"batchTypeId": 0,
+			"isTpsShootCamera": 0
+		},
+		{
 			"id": 6340211,
 			"name": "OnTX_AegisArtillerySWAPSkill",
 			"type": 20,

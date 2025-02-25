@@ -2,18 +2,18 @@
 	"data": [
 		{
 			"id": 160001,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Precision Strike IV",
 			"jumpId": 10101,
 			"recipeType": 4,
-			"recipeDes": "",
+			"recipeDes": "Set Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe1",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type I Set Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Coordinated Defense, Battlefield Rescue, and Heavy Rescue [Sets] dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -29,18 +29,18 @@
 		},
 		{
 			"id": 160002,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Tough Enemies II",
 			"jumpId": 10102,
 			"recipeType": 4,
-			"recipeDes": "",
+			"recipeDes": "Set Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe2",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type II Set Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Poised Defense, Alerted Rescue, and Explosive Raid [Sets] dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -56,18 +56,18 @@
 		},
 		{
 			"id": 160003,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Tough Enemies III",
 			"jumpId": 10103,
 			"recipeType": 4,
-			"recipeDes": "",
+			"recipeDes": "Set Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe3",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type III Set Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Buckshot Effect, Confectance Fusion, and Stability Suppression [Sets] dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140002": 3,
@@ -83,18 +83,18 @@
 		},
 		{
 			"id": 160004,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Precision Strike II",
 			"jumpId": 10104,
 			"recipeType": 1,
-			"recipeDes": "",
+			"recipeDes": "Component Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe4",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type I Component Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Foregrip, Bipod, Linked Module, and Material Coating dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -110,18 +110,18 @@
 		},
 		{
 			"id": 160005,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Precision Strike III",
 			"jumpId": 10105,
 			"recipeType": 1,
-			"recipeDes": "",
+			"recipeDes": "Component Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe5",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type II Component Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Sight and Engineering Chip dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140002": 3,
@@ -137,18 +137,18 @@
 		},
 		{
 			"id": 160006,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Mobile Strike III",
 			"jumpId": 10106,
 			"recipeType": 1,
-			"recipeDes": "",
+			"recipeDes": "Component Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe6",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type III Component Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Muzzle Device, Material Coating, and Engineering Chip dropping during Normal and Advanced Bounty after usage.",
 			"material": {
 				"140001": 3,
 				"140002": 3,
@@ -164,18 +164,18 @@
 		},
 		{
 			"id": 160007,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Multi-Dimensional Collaboration III",
 			"jumpId": 10107,
 			"recipeType": 2,
-			"recipeDes": "",
+			"recipeDes": "Function Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe7",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type I Function Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Assembled Attachments dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -191,18 +191,18 @@
 		},
 		{
 			"id": 160008,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Multi-Dimensional Collaboration II",
 			"jumpId": 10108,
 			"recipeType": 2,
-			"recipeDes": "",
+			"recipeDes": "Function Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe8",
 			"createShow": [
 				5,
 				15,
 				80
 			],
-			"createTitle": "",
-			"createDes": "",
+			"createTitle": "Type II Function Storage Card",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Infinite Attachments dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140002": 3,
@@ -218,16 +218,16 @@
 		},
 		{
 			"id": 160010,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Tough Enemies IV",
 			"jumpId": 10110,
 			"recipeType": 3,
-			"recipeDes": "",
+			"recipeDes": "Quality Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe10",
 			"createShow": [
 				100
 			],
 			"createTitle": "Perfect Color Carrier Card - Short Wave",
-			"createDes": "",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Normal and Perfect Quality Attachments dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -241,16 +241,16 @@
 		},
 		{
 			"id": 160011,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Multi-Dimensional Collaboration IV",
 			"jumpId": 10111,
 			"recipeType": 3,
-			"recipeDes": "",
+			"recipeDes": "Quality Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe11",
 			"createShow": [
 				100
 			],
 			"createTitle": "Perfect Color Carrier Card - Medium Wave",
-			"createDes": "",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Normal and Perfect Quality Attachments dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,
@@ -264,16 +264,16 @@
 		},
 		{
 			"id": 160012,
-			"unlockDes": "",
+			"unlockDes": "Unlock after completing Advanced Mission - Multi-Dimensional Collaboration IV",
 			"jumpId": 10111,
 			"recipeType": 3,
-			"recipeDes": "",
+			"recipeDes": "Quality Storage Cards",
 			"recipeIcon": "Item_Icon_Wish_Recipe12",
 			"createShow": [
 				100
 			],
 			"createTitle": "Perfect Quality Carrier Card - Long Wave",
-			"createDes": "",
+			"createDes": "Cards with Wave codes stored in them. Increase the odds of Normal and Perfect Quality Attachments dropping during Normal and Advanced Bounty after usage.",
 			"recovery": true,
 			"material": {
 				"140001": 3,

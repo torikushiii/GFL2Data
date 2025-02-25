@@ -34,6 +34,17 @@
 			"effectAfterTransmit": ""
 		},
 		{
+			"id": 169,
+			"type": 1,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"transmitFunction": 0
+		},
+		{
 			"id": 252,
 			"type": 4,
 			"shapeParam": [
@@ -108,6 +119,17 @@
 			"effectAfterTransmit": ""
 		},
 		{
+			"id": 6481201,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
 			"id": 6703602,
 			"type": 2,
 			"shapeParam": [
@@ -132,6 +154,20 @@
 			"condition": "230",
 			"transmitFunction": 2,
 			"targetIgnore": 1,
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 6856501,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 1,
+			"transmitFunction": 3,
+			"targetIgnore": 1,
+			"condition": "",
 			"effectBeforeTransmit": "",
 			"effectAfterTransmit": ""
 		},

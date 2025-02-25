@@ -826,16 +826,6 @@
 			"o_DLBIICLPJLA": 0
 		},
 		{
-			"id": 103001,
-			"mapId": 103001,
-			"pointId": 1,
-			"enable": false,
-			"o_AMKNCHOLNKE": false,
-			"pointType": 0,
-			"o_GCJNFJCFJNP": {},
-			"o_DLBIICLPJLA": 0
-		},
-		{
 			"id": 103002,
 			"mapId": 103001,
 			"pointId": 2,

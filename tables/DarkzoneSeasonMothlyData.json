@@ -4,7 +4,7 @@
 			"id": 10010101,
 			"type": 1,
 			"sort": 1,
-			"text": "",
+			"text": "Dear<color=#f26c1c>{0}</color>,",
 			"hindId": 110047,
 			"nextId": 0
 		},
@@ -12,7 +12,7 @@
 			"id": 10010102,
 			"type": 1,
 			"sort": 2,
-			"text": "",
+			"text": "Congratulations on completing all basic assessments in <color=#F26C1C>{0}</color>. You are now qualified for independent exploration of the Contamination Zones. B.R.I.E.F. will remain attentive to your advancement, and we look forward to more active contributions from you.",
 			"hindId": 110048,
 			"nextId": 0
 		},
@@ -20,7 +20,7 @@
 			"id": 10010201,
 			"type": 2,
 			"sort": 1,
-			"text": "",
+			"text": "During the <color=#F26C1C>{0}</color> period, you—",
 			"hindId": 110048,
 			"nextId": 0
 		},
@@ -28,7 +28,7 @@
 			"id": 10010202,
 			"type": 2,
 			"sort": 2,
-			"text": "",
+			"text": "Actively explored unsurveyed areas and completed <color=#F26C1C>{0}</color> Boundary Push missions.",
 			"nextId": 10010203,
 			"hindId": 0
 		},
@@ -36,7 +36,7 @@
 			"id": 10010203,
 			"type": 2,
 			"sort": 3,
-			"text": "",
+			"text": "Archived a progress of <color=#F26C1C>{0}</color> in Boundary Push missions.",
 			"hindId": 110049,
 			"nextId": 0
 		},
@@ -44,7 +44,7 @@
 			"id": 10010204,
 			"type": 2,
 			"sort": 4,
-			"text": "",
+			"text": "Strived to reactivate and calibrate the Light Particle Vane, archiving a total Calibration Rate of <color=#F26C1C>{0}%</color>.",
 			"nextId": 0,
 			"hindId": 0
 		},
@@ -52,7 +52,7 @@
 			"id": 10010205,
 			"type": 2,
 			"sort": 5,
-			"text": "",
+			"text": "Responded appropriately to Special Bounties and commanded Dolls squads in <color=#F26C1C>{0}</color> sorties.",
 			"nextId": 10010206,
 			"hindId": 0
 		},
@@ -60,7 +60,7 @@
 			"id": 10010206,
 			"type": 2,
 			"sort": 6,
-			"text": "",
+			"text": "Reached a max Bounty level of <color=#F26C1C>{0}</color>.",
 			"nextId": 0,
 			"hindId": 0
 		},
@@ -68,7 +68,7 @@
 			"id": 10010301,
 			"type": 3,
 			"sort": 1,
-			"text": "",
+			"text": "Collected a total of <color=#F26C1C>{0}</color> Storage Card crafting material,",
 			"nextId": 10010302,
 			"hindId": 0
 		},
@@ -76,7 +76,7 @@
 			"id": 10010302,
 			"type": 3,
 			"sort": 2,
-			"text": "",
+			"text": ", among which <color=#F26C1C>{0}</color> were <color=#F26C1C>Exotic Materials</color>.",
 			"nextId": 0,
 			"hindId": 0
 		},
@@ -84,7 +84,7 @@
 			"id": 10010303,
 			"type": 3,
 			"sort": 3,
-			"text": "",
+			"text": "Using said materials, you crafted <color=#F26C1C>{0}</color> Storage Cards at the Analysis Machine.",
 			"nextId": 0,
 			"hindId": 0
 		},
@@ -92,7 +92,7 @@
 			"id": 10010304,
 			"type": 3,
 			"sort": 4,
-			"text": "",
+			"text": "Using Storage Cards, you conducted <color=#F26C1C>{0}</color> Directed Dispatch; you’ve maintained a strong grasp of your goals, and fortune will smile upon you for that.",
 			"nextId": 0,
 			"hindId": 0
 		},
@@ -100,7 +100,7 @@
 			"id": 10010305,
 			"type": 3,
 			"sort": 5,
-			"text": "",
+			"text": "Through Special Bounties, you've acquired <color=#F26C1C>{0}</color> <color=#F26C1C>precise grade attachments</color>; your continuous effort is bound to yield remarkable results!",
 			"nextId": 10010306,
 			"hindId": 0
 		}

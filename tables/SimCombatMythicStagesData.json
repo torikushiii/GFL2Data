@@ -343,15 +343,6 @@
 			}
 		},
 		{
-			"stageId": 20841,
-			"requireDesc": "Eliminate the target.",
-			"reward": {
-				"1": 150,
-				"2": 12000,
-				"131501": 6
-			}
-		},
-		{
 			"stageId": 20851,
 			"requireDesc": "Rescue and escort the target to safety.",
 			"reward": {

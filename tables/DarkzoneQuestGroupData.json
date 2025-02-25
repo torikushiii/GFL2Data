@@ -3,7 +3,7 @@
 		{
 			"groupId": 1001,
 			"groupType": 1,
-			"groupName": "",
+			"groupName": "Story Campaign - Default Unlock -",
 			"npcId": 401,
 			"firstStep": 100101,
 			"unlockType": 0,
@@ -12,7 +12,7 @@
 		{
 			"groupId": 1002,
 			"groupType": 1,
-			"groupName": "",
+			"groupName": "Story Campaign - Preceding Unlock -",
 			"unlockType": 1,
 			"unlockArgs": [
 				1001
@@ -23,7 +23,7 @@
 		{
 			"groupId": 1003,
 			"groupType": 1,
-			"groupName": "",
+			"groupName": "Story Campaign - Affection Unlock -",
 			"unlockType": 2,
 			"unlockArgs": [
 				401,
@@ -35,7 +35,7 @@
 		{
 			"groupId": 1004,
 			"groupType": 1,
-			"groupName": "",
+			"groupName": "Story Campaign - Dark Zone Level Unlock -",
 			"unlockType": 3,
 			"unlockArgs": [
 				5
@@ -46,7 +46,7 @@
 		{
 			"groupId": 1005,
 			"groupType": 2,
-			"groupName": "",
+			"groupName": "Daily - Default Unlock - 500 Affection Required",
 			"npcId": 401,
 			"firstStep": 100501,
 			"unlockType": 0,
@@ -55,7 +55,7 @@
 		{
 			"groupId": 1006,
 			"groupType": 2,
-			"groupName": "",
+			"groupName": "Daily - Default Unlock - 1000 Affection Required",
 			"npcId": 401,
 			"firstStep": 100601,
 			"unlockType": 0,
@@ -64,7 +64,7 @@
 		{
 			"groupId": 1007,
 			"groupType": 2,
-			"groupName": "",
+			"groupName": "Daily - Default Unlock - 1000 Affection Required",
 			"npcId": 401,
 			"firstStep": 100701,
 			"unlockType": 0,
@@ -73,7 +73,7 @@
 		{
 			"groupId": 1008,
 			"groupType": 1,
-			"groupName": "",
+			"groupName": "Story Campaign - Affection Unlock -",
 			"unlockType": 2,
 			"unlockArgs": [
 				401,

@@ -295,6 +295,12 @@
 			"soundPath": 7100452
 		},
 		{
+			"id": 1004110,
+			"model": "GrozaR01",
+			"soundType": 110,
+			"soundPath": 7100453
+		},
+		{
 			"id": 1004201,
 			"model": "GrozaR01",
 			"soundType": 201,

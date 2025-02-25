@@ -553,6 +553,18 @@
 			"zoomRatio": 0
 		},
 		{
+			"id": 10010,
+			"effect": "Effect_sum/Buff/DebuffPlate",
+			"effectPoint": 114,
+			"effectOnly": 1,
+			"effectRevolve": 95,
+			"effectOffsetY": 50,
+			"effectLifetime": 0,
+			"routeId": 0,
+			"bindType": 0,
+			"zoomRatio": 0
+		},
+		{
 			"id": 10011,
 			"effect": "Effect_sum/Buff/debuff_speeddown",
 			"effectPoint": 114,

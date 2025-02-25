@@ -1,28 +1,6 @@
 {
 	"data": [
 		{
-			"typeId": 1001,
-			"assignId": "7100193",
-			"charassignId": "7100192",
-			"startId": "7100194",
-			"selectId": "7100189",
-			"autoselectId": "7100190",
-			"cancelId": "7100191",
-			"hitId": "7100180",
-			"killId": "7100196",
-			"masterkillId": "7100159",
-			"winId": "7100160",
-			"failId": "7100161",
-			"deathId": "7100154",
-			"hittedLowId": "7100180",
-			"hittedHighSPId": "7100180",
-			"hittedHighSSPId": "7100180",
-			"hittedLowSPId": "7100180",
-			"hittedLowSSPId": "7100180",
-			"selectFinId": "7100189",
-			"sysBreakId": []
-		},
-		{
 			"typeId": 1008,
 			"assignId": "7100382",
 			"charassignId": "7100381",

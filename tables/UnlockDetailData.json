@@ -242,37 +242,37 @@
 		},
 		{
 			"id": 41,
-			"name": "Activate all nodes on Mechty's talent tree",
+			"name": "Activate all nodes in Mechty's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 42,
-			"name": "Activate all nodes on KSVec .45 ACP's talent tree",
+			"name": "Activate all nodes in Vector's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 43,
-			"name": "Activate all nodes on Belka's talent tree",
+			"name": "Activate all nodes in Belka's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 44,
-			"name": "Activate all nodes on Andoris' talent tree",
+			"name": "Activate all nodes in Andoris' Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 45,
-			"name": "Activate all nodes on Springfield's talent tree",
+			"name": "Activate all nodes in Springfield's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 46,
-			"name": "Activate all nodes on Faye's talent tree",
+			"name": "Activate all nodes in Faye's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
@@ -500,7 +500,7 @@
 		},
 		{
 			"id": 40001,
-			"name": "Player Care",
+			"name": "Greetings",
 			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
 			"conditionNum": 1
 		},
@@ -867,7 +867,7 @@
 		{
 			"id": 60062,
 			"name": "Daydream",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Daydream</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Daydream</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -879,25 +879,25 @@
 		{
 			"id": 60064,
 			"name": "Banshee's Whisper",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Banshee's Whisper</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Banshee's Whisper</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60065,
 			"name": "Sylvan Elf",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Sylvan Elf</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Sylvan Elf</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60066,
 			"name": "Aglaea",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Aglaea</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Aglaea</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60067,
 			"name": "Radiance",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Radiance</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Radiance</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -944,8 +944,8 @@
 		},
 		{
 			"id": 60075,
-			"name": "Hülsenlosen 11",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Hülsenlosen 11</COLOR>",
+			"name": "G11",
+			"des": "Acquire <COLOR=#F26C1C>G11</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -956,8 +956,8 @@
 		},
 		{
 			"id": 60077,
-			"name": "KSVec .45 ACP",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>KSVec .45 ACP</COLOR>",
+			"name": "Ksvec .45 ACP",
+			"des": "Acquire <COLOR=#F26C1C>Ksvec .45 ACP</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -969,25 +969,25 @@
 		{
 			"id": 60079,
 			"name": "Gewehr 28",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Gewehr 28</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Gewehr 28</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60080,
 			"name": "G36K-KSK",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>G36K-KSK</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>G36K-KSK</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60081,
 			"name": "Springfield",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Springfield</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>M1903</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60082,
 			"name": "Skoda 75",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Skoda 75</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>CZ-75</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1034,8 +1034,8 @@
 		},
 		{
 			"id": 60090,
-			"name": "Retired Hülsenlosen 11",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Hülsenlosen 11</COLOR>",
+			"name": "Retired G11",
+			"des": "Acquire <COLOR=#F26C1C>Retired G11</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1046,8 +1046,8 @@
 		},
 		{
 			"id": 60092,
-			"name": "Retired KSVec .45 ACP",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired KSVec .45 ACP</COLOR>",
+			"name": "Retired Ksvec .45 ACP",
+			"des": "Acquire <COLOR=#F26C1C>Retired Ksvec .45 ACP</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1059,7 +1059,7 @@
 		{
 			"id": 60094,
 			"name": "Retired Gewehr 28",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Gewehr 28</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Retired Gewehr 28</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1071,13 +1071,13 @@
 		{
 			"id": 60096,
 			"name": "Retired Springfield",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Springfield</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Retired M1903</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60097,
 			"name": "Retired Skoda 75",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Retired Skoda 75</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Retired CZ-75</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1407,7 +1407,7 @@
 		{
 			"id": 60152,
 			"name": "Hestia",
-			"des": "This skin unlocks after obtaining <COLOR=#F26C1C>Hestia</COLOR>",
+			"des": "Acquire <COLOR=#F26C1C>Hestia</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{

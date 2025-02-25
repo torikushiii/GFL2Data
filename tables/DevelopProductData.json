@@ -2,8 +2,8 @@
 	"data": [
 		{
 			"id": 1,
-			"planName": "",
-			"planDesc": "",
+			"planName": "Design Blueprint I",
+			"planDesc": "Obtain a random attachment from the following categories after crafting: <color=#f0af14>Sight, Blade Edge, Action Component</color>.",
 			"type": [
 				1,
 				4,
@@ -53,8 +53,8 @@
 		},
 		{
 			"id": 2,
-			"planName": "",
-			"planDesc": "",
+			"planName": "Design Blueprint II",
+			"planDesc": "Obtain a random attachment from the following categories after crafting: <color=#f0af14>Muzzle Device, Adjustable Module, Linked Module</color>.",
 			"type": [
 				2,
 				8,
@@ -112,8 +112,8 @@
 		},
 		{
 			"id": 3,
-			"planName": "",
-			"planDesc": "",
+			"planName": "Design Blueprint III",
+			"planDesc": "Obtain a random attachment from the following categories after crafting: <color=#f0af14>Underbarrel, Igniting Component, Material Coating</color>.",
 			"type": [
 				3,
 				6,

@@ -2202,7 +2202,7 @@
 		},
 		{
 			"id": 10441,
-			"name": "Retired KSVec .45 ACP",
+			"name": "Retired Ksvec .45 ACP",
 			"description": "An old weapon commonly seen in the contaminated zones. It's about to completely fall apart, but can still be used if you are careful enough.",
 			"type": 2,
 			"modelstype": 1,
@@ -2253,7 +2253,7 @@
 		},
 		{
 			"id": 10442,
-			"name": "KSVec .45 ACP",
+			"name": "Ksvec .45 ACP",
 			"description": "A firearm highly compatible with Vector. Modified based on her combat preferences, it is highly maneuverable and stable.",
 			"type": 2,
 			"modelstype": 1,
@@ -2307,7 +2307,7 @@
 		{
 			"id": 10443,
 			"name": "Banshee's Whisper",
-			"description": "A high-performance submachine gun assigned to Vector. Based on the KSVec .45 ACP, it has been completely overhauled. Pull the trigger, and let death whisper a song into the ears of enemies.",
+			"description": "A high-performance submachine gun assigned to Vector. Based on the Ksvec .45 ACP, it has been completely overhauled. Pull the trigger, and let death whisper a song into the ears of enemies.",
 			"type": 2,
 			"modelstype": 1,
 			"bullettype": 3,
@@ -2830,7 +2830,7 @@
 		},
 		{
 			"id": 10511,
-			"name": "Retired Hülsenlosen 11",
+			"name": "Retired G11",
 			"description": "An old weapon commonly seen in the contaminated zones. It is tattered and worn, but can still be used.",
 			"type": 4,
 			"modelstype": 2,
@@ -2881,7 +2881,7 @@
 		},
 		{
 			"id": 10512,
-			"name": "Hülsenlosen 11",
+			"name": "G11",
 			"description": "A firearm highly compatible with Mechty. Modified based on her combat preferences, it has improved rate of fire, precision and accuracy.",
 			"type": 4,
 			"modelstype": 2,
@@ -2935,7 +2935,7 @@
 		{
 			"id": 10513,
 			"name": "Daydream",
-			"description": "A high-performance assault rifle assigned to Mechty. Based on the Hülsenlosen 11, its firepower has been further improved. A gun that complements Mechty's burst-firing nature, it is dedicated to shattering the daydreams of enemies.",
+			"description": "A high-performance assault rifle assigned to Mechty. Based on the G11, its firepower has been further improved. A gun that complements Mechty's burst-firing nature, it is dedicated to shattering the daydreams of enemies.",
 			"type": 4,
 			"modelstype": 2,
 			"resCode": "Weapon_G11_5",

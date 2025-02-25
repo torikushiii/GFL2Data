@@ -3894,11 +3894,11 @@
 		},
 		{
 			"id": 80389,
-			"chars": "Open"
+			"chars": "On"
 		},
 		{
 			"id": 80390,
-			"chars": "Close"
+			"chars": "Off"
 		},
 		{
 			"id": 80391,
@@ -7286,7 +7286,7 @@
 		},
 		{
 			"id": 106308,
-			"chars": ""
+			"chars": "Gift pack expired"
 		},
 		{
 			"id": 106309,
@@ -10626,27 +10626,27 @@
 		},
 		{
 			"id": 170001,
-			"chars": "Segment - One"
+			"chars": "Segment 01"
 		},
 		{
 			"id": 170002,
-			"chars": "Segment - Two"
+			"chars": "Segment 02"
 		},
 		{
 			"id": 170003,
-			"chars": "Segment - Three"
+			"chars": "Segment 03"
 		},
 		{
 			"id": 170004,
-			"chars": "Segment - Four"
+			"chars": "Segment 04"
 		},
 		{
 			"id": 170005,
-			"chars": "Segment - Five"
+			"chars": "Segment 05"
 		},
 		{
 			"id": 170006,
-			"chars": "Segment - Six"
+			"chars": "Segment 06"
 		},
 		{
 			"id": 180001,
@@ -10794,7 +10794,7 @@
 		},
 		{
 			"id": 180037,
-			"chars": ""
+			"chars": "Peak Key"
 		},
 		{
 			"id": 180161,
@@ -12726,7 +12726,7 @@
 		},
 		{
 			"id": 240201,
-			"chars": ""
+			"chars": "Crystal Collection"
 		},
 		{
 			"id": 240202,
@@ -12806,7 +12806,7 @@
 		},
 		{
 			"id": 240301,
-			"chars": ""
+			"chars": "Boundary Breakthrough"
 		},
 		{
 			"id": 240302,
@@ -12830,11 +12830,11 @@
 		},
 		{
 			"id": 240307,
-			"chars": ""
+			"chars": "Breakthrough Strategy"
 		},
 		{
 			"id": 240308,
-			"chars": ""
+			"chars": "Crystal Collection"
 		},
 		{
 			"id": 240309,
@@ -12854,7 +12854,7 @@
 		},
 		{
 			"id": 240313,
-			"chars": ""
+			"chars": "All rewards for current difficulty obtained"
 		},
 		{
 			"id": 240401,
@@ -12894,7 +12894,7 @@
 		},
 		{
 			"id": 240501,
-			"chars": ""
+			"chars": "Local Bounty"
 		},
 		{
 			"id": 240502,
@@ -12922,7 +12922,7 @@
 		},
 		{
 			"id": 240508,
-			"chars": ""
+			"chars": "The team can continue exploring in {0}"
 		},
 		{
 			"id": 240601,
@@ -12990,7 +12990,7 @@
 		},
 		{
 			"id": 240803,
-			"chars": ""
+			"chars": "Delve Permit"
 		},
 		{
 			"id": 240804,
@@ -13006,7 +13006,7 @@
 		},
 		{
 			"id": 240807,
-			"chars": ""
+			"chars": "Reward details"
 		},
 		{
 			"id": 240808,
@@ -13946,7 +13946,7 @@
 		},
 		{
 			"id": 260104,
-			"chars": "Dangerous Excavation"
+			"chars": "Dig!"
 		},
 		{
 			"id": 260105,
@@ -14634,19 +14634,19 @@
 		},
 		{
 			"id": 260276,
-			"chars": ""
+			"chars": "<color=#c6815a>Anniversary</color> Celebration - Lavish Giveaways"
 		},
 		{
 			"id": 260277,
-			"chars": ""
+			"chars": "Log in and receive <color=#c84722>60 rolls</color>"
 		},
 		{
 			"id": 260278,
-			"chars": ""
+			"chars": "Take part in the event and receive a further <color=#c84722>60+ rolls</color>"
 		},
 		{
 			"id": 260279,
-			"chars": ""
+			"chars": "Also, receive the free <color=#c84722>Elite Doll - Faye</color> by participating in the event"
 		},
 		{
 			"id": 260280,
@@ -14662,7 +14662,7 @@
 		},
 		{
 			"id": 260283,
-			"chars": ""
+			"chars": "Spring Dawn's Watch"
 		},
 		{
 			"id": 260284,
@@ -14674,7 +14674,7 @@
 		},
 		{
 			"id": 260286,
-			"chars": ""
+			"chars": "Log in to receive"
 		},
 		{
 			"id": 260287,
@@ -14694,7 +14694,7 @@
 		},
 		{
 			"id": 260291,
-			"chars": ""
+			"chars": "Login to receive"
 		},
 		{
 			"id": 260292,
@@ -14710,7 +14710,7 @@
 		},
 		{
 			"id": 260295,
-			"chars": ""
+			"chars": "First guaranteed Doll will be your selected Doll"
 		},
 		{
 			"id": 260296,
@@ -14718,11 +14718,11 @@
 		},
 		{
 			"id": 260297,
-			"chars": ""
+			"chars": "New Wish"
 		},
 		{
 			"id": 260298,
-			"chars": ""
+			"chars": "Receive after accumulated logins"
 		},
 		{
 			"id": 260299,
@@ -14738,15 +14738,15 @@
 		},
 		{
 			"id": 260302,
-			"chars": ""
+			"chars": "Double log reset"
 		},
 		{
 			"id": 260303,
-			"chars": ""
+			"chars": "Shining Edge Dual Select Pack"
 		},
 		{
 			"id": 260304,
-			"chars": ""
+			"chars": "Select a limited Doll and weapon of your choice"
 		},
 		{
 			"id": 260305,
@@ -15130,7 +15130,7 @@
 		},
 		{
 			"id": 270094,
-			"chars": ""
+			"chars": "Continue game"
 		},
 		{
 			"id": 270095,
@@ -16650,7 +16650,7 @@
 		},
 		{
 			"id": 271121,
-			"chars": "Zucchero Café officially opens"
+			"chars": "Welcome to Zucchero Café"
 		},
 		{
 			"id": 271122,
@@ -16966,11 +16966,11 @@
 		},
 		{
 			"id": 271315,
-			"chars": "The number of <color=#F26C1C>[Coconut Snow Mountain Pack]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
+			"chars": "The number of <color=#F26C1C>[Coconut Snow Top Pack]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
 		},
 		{
 			"id": 271316,
-			"chars": "The number of <color=#F26C1C>[Shiny Night Packs]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
+			"chars": "The number of <color=#F26C1C>[Sparkling Night Packs]</color> obtained has met the condition for the mission's rating. Would you like to continue?"
 		},
 		{
 			"id": 271317,
@@ -17074,7 +17074,7 @@
 		},
 		{
 			"id": 274003,
-			"chars": ""
+			"chars": "Pathforger"
 		},
 		{
 			"id": 274004,
@@ -17146,7 +17146,7 @@
 		},
 		{
 			"id": 274104,
-			"chars": ""
+			"chars": "Neural Cloud Review"
 		},
 		{
 			"id": 274105,
@@ -17170,15 +17170,15 @@
 		},
 		{
 			"id": 274110,
-			"chars": ""
+			"chars": "Neural Cloud Review"
 		},
 		{
 			"id": 274201,
-			"chars": ""
+			"chars": "Zucchero Cat Cafe"
 		},
 		{
 			"id": 274202,
-			"chars": ""
+			"chars": "Artifact Recovery"
 		},
 		{
 			"id": 274203,
@@ -17186,7 +17186,7 @@
 		},
 		{
 			"id": 274204,
-			"chars": ""
+			"chars": "Pathforger"
 		},
 		{
 			"id": 274205,
@@ -17238,7 +17238,7 @@
 		},
 		{
 			"id": 275000,
-			"chars": ""
+			"chars": "Zucchero Cat Cafe"
 		},
 		{
 			"id": 275001,
@@ -17246,35 +17246,35 @@
 		},
 		{
 			"id": 275002,
-			"chars": ""
+			"chars": "Level 1"
 		},
 		{
 			"id": 275003,
-			"chars": ""
+			"chars": "Level 2"
 		},
 		{
 			"id": 275004,
-			"chars": ""
+			"chars": "Level 3"
 		},
 		{
 			"id": 275005,
-			"chars": ""
+			"chars": "Level 4"
 		},
 		{
 			"id": 275006,
-			"chars": ""
+			"chars": "Level 5"
 		},
 		{
 			"id": 275007,
-			"chars": ""
+			"chars": "Level 6"
 		},
 		{
 			"id": 275008,
-			"chars": ""
+			"chars": "Level 7"
 		},
 		{
 			"id": 275009,
-			"chars": ""
+			"chars": "Level 8"
 		},
 		{
 			"id": 275010,
@@ -17294,15 +17294,15 @@
 		},
 		{
 			"id": 275014,
-			"chars": ""
+			"chars": "Position <color=#D67849>+{0}</color>"
 		},
 		{
 			"id": 275015,
-			"chars": ""
+			"chars": "Cat Cosy <color=#D67849>+{0}</color>"
 		},
 		{
 			"id": 275016,
-			"chars": ""
+			"chars": "Cafe Customers <color=#D67849>+{0}</color>"
 		},
 		{
 			"id": 275017,
@@ -17318,7 +17318,7 @@
 		},
 		{
 			"id": 275020,
-			"chars": ""
+			"chars": "Zucchero Special Blend"
 		},
 		{
 			"id": 275021,
@@ -17398,7 +17398,7 @@
 		},
 		{
 			"id": 275040,
-			"chars": ""
+			"chars": "Cat Garden"
 		},
 		{
 			"id": 275041,
@@ -17442,7 +17442,7 @@
 		},
 		{
 			"id": 275051,
-			"chars": ""
+			"chars": "Attract Cat"
 		},
 		{
 			"id": 275052,
@@ -17478,7 +17478,7 @@
 		},
 		{
 			"id": 275060,
-			"chars": ""
+			"chars": "Having more cats allows you to raise your Cat Cafe Level"
 		},
 		{
 			"id": 275061,
@@ -17494,7 +17494,7 @@
 		},
 		{
 			"id": 275064,
-			"chars": ""
+			"chars": "Catworker"
 		},
 		{
 			"id": 275065,
@@ -17542,7 +17542,7 @@
 		},
 		{
 			"id": 275076,
-			"chars": ""
+			"chars": "This Cafe Cat has already appeared"
 		},
 		{
 			"id": 275077,
@@ -17550,7 +17550,7 @@
 		},
 		{
 			"id": 275078,
-			"chars": ""
+			"chars": "No Cafe Cats"
 		},
 		{
 			"id": 280000,
@@ -19586,7 +19586,7 @@
 		},
 		{
 			"id": 381039,
-			"chars": ""
+			"chars": "When exploring, <color=#f0d867>{0}</color>"
 		},
 		{
 			"id": 381040,
@@ -19670,7 +19670,7 @@
 		},
 		{
 			"id": 381060,
-			"chars": ""
+			"chars": "Plugin Gallery"
 		},
 		{
 			"id": 381061,
@@ -19718,7 +19718,7 @@
 		},
 		{
 			"id": 381072,
-			"chars": ""
+			"chars": "Retrieval Mission"
 		},
 		{
 			"id": 381073,
@@ -19734,7 +19734,7 @@
 		},
 		{
 			"id": 381076,
-			"chars": ""
+			"chars": "Retrieval EXP"
 		},
 		{
 			"id": 381077,
@@ -19782,7 +19782,7 @@
 		},
 		{
 			"id": 381088,
-			"chars": ""
+			"chars": "Plugins"
 		},
 		{
 			"id": 381089,
@@ -19806,7 +19806,7 @@
 		},
 		{
 			"id": 381094,
-			"chars": ""
+			"chars": "Usable Special Intel"
 		},
 		{
 			"id": 381095,
@@ -19906,27 +19906,27 @@
 		},
 		{
 			"id": 381119,
-			"chars": ""
+			"chars": "Talent activated, automatic victory"
 		},
 		{
 			"id": 381120,
-			"chars": ""
+			"chars": "Talent Overview"
 		},
 		{
 			"id": 381121,
-			"chars": ""
+			"chars": "No Talents"
 		},
 		{
 			"id": 381122,
-			"chars": ""
+			"chars": "{0}/{1} Talents Obtained"
 		},
 		{
 			"id": 381123,
-			"chars": ""
+			"chars": "Exploration Level Max"
 		},
 		{
 			"id": 381124,
-			"chars": ""
+			"chars": "No Plugins"
 		},
 		{
 			"id": 381125,
@@ -21013,6 +21013,10 @@
 			"chars": "Final Confirmation: Are you sure you want to transfer Platoon leadership?"
 		},
 		{
+			"id": 390270,
+			"chars": "Extraordinary"
+		},
+		{
 			"id": 390271,
 			"chars": "Excellent"
 		},
@@ -21518,7 +21522,7 @@
 		},
 		{
 			"id": 391098,
-			"chars": "Unlocks after registering {0} Doll(s)"
+			"chars": "Unlocked after registering {0}"
 		},
 		{
 			"id": 392001,
@@ -21562,7 +21566,7 @@
 		},
 		{
 			"id": 393001,
-			"chars": "Intensity Level"
+			"chars": "Frenzy Level"
 		},
 		{
 			"id": 393002,
@@ -21574,7 +21578,7 @@
 		},
 		{
 			"id": 393004,
-			"chars": "Handicaps"
+			"chars": "Frenzy Buffs"
 		},
 		{
 			"id": 393005,
@@ -21614,7 +21618,7 @@
 		},
 		{
 			"id": 393014,
-			"chars": ""
+			"chars": "Enhanced statlines"
 		},
 		{
 			"id": 393015,
@@ -21694,7 +21698,7 @@
 		},
 		{
 			"id": 394011,
-			"chars": ""
+			"chars": "Commander, the Elmo is ready and waiting to set out with you once again."
 		},
 		{
 			"id": 394012,
@@ -21830,11 +21834,11 @@
 		},
 		{
 			"id": 394045,
-			"chars": ""
+			"chars": "Re-ignition rewards obtained"
 		},
 		{
 			"id": 394046,
-			"chars": ""
+			"chars": "Voyage level too low to unlock reward"
 		},
 		{
 			"id": 394047,
@@ -21846,11 +21850,11 @@
 		},
 		{
 			"id": 394049,
-			"chars": ""
+			"chars": "Special permit route not yet unlocked"
 		},
 		{
 			"id": 394050,
-			"chars": ""
+			"chars": "Self-select reward error"
 		},
 		{
 			"id": 395001,
@@ -21862,11 +21866,11 @@
 		},
 		{
 			"id": 395003,
-			"chars": ""
+			"chars": "Heartfelt Whisper"
 		},
 		{
 			"id": 395004,
-			"chars": ""
+			"chars": "{0}\n Login rewards"
 		},
 		{
 			"id": 395005,
@@ -21882,11 +21886,11 @@
 		},
 		{
 			"id": 395008,
-			"chars": ""
+			"chars": "1. During the login event, Commanders who have logged in for a total of 7 days can take part in the \"Heartfelt Whisper\" event, where they can write and send a message to their Dolls.\n 2. After writing your message, fill in your real, personal information (including your name, phone number and mail address) to receive a surprise from your Dolls!\n 3. During this event, Commanders have only <color=#F26C1C>one</color> chance to write a message. <color=#F26C1C>The message cannot be edited after submission</color>, so please enter it carefully!\n 4. The personal information you filled in will be used to send you mail in the following \"Doll Surprise\" event. If there are any mistakes, it will affect the selection and mailing process. Also, this event is only open to addresses on the PRC mainland, and as such we seek your understanding for any inconvenience incurred. \n 5. After the event ends, we will conduct a lucky draw from among the Commanders who meet the event requirements and send them a surprise. Please follow official media accounts for information on the exact time of sending and your personal EMS tracking number: \n 6. In order to ensure fairness in the event and the protection of our Commanders' interest, the received messages and participating accounts will be carefully filtered and vetted. After cross-referencing with our systems, abnormal accounts or duplicated recipients will be eliminated. Thank you for your support and understanding. \n 7. All rights reserved by Micateam."
 		},
 		{
 			"id": 395009,
-			"chars": ""
+			"chars": "Name: <color=#ff5e41>*</color>"
 		},
 		{
 			"id": 395010,
@@ -21898,7 +21902,7 @@
 		},
 		{
 			"id": 395012,
-			"chars": ""
+			"chars": "Message Content: <color=#ff5e41>*</color>"
 		},
 		{
 			"id": 395013,
@@ -21910,7 +21914,7 @@
 		},
 		{
 			"id": 395015,
-			"chars": ""
+			"chars": "I agree and accept that the personal information I provide may be shared with third-party service providers for purposes such as sending letters."
 		},
 		{
 			"id": 395016,
@@ -21946,7 +21950,7 @@
 		},
 		{
 			"id": 395024,
-			"chars": ""
+			"chars": "Unlocks after logging in for 7 days"
 		},
 		{
 			"id": 395025,
@@ -21954,11 +21958,11 @@
 		},
 		{
 			"id": 395026,
-			"chars": ""
+			"chars": "Enter phone number"
 		},
 		{
 			"id": 395027,
-			"chars": ""
+			"chars": "Enter address"
 		},
 		{
 			"id": 395028,
@@ -22846,7 +22850,7 @@
 		},
 		{
 			"id": 410032,
-			"chars": ""
+			"chars": "Best used by {0}"
 		},
 		{
 			"id": 410033,
@@ -23022,7 +23026,7 @@
 		},
 		{
 			"id": 410076,
-			"chars": ""
+			"chars": "Simulation Over"
 		},
 		{
 			"id": 410077,
@@ -23038,23 +23042,23 @@
 		},
 		{
 			"id": 410080,
-			"chars": ""
+			"chars": "Highest Assets"
 		},
 		{
 			"id": 410081,
-			"chars": ""
+			"chars": "Highest rank"
 		},
 		{
 			"id": 410082,
-			"chars": ""
+			"chars": "Stage Mechanics"
 		},
 		{
 			"id": 410083,
-			"chars": ""
+			"chars": "Opponent Info"
 		},
 		{
 			"id": 410084,
-			"chars": ""
+			"chars": "Pathforge Index"
 		},
 		{
 			"id": 410085,
@@ -23070,7 +23074,7 @@
 		},
 		{
 			"id": 410088,
-			"chars": ""
+			"chars": "This stage has no special mechanics"
 		},
 		{
 			"id": 410089,
@@ -23102,11 +23106,11 @@
 		},
 		{
 			"id": 410096,
-			"chars": ""
+			"chars": "Pathforger Team"
 		},
 		{
 			"id": 410097,
-			"chars": ""
+			"chars": "Commander"
 		},
 		{
 			"id": 410098,
@@ -23114,7 +23118,7 @@
 		},
 		{
 			"id": 410099,
-			"chars": ""
+			"chars": "Pathforger Guidelines"
 		},
 		{
 			"id": 410100,
@@ -23130,7 +23134,7 @@
 		},
 		{
 			"id": 410103,
-			"chars": ""
+			"chars": "Pathforge Essentials"
 		},
 		{
 			"id": 410104,
@@ -23138,7 +23142,7 @@
 		},
 		{
 			"id": 410105,
-			"chars": ""
+			"chars": "Pathforge Strategy"
 		},
 		{
 			"id": 410106,
@@ -23150,7 +23154,7 @@
 		},
 		{
 			"id": 410108,
-			"chars": ""
+			"chars": "Start"
 		},
 		{
 			"id": 410109,
@@ -23162,11 +23166,11 @@
 		},
 		{
 			"id": 410111,
-			"chars": ""
+			"chars": "Starting Credits"
 		},
 		{
 			"id": 410112,
-			"chars": ""
+			"chars": "3-star Pathforger objective accomplished, you may end the stage now"
 		},
 		{
 			"id": 410113,
@@ -23178,11 +23182,11 @@
 		},
 		{
 			"id": 410115,
-			"chars": ""
+			"chars": "{0} Pathforger Index obtained"
 		},
 		{
 			"id": 410116,
-			"chars": ""
+			"chars": "Pathforger objective for this game has been completed, starting next game..."
 		},
 		{
 			"id": 410117,
@@ -23190,19 +23194,19 @@
 		},
 		{
 			"id": 410118,
-			"chars": ""
+			"chars": "Current Pathforger Index"
 		},
 		{
 			"id": 410119,
-			"chars": ""
+			"chars": "Pathforger Index"
 		},
 		{
 			"id": 410120,
-			"chars": ""
+			"chars": "Price Fluctuation"
 		},
 		{
 			"id": 410121,
-			"chars": ""
+			"chars": "Leave Game"
 		},
 		{
 			"id": 410122,
@@ -23210,7 +23214,7 @@
 		},
 		{
 			"id": 410123,
-			"chars": ""
+			"chars": "No more dice left, this game is over"
 		},
 		{
 			"id": 410124,
@@ -23218,7 +23222,7 @@
 		},
 		{
 			"id": 410125,
-			"chars": ""
+			"chars": "Pathforger Index for this stage"
 		},
 		{
 			"id": 410126,
@@ -23226,7 +23230,7 @@
 		},
 		{
 			"id": 410127,
-			"chars": ""
+			"chars": "Pathforge Objectives"
 		},
 		{
 			"id": 410128,
@@ -23278,15 +23282,15 @@
 		},
 		{
 			"id": 410140,
-			"chars": ""
+			"chars": "Great Success"
 		},
 		{
 			"id": 410141,
-			"chars": ""
+			"chars": "Clash Failed"
 		},
 		{
 			"id": 410142,
-			"chars": ""
+			"chars": "Draw"
 		},
 		{
 			"id": 410143,
@@ -23310,19 +23314,19 @@
 		},
 		{
 			"id": 410148,
-			"chars": ""
+			"chars": "Clash"
 		},
 		{
 			"id": 410149,
-			"chars": ""
+			"chars": "Select a Doll to Clash with"
 		},
 		{
 			"id": 410150,
-			"chars": ""
+			"chars": "Pathforge Incident"
 		},
 		{
 			"id": 410151,
-			"chars": ""
+			"chars": "Pathforge Incident"
 		},
 		{
 			"id": 410152,
@@ -23354,7 +23358,7 @@
 		},
 		{
 			"id": 410159,
-			"chars": ""
+			"chars": "Pathforge Index Income"
 		},
 		{
 			"id": 410160,
@@ -23374,11 +23378,11 @@
 		},
 		{
 			"id": 410164,
-			"chars": ""
+			"chars": "Select a Pathforger Strategy"
 		},
 		{
 			"id": 410165,
-			"chars": ""
+			"chars": "Pathforger Strategy will take effect on the current stage"
 		},
 		{
 			"id": 410166,
@@ -23418,7 +23422,7 @@
 		},
 		{
 			"id": 410175,
-			"chars": ""
+			"chars": "No Price Fluctuations"
 		},
 		{
 			"id": 410176,
@@ -23426,7 +23430,7 @@
 		},
 		{
 			"id": 410177,
-			"chars": ""
+			"chars": "Cannot start game because {0} is offline. Would you like to quit?"
 		},
 		{
 			"id": 410178,
@@ -23450,7 +23454,7 @@
 		},
 		{
 			"id": 410183,
-			"chars": ""
+			"chars": "Pathforge event"
 		},
 		{
 			"id": 410184,
@@ -23462,11 +23466,11 @@
 		},
 		{
 			"id": 410186,
-			"chars": ""
+			"chars": "Target Pathforge Index"
 		},
 		{
 			"id": 410187,
-			"chars": ""
+			"chars": "Not enough credits"
 		},
 		{
 			"id": 410188,
@@ -23478,7 +23482,7 @@
 		},
 		{
 			"id": 410190,
-			"chars": ""
+			"chars": "Continue Pathforging"
 		},
 		{
 			"id": 410191,
@@ -23486,15 +23490,15 @@
 		},
 		{
 			"id": 410192,
-			"chars": ""
+			"chars": "Select Pathforge Strategy"
 		},
 		{
 			"id": 410193,
-			"chars": ""
+			"chars": "Quitting halfway will be considered a loss. Do you wish to continue?"
 		},
 		{
 			"id": 410194,
-			"chars": ""
+			"chars": "Each game takes place on a randomly selected map"
 		},
 		{
 			"id": 410195,
@@ -23506,7 +23510,7 @@
 		},
 		{
 			"id": 410197,
-			"chars": ""
+			"chars": "Unable to view support buff of unknown Pathforge members"
 		},
 		{
 			"id": 410198,
@@ -23518,7 +23522,7 @@
 		},
 		{
 			"id": 410200,
-			"chars": ""
+			"chars": "Broke (ㄒoㄒ)/~~"
 		},
 		{
 			"id": 410201,
@@ -23526,11 +23530,11 @@
 		},
 		{
 			"id": 410202,
-			"chars": ""
+			"chars": "All targets lose <color=#ffcf0e>{0}</color> points"
 		},
 		{
 			"id": 410203,
-			"chars": ""
+			"chars": "Collect all of {1}'s credits after {0} turn(s)"
 		},
 		{
 			"id": 410204,
@@ -23542,11 +23546,11 @@
 		},
 		{
 			"id": 410206,
-			"chars": ""
+			"chars": "Leave Game"
 		},
 		{
 			"id": 410207,
-			"chars": ""
+			"chars": "Continue Game"
 		},
 		{
 			"id": 410208,
@@ -23574,7 +23578,7 @@
 		},
 		{
 			"id": 410214,
-			"chars": ""
+			"chars": "Commander"
 		},
 		{
 			"id": 410215,
@@ -23594,23 +23598,23 @@
 		},
 		{
 			"id": 410219,
-			"chars": ""
+			"chars": "Clash"
 		},
 		{
 			"id": 410220,
-			"chars": ""
+			"chars": "Select a Doll to Clash with"
 		},
 		{
 			"id": 410221,
-			"chars": ""
+			"chars": "Select the structure you wish to <color=#f26c1c>build</color>"
 		},
 		{
 			"id": 410222,
-			"chars": ""
+			"chars": "Select the structure you wish to <color=#f26c1c>modify</color>"
 		},
 		{
 			"id": 410223,
-			"chars": ""
+			"chars": "Select the structure you wish to <color=#f26c1c>purchase</color>"
 		},
 		{
 			"id": 410224,
@@ -23638,191 +23642,191 @@
 		},
 		{
 			"id": 410230,
-			"chars": ""
+			"chars": "Not enough credits"
 		},
 		{
 			"id": 410231,
-			"chars": ""
+			"chars": "Do you wish to <color=#f26c1c>cancel</color> building?"
 		},
 		{
 			"id": 410232,
-			"chars": ""
+			"chars": "Do you wish to abandon the modification? If you do so, <color=#f26c1c>the structure card in question will be lost</color>"
 		},
 		{
 			"id": 410233,
-			"chars": ""
+			"chars": "Do you wish to <color=#f26c1c>cancel</color> your purchase?"
 		},
 		{
 			"id": 410234,
-			"chars": ""
+			"chars": "Round {0}"
 		},
 		{
 			"id": 410235,
-			"chars": ""
+			"chars": "Tax all pieces for the following amount: <color=#ffcf0e>{0}</color>"
 		},
 		{
 			"id": 410236,
-			"chars": ""
+			"chars": "Land on <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410237,
-			"chars": ""
+			"chars": "Score: <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410238,
-			"chars": ""
+			"chars": "Trigger <color=#f26c1c>{0}</color>, Score: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410239,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>Good Fortune incident</color> and increased multiplier by <color=#f26c1c>{0}</color>. Total score obtained: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410240,
-			"chars": ""
+			"chars": "<color=#f26c1c>Clash Incident</color> triggered, <color=#f26c1c>{0}</color> selected, points gained: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410241,
-			"chars": ""
+			"chars": "Item card obtained: <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410242,
-			"chars": ""
+			"chars": "Built <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410243,
-			"chars": ""
+			"chars": "Purchased <color=#f26c1c>{1}</color> from <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410244,
-			"chars": ""
+			"chars": "Purchased <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410245,
-			"chars": ""
+			"chars": "Modified <color=#f26c1c>{0}</color> to <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410246,
-			"chars": ""
+			"chars": "Used the item card <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410247,
-			"chars": ""
+			"chars": "Activated the item card <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410248,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>{0}</color>'s effect, points gained: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410249,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>{0}</color>'s effect, points gained: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410250,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>{0}</color> and additionally gained points from the base terrain tile <color=#f26c1c>1</color> time"
 		},
 		{
 			"id": 410251,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>{0}</color>'s effect and gave <color=#f26c1c>{1}</color> <color=#f26c1c>{2}</color> points"
 		},
 		{
 			"id": 410252,
-			"chars": ""
+			"chars": "Built <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410253,
-			"chars": ""
+			"chars": "Purchased <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410254,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>{0}</color>"
 		},
 		{
 			"id": 410255,
-			"chars": ""
+			"chars": "Selected <color=#f26c1c>{0}</color> for Clash"
 		},
 		{
 			"id": 410256,
-			"chars": ""
+			"chars": "Active Card"
 		},
 		{
 			"id": 410257,
-			"chars": ""
+			"chars": "Round {0}"
 		},
 		{
 			"id": 410258,
-			"chars": ""
+			"chars": "Current Score"
 		},
 		{
 			"id": 410259,
-			"chars": ""
+			"chars": "Remaining Supplies"
 		},
 		{
 			"id": 410260,
-			"chars": ""
+			"chars": "Triggered <color=#f26c1c>Good Fortune</color>!"
 		},
 		{
 			"id": 410261,
-			"chars": ""
+			"chars": "Triggered Shop"
 		},
 		{
 			"id": 410262,
-			"chars": ""
+			"chars": "All opponents are out. You win!"
 		},
 		{
 			"id": 410263,
-			"chars": ""
+			"chars": "Tip: Remember to build appropriate structures, COmmander~"
 		},
 		{
 			"id": 410264,
-			"chars": ""
+			"chars": "Round {0}"
 		},
 		{
 			"id": 410265,
-			"chars": ""
+			"chars": "It's <color=#ffcf0e>your</color> turn"
 		},
 		{
 			"id": 410266,
-			"chars": ""
+			"chars": "It's the <color=#ffcf0e>Dolls'</color> turn"
 		},
 		{
 			"id": 410267,
-			"chars": ""
+			"chars": "Land on buildable structure"
 		},
 		{
 			"id": 410268,
-			"chars": ""
+			"chars": "Quitting halfway will be considered a loss. Do you wish to continue?"
 		},
 		{
 			"id": 410269,
-			"chars": ""
+			"chars": "Quitting halfway will be considered a loss. Do you wish to continue?"
 		},
 		{
 			"id": 410270,
-			"chars": ""
+			"chars": "Price Fluctuation"
 		},
 		{
 			"id": 410271,
-			"chars": ""
+			"chars": "Result"
 		},
 		{
 			"id": 410501,
-			"chars": ""
+			"chars": "Wipe Out"
 		},
 		{
 			"id": 410502,
-			"chars": ""
+			"chars": "Defend"
 		},
 		{
 			"id": 410503,
-			"chars": ""
+			"chars": "Defense Line Integrity"
 		},
 		{
 			"id": 410504,
-			"chars": ""
+			"chars": "Rank"
 		},
 		{
 			"id": 410505,
-			"chars": ""
+			"chars": "Assault Rank"
 		},
 		{
 			"id": 410506,
@@ -23834,11 +23838,11 @@
 		},
 		{
 			"id": 410508,
-			"chars": ""
+			"chars": "Rank updates may take some time to be displayed"
 		},
 		{
 			"id": 410509,
-			"chars": ""
+			"chars": "No rank information"
 		},
 		{
 			"id": 410510,
@@ -23850,7 +23854,7 @@
 		},
 		{
 			"id": 410512,
-			"chars": ""
+			"chars": "Highest Defense Line Integrity: {0}"
 		},
 		{
 			"id": 411022,
@@ -23890,7 +23894,7 @@
 		},
 		{
 			"id": 420006,
-			"chars": ""
+			"chars": "An elite enemy is approaching, it will show up after {0} enemy unit(s) appear"
 		},
 		{
 			"id": 420007,
@@ -23898,7 +23902,7 @@
 		},
 		{
 			"id": 420008,
-			"chars": ""
+			"chars": "A boss enemy is approaching, it will show up after {0} enemy unit(s) appear"
 		},
 		{
 			"id": 430001,
@@ -24654,7 +24658,7 @@
 		},
 		{
 			"id": 470021,
-			"chars": ""
+			"chars": "Elite Doll - Faye"
 		},
 		{
 			"id": 480001,
@@ -24930,7 +24934,7 @@
 		},
 		{
 			"id": 511003,
-			"chars": ""
+			"chars": "Bind your account for the following rewards:"
 		},
 		{
 			"id": 511004,
@@ -24970,7 +24974,7 @@
 		},
 		{
 			"id": 600009,
-			"chars": ""
+			"chars": "You are not logged in to your Steam account. Please launch the game from Steam after logging in to your Steam account."
 		},
 		{
 			"id": 600010,
