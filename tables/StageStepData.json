@@ -1022,7 +1022,7 @@
 		},
 		{
 			"id": 8061,
-			"stepDetail": ""
+			"stepDetail": "Protect neutral unit"
 		},
 		{
 			"id": 9001,
@@ -2142,11 +2142,11 @@
 		},
 		{
 			"id": 9291,
-			"stepDetail": ""
+			"stepDetail": "Kill Moppy Nexus"
 		},
 		{
 			"id": 9292,
-			"stepDetail": ""
+			"stepDetail": "Kill Berserker"
 		},
 		{
 			"id": 9293,

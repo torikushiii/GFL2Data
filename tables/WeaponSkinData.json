@@ -708,7 +708,7 @@
 		{
 			"id": 3114313,
 			"weaponSkinType": 3,
-			"name": "Skin - Retired Gewehr 28",
+			"name": "Skin - Retired Sturmgewehr 28",
 			"order": 130,
 			"openType": 1,
 			"unlock": 60094,
@@ -978,7 +978,7 @@
 		{
 			"id": 3114674,
 			"weaponSkinType": 3,
-			"name": "Skin - Gewehr 28",
+			"name": "Skin - Sturmgewehr 28",
 			"order": 230,
 			"openType": 1,
 			"unlock": 60079,
@@ -1083,7 +1083,7 @@
 		{
 			"id": 3114945,
 			"weaponSkinType": 3,
-			"name": "Skin - Scylla",
+			"name": "Skin - Skylla",
 			"order": 324,
 			"openType": 1,
 			"unlock": 60063,

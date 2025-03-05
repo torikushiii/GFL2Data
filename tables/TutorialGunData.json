@@ -215,13 +215,13 @@
 			"sourceGunid": 1052,
 			"briefIntro": "A powerful Corrosion Sentinel Doll, capable of applying various debuffs to enemy units and delivering devastating blows to large groups of enemies.",
 			"iconSkill1": 10520501,
-			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in. If any kills are made, the cooldown of the Ultimate skill \"Devastating Drift\" is reduced, and the Doll gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of the turn, units with [Corrosive Infusion] suffer AoE Corrosion damage.",
+			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in. If any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of action, units with [Corrosive Infusion] suffer AoE Corrosion damage.",
 			"iconSkill2": 10520701,
-			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] will gain [Corrosive Infusion] at the end of their turn. Upon death, nearby allied units will be infected and suffer AoE Corrosion damage. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
+			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] will gain [Corrosive Infusion] at the end of their action, and upon death, their nearby allied units will be infected and suffer AoE Corrosion damage. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
 			"iconSkill3": 10520401,
-			"textSkill3": "Selects 1 nearby tile and land onto it, dealing AoE Corrosion damage to all enemy units in the path. If 2 or more targets are killed, the skill can be cast again. After using the skill, this Doll gains an Additional Movement.",
+			"textSkill3": "Selects 1 nearby tile and lands onto it, dealing AoE Corrosion damage to all enemy units in the path. If 2 or more targets are killed, the skill can be cast again. After using the skill, Klukai gains an Additional Movement.",
 			"iconSkill4": 10520801,
-			"textSkill4": "Immune to control type effects. When dealing damage with active attacks, apply 1 stack of [Corrosive Infusion] to the target and increases her Corrosion damage. When the Doll or any allied unit deals Corrosion damage, the unit gains Confectance Index. The cooldown of the Ultimate skill is reduced based on the amount of Confectance Index accumulated.",
+			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target and increases Klukai's Corrosion damage. Klukai gains Confectance Index when Corrosion damage is dealt by self active attacks and allied units. The cooldown of the Ultimate skill is reduced based on the amount of Confectance Index accumulated.",
 			"gunTags": ""
 		},
 		{
@@ -283,15 +283,15 @@
 		{
 			"id": 39021,
 			"sourceGunid": 1047,
-			"briefIntro": "",
+			"briefIntro": "Springfield is a Support Doll capable of healing allies and applying different types of debuffs to enemy units. She applies [Overflowing Care] to allies upon healing them, converting the overhealed amount to bonus Hydro damage for allies. Additionally, Springfield can summon [Taryz] into battle to follow enemy units. [Taryz] can counterattack the followed enemy unit and provide healing to allies.",
 			"iconSkill1": 10470501,
-			"textSkill1": "",
+			"textSkill1": "Applies [False Intelligence] and [Congestion] to enemy targets then deals Hydro damage to them. Units with [False Intelligence] take increased stability damage. Increases Hydro damage taken during Stability Break.\nSpringfield gains Confectance Index.",
 			"iconSkill2": 10470701,
-			"textSkill2": "",
+			"textSkill2": "Heals allies' HP and stability index, then applies [Overflowing Care] to them. Provides multiple instances and opportunities for healing for the allied target. When overhealed, the overhealed amount is converted to bonus Hydro damage for the ally.\nSpringfield gains Confectance Index.",
 			"iconSkill3": 10470401,
-			"textSkill3": "",
+			"textSkill3": "Select an enemy target and summon [Taryz] to follow it, applying [Damp] and [False Intelligence] to them and dealing AoE Hydro damage to them.\nApplies [Deep-Rooted Bonds] to all allies on the battlefield. This increases allies' max HP, applies [Overflowing Care] to them and heals allies' HP and stability index. Also cleanses debuffs, Taunt and Fear effects.\nWhen the target that Taryz follows dies, Taryz switches to following the enemy unit with the highest current HP.\nSpringfield gains confectance index.",
 			"iconSkill4": 10470801,
-			"textSkill4": "",
+			"textSkill4": "At the end of Springfield's action, if Confectance Index is maxed out, expend all Confectance Index and gain [Extra Action]\nWhen the target that [Taryz] is following deals damage to allied units, [Taryz] will counterattack, dealing Hydro damage and stability damage in addition to healing allied units.\nIf [Taryz] is on the battlefield, Springfield heals HP at the end of an action.",
 			"gunTags": ""
 		}
 	]

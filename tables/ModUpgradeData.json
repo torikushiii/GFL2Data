@@ -955,6 +955,12 @@
 			"value": 3
 		},
 		{
+			"id": 34010,
+			"upgradeId": 34,
+			"level": 10,
+			"value": 3
+		},
+		{
 			"id": 35001,
 			"upgradeId": 35,
 			"level": 1,

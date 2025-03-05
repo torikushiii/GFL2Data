@@ -973,15 +973,6 @@
 			"weight": 100
 		},
 		{
-			"interId": 10370401,
-			"id": 1037,
-			"preposition": 103704,
-			"isTimeline": true,
-			"isEsc": true,
-			"barrackInteract": "c_{0}_Bedroom_0401",
-			"weight": 100
-		},
-		{
 			"interId": 10370501,
 			"id": 1037,
 			"preposition": 103705,

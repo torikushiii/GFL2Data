@@ -3007,24 +3007,6 @@
 			"otherParam2": ""
 		},
 		{
-			"id": 60901,
-			"type": 1,
-			"name": "New Wish's Promise",
-			"openTime": "2553494400",
-			"closeTime": "2556086399",
-			"icon": "Icon_Activity_SignIn",
-			"desc": "",
-			"help": "",
-			"bannerResource": "60901",
-			"sort": 1099,
-			"rewardShow": "",
-			"otherParam": "",
-			"permanent": 0,
-			"unLockID": 0,
-			"args": [],
-			"otherParam2": ""
-		},
-		{
 			"id": 60902,
 			"type": 11,
 			"name": "Fragrance Gift",

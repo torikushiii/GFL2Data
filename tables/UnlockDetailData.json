@@ -368,7 +368,7 @@
 		},
 		{
 			"id": 26003,
-			"name": "",
+			"name": "Anniversary Gift Page",
 			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal Stage 1-8</color>",
 			"conditionNum": 1
 		},
@@ -872,8 +872,8 @@
 		},
 		{
 			"id": 60063,
-			"name": "Scylla",
-			"des": "Obtain <COLOR=#F26C1C>Scylla</COLOR> to unlock skin",
+			"name": "Skylla",
+			"des": "Obtain <COLOR=#F26C1C>Skylla</COLOR> to unlock skin",
 			"conditionNum": 1
 		},
 		{
@@ -968,8 +968,8 @@
 		},
 		{
 			"id": 60079,
-			"name": "Gewehr 28",
-			"des": "Acquire <COLOR=#F26C1C>Gewehr 28</COLOR> to unlock",
+			"name": "Sturmgewehr 28",
+			"des": "Acquire <COLOR=#F26C1C>Sturmgewehr 28</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1058,8 +1058,8 @@
 		},
 		{
 			"id": 60094,
-			"name": "Retired Gewehr 28",
-			"des": "Acquire <COLOR=#F26C1C>Retired Gewehr 28</COLOR> to unlock",
+			"name": "Retired Sturmgewehr 28",
+			"des": "Acquire <COLOR=#F26C1C>Retired Sturmgewehr 28</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{

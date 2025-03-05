@@ -2359,7 +2359,7 @@
 		},
 		{
 			"id": 10451,
-			"name": "Retired Gewehr 28",
+			"name": "Retired Sturmgewehr 28",
 			"description": "An old weapon commonly seen in the contaminated zones. It shows a high degree of erosion by the elements.",
 			"type": 4,
 			"modelstype": 1,
@@ -2410,7 +2410,7 @@
 		},
 		{
 			"id": 10452,
-			"name": "Gewehr 28",
+			"name": "Sturmgewehr 28",
 			"description": "A firearm highly compatible with Belka. Modified based on her combat preferences, it is now even more suited for long-range shooting.",
 			"type": 4,
 			"modelstype": 1,
@@ -2464,7 +2464,7 @@
 		{
 			"id": 10453,
 			"name": "Sylvan Elf",
-			"description": "A high-performance assault rifle assigned to Belka. Based on the Gewehr 28, it has been further improved in terms of shooting accuracy, precision and firepower. She bounces around the battlefield like an elf in a forest, pushing back intruders with agility and precision.",
+			"description": "A high-performance assault rifle assigned to Belka. Based on the Sturmgewehr 28, it has been further improved in terms of shooting accuracy, precision and firepower. She bounces around the battlefield like an elf in a forest, pushing back intruders with agility and precision.",
 			"type": 4,
 			"modelstype": 1,
 			"bullettype": 2,
@@ -3091,7 +3091,7 @@
 		},
 		{
 			"id": 10523,
-			"name": "Scylla",
+			"name": "Skylla",
 			"description": "A high-performance assault rifle issued to Klukai, modelled after the 416. Its flexibility has been greatly increased, making it suitable for various combat tactics. Its perfect appearance and performance belies its rampant ambition, and its fangs will tear all foes to shreds.",
 			"type": 4,
 			"modelstype": 1,

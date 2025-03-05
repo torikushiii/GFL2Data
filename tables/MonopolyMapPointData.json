@@ -1,28 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1,
-			"mapId": 1,
-			"pointId": 1,
-			"function": [
-				0
-			],
-			"movementPoint": 1,
-			"occupyCost": {
-				"1": 10,
-				"2": 10
-			},
-			"ishidden": 1,
-			"nextPoint": "",
-			"team": 0,
-			"enemyGroup": 0,
-			"enable": 0,
-			"element": 0,
-			"building": 0,
-			"rotation": 0.0,
-			"enemyTergetPoint": {}
-		},
-		{
 			"id": 2,
 			"mapId": 1,
 			"pointId": 2,

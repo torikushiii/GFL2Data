@@ -118,6 +118,15 @@
 			"type": 0
 		},
 		{
+			"id": 90,
+			"name": "",
+			"isBag": true,
+			"initNum": 5,
+			"maxLimit": 5,
+			"overflow": true,
+			"type": 0
+		},
+		{
 			"id": 101,
 			"name": "",
 			"initNum": 240,

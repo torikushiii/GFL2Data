@@ -1,6 +1,31 @@
 {
 	"data": [
 		{
+			"id": 150001,
+			"name": "Type I Set Carrier Card - Short Wave",
+			"des": "Attachments with Coordinated Defense, Battlefield Rescue, and Heavy Rescue attributes have slightly increased drop rates",
+			"type": 3,
+			"effectType": [
+				101,
+				102,
+				103,
+				1201,
+				1301,
+				1101,
+				801,
+				901,
+				301
+			],
+			"effectTypeDes": "Designate Set",
+			"weightType": 4,
+			"weight": {
+				"1": 367,
+				"3": 367,
+				"8": 367
+			},
+			"weightTypeShow": {}
+		},
+		{
 			"id": 150002,
 			"name": "Type I Set Loadout Card - Medium Wave",
 			"des": "Attachments with Coordinated Defense, Battlefield Rescue, and Heavy Rescue attributes have increased drop rates",
