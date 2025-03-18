@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "Diamonds",
 			"isBag": false,
 			"initNum": 0,
 			"maxLimit": 0,
@@ -11,7 +11,7 @@
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Coins",
 			"isBag": false,
 			"initNum": 0,
 			"maxLimit": 0,
@@ -47,7 +47,7 @@
 		},
 		{
 			"id": 6,
-			"name": "",
+			"name": "Stamina Natural Recovery Limit",
 			"isBag": true,
 			"initNum": 240,
 			"maxLimit": 500,
@@ -73,17 +73,8 @@
 			"type": 0
 		},
 		{
-			"id": 20,
-			"name": "",
-			"initNum": 3,
-			"maxLimit": 99,
-			"overflow": true,
-			"isBag": false,
-			"type": 0
-		},
-		{
 			"id": 21,
-			"name": "",
+			"name": "Gold Stage Attempt Count",
 			"initNum": 3,
 			"maxLimit": 99,
 			"overflow": true,
@@ -101,7 +92,7 @@
 		},
 		{
 			"id": 25,
-			"name": "",
+			"name": "Starting Doll Exp",
 			"isBag": false,
 			"initNum": 0,
 			"maxLimit": 0,
@@ -110,7 +101,7 @@
 		},
 		{
 			"id": 35,
-			"name": "",
+			"name": "Communal Plugin Backpack Grid",
 			"isBag": true,
 			"initNum": 1000,
 			"maxLimit": 10000,
@@ -119,7 +110,7 @@
 		},
 		{
 			"id": 90,
-			"name": "",
+			"name": "Elite Arena Ticket Natural Recovery Limit",
 			"isBag": true,
 			"initNum": 5,
 			"maxLimit": 5,
@@ -155,7 +146,7 @@
 		},
 		{
 			"id": 304,
-			"name": "",
+			"name": "Weekly Boss Challenge Coins",
 			"initNum": 3,
 			"type": 2,
 			"isBag": false,
@@ -182,7 +173,7 @@
 		},
 		{
 			"id": 354,
-			"name": "",
+			"name": "Dark Zone Exploration Tickets",
 			"initNum": 1,
 			"maxLimit": 3,
 			"overflow": true,
@@ -191,7 +182,7 @@
 		},
 		{
 			"id": 1008,
-			"name": "",
+			"name": "Starting Characters",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -200,7 +191,7 @@
 		},
 		{
 			"id": 1017,
-			"name": "",
+			"name": "Starting Characters",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -209,7 +200,7 @@
 		},
 		{
 			"id": 21999,
-			"name": "",
+			"name": "Starting Icon",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -218,7 +209,7 @@
 		},
 		{
 			"id": 22001,
-			"name": "",
+			"name": "Starting Badge",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -227,7 +218,7 @@
 		},
 		{
 			"id": 23001,
-			"name": "",
+			"name": "Starting Title",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -236,7 +227,7 @@
 		},
 		{
 			"id": 24001,
-			"name": "",
+			"name": "Starting Icon Frame",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,
@@ -245,7 +236,7 @@
 		},
 		{
 			"id": 800002,
-			"name": "",
+			"name": "Maximum Battle Chances",
 			"initNum": 2,
 			"maxLimit": 2,
 			"overflow": true,

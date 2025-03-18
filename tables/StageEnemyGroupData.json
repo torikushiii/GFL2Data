@@ -58932,7 +58932,7 @@
 			"enemies": [
 				64020001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64020002,
@@ -58941,7 +58941,7 @@
 				64020003,
 				64020004
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64020003,
@@ -58950,7 +58950,7 @@
 				64020006,
 				64020007
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64020004,
@@ -58959,7 +58959,7 @@
 				64020009,
 				64020010
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64020005,
@@ -58968,7 +58968,7 @@
 				64020012,
 				64020013
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64021001,
@@ -59339,7 +59339,7 @@
 			"enemies": [
 				64030001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 64030004,
@@ -59347,7 +59347,7 @@
 				64030002,
 				64030003
 			],
-			"expandWaveId": 0
+			"expandWaveId": 2
 		},
 		{
 			"id": 64030005,
@@ -59355,7 +59355,7 @@
 				64030004,
 				64030005
 			],
-			"expandWaveId": 0
+			"expandWaveId": 3
 		},
 		{
 			"id": 64031001,
@@ -59702,7 +59702,7 @@
 			"enemies": [
 				64040001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 71101001,
@@ -67064,7 +67064,7 @@
 			"enemies": [
 				640201001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640201002,
@@ -67073,7 +67073,7 @@
 				640201003,
 				640201004
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640201003,
@@ -67082,7 +67082,7 @@
 				640201006,
 				640201007
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640201004,
@@ -67091,7 +67091,7 @@
 				640201009,
 				640201010
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640201005,
@@ -67100,14 +67100,14 @@
 				640201012,
 				640201013
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640301002,
 			"enemies": [
 				640301001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 640301004,
@@ -67115,7 +67115,7 @@
 				640301002,
 				640301003
 			],
-			"expandWaveId": 0
+			"expandWaveId": 2
 		},
 		{
 			"id": 640301005,
@@ -67123,14 +67123,14 @@
 				640301004,
 				640301005
 			],
-			"expandWaveId": 0
+			"expandWaveId": 3
 		},
 		{
 			"id": 640401001,
 			"enemies": [
 				640401001
 			],
-			"expandWaveId": 0
+			"expandWaveId": 1
 		},
 		{
 			"id": 1030701001,

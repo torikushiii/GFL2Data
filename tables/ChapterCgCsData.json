@@ -254,25 +254,25 @@
 		},
 		{
 			"id": 43,
-			"name": "",
+			"name": "One-Doll Army I",
 			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle",
 			"stageId": 3148201
 		},
 		{
 			"id": 44,
-			"name": "",
+			"name": "One-Doll Army II",
 			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Fight",
 			"stageId": 3148201
 		},
 		{
 			"id": 45,
-			"name": "",
+			"name": "One-Doll Army III",
 			"img": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Ready",
 			"stageId": 3148201
 		},
 		{
 			"id": 46,
-			"name": "",
+			"name": "Fatal Clash",
 			"img": "2DRes/9.5mishiti/CG/CG_18_Assault",
 			"stageId": 3141111
 		}

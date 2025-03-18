@@ -1153,10 +1153,10 @@
 		},
 		{
 			"id": 121,
-			"interfaceName": "UIActivityThemeBMainPanel",
 			"audioName": [
 				30103
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1183,10 +1183,10 @@
 		},
 		{
 			"id": 124,
-			"interfaceName": "UISummerActivityMainPanel",
 			"audioName": [
 				30105
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1253,20 +1253,260 @@
 		},
 		{
 			"id": 131,
-			"interfaceName": "UIAnniversary1stMainPanel",
 			"audioName": [
-				30114
+				30115
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
 		},
 		{
 			"id": 132,
+			"audioName": [
+				30082
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 133,
+			"audioName": [
+				30091
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 134,
+			"audioName": [
+				30092
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 135,
+			"audioName": [
+				30104
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 136,
+			"audioName": [
+				30102
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 137,
+			"audioName": [
+				30101
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 138,
+			"audioName": [
+				30103
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 139,
+			"audioName": [
+				30116
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 140,
+			"audioName": [
+				30117
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 141,
+			"interfaceName": "UIAuditionMainPanel",
+			"audioName": [
+				30118
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 142,
+			"interfaceName": "UIDarkzoneExploreMainPanel",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 143,
 			"interfaceName": "UIDormGiftPanel",
 			"audioName": [
 				30084
 			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 144,
+			"audioName": [
+				30120
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 145,
+			"audioName": [
+				40033
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 146,
+			"audioName": [
+				30118
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 147,
+			"audioName": [
+				30117
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 148,
+			"audioName": [
+				40033
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 149,
+			"audioName": [
+				41015
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 150,
+			"audioName": [
+				30121
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1001,
+			"audioName": [
+				30090
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1002,
+			"audioName": [
+				30092
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1003,
+			"audioName": [
+				30093
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1004,
+			"audioName": [
+				30108
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1005,
+			"audioName": [
+				30111
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1006,
+			"audioName": [
+				30114
+			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""

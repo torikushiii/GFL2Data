@@ -635,7 +635,7 @@
 			"sceneLevel": 3,
 			"pointX": 2.16,
 			"pointY": 0.32,
-			"pointZ": -0.01,
+			"pointZ": -0.1,
 			"articleId": 999
 		},
 		{
@@ -646,7 +646,7 @@
 			"sceneLevel": 3,
 			"pointX": 3.47,
 			"pointY": 0.31,
-			"pointZ": -0.01,
+			"pointZ": -0.1,
 			"articleId": 998
 		},
 		{
@@ -657,7 +657,7 @@
 			"sceneLevel": 3,
 			"pointX": 4.91,
 			"pointY": 0.35,
-			"pointZ": -0.01,
+			"pointZ": -0.1,
 			"articleId": 997
 		},
 		{

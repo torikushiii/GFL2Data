@@ -381,13 +381,13 @@
 		{
 			"id": 28009,
 			"name": "Dark Zone Talent Entrance",
-			"des": "Complete any <color=#f26c1c>3</color> explorations in Boundary Breakthrough",
+			"des": "Complete any <color=#f26c1c>3</color> explorations in Breakthrough",
 			"conditionNum": 1
 		},
 		{
 			"id": 28010,
 			"name": "Dark Zone Mission Entrance",
-			"des": "Complete any <color=#f26c1c>4</color> explorations in Boundary Breakthrough",
+			"des": "Complete any <color=#f26c1c>4</color> explorations in Breakthrough",
 			"conditionNum": 1
 		},
 		{

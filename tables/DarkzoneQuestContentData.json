@@ -16,7 +16,7 @@
 		},
 		{
 			"targetId": 4001101,
-			"targetName": "Find and eliminate the Oljefat.",
+			"targetName": "Find and eliminate Oljefat.",
 			"targetType": 1,
 			"targetArgs": {
 				"4001074": 1
@@ -32,7 +32,7 @@
 		},
 		{
 			"targetId": 4003001,
-			"targetName": "Find and eliminate the Temblor Titan.",
+			"targetName": "Find and eliminate Temblor Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4003016": 1
@@ -54,7 +54,7 @@
 		},
 		{
 			"targetId": 4004101,
-			"targetName": "Find Tusk Beasteel and eliminate it.",
+			"targetName": "Find and eliminate Tusk Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4004010": 1
@@ -62,7 +62,7 @@
 		},
 		{
 			"targetId": 4004201,
-			"targetName": "Find and eliminate the Beak Beasteel.",
+			"targetName": "Find and eliminate Beak Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4004074": 1
@@ -70,7 +70,7 @@
 		},
 		{
 			"targetId": 4006001,
-			"targetName": "Find and eliminate the Fortress Titan.",
+			"targetName": "Find and eliminate Fortress Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4006018": 1
@@ -78,7 +78,7 @@
 		},
 		{
 			"targetId": 4006101,
-			"targetName": "Find and eliminate the enemy Blade Titan.",
+			"targetName": "Find and eliminate Blade Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4006070": 1
@@ -86,7 +86,7 @@
 		},
 		{
 			"targetId": 4007001,
-			"targetName": "Find and eliminate the Nemertea.",
+			"targetName": "Find and eliminate Nemertea.",
 			"targetType": 1,
 			"targetArgs": {
 				"4007068": 1
@@ -94,7 +94,7 @@
 		},
 		{
 			"targetId": 4008001,
-			"targetName": "Find and eliminate the Nemertea.",
+			"targetName": "Find and eliminate Nemertea.",
 			"targetType": 1,
 			"targetArgs": {
 				"4008059": 1
@@ -118,7 +118,7 @@
 		},
 		{
 			"targetId": 4011001,
-			"targetName": "Find Tusk Beasteel and eliminate it.",
+			"targetName": "Find and eliminate Tusk Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4011078": 1
@@ -126,7 +126,7 @@
 		},
 		{
 			"targetId": 4012001,
-			"targetName": "Find and eliminate the Beak Beasteel.",
+			"targetName": "Find and eliminate Beak Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4012061": 1
@@ -142,7 +142,7 @@
 		},
 		{
 			"targetId": 4014001,
-			"targetName": "Find and eliminate the Temblor Titan.",
+			"targetName": "Find and eliminate Temblor Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4014021": 1
@@ -150,7 +150,7 @@
 		},
 		{
 			"targetId": 4015001,
-			"targetName": "Find and eliminate the enemy Storm Titan.",
+			"targetName": "Find and eliminate Storm Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4015080": 1
@@ -158,7 +158,7 @@
 		},
 		{
 			"targetId": 4017001,
-			"targetName": "Find and eliminate the Temblor Titan.",
+			"targetName": "Find and eliminate Temblor Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4017001": 1
@@ -166,7 +166,7 @@
 		},
 		{
 			"targetId": 4017101,
-			"targetName": "Find and eliminate the enemy Storm Titan.",
+			"targetName": "Find and eliminate Storm Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4017008": 1
@@ -174,7 +174,7 @@
 		},
 		{
 			"targetId": 4018001,
-			"targetName": "Find and eliminate the enemy Blade Titan.",
+			"targetName": "Find and eliminate Blade Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4018077": 1
@@ -182,7 +182,7 @@
 		},
 		{
 			"targetId": 4021001,
-			"targetName": "Find and eliminate the Fortress Titan.",
+			"targetName": "Find and eliminate Fortress Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4021100": 1
@@ -190,7 +190,7 @@
 		},
 		{
 			"targetId": 4022001,
-			"targetName": "Find and eliminate the Temblor Titan.",
+			"targetName": "Find and eliminate Temblor Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4022047": 1
@@ -198,7 +198,7 @@
 		},
 		{
 			"targetId": 4022101,
-			"targetName": "Find and eliminate the enemy Blade Titan.",
+			"targetName": "Find and eliminate Blade Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4022055": 1
@@ -206,7 +206,7 @@
 		},
 		{
 			"targetId": 4022201,
-			"targetName": "Find and eliminate the Fortress Titan.",
+			"targetName": "Find and eliminate Fortress Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4022090": 1
@@ -214,7 +214,7 @@
 		},
 		{
 			"targetId": 4022301,
-			"targetName": "Find and eliminate the enemy Storm Titan.",
+			"targetName": "Find and eliminate Storm Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4022001": 1
@@ -222,7 +222,7 @@
 		},
 		{
 			"targetId": 4023001,
-			"targetName": "Find and eliminate the Oljefat.",
+			"targetName": "Find and eliminate Oljefat.",
 			"targetType": 1,
 			"targetArgs": {
 				"4023001": 1
@@ -238,7 +238,7 @@
 		},
 		{
 			"targetId": 4025001,
-			"targetName": "Find Tusk Beasteel and eliminate it.",
+			"targetName": "Find and eliminate Tusk Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4025027": 1
@@ -246,7 +246,7 @@
 		},
 		{
 			"targetId": 4026001,
-			"targetName": "Find and eliminate the Beak Beasteel.",
+			"targetName": "Find and eliminate Beak Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4026097": 1
@@ -270,7 +270,7 @@
 		},
 		{
 			"targetId": 4030001,
-			"targetName": "Find and eliminate the Nemertea.",
+			"targetName": "Find and eliminate Nemertea.",
 			"targetType": 1,
 			"targetArgs": {
 				"4030111": 1
@@ -278,7 +278,7 @@
 		},
 		{
 			"targetId": 4031001,
-			"targetName": "Find and eliminate the Blade Titan.",
+			"targetName": "Find and eliminate Blade Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4031049": 1
@@ -300,7 +300,7 @@
 		},
 		{
 			"targetId": 4035001,
-			"targetName": "Find and eliminate the Beak Beasteel.",
+			"targetName": "Find and eliminate Beak Beasteel.",
 			"targetType": 1,
 			"targetArgs": {
 				"4035001": 1
@@ -308,7 +308,7 @@
 		},
 		{
 			"targetId": 4036001,
-			"targetName": "Find and eliminate the Oljefat.",
+			"targetName": "Find and eliminate Oljefat.",
 			"targetType": 1,
 			"targetArgs": {
 				"4036001": 1
@@ -316,7 +316,7 @@
 		},
 		{
 			"targetId": 4037001,
-			"targetName": "Find and eliminate the Fortress Titan.",
+			"targetName": "Find and eliminate Fortress Titan.",
 			"targetType": 1,
 			"targetArgs": {
 				"4037036": 1

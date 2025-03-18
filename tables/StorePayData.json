@@ -1340,6 +1340,24 @@
 			"storeId": 101315,
 			"price": 0,
 			"limitBuy": 0
+		},
+		{
+			"id": 184,
+			"productId": "com.haoplay.gf2exilium.global.164",
+			"name": "衣装·花影重",
+			"describe": "衣装·花影重",
+			"price": 98,
+			"limitBuy": 1,
+			"storeId": 2022
+		},
+		{
+			"id": 185,
+			"productId": "com.haoplay.gf2exilium.global.165",
+			"name": "衣装·花影重",
+			"describe": "衣装·花影重",
+			"price": 128,
+			"limitBuy": 1,
+			"storeId": 2022
 		}
 	]
 }

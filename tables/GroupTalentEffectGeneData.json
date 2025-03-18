@@ -739,15 +739,6 @@
 			"cost": {}
 		},
 		{
-			"id": 210140501,
-			"talentEffectGeneGroup": 2101405,
-			"level": 1,
-			"propertyId": 8101405,
-			"tpItemCost": 100,
-			"itemId": 0,
-			"cost": {}
-		},
-		{
 			"id": 210140601,
 			"talentEffectGeneGroup": 2101406,
 			"level": 1,

@@ -4492,7 +4492,7 @@
 		},
 		{
 			"id": 62005201,
-			"formula": "{0}*50",
+			"formula": "{0}*25",
 			"buffParameter": "2:1:6976902",
 			"parameter": "",
 			"dynamicParameter": "",
@@ -4502,7 +4502,7 @@
 		},
 		{
 			"id": 62005202,
-			"formula": "{0}*100",
+			"formula": "{0}*50",
 			"buffParameter": "2:1:6976902",
 			"parameter": "",
 			"dynamicParameter": "",
@@ -4512,7 +4512,7 @@
 		},
 		{
 			"id": 62005203,
-			"formula": "{0}*200",
+			"formula": "{0}*100",
 			"buffParameter": "2:1:6976902",
 			"parameter": "",
 			"dynamicParameter": "",

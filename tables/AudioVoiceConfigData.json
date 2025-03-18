@@ -510,11 +510,11 @@
 			"winId": "7103959",
 			"failId": "7103960",
 			"deathId": "71039111",
-			"hittedLowId": "7103957",
-			"hittedHighSPId": "7103957",
-			"hittedHighSSPId": "7103957",
-			"hittedLowSPId": "7103957",
-			"hittedLowSSPId": "7103957",
+			"hittedLowId": "71039101",
+			"hittedHighSPId": "71039101",
+			"hittedHighSSPId": "71039101",
+			"hittedLowSPId": "71039101",
+			"hittedLowSSPId": "71039101",
 			"sysBreakId": [
 				71103904
 			],
@@ -689,6 +689,30 @@
 			"selectFinId": ""
 		},
 		{
+			"typeId": 1048,
+			"assignId": "71048106",
+			"charassignId": "71048105",
+			"startId": "71048108",
+			"selectId": "71048103",
+			"autoselectId": "71048104",
+			"cancelId": "71048107",
+			"hitId": "71048101",
+			"killId": "71048117",
+			"masterkillId": "71048117",
+			"winId": "71048118",
+			"failId": "71048112",
+			"deathId": "71048111",
+			"hittedLowId": "71048102",
+			"hittedHighSPId": "71048110",
+			"hittedHighSSPId": "71048110",
+			"hittedLowSPId": "71048110",
+			"hittedLowSSPId": "71048110",
+			"sysBreakId": [
+				71104804
+			],
+			"selectFinId": ""
+		},
+		{
 			"typeId": 1050,
 			"assignId": "71050106",
 			"charassignId": "71050105",
@@ -757,6 +781,30 @@
 			"hittedLowSSPId": "71052109",
 			"sysBreakId": [
 				71105204
+			],
+			"selectFinId": ""
+		},
+		{
+			"typeId": 1053,
+			"assignId": "71053106",
+			"charassignId": "71053105",
+			"startId": "71053108",
+			"selectId": "71053103",
+			"autoselectId": "71053104",
+			"cancelId": "71053107",
+			"hitId": "71053101",
+			"killId": "7105336",
+			"masterkillId": "7105336",
+			"winId": "7105337",
+			"failId": "7105338",
+			"deathId": "71053111",
+			"hittedLowId": "71053102",
+			"hittedHighSPId": "71053110",
+			"hittedHighSSPId": "71053110",
+			"hittedLowSPId": "71053110",
+			"hittedLowSSPId": "71053110",
+			"sysBreakId": [
+				71105304
 			],
 			"selectFinId": ""
 		},

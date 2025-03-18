@@ -12366,7 +12366,7 @@
 			"group": 98,
 			"tag": 2,
 			"name": "A Small Goal",
-			"des": "Complete 1 Boundary Push Local Bounty",
+			"des": "Complete 1 Bounty in Boundary Push",
 			"conditionNum": 1,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12379,7 +12379,7 @@
 			"group": 99,
 			"tag": 2,
 			"name": "One Small Step for Man",
-			"des": "Complete 2 Boundary Push Local Bounties",
+			"des": "Complete 2 Bounties in Boundary Push",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12392,7 +12392,7 @@
 			"group": 100,
 			"tag": 2,
 			"name": "One Giant Leap for Bounty Hunters",
-			"des": "Complete 3 Boundary Push Local Bounties",
+			"des": "Complete 3 Bounties in Boundary Push",
 			"conditionNum": 3,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12405,7 +12405,7 @@
 			"group": 101,
 			"tag": 2,
 			"name": "It's An Adept!",
-			"des": "Complete 4 Boundary Push Local Bounties",
+			"des": "Complete 4 Bounties in Boundary Push",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12418,7 +12418,7 @@
 			"group": 102,
 			"tag": 2,
 			"name": "Adept's Daily Life",
-			"des": "Complete 6 Boundary Push Local Bounties",
+			"des": "Complete 6 Bounties in Boundary Push",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12431,7 +12431,7 @@
 			"group": 103,
 			"tag": 2,
 			"name": "Adept's Challenger",
-			"des": "Complete 8 Boundary Push Local Bounties",
+			"des": "Complete 8 Bounties in Boundary Push",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12444,7 +12444,7 @@
 			"group": 104,
 			"tag": 2,
 			"name": "Adept Sparring",
-			"des": "Complete 10 Boundary Push Local Bounties",
+			"des": "Complete 10 Bounties in Boundary Push",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12457,7 +12457,7 @@
 			"group": 105,
 			"tag": 2,
 			"name": "Adept Alert",
-			"des": "Complete 12 Boundary Push Local Bounties",
+			"des": "Complete 12 Bounties in Boundary Push",
 			"conditionNum": 12,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12470,7 +12470,7 @@
 			"group": 106,
 			"tag": 2,
 			"name": "It's An Expert!",
-			"des": "Complete 14 Boundary Push Local Bounties",
+			"des": "Complete 14 Bounties in Boundary Push",
 			"conditionNum": 14,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12483,7 +12483,7 @@
 			"group": 107,
 			"tag": 2,
 			"name": "Expert's Daily Life",
-			"des": "Complete 16 Boundary Push Local Bounties",
+			"des": "Complete 16 Bounties in Boundary Push",
 			"conditionNum": 16,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12496,7 +12496,7 @@
 			"group": 108,
 			"tag": 2,
 			"name": "Expert Challenger",
-			"des": "Complete 18 Boundary Push Local Bounties",
+			"des": "Complete 18 Bounties in Boundary Push",
 			"conditionNum": 18,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12509,7 +12509,7 @@
 			"group": 109,
 			"tag": 2,
 			"name": "Expert Sparring",
-			"des": "Complete 20 Boundary Push Local Bounties",
+			"des": "Complete 20 Bounties in Boundary Push",
 			"conditionNum": 20,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12522,7 +12522,7 @@
 			"group": 110,
 			"tag": 2,
 			"name": "Expert Alert",
-			"des": "Complete 24 Boundary Push Local Bounties",
+			"des": "Complete 24 Bounties in Boundary Push",
 			"conditionNum": 24,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12535,7 +12535,7 @@
 			"group": 111,
 			"tag": 2,
 			"name": "You Obtained a Master Ball",
-			"des": "Complete 28 Boundary Push Local Bounties",
+			"des": "Complete 28 Bounties in Boundary Push",
 			"conditionNum": 28,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12548,7 +12548,7 @@
 			"group": 112,
 			"tag": 2,
 			"name": "Master's Daily Life",
-			"des": "Complete 32 Boundary Push Local Bounties",
+			"des": "Complete 32 Bounties in Boundary Push",
 			"conditionNum": 32,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {
@@ -12561,7 +12561,7 @@
 			"group": 113,
 			"tag": 2,
 			"name": "Master Challenger",
-			"des": "Complete 36 Boundary Push Local Bounties",
+			"des": "Complete 36 Bounties in Boundary Push",
 			"conditionNum": 36,
 			"icon": "Icon_Achievement_Battle",
 			"reward": {

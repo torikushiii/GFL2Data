@@ -172327,6 +172327,396 @@
 			"propertyId": 209004065
 		},
 		{
+			"id": 209005001,
+			"propertyGroup": 209005,
+			"enemyLevel": 1,
+			"propertyId": 209005001
+		},
+		{
+			"id": 209005002,
+			"propertyGroup": 209005,
+			"enemyLevel": 2,
+			"propertyId": 209005002
+		},
+		{
+			"id": 209005003,
+			"propertyGroup": 209005,
+			"enemyLevel": 3,
+			"propertyId": 209005003
+		},
+		{
+			"id": 209005004,
+			"propertyGroup": 209005,
+			"enemyLevel": 4,
+			"propertyId": 209005004
+		},
+		{
+			"id": 209005005,
+			"propertyGroup": 209005,
+			"enemyLevel": 5,
+			"propertyId": 209005005
+		},
+		{
+			"id": 209005006,
+			"propertyGroup": 209005,
+			"enemyLevel": 6,
+			"propertyId": 209005006
+		},
+		{
+			"id": 209005007,
+			"propertyGroup": 209005,
+			"enemyLevel": 7,
+			"propertyId": 209005007
+		},
+		{
+			"id": 209005008,
+			"propertyGroup": 209005,
+			"enemyLevel": 8,
+			"propertyId": 209005008
+		},
+		{
+			"id": 209005009,
+			"propertyGroup": 209005,
+			"enemyLevel": 9,
+			"propertyId": 209005009
+		},
+		{
+			"id": 209005010,
+			"propertyGroup": 209005,
+			"enemyLevel": 10,
+			"propertyId": 209005010
+		},
+		{
+			"id": 209005011,
+			"propertyGroup": 209005,
+			"enemyLevel": 11,
+			"propertyId": 209005011
+		},
+		{
+			"id": 209005012,
+			"propertyGroup": 209005,
+			"enemyLevel": 12,
+			"propertyId": 209005012
+		},
+		{
+			"id": 209005013,
+			"propertyGroup": 209005,
+			"enemyLevel": 13,
+			"propertyId": 209005013
+		},
+		{
+			"id": 209005014,
+			"propertyGroup": 209005,
+			"enemyLevel": 14,
+			"propertyId": 209005014
+		},
+		{
+			"id": 209005015,
+			"propertyGroup": 209005,
+			"enemyLevel": 15,
+			"propertyId": 209005015
+		},
+		{
+			"id": 209005016,
+			"propertyGroup": 209005,
+			"enemyLevel": 16,
+			"propertyId": 209005016
+		},
+		{
+			"id": 209005017,
+			"propertyGroup": 209005,
+			"enemyLevel": 17,
+			"propertyId": 209005017
+		},
+		{
+			"id": 209005018,
+			"propertyGroup": 209005,
+			"enemyLevel": 18,
+			"propertyId": 209005018
+		},
+		{
+			"id": 209005019,
+			"propertyGroup": 209005,
+			"enemyLevel": 19,
+			"propertyId": 209005019
+		},
+		{
+			"id": 209005020,
+			"propertyGroup": 209005,
+			"enemyLevel": 20,
+			"propertyId": 209005020
+		},
+		{
+			"id": 209005021,
+			"propertyGroup": 209005,
+			"enemyLevel": 21,
+			"propertyId": 209005021
+		},
+		{
+			"id": 209005022,
+			"propertyGroup": 209005,
+			"enemyLevel": 22,
+			"propertyId": 209005022
+		},
+		{
+			"id": 209005023,
+			"propertyGroup": 209005,
+			"enemyLevel": 23,
+			"propertyId": 209005023
+		},
+		{
+			"id": 209005024,
+			"propertyGroup": 209005,
+			"enemyLevel": 24,
+			"propertyId": 209005024
+		},
+		{
+			"id": 209005025,
+			"propertyGroup": 209005,
+			"enemyLevel": 25,
+			"propertyId": 209005025
+		},
+		{
+			"id": 209005026,
+			"propertyGroup": 209005,
+			"enemyLevel": 26,
+			"propertyId": 209005026
+		},
+		{
+			"id": 209005027,
+			"propertyGroup": 209005,
+			"enemyLevel": 27,
+			"propertyId": 209005027
+		},
+		{
+			"id": 209005028,
+			"propertyGroup": 209005,
+			"enemyLevel": 28,
+			"propertyId": 209005028
+		},
+		{
+			"id": 209005029,
+			"propertyGroup": 209005,
+			"enemyLevel": 29,
+			"propertyId": 209005029
+		},
+		{
+			"id": 209005030,
+			"propertyGroup": 209005,
+			"enemyLevel": 30,
+			"propertyId": 209005030
+		},
+		{
+			"id": 209005031,
+			"propertyGroup": 209005,
+			"enemyLevel": 31,
+			"propertyId": 209005031
+		},
+		{
+			"id": 209005032,
+			"propertyGroup": 209005,
+			"enemyLevel": 32,
+			"propertyId": 209005032
+		},
+		{
+			"id": 209005033,
+			"propertyGroup": 209005,
+			"enemyLevel": 33,
+			"propertyId": 209005033
+		},
+		{
+			"id": 209005034,
+			"propertyGroup": 209005,
+			"enemyLevel": 34,
+			"propertyId": 209005034
+		},
+		{
+			"id": 209005035,
+			"propertyGroup": 209005,
+			"enemyLevel": 35,
+			"propertyId": 209005035
+		},
+		{
+			"id": 209005036,
+			"propertyGroup": 209005,
+			"enemyLevel": 36,
+			"propertyId": 209005036
+		},
+		{
+			"id": 209005037,
+			"propertyGroup": 209005,
+			"enemyLevel": 37,
+			"propertyId": 209005037
+		},
+		{
+			"id": 209005038,
+			"propertyGroup": 209005,
+			"enemyLevel": 38,
+			"propertyId": 209005038
+		},
+		{
+			"id": 209005039,
+			"propertyGroup": 209005,
+			"enemyLevel": 39,
+			"propertyId": 209005039
+		},
+		{
+			"id": 209005040,
+			"propertyGroup": 209005,
+			"enemyLevel": 40,
+			"propertyId": 209005040
+		},
+		{
+			"id": 209005041,
+			"propertyGroup": 209005,
+			"enemyLevel": 41,
+			"propertyId": 209005041
+		},
+		{
+			"id": 209005042,
+			"propertyGroup": 209005,
+			"enemyLevel": 42,
+			"propertyId": 209005042
+		},
+		{
+			"id": 209005043,
+			"propertyGroup": 209005,
+			"enemyLevel": 43,
+			"propertyId": 209005043
+		},
+		{
+			"id": 209005044,
+			"propertyGroup": 209005,
+			"enemyLevel": 44,
+			"propertyId": 209005044
+		},
+		{
+			"id": 209005045,
+			"propertyGroup": 209005,
+			"enemyLevel": 45,
+			"propertyId": 209005045
+		},
+		{
+			"id": 209005046,
+			"propertyGroup": 209005,
+			"enemyLevel": 46,
+			"propertyId": 209005046
+		},
+		{
+			"id": 209005047,
+			"propertyGroup": 209005,
+			"enemyLevel": 47,
+			"propertyId": 209005047
+		},
+		{
+			"id": 209005048,
+			"propertyGroup": 209005,
+			"enemyLevel": 48,
+			"propertyId": 209005048
+		},
+		{
+			"id": 209005049,
+			"propertyGroup": 209005,
+			"enemyLevel": 49,
+			"propertyId": 209005049
+		},
+		{
+			"id": 209005050,
+			"propertyGroup": 209005,
+			"enemyLevel": 50,
+			"propertyId": 209005050
+		},
+		{
+			"id": 209005051,
+			"propertyGroup": 209005,
+			"enemyLevel": 51,
+			"propertyId": 209005051
+		},
+		{
+			"id": 209005052,
+			"propertyGroup": 209005,
+			"enemyLevel": 52,
+			"propertyId": 209005052
+		},
+		{
+			"id": 209005053,
+			"propertyGroup": 209005,
+			"enemyLevel": 53,
+			"propertyId": 209005053
+		},
+		{
+			"id": 209005054,
+			"propertyGroup": 209005,
+			"enemyLevel": 54,
+			"propertyId": 209005054
+		},
+		{
+			"id": 209005055,
+			"propertyGroup": 209005,
+			"enemyLevel": 55,
+			"propertyId": 209005055
+		},
+		{
+			"id": 209005056,
+			"propertyGroup": 209005,
+			"enemyLevel": 56,
+			"propertyId": 209005056
+		},
+		{
+			"id": 209005057,
+			"propertyGroup": 209005,
+			"enemyLevel": 57,
+			"propertyId": 209005057
+		},
+		{
+			"id": 209005058,
+			"propertyGroup": 209005,
+			"enemyLevel": 58,
+			"propertyId": 209005058
+		},
+		{
+			"id": 209005059,
+			"propertyGroup": 209005,
+			"enemyLevel": 59,
+			"propertyId": 209005059
+		},
+		{
+			"id": 209005060,
+			"propertyGroup": 209005,
+			"enemyLevel": 60,
+			"propertyId": 209005060
+		},
+		{
+			"id": 209005061,
+			"propertyGroup": 209005,
+			"enemyLevel": 61,
+			"propertyId": 209005061
+		},
+		{
+			"id": 209005062,
+			"propertyGroup": 209005,
+			"enemyLevel": 62,
+			"propertyId": 209005062
+		},
+		{
+			"id": 209005063,
+			"propertyGroup": 209005,
+			"enemyLevel": 63,
+			"propertyId": 209005063
+		},
+		{
+			"id": 209005064,
+			"propertyGroup": 209005,
+			"enemyLevel": 64,
+			"propertyId": 209005064
+		},
+		{
+			"id": 209005065,
+			"propertyGroup": 209005,
+			"enemyLevel": 65,
+			"propertyId": 209005065
+		},
+		{
 			"id": 300001001,
 			"propertyGroup": 300001,
 			"enemyLevel": 1,

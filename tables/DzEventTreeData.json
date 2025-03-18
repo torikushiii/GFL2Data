@@ -480,7 +480,23 @@
 			"eventId": 99924,
 			"condition": "19",
 			"nextEvent": [
-				99923
+				99925
+			],
+			"resultList": ""
+		},
+		{
+			"eventId": 99925,
+			"nextEvent": [
+				99926
+			],
+			"resultList": "1:90011-0",
+			"condition": ""
+		},
+		{
+			"eventId": 99926,
+			"condition": "19",
+			"nextEvent": [
+				99925
 			],
 			"resultList": ""
 		},

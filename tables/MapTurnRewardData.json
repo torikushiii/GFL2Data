@@ -1,6 +1,12 @@
 {
 	"data": [
 		{
+			"id": 110101,
+			"turnRewardId": 1101,
+			"turnNum": 1,
+			"monopolyRewardId": 110104
+		},
+		{
 			"id": 110102,
 			"turnRewardId": 1101,
 			"turnNum": 2,

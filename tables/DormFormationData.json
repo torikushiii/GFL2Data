@@ -1729,6 +1729,24 @@
 			"unlockType": 0
 		},
 		{
+			"id": 103407,
+			"type": 2,
+			"modleId": 1034,
+			"name": "Savor",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_07_Idle",
+			"uiicon": "Macqiato07",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"clothesId": 1103402,
+			"unlockType": 0
+		},
+		{
 			"id": 103501,
 			"type": 2,
 			"modleId": 1035,

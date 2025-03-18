@@ -213,15 +213,15 @@
 		{
 			"id": 39016,
 			"sourceGunid": 1052,
-			"briefIntro": "A powerful Corrosion Sentinel Doll, capable of applying various debuffs to enemy units and delivering devastating blows to large groups of enemies.",
+			"briefIntro": "Klukai is a Sentinel Doll who can apply many debuffs to enemies, such as [Corrosive Infusion], which deals AoE Corrosion damage depending on the amount of  stacks on the the target, as well as [Toxic Infiltration], which spreads to nearby enemy units and deals AoE Corrosion damage to them when a target dies.",
 			"iconSkill1": 10520501,
-			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in. If any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of action, units with [Corrosive Infusion] suffer AoE Corrosion damage.",
+			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in.\nIf any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of the action, units afflicted with [Corrosive Infusion] take AoE Corrosion damage.",
 			"iconSkill2": 10520701,
-			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] will gain [Corrosive Infusion] at the end of their action, and upon death, their nearby allied units will be infected and suffer AoE Corrosion damage. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
+			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units within 3 tiles, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] are inflicted with [Corrosive Infusion] at the end of their action. Upon death, nearby allied units become infected and be dealt AoE Corrosive damage.. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
 			"iconSkill3": 10520401,
 			"textSkill3": "Selects 1 nearby tile and lands onto it, dealing AoE Corrosion damage to all enemy units in the path. If 2 or more targets are killed, the skill can be cast again. After using the skill, Klukai gains an Additional Movement.",
 			"iconSkill4": 10520801,
-			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target and increases Klukai's Corrosion damage. Klukai gains Confectance Index when Corrosion damage is dealt by self active attacks and allied units. The cooldown of the Ultimate skill is reduced based on the amount of Confectance Index accumulated.",
+			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target, gains 1 stack of [Competitive Spirit], and increases Klukai's Corrosion damage. Klukai gets Confectance Index when Corrosive damage is dealt by her own active attacks and by allied units. The cooldown of her Ultimate is reduced based on the amount of Confectance Index accumulated.",
 			"gunTags": ""
 		},
 		{

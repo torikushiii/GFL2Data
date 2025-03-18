@@ -69,7 +69,7 @@
 		{
 			"id": 60403,
 			"edType": 1,
-			"image": "Img_Activity_SignIn_Bg_4",
+			"image": "Img_Activity_SignIn_Bg_6",
 			"activityType": 0
 		},
 		{
@@ -101,6 +101,18 @@
 			"edType": 1,
 			"image": "Img_MultiSignInItem_Bg_1",
 			"activityType": 0
+		},
+		{
+			"id": 62001,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_6",
+			"activityType": 0
+		},
+		{
+			"id": 62002,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_6",
+			"activityType": 1
 		},
 		{
 			"id": 68001,

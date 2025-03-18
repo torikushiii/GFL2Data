@@ -3722,7 +3722,7 @@
 		},
 		{
 			"id": 80345,
-			"chars": "Weakness Display Status"
+			"chars": "Weakness Display"
 		},
 		{
 			"id": 80346,
@@ -3922,7 +3922,7 @@
 		},
 		{
 			"id": 80396,
-			"chars": "Tile auxiliary lines"
+			"chars": "Tile Auxiliary Lines"
 		},
 		{
 			"id": 80397,
@@ -6134,7 +6134,7 @@
 		},
 		{
 			"id": 103127,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 103128,
@@ -9086,7 +9086,7 @@
 		},
 		{
 			"id": 112045,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 112046,
@@ -10922,7 +10922,7 @@
 		},
 		{
 			"id": 180192,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 180193,
@@ -12790,7 +12790,7 @@
 		},
 		{
 			"id": 240217,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 240218,
@@ -12806,11 +12806,11 @@
 		},
 		{
 			"id": 240301,
-			"chars": "Boundary Breakthrough"
+			"chars": "Breakthrough"
 		},
 		{
 			"id": 240302,
-			"chars": "Breakthrough Depth"
+			"chars": "Depth"
 		},
 		{
 			"id": 240303,
@@ -12826,11 +12826,11 @@
 		},
 		{
 			"id": 240306,
-			"chars": "Local Bounty"
+			"chars": "Bounties"
 		},
 		{
 			"id": 240307,
-			"chars": "Breakthrough Strategy"
+			"chars": "Strategies"
 		},
 		{
 			"id": 240308,
@@ -12838,7 +12838,7 @@
 		},
 		{
 			"id": 240309,
-			"chars": "Current Expedition"
+			"chars": "Choose Echelon"
 		},
 		{
 			"id": 240310,
@@ -12846,7 +12846,7 @@
 		},
 		{
 			"id": 240311,
-			"chars": "Team can continue exploration after {0}"
+			"chars": "Echelon Cooldown: {0}"
 		},
 		{
 			"id": 240312,
@@ -12878,7 +12878,7 @@
 		},
 		{
 			"id": 240406,
-			"chars": "Resetting a Breakthrough Strategy will refund all Electric-Crystals. Do you wish to reset all nodes?"
+			"chars": "Resetting Strategies will refund all Electro Crystals. Do you wish to reset all nodes?"
 		},
 		{
 			"id": 240407,
@@ -12894,7 +12894,7 @@
 		},
 		{
 			"id": 240501,
-			"chars": "Local Bounty"
+			"chars": "Bounties"
 		},
 		{
 			"id": 240502,
@@ -12926,7 +12926,7 @@
 		},
 		{
 			"id": 240601,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 240602,
@@ -13006,7 +13006,7 @@
 		},
 		{
 			"id": 240807,
-			"chars": "Reward details"
+			"chars": "Reward Details"
 		},
 		{
 			"id": 240808,
@@ -13030,7 +13030,7 @@
 		},
 		{
 			"id": 240813,
-			"chars": "Maximum Breakthrough Depth Reached"
+			"chars": "Maximum Depth Reached"
 		},
 		{
 			"id": 240901,
@@ -13042,7 +13042,7 @@
 		},
 		{
 			"id": 240903,
-			"chars": "Level Not High Enough"
+			"chars": "Low Level"
 		},
 		{
 			"id": 240904,
@@ -14910,7 +14910,7 @@
 		},
 		{
 			"id": 270039,
-			"chars": "Start Survey"
+			"chars": "Survey"
 		},
 		{
 			"id": 270040,
@@ -14954,7 +14954,7 @@
 		},
 		{
 			"id": 270050,
-			"chars": "Obtain rewards"
+			"chars": "Obtain Rewards"
 		},
 		{
 			"id": 270051,
@@ -15058,7 +15058,7 @@
 		},
 		{
 			"id": 270076,
-			"chars": "Start Survey"
+			"chars": "Survey"
 		},
 		{
 			"id": 270077,
@@ -15118,7 +15118,7 @@
 		},
 		{
 			"id": 270091,
-			"chars": "Temporarily away"
+			"chars": "Temporarily Away"
 		},
 		{
 			"id": 270092,
@@ -15130,7 +15130,7 @@
 		},
 		{
 			"id": 270094,
-			"chars": "Continue game"
+			"chars": "Continue Game"
 		},
 		{
 			"id": 270095,
@@ -15378,7 +15378,7 @@
 		},
 		{
 			"id": 270156,
-			"chars": "Start Survey"
+			"chars": "Survey"
 		},
 		{
 			"id": 270157,
@@ -16918,7 +16918,7 @@
 		},
 		{
 			"id": 271302,
-			"chars": "<color=#F26C1C>[{0}]</color> Single Reward Preview:"
+			"chars": "<color=#F26C1C>[{0}]</color> One-Time Reward Preview:"
 		},
 		{
 			"id": 271303,
@@ -17878,7 +17878,7 @@
 		},
 		{
 			"id": 290602,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 290603,
@@ -19558,7 +19558,7 @@
 		},
 		{
 			"id": 381032,
-			"chars": "Temporarily away"
+			"chars": "Temporarily Away"
 		},
 		{
 			"id": 381033,
@@ -21574,7 +21574,7 @@
 		},
 		{
 			"id": 393003,
-			"chars": "Current Intensity Level"
+			"chars": "Current Frenzy Level"
 		},
 		{
 			"id": 393004,
@@ -21590,11 +21590,11 @@
 		},
 		{
 			"id": 393007,
-			"chars": "Intensity Exercise has been unlocked"
+			"chars": "Frenzy Exercise has been unlocked"
 		},
 		{
 			"id": 393008,
-			"chars": "Battle Records"
+			"chars": "Battle History"
 		},
 		{
 			"id": 393009,
@@ -21618,11 +21618,11 @@
 		},
 		{
 			"id": 393014,
-			"chars": "Enhanced statlines"
+			"chars": "Frenzy Buffs"
 		},
 		{
 			"id": 393015,
-			"chars": "No handicaps selected"
+			"chars": "No Frenzy Buffs selected"
 		},
 		{
 			"id": 393016,
@@ -21634,7 +21634,7 @@
 		},
 		{
 			"id": 393018,
-			"chars": "You have not chosen enough Handicaps to gain the clear reward. Are you sure you want to start the battle?"
+			"chars": "Your Frenzy Level is not high enough to gain the clear reward. Are you sure you want to start the battle?"
 		},
 		{
 			"id": 393019,
@@ -21646,7 +21646,7 @@
 		},
 		{
 			"id": 393021,
-			"chars": "Selected Handicap is not high enough, unable to obtain clear rewards"
+			"chars": "Selected Frenzy Level is not high enough, unable to obtain clear rewards"
 		},
 		{
 			"id": 393022,
@@ -22850,7 +22850,7 @@
 		},
 		{
 			"id": 410032,
-			"chars": "Best used by {0}"
+			"chars": "Best Record: {0}"
 		},
 		{
 			"id": 410033,
@@ -22870,7 +22870,7 @@
 		},
 		{
 			"id": 410037,
-			"chars": "Prepare for Battle"
+			"chars": "Choose a Doll"
 		},
 		{
 			"id": 410038,
@@ -22982,7 +22982,7 @@
 		},
 		{
 			"id": 410065,
-			"chars": "Deduction Over"
+			"chars": "End Simulation"
 		},
 		{
 			"id": 410066,
@@ -23006,7 +23006,7 @@
 		},
 		{
 			"id": 410071,
-			"chars": "Deduction Complete"
+			"chars": "Simulation Complete"
 		},
 		{
 			"id": 410072,
@@ -23034,7 +23034,7 @@
 		},
 		{
 			"id": 410078,
-			"chars": "Deduction Interrupted"
+			"chars": "Simulation Interrupted"
 		},
 		{
 			"id": 410079,
@@ -23042,11 +23042,11 @@
 		},
 		{
 			"id": 410080,
-			"chars": "Highest Assets"
+			"chars": "Highest Pathforger Index"
 		},
 		{
 			"id": 410081,
-			"chars": "Highest rank"
+			"chars": "Highest Rank"
 		},
 		{
 			"id": 410082,
@@ -23058,7 +23058,7 @@
 		},
 		{
 			"id": 410084,
-			"chars": "Pathforge Index"
+			"chars": "Performance Index"
 		},
 		{
 			"id": 410085,
@@ -23114,7 +23114,7 @@
 		},
 		{
 			"id": 410098,
-			"chars": "Start Trailblaze"
+			"chars": "Pathforge"
 		},
 		{
 			"id": 410099,
@@ -23162,7 +23162,7 @@
 		},
 		{
 			"id": 410110,
-			"chars": "Current supply round"
+			"chars": "Starting Supplies"
 		},
 		{
 			"id": 410111,
@@ -23210,19 +23210,19 @@
 		},
 		{
 			"id": 410122,
-			"chars": "Temporarily away"
+			"chars": "Temporarily Away"
 		},
 		{
 			"id": 410123,
-			"chars": "No more dice left, this game is over"
+			"chars": "No dice remaining, game over"
 		},
 		{
 			"id": 410124,
-			"chars": "Trailblaze Complete"
+			"chars": "Pathforge Complete"
 		},
 		{
 			"id": 410125,
-			"chars": "Pathforger Index for this stage"
+			"chars": "Final Index"
 		},
 		{
 			"id": 410126,
@@ -23294,11 +23294,11 @@
 		},
 		{
 			"id": 410143,
-			"chars": "Obtain rewards"
+			"chars": "Obtain Rewards"
 		},
 		{
 			"id": 410144,
-			"chars": "Random resources"
+			"chars": "Wheel of Fortune"
 		},
 		{
 			"id": 410145,
@@ -23330,11 +23330,11 @@
 		},
 		{
 			"id": 410152,
-			"chars": "Surprise Luck"
+			"chars": "Good Fortune"
 		},
 		{
 			"id": 410153,
-			"chars": "A surprise fortune, double the excitement!"
+			"chars": "Twice the luck, double the fun"
 		},
 		{
 			"id": 410154,
@@ -23510,7 +23510,7 @@
 		},
 		{
 			"id": 410197,
-			"chars": "Unable to view support buff of unknown Pathforge members"
+			"chars": "Unable to view support buff of unknown Pathforgers"
 		},
 		{
 			"id": 410198,
@@ -23522,7 +23522,7 @@
 		},
 		{
 			"id": 410200,
-			"chars": "Broke (ㄒoㄒ)/~~"
+			"chars": "Bankrupt (ㄒoㄒ)/~~"
 		},
 		{
 			"id": 410201,
@@ -23530,11 +23530,11 @@
 		},
 		{
 			"id": 410202,
-			"chars": "All targets lose <color=#ffcf0e>{0}</color> points"
+			"chars": "<color=#ffcf0e>{0}</color> credits to all Pathforgers"
 		},
 		{
 			"id": 410203,
-			"chars": "Collect all of {1}'s credits after {0} turn(s)"
+			"chars": "Banker collects {1} credits from all players after {0} round(s)"
 		},
 		{
 			"id": 410204,
@@ -23618,7 +23618,7 @@
 		},
 		{
 			"id": 410224,
-			"chars": "Trailblaze Index"
+			"chars": "Pathforge Index"
 		},
 		{
 			"id": 410225,
@@ -23678,7 +23678,7 @@
 		},
 		{
 			"id": 410239,
-			"chars": "Triggered <color=#f26c1c>Good Fortune incident</color> and increased multiplier by <color=#f26c1c>{0}</color>. Total score obtained: <color=#f26c1c>{1}</color>"
+			"chars": "Triggered <color=#f26c1c>Good Fortune Events</color> and increased multiplier by <color=#f26c1c>{0}</color>. Total score obtained: <color=#f26c1c>{1}</color>"
 		},
 		{
 			"id": 410240,
@@ -23774,7 +23774,7 @@
 		},
 		{
 			"id": 410263,
-			"chars": "Tip: Remember to build appropriate structures, COmmander~"
+			"chars": "Tip: Remember to build the appropriate structures, Commander~"
 		},
 		{
 			"id": 410264,
@@ -23818,7 +23818,7 @@
 		},
 		{
 			"id": 410503,
-			"chars": "Defense Line Integrity"
+			"chars": "Defense Line HP"
 		},
 		{
 			"id": 410504,
@@ -23854,7 +23854,7 @@
 		},
 		{
 			"id": 410512,
-			"chars": "Highest Defense Line Integrity: {0}"
+			"chars": "Highest Defense Line HP: {0}"
 		},
 		{
 			"id": 411022,
@@ -23894,7 +23894,7 @@
 		},
 		{
 			"id": 420006,
-			"chars": "An elite enemy is approaching, it will show up after {0} enemy unit(s) appear"
+			"chars": "An elite enemy is approaching, it will show up after elimitnating {0} enemy unit(s)"
 		},
 		{
 			"id": 420007,
@@ -23902,7 +23902,7 @@
 		},
 		{
 			"id": 420008,
-			"chars": "A boss enemy is approaching, it will show up after {0} enemy unit(s) appear"
+			"chars": "An elite enemy is approaching, it will show up after elimitnating {0} enemy unit(s)"
 		},
 		{
 			"id": 430001,
@@ -23970,7 +23970,7 @@
 		},
 		{
 			"id": 430017,
-			"chars": "Start Patrol"
+			"chars": "Patrol"
 		},
 		{
 			"id": 430018,
@@ -24098,11 +24098,11 @@
 		},
 		{
 			"id": 430049,
-			"chars": "New effect obtained"
+			"chars": "New Effect Obtained"
 		},
 		{
 			"id": 430050,
-			"chars": "Effect upgraded"
+			"chars": "Effect Upgraded"
 		},
 		{
 			"id": 430051,
@@ -24598,7 +24598,7 @@
 		},
 		{
 			"id": 470006,
-			"chars": "{0} Heartbeat Points Available"
+			"chars": "Obtain at {0} Pulse Points"
 		},
 		{
 			"id": 470007,
@@ -24614,7 +24614,7 @@
 		},
 		{
 			"id": 470010,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 470011,
@@ -24930,7 +24930,7 @@
 		},
 		{
 			"id": 511002,
-			"chars": "Reward Preview"
+			"chars": "Rewards Preview"
 		},
 		{
 			"id": 511003,
@@ -24995,6 +24995,90 @@
 		{
 			"id": 610002,
 			"chars": "Story"
+		},
+		{
+			"id": 700000,
+			"chars": "Multiple events, plenty of rewards"
+		},
+		{
+			"id": 700001,
+			"chars": "Login to receive <color=#f36764>40 pulls</color>"
+		},
+		{
+			"id": 700002,
+			"chars": "Obtain [Outfit - Speed Star] for free"
+		},
+		{
+			"id": 700003,
+			"chars": "Aphelion"
+		},
+		{
+			"id": 700004,
+			"chars": "{0} days remaining"
+		},
+		{
+			"id": 700005,
+			"chars": "Mayling's Thanks"
+		},
+		{
+			"id": 700006,
+			"chars": "Obtain by logging in during the event"
+		},
+		{
+			"id": 700007,
+			"chars": "Obtained"
+		},
+		{
+			"id": 700008,
+			"chars": "Analemma"
+		},
+		{
+			"id": 700009,
+			"chars": "Obtain through Login Event"
+		},
+		{
+			"id": 700010,
+			"chars": "Night March"
+		},
+		{
+			"id": 700011,
+			"chars": "Obtain by completing event missions"
+		},
+		{
+			"id": 700012,
+			"chars": "Klukai limited skin"
+		},
+		{
+			"id": 700013,
+			"chars": "Obtain"
+		},
+		{
+			"id": 700014,
+			"chars": "Dawnbreaker"
+		},
+		{
+			"id": 700015,
+			"chars": "Obtain through cumulative logins"
+		},
+		{
+			"id": 700016,
+			"chars": "Daydreamer"
+		},
+		{
+			"id": 700017,
+			"chars": "Obtain through Login Event"
+		},
+		{
+			"id": 700018,
+			"chars": "6000+"
+		},
+		{
+			"id": 700019,
+			"chars": "6"
+		},
+		{
+			"id": 700020,
+			"chars": "22"
 		},
 		{
 			"id": 900001,
@@ -26226,7 +26310,7 @@
 		},
 		{
 			"id": 903136,
-			"chars": "Queued"
+			"chars": "In Echelon"
 		},
 		{
 			"id": 903137,
@@ -26490,11 +26574,11 @@
 		},
 		{
 			"id": 903202,
-			"chars": "Backpack has {0} slots remaining. Do you still want to proceed with Boundary Breakthrough?"
+			"chars": "Backpack has {0} slots remaining. Do you still want to proceed?"
 		},
 		{
 			"id": 903203,
-			"chars": "Backpack is full. Do you still want to proceed with Boundary Breakthrough?"
+			"chars": "Backpack is full. Do you still want to proceed?"
 		},
 		{
 			"id": 903204,
@@ -26694,7 +26778,7 @@
 		},
 		{
 			"id": 903253,
-			"chars": "Passive Engagement"
+			"chars": "Reactive Engagement"
 		},
 		{
 			"id": 903254,
@@ -26746,7 +26830,7 @@
 		},
 		{
 			"id": 903266,
-			"chars": "When enemies are gathered in large groups, prioritize eliminating enemies outside of detection range to avoid triggering Fight Response"
+			"chars": "When enemies are gathered in large groups, prioritize eliminating enemies outside of detection range to avoid triggering Stress Response."
 		},
 		{
 			"id": 903267,
@@ -28158,7 +28242,7 @@
 		},
 		{
 			"id": 903620,
-			"chars": "Assume Disguise"
+			"chars": "Assuming Disguise"
 		},
 		{
 			"id": 903621,
@@ -28254,7 +28338,7 @@
 		},
 		{
 			"id": 903719,
-			"chars": "Battle imminent"
+			"chars": "Initiates Combat"
 		},
 		{
 			"id": 903720,
@@ -28294,11 +28378,11 @@
 		},
 		{
 			"id": 903729,
-			"chars": "Unable to successfully assassinate the enemy unit under Cover protection. Proceed to combat."
+			"chars": "Unable to successfully assassinate the enemy unit under Cover protection. Will initiate combat."
 		},
 		{
 			"id": 903730,
-			"chars": "Enemy unit's Stress Resistance has been triggered. Proceed to combat."
+			"chars": "Enemy unit's Stress Response has been triggered. Proceed to combat."
 		},
 		{
 			"id": 903731,
@@ -28314,7 +28398,7 @@
 		},
 		{
 			"id": 903734,
-			"chars": "Stress Resistance"
+			"chars": "Stress Response"
 		},
 		{
 			"id": 903735,

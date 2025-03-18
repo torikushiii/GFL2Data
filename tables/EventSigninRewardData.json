@@ -1137,6 +1137,77 @@
 			"rewards": {
 				"45": 3
 			}
+		},
+		{
+			"id": 129,
+			"activityId": 62001,
+			"days": 1,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 130,
+			"activityId": 62001,
+			"days": 2,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 131,
+			"activityId": 62001,
+			"days": 3,
+			"rewards": {
+				"8": 2,
+				"12": 2
+			}
+		},
+		{
+			"id": 132,
+			"activityId": 62001,
+			"days": 4,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 133,
+			"activityId": 62001,
+			"days": 5,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 134,
+			"activityId": 62001,
+			"days": 6,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 135,
+			"activityId": 62001,
+			"days": 7,
+			"rewards": {
+				"8": 2,
+				"12": 3
+			}
+		},
+		{
+			"id": 136,
+			"activityId": 62002,
+			"days": 1,
+			"rewards": {
+				"45": 10
+			}
 		}
 	]
 }

@@ -19,7 +19,7 @@
 		},
 		{
 			"id": 2,
-			"name": "",
+			"name": "Stamina-type resource",
 			"maxLimit": 100000000,
 			"rank": 4,
 			"pile": 1,
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": 4,
-			"name": "",
+			"name": "Ordinary Item",
 			"maxLimit": 100000000,
 			"rank": 3,
 			"pile": 1,
@@ -70,7 +70,7 @@
 		},
 		{
 			"id": 5,
-			"name": "",
+			"name": "Drop Bag",
 			"maxLimit": 100000000,
 			"pile": 1,
 			"overflowName": "",
@@ -87,7 +87,7 @@
 		},
 		{
 			"id": 6,
-			"name": "",
+			"name": "Item Bag",
 			"pile": 1,
 			"overflowName": "",
 			"dzbagOccupy": true,
@@ -104,7 +104,7 @@
 		},
 		{
 			"id": 7,
-			"name": "",
+			"name": "Game Mode Voucher",
 			"pile": 1,
 			"overflowName": "",
 			"stockShow": true,
@@ -121,7 +121,7 @@
 		},
 		{
 			"id": 8,
-			"name": "",
+			"name": "Self-Select Bag",
 			"rank": 1,
 			"pile": 1,
 			"overflowName": "",
@@ -137,25 +137,8 @@
 			"use": 0
 		},
 		{
-			"id": 10,
-			"name": "",
-			"rank": 11,
-			"pile": 1,
-			"overflowName": "",
-			"dzbagOccupy": true,
-			"relatedItem": 0,
-			"maxLimit": 0,
-			"overflow": false,
-			"jump": 0,
-			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
-			"use": 0
-		},
-		{
 			"id": 11,
-			"name": "",
+			"name": "Doll Core",
 			"maxLimit": 100000000,
 			"rank": 10,
 			"pile": 1,
@@ -172,7 +155,7 @@
 		},
 		{
 			"id": 12,
-			"name": "",
+			"name": "Commander Icon",
 			"overflow": true,
 			"overflowName": "Avatar",
 			"dzbagOccupy": true,
@@ -240,7 +223,7 @@
 		},
 		{
 			"id": 22,
-			"name": "",
+			"name": "Drone Weapon Part",
 			"pile": 1,
 			"overflowName": "",
 			"stockShow": true,
@@ -257,7 +240,7 @@
 		},
 		{
 			"id": 26,
-			"name": "",
+			"name": "Drone Upgrade Material",
 			"maxLimit": 100000000,
 			"pile": 1,
 			"overflowName": "",
@@ -308,7 +291,7 @@
 		},
 		{
 			"id": 30,
-			"name": "",
+			"name": "Map（for Combat Exercise only）",
 			"overflowName": "",
 			"dzbagOccupy": true,
 			"relatedItem": 0,
@@ -325,7 +308,7 @@
 		},
 		{
 			"id": 31,
-			"name": "",
+			"name": "Talent Skill Item",
 			"relatedItem": 35,
 			"maxLimit": 999999,
 			"overflowName": "Universal Key",
@@ -342,7 +325,7 @@
 		},
 		{
 			"id": 33,
-			"name": "",
+			"name": "Game Mode Count",
 			"pile": 1,
 			"overflow": true,
 			"overflowName": "",
@@ -359,7 +342,7 @@
 		},
 		{
 			"id": 34,
-			"name": "",
+			"name": "Virtual Resource",
 			"pile": 1,
 			"overflow": true,
 			"overflowName": "",
@@ -376,7 +359,7 @@
 		},
 		{
 			"id": 35,
-			"name": "",
+			"name": "Monthly Card-type",
 			"pile": 1,
 			"overflowName": "",
 			"dzbagOccupy": true,
@@ -393,7 +376,7 @@
 		},
 		{
 			"id": 36,
-			"name": "",
+			"name": "Badge",
 			"rank": 2,
 			"overflow": true,
 			"overflowName": "",
@@ -444,7 +427,7 @@
 		},
 		{
 			"id": 39,
-			"name": "",
+			"name": "Commander Icon Frame",
 			"overflow": true,
 			"overflowName": "",
 			"dzbagOccupy": true,
@@ -461,7 +444,7 @@
 		},
 		{
 			"id": 50,
-			"name": "",
+			"name": "Battlefield Robot",
 			"rank": 11,
 			"pile": 1,
 			"overflowName": "",
@@ -478,7 +461,7 @@
 		},
 		{
 			"id": 51,
-			"name": "",
+			"name": "Battlefield Robot Drop Bag",
 			"overflowName": "",
 			"dzbagOccupy": true,
 			"relatedItem": 0,
@@ -546,7 +529,7 @@
 		},
 		{
 			"id": 90,
-			"name": "",
+			"name": "Growth Data (Dark Zone only)",
 			"overflowName": "",
 			"dzbagOccupy": true,
 			"relatedItem": 0,
@@ -563,7 +546,7 @@
 		},
 		{
 			"id": 91,
-			"name": "",
+			"name": "Sustain Item (Dark Zone only)",
 			"pile": 1,
 			"overflowName": "",
 			"dzbagOccupy": true,
@@ -580,7 +563,7 @@
 		},
 		{
 			"id": 92,
-			"name": "",
+			"name": "Material (Dark Zone only)",
 			"pile": 1,
 			"overflowName": "",
 			"dzbagOccupy": true,
@@ -597,7 +580,7 @@
 		},
 		{
 			"id": 94,
-			"name": "",
+			"name": "Function Item (Dark Zone only)",
 			"overflowName": "",
 			"relatedItem": 0,
 			"maxLimit": 0,
@@ -682,7 +665,7 @@
 		},
 		{
 			"id": 101,
-			"name": "",
+			"name": "Wishing Item",
 			"maxLimit": 999999,
 			"pile": 1,
 			"overflow": true,
@@ -699,7 +682,7 @@
 		},
 		{
 			"id": 102,
-			"name": "",
+			"name": "Wishing Item Material",
 			"maxLimit": 999999,
 			"pile": 1,
 			"overflow": true,
@@ -716,7 +699,7 @@
 		},
 		{
 			"id": 103,
-			"name": "",
+			"name": "Wishing Item Recipe",
 			"pile": 1,
 			"overflow": true,
 			"overflowName": "",
@@ -733,7 +716,7 @@
 		},
 		{
 			"id": 104,
-			"name": "",
+			"name": "Usable Item",
 			"maxLimit": 999,
 			"rank": 100,
 			"pile": 1,
@@ -750,7 +733,7 @@
 		},
 		{
 			"id": 105,
-			"name": "",
+			"name": "Random Gift Pack",
 			"maxLimit": 999,
 			"rank": 100,
 			"pile": 1,
@@ -767,7 +750,7 @@
 		},
 		{
 			"id": 106,
-			"name": "",
+			"name": "Monthly Card（usable）",
 			"maxLimit": 999,
 			"rank": 100,
 			"pile": 1,
@@ -801,7 +784,7 @@
 		},
 		{
 			"id": 110,
-			"name": "",
+			"name": "Self-Select Attachment Gift Pack",
 			"maxLimit": 10000000,
 			"rank": 10,
 			"pile": 1,
@@ -818,7 +801,7 @@
 		},
 		{
 			"id": 111,
-			"name": "",
+			"name": "Event Item（stackable）",
 			"maxLimit": 100000000,
 			"rank": 3,
 			"pile": 1,
@@ -835,7 +818,7 @@
 		},
 		{
 			"id": 112,
-			"name": "",
+			"name": "Event Item（unstackable）",
 			"maxLimit": 100000000,
 			"rank": 3,
 			"overflowName": "",
@@ -886,7 +869,7 @@
 		},
 		{
 			"id": 120,
-			"name": "",
+			"name": "Ruby Event Item",
 			"maxLimit": 2000,
 			"pile": 1,
 			"overflow": true,
@@ -903,7 +886,7 @@
 		},
 		{
 			"id": 121,
-			"name": "",
+			"name": "Monthly Card Discount Voucher",
 			"maxLimit": 1,
 			"pile": 1,
 			"overflowName": "",
@@ -920,7 +903,7 @@
 		},
 		{
 			"id": 122,
-			"name": "",
+			"name": "Affection Gift",
 			"maxLimit": 100000000,
 			"pile": 1,
 			"overflowName": "",
@@ -937,7 +920,7 @@
 		},
 		{
 			"id": 130,
-			"name": "",
+			"name": "Character Event Ticket",
 			"maxLimit": 10000000,
 			"pile": 1,
 			"overflow": true,
@@ -1005,7 +988,7 @@
 		},
 		{
 			"id": 142,
-			"name": "",
+			"name": "Re-Ignition Battle Pass EXP",
 			"maxLimit": 100000000,
 			"pile": 1,
 			"overflow": true,

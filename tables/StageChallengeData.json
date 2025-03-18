@@ -3410,7 +3410,7 @@
 				"3"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate at least 3 enemy Heavy Machine Gun Modules"
+			"description": "Eliminate at least 3 enemy Sentry Guns(HMG)"
 		},
 		{
 			"id": 12008,
@@ -3438,7 +3438,7 @@
 				"1"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 1 enemy Heavy Machine Gun Module"
+			"description": "Eliminate 1 enemy Sentry Guns(HMG)"
 		},
 		{
 			"id": 12010,
@@ -4214,7 +4214,7 @@
 				"7011"
 			],
 			"title": "Art of Command",
-			"description": "No grenade launcher modules damaged"
+			"description": "No Sentry Guns(GL) damaged"
 		},
 		{
 			"id": 12105,
@@ -4824,7 +4824,7 @@
 				"2"
 			],
 			"title": "Neutralize Threats",
-			"description": "Disable all Heavy Machine Gun Modules"
+			"description": "Disable all Sentry Guns(HMG)"
 		},
 		{
 			"id": 12706,
@@ -5542,7 +5542,7 @@
 				"4"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 1 Heavy Machine Gun Module within 4 turns"
+			"description": "Eliminate 1 Sentry Gun(HMG) within 4 turns"
 		},
 		{
 			"id": 13716,
@@ -5590,7 +5590,7 @@
 				"5"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 2 Heavy Machine Gun Modules within 5 turns"
+			"description": "Eliminate 2 Sentry Guns(HMG) within 5 turns"
 		},
 		{
 			"id": 13719,

@@ -16,11 +16,6 @@
 			"size": 1.0
 		},
 		{
-			"id": 1011211,
-			"modCode": "Sights/WeaponPart_1_gunhs_1",
-			"size": 1.0
-		},
-		{
 			"id": 1011221,
 			"modCode": "Sights/WeaponPart_1_gunhs_2",
 			"size": 1.0
@@ -671,11 +666,6 @@
 			"size": 1.0
 		},
 		{
-			"id": 2011531,
-			"modCode": "Silencers/WeaponPart_2_gunuidtask_3",
-			"size": 1.0
-		},
-		{
 			"id": 2011611,
 			"modCode": "Silencers/WeaponPart_2_quicksilencer_1",
 			"size": 1.0
@@ -903,11 +893,6 @@
 		{
 			"id": 2021511,
 			"modCode": "Silencers/WeaponPart_2_Guntec_1",
-			"size": 1.0
-		},
-		{
-			"id": 2021521,
-			"modCode": "Silencers/WeaponPart_2_Guntec_2",
 			"size": 1.0
 		},
 		{
@@ -1763,6 +1748,11 @@
 		{
 			"id": 12011411,
 			"modCode": "Grip/WeaponPart_12_common3_1",
+			"size": 1.0
+		},
+		{
+			"id": 12011421,
+			"modCode": "Grip/WeaponPart_12_common3_2",
 			"size": 1.0
 		},
 		{

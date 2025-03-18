@@ -1,6 +1,14 @@
 {
 	"data": [
 		{
+			"id": 1100100,
+			"type": 1,
+			"costumeType": 1,
+			"icon": "Skin_0001",
+			"modelConfigId": 1001,
+			"sequence": 0
+		},
+		{
 			"id": 1100101,
 			"type": 1,
 			"costumeType": 2,

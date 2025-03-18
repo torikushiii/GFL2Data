@@ -1013,6 +1013,17 @@
 			"sort": 4025
 		},
 		{
+			"id": 21164,
+			"icon": "Avatar_Head_MacqiatoSSR02",
+			"iconFemale": "Avatar_Head_MacqiatoSSR02",
+			"bust": "Avatar_Head_MacqiatoSSR02",
+			"bustFemale": "Avatar_Head_MacqiatoSSR02",
+			"itemId": 21164,
+			"unlockDes": "Unlocked after obtaining Makiatto's Outfit - Embroidered Bamboo, Blooming Shadows.",
+			"displayConfig": 1,
+			"sort": 4026
+		},
+		{
 			"id": 21165,
 			"icon": "Avatar_Head_ActivityAndoris1",
 			"iconFemale": "Avatar_Head_ActivityAndoris1",
@@ -1074,7 +1085,7 @@
 			"bust": "Avatar_Head_LennaSSR01",
 			"bustFemale": "Avatar_Head_LennaSSR01",
 			"itemId": 21171,
-			"unlockDes": "",
+			"unlockDes": "Unlock by acquiring Lenna's Outfit - Flying Phantom",
 			"sort": 4028,
 			"displayConfig": 0
 		},

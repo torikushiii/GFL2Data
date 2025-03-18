@@ -8807,6 +8807,54 @@
 			"planOpenFunction": 0,
 			"planOpenArgs": 0,
 			"lastJump": 0
+		},
+		{
+			"id": 51000,
+			"behavior": 5002,
+			"args": "60303",
+			"unlockId": 30001,
+			"isAdditive": false,
+			"planOpen": 0,
+			"planOpenHint": 0,
+			"planOpenFunction": 0,
+			"planOpenArgs": 0,
+			"lastJump": 0
+		},
+		{
+			"id": 51001,
+			"behavior": 5002,
+			"args": "60301",
+			"unlockId": 30001,
+			"isAdditive": false,
+			"planOpen": 0,
+			"planOpenHint": 0,
+			"planOpenFunction": 0,
+			"planOpenArgs": 0,
+			"lastJump": 0
+		},
+		{
+			"id": 51002,
+			"behavior": 5002,
+			"args": "60403",
+			"unlockId": 30001,
+			"isAdditive": false,
+			"planOpen": 0,
+			"planOpenHint": 0,
+			"planOpenFunction": 0,
+			"planOpenArgs": 0,
+			"lastJump": 0
+		},
+		{
+			"id": 51003,
+			"behavior": 5002,
+			"args": "62001",
+			"unlockId": 30001,
+			"isAdditive": false,
+			"planOpen": 0,
+			"planOpenHint": 0,
+			"planOpenFunction": 0,
+			"planOpenArgs": 0,
+			"lastJump": 0
 		}
 	]
 }

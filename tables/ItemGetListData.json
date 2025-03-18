@@ -29,13 +29,6 @@
 			"jumpCode": "104"
 		},
 		{
-			"id": 30001,
-			"type": 3,
-			"title": "Standard Access",
-			"canJump": true,
-			"jumpCode": "6101"
-		},
-		{
 			"id": 30002,
 			"type": 3,
 			"title": "Military Upgrade",

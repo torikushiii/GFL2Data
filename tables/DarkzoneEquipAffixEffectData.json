@@ -1863,6 +1863,13 @@
 			"lowerLimit": 120
 		},
 		{
+			"id": 21510,
+			"effect": "behit_damage",
+			"buffBaseType": 1,
+			"upperLimit": 80,
+			"lowerLimit": 120
+		},
+		{
 			"id": 21511,
 			"effect": "release_heal",
 			"buffBaseType": 1,

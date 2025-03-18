@@ -82157,6 +82157,7 @@
 			"gunBirthPoints": "1441810:(0.0, 0.0, 0.0):|1507346:(0.0, 0.0, 0.0):|1769491:(0.0, 0.0, 0.0):|1835027:(0.0, 0.0, 0.0):",
 			"enemies": [
 				6340,
+				61122,
 				63162,
 				63212,
 				65023,
@@ -110371,7 +110372,7 @@
 				62161,
 				62452
 			],
-			"initialEnemies": "1441815:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376280:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1441817:62111:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1507353:62101:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1310743:62101:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1703965:62101:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1703967:62161:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1572895:62161:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1703968:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1507358:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "1441815:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376280:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1441817:62111:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1507353:62101:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1310743:62101:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 4,
 			"mapId": 671,
@@ -111871,10 +111872,9 @@
 			"enemies": [
 				62831,
 				62013,
-				62113,
-				62132,
-				62152,
-				62163
+				62102,
+				62241,
+				62452
 			],
 			"initialEnemies": "1638430:62831:(0.0, 180.0, 0.0):1:True:True:0:False:2:0:False|1310747:62013:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1507356:62452:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1507355:62241:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1441818:62102:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376278:7016:(0.0, 0.0, 0.0):1:False:False:0:False:3:0:False|1441814:7016:(0.0, 0.0, 0.0):1:False:False:0:False:3:0:False|1703958:7016:(0.0, 0.0, 0.0):1:False:False:0:False:3:0:False",
 			"gunMinCount": 1,
@@ -113262,7 +113262,7 @@
 			"enemies": [
 				7022,
 				62101,
-				62111,
+				62112,
 				62141,
 				62151,
 				62161,
@@ -113710,10 +113710,9 @@
 			"stageId": 31475,
 			"gunBirthPoints": "1376275:(0.0, 0.0, 0.0):|1441811:(0.0, 0.0, 0.0):|1572883:(0.0, 0.0, 0.0):|1703955:(0.0, 0.0, 0.0):|1769491:(0.0, 0.0, 0.0):",
 			"enemies": [
+				68641,
 				63212,
-				67062,
-				67082,
-				68641
+				67082
 			],
 			"initialEnemies": "1572890:68641:(0.0, 180.0, 0.0):1:False:True:0:False:2:0:False",
 			"gunMinCount": 1,
@@ -143611,7 +143610,7 @@
 				63173,
 				64141
 			],
-			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:True:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:True:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 1333,
@@ -144457,7 +144456,7 @@
 				63173,
 				64141
 			],
-			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:True:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:True:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 1333,
@@ -144864,14 +144863,14 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:69769:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendGunLimit": 0,
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 64021,
@@ -145291,7 +145290,7 @@
 				63173,
 				64141
 			],
-			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:True:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:True:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 1333,
@@ -145724,13 +145723,13 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:68839:|2:61131:|3:61131:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 64031,
@@ -146149,7 +146148,7 @@
 				63173,
 				64141
 			],
-			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "2293785:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1966101:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1769489:63173:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031649:63153:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179667:63153:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|2097179:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245206:64141:(0.0, 90.0, 0.0):1:False:False:0:False:2:0:False|1638427:6443:(0.0, 180.0, 0.0):1:True:False:0:False:2:0:False|1376286:6347:(0.0, -90.0, 0.0):1:True:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 1333,
@@ -146400,7 +146399,7 @@
 				63152,
 				64141
 			],
-			"initialEnemies": "1376286:6340:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1179672:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245208:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1310742:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376278:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1638422:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1900566:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031640:62113:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031644:62113:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False",
+			"initialEnemies": "1376286:6340:(0.0, 180.0, 0.0):1:True:False:0:False:2:0:False|1179672:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1245208:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1310742:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1376278:63152:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1638422:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|1900566:64141:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031640:62113:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False|2031644:62113:(0.0, 180.0, 0.0):1:False:False:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 962,
@@ -146470,9 +146469,9 @@
 			"stageId": 64040,
 			"gunBirthPoints": "1310747:(0.0, 90.0, 0.0):|1310745:(0.0, 90.0, 0.0):|1900571:(0.0, -90.0, 0.0):|1900569:(0.0, -90.0, 0.0):|1310746:(0.0, 90.0, 0.0):|1900570:(0.0, -90.0, 0.0):",
 			"enemies": [
-				68644
+				68646
 			],
-			"initialEnemies": "1638426:68644:(0.0, 180.0, 0.0):1:False:True:0:False:2:0:False",
+			"initialEnemies": "1638426:68646:(0.0, 180.0, 0.0):1:False:True:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 33,
@@ -146509,13 +146508,13 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:68646:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 71101,
@@ -166464,14 +166463,14 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:69769:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendGunLimit": 0,
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 640301,
@@ -166524,21 +166523,21 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:68839:|2:61131:|3:61131:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 640401,
 			"gunBirthPoints": "1310747:(0.0, 90.0, 0.0):|1310745:(0.0, 90.0, 0.0):|1900571:(0.0, -90.0, 0.0):|1900569:(0.0, -90.0, 0.0):|1310746:(0.0, 90.0, 0.0):|1900570:(0.0, -90.0, 0.0):",
 			"enemies": [
-				68644
+				68646
 			],
-			"initialEnemies": "1638426:68644:(0.0, 180.0, 0.0):1:False:True:0:False:2:0:False",
+			"initialEnemies": "1638426:68646:(0.0, 180.0, 0.0):1:False:True:0:False:2:0:False",
 			"gunMinCount": 1,
 			"gunLimit": 5,
 			"mapId": 33,
@@ -166575,13 +166574,13 @@
 			"gunPresetIds": [
 				0
 			],
+			"expandWaveId": "1:68646:",
 			"avgId": 0,
 			"strongholds": [],
 			"defendBirthPoints": "",
 			"defaultGuns": "",
 			"performanceId": 0,
-			"expandSkill": [],
-			"expandWaveId": ""
+			"expandSkill": []
 		},
 		{
 			"stageId": 1030701,

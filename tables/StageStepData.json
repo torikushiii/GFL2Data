@@ -686,7 +686,7 @@
 		},
 		{
 			"id": 5115,
-			"stepDetail": "Try to take over the grenade launcher module..."
+			"stepDetail": "Try to take over the Sentry Gun(GL)..."
 		},
 		{
 			"id": 5116,
@@ -897,10 +897,6 @@
 			"stepDetail": "Place the mission items at the target locations {0}/3"
 		},
 		{
-			"id": 8030,
-			"stepDetail": "Place mission items at the target locations {0}/4"
-		},
-		{
 			"id": 8031,
 			"stepDetail": "Capture the Control Point {0}/1"
 		},
@@ -946,7 +942,7 @@
 		},
 		{
 			"id": 8042,
-			"stepDetail": "Optional target: Hack the target location to gain control of the heavy machine gun module or grenade launcher module"
+			"stepDetail": "Optional target: Hack the target location to gain control of the Sentry Gun(HMG) or Sentry Gun(GL)"
 		},
 		{
 			"id": 8043,
@@ -1114,7 +1110,7 @@
 		},
 		{
 			"id": 9023,
-			"stepDetail": "Head to the target location and gain control of the heavy machine gun module or the grenade launcher module"
+			"stepDetail": "Head to the target location and gain control of the Sentry Gun(HMG) or the Sentry Gun(GL)"
 		},
 		{
 			"id": 9024,
@@ -1158,7 +1154,7 @@
 		},
 		{
 			"id": 9034,
-			"stepDetail": "Successfully gain control of at least one heavy machine gun module"
+			"stepDetail": "Successfully gain control of at least one Sentry Gun(HMG)"
 		},
 		{
 			"id": 9035,
@@ -1574,7 +1570,7 @@
 		},
 		{
 			"id": 9149,
-			"stepDetail": "Destroy the Grenade Launcher Module"
+			"stepDetail": "Destroy the Sentry Gun(GL)"
 		},
 		{
 			"id": 9150,
@@ -1602,7 +1598,7 @@
 		},
 		{
 			"id": 9156,
-			"stepDetail": "Activate the mechanism to start the heavy machine gun module"
+			"stepDetail": "Activate the mechanism to start the Sentry Gun(HMG)"
 		},
 		{
 			"id": 9157,
@@ -1890,7 +1886,7 @@
 		},
 		{
 			"id": 9228,
-			"stepDetail": "Protect the heavy machine gun modules from being completely destroyed. Current damage: {0}/3"
+			"stepDetail": "Protect the Sentry Gun(HMG) from being completely destroyed. Current Destroyed: {0}/3"
 		},
 		{
 			"id": 9229,
@@ -2078,7 +2074,7 @@
 		},
 		{
 			"id": 9275,
-			"stepDetail": "Eliminate Bluesphere"
+			"stepDetail": "Eliminate Blusphere"
 		},
 		{
 			"id": 9276,

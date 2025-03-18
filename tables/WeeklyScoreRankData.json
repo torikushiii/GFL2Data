@@ -521,6 +521,19 @@
 			}
 		},
 		{
+			"id": 91,
+			"level": 9,
+			"name": "Average",
+			"scoreSection": [
+				0,
+				39319
+			],
+			"rank": 1,
+			"reward": {
+				"13": 730
+			}
+		},
+		{
 			"id": 92,
 			"level": 9,
 			"name": "Good",

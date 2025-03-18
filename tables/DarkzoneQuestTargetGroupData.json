@@ -39,7 +39,7 @@
 		},
 		{
 			"targetGroupId": 4001101,
-			"targetGroupDesc": "Find and eliminate the Oljefat.",
+			"targetGroupDesc": "Find and eliminate Oljefat.",
 			"targetList": [
 				4001101
 			]
@@ -60,42 +60,42 @@
 		},
 		{
 			"targetGroupId": 4004101,
-			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
+			"targetGroupDesc": "Find and eliminate Tusk Beasteel.",
 			"targetList": [
 				4004101
 			]
 		},
 		{
 			"targetGroupId": 4004201,
-			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetGroupDesc": "Find and eliminate Beak Beasteel.",
 			"targetList": [
 				4004201
 			]
 		},
 		{
 			"targetGroupId": 4006001,
-			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetGroupDesc": "Find and eliminate Fortress Titan.",
 			"targetList": [
 				4006001
 			]
 		},
 		{
 			"targetGroupId": 4006101,
-			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
+			"targetGroupDesc": "Find and eliminate Blade Titan.",
 			"targetList": [
 				4006101
 			]
 		},
 		{
 			"targetGroupId": 4007001,
-			"targetGroupDesc": "Find and eliminate the Nemertea.",
+			"targetGroupDesc": "Find and eliminate Nemertea.",
 			"targetList": [
 				4007001
 			]
 		},
 		{
 			"targetGroupId": 4008001,
-			"targetGroupDesc": "Find and eliminate the Nemertea.",
+			"targetGroupDesc": "Find and eliminate Nemertea.",
 			"targetList": [
 				4008001
 			]
@@ -116,14 +116,14 @@
 		},
 		{
 			"targetGroupId": 4011001,
-			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
+			"targetGroupDesc": "Find and eliminate Tusk Beasteel.",
 			"targetList": [
 				4011001
 			]
 		},
 		{
 			"targetGroupId": 4012001,
-			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetGroupDesc": "Find and eliminate Beak Beasteel.",
 			"targetList": [
 				4012001
 			]
@@ -137,77 +137,77 @@
 		},
 		{
 			"targetGroupId": 4014001,
-			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetGroupDesc": "Find and eliminate Temblor Titan.",
 			"targetList": [
 				4014001
 			]
 		},
 		{
 			"targetGroupId": 4015001,
-			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetGroupDesc": "Find and eliminate Storm Titan.",
 			"targetList": [
 				4015001
 			]
 		},
 		{
 			"targetGroupId": 4017001,
-			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetGroupDesc": "Find and eliminate Temblor Titan.",
 			"targetList": [
 				4017001
 			]
 		},
 		{
 			"targetGroupId": 4017101,
-			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetGroupDesc": "Find and eliminate Storm Titan.",
 			"targetList": [
 				4017101
 			]
 		},
 		{
 			"targetGroupId": 4018001,
-			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
+			"targetGroupDesc": "Find and eliminate Blade Titan.",
 			"targetList": [
 				4018001
 			]
 		},
 		{
 			"targetGroupId": 4021001,
-			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetGroupDesc": "Find and eliminate Fortress Titan.",
 			"targetList": [
 				4021001
 			]
 		},
 		{
 			"targetGroupId": 4022001,
-			"targetGroupDesc": "Find and eliminate the Temblor Titan.",
+			"targetGroupDesc": "Find and eliminate Temblor Titan.",
 			"targetList": [
 				4022001
 			]
 		},
 		{
 			"targetGroupId": 4022101,
-			"targetGroupDesc": "Find and eliminate the enemy Blade Titan.",
+			"targetGroupDesc": "Find and eliminate Blade Titan.",
 			"targetList": [
 				4022101
 			]
 		},
 		{
 			"targetGroupId": 4022201,
-			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetGroupDesc": "Find and eliminate Fortress Titan.",
 			"targetList": [
 				4022201
 			]
 		},
 		{
 			"targetGroupId": 4022301,
-			"targetGroupDesc": "Find and eliminate the enemy Storm Titan.",
+			"targetGroupDesc": "Find and eliminate Storm Titan.",
 			"targetList": [
 				4022301
 			]
 		},
 		{
 			"targetGroupId": 4023001,
-			"targetGroupDesc": "Find and eliminate the Oljefat.",
+			"targetGroupDesc": "Find and eliminate Oljefat.",
 			"targetList": [
 				4023001
 			]
@@ -221,14 +221,14 @@
 		},
 		{
 			"targetGroupId": 4025001,
-			"targetGroupDesc": "Find Tusk Beasteel and eliminate it.",
+			"targetGroupDesc": "Find and eliminate Tusk Beasteel.",
 			"targetList": [
 				4025001
 			]
 		},
 		{
 			"targetGroupId": 4026001,
-			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetGroupDesc": "Find and eliminate Beak Beasteel.",
 			"targetList": [
 				4026001
 			]
@@ -249,28 +249,28 @@
 		},
 		{
 			"targetGroupId": 4030001,
-			"targetGroupDesc": "Find and eliminate the Nemertea.",
+			"targetGroupDesc": "Find and eliminate Nemertea.",
 			"targetList": [
 				4030001
 			]
 		},
 		{
 			"targetGroupId": 4035001,
-			"targetGroupDesc": "Find and eliminate the Beak Beasteel.",
+			"targetGroupDesc": "Find and eliminate Beak Beasteel.",
 			"targetList": [
 				4035001
 			]
 		},
 		{
 			"targetGroupId": 4036001,
-			"targetGroupDesc": "Find and eliminate the Oljefat.",
+			"targetGroupDesc": "Find and eliminate Oljefat.",
 			"targetList": [
 				4036001
 			]
 		},
 		{
 			"targetGroupId": 4037001,
-			"targetGroupDesc": "Find and eliminate the Fortress Titan.",
+			"targetGroupDesc": "Find and eliminate Fortress Titan.",
 			"targetList": [
 				4037001
 			]

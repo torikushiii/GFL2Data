@@ -125,6 +125,7 @@
 			"spine": "Daiyan",
 			"eventId": {
 				"Attack": 580004,
+				"Miss": 1020572,
 				"Sprint": 580006
 			}
 		},

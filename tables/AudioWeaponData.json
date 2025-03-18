@@ -16,6 +16,11 @@
 			"track": "Revolver"
 		},
 		{
+			"typeId": 103,
+			"selector": "Gun_HG",
+			"track": "Pistal_SP"
+		},
+		{
 			"typeId": 201,
 			"selector": "Gun_RF",
 			"track": "RF"
