@@ -687,6 +687,16 @@
 			"lv": []
 		},
 		{
+			"id": 52661,
+			"buffLimits": 1,
+			"buffType": 6,
+			"buffBaseAffix": 16621,
+			"buffSubAffix": [
+				21601
+			],
+			"lv": []
+		},
+		{
 			"id": 53111,
 			"buffLimits": 1,
 			"buffType": 1,

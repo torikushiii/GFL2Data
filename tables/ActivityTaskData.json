@@ -307,6 +307,21 @@
 			"link": ""
 		},
 		{
+			"id": 20101,
+			"taskGroup": 201,
+			"name": "Opening Preparations",
+			"des": "Complete Supply Mission 6 times",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 6,
+			"conditionArg0": 1,
+			"link": "1098",
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"rewardList": []
+		},
+		{
 			"id": 20102,
 			"taskGroup": 202,
 			"name": "Start-up Capital",

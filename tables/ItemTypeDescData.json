@@ -137,6 +137,23 @@
 			"use": 0
 		},
 		{
+			"id": 10,
+			"name": "Doll Card",
+			"rank": 11,
+			"pile": 1,
+			"overflowName": "",
+			"dzbagOccupy": true,
+			"relatedItem": 0,
+			"maxLimit": 0,
+			"overflow": false,
+			"jump": 0,
+			"stockShow": false,
+			"canLock": false,
+			"ifDefaultLock": false,
+			"defaultLockRank": 0,
+			"use": 0
+		},
+		{
 			"id": 11,
 			"name": "Doll Core",
 			"maxLimit": 100000000,

@@ -1359,7 +1359,7 @@
 			"id": 28000,
 			"group": 1,
 			"name": "Dark Zone",
-			"des": "Reach Commander Level <color=#f26c1c>21</color>",
+			"des": "Commander Level reaches <color=#f26c1c>21</color>",
 			"conditionNum": 21,
 			"icon": "Icon_Achievement_Collection",
 			"tag": 0,

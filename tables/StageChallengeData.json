@@ -2227,18 +2227,6 @@
 			"description": "Eliminate at least 9 enemy units within the first 9 turns"
 		},
 		{
-			"id": 11000,
-			"type": 6,
-			"args": [
-				"10"
-			],
-			"argsFail": [
-				"10"
-			],
-			"title": "Unstoppable",
-			"description": "Eliminate at least 10 enemy units"
-		},
-		{
 			"id": 11001,
 			"type": 8,
 			"args": [
@@ -5574,7 +5562,7 @@
 				"4"
 			],
 			"title": "Tactical Strike",
-			"description": "Eliminate 1 U 015 - COR within 4 turns"
+			"description": "Eliminate 1 U 015 - COR Type I within 4 turns"
 		},
 		{
 			"id": 13718,

@@ -1358,6 +1358,24 @@
 			"price": 128,
 			"limitBuy": 1,
 			"storeId": 2022
+		},
+		{
+			"id": 186,
+			"productId": "com.haoplay.gf2exilium.global.178",
+			"name": "泳坛巨星",
+			"describe": "泳坛巨星",
+			"price": 98,
+			"limitBuy": 1,
+			"storeId": 2025
+		},
+		{
+			"id": 187,
+			"productId": "com.haoplay.gf2exilium.global.179",
+			"name": "泳坛巨星",
+			"describe": "泳坛巨星",
+			"price": 128,
+			"limitBuy": 1,
+			"storeId": 2025
 		}
 	]
 }

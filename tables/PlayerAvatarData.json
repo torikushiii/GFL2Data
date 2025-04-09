@@ -1090,6 +1090,17 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21172,
+			"icon": "Avatar_Head_SharkrySR01",
+			"iconFemale": "Avatar_Head_SharkrySR01",
+			"bust": "Avatar_Head_SharkrySR01",
+			"bustFemale": "Avatar_Head_SharkrySR01",
+			"itemId": 21172,
+			"unlockDes": "Unlocked after obtaining Sharkry's outfit - Swimsuit Idol",
+			"displayConfig": 1,
+			"sort": 4029
+		},
+		{
 			"id": 21999,
 			"icon": "Avatar_Head_Player_Male",
 			"iconFemale": "Avatar_Head_Player_Female",

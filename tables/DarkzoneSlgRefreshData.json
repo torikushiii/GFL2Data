@@ -665,20 +665,6 @@
 			"roundType": 0
 		},
 		{
-			"id": 21096212,
-			"roundTime": 2,
-			"positionType": 2,
-			"monsterType": 1,
-			"monsterData": {
-				"21096212": 3
-			},
-			"successEvent": 1,
-			"failEvent": 1,
-			"roundCamp": 1,
-			"roundTrigger": 4,
-			"roundType": 0
-		},
-		{
 			"id": 21106112,
 			"roundTime": 2,
 			"positionType": 2,

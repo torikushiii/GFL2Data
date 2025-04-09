@@ -17,7 +17,7 @@
 			"extraDropTimes": 2,
 			"displayName": 194002,
 			"itemTimes": 28,
-			"unlockDescribe": "Unlocks after reaching Commander level 25"
+			"unlockDescribe": "Unlocked upon reaching Commander Level 25"
 		},
 		{
 			"id": 21,
@@ -33,7 +33,7 @@
 			"unlock": 11003,
 			"extraDropCost": 351,
 			"extraDropTimes": 2,
-			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 15",
 			"itemId": 0,
 			"displayName": 0,
 			"itemTimes": 0
@@ -52,7 +52,7 @@
 			"unlock": 11005,
 			"extraDropCost": 352,
 			"extraDropTimes": 2,
-			"unlockDescribe": "Unlocked via reaching Commander Level 20",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 20",
 			"itemId": 0,
 			"displayName": 0,
 			"itemTimes": 0
@@ -67,7 +67,7 @@
 				8
 			],
 			"unlock": 11007,
-			"unlockDescribe": "Unlocked via reaching Commander Level 27",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 27",
 			"bgPath": "",
 			"dropItem": 0,
 			"extraDropCost": 0,
@@ -88,7 +88,7 @@
 				20
 			],
 			"unlock": 11008,
-			"unlockDescribe": "Unlocked via reaching Commander Level 27",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 27",
 			"bgPath": "",
 			"dropItem": 0,
 			"extraDropCost": 0,
@@ -107,7 +107,7 @@
 				15
 			],
 			"unlock": 11009,
-			"unlockDescribe": "Unlocked via reaching Commander Level 30",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 30",
 			"bgPath": "",
 			"dropItem": 0,
 			"extraDropCost": 0,
@@ -126,7 +126,7 @@
 				25
 			],
 			"unlock": 14000,
-			"unlockDescribe": "Unlocked via reaching Commander Level 30",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 30",
 			"bgPath": "",
 			"dropItem": 0,
 			"extraDropCost": 0,
@@ -149,7 +149,7 @@
 			"unlock": 11006,
 			"extraDropCost": 353,
 			"extraDropTimes": 2,
-			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 15",
 			"itemId": 0,
 			"displayName": 0,
 			"itemTimes": 0
@@ -164,7 +164,7 @@
 				26
 			],
 			"unlock": 11002,
-			"unlockDescribe": "Unlocked via reaching Commander Level 15",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 15",
 			"bgPath": "",
 			"dropItem": 0,
 			"extraDropCost": 0,
@@ -205,7 +205,7 @@
 				33
 			],
 			"unlock": 11012,
-			"unlockDescribe": "Unlocked via reaching Commander Level 23",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 23",
 			"extraDropCost": 0,
 			"itemId": 0,
 			"extraDropTimes": 0,
@@ -219,7 +219,7 @@
 			"icon": "Icon_SimCombat_Unite",
 			"openTime": "",
 			"unlock": 33001,
-			"unlockDescribe": "Unlocked when Commander Level reaches 23",
+			"unlockDescribe": "Unlocked upon reaching Commander Level 23",
 			"bgPath": "",
 			"dropItem": 0,
 			"labelId": [],

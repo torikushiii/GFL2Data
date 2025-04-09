@@ -897,6 +897,10 @@
 			"stepDetail": "Place the mission items at the target locations {0}/3"
 		},
 		{
+			"id": 8030,
+			"stepDetail": "Place mission items at the target locations {0}/4"
+		},
+		{
 			"id": 8031,
 			"stepDetail": "Capture the Control Point {0}/1"
 		},
@@ -2118,7 +2122,7 @@
 		},
 		{
 			"id": 9286,
-			"stepDetail": "Protect the allied heavy supply box for {0}/7 turns"
+			"stepDetail": "Protect the allied heavy supply box for {0}/5 turns"
 		},
 		{
 			"id": 9287,

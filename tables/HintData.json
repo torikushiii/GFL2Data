@@ -10946,7 +10946,7 @@
 		},
 		{
 			"id": 180198,
-			"chars": "Challenge Target {0}/{1}"
+			"chars": "Mission Objectives {0}/{1}"
 		},
 		{
 			"id": 180199,
@@ -10978,7 +10978,7 @@
 		},
 		{
 			"id": 180206,
-			"chars": "Challenge Targets {0}/{1}"
+			"chars": "Mission Objectives {0}/{1}"
 		},
 		{
 			"id": 180207,
@@ -11702,7 +11702,7 @@
 		},
 		{
 			"id": 200004,
-			"chars": "Unlocked upon reaching Commander level {0}"
+			"chars": "Unlocked upon reaching Commander Level {0}"
 		},
 		{
 			"id": 200005,
@@ -12914,7 +12914,7 @@
 		},
 		{
 			"id": 240506,
-			"chars": "In Progress"
+			"chars": "Execute Bounty"
 		},
 		{
 			"id": 240507,
@@ -17698,7 +17698,7 @@
 		},
 		{
 			"id": 280036,
-			"chars": "Adjust Field of View"
+			"chars": "Adjust FoV"
 		},
 		{
 			"id": 280037,
@@ -23198,7 +23198,7 @@
 		},
 		{
 			"id": 410119,
-			"chars": "Pathforger Index"
+			"chars": "Pathforge Objectives"
 		},
 		{
 			"id": 410120,
@@ -27654,7 +27654,7 @@
 		},
 		{
 			"id": 903472,
-			"chars": "Unlocked upon reaching Commander level {0}"
+			"chars": "Unlocked upon reaching Commander Level {0}"
 		},
 		{
 			"id": 903473,

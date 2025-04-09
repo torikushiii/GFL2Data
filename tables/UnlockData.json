@@ -2,12 +2,12 @@
 	"data": [
 		{
 			"id": 10997,
+			"conditionType": 1,
 			"condition": [
-				10997
+				99999
 			],
 			"prompt": "Reach Commander Level 26",
 			"unlockName": "Past Events",
-			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",
@@ -910,21 +910,6 @@
 			"sequence": 0
 		},
 		{
-			"id": 14500,
-			"condition": [
-				14500
-			],
-			"prompt": "Reach Expert I in Combat Exercise to unlock",
-			"unlockName": "Military Simulation",
-			"conditionType": 0,
-			"lockType": 0,
-			"interfaceId": 0,
-			"icon": "",
-			"homeButtonRedhint": 0,
-			"openDetail": "0",
-			"sequence": 0
-		},
-		{
 			"id": 14501,
 			"condition": [
 				14500
@@ -1651,17 +1636,17 @@
 		{
 			"id": 28000,
 			"condition": [
-				99999
+				28000
 			],
 			"lockType": 1,
-			"prompt": "",
+			"prompt": "Unlocked upon reaching Commander Level 21",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_DarkZone",
+			"homeButtonRedhint": 1,
 			"unlockName": "Boundary Push",
+			"sequence": 40,
 			"conditionType": 0,
-			"interfaceId": 0,
-			"icon": "",
-			"homeButtonRedhint": 0,
-			"openDetail": "0",
-			"sequence": 0
+			"openDetail": "0"
 		},
 		{
 			"id": 28001,
@@ -1669,7 +1654,7 @@
 				28001
 			],
 			"lockType": 1,
-			"prompt": "Unlocked via reaching Commander Level 20",
+			"prompt": "Unlocked upon reaching Commander Level 20",
 			"unlockName": "Boundary Push",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1681,7 +1666,7 @@
 		{
 			"id": 28002,
 			"lockType": 1,
-			"prompt": "Unlocked via reaching Commander Level 20",
+			"prompt": "Unlocked upon reaching Commander Level 20",
 			"unlockName": "Boundary Push",
 			"conditionType": 0,
 			"condition": [],
@@ -1694,7 +1679,7 @@
 		{
 			"id": 28003,
 			"lockType": 1,
-			"prompt": "Unlocked via reaching Commander Level 20",
+			"prompt": "Unlocked upon reaching Commander Level 20",
 			"unlockName": "Boundary Push",
 			"conditionType": 0,
 			"condition": [],
@@ -1710,7 +1695,7 @@
 				28000
 			],
 			"lockType": 1,
-			"prompt": "Unlocked via reaching Commander Level 20",
+			"prompt": "Unlocked upon reaching Commander Level 20",
 			"unlockName": "Boundary Push",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1762,6 +1747,51 @@
 			"interfaceId": 0,
 			"icon": "",
 			"homeButtonRedhint": 0,
+			"sequence": 0
+		},
+		{
+			"id": 28008,
+			"conditionType": 1,
+			"condition": [
+				28008
+			],
+			"prompt": "",
+			"unlockName": "",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28009,
+			"conditionType": 1,
+			"condition": [
+				28009
+			],
+			"prompt": "",
+			"unlockName": "Boundary Push",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28010,
+			"conditionType": 1,
+			"condition": [
+				28010
+			],
+			"prompt": "",
+			"unlockName": "Boundary Push",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
 			"sequence": 0
 		},
 		{
@@ -2129,7 +2159,7 @@
 				33001
 			],
 			"lockType": 1,
-			"prompt": "Unlocked via reaching Commander Level 23",
+			"prompt": "Unlocked upon reaching Commander Level 23",
 			"interfaceId": 554,
 			"icon": "Icon_NewFunctionUnlock_Unite",
 			"unlockName": "Expansion Drills",
@@ -2173,7 +2203,7 @@
 			"condition": [
 				12007
 			],
-			"prompt": "Unlocked via reaching Commander Level 23",
+			"prompt": "Unlocked upon reaching Commander Level 23",
 			"unlockName": "Attachment Lock Plan",
 			"conditionType": 0,
 			"lockType": 0,
@@ -2205,7 +2235,7 @@
 				35001
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Sandbox Mode]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2220,7 +2250,7 @@
 				35002
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Multi-Round Defense Mode]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2235,7 +2265,7 @@
 				35003
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Conveyor Belt Puzzle]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2250,7 +2280,7 @@
 				35004
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Ullrid's Challenge]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2265,7 +2295,7 @@
 				35005
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Suomi Story]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2280,7 +2310,7 @@
 				35006
 			],
 			"lockType": 1,
-			"prompt": "Unlocks after reaching Commander level 25",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"unlockName": "[Suomi Challenge]",
 			"interfaceId": 0,
 			"icon": "",
@@ -2407,6 +2437,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 40001,
+			"conditionType": 1,
+			"condition": [
+				40001
+			],
+			"prompt": "Complete Story Campaign 1-8 to unlock",
+			"unlockName": "Player Care System",
+			"sequence": 50,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
+		},
+		{
 			"id": 41001,
 			"conditionType": 1,
 			"condition": [
@@ -2414,6 +2459,36 @@
 			],
 			"prompt": "Complete Story Campaign 1-5 to unlock",
 			"unlockName": "Gift Notification",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 41002,
+			"condition": [
+				99999
+			],
+			"prompt": "",
+			"unlockName": "Team Preset",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 42001,
+			"conditionType": 1,
+			"condition": [
+				26003
+			],
+			"prompt": "Complete Story Campaign SL-1-2 to unlock Events",
+			"unlockName": "Anniversary Gift Page",
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",

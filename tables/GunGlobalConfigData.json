@@ -70,7 +70,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -112,7 +112,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -175,7 +175,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				3
@@ -217,7 +217,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1
@@ -259,7 +259,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1
@@ -469,7 +469,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1
@@ -490,7 +490,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 103901,
@@ -508,7 +508,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 104001,
@@ -526,7 +526,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 104101,
@@ -562,7 +562,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 104301,
@@ -634,7 +634,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 105001,
@@ -652,7 +652,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 105101,
@@ -793,7 +793,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -814,7 +814,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -877,7 +877,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -898,7 +898,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				3,
 				3
@@ -997,13 +997,34 @@
 			"gunHigh": 0.0
 		},
 		{
+			"gunId": 102201,
+			"overviewCameraPosition": "-0.0135,0.8,-2.45",
+			"overviewCameraRotation": "0.822,0316,0",
+			"gunHigh": -0.046,
+			"gunGradeCamera": "1.21,-0.18,5.58",
+			"gunGradeLookatPosition": "-0.34,0.23,3.8",
+			"gunGradePosition": "0.28000000000000003",
+			"targetTrainingShootTime": [
+				1,
+				3
+			],
+			"targetTrainingShootDistance": 2,
+			"targetTrainingShootResource": "SharkrySR01/Target_Training_Shoot_SharkrySR01",
+			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
+			"classTrainingPreResource": "_Common/Target_Training_break_pre",
+			"barrackFormationExclusive": 102201,
+			"barrackFormationNormal01": 102201,
+			"barrackFormationNormal02": 102201,
+			"darkzoneUnitCamera": 1003
+		},
+		{
 			"gunId": 102401,
 			"overviewCameraPosition": "-0.0135,0.8,-2.45",
 			"overviewCameraRotation": "0.822,0316,0",
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1
@@ -1045,7 +1066,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1
@@ -1150,7 +1171,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 103901,
@@ -1168,7 +1189,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"upgradeTrainingPreResource": "_Common/Target_Training_practice_pre",
 			"classTrainingPreResource": "_Common/Target_Training_break_pre",
 			"barrackFormationExclusive": 104101,
@@ -1222,7 +1243,7 @@
 			"gunHigh": -0.046,
 			"gunGradeCamera": "1.21,-0.18,5.58",
 			"gunGradeLookatPosition": "-0.34,0.23,3.8",
-			"gunGradePosition": "0.28",
+			"gunGradePosition": "0.28000000000000003",
 			"targetTrainingShootTime": [
 				1,
 				1

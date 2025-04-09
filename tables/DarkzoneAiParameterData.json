@@ -171,6 +171,23 @@
 			"backSpeed": 0
 		},
 		{
+			"id": 1199,
+			"aiParameter": 2,
+			"patrolSpeed": 140,
+			"visionAngle": 45,
+			"visionRange": 450,
+			"atkRange": 450,
+			"aiFrame": 120,
+			"darkzoneEnemyMaxWarn": 99,
+			"gazeTime": 0,
+			"chaseRange": 0,
+			"chaseSpeed": 0,
+			"maxChaseTime": 0,
+			"backSpeed": 0,
+			"darkzoneVisualDay": 0,
+			"darkzoneVisualAngle": 0
+		},
+		{
 			"id": 1201,
 			"aiParameter": 2,
 			"patrolSpeed": 140,
