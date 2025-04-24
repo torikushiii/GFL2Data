@@ -2227,6 +2227,18 @@
 			"description": "Eliminate at least 9 enemy units within the first 9 turns"
 		},
 		{
+			"id": 11000,
+			"type": 6,
+			"args": [
+				"10"
+			],
+			"argsFail": [
+				"10"
+			],
+			"title": "Unstoppable",
+			"description": "Eliminate at least 10 enemy units"
+		},
+		{
 			"id": 11001,
 			"type": 8,
 			"args": [
@@ -4765,18 +4777,6 @@
 			],
 			"title": "Environmental Assessment",
 			"description": "Gain at least 100 points of Confectance Index within 1 turn"
-		},
-		{
-			"id": 12701,
-			"type": 26,
-			"args": [
-				"2"
-			],
-			"argsFail": [
-				"2"
-			],
-			"title": "Generous Support",
-			"description": "Activate all buff devices on the battlefield"
 		},
 		{
 			"id": 12702,

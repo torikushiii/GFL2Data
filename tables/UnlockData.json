@@ -910,6 +910,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 14500,
+			"condition": [
+				14500
+			],
+			"prompt": "Reach Expert I in Combat Exercise to unlock",
+			"unlockName": "Military Simulation",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 14501,
 			"condition": [
 				14500

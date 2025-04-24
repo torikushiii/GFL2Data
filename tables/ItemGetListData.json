@@ -134,13 +134,6 @@
 			"jumpCode": "1098"
 		},
 		{
-			"id": 100001,
-			"type": 10,
-			"title": "Ops Room",
-			"canJump": true,
-			"jumpCode": "1"
-		},
-		{
 			"id": 140101,
 			"type": 14,
 			"title": "Story Campaign 1-1",

@@ -2605,6 +2605,18 @@
 			"deployHide": false
 		},
 		{
+			"id": 1020701,
+			"condition": [
+				1020701
+			],
+			"priority": 1,
+			"timing": 5,
+			"finishCondition": 10207,
+			"isPause": 0,
+			"finishGroup": [],
+			"deployHide": false
+		},
+		{
 			"id": 1020721,
 			"condition": [
 				1020721

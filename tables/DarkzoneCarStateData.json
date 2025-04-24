@@ -21,7 +21,11 @@
 			"switchControl": 0
 		},
 		{
-			"id": 32,
+			"id": 64,
+			"switchControl": 0
+		},
+		{
+			"id": 128,
 			"switchControl": 0
 		},
 		{

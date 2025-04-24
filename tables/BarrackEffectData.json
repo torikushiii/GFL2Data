@@ -21,6 +21,11 @@
 			"lgpPath": "lgp_Root"
 		},
 		{
+			"id": 100401,
+			"effectPath": "GrozaR_01",
+			"lgpPath": "lgp_Root"
+		},
+		{
 			"id": 100501,
 			"effectPath": "CharolicSSR_01",
 			"lgpPath": "lgp_Root"
@@ -78,11 +83,6 @@
 		{
 			"id": 101303,
 			"effectPath": "LennaSSR01_Normal02",
-			"lgpPath": "lgp_Root"
-		},
-		{
-			"id": 101401,
-			"effectPath": "PerityaSSR_01",
 			"lgpPath": "lgp_Root"
 		},
 		{
