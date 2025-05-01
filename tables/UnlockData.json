@@ -2,12 +2,12 @@
 	"data": [
 		{
 			"id": 10997,
-			"conditionType": 1,
 			"condition": [
 				99999
 			],
-			"prompt": "Reach Commander Level 26",
+			"prompt": "Locked",
 			"unlockName": "Past Events",
+			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",
@@ -36,7 +36,7 @@
 				10999
 			],
 			"lockType": 1,
-			"prompt": "Reach Commander Level 13 to unlock Combat Simulation",
+			"prompt": "Reach Commander Level 13 to unlock Combat Simulations",
 			"unlockName": "Combat Simulations",
 			"sequence": 20,
 			"conditionType": 0,
@@ -77,7 +77,7 @@
 				11002
 			],
 			"lockType": 1,
-			"prompt": "Reach Commander Level 26 to unlock Hard Mode",
+			"prompt": "Reach Commander Level 16 to unlock Hard Mode",
 			"interfaceId": 554,
 			"icon": "Icon_NewFunctionUnlock_Hard",
 			"homeButtonRedhint": 1,
@@ -197,7 +197,7 @@
 				11010
 			],
 			"lockType": 1,
-			"prompt": "Complete Story Campaign 2-1 to unlock Tutorial",
+			"prompt": "Complete Story Campaign 2-1 to unlock Beginner's Guide",
 			"unlockName": "Hunter Assessment",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -227,7 +227,7 @@
 				11012
 			],
 			"lockType": 1,
-			"prompt": "Reach Commander Level 23\nto unlock Attachment Stages",
+			"prompt": "Reach Commander Level 23\nto unlock the Attachment Guide",
 			"interfaceId": 554,
 			"icon": "Icon_NewFunctionUnlock_SimWeaponPart",
 			"unlockName": "Targeted Study",
@@ -242,7 +242,7 @@
 			"condition": [
 				11019
 			],
-			"prompt": "Complete Story Campaign 3-5 to unlock Tutorial",
+			"prompt": "Complete Story Campaign 3-5 to unlock Beginner's Guide",
 			"unlockName": "Hunter Assessment",
 			"lockType": 0,
 			"interfaceId": 0,
@@ -250,6 +250,37 @@
 			"homeButtonRedhint": 0,
 			"openDetail": "0",
 			"sequence": 0
+		},
+		{
+			"id": 11014,
+			"conditionType": 1,
+			"condition": [
+				11014,
+				11015
+			],
+			"prompt": "Level 45 + Story Campaign Chapter 6",
+			"unlockName": "Coordination Drill",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11015,
+			"conditionType": 1,
+			"condition": [
+				11020
+			],
+			"lockType": 1,
+			"prompt": "Reach Commander Level 30 to unlock Target Practice",
+			"unlockName": "Target Practice",
+			"sequence": 32,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0"
 		},
 		{
 			"id": 11101,
@@ -630,7 +661,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Skill Upgrade",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -645,7 +676,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Neural Circuit",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -660,7 +691,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Pattern Remolder",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -825,7 +856,7 @@
 				14002
 			],
 			"lockType": 1,
-			"prompt": "Unlock via expending {0}/2000 Exercise Badges",
+			"prompt": "Expend a total of {0}/2000 Exercise Badges to unlock",
 			"unlockName": "Combat Exercise",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -855,7 +886,7 @@
 				14004
 			],
 			"lockType": 1,
-			"prompt": "Tutorial Missions become available on day 99999999 server time",
+			"prompt": "Tutorial Missions are available on day 99999999 server time",
 			"unlockName": "Combat Exercise",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -885,7 +916,7 @@
 				14006
 			],
 			"lockType": 1,
-			"prompt": "Complete Story Campaign Normal 2-10 to unlock Battle Records",
+			"prompt": "Complete Story Campaign Normal 2-10 to unlock Leaderboard",
 			"unlockName": "Combat Exercise",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -914,7 +945,7 @@
 			"condition": [
 				14500
 			],
-			"prompt": "Reach Expert I in Combat Exercise to unlock",
+			"prompt": "Unlocks after reaching Expert I in Combat Exercise",
 			"unlockName": "Military Simulation",
 			"conditionType": 0,
 			"lockType": 0,
@@ -929,7 +960,7 @@
 			"condition": [
 				14500
 			],
-			"prompt": "Reach Expert I in Combat Exercise to unlock",
+			"prompt": "Unlocks after reaching Expert I in Combat Exercise",
 			"interfaceId": 554,
 			"icon": "lcon_NewFunctionUnlock_High_PVP",
 			"unlockName": "Military Simulation",
@@ -1035,7 +1066,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Weapon Fragment Exchange Shop",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1065,7 +1096,7 @@
 				16004
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Trading Post - Exchange Spot",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1095,7 +1126,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Trading Post - High-Level Growth Stack",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1110,7 +1141,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Trading Post - Low-Level Growth Stack",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1189,7 +1220,7 @@
 		{
 			"id": 17001,
 			"lockType": 1,
-			"prompt": "Complete Story Campaign 1-8 to unlock Weapons",
+			"prompt": "Complete Story Campaign 1-8 to unlock Doll Weapons",
 			"unlockName": "Storeroom - Weapons",
 			"conditionType": 0,
 			"condition": [],
@@ -1205,7 +1236,7 @@
 				12006
 			],
 			"lockType": 1,
-			"prompt": "Complete Story Campaign 2-1 to unlock Pattern Remolder",
+			"prompt": "Complete Story Campaign 2-1 to unlock Remoulding Pattern",
 			"unlockName": "Storeroom - Remolding Patterns",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1278,7 +1309,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Hangar",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1293,7 +1324,7 @@
 				99103
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"interfaceId": 554,
 			"icon": "Icon_NewFunctionUnlock_Guild",
 			"unlockName": "Platoon",
@@ -1323,7 +1354,7 @@
 				20000
 			],
 			"lockType": 1,
-			"prompt": "Complete Story Campaign 1-6 to unlock Archives",
+			"prompt": "Complete Story Campaign 1-6 to unlock Traceback",
 			"unlockName": "Elmo Server Room",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1365,7 +1396,7 @@
 			"condition": [
 				11002
 			],
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Hard Mode Storyline",
 			"conditionType": 0,
 			"lockType": 0,
@@ -1417,6 +1448,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 20007,
+			"conditionType": 1,
+			"condition": [
+				38005
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Curio Gallery",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 21000,
 			"lockType": 1,
 			"prompt": "Reach Commander Level 1 to unlock Mail",
@@ -1432,7 +1478,7 @@
 		{
 			"id": 22000,
 			"lockType": 1,
-			"prompt": "Complete Story Campaign 2-1 to unlock Notices",
+			"prompt": "Complete Story Campaign 2-1 to unlock Comms",
 			"unlockName": "Notice",
 			"conditionType": 0,
 			"condition": [],
@@ -1548,12 +1594,27 @@
 			"sequence": 0
 		},
 		{
+			"id": 24003,
+			"conditionType": 1,
+			"condition": [
+				24003
+			],
+			"prompt": "Clear Story Campaign Stage 2-1",
+			"unlockName": "Challenge Achievement",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 25000,
 			"condition": [
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Chat",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1568,7 +1629,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Global Chat",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1583,7 +1644,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Global Chat",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -1654,7 +1715,7 @@
 				28000
 			],
 			"lockType": 1,
-			"prompt": "Unlocked upon reaching Commander Level 21",
+			"prompt": "Reach Commander Level 21 to unlock Boundary Push",
 			"interfaceId": 554,
 			"icon": "Icon_NewFunctionUnlock_DarkZone",
 			"homeButtonRedhint": 1,
@@ -1755,7 +1816,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "Not Available Yet",
+			"prompt": "Locked",
 			"unlockName": "Dark Zone Monthly Report",
 			"openDetail": "1745125200",
 			"conditionType": 0,
@@ -2040,7 +2101,7 @@
 				29304,
 				28005
 			],
-			"prompt": "Complete Story Campaign SL-1-2 to unlock",
+			"prompt": "Complete Story Campaign 1-1 to unlock",
 			"unlockName": "Event - Centaureissi Event - Dark Zone Cart",
 			"conditionType": 0,
 			"lockType": 0,
@@ -2055,7 +2116,7 @@
 			"condition": [
 				29305
 			],
-			"prompt": "Complete Story Campaign SL-1-2 to unlock",
+			"prompt": "Complete Story Campaign 1-1 to unlock",
 			"unlockName": "Event - Centaureissi Event - Carrier",
 			"conditionType": 0,
 			"lockType": 0,
@@ -2098,7 +2159,7 @@
 		{
 			"id": 30002,
 			"conditionType": 1,
-			"prompt": "Unlocked by default",
+			"prompt": "Default Unlock",
 			"unlockName": "Community",
 			"condition": [],
 			"lockType": 0,
@@ -2143,7 +2204,7 @@
 			"condition": [
 				31002
 			],
-			"prompt": "Complete Story Campaign 2-1 to unlock Auto Battle",
+			"prompt": "Complete Story Campaign 2-4 to unlock Auto Battle",
 			"unlockName": "Auto Battle",
 			"conditionType": 0,
 			"lockType": 0,
@@ -2221,6 +2282,36 @@
 			"prompt": "Unlocked upon reaching Commander Level 23",
 			"unlockName": "Attachment Lock Plan",
 			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 33005,
+			"conditionType": 1,
+			"condition": [
+				12007
+			],
+			"prompt": "Unlocked upon reaching Commander Level 23",
+			"unlockName": "Recommended Attachments",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 33006,
+			"conditionType": 1,
+			"condition": [
+				33006
+			],
+			"prompt": "Reach Commander Level 45 to unlock",
+			"unlockName": "Attachment Superior Boost",
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",
@@ -2336,7 +2427,7 @@
 		{
 			"id": 36001,
 			"conditionType": 1,
-			"prompt": "Unlocked by default",
+			"prompt": "Default Unlock",
 			"unlockName": "Tutorial System",
 			"condition": [],
 			"lockType": 0,
@@ -2352,11 +2443,11 @@
 				99999
 			],
 			"prompt": "",
+			"icon": "Icon_NewFunctionUnlock_Control_Fight",
 			"unlockName": "Roguelike System",
 			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
-			"icon": "",
 			"homeButtonRedhint": 0,
 			"openDetail": "0",
 			"sequence": 0
@@ -2382,7 +2473,7 @@
 			"condition": [
 				99999
 			],
-			"prompt": "Unlocked by default",
+			"prompt": "Default Unlock",
 			"unlockName": "Weapon Display Room(Deprecated ID)",
 			"lockType": 0,
 			"interfaceId": 0,
@@ -2412,8 +2503,23 @@
 			"condition": [
 				38003
 			],
-			"prompt": "Complete Event Campaign Normal SL-2-2",
+			"prompt": "Complete Story Campaign Normal Stage SL-2-2",
 			"unlockName": "Weapon Gallery",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 38005,
+			"conditionType": 1,
+			"condition": [
+				38005
+			],
+			"prompt": "Complete Story Campaign Normal Stage SL-2-2",
+			"unlockName": "Collection Display",
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",
@@ -2427,7 +2533,7 @@
 			"condition": [
 				39001
 			],
-			"prompt": "Unlocked by default",
+			"prompt": "Default Unlock",
 			"unlockName": "[Klukai's TPS Game Mode]",
 			"lockType": 0,
 			"interfaceId": 0,
@@ -2442,7 +2548,7 @@
 			"condition": [
 				39002
 			],
-			"prompt": "Unlocked by default",
+			"prompt": "Default Unlock",
 			"unlockName": "[Klukai's Dungeon Exploration Game Mode]",
 			"lockType": 0,
 			"interfaceId": 0,
@@ -2484,9 +2590,9 @@
 		{
 			"id": 41002,
 			"condition": [
-				99999
+				12007
 			],
-			"prompt": "",
+			"prompt": "Unlocked upon reaching Commander Level 23",
 			"unlockName": "Team Preset",
 			"conditionType": 0,
 			"lockType": 0,

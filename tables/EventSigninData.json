@@ -98,8 +98,26 @@
 		},
 		{
 			"id": 60901,
-			"edType": 1,
 			"image": "Img_MultiSignInItem_Bg_1",
+			"edType": 0,
+			"activityType": 0
+		},
+		{
+			"id": 61002,
+			"image": "Img_MultiSignInItem_Bg_1",
+			"edType": 0,
+			"activityType": 0
+		},
+		{
+			"id": 61108,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 61209,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
 			"activityType": 0
 		},
 		{
@@ -113,6 +131,12 @@
 			"edType": 1,
 			"image": "Img_MultiSignInItem_Bg_6",
 			"activityType": 1
+		},
+		{
+			"id": 62007,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
 		},
 		{
 			"id": 68001,

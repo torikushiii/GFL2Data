@@ -134,6 +134,13 @@
 			"jumpCode": "1098"
 		},
 		{
+			"id": 100001,
+			"type": 10,
+			"title": "Ops Room",
+			"canJump": true,
+			"jumpCode": "1"
+		},
+		{
 			"id": 140101,
 			"type": 14,
 			"title": "Story Campaign 1-1",
@@ -1709,6 +1716,27 @@
 			"jumpCode": "5107"
 		},
 		{
+			"id": 190012,
+			"type": 19,
+			"title": "Glory Store",
+			"canJump": true,
+			"jumpCode": "5021"
+		},
+		{
+			"id": 190013,
+			"type": 19,
+			"title": "Dispatch Shop",
+			"canJump": true,
+			"jumpCode": "5022"
+		},
+		{
+			"id": 190014,
+			"type": 19,
+			"title": "Platoon Shop",
+			"canJump": true,
+			"jumpCode": "5025"
+		},
+		{
 			"id": 200001,
 			"type": 20,
 			"title": "Refitting Room",
@@ -1826,6 +1854,27 @@
 			"title": "Military Simulation Season: Lightning Strike",
 			"canJump": true,
 			"jumpCode": "31008"
+		},
+		{
+			"id": 270010,
+			"type": 27,
+			"title": "Military Simulation Season - Chaotic Flood",
+			"canJump": true,
+			"jumpCode": "31009"
+		},
+		{
+			"id": 270011,
+			"type": 27,
+			"title": "Military Simulation Season - Desperate Charge",
+			"canJump": true,
+			"jumpCode": "31010"
+		},
+		{
+			"id": 270012,
+			"type": 27,
+			"title": "Military Simulation Season: Balefire Shift",
+			"canJump": true,
+			"jumpCode": "31011"
 		},
 		{
 			"id": 280101,
@@ -2248,6 +2297,34 @@
 			"jumpCode": "5016"
 		},
 		{
+			"id": 290024,
+			"type": 29,
+			"title": "Safehouse - Part 2",
+			"canJump": true,
+			"jumpCode": "5017"
+		},
+		{
+			"id": 290025,
+			"type": 29,
+			"title": "Point Exchange",
+			"canJump": true,
+			"jumpCode": "5018"
+		},
+		{
+			"id": 290026,
+			"type": 29,
+			"title": "Winter Gift Shelf",
+			"canJump": true,
+			"jumpCode": "5019"
+		},
+		{
+			"id": 290027,
+			"type": 29,
+			"title": "Intel Exchange",
+			"canJump": true,
+			"jumpCode": "5020"
+		},
+		{
 			"id": 310001,
 			"type": 31,
 			"title": "Equipment Analysis - Basic I",
@@ -2418,7 +2495,7 @@
 		{
 			"id": 320019,
 			"type": 32,
-			"title": "Obtain from Event Missions",
+			"title": "Acquire via Event Story",
 			"canJump": true,
 			"jumpCode": "50001"
 		},
@@ -2654,6 +2731,13 @@
 			"jumpCode": ""
 		},
 		{
+			"id": 341048,
+			"type": 34,
+			"title": "Neural Helix - Qiuhua",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
 			"id": 341050,
 			"type": 34,
 			"title": "Neural Helix - Zhaohui",
@@ -2671,6 +2755,27 @@
 			"id": 341052,
 			"type": 34,
 			"title": "Neural Helix - Klukai",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341053,
+			"type": 34,
+			"title": "Neural Helix - Peri",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341054,
+			"type": 34,
+			"title": "Neural Helix - Yoohee",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341055,
+			"type": 34,
+			"title": "Neural Helix - Nikketa",
 			"canJump": false,
 			"jumpCode": ""
 		},
@@ -2710,6 +2815,13 @@
 			"jumpCode": "4029"
 		},
 		{
+			"id": 351028,
+			"type": 35,
+			"title": "Increase Affinity with Centaureissi",
+			"canJump": true,
+			"jumpCode": "4030"
+		},
+		{
 			"id": 351032,
 			"type": 35,
 			"title": "Increase Daiyan's Affinity",
@@ -2722,6 +2834,13 @@
 			"title": "Increase Makiatto's Affinity",
 			"canJump": true,
 			"jumpCode": "4034"
+		},
+		{
+			"id": 351037,
+			"type": 35,
+			"title": "Raise Ullrid's Affinity",
+			"canJump": true,
+			"jumpCode": "4037"
 		},
 		{
 			"id": 351039,
@@ -2766,6 +2885,13 @@
 			"jumpCode": "4048"
 		},
 		{
+			"id": 351048,
+			"type": 35,
+			"title": "Increase Qiuhua's Affinity",
+			"canJump": true,
+			"jumpCode": "4051"
+		},
+		{
 			"id": 351050,
 			"type": 35,
 			"title": "Increase Zhaohui's Affinity",
@@ -2785,6 +2911,27 @@
 			"title": "Increase Klukai's Affinity",
 			"canJump": true,
 			"jumpCode": "4043"
+		},
+		{
+			"id": 351053,
+			"type": 35,
+			"title": "Increase Peri's Affinity",
+			"canJump": true,
+			"jumpCode": "4050"
+		},
+		{
+			"id": 351054,
+			"type": 35,
+			"title": "Raise Yoohee's Affinity",
+			"canJump": true,
+			"jumpCode": "4052"
+		},
+		{
+			"id": 351055,
+			"type": 35,
+			"title": "Increase Affinity with Nikketa",
+			"canJump": true,
+			"jumpCode": "4053"
 		},
 		{
 			"id": 360001,

@@ -2863,6 +2863,96 @@
 			"unlockType": 0
 		},
 		{
+			"id": 104801,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Qiuhua01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104802,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Qiuhua02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 104803,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Qiuhua03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410481,
+			"clothesId": 0
+		},
+		{
+			"id": 104804,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Relaxing",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Qiuhua04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410481,
+			"clothesId": 0
+		},
+		{
+			"id": 104805,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Manipulating",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Qiuhua05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410482,
+			"clothesId": 0
+		},
+		{
 			"id": 105001,
 			"type": 2,
 			"modleId": 1050,
@@ -3130,6 +3220,276 @@
 			],
 			"unlock": 1,
 			"unlockType": 410522,
+			"clothesId": 0
+		},
+		{
+			"id": 105301,
+			"type": 2,
+			"modleId": 1053,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Peri01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105302,
+			"type": 2,
+			"modleId": 1053,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Peri02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105303,
+			"type": 2,
+			"modleId": 1053,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Peri03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410531,
+			"clothesId": 0
+		},
+		{
+			"id": 105304,
+			"type": 2,
+			"modleId": 1053,
+			"name": "Manipulating",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Peri04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410531,
+			"clothesId": 0
+		},
+		{
+			"id": 105305,
+			"type": 2,
+			"modleId": 1053,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Peri05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410532,
+			"clothesId": 0
+		},
+		{
+			"id": 105401,
+			"type": 2,
+			"modleId": 1054,
+			"name": "Observing",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Yoohee01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105402,
+			"type": 2,
+			"modleId": 1054,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Yoohee02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105403,
+			"type": 2,
+			"modleId": 1054,
+			"name": "Training",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Yoohee03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410541,
+			"clothesId": 0
+		},
+		{
+			"id": 105404,
+			"type": 2,
+			"modleId": 1054,
+			"name": "Idle",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Yoohee04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410541,
+			"clothesId": 0
+		},
+		{
+			"id": 105405,
+			"type": 2,
+			"modleId": 1054,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Yoohee05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410542,
+			"clothesId": 0
+		},
+		{
+			"id": 105501,
+			"type": 2,
+			"modleId": 1055,
+			"name": "Observing",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Nikketa01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105502,
+			"type": 2,
+			"modleId": 1055,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Nikketa02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105503,
+			"type": 2,
+			"modleId": 1055,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Nikketa03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410551,
+			"clothesId": 0
+		},
+		{
+			"id": 105504,
+			"type": 2,
+			"modleId": 1055,
+			"name": "Entertainment",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Nikketa04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410551,
+			"clothesId": 0
+		},
+		{
+			"id": 105505,
+			"type": 2,
+			"modleId": 1055,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Nikketa05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410552,
 			"clothesId": 0
 		}
 	]

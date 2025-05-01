@@ -986,6 +986,21 @@
 			"audioName": "Global_Action/MUSIC_Stop"
 		},
 		{
+			"id": 30120,
+			"audioType": 3,
+			"audioName": "BGM_ev_YooHee_Main/BGM_ev_YooHee_Main"
+		},
+		{
+			"id": 30121,
+			"audioType": 3,
+			"audioName": "BGM_ev_Nikketa_Main/BGM_ev_Nikketa_Main"
+		},
+		{
+			"id": 30122,
+			"audioType": 1,
+			"audioName": "Global_Action/UltraSkillTimeline_Stop"
+		},
+		{
 			"id": 40001,
 			"audioType": 4,
 			"audioName": "BGM_Satellite_Station/BGM_Satellite_Station"
@@ -6819,6 +6834,121 @@
 			"id": 1020585,
 			"audioType": 1,
 			"audioName": "Event_SP_Qiuhua_Candy/Event_SP_Qiuhua_Candy_Get"
+		},
+		{
+			"id": 1020586,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_BoardSense"
+		},
+		{
+			"id": 1020587,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_BoardStretch"
+		},
+		{
+			"id": 1020588,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_Coin"
+		},
+		{
+			"id": 1020589,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_FogAppear"
+		},
+		{
+			"id": 1020590,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_GetItem"
+		},
+		{
+			"id": 1020591,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_Magnet"
+		},
+		{
+			"id": 1020592,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_Radar"
+		},
+		{
+			"id": 1020593,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_ShieldBreak"
+		},
+		{
+			"id": 1020594,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_Shot"
+		},
+		{
+			"id": 1020595,
+			"audioType": 1,
+			"audioName": "Event_SP_YooHee/Event_SP_YooHee_Trap"
+		},
+		{
+			"id": 1020596,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_ElecShield"
+		},
+		{
+			"id": 1020597,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_CandySuper"
+		},
+		{
+			"id": 1020598,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_CandyAtk"
+		},
+		{
+			"id": 1020599,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_CandyAtkSpeed"
+		},
+		{
+			"id": 1020600,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_CandyMoveSpeed"
+		},
+		{
+			"id": 1020601,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_CheetaBomb"
+		},
+		{
+			"id": 1020602,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_BigExplo"
+		},
+		{
+			"id": 1020603,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_MidExplo"
+		},
+		{
+			"id": 1020604,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_SmallExplo"
+		},
+		{
+			"id": 1020605,
+			"audioType": 1,
+			"audioName": "Event_SP_Nikketa/Event_SP_Nikketa_IceBuff"
+		},
+		{
+			"id": 1020606,
+			"audioType": 1,
+			"audioName": "UI_System/UISys_Battle_S_CombatEX_FootbalOur"
+		},
+		{
+			"id": 1020607,
+			"audioType": 1,
+			"audioName": "UI_System/UISys_Battle_S_CombatEX_FootbalEnemy"
+		},
+		{
+			"id": 1020608,
+			"audioType": 1,
+			"audioName": "UI_System/UISys_TargetPractice_S_SceneOpen"
 		},
 		{
 			"id": 1030001,
@@ -32776,6 +32906,601 @@
 			"audioName": "VO_Peri/VO_Peri_Single_Christmas_001"
 		},
 		{
+			"id": 7105401,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Daily_001"
+		},
+		{
+			"id": 7105402,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Daily_002"
+		},
+		{
+			"id": 7105403,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Daily_003"
+		},
+		{
+			"id": 7105404,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Daily_004"
+		},
+		{
+			"id": 7105405,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Daily_005"
+		},
+		{
+			"id": 7105406,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Up_001"
+		},
+		{
+			"id": 7105407,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Up_002"
+		},
+		{
+			"id": 7105408,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Up_003"
+		},
+		{
+			"id": 7105409,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Up_004"
+		},
+		{
+			"id": 7105410,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Up_005"
+		},
+		{
+			"id": 7105411,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Title_001"
+		},
+		{
+			"id": 7105412,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Login_001"
+		},
+		{
+			"id": 7105413,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_001"
+		},
+		{
+			"id": 7105414,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_002"
+		},
+		{
+			"id": 7105415,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_003"
+		},
+		{
+			"id": 7105416,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_004"
+		},
+		{
+			"id": 7105417,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_005"
+		},
+		{
+			"id": 7105418,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_006"
+		},
+		{
+			"id": 7105419,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_007"
+		},
+		{
+			"id": 7105420,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Friendliness_008"
+		},
+		{
+			"id": 7105421,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Birthday_SSR_001"
+		},
+		{
+			"id": 7105422,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Obtain_SSR_001"
+		},
+		{
+			"id": 7105423,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_001"
+		},
+		{
+			"id": 7105424,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_002"
+		},
+		{
+			"id": 7105425,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_003"
+		},
+		{
+			"id": 7105426,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_004"
+		},
+		{
+			"id": 7105427,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_005"
+		},
+		{
+			"id": 7105428,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_006"
+		},
+		{
+			"id": 7105429,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Positive_007"
+		},
+		{
+			"id": 7105430,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Negative_001"
+		},
+		{
+			"id": 7105431,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Negative_002"
+		},
+		{
+			"id": 7105432,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Tone_Negative_003"
+		},
+		{
+			"id": 7105433,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Skill_001"
+		},
+		{
+			"id": 7105434,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Skill_002"
+		},
+		{
+			"id": 7105435,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Hit_001"
+		},
+		{
+			"id": 7105436,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Kill_001"
+		},
+		{
+			"id": 7105437,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Win_001"
+		},
+		{
+			"id": 7105438,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Lose_001"
+		},
+		{
+			"id": 7105439,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Ultimate_SSR_001"
+		},
+		{
+			"id": 7105440,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Passive_SSR_001"
+		},
+		{
+			"id": 7105441,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_NewYear_001"
+		},
+		{
+			"id": 7105442,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_SpringFes_001"
+		},
+		{
+			"id": 7105443,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Valentine_001"
+		},
+		{
+			"id": 7105444,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_MidAutumn_001"
+		},
+		{
+			"id": 7105445,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Single_Christmas_001"
+		},
+		{
+			"id": 7105501,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_001"
+		},
+		{
+			"id": 7105502,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_002"
+		},
+		{
+			"id": 7105503,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_003"
+		},
+		{
+			"id": 7105504,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_004"
+		},
+		{
+			"id": 7105505,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_005"
+		},
+		{
+			"id": 7105506,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_006"
+		},
+		{
+			"id": 7105507,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_007"
+		},
+		{
+			"id": 7105508,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_008"
+		},
+		{
+			"id": 7105509,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_009"
+		},
+		{
+			"id": 7105510,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Daily_010"
+		},
+		{
+			"id": 7105511,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_001"
+		},
+		{
+			"id": 7105512,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_002"
+		},
+		{
+			"id": 7105513,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_003"
+		},
+		{
+			"id": 7105514,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_004"
+		},
+		{
+			"id": 7105515,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_005"
+		},
+		{
+			"id": 7105516,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_006"
+		},
+		{
+			"id": 7105517,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_007"
+		},
+		{
+			"id": 7105518,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Up_008"
+		},
+		{
+			"id": 7105519,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Title_001"
+		},
+		{
+			"id": 7105520,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Login_001"
+		},
+		{
+			"id": 7105521,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_001"
+		},
+		{
+			"id": 7105522,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_002"
+		},
+		{
+			"id": 7105523,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_003"
+		},
+		{
+			"id": 7105524,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_004"
+		},
+		{
+			"id": 7105525,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_005"
+		},
+		{
+			"id": 7105526,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_006"
+		},
+		{
+			"id": 7105527,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_007"
+		},
+		{
+			"id": 7105528,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_008"
+		},
+		{
+			"id": 7105529,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_009"
+		},
+		{
+			"id": 7105530,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_010"
+		},
+		{
+			"id": 7105531,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_011"
+		},
+		{
+			"id": 7105532,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_012"
+		},
+		{
+			"id": 7105533,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Friendliness_013"
+		},
+		{
+			"id": 7105534,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Birthday_R_001"
+		},
+		{
+			"id": 7105535,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Obtain_R_001"
+		},
+		{
+			"id": 7105536,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Acquire_R_001"
+		},
+		{
+			"id": 7105537,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Birthday_SR_001"
+		},
+		{
+			"id": 7105538,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Obtain_SR_001"
+		},
+		{
+			"id": 7105539,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Acquire_SR_001"
+		},
+		{
+			"id": 7105540,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Birthday_SSR_001"
+		},
+		{
+			"id": 7105541,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Obtain_SSR_001"
+		},
+		{
+			"id": 7105542,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Acquire_SSR_001"
+		},
+		{
+			"id": 7105543,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_001"
+		},
+		{
+			"id": 7105544,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_002"
+		},
+		{
+			"id": 7105545,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_003"
+		},
+		{
+			"id": 7105546,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_004"
+		},
+		{
+			"id": 7105547,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_005"
+		},
+		{
+			"id": 7105548,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_006"
+		},
+		{
+			"id": 7105549,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_007"
+		},
+		{
+			"id": 7105550,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_008"
+		},
+		{
+			"id": 7105551,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_009"
+		},
+		{
+			"id": 7105552,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Positive_010"
+		},
+		{
+			"id": 7105553,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Negative_001"
+		},
+		{
+			"id": 7105554,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Tone_Negative_002"
+		},
+		{
+			"id": 7105555,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Skill_001"
+		},
+		{
+			"id": 7105556,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Skill_002"
+		},
+		{
+			"id": 7105557,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Hit_001"
+		},
+		{
+			"id": 7105558,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Kill_001"
+		},
+		{
+			"id": 7105559,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Win_001"
+		},
+		{
+			"id": 7105560,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Lose_001"
+		},
+		{
+			"id": 7105561,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Ultimate_SR_001"
+		},
+		{
+			"id": 7105562,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Ultimate_SSR_001"
+		},
+		{
+			"id": 7105563,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Passive_SSR_001"
+		},
+		{
+			"id": 7105564,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Anniversary_001"
+		},
+		{
+			"id": 7105565,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_NewYear_001"
+		},
+		{
+			"id": 7105566,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_SpringFes_001"
+		},
+		{
+			"id": 7105567,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Valentine_001"
+		},
+		{
+			"id": 7105568,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_WhiteVale_001"
+		},
+		{
+			"id": 7105569,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Children_001"
+		},
+		{
+			"id": 7105570,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Duanwu_001"
+		},
+		{
+			"id": 7105571,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Obon_001"
+		},
+		{
+			"id": 7105572,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_MidAutumn_001"
+		},
+		{
+			"id": 7105573,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_ThanksGiving_001"
+		},
+		{
+			"id": 7105574,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Single_Christmas_001"
+		},
+		{
 			"id": 7200101,
 			"audioType": 7,
 			"audioName": "VO_Mayling/VO_Mayling_Series_Daily_001"
@@ -33729,6 +34454,36 @@
 			"id": 7670208,
 			"audioType": 7,
 			"audioName": "VO_Executionsquad/VO_ExecutionsquadWomen_Negative_004"
+		},
+		{
+			"id": 7676101,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_Battleend_001"
+		},
+		{
+			"id": 7676102,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_Battlestart_001"
+		},
+		{
+			"id": 7676103,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_PassiveSkill_001"
+		},
+		{
+			"id": 7676104,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_Skill_001"
+		},
+		{
+			"id": 7676105,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_Skill_002"
+		},
+		{
+			"id": 7676106,
+			"audioType": 7,
+			"audioName": "VO_Lumi/VO_Lumi_Single_UltSkill_001"
 		},
 		{
 			"id": 7685301,
@@ -104416,6 +105171,136 @@
 			"audioName": "UI_System_CharAct/TL_Peri_Barracksp_Touch_Pocket"
 		},
 		{
+			"id": 12105401,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_BarrackEntrance_Normal"
+		},
+		{
+			"id": 12105402,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Upgrade_YooHeeSSR"
+		},
+		{
+			"id": 12105403,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Break_YooHeeSSR"
+		},
+		{
+			"id": 12105404,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_End_YooHeeSSR"
+		},
+		{
+			"id": 12105405,
+			"audioType": 10,
+			"audioName": "UI_GachaTL/TL_Gacha_YooHeeSSR"
+		},
+		{
+			"id": 12105406,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Behave_InspectExclusive"
+		},
+		{
+			"id": 12105407,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Behave_InspectNormal"
+		},
+		{
+			"id": 12105408,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Behave_Stretch"
+		},
+		{
+			"id": 12105409,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Camera_Aroud"
+		},
+		{
+			"id": 12105410,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Camera_Look"
+		},
+		{
+			"id": 12105411,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Touch_Gun"
+		},
+		{
+			"id": 12105412,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Touch_Head"
+		},
+		{
+			"id": 12105413,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_YooHee_Barracksp_Touch_Pocket"
+		},
+		{
+			"id": 12105501,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_BarrackEntrance_Normal"
+		},
+		{
+			"id": 12105502,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Upgrade_NikketaSSR"
+		},
+		{
+			"id": 12105503,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Break_NikketaSSR"
+		},
+		{
+			"id": 12105504,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_End_NikketaSSR"
+		},
+		{
+			"id": 12105505,
+			"audioType": 10,
+			"audioName": "UI_GachaTL/TL_Gacha_NikketaSSR"
+		},
+		{
+			"id": 12105506,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Behave_InspectExclusive"
+		},
+		{
+			"id": 12105507,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Behave_InspectNormal"
+		},
+		{
+			"id": 12105508,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Behave_Stretch"
+		},
+		{
+			"id": 12105509,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Camera_Aroud"
+		},
+		{
+			"id": 12105510,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Camera_Look"
+		},
+		{
+			"id": 12105511,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Touch_Gun"
+		},
+		{
+			"id": 12105512,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Touch_Head"
+		},
+		{
+			"id": 12105513,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Nikketa_Barracksp_Touch_Pocket"
+		},
+		{
 			"id": 13100101,
 			"audioType": 10,
 			"audioName": "UI_BedroomTL/c_CharolicDorm_Bedroom_01_Idle"
@@ -106771,6 +107656,146 @@
 			"audioName": "UI_BedroomTL/c_PeriDorm_Bedroom_0601"
 		},
 		{
+			"id": 13105401,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Cloth_After"
+		},
+		{
+			"id": 13105402,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Cloth_Before"
+		},
+		{
+			"id": 13105403,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 13105404,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0101"
+		},
+		{
+			"id": 13105405,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 13105406,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0201"
+		},
+		{
+			"id": 13105407,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 13105408,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0301"
+		},
+		{
+			"id": 13105409,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 13105410,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0401"
+		},
+		{
+			"id": 13105411,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 13105412,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0501"
+		},
+		{
+			"id": 13105413,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_06_Idle"
+		},
+		{
+			"id": 13105414,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_YooHeeDorm_Bedroom_0601"
+		},
+		{
+			"id": 13105501,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Cloth_After"
+		},
+		{
+			"id": 13105502,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Cloth_Before"
+		},
+		{
+			"id": 13105503,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 13105504,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0101"
+		},
+		{
+			"id": 13105505,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 13105506,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0201"
+		},
+		{
+			"id": 13105507,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 13105508,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0301"
+		},
+		{
+			"id": 13105509,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 13105510,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0401"
+		},
+		{
+			"id": 13105511,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 13105512,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0501"
+		},
+		{
+			"id": 13105513,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_06_Idle"
+		},
+		{
+			"id": 13105514,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_NikketaDorm_Bedroom_0601"
+		},
+		{
 			"id": 20110001,
 			"audioType": 2,
 			"audioName": "BGE_AVG_Chapter10/BGE_Act_Female_48"
@@ -107521,6 +108546,96 @@
 			"audioName": "C_SSR01_Peri/C_SSR01_Peri_Skill02_Blast"
 		},
 		{
+			"id": 51054401,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_UltraSkill"
+		},
+		{
+			"id": 51054402,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_UltraSkill_Skip"
+		},
+		{
+			"id": 51054403,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_UltraSkill_Cast"
+		},
+		{
+			"id": 51054501,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Skill01"
+		},
+		{
+			"id": 51054701,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Skill02"
+		},
+		{
+			"id": 51054702,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Skill02_Blast"
+		},
+		{
+			"id": 51054801,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Patk01"
+		},
+		{
+			"id": 51054881,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Patk02"
+		},
+		{
+			"id": 51054891,
+			"audioType": 5,
+			"audioName": "C_SSR01_YooHee/C_SSR01_YooHee_Patk03"
+		},
+		{
+			"id": 51055401,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_UltraSkill"
+		},
+		{
+			"id": 51055402,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_UltraSkill_Skip"
+		},
+		{
+			"id": 51055403,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_UltraSkill_Cast"
+		},
+		{
+			"id": 51055501,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Skill01"
+		},
+		{
+			"id": 51055502,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Skill01_Dog"
+		},
+		{
+			"id": 51055701,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Skill02_Single"
+		},
+		{
+			"id": 51055702,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Skill02_Area"
+		},
+		{
+			"id": 51055801,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Dog_Atk"
+		},
+		{
+			"id": 51055802,
+			"audioType": 5,
+			"audioName": "C_SSR01_Nikketa/C_SSR01_Nikketa_Patk01"
+		},
+		{
 			"id": 55216101,
 			"audioType": 5,
 			"audioName": "EN_ELID_Bat/EN_ELID_Bat_Die"
@@ -107896,6 +109011,11 @@
 			"audioName": "EN_SK_MopC/EN_SK_MopC_Skill01"
 		},
 		{
+			"id": 56714101,
+			"audioType": 5,
+			"audioName": "EN_PMD_Patrol324/EN_PMD_Patrol324_Atk"
+		},
+		{
 			"id": 56716001,
 			"audioType": 5,
 			"audioName": "EN_NONE_BlockBoy/EN_NONE_BlockBoy_Climb"
@@ -107956,6 +109076,31 @@
 			"audioName": "EN_NONE_BlockBoy/EN_NONE_BlockBoy_Atk"
 		},
 		{
+			"id": 56741101,
+			"audioType": 5,
+			"audioName": "EN_PMD_Annihilate999/EN_PMD_Annihilate999_Atk"
+		},
+		{
+			"id": 56741201,
+			"audioType": 5,
+			"audioName": "EN_PMD_Annihilate999/EN_PMD_Annihilate999_Skill01_Shot"
+		},
+		{
+			"id": 56741202,
+			"audioType": 5,
+			"audioName": "EN_PMD_Annihilate999/EN_PMD_Annihilate999_Skill01_Blast"
+		},
+		{
+			"id": 56741301,
+			"audioType": 5,
+			"audioName": "EN_PMD_Annihilate999/EN_PMD_Annihilate999_Skill02"
+		},
+		{
+			"id": 56741402,
+			"audioType": 5,
+			"audioName": "EN_PMD_Annihilate999/EN_PMD_Annihilate999_Buff"
+		},
+		{
 			"id": 56742101,
 			"audioType": 5,
 			"audioName": "EN_SK_Cooker666/EN_SK_Cooker666_Atk"
@@ -107999,6 +109144,116 @@
 			"id": 56743301,
 			"audioType": 5,
 			"audioName": "EN_SK_Firemen/EN_SK_Firemen_Patk01"
+		},
+		{
+			"id": 56761000,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Born"
+		},
+		{
+			"id": 56761001,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Climb"
+		},
+		{
+			"id": 56761002,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_ClimbDown"
+		},
+		{
+			"id": 56761003,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Die"
+		},
+		{
+			"id": 56761004,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_DieFly"
+		},
+		{
+			"id": 56761005,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_IdleToLC"
+		},
+		{
+			"id": 56761006,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_MoveOverCover"
+		},
+		{
+			"id": 56761007,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Run"
+		},
+		{
+			"id": 56761008,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_RunStart"
+		},
+		{
+			"id": 56761009,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_RunStop"
+		},
+		{
+			"id": 56761010,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Turn180"
+		},
+		{
+			"id": 56761011,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Turn90"
+		},
+		{
+			"id": 56761012,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Walk"
+		},
+		{
+			"id": 56761013,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_OutWall"
+		},
+		{
+			"id": 56761014,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_OutWallBack"
+		},
+		{
+			"id": 56761015,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Fall"
+		},
+		{
+			"id": 56761101,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Atk"
+		},
+		{
+			"id": 56761201,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Skill01_Shot"
+		},
+		{
+			"id": 56761202,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Skill01_Blast"
+		},
+		{
+			"id": 56761301,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Skill02"
+		},
+		{
+			"id": 56761302,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Skill02_En"
+		},
+		{
+			"id": 56761401,
+			"audioType": 5,
+			"audioName": "EN_NONE_Lumi/EN_NONE_Lumi_Passive"
 		},
 		{
 			"id": 56762001,
@@ -112056,6 +113311,206 @@
 			"audioName": "VO_Peri/VO_Peri_Series_Win"
 		},
 		{
+			"id": 71054101,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Hitted"
+		},
+		{
+			"id": 71054102,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_HittedLast"
+		},
+		{
+			"id": 71054103,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Chosen"
+		},
+		{
+			"id": 71054104,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Chosen_Auto"
+		},
+		{
+			"id": 71054105,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Set_Click"
+		},
+		{
+			"id": 71054106,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Set_Fall"
+		},
+		{
+			"id": 71054107,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Cancel"
+		},
+		{
+			"id": 71054108,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Battle_Start"
+		},
+		{
+			"id": 71054109,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Move_Start"
+		},
+		{
+			"id": 71054110,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Shield_Broken"
+		},
+		{
+			"id": 71054111,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Die"
+		},
+		{
+			"id": 71054112,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Lose"
+		},
+		{
+			"id": 71054113,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Hit"
+		},
+		{
+			"id": 71054114,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Skill01"
+		},
+		{
+			"id": 71054115,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Skill02"
+		},
+		{
+			"id": 71054116,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Ultimate"
+		},
+		{
+			"id": 71054117,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Kill"
+		},
+		{
+			"id": 71054118,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Win"
+		},
+		{
+			"id": 71054119,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Attack"
+		},
+		{
+			"id": 71054120,
+			"audioType": 7,
+			"audioName": "VO_YooHee/VO_YooHee_Series_Dying"
+		},
+		{
+			"id": 71055101,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Hitted"
+		},
+		{
+			"id": 71055102,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_HittedLast"
+		},
+		{
+			"id": 71055103,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Chosen"
+		},
+		{
+			"id": 71055104,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Chosen_Auto"
+		},
+		{
+			"id": 71055105,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Set_Click"
+		},
+		{
+			"id": 71055106,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Set_Fall"
+		},
+		{
+			"id": 71055107,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Cancel"
+		},
+		{
+			"id": 71055108,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Battle_Start"
+		},
+		{
+			"id": 71055109,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Move_Start"
+		},
+		{
+			"id": 71055110,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Shield_Broken"
+		},
+		{
+			"id": 71055111,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Die"
+		},
+		{
+			"id": 71055112,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Lose"
+		},
+		{
+			"id": 71055113,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Hit"
+		},
+		{
+			"id": 71055114,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Skill01"
+		},
+		{
+			"id": 71055115,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Skill02"
+		},
+		{
+			"id": 71055116,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Ultimate"
+		},
+		{
+			"id": 71055117,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Kill"
+		},
+		{
+			"id": 71055118,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Win"
+		},
+		{
+			"id": 71055119,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Attack"
+		},
+		{
+			"id": 71055120,
+			"audioType": 7,
+			"audioName": "VO_Nikketa/VO_Nikketa_Series_Dying"
+		},
+		{
 			"id": 71100101,
 			"audioType": 7,
 			"audioName": "VO_ServR_Charolic/VO_Charolic_Upgrade"
@@ -114541,6 +115996,146 @@
 			"audioName": "VO_ServR_Peri/VO_Peri_Entry"
 		},
 		{
+			"id": 71105401,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_BarrackEntrance_Normal"
+		},
+		{
+			"id": 71105402,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Upgrade"
+		},
+		{
+			"id": 71105403,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Break"
+		},
+		{
+			"id": 71105404,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_End"
+		},
+		{
+			"id": 71105405,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Gacha"
+		},
+		{
+			"id": 71105406,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Behave_InspectExclusive"
+		},
+		{
+			"id": 71105407,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Behave_InspectNormal"
+		},
+		{
+			"id": 71105408,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Behave_Stretch"
+		},
+		{
+			"id": 71105409,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Camera_Aroud"
+		},
+		{
+			"id": 71105410,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Camera_Look"
+		},
+		{
+			"id": 71105411,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Touch_Gun"
+		},
+		{
+			"id": 71105412,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Touch_Head"
+		},
+		{
+			"id": 71105413,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Touch_Pocket"
+		},
+		{
+			"id": 71105414,
+			"audioType": 7,
+			"audioName": "VO_ServR_YooHee/VO_YooHee_Entry"
+		},
+		{
+			"id": 71105501,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_BarrackEntrance_Normal"
+		},
+		{
+			"id": 71105502,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Upgrade"
+		},
+		{
+			"id": 71105503,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Break"
+		},
+		{
+			"id": 71105504,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_End"
+		},
+		{
+			"id": 71105505,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Gacha"
+		},
+		{
+			"id": 71105506,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Behave_InspectExclusive"
+		},
+		{
+			"id": 71105507,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Behave_InspectNormal"
+		},
+		{
+			"id": 71105508,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Behave_Stretch"
+		},
+		{
+			"id": 71105509,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Camera_Aroud"
+		},
+		{
+			"id": 71105510,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Camera_Look"
+		},
+		{
+			"id": 71105511,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Touch_Gun"
+		},
+		{
+			"id": 71105512,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Touch_Head"
+		},
+		{
+			"id": 71105513,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Touch_Pocket"
+		},
+		{
+			"id": 71105514,
+			"audioType": 7,
+			"audioName": "VO_ServR_Nikketa/VO_Nikketa_Entry"
+		},
+		{
 			"id": 72012801,
 			"audioType": 7,
 			"audioName": "VO_Bedroom_Centaureissi/VO_c_CentaureissiDorm_Bedroom_0101"
@@ -116759,6 +118354,126 @@
 			"id": 72105312,
 			"audioType": 7,
 			"audioName": "VO_Bedroom_Peri/VO_c_PeriDorm_Bedroom_0601"
+		},
+		{
+			"id": 72105401,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 72105402,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0101"
+		},
+		{
+			"id": 72105403,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 72105404,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0201"
+		},
+		{
+			"id": 72105405,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 72105406,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0301"
+		},
+		{
+			"id": 72105407,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 72105408,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0401"
+		},
+		{
+			"id": 72105409,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 72105410,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0501"
+		},
+		{
+			"id": 72105411,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_06_Idle"
+		},
+		{
+			"id": 72105412,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_YooHee/VO_c_YooHeeDorm_Bedroom_0601"
+		},
+		{
+			"id": 72105501,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 72105502,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0101"
+		},
+		{
+			"id": 72105503,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 72105504,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0201"
+		},
+		{
+			"id": 72105505,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 72105506,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0301"
+		},
+		{
+			"id": 72105507,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 72105508,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0401"
+		},
+		{
+			"id": 72105509,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 72105510,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0501"
+		},
+		{
+			"id": 72105511,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_06_Idle"
+		},
+		{
+			"id": 72105512,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Nikketa/VO_c_NikketaDorm_Bedroom_0601"
 		},
 		{
 			"id": 81401000,

@@ -93,19 +93,6 @@
 			"o_HECAHBLCPEB": 701
 		},
 		{
-			"id": 8001,
-			"name": "Echo of Dawn",
-			"unlockId": 29301,
-			"activityType": 1,
-			"activityEntrance": [
-				801,
-				802
-			],
-			"priority": 3,
-			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Zhaohui",
-			"o_HECAHBLCPEB": 801
-		},
-		{
 			"id": 9001,
 			"name": "Aphelion",
 			"unlockId": 29301,
@@ -123,8 +110,7 @@
 			"unlockId": 29301,
 			"activityType": 1,
 			"activityEntrance": [
-				1001,
-				1002
+				1001
 			],
 			"priority": 3,
 			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Vector",

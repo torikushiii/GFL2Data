@@ -7,10 +7,10 @@
 				100200
 			],
 			"darkzoneCriticalEffect": 10010101,
-			"criticalRate": 260,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 260,
+			"suppressDamage": 240,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1008,
@@ -19,10 +19,10 @@
 				100700
 			],
 			"darkzoneCriticalEffect": 10080101,
-			"criticalRate": 950,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1009,
@@ -31,10 +31,10 @@
 				100600
 			],
 			"darkzoneCriticalEffect": 10090101,
-			"criticalRate": 500,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 400,
+			"suppressDamage": 360,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1013,
@@ -43,10 +43,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10130101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1015,
@@ -55,10 +55,10 @@
 				100400
 			],
 			"darkzoneCriticalEffect": 10150101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1017,
@@ -67,10 +67,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10170101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1021,
@@ -79,10 +79,10 @@
 				100300
 			],
 			"darkzoneCriticalEffect": 10210101,
-			"criticalRate": 560,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 560,
+			"suppressDamage": 560,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1022,
@@ -91,10 +91,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10220101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1023,
@@ -103,10 +103,10 @@
 				100700
 			],
 			"darkzoneCriticalEffect": 10230101,
-			"criticalRate": 950,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1024,
@@ -115,10 +115,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10240101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1025,
@@ -127,10 +127,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10250101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1026,
@@ -139,10 +139,10 @@
 				100600
 			],
 			"darkzoneCriticalEffect": 10260101,
-			"criticalRate": 500,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 400,
+			"suppressDamage": 360,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1027,
@@ -151,10 +151,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10270101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1028,
@@ -163,10 +163,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10280101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1029,
@@ -175,10 +175,10 @@
 				100400
 			],
 			"darkzoneCriticalEffect": 10290101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1032,
@@ -187,10 +187,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10320101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1033,
@@ -199,10 +199,10 @@
 				100700
 			],
 			"darkzoneCriticalEffect": 10330101,
-			"criticalRate": 950,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1034,
@@ -211,10 +211,10 @@
 				100700
 			],
 			"darkzoneCriticalEffect": 10340101,
-			"criticalRate": 950,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1035,
@@ -223,10 +223,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10350101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1036,
@@ -235,10 +235,10 @@
 				100600
 			],
 			"darkzoneCriticalEffect": 10360101,
-			"criticalRate": 500,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 400,
+			"suppressDamage": 360,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1037,
@@ -247,10 +247,10 @@
 				100200
 			],
 			"darkzoneCriticalEffect": 10370102,
-			"criticalRate": 260,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 260,
+			"suppressDamage": 240,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1038,
@@ -259,10 +259,10 @@
 				100300
 			],
 			"darkzoneCriticalEffect": 10380101,
-			"criticalRate": 560,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 560,
+			"suppressDamage": 560,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1039,
@@ -271,10 +271,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10390101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1040,
@@ -283,10 +283,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10400101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1041,
@@ -295,10 +295,10 @@
 				100400
 			],
 			"darkzoneCriticalEffect": 10410101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1042,
@@ -307,10 +307,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10420101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1043,
@@ -319,10 +319,10 @@
 				100600
 			],
 			"darkzoneCriticalEffect": 10430101,
-			"criticalRate": 500,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 400,
+			"suppressDamage": 360,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1044,
@@ -331,10 +331,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10440101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1045,
@@ -343,10 +343,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10450101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1047,
@@ -355,10 +355,22 @@
 				100700
 			],
 			"darkzoneCriticalEffect": 10470101,
-			"criticalRate": 950,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
+		},
+		{
+			"id": 1048,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100400
+			],
+			"darkzoneCriticalEffect": 10480101,
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1050,
@@ -367,10 +379,10 @@
 				100500
 			],
 			"darkzoneCriticalEffect": 10500101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1051,
@@ -379,10 +391,10 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10510101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		},
 		{
 			"id": 1052,
@@ -391,10 +403,46 @@
 				100100
 			],
 			"darkzoneCriticalEffect": 10520101,
-			"criticalRate": 550,
-			"cameraLength": 1500,
-			"aimCameraRange": 1,
-			"aimCameraLength": 1500
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
+		},
+		{
+			"id": 1053,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100500
+			],
+			"darkzoneCriticalEffect": 10530101,
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
+		},
+		{
+			"id": 1054,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100100
+			],
+			"darkzoneCriticalEffect": 10540101,
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
+		},
+		{
+			"id": 1055,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100700
+			],
+			"darkzoneCriticalEffect": 10550101,
+			"darkzonePotential": 950,
+			"suppressDamage": 950,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		}
 	]
 }

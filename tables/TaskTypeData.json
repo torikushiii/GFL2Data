@@ -7,18 +7,18 @@
 			"typeBg": "NewTask_Daily_decorationBG",
 			"typeBgIcon": "NewTask_Daily_decorationImage",
 			"typeTaskIcon": "Icon_Btn_Quest_CheckIn",
-			"sequence": 2,
+			"sequence": 4,
 			"unlock": 24002
 		},
 		{
 			"type": 2,
-			"typeName": "Weekly Missions",
+			"typeName": "Regular Commissions",
 			"typeEnglishName": "WEEK TASK",
 			"typeBg": "NewTask_Daily_decorationBG",
 			"typeBgIcon": "NewTask_Daily_decorationImage",
 			"typeTaskIcon": "DailyTask_Icon_03",
-			"sequence": 0,
-			"unlock": 0
+			"sequence": 3,
+			"unlock": 24002
 		},
 		{
 			"type": 3,
@@ -37,8 +37,18 @@
 			"typeBg": "NewTask_Week_decorationBG",
 			"typeBgIcon": "NewTask_Week_decorationImage",
 			"typeTaskIcon": "Icon_Btn_Quest_Newbie",
-			"sequence": 1,
+			"sequence": 2,
 			"unlock": 26001
+		},
+		{
+			"type": 5,
+			"typeName": "Journey Milestone",
+			"typeEnglishName": "ACHIEVEMENT_CHALLENGE",
+			"typeTaskIcon": "Icon_Btn_Quest_Newbie",
+			"sequence": 1,
+			"unlock": 24003,
+			"typeBg": "",
+			"typeBgIcon": ""
 		}
 	]
 }

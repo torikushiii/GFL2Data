@@ -151,8 +151,8 @@
 			"id": 24040,
 			"icon": "Item_HeadFrame_BP_14",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4006,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4006
 		},
 		{
 			"id": 24041,
@@ -221,8 +221,8 @@
 			"id": 24053,
 			"icon": "Item_HeadFrame_Love_Zhaohui",
 			"unlockDes": "Beneath the cold blade, do emotions quietly flow?\nThis heartfelt gift from the Doll unlocks when Affinity with Zhaohui reaches Level 6.",
-			"sort": 3003,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3003
 		},
 		{
 			"id": 24054,
@@ -235,15 +235,15 @@
 			"id": 24055,
 			"icon": "Item_HeadFrame_ActivityZhaohui",
 			"unlockDes": "Unlocked by clearing Echo of Dawn on Challenge Mode",
-			"sort": 2011,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2011
 		},
 		{
 			"id": 24056,
 			"icon": "Item_HeadFrame_HighPVP_Season7",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation Season: Crisis Infiltration",
-			"sort": 1007,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1007
 		},
 		{
 			"id": 24057,
@@ -291,22 +291,22 @@
 			"id": 24063,
 			"icon": "Item_HeadFrame_ActivityVector",
 			"unlockDes": "Unlocked by completing all challenge mode stages for Escape from Cyborg",
-			"sort": 2014,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2014
 		},
 		{
 			"id": 24064,
 			"icon": "Item_HeadFrame_HighPVP_Season8",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Tempered Glory",
-			"sort": 1008,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1008
 		},
 		{
 			"id": 24065,
 			"icon": "Item_HeadFrame_Love_Vector",
 			"unlockDes": "The scattered fragrance lingering through her strands, a treasured memory uniquely yours.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Vector",
-			"sort": 3009,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3009
 		},
 		{
 			"id": 24066,
@@ -337,6 +337,13 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 24070,
+			"icon": "Item_HeadFrame_Love_Dusevnyj",
+			"unlockDes": "The future she paints is dyed in your colors. \nThis heartfelt gift from the Doll unlocks when Affinity with Dushevnaya reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3014
+		},
+		{
 			"id": 24071,
 			"icon": "Item_HeadFrame_Love_Springfield",
 			"unlockDes": "The sweetness is just right, yet it is not enough to carry the deep affection in her smile.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Springfield.",
@@ -349,6 +356,48 @@
 			"unlockDes": "She will be present on every long night and afternoon from now on.\nThis heartfelt gift from the Doll unlocks when Affinity with Groza reaches Level 6.",
 			"displayConfig": 1,
 			"sort": 3016
+		},
+		{
+			"id": 24073,
+			"icon": "Item_HeadFrame_Love_Ullrid",
+			"unlockDes": "You are like the free wind, and I wish to follow you wherever you go.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Ullrid.",
+			"displayConfig": 1,
+			"sort": 3022
+		},
+		{
+			"id": 24074,
+			"icon": "Item_HeadFrame_Love_Centaureissi",
+			"unlockDes": "You are perfect in her eyes, and deserving of all the goodness she can give.\nThis heartfelt gift from the Doll unlocks when Affinity with Centaureissi reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3025
+		},
+		{
+			"id": 24075,
+			"icon": "Item_HeadFrame_Love_Peri",
+			"unlockDes": "Shhh. You're the only one who gets to enjoy this special privilege.\nThis heartfelt gift from the Doll unlocks when Affinity with Peri reaches Level 6.",
+			"sort": 3019,
+			"displayConfig": 0
+		},
+		{
+			"id": 24076,
+			"icon": "Item_HeadFrame_Love_YooHee",
+			"unlockDes": "A nimble dance beneath the sun, only to shorten the distance between you two.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Yoohee.",
+			"displayConfig": 1,
+			"sort": 3023
+		},
+		{
+			"id": 24077,
+			"icon": "Item_HeadFrame_Love_Qiuhua",
+			"unlockDes": "Wok and spatula meet in boiling oil; they just can't bear to be apart.\nThis heartfelt gift from the Doll unlocks when Affinity with Qiuhua reaches Level 6.",
+			"sort": 3021,
+			"displayConfig": 0
+		},
+		{
+			"id": 24079,
+			"icon": "Item_HeadFrame_Love_Nikketa",
+			"unlockDes": "Her loyalty is locked within her heart.\nThis heartfelt gift from the Doll unlocks when Affinity with Nikketa reaches Level 6.",
+			"sort": 3024,
+			"displayConfig": 0
 		},
 		{
 			"id": 24107,
@@ -386,6 +435,13 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 24112,
+			"icon": "Item_HeadFrame_ActivityPeri",
+			"unlockDes": "Complete Mimisbrunnr's Loop Part 2 Challenge Mode to unlock",
+			"sort": 2018,
+			"displayConfig": 0
+		},
+		{
 			"id": 24113,
 			"icon": "Item_HeadFrame_HighPVP_Season10",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Thunder Strike",
@@ -398,6 +454,83 @@
 			"unlockDes": "Unlocks after completing Zucchero Cafe Resource Mode",
 			"displayConfig": 1,
 			"sort": 2002
+		},
+		{
+			"id": 24115,
+			"icon": "Item_HeadFrame_ActivityQiuhua",
+			"unlockDes": "Complete Springtime Bustle Challenge Mode to unlock",
+			"sort": 2019,
+			"displayConfig": 0
+		},
+		{
+			"id": 24116,
+			"icon": "Item_HeadFrame_Bp2_1",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"sort": 4013,
+			"displayConfig": 0
+		},
+		{
+			"id": 24128,
+			"icon": "Item_HeadFrame_HighPVP_Season11",
+			"unlockDes": "Unlocked by placing top 50% in Military Simulation Season: Chaotic Flood",
+			"sort": 1011,
+			"displayConfig": 0
+		},
+		{
+			"id": 24129,
+			"icon": "Item_HeadFrame_HighPVP_Season12",
+			"unlockDes": "Unlocked by placing top 50% in Military Simulation Season: Desperate Charge",
+			"sort": 1012,
+			"displayConfig": 0
+		},
+		{
+			"id": 24130,
+			"icon": "Item_HeadFrame_ActivityQiuhua_Signin",
+			"unlockDes": "Unlocked by obtaining the final reward in Cosy Fragrant Night",
+			"sort": 2020,
+			"displayConfig": 0
+		},
+		{
+			"id": 24131,
+			"icon": "Item_HeadFrame_ActivityYooHee",
+			"unlockDes": "Unlocked after clearing Silvered Whispers Challenge Mode stages.",
+			"displayConfig": 1,
+			"sort": 2021
+		},
+		{
+			"id": 24132,
+			"icon": "Item_HeadFrame_HighPVP_Season13",
+			"unlockDes": "Unlock by ranking in the top 50% in Military Simulation Season: Balefire Shift",
+			"sort": 1013,
+			"displayConfig": 0
+		},
+		{
+			"id": 24136,
+			"icon": "Item_HeadFrame_ActivityNikketa",
+			"unlockDes": "Unlocked by completing all Challenge Mode stages for Ex Umbra.",
+			"sort": 2022,
+			"displayConfig": 0
+		},
+		{
+			"id": 24137,
+			"icon": "Item_HeadFrame_Handmade_Collect1",
+			"unlockDes": "Unlocked after Overall Recollection Score reaches 1200.",
+			"displayConfig": 1,
+			"sort": 1101
+		},
+		{
+			"id": 24138,
+			"icon": "Item_HeadFrame_Handmade_Collect2",
+			"unlockDes": "Unlocked after Overall Recollection Score reaches 2450.",
+			"displayConfig": 1,
+			"sort": 1102
+		},
+		{
+			"id": 24139,
+			"icon": "Item_HeadFrame_ExStage_1",
+			"unlockDes": "Obtained as the theme prize of completing the Coordination Drill \"Divegrass Drill\".",
+			"displayConfig": 1,
+			"sort": 2023
 		}
 	]
 }

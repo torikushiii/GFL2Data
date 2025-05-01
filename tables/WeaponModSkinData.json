@@ -924,6 +924,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7231235,
+			"weaponSkinType": 4,
+			"name": "Skin - Love Magic Sight",
+			"order": 623,
+			"openType": 3,
+			"skinItem": 7231235,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SSR_Set006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331005,
 			"weaponSkinType": 4,
 			"name": "Skin - Grey Meteor",
@@ -1041,6 +1054,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7331084,
+			"weaponSkinType": 4,
+			"name": "Skin - Meow-ptical Scope",
+			"order": 108,
+			"openType": 3,
+			"skinItem": 7331084,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_B013_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331085,
 			"weaponSkinType": 4,
 			"name": "Skin - Concealment Gear",
@@ -1063,6 +1089,19 @@
 			"rank": 5,
 			"type": 1012,
 			"resPath": "Sights/Scope_SR_Cla_Suomi_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331104,
+			"weaponSkinType": 4,
+			"name": "Skin - Starry Night Scope",
+			"order": 110,
+			"openType": 3,
+			"skinItem": 7331104,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_C013_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1093,6 +1132,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7331124,
+			"weaponSkinType": 4,
+			"name": "Skin - Frozen Sight",
+			"order": 112,
+			"openType": 3,
+			"skinItem": 7331124,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_C014_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331125,
 			"weaponSkinType": 4,
 			"name": "Skin - Leisurely Patroller",
@@ -1102,6 +1154,32 @@
 			"rank": 5,
 			"type": 1012,
 			"resPath": "Sights/Scope_SR_Cla_Andoris_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331135,
+			"weaponSkinType": 4,
+			"name": "Skin - Ivory Cosmos",
+			"order": 513,
+			"openType": 3,
+			"skinItem": 7331135,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Dusevnyj_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331144,
+			"weaponSkinType": 5,
+			"name": "Skin - Hundred Leagues' Sight",
+			"order": 114,
+			"openType": 3,
+			"skinItem": 7331144,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_E008_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1128,6 +1206,97 @@
 			"rank": 5,
 			"type": 1012,
 			"resPath": "Sights/Scope_SR_Cla_Groza_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331164,
+			"weaponSkinType": 5,
+			"name": "Skin - Fiery Eyes, Golden Pupils",
+			"order": 116,
+			"openType": 3,
+			"skinItem": 7331164,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_E006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331165,
+			"weaponSkinType": 4,
+			"name": "Skin - Fantasy Merchant",
+			"order": 516,
+			"openType": 3,
+			"skinItem": 7331165,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Peri_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331185,
+			"weaponSkinType": 4,
+			"name": "Skin - S-Grade Cuisine Hunter",
+			"order": 518,
+			"openType": 3,
+			"skinItem": 7331185,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Qiuhua_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331195,
+			"weaponSkinType": 4,
+			"name": "Skin - Stylish Dancer",
+			"order": 519,
+			"openType": 3,
+			"skinItem": 7331195,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_YooHee_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331205,
+			"weaponSkinType": 4,
+			"name": "Skin - Guiding Thornlight",
+			"order": 520,
+			"openType": 3,
+			"skinItem": 7331205,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Ullrid_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331215,
+			"weaponSkinType": 4,
+			"name": "Skin - Model Manufacture",
+			"order": 521,
+			"openType": 3,
+			"skinItem": 7331215,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Nikketa_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331225,
+			"weaponSkinType": 4,
+			"name": "Skin - Perfect Service",
+			"order": 522,
+			"openType": 3,
+			"skinItem": 7331225,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Centaureissi_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1173,7 +1342,7 @@
 		{
 			"id": 7332004,
 			"weaponSkinType": 4,
-			"name": "Skin - Snowy Night Muzzle Mk.III",
+			"name": "Skin - Snowy Muzzle Type 3",
 			"order": 100,
 			"openType": 3,
 			"skinItem": 7332004,
@@ -1199,7 +1368,7 @@
 		{
 			"id": 7332024,
 			"weaponSkinType": 4,
-			"name": "Skin - Snowy Night Muzzle Mk.I",
+			"name": "Skin - Snowy Muzzle Type 1",
 			"order": 102,
 			"openType": 3,
 			"skinItem": 7332024,
@@ -1249,6 +1418,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332094,
+			"weaponSkinType": 4,
+			"name": "Skin - Silent Sky",
+			"order": 109,
+			"openType": 3,
+			"skinItem": 7332094,
+			"rank": 4,
+			"type": 2031,
+			"resPath": "Silencers/Muzzle_SR_Cla_D013_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332105,
 			"weaponSkinType": 4,
 			"name": "Skin - Aurora Chaser Muzzle",
@@ -1258,6 +1440,19 @@
 			"rank": 5,
 			"type": 2011,
 			"resPath": "Silencers/Muzzle_SSR_Set002_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7332144,
+			"weaponSkinType": 4,
+			"name": "Skin - Abyssal Muzzle",
+			"order": 118,
+			"openType": 3,
+			"skinItem": 7332144,
+			"rank": 4,
+			"type": 2031,
+			"resPath": "Silencers/Muzzle_SR_Cla_C015_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1275,6 +1470,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332154,
+			"weaponSkinType": 5,
+			"name": "Skin - Impelling Air",
+			"order": 115,
+			"openType": 3,
+			"skinItem": 7332154,
+			"rank": 4,
+			"type": 2012,
+			"resPath": "Silencers/Muzzle_SR_Cla_E007_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332185,
 			"weaponSkinType": 4,
 			"name": "Skin - Midnight Waltz Muzzle",
@@ -1288,9 +1496,22 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332225,
+			"weaponSkinType": 4,
+			"name": "Skin - Love Magic Muzzle",
+			"order": 622,
+			"openType": 3,
+			"skinItem": 7332225,
+			"rank": 5,
+			"type": 2011,
+			"resPath": "Silencers/Muzzle_SSR_Set006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332704,
 			"weaponSkinType": 4,
-			"name": "Skin - Snowy Night Muzzle Mk.II",
+			"name": "Skin - Snowy Muzzle Type 2",
 			"order": 101,
 			"openType": 3,
 			"skinItem": 7332704,
@@ -1405,6 +1626,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7333074,
+			"weaponSkinType": 4,
+			"name": "Skin - Nyaser Aiming Device",
+			"order": 107,
+			"openType": 3,
+			"skinItem": 7333074,
+			"rank": 4,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SR_Cla_B014_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7333095,
 			"weaponSkinType": 4,
 			"name": "Skin - Aurora Chaser Underbarrel",
@@ -1440,6 +1674,19 @@
 			"rank": 5,
 			"type": 3014,
 			"resPath": "Lights/Hangdown_SSR_Set003_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7333215,
+			"weaponSkinType": 4,
+			"name": "Skin - Love Magic Underbarrel",
+			"order": 621,
+			"openType": 3,
+			"skinItem": 7333215,
+			"rank": 5,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SSR_Set006_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1492,6 +1739,19 @@
 			"rank": 4,
 			"type": 4011,
 			"resPath": "Blades/Ensharp_SR_Cla_C001_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7334134,
+			"weaponSkinType": 5,
+			"name": "Skin - Flowery Blade",
+			"order": 113,
+			"openType": 3,
+			"skinItem": 7334134,
+			"rank": 4,
+			"type": 4011,
+			"resPath": "Blades/Ensharp_SR_Cla_E009_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1687,6 +1947,45 @@
 			"rank": 5,
 			"type": 12011,
 			"resPath": "Grip/Grip_SSR_Set002_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336114,
+			"weaponSkinType": 4,
+			"name": "Skin - Outland Illusion",
+			"order": 111,
+			"openType": 3,
+			"skinItem": 7336114,
+			"rank": 4,
+			"type": 12011,
+			"resPath": "Grip/Grip_SR_Cla_D014_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336134,
+			"weaponSkinType": 4,
+			"name": "Skin - Abyssal Bipod",
+			"order": 117,
+			"openType": 3,
+			"skinItem": 7336134,
+			"rank": 4,
+			"type": 13011,
+			"resPath": "Stool/Stool_SR_Cla_D015_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336205,
+			"weaponSkinType": 4,
+			"name": "Skin - Love Magic Grip",
+			"order": 620,
+			"openType": 3,
+			"skinItem": 7336205,
+			"rank": 5,
+			"type": 12011,
+			"resPath": "Grip/Grip_SSR_Set006_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},

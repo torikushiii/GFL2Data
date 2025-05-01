@@ -341,6 +341,36 @@
 			"triggerCount": 1
 		},
 		{
+			"id": 1101,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
+			"id": 1102,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
+			"id": 1103,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
 			"id": 1900,
 			"create": 1,
 			"lifetime": -1,
@@ -369,6 +399,36 @@
 			"userCamp": 1,
 			"setTrigger": 1,
 			"triggerCount": 1
+		},
+		{
+			"id": 10012,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 1,
+			"belongCamp": 1,
+			"userCamp": 2,
+			"setTrigger": 1,
+			"triggerCount": -1
+		},
+		{
+			"id": 10013,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 1,
+			"belongCamp": 1,
+			"userCamp": 4,
+			"setTrigger": 1,
+			"triggerCount": -1
+		},
+		{
+			"id": 10014,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 1,
+			"belongCamp": 1,
+			"userCamp": 4,
+			"setTrigger": 1,
+			"triggerCount": -1
 		}
 	]
 }

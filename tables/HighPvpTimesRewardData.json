@@ -226,7 +226,7 @@
 		},
 		{
 			"id": 29,
-			"rewardGroup": 1003,
+			"rewardGroup": 1011,
 			"o_IPGFDDCFEGE": 5,
 			"reward": {
 				"1": 50
@@ -234,7 +234,7 @@
 		},
 		{
 			"id": 30,
-			"rewardGroup": 1003,
+			"rewardGroup": 1011,
 			"o_IPGFDDCFEGE": 10,
 			"reward": {
 				"1": 100
@@ -242,7 +242,7 @@
 		},
 		{
 			"id": 31,
-			"rewardGroup": 1003,
+			"rewardGroup": 1011,
 			"o_IPGFDDCFEGE": 15,
 			"reward": {
 				"1": 150
@@ -250,15 +250,15 @@
 		},
 		{
 			"id": 32,
-			"rewardGroup": 1003,
+			"rewardGroup": 1011,
 			"o_IPGFDDCFEGE": 20,
 			"reward": {
-				"9012": 1
+				"4132284": 1
 			}
 		},
 		{
 			"id": 33,
-			"rewardGroup": 1011,
+			"rewardGroup": 1012,
 			"o_IPGFDDCFEGE": 5,
 			"reward": {
 				"1": 50
@@ -266,7 +266,7 @@
 		},
 		{
 			"id": 34,
-			"rewardGroup": 1011,
+			"rewardGroup": 1012,
 			"o_IPGFDDCFEGE": 10,
 			"reward": {
 				"1": 100
@@ -274,7 +274,7 @@
 		},
 		{
 			"id": 35,
-			"rewardGroup": 1011,
+			"rewardGroup": 1012,
 			"o_IPGFDDCFEGE": 15,
 			"reward": {
 				"1": 150
@@ -282,10 +282,106 @@
 		},
 		{
 			"id": 36,
-			"rewardGroup": 1011,
+			"rewardGroup": 1012,
 			"o_IPGFDDCFEGE": 20,
 			"reward": {
-				"4132284": 1
+				"4132304": 1
+			}
+		},
+		{
+			"id": 37,
+			"rewardGroup": 1013,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 38,
+			"rewardGroup": 1013,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 39,
+			"rewardGroup": 1013,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 40,
+			"rewardGroup": 1013,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4132374": 1
+			}
+		},
+		{
+			"id": 41,
+			"rewardGroup": 1014,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 42,
+			"rewardGroup": 1014,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 43,
+			"rewardGroup": 1014,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 44,
+			"rewardGroup": 1014,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4135394": 1
+			}
+		},
+		{
+			"id": 45,
+			"rewardGroup": 1015,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 46,
+			"rewardGroup": 1015,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 47,
+			"rewardGroup": 1015,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 48,
+			"rewardGroup": 1015,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4132404": 1
 			}
 		}
 	]

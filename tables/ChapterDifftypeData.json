@@ -300,8 +300,8 @@
 			"type": 3,
 			"stageGroup": 3001,
 			"relation": 101,
-			"tab": 1,
-			"tabName": "活动剧情",
+			"tab": 2,
+			"tabName": "剧情战役",
 			"planId": 70001,
 			"unlock": [
 				10997
@@ -853,6 +853,111 @@
 			"globalTab": 0
 		},
 		{
+			"id": 3017,
+			"name": "Springtime Bustle",
+			"difficultyType": 1,
+			"difficultyGroup": 317,
+			"type": 3,
+			"stageGroup": 4020,
+			"relation": 117,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70017,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Qiuhua",
+			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3018,
+			"name": "Silvered Whispers",
+			"difficultyType": 1,
+			"difficultyGroup": 318,
+			"type": 3,
+			"stageGroup": 4021,
+			"relation": 118,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70018,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_YooHee",
+			"mapBackground": "Img_YooHee_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 3019,
+			"name": "Ex Umbra",
+			"difficultyType": 1,
+			"difficultyGroup": 319,
+			"type": 3,
+			"stageGroup": 4022,
+			"relation": 119,
+			"tab": 2,
+			"tabName": "活动剧情",
+			"planId": 70019,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Nikketa",
+			"mapBackground": "Img_Nikketa_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
 			"id": 4001,
 			"name": "Amidst Wings of Gray",
 			"difficultyType": 1,
@@ -1133,41 +1238,6 @@
 			"globalTab": 0
 		},
 		{
-			"id": 4012,
-			"name": "Echo of Dawn",
-			"difficultyType": 1,
-			"difficultyGroup": 412,
-			"type": 4,
-			"stageGroup": 4012,
-			"relation": 109,
-			"notes": 1,
-			"tabName": "普通模式",
-			"planId": 50033,
-			"unlock": [
-				29301
-			],
-			"chapterRewardValue": [
-				9,
-				18,
-				27
-			],
-			"chapterDes": "",
-			"background": "Img_Branch_Zhaohui",
-			"mapBackground": "Img_Zhaohui_ChapterBg_1",
-			"decoration": "UIChapterDecoration1Item",
-			"effects": "story_sandwind",
-			"chapterRewardShow": {
-				"1": 1,
-				"2": 1,
-				"3": 1
-			},
-			"chapterReward": "1:50|1:100|1:150",
-			"tab": 0,
-			"unlockHint": "",
-			"preChapter": [],
-			"globalTab": 0
-		},
-		{
 			"id": 4013,
 			"name": "Aphelion - Part 1",
 			"difficultyType": 1,
@@ -1247,7 +1317,7 @@
 			"relation": 112,
 			"notes": 1,
 			"tabName": "剧情模式",
-			"planId": 50036,
+			"planId": 1000018,
 			"unlock": [
 				29301
 			],
@@ -1364,6 +1434,111 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Springfield",
 			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4019,
+			"name": "Mímisbrunnr's Loop - Part II",
+			"difficultyType": 1,
+			"difficultyGroup": 419,
+			"type": 4,
+			"stageGroup": 4019,
+			"relation": 116,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500079,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				42
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Peri",
+			"mapBackground": "Img_Peri_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4020,
+			"name": "Springtime Bustle",
+			"difficultyType": 1,
+			"difficultyGroup": 420,
+			"type": 4,
+			"stageGroup": 4020,
+			"relation": 117,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500088,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Qiuhua",
+			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4022,
+			"name": "Ex Umbra",
+			"difficultyType": 1,
+			"difficultyGroup": 422,
+			"type": 4,
+			"stageGroup": 4022,
+			"relation": 119,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500102,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Nikketa",
+			"mapBackground": "Img_Nikketa_ChapterBg_1",
 			"decoration": "UIChapterDecoration1Item",
 			"effects": "story_sandwind",
 			"chapterRewardShow": {
@@ -2183,7 +2358,7 @@
 		},
 		{
 			"id": 93016,
-			"name": "",
+			"name": "Mímisbrunnr's Loop - Part II",
 			"difficultyType": 2,
 			"difficultyGroup": 316,
 			"type": 3,
@@ -2198,8 +2373,107 @@
 				15
 			],
 			"chapterDes": "",
-			"background": "#REF!",
-			"mapBackground": "#REF!",
+			"background": "Img_Branch_Peri",
+			"mapBackground": "Img_Peri_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93017,
+			"name": "Springtime Bustle",
+			"difficultyType": 2,
+			"difficultyGroup": 317,
+			"type": 3,
+			"stageGroup": 94020,
+			"relation": 217,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70017,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Qiuhua",
+			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93018,
+			"name": "Silvered Whispers",
+			"difficultyType": 2,
+			"difficultyGroup": 318,
+			"type": 3,
+			"stageGroup": 94021,
+			"relation": 218,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70018,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_YooHee",
+			"mapBackground": "Img_YooHee_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93019,
+			"name": "Ex Umbra",
+			"difficultyType": 2,
+			"difficultyGroup": 319,
+			"type": 3,
+			"stageGroup": 94022,
+			"relation": 219,
+			"tab": 1,
+			"tabName": "活动剧情",
+			"planId": 70019,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Nikketa",
+			"mapBackground": "Img_Nikketa_ChapterBg_1",
 			"chapterRewardShow": {
 				"1": 1,
 				"2": 1,
@@ -2489,41 +2763,6 @@
 			"globalTab": 0
 		},
 		{
-			"id": 94012,
-			"name": "Echo of Dawn",
-			"difficultyType": 2,
-			"difficultyGroup": 412,
-			"type": 4,
-			"stageGroup": 94012,
-			"relation": 209,
-			"notes": 1,
-			"tabName": "困难模式",
-			"planId": 51015,
-			"unlock": [
-				93005
-			],
-			"chapterRewardValue": [
-				5,
-				10,
-				15
-			],
-			"chapterDes": "",
-			"background": "Img_Branch_Zhaohui",
-			"mapBackground": "Img_Zhaohui_ChapterBg_1",
-			"decoration": "UIChapterDecoration1Item",
-			"effects": "story_sandwind",
-			"chapterRewardShow": {
-				"1": 1,
-				"2": 1,
-				"3": 1
-			},
-			"chapterReward": "1:50|1:100|1:150",
-			"tab": 0,
-			"unlockHint": "",
-			"preChapter": [],
-			"globalTab": 0
-		},
-		{
 			"id": 94013,
 			"name": "Aphelion - Part 1",
 			"difficultyType": 2,
@@ -2599,10 +2838,7 @@
 			"relation": 212,
 			"notes": 1,
 			"tabName": "物资模式",
-			"planId": 51021,
-			"unlock": [
-				93008
-			],
+			"planId": 1000019,
 			"chapterRewardValue": [
 				5,
 				10,
@@ -2620,6 +2856,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
 			"globalTab": 0
@@ -2635,9 +2872,6 @@
 			"notes": 1,
 			"tabName": "物资模式",
 			"planId": 51025,
-			"unlock": [
-				93009
-			],
 			"chapterRewardValue": [
 				5,
 				10,
@@ -2655,6 +2889,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
 			"globalTab": 0
@@ -2711,6 +2946,105 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Springfield",
 			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94019,
+			"name": "Mímisbrunnr's Loop - Part II",
+			"difficultyType": 2,
+			"difficultyGroup": 419,
+			"type": 4,
+			"stageGroup": 94019,
+			"relation": 216,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51031,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Peri",
+			"mapBackground": "Img_Peri_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94020,
+			"name": "Springtime Bustle",
+			"difficultyType": 2,
+			"difficultyGroup": 420,
+			"type": 4,
+			"stageGroup": 94020,
+			"relation": 217,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51033,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Qiuhua",
+			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 94022,
+			"name": "Ex Umbra",
+			"difficultyType": 2,
+			"difficultyGroup": 422,
+			"type": 4,
+			"stageGroup": 94022,
+			"relation": 219,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51037,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Nikketa",
+			"mapBackground": "Img_Nikketa_ChapterBg_1",
 			"decoration": "UIChapterDecoration1Item",
 			"effects": "story_sandwind",
 			"chapterRewardShow": {
@@ -2926,31 +3260,6 @@
 			"globalTab": 0
 		},
 		{
-			"id": 994012,
-			"name": "Echo of Dawn",
-			"difficultyType": 3,
-			"difficultyGroup": 99412,
-			"type": 4,
-			"stageGroup": 994012,
-			"tabName": "挑战模式",
-			"planId": 51016,
-			"chapterDes": "",
-			"background": "Img_Branch_Zhaohui",
-			"mapBackground": "Img_Zhaohui_ChapterBg_1",
-			"relation": 0,
-			"notes": 0,
-			"tab": 0,
-			"unlock": [],
-			"unlockHint": "",
-			"chapterRewardValue": [],
-			"preChapter": [],
-			"decoration": "",
-			"effects": "",
-			"chapterRewardShow": {},
-			"chapterReward": "",
-			"globalTab": 0
-		},
-		{
 			"id": 994013,
 			"name": "Aphelion - Part 1",
 			"difficultyType": 3,
@@ -3008,7 +3317,7 @@
 			"type": 4,
 			"stageGroup": 994015,
 			"tabName": "挑战模式",
-			"planId": 51022,
+			"planId": 1000020,
 			"chapterDes": "",
 			"background": "Img_Branch_Vector",
 			"mapBackground": "Img_Vector_ChapterBg_1",
@@ -3087,6 +3396,81 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Springfield",
 			"mapBackground": "Img_Springfield_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994019,
+			"name": "Mímisbrunnr's Loop - Part II",
+			"difficultyType": 3,
+			"difficultyGroup": 99419,
+			"type": 4,
+			"stageGroup": 994019,
+			"tabName": "挑战模式",
+			"planId": 51032,
+			"chapterDes": "",
+			"background": "Img_Branch_Peri",
+			"mapBackground": "Img_Peri_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994020,
+			"name": "Springtime Bustle",
+			"difficultyType": 3,
+			"difficultyGroup": 99420,
+			"type": 4,
+			"stageGroup": 994020,
+			"tabName": "挑战模式",
+			"planId": 51034,
+			"chapterDes": "",
+			"background": "Img_Branch_Qiuhua",
+			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994022,
+			"name": "Ex Umbra",
+			"difficultyType": 3,
+			"difficultyGroup": 99422,
+			"type": 4,
+			"stageGroup": 994022,
+			"tabName": "挑战模式",
+			"planId": 51038,
+			"chapterDes": "",
+			"background": "Img_Branch_Nikketa",
+			"mapBackground": "Img_Nikketa_ChapterBg_1",
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,

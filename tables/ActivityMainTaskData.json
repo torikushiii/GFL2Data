@@ -396,7 +396,7 @@
 			"id": 5110301,
 			"group": 511,
 			"tag": 3,
-			"tagName": "Supply",
+			"tagName": "Hard Mode",
 			"name": "Labyrinth Fantasy 1",
 			"des": "Complete event stage MF-1-1 Reliable Companion",
 			"conditionNum": 1,
@@ -410,7 +410,7 @@
 			"id": 5110302,
 			"group": 511,
 			"tag": 3,
-			"tagName": "Supply",
+			"tagName": "Hard Mode",
 			"name": "Labyrinth Fantasy 2",
 			"des": "Complete event stage MF-1-2 Machine Story",
 			"conditionNum": 1,
@@ -424,7 +424,7 @@
 			"id": 5110303,
 			"group": 511,
 			"tag": 3,
-			"tagName": "Supply",
+			"tagName": "Hard Mode",
 			"name": "Labyrinth Fantasy 3",
 			"des": "Complete event stage MF-1-3 Great Infiltration",
 			"conditionNum": 1,
@@ -438,7 +438,7 @@
 			"id": 5110304,
 			"group": 511,
 			"tag": 3,
-			"tagName": "Supply",
+			"tagName": "Hard Mode",
 			"name": "Labyrinth Fantasy 4",
 			"des": "Complete event stage MF-1-4 Absurd Entry",
 			"conditionNum": 1,
@@ -452,7 +452,7 @@
 			"id": 5110305,
 			"group": 511,
 			"tag": 3,
-			"tagName": "Supply",
+			"tagName": "Hard Mode",
 			"name": "Labyrinth Fantasy 5",
 			"des": "Complete event stage MF-1-5 Rhapsody Coda",
 			"conditionNum": 1,
@@ -538,7 +538,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 1",
-			"des": "Complete Story Stage DA-1-1",
+			"des": "Complete Story Mode Stage DA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -552,7 +552,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 2",
-			"des": "Complete Story Stage DA-1-2",
+			"des": "Complete Story Mode Stage DA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -566,7 +566,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 3",
-			"des": "Complete Story Stage DA-1-3",
+			"des": "Complete Story Mode Stage DA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -580,7 +580,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 4",
-			"des": "Complete Story Stage DA-1-4",
+			"des": "Complete Story Mode Stage DA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -594,7 +594,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 5",
-			"des": "Complete Story Stage DA-1-5",
+			"des": "Complete Story Mode Stage DA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -608,7 +608,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 6",
-			"des": "Complete Story Stage DA-1-6",
+			"des": "Complete Story Mode Stage DA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -622,7 +622,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 7",
-			"des": "Complete Story Stage DA-1-7",
+			"des": "Complete Story Mode Stage DA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -636,7 +636,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 8",
-			"des": "Complete Story Stage DA-1-8",
+			"des": "Complete Story Mode Stage DA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -650,7 +650,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wishful Journey 9",
-			"des": "Complete Story Stage DA-1-9",
+			"des": "Complete Story Mode Stage DA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -664,7 +664,7 @@
 			"tag": 3,
 			"tagName": "Supply",
 			"name": "Prayerful Sojourn 1",
-			"des": "Complete Resource Stage DF-1-1",
+			"des": "Clear Supply Mode stage DF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
@@ -678,7 +678,7 @@
 			"tag": 3,
 			"tagName": "Supply",
 			"name": "Prayerful Sojourn 2",
-			"des": "Complete Resource Stage DF-1-2",
+			"des": "Clear Supply Mode stage DF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
@@ -692,7 +692,7 @@
 			"tag": 3,
 			"tagName": "Supply",
 			"name": "Prayerful Sojourn 3",
-			"des": "Complete Resource Stage DF-1-3",
+			"des": "Clear Supply Mode stage DF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
@@ -706,7 +706,7 @@
 			"tag": 3,
 			"tagName": "Supply",
 			"name": "Prayerful Sojourn 4",
-			"des": "Complete Resource Stage DF-1-4",
+			"des": "Clear Supply Mode stage DF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
@@ -720,7 +720,7 @@
 			"tag": 3,
 			"tagName": "Supply",
 			"name": "Prayerful Sojourn 5",
-			"des": "Complete Resource Stage DF-1-5",
+			"des": "Clear Supply Mode stage DF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
@@ -734,7 +734,7 @@
 			"tag": 4,
 			"tagName": "Challenge",
 			"name": "Dream Battle 1",
-			"des": "Complete Challenge Stage DT-1-1",
+			"des": "Complete event Challenge Mode stage DT-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
@@ -748,7 +748,7 @@
 			"tag": 4,
 			"tagName": "Challenge",
 			"name": "Dream Battle 2",
-			"des": "Complete Challenge Stage DT-1-2",
+			"des": "Complete event Challenge Mode stage DT-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
@@ -762,7 +762,7 @@
 			"tag": 4,
 			"tagName": "Challenge",
 			"name": "Dream Battle 3",
-			"des": "Complete Challenge Stage DT-1-3",
+			"des": "Complete event Challenge Mode stage DT-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
@@ -776,7 +776,7 @@
 			"tag": 4,
 			"tagName": "Challenge",
 			"name": "Dream Battle 4",
-			"des": "Complete Challenge Stage DT-1-4",
+			"des": "Complete event Challenge Mode stage DT-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
@@ -790,7 +790,7 @@
 			"tag": 4,
 			"tagName": "Challenge",
 			"name": "Dream Battle 5",
-			"des": "Complete Challenge Stage DT-1-5",
+			"des": "Complete event Challenge Mode stage DT-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
@@ -802,7 +802,7 @@
 			"id": 8010201,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 1",
 			"des": "Complete event stage ZA-1-1",
 			"conditionNum": 1,
@@ -816,7 +816,7 @@
 			"id": 8010202,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 2",
 			"des": "Complete event stage ZA-1-2",
 			"conditionNum": 1,
@@ -830,7 +830,7 @@
 			"id": 8010203,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 3",
 			"des": "Complete event stage ZA-1-3",
 			"conditionNum": 1,
@@ -844,7 +844,7 @@
 			"id": 8010204,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 4",
 			"des": "Complete event stage ZA-1-4",
 			"conditionNum": 1,
@@ -858,7 +858,7 @@
 			"id": 8010205,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 5",
 			"des": "Complete event stage ZA-1-5",
 			"conditionNum": 1,
@@ -872,7 +872,7 @@
 			"id": 8010206,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 6",
 			"des": "Complete event stage ZA-1-6",
 			"conditionNum": 1,
@@ -886,7 +886,7 @@
 			"id": 8010207,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 7",
 			"des": "Complete event stage ZA-1-7",
 			"conditionNum": 1,
@@ -900,7 +900,7 @@
 			"id": 8010208,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 8",
 			"des": "Complete event stage ZA-1-8",
 			"conditionNum": 1,
@@ -914,7 +914,7 @@
 			"id": 8010209,
 			"group": 801,
 			"tag": 2,
-			"tagName": "Normal Mode",
+			"tagName": "Story",
 			"name": "Premiere 9",
 			"des": "Complete event stage ZA-1-9",
 			"conditionNum": 1,
@@ -928,70 +928,70 @@
 			"id": 8010301,
 			"group": 801,
 			"tag": 3,
-			"tagName": "Hard Mode",
+			"tagName": "Supply",
 			"name": "Encore 1",
 			"des": "Complete event stage ZF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"175001": 400
+				"175001": 450
 			}
 		},
 		{
 			"id": 8010302,
 			"group": 801,
 			"tag": 3,
-			"tagName": "Hard Mode",
+			"tagName": "Supply",
 			"name": "Encore 2",
 			"des": "Complete event stage ZF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"175001": 400
+				"175001": 450
 			}
 		},
 		{
 			"id": 8010303,
 			"group": 801,
 			"tag": 3,
-			"tagName": "Hard Mode",
+			"tagName": "Supply",
 			"name": "Encore 3",
 			"des": "Complete event stage ZF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"175001": 400
+				"175001": 450
 			}
 		},
 		{
 			"id": 8010304,
 			"group": 801,
 			"tag": 3,
-			"tagName": "Hard Mode",
+			"tagName": "Supply",
 			"name": "Encore 4",
 			"des": "Complete event stage ZF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"175001": 400
+				"175001": 450
 			}
 		},
 		{
 			"id": 8010305,
 			"group": 801,
 			"tag": 3,
-			"tagName": "Hard Mode",
+			"tagName": "Supply",
 			"name": "Encore 5",
 			"des": "Complete event stage ZF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"175001": 400
+				"175001": 450
 			}
 		},
 		{
@@ -1075,7 +1075,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1089,7 +1089,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1103,7 +1103,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1131,7 +1131,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1145,7 +1145,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1159,7 +1159,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1173,7 +1173,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176101": 500
+				"176101": 300
 			}
 		},
 		{
@@ -1201,7 +1201,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176101": 750
+				"176101": 450
 			}
 		},
 		{
@@ -1215,7 +1215,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176101": 750
+				"176101": 450
 			}
 		},
 		{
@@ -1229,7 +1229,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176101": 750
+				"176101": 450
 			}
 		},
 		{
@@ -1243,7 +1243,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176101": 750
+				"176101": 450
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176101": 750
+				"176101": 450
 			}
 		},
 		{
@@ -1271,7 +1271,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176101": 1000
+				"176101": 600
 			}
 		},
 		{
@@ -1285,7 +1285,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176101": 1000
+				"176101": 600
 			}
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176101": 1000
+				"176101": 600
 			}
 		},
 		{
@@ -1313,7 +1313,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176101": 1000
+				"176101": 600
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176101": 1000
+				"176101": 600
 			}
 		},
 		{
@@ -1866,658 +1866,1598 @@
 			"id": 14010201,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 1",
-			"des": "Clear Campaign Mode stage AA-1-1",
+			"tagName": "Story Mode - Part 1",
+			"name": "Campaign Prelude I",
+			"des": "Complete Story Mode Stage SA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010202,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 2",
-			"des": "Clear Campaign Mode stage AA-1-2",
+			"tagName": "Story Mode - Part 1",
+			"name": "Intense Pursuit I",
+			"des": "Complete Story Mode Stage SA-2-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010203,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 3",
-			"des": "Clear Campaign Mode stage AA-1-3",
+			"tagName": "Story Mode - Part 1",
+			"name": "Intense Pursuit II",
+			"des": "Complete Story Mode Stage SA-2-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010204,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 4",
-			"des": "Clear Campaign Mode stage AA-1-4",
+			"tagName": "Story Mode - Part 1",
+			"name": "Intense Pursuit III",
+			"des": "Complete Story Mode Stage SA-2-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010205,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 5",
-			"des": "Clear Campaign Mode stage AA-1-5",
+			"tagName": "Story Mode - Part 1",
+			"name": "Extreme Breakthrough I",
+			"des": "Complete Story Mode Stage SA-3-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010206,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 6",
-			"des": "Clear Campaign Mode stage AA-1-6",
+			"tagName": "Story Mode - Part 1",
+			"name": "Extreme Breakthrough II",
+			"des": "Complete Story Mode Stage SA-3-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010207,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 7",
-			"des": "Clear Campaign Mode stage AA-1-7",
+			"tagName": "Story Mode - Part 1",
+			"name": "Extreme Breakthrough III",
+			"des": "Complete Story Mode Stage SA-3-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010208,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 8",
-			"des": "Clear Campaign Mode stage AA-1-8",
+			"tagName": "Story Mode - Part 1",
+			"name": "Victory Decided I",
+			"des": "Complete Story Mode Stage SA-4-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010209,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story",
-			"name": "Springfield Campaign 9",
-			"des": "Clear Campaign Mode stage AA-1-9",
+			"tagName": "Story Mode - Part 1",
+			"name": "Victory Decided II",
+			"des": "Complete Story Mode Stage SA-4-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176401": 500
+			}
+		},
+		{
+			"id": 14010210,
+			"group": 1401,
+			"tag": 2,
+			"tagName": "Story Mode - Part 1",
+			"name": "Final Winner I",
+			"des": "Complete Story Mode Stage SA-5-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 500
+			}
+		},
+		{
+			"id": 14010211,
+			"group": 1401,
+			"tag": 2,
+			"tagName": "Story Mode - Part 1",
+			"name": "Final Winner II",
+			"des": "Complete Story Mode Stage SA-5-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 500
 			}
 		},
 		{
 			"id": 14010301,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply",
-			"name": "Springfield Hard",
-			"des": "Clear Supply Mode stage AF-1-1",
+			"tagName": "Supply Mode - Part 1",
+			"name": "Comprehensive Search I",
+			"des": "Complete Supply Mode Stage SF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176401": 750
 			}
 		},
 		{
 			"id": 14010302,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply",
-			"name": "Springfield Hard",
-			"des": "Clear Supply Mode stage AF-1-2",
+			"tagName": "Supply Mode - Part 1",
+			"name": "Comprehensive Search II",
+			"des": "Complete Supply Mode Stage SF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176401": 750
 			}
 		},
 		{
 			"id": 14010303,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply",
-			"name": "Springfield Hard",
-			"des": "Clear Supply Mode stage AF-1-3",
+			"tagName": "Supply Mode - Part 1",
+			"name": "Comprehensive Search III",
+			"des": "Complete Supply Mode Stage SF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176401": 750
 			}
 		},
 		{
 			"id": 14010304,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply",
-			"name": "Springfield Hard",
-			"des": "Clear Supply Mode stage AF-1-4",
+			"tagName": "Supply Mode - Part 1",
+			"name": "Comprehensive Search IV",
+			"des": "Complete Supply Mode Stage SF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176401": 750
 			}
 		},
 		{
 			"id": 14010305,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply",
-			"name": "Springfield Hard",
-			"des": "Clear Supply Mode stage AF-1-5",
+			"tagName": "Supply Mode - Part 1",
+			"name": "Comprehensive Search V",
+			"des": "Complete Supply Mode Stage SF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176401": 750
 			}
 		},
 		{
 			"id": 14010401,
 			"group": 1401,
 			"tag": 4,
-			"tagName": "Challenge",
-			"name": "Springfield Challenge",
-			"des": "Clear Challenge Mode stage AT-1-1",
+			"tagName": "Challenge Mode - Part I",
+			"name": "Deep Challenge I",
+			"des": "Complete Challenge Mode Stage ST-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176401": 1000
 			}
 		},
 		{
 			"id": 14010402,
 			"group": 1401,
 			"tag": 4,
-			"tagName": "Challenge",
-			"name": "Springfield Challenge",
-			"des": "Clear Challenge Mode stage AT-1-2",
+			"tagName": "Challenge Mode - Part I",
+			"name": "Deep Challenge II",
+			"des": "Complete Challenge Mode Stage ST-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176401": 1000
 			}
 		},
 		{
 			"id": 14010403,
 			"group": 1401,
 			"tag": 4,
-			"tagName": "Challenge",
-			"name": "Springfield Challenge",
-			"des": "Clear Challenge Mode stage AT-1-3",
+			"tagName": "Challenge Mode - Part I",
+			"name": "Deep Challenge III",
+			"des": "Complete Challenge Mode Stage ST-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176401": 1000
 			}
 		},
 		{
 			"id": 14010404,
 			"group": 1401,
 			"tag": 4,
-			"tagName": "Challenge",
-			"name": "Springfield Challenge",
-			"des": "Clear Challenge Mode stage AT-1-4",
+			"tagName": "Challenge Mode - Part I",
+			"name": "Deep Challenge IV",
+			"des": "Complete Challenge Mode Stage ST-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176401": 1000
 			}
 		},
 		{
 			"id": 14010405,
 			"group": 1401,
 			"tag": 4,
-			"tagName": "Challenge",
-			"name": "Springfield Challenge",
-			"des": "Clear Challenge Mode stage AT-1-5",
+			"tagName": "Challenge Mode - Part I",
+			"name": "Deep Challenge V",
+			"des": "Complete Challenge Mode Stage ST-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176401": 1000
 			}
 		},
 		{
 			"id": 14010501,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-1",
+			"tagName": "Story Mode - Part 2",
+			"name": "Round 2",
+			"des": "Complete Story Mode Stage PA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010502,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-2",
+			"tagName": "Story Mode - Part 2",
+			"name": "Repeat Calculation I",
+			"des": "Complete Story Mode Stage PA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010503,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-3",
+			"tagName": "Story Mode - Part 2",
+			"name": "Repeat Calculation II",
+			"des": "Complete Story Mode Stage PA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010504,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-4",
+			"tagName": "Story Mode - Part 2",
+			"name": "Hunting Shadows I",
+			"des": "Complete Story Mode Stage PA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010505,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-5",
+			"tagName": "Story Mode - Part 2",
+			"name": "Hunting Shadows II",
+			"des": "Complete Story Mode Stage PA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010506,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-6",
+			"tagName": "Story Mode - Part 2",
+			"name": "Hunting Shadows III",
+			"des": "Complete Story Mode Stage PA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010507,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-7",
+			"tagName": "Story Mode - Part 2",
+			"name": "Elaborate Deployment I",
+			"des": "Complete Story Mode Stage PA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010508,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-8",
+			"tagName": "Story Mode - Part 2",
+			"name": "Elaborate Deployment II",
+			"des": "Complete Story Mode Stage PA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010509,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story",
-			"name": "Peri Campaign",
-			"des": "Clear Campaign Mode stage AA-1-9",
+			"tagName": "Story Mode - Part 2",
+			"name": "Elaborate Deployment III",
+			"des": "Complete Story Mode Stage PA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176402": 500
+			}
+		},
+		{
+			"id": 14010510,
+			"group": 1401,
+			"tag": 5,
+			"tagName": "Story Mode - Part 2",
+			"name": "Repeat Calculation III",
+			"des": "Complete Story Mode Stage PA-1-10",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176402": 500
+			}
+		},
+		{
+			"id": 14010511,
+			"group": 1401,
+			"tag": 5,
+			"tagName": "Story Mode - Part 2",
+			"name": "Endgame Moment",
+			"des": "Complete Story Mode Stage PA-1-11",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176402": 500
 			}
 		},
 		{
 			"id": 14010601,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply",
-			"name": "Peri Hard",
-			"des": "Clear Supply Mode stage AF-1-1",
+			"tagName": "Supply Mode - Part 2",
+			"name": "Venue Search I",
+			"des": "Complete Supply Mode Stage PF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176402": 750
 			}
 		},
 		{
 			"id": 14010602,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply",
-			"name": "Peri Hard",
-			"des": "Clear Supply Mode stage AF-1-2",
+			"tagName": "Supply Mode - Part 2",
+			"name": "Venue Search II",
+			"des": "Complete Supply Mode Stage PF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176402": 750
 			}
 		},
 		{
 			"id": 14010603,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply",
-			"name": "Peri Hard",
-			"des": "Clear Supply Mode stage AF-1-3",
+			"tagName": "Supply Mode - Part 2",
+			"name": "Venue Search III",
+			"des": "Complete Supply Mode Stage PF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176402": 750
 			}
 		},
 		{
 			"id": 14010604,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply",
-			"name": "Peri Hard",
-			"des": "Clear Supply Mode stage AF-1-4",
+			"tagName": "Supply Mode - Part 2",
+			"name": "Venue Search IV",
+			"des": "Complete Supply Mode Stage PF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176402": 750
 			}
 		},
 		{
 			"id": 14010605,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply",
-			"name": "Peri Hard",
-			"des": "Clear Supply Mode stage AF-1-5",
+			"tagName": "Supply Mode - Part 2",
+			"name": "Venue Search V",
+			"des": "Complete Supply Mode Stage PF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176301": 750
+				"176402": 750
 			}
 		},
 		{
 			"id": 14010701,
 			"group": 1401,
 			"tag": 7,
-			"tagName": "Challenge",
-			"name": "Peri Challenge",
-			"des": "Clear Challenge Mode stage AT-1-1",
+			"tagName": "Challenge Mode - Part II",
+			"name": "Desperate Counterstrike I",
+			"des": "Complete Challenge Mode Stage PT-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176402": 1000
 			}
 		},
 		{
 			"id": 14010702,
 			"group": 1401,
 			"tag": 7,
-			"tagName": "Challenge",
-			"name": "Peri Challenge",
-			"des": "Clear Challenge Mode stage AT-1-2",
+			"tagName": "Challenge Mode - Part II",
+			"name": "Desperate Counterstrike II",
+			"des": "Complete Challenge Mode Stage PT-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176402": 1000
 			}
 		},
 		{
 			"id": 14010703,
 			"group": 1401,
 			"tag": 7,
-			"tagName": "Challenge",
-			"name": "Peri Challenge",
-			"des": "Clear Challenge Mode stage AT-1-3",
+			"tagName": "Challenge Mode - Part II",
+			"name": "Desperate Counterstrike III",
+			"des": "Complete Challenge Mode Stage PT-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176402": 1000
 			}
 		},
 		{
 			"id": 14010704,
 			"group": 1401,
 			"tag": 7,
-			"tagName": "Challenge",
-			"name": "Peri Challenge",
-			"des": "Clear Challenge Mode stage AT-1-4",
+			"tagName": "Challenge Mode - Part II",
+			"name": "Desperate Counterstrike IV",
+			"des": "Complete Challenge Mode Stage PT-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176402": 1000
 			}
 		},
 		{
 			"id": 14010705,
 			"group": 1401,
 			"tag": 7,
-			"tagName": "Challenge",
-			"name": "Peri Challenge",
-			"des": "Clear Challenge Mode stage AT-1-5",
+			"tagName": "Challenge Mode - Part II",
+			"name": "Desperate Counterstrike V",
+			"des": "Complete Challenge Mode Stage PT-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176301": 1000
+				"176402": 1000
 			}
 		},
 		{
 			"id": 14010801,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts I",
-			"des": "Clear Campaign Mode stage AA-1-1",
+			"tagName": "Artifact Recovery",
+			"name": "Normal Encounter I",
+			"des": "Complete 1 Normal Encounter incident",
 			"conditionNum": 1,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010802,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts II",
-			"des": "Clear Campaign Mode stage AA-1-2",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Normal Encounter II",
+			"des": "Complete 2 Normal Encounter incidents",
+			"conditionNum": 2,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010803,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts III",
-			"des": "Clear Campaign Mode stage AA-1-3",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Normal Encounter III",
+			"des": "Complete 4 Normal Encounter incidents",
+			"conditionNum": 4,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010804,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts IV",
-			"des": "Clear Campaign Mode stage AA-1-4",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Normal Encounter IV",
+			"des": "Complete 6 Normal Encounter incidents",
+			"conditionNum": 6,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010805,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts V",
-			"des": "Clear Campaign Mode stage AA-1-5",
+			"tagName": "Artifact Recovery",
+			"name": "Dangerous Encounter I",
+			"des": "Complete 1 Dangerous Encounter incident",
 			"conditionNum": 1,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010806,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts VI",
-			"des": "Clear Campaign Mode stage AA-1-6",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Dangerous Encounter II",
+			"des": "Complete 2 Dangerous Encounter incidents",
+			"conditionNum": 2,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010807,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts VII",
-			"des": "Clear Campaign Mode stage AA-1-7",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Dangerous Encounter III",
+			"des": "Complete 3 Dangerous Encounter incidents",
+			"conditionNum": 3,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010808,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts VIII",
-			"des": "Clear Campaign Mode stage AA-1-8",
-			"conditionNum": 1,
+			"tagName": "Artifact Recovery",
+			"name": "Dangerous Encounter IV",
+			"des": "Complete 4 Dangerous Encounter incidents",
+			"conditionNum": 4,
 			"rewardList": {
-				"25": 3000,
-				"8301": 3000,
-				"176301": 500
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
 			}
 		},
 		{
 			"id": 14010809,
 			"group": 1401,
 			"tag": 8,
-			"tagName": "Roguelike",
-			"name": "Wavering Hearts IX",
-			"des": "Clear Campaign Mode stage AA-1-9",
+			"tagName": "Artifact Recovery",
+			"name": "Deep Exploration I",
+			"des": "Complete 1 Grim Challenge",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010810,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Deep ExplorationII",
+			"des": "Complete 1 Final Exam",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010811,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Crisis Management",
+			"des": "Complete 3 Encounter Incidents",
+			"conditionNum": 3,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010812,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Support Obtained",
+			"des": "Connect to the Support Terminal 2 times",
+			"conditionNum": 2,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010813,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Dolls Obtained",
+			"des": "Perform 5 Manpower Supplements",
+			"conditionNum": 5,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010814,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Recycling Route I",
+			"des": "Complete Retrieval Route I once",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176401": 200
+			}
+		},
+		{
+			"id": 14010815,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Recycling Route II",
+			"des": "Complete Retrieval Route II once",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176401": 200
+			}
+		},
+		{
+			"id": 14010816,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Recycling Route III",
+			"des": "Complete Retrieval Route III once",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176401": 200
+			}
+		},
+		{
+			"id": 14010817,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery I",
+			"des": "Obtain a total of 10 plugins",
+			"conditionNum": 10,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010818,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery II",
+			"des": "Obtain a total of 30 plugins",
+			"conditionNum": 30,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010819,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery III",
+			"des": "Obtain a total of 50 plugins",
+			"conditionNum": 50,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010820,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery IV",
+			"des": "Obtain a total of 80 plugins",
+			"conditionNum": 80,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010821,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery V",
+			"des": "Obtain a total of 120 plugins",
+			"conditionNum": 120,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010822,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery Ⅵ",
+			"des": "Obtain a total of 160 plugins",
+			"conditionNum": 160,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 14010823,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugin Recovery VII",
+			"des": "Obtain a total of 200 plugins",
+			"conditionNum": 200,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 150
+			}
+		},
+		{
+			"id": 16010201,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet I",
+			"des": "Clear Story Mode stage YA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176301": 500
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010202,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet II",
+			"des": "Clear Story Mode stage YA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010203,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet III",
+			"des": "Clear Story Mode stage YA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010204,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet IV",
+			"des": "Clear Story Mode stage YA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010205,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet V",
+			"des": "Clear Story Mode stage YA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010206,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet VI",
+			"des": "Clear Story Mode stage YA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010207,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet VII",
+			"des": "Clear Story Mode stage YA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010208,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet VIII",
+			"des": "Clear Story Mode stage YA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010209,
+			"group": 1601,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Undefeated Bouquet IX",
+			"des": "Clear Story Mode stage YA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010301,
+			"group": 1601,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Flurry of Snowflakes I",
+			"des": "Clear Supply Mode stage YF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176601": 450
+			}
+		},
+		{
+			"id": 16010302,
+			"group": 1601,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Flurry of Snowflakes II",
+			"des": "Clear Supply Mode stage YF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176601": 450
+			}
+		},
+		{
+			"id": 16010303,
+			"group": 1601,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Flurry of Snowflakes III",
+			"des": "Clear Supply Mode stage YF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176601": 450
+			}
+		},
+		{
+			"id": 16010304,
+			"group": 1601,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Flurry of Snowflakes IV",
+			"des": "Clear Supply Mode stage YF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176601": 450
+			}
+		},
+		{
+			"id": 16010305,
+			"group": 1601,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Flurry of Snowflakes V",
+			"des": "Clear Supply Mode stage YF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176601": 450
+			}
+		},
+		{
+			"id": 16010401,
+			"group": 1601,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Final Stage I",
+			"des": "Clear Challenge Mode stage YT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176601": 600
+			}
+		},
+		{
+			"id": 16010402,
+			"group": 1601,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Final Stage II",
+			"des": "Clear Challenge Mode stage YT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176601": 600
+			}
+		},
+		{
+			"id": 16010403,
+			"group": 1601,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Final Stage III",
+			"des": "Clear Challenge Mode stage YT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176601": 600
+			}
+		},
+		{
+			"id": 16010404,
+			"group": 1601,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Final Stage IV",
+			"des": "Clear Challenge Mode stage YT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176601": 600
+			}
+		},
+		{
+			"id": 16010405,
+			"group": 1601,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Final Stage V",
+			"des": "Clear Challenge Mode stage YT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176601": 600
+			}
+		},
+		{
+			"id": 16010501,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Escape Adept I",
+			"des": "Complete Great Ruin Escape 1 time",
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 30,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010502,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Escape Adept II",
+			"des": "Complete Great Ruin Escape 3 time",
+			"conditionNum": 3,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 16010503,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Escape Adept III",
+			"des": "Complete Great Ruin Escape 7 time",
+			"conditionNum": 7,
+			"rewardList": {
+				"1": 40,
+				"9012": 1
+			}
+		},
+		{
+			"id": 16010504,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Score Master I",
+			"des": "Acquire 3000 total score",
+			"conditionNum": 3000,
+			"rewardList": {
+				"1": 30,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010505,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Score Master II",
+			"des": "Acquire 7000 total score",
+			"conditionNum": 7000,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 16010506,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Score Master III",
+			"des": "Acquire 15000 total score",
+			"conditionNum": 15000,
+			"rewardList": {
+				"1": 40,
+				"93017": 1
+			}
+		},
+		{
+			"id": 16010507,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Prospector I",
+			"des": "Collect 5 Gold Coins",
+			"conditionNum": 5,
+			"rewardList": {
+				"1": 30,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010508,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Prospector II",
+			"des": "Collect 10 Gold Coins",
+			"conditionNum": 10,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 16010509,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Prospector III",
+			"des": "Collect 20 Gold Coins",
+			"conditionNum": 20,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
+			}
+		},
+		{
+			"id": 16010510,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Ruin Hunter I",
+			"des": "Kill 3 monsters",
+			"conditionNum": 3,
+			"rewardList": {
+				"1": 30,
+				"176601": 300
+			}
+		},
+		{
+			"id": 16010511,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Ruin Hunter III",
+			"des": "Kill 8 monsters",
+			"conditionNum": 8,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 16010512,
+			"group": 1601,
+			"tag": 5,
+			"tagName": "Ruin Escape",
+			"name": "Ruin Hunter III",
+			"des": "Kill 15 monsters",
+			"conditionNum": 15,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
+			}
+		},
+		{
+			"id": 17010201,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil I",
+			"des": "Clear Campaign Mode stage NA-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010202,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil II",
+			"des": "Clear Campaign Mode stage NA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010203,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil III",
+			"des": "Clear Campaign Mode stage NA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010204,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil IV",
+			"des": "Clear Campaign Mode stage NA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010205,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil V",
+			"des": "Clear Campaign Mode stage NA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010206,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil VI",
+			"des": "Clear Campaign Mode stage NA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010207,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil VII",
+			"des": "Clear Campaign Mode stage NA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010208,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil VIII",
+			"des": "Clear Campaign Mode stage NA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010209,
+			"group": 1701,
+			"tag": 2,
+			"tagName": "Story",
+			"name": "Light in the Pupil IX",
+			"des": "Clear Campaign Mode stage NA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176701": 500
+			}
+		},
+		{
+			"id": 17010301,
+			"group": 1701,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Choice Amidst Hardship I",
+			"des": "Clear Supply Mode stage NF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176701": 750
+			}
+		},
+		{
+			"id": 17010302,
+			"group": 1701,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Choice Amidst Hardship II",
+			"des": "Clear Supply Mode stage NF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176701": 750
+			}
+		},
+		{
+			"id": 17010303,
+			"group": 1701,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Choice Amidst Hardship III",
+			"des": "Clear Supply Mode stage NF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176701": 750
+			}
+		},
+		{
+			"id": 17010304,
+			"group": 1701,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Choice Amidst Hardship IV",
+			"des": "Clear Supply Mode stage NF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176701": 750
+			}
+		},
+		{
+			"id": 17010305,
+			"group": 1701,
+			"tag": 3,
+			"tagName": "Supply",
+			"name": "Choice Amidst Hardship V",
+			"des": "Clear Supply Mode stage NF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"176701": 750
+			}
+		},
+		{
+			"id": 17010401,
+			"group": 1701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Ambush in the Dark I",
+			"des": "Clear Challenge Mode stage NT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176701": 1000
+			}
+		},
+		{
+			"id": 17010402,
+			"group": 1701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Ambush in the Dark II",
+			"des": "Clear Challenge Mode stage NT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176701": 1000
+			}
+		},
+		{
+			"id": 17010403,
+			"group": 1701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Ambush in the Dark III",
+			"des": "Clear Challenge Mode stage NT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176701": 1000
+			}
+		},
+		{
+			"id": 17010404,
+			"group": 1701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Ambush in the Dark IV",
+			"des": "Clear Challenge Mode stage NT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176701": 1000
+			}
+		},
+		{
+			"id": 17010405,
+			"group": 1701,
+			"tag": 4,
+			"tagName": "Challenge",
+			"name": "Ambush in the Dark V",
+			"des": "Clear Challenge Mode stage NT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"176701": 1000
 			}
 		}
 	]

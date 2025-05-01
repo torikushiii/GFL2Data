@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 3,
-			"orderName": "Connect",
+			"orderName": "Access",
 			"orderDetail": "Reach the area and tap into the data stream.",
 			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
 			"skillId": 1008,
@@ -34,7 +34,7 @@
 		},
 		{
 			"id": 5,
-			"orderName": "Interact",
+			"orderName": "Explore",
 			"orderDetail": "Reach the area and explore the surroundings.",
 			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
 			"skillId": 1009,
@@ -58,7 +58,7 @@
 		},
 		{
 			"id": 8,
-			"orderName": "Collection",
+			"orderName": "Collect",
 			"orderDetail": "Reach the area and collect the explosives.",
 			"effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
 			"skillId": 1013,
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 101,
-			"orderName": "Ammo Refill II",
+			"orderName": "Ammo Refill",
 			"orderDetail": "Automatically collected when stationary, increasing damage by <color=#f0af14>30%</color> for this turn and the next.",
 			"specialOrderType": 2,
 			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
@@ -146,7 +146,7 @@
 		},
 		{
 			"id": 112,
-			"orderName": "Faction Swap Mechanism",
+			"orderName": "",
 			"orderDetail": "Interacting will change the turret's allegiance.",
 			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
 			"skillId": 1042,
@@ -186,7 +186,7 @@
 		},
 		{
 			"id": 1089,
-			"orderName": "Tactical Supply",
+			"orderName": "",
 			"orderDetail": "Automatically collected when stationary, granting 1 <color=#00a0e9>extra action</color>.",
 			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
 			"skillId": 1099,
@@ -202,7 +202,7 @@
 		},
 		{
 			"id": 90002,
-			"orderName": "Collection",
+			"orderName": "Collect",
 			"orderDetail": "Reach the area and collect the explosives.",
 			"effectPath": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
 			"skillId": 1014,

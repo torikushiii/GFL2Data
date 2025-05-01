@@ -8359,6 +8359,12 @@
 			"frames": []
 		},
 		{
+			"animctrlId": 6855301,
+			"frames": [
+				"6855301000"
+			]
+		},
+		{
 			"animctrlId": 6855312,
 			"frames": []
 		},
@@ -9553,6 +9559,12 @@
 		{
 			"animctrlId": 10080701,
 			"frames": []
+		},
+		{
+			"animctrlId": 10080711,
+			"frames": [
+				"10080711000"
+			]
 		},
 		{
 			"animctrlId": 10080801,

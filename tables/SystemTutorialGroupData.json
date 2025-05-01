@@ -644,21 +644,6 @@
 			"finishGroup": []
 		},
 		{
-			"id": 1520,
-			"condition": [
-				1014
-			],
-			"priority": 1502,
-			"timing": 3004,
-			"lastTutorialGroup": [],
-			"clientCondition": [],
-			"globalTab": 0,
-			"tabPaths": [],
-			"finishCondition": 0,
-			"finishConditionList": [],
-			"finishGroup": []
-		},
-		{
 			"id": 1601,
 			"lastTutorialGroup": [
 				1504
@@ -890,21 +875,6 @@
 			],
 			"priority": 1701,
 			"timing": 1201,
-			"lastTutorialGroup": [],
-			"clientCondition": [],
-			"globalTab": 0,
-			"tabPaths": [],
-			"finishCondition": 0,
-			"finishConditionList": [],
-			"finishGroup": []
-		},
-		{
-			"id": 1720,
-			"condition": [
-				1041
-			],
-			"priority": 1701,
-			"timing": 3004,
 			"lastTutorialGroup": [],
 			"clientCondition": [],
 			"globalTab": 0,
@@ -1162,21 +1132,6 @@
 			],
 			"priority": 1901,
 			"timing": 1201,
-			"lastTutorialGroup": [],
-			"clientCondition": [],
-			"globalTab": 0,
-			"tabPaths": [],
-			"finishCondition": 0,
-			"finishConditionList": [],
-			"finishGroup": []
-		},
-		{
-			"id": 1920,
-			"condition": [
-				1043
-			],
-			"priority": 1901,
-			"timing": 3004,
 			"lastTutorialGroup": [],
 			"clientCondition": [],
 			"globalTab": 0,
@@ -1467,25 +1422,6 @@
 			],
 			"priority": 3701,
 			"timing": 5001,
-			"globalTab": 0,
-			"tabPaths": [],
-			"finishCondition": 0,
-			"finishConditionList": [],
-			"finishGroup": []
-		},
-		{
-			"id": 3901,
-			"lastTutorialGroup": [
-				3701
-			],
-			"condition": [
-				33003
-			],
-			"clientCondition": [
-				12
-			],
-			"priority": 3901,
-			"timing": 5004,
 			"globalTab": 0,
 			"tabPaths": [],
 			"finishCondition": 0,
@@ -1875,12 +1811,10 @@
 			"condition": [
 				29301
 			],
-			"clientCondition": [
-				12
-			],
 			"priority": 7001,
 			"timing": 5001,
 			"lastTutorialGroup": [],
+			"clientCondition": [],
 			"globalTab": 0,
 			"tabPaths": [],
 			"finishCondition": 0,
@@ -1895,11 +1829,9 @@
 			"condition": [
 				29301
 			],
-			"clientCondition": [
-				12
-			],
 			"priority": 7101,
 			"timing": 5001,
+			"clientCondition": [],
 			"globalTab": 0,
 			"tabPaths": [],
 			"finishCondition": 0,
@@ -1983,6 +1915,19 @@
 			"id": 9001,
 			"priority": 9001,
 			"timing": 9001,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": []
+		},
+		{
+			"id": 9101,
+			"priority": 9101,
+			"timing": 9101,
 			"lastTutorialGroup": [],
 			"condition": [],
 			"clientCondition": [],

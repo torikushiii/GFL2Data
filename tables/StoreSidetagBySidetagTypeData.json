@@ -71,6 +71,12 @@
 			]
 		},
 		{
+			"sidetagType": 16,
+			"id": [
+				101
+			]
+		},
+		{
 			"sidetagType": 21,
 			"id": [
 				61
@@ -143,6 +149,24 @@
 			"id": [
 				86,
 				87
+			]
+		},
+		{
+			"sidetagType": 33,
+			"id": [
+				88
+			]
+		},
+		{
+			"sidetagType": 34,
+			"id": [
+				89
+			]
+		},
+		{
+			"sidetagType": 35,
+			"id": [
+				90
 			]
 		}
 	]

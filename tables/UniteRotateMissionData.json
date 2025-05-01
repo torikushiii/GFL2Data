@@ -501,16 +501,17 @@
 			"missionId": 1126,
 			"rewardProgramme": 202,
 			"stageProgramme": [
-				2141,
-				2142,
-				2143,
-				2144,
-				2145,
-				2146,
-				2147,
-				2148,
-				2149,
-				2150
+				2266,
+				2267,
+				2268,
+				2269,
+				2270,
+				2271,
+				2272,
+				2273,
+				2274,
+				2275,
+				2276
 			],
 			"missionAffix": [
 				0
@@ -522,22 +523,221 @@
 			"missionId": 1127,
 			"rewardProgramme": 202,
 			"stageProgramme": [
-				2141,
-				2142,
-				2143,
-				2144,
-				2145,
-				2146,
-				2147,
-				2148,
-				2149,
-				2150
+				2277,
+				2278,
+				2279,
+				2280,
+				2281,
+				2282,
+				2283,
+				2284,
+				2285,
+				2286,
+				2287
 			],
 			"missionAffix": [
 				0
 			],
 			"mail": 5001,
 			"programmeName": "Expansion Drills - Season 27"
+		},
+		{
+			"missionId": 1128,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2288,
+				2289,
+				2290,
+				2291,
+				2292,
+				2293,
+				2294,
+				2295,
+				2296,
+				2297,
+				2298
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 28"
+		},
+		{
+			"missionId": 1129,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2299,
+				2300,
+				2301,
+				2302,
+				2303,
+				2304,
+				2305,
+				2306,
+				2307,
+				2308,
+				2309
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 29"
+		},
+		{
+			"missionId": 1130,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 30"
+		},
+		{
+			"missionId": 1131,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2321,
+				2322,
+				2323,
+				2324,
+				2325,
+				2326,
+				2327,
+				2328,
+				2329,
+				2330,
+				2331
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 31"
+		},
+		{
+			"missionId": 1132,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 32"
+		},
+		{
+			"missionId": 1133,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 33"
+		},
+		{
+			"missionId": 1134,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 34"
+		},
+		{
+			"missionId": 1135,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 35"
+		},
+		{
+			"missionId": 1136,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				2310,
+				2311,
+				2312,
+				2313,
+				2314,
+				2315,
+				2316,
+				2317,
+				2318,
+				2319,
+				2320
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Expansion Drill - Season 36"
 		},
 		{
 			"missionId": 2001,
@@ -652,6 +852,50 @@
 				9042,
 				9043,
 				9044
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Desperate Sweep"
+		},
+		{
+			"missionId": 9121,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				9045,
+				9046,
+				9047,
+				9048,
+				9049,
+				9050,
+				9051,
+				9052,
+				9053,
+				9054,
+				9055
+			],
+			"missionAffix": [
+				0
+			],
+			"mail": 5001,
+			"programmeName": "Desperate Sweep"
+		},
+		{
+			"missionId": 9122,
+			"rewardProgramme": 202,
+			"stageProgramme": [
+				9056,
+				9057,
+				9058,
+				9059,
+				9060,
+				9061,
+				9062,
+				9063,
+				9064,
+				9065,
+				9066
 			],
 			"missionAffix": [
 				0

@@ -169,6 +169,27 @@
 			]
 		},
 		{
+			"difficultyGroup": 317,
+			"id": [
+				3017,
+				93017
+			]
+		},
+		{
+			"difficultyGroup": 318,
+			"id": [
+				3018,
+				93018
+			]
+		},
+		{
+			"difficultyGroup": 319,
+			"id": [
+				3019,
+				93019
+			]
+		},
+		{
 			"difficultyGroup": 401,
 			"id": [
 				4001,
@@ -226,13 +247,6 @@
 			]
 		},
 		{
-			"difficultyGroup": 412,
-			"id": [
-				4012,
-				94012
-			]
-		},
-		{
 			"difficultyGroup": 413,
 			"id": [
 				4013,
@@ -272,6 +286,27 @@
 			"id": [
 				4018,
 				94018
+			]
+		},
+		{
+			"difficultyGroup": 419,
+			"id": [
+				4019,
+				94019
+			]
+		},
+		{
+			"difficultyGroup": 420,
+			"id": [
+				4020,
+				94020
+			]
+		},
+		{
+			"difficultyGroup": 422,
+			"id": [
+				4022,
+				94022
 			]
 		},
 		{
@@ -317,12 +352,6 @@
 			]
 		},
 		{
-			"difficultyGroup": 99412,
-			"id": [
-				994012
-			]
-		},
-		{
 			"difficultyGroup": 99413,
 			"id": [
 				994013
@@ -356,6 +385,24 @@
 			"difficultyGroup": 99418,
 			"id": [
 				994018
+			]
+		},
+		{
+			"difficultyGroup": 99419,
+			"id": [
+				994019
+			]
+		},
+		{
+			"difficultyGroup": 99420,
+			"id": [
+				994020
+			]
+		},
+		{
+			"difficultyGroup": 99422,
+			"id": [
+				994022
 			]
 		}
 	]

@@ -30,9 +30,9 @@
 			"sidetagType": 1,
 			"includeTag": [
 				110,
-				117,
 				113,
-				111,
+				117,
+				118,
 				104
 			],
 			"npc": 101,
@@ -45,9 +45,7 @@
 			"name": "Trading Post",
 			"sidetagType": 1,
 			"includeTag": [
-				202,
-				203,
-				204
+				225
 			],
 			"npc": 101,
 			"globalTab": 104,
@@ -80,7 +78,7 @@
 		},
 		{
 			"id": 18,
-			"name": "New Arrivals",
+			"name": "Premium Selections",
 			"sidetagType": 1,
 			"includeTag": [
 				112
@@ -96,7 +94,8 @@
 			"sidetagType": 1,
 			"includeTag": [
 				114,
-				115
+				115,
+				116
 			],
 			"globalTab": 107,
 			"sort": 4,
@@ -410,7 +409,7 @@
 		},
 		{
 			"id": 82,
-			"name": "Cyborg Gift Shop",
+			"name": "Cyborg Shop",
 			"sidetagType": 28,
 			"includeTag": [
 				709
@@ -422,7 +421,7 @@
 		},
 		{
 			"id": 83,
-			"name": "Bazaar",
+			"name": "Lost and Found",
 			"sidetagType": 29,
 			"includeTag": [
 				710
@@ -481,11 +480,59 @@
 			"sort": 0
 		},
 		{
+			"id": 88,
+			"name": "Point Exchange",
+			"sidetagType": 33,
+			"includeTag": [
+				715
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 89,
+			"name": "Winter Gift Shelf",
+			"sidetagType": 34,
+			"includeTag": [
+				716
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 90,
+			"name": "Intel Exchange",
+			"sidetagType": 35,
+			"includeTag": [
+				717
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
 			"id": 99,
 			"name": "Hidden Tabs",
 			"sidetagType": 4,
 			"includeTag": [
 				999
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 101,
+			"name": "Glory Store",
+			"sidetagType": 16,
+			"includeTag": [
+				1001
 			],
 			"npc": 0,
 			"unlock": 0,

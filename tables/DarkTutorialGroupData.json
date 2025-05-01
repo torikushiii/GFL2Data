@@ -1211,19 +1211,6 @@
 			"finishGroup": []
 		},
 		{
-			"id": 9310,
-			"condition": [
-				28000
-			],
-			"priority": 10,
-			"timing": 9310,
-			"isPause": true,
-			"isWasdBanned": true,
-			"clientCondition": [],
-			"finishCondition": 0,
-			"finishGroup": []
-		},
-		{
 			"id": 9311,
 			"condition": [
 				28000

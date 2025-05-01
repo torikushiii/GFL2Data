@@ -144,6 +144,17 @@
 			"targetIgnore": 0
 		},
 		{
+			"id": 6741301,
+			"type": 1,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
 			"id": 6851901,
 			"type": 2,
 			"shapeParam": [
@@ -258,6 +269,20 @@
 			"effectBeforeTransmit": "6873503_Buff",
 			"effectAfterTransmit": "6873503_Buff",
 			"transmitFunction": 2,
+			"targetIgnore": 0
+		},
+		{
+			"id": 10550701,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 2,
+			"condition": "10550100",
+			"effectBeforeTransmit": "NikketaSSR01/10550501_Disappear",
+			"transmitFunction": 2,
+			"effectAfterTransmit": "",
 			"targetIgnore": 0
 		}
 	]

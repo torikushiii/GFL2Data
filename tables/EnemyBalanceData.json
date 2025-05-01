@@ -145,12 +145,6 @@
 			"shieldArmor": -37
 		},
 		{
-			"id": 1020,
-			"pow": -69,
-			"maxHp": -72,
-			"shieldArmor": -70
-		},
-		{
 			"id": 1021,
 			"pow": -82,
 			"maxHp": -139,

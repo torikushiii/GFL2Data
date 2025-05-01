@@ -77,12 +77,12 @@
 				"2": 200,
 				"8000": 10
 			},
-			"link": "1099",
-			"name": "Daily Target: Combat Simulation",
-			"description": "Clear 1 Combat Simulation",
-			"conditionClass": 210,
+			"link": "3014",
+			"name": "Daily Target: Combat Exercise",
+			"description": "Win once in Combat Exercise",
+			"conditionClass": 301,
 			"conditionNum": 1,
-			"unlockOn": 10999
+			"unlockOn": 14000
 		},
 		{
 			"id": 7,
@@ -120,11 +120,39 @@
 				"8000": 10
 			},
 			"link": "4015",
-			"name": "Daily Indicator: Affinity",
+			"name": "Daily Target: Affinity",
 			"description": "Gift 5 items of your choice",
 			"conditionClass": 1303,
 			"conditionNum": 5,
 			"unlockOn": 0
+		},
+		{
+			"id": 10,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "41001",
+			"name": "Daily Target: Dispatch Deployment",
+			"description": "Successfully make a dispatch from the Dispatch Room",
+			"conditionClass": 1504,
+			"conditionNum": 1,
+			"unlockOn": 38001
+		},
+		{
+			"id": 11,
+			"type": 1,
+			"rewardList": {
+				"2": 200,
+				"8000": 10
+			},
+			"link": "21001",
+			"name": "Daily Target: Daily Patrol",
+			"description": "Win 1 time in Daily Patrol",
+			"conditionClass": 201,
+			"conditionNum": 1,
+			"unlockOn": 99103
 		}
 	]
 }

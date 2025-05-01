@@ -205,7 +205,7 @@
 			"bust": "Avatar_Bust_ActivityCafe",
 			"bustFemale": "Avatar_Bust_ActivityCafe",
 			"itemId": 21029,
-			"unlockDes": "Unlocks after completing the Zucchero Cafe main storyline mode.",
+			"unlockDes": "Unlocked after completing the Zucchero Cafe Story Mode campaign",
 			"displayConfig": 1,
 			"sort": 5002
 		},
@@ -591,8 +591,8 @@
 			"bustFemale": "Avatar_Bust_VectorSSR",
 			"itemId": 21065,
 			"unlockDes": "Unlocked after obtaining Vector",
-			"sort": 1028,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1028
 		},
 		{
 			"id": 21066,
@@ -617,6 +617,17 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21069,
+			"icon": "Avatar_Head_QiuhuaSSR",
+			"iconFemale": "Avatar_Head_QiuhuaSSR",
+			"bust": "Avatar_Head_QiuhuaSSR",
+			"bustFemale": "Avatar_Head_QiuhuaSSR",
+			"itemId": 21069,
+			"unlockDes": "Unlocked after obtaining Qiuhua",
+			"sort": 1032,
+			"displayConfig": 0
+		},
+		{
 			"id": 21071,
 			"icon": "Avatar_Head_ZhaohuiSSR",
 			"iconFemale": "Avatar_Head_ZhaohuiSSR",
@@ -624,8 +635,8 @@
 			"bustFemale": "Avatar_Bust_ZhaohuiSSR",
 			"itemId": 21071,
 			"unlockDes": "Unlocked after obtaining Zhaohui",
-			"sort": 1034,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1034
 		},
 		{
 			"id": 21072,
@@ -667,7 +678,7 @@
 			"bust": "Avatar_Bust_ActivityDusevnyj2",
 			"bustFemale": "Avatar_Bust_ActivityDusevnyj2",
 			"itemId": 21077,
-			"unlockDes": "Unlock by completing all Halting Encampment story stages.",
+			"unlockDes": "Unlocked by completing Halting Station story stages",
 			"displayConfig": 1,
 			"sort": 5011
 		},
@@ -690,8 +701,8 @@
 			"bustFemale": "Avatar_Head_ZhaohuiSSR01",
 			"itemId": 21079,
 			"unlockDes": "Unlocked after obtaining Zhaohui's Outfit - Superspeed Chequer",
-			"sort": 4019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4019
 		},
 		{
 			"id": 21080,
@@ -734,8 +745,8 @@
 			"bustFemale": "Avatar_Head_ZhaohuiLove",
 			"itemId": 21083,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2003,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2003
 		},
 		{
 			"id": 21084,
@@ -756,8 +767,8 @@
 			"bustFemale": "Avatar_Bust_ActivityZhaohui1",
 			"itemId": 21085,
 			"unlockDes": "Unlocked by claiming the final reward from Echo of Dawn's Troupe Commissions",
-			"sort": 5012,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5012
 		},
 		{
 			"id": 21086,
@@ -766,8 +777,41 @@
 			"bust": "Avatar_Bust_ActivityZhaohui2",
 			"bustFemale": "Avatar_Bust_ActivityZhaohui2",
 			"itemId": 21086,
-			"unlockDes": "Unlocked by clearing all Normal Mode stages in Echo of Dawn",
-			"sort": 5013,
+			"unlockDes": "Unlocked by completing all Story Mode stages for Echo of Dawn.",
+			"displayConfig": 1,
+			"sort": 5013
+		},
+		{
+			"id": 21087,
+			"icon": "Avatar_Head_PeriSSR",
+			"iconFemale": "Avatar_Head_PeriSSR",
+			"bust": "Avatar_Bust_PeriSSR",
+			"bustFemale": "Avatar_Bust_PeriSSR",
+			"itemId": 21087,
+			"unlockDes": "Unlocked after obtaining Peri",
+			"sort": 1037,
+			"displayConfig": 0
+		},
+		{
+			"id": 21088,
+			"icon": "Avatar_Head_YooHeeSSR",
+			"iconFemale": "Avatar_Head_YooHeeSSR",
+			"bust": "Avatar_Bust_YooHeeSSR",
+			"bustFemale": "Avatar_Bust_YooHeeSSR",
+			"itemId": 21088,
+			"unlockDes": "Unlocked by acquiring Yoohee",
+			"displayConfig": 1,
+			"sort": 1039
+		},
+		{
+			"id": 21089,
+			"icon": "Avatar_Head_NikketaSSR",
+			"iconFemale": "Avatar_Head_NikketaSSR",
+			"bust": "Avatar_Bust_NikketaSSR",
+			"bustFemale": "Avatar_Bust_NikketaSSR",
+			"itemId": 21089,
+			"unlockDes": "Unlocked after obtaining Nikketa",
+			"sort": 1040,
 			"displayConfig": 0
 		},
 		{
@@ -855,8 +899,8 @@
 			"bustFemale": "Avatar_Head_VectorLove",
 			"itemId": 21112,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2009,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2009
 		},
 		{
 			"id": 21113,
@@ -903,6 +947,17 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21117,
+			"icon": "Avatar_Head_DusevnyjLove",
+			"iconFemale": "Avatar_Head_DusevnyjLove",
+			"bust": "Avatar_Head_DusevnyjLove",
+			"bustFemale": "Avatar_Head_DusevnyjLove",
+			"itemId": 21117,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2014
+		},
+		{
 			"id": 21118,
 			"icon": "Avatar_Head_SpringfieldLove",
 			"iconFemale": "Avatar_Head_SpringfieldLove",
@@ -925,6 +980,72 @@
 			"sort": 2016
 		},
 		{
+			"id": 21120,
+			"icon": "Avatar_Head_PeriLove",
+			"iconFemale": "Avatar_Head_PeriLove",
+			"bust": "Avatar_Head_PeriLove",
+			"bustFemale": "Avatar_Head_PeriLove",
+			"itemId": 21120,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2017,
+			"displayConfig": 0
+		},
+		{
+			"id": 21121,
+			"icon": "Avatar_Head_UllridLove",
+			"iconFemale": "Avatar_Head_UllridLove",
+			"bust": "Avatar_Head_UllridLove",
+			"bustFemale": "Avatar_Head_UllridLove",
+			"itemId": 21121,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2020
+		},
+		{
+			"id": 21122,
+			"icon": "Avatar_Head_QiuhuaLove",
+			"iconFemale": "Avatar_Head_QiuhuaLove",
+			"bust": "Avatar_Head_QiuhuaLove",
+			"bustFemale": "Avatar_Head_QiuhuaLove",
+			"itemId": 21122,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2019,
+			"displayConfig": 0
+		},
+		{
+			"id": 21123,
+			"icon": "Avatar_Head_CentaureissiLove",
+			"iconFemale": "Avatar_Head_CentaureissiLove",
+			"bust": "Avatar_Head_CentaureissiLove",
+			"bustFemale": "Avatar_Head_CentaureissiLove",
+			"itemId": 21123,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2023
+		},
+		{
+			"id": 21124,
+			"icon": "Avatar_Head_YooHeeLove",
+			"iconFemale": "Avatar_Head_YooHeeLove",
+			"bust": "Avatar_Head_YooHeeLove",
+			"bustFemale": "Avatar_Head_YooHeeLove",
+			"itemId": 21124,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2021
+		},
+		{
+			"id": 21126,
+			"icon": "Avatar_Head_NikketaLove",
+			"iconFemale": "Avatar_Head_NikketaLove",
+			"bust": "Avatar_Head_NikketaLove",
+			"bustFemale": "Avatar_Head_NikketaLove",
+			"itemId": 21126,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"sort": 2022,
+			"displayConfig": 0
+		},
+		{
 			"id": 21156,
 			"icon": "Avatar_Head_ActivityVector1",
 			"iconFemale": "Avatar_Head_ActivityVector1",
@@ -932,8 +1053,8 @@
 			"bustFemale": "Avatar_Bust_ActivityVector1",
 			"itemId": 21156,
 			"unlockDes": "Unlocked by claiming the final reward from Escape from Cyborg - Ops Target",
-			"sort": 5014,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5014
 		},
 		{
 			"id": 21157,
@@ -943,8 +1064,8 @@
 			"bustFemale": "Avatar_Bust_ActivityVector2",
 			"itemId": 21157,
 			"unlockDes": "Unlocked by completing all story stages for Escape from Cyborg",
-			"sort": 5015,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5015
 		},
 		{
 			"id": 21158,
@@ -1068,6 +1189,17 @@
 			"displayConfig": 0
 		},
 		{
+			"id": 21169,
+			"icon": "Avatar_Head_ActivityPeri",
+			"iconFemale": "Avatar_Head_ActivityPeri",
+			"bust": "Avatar_Head_ActivityPeri",
+			"bustFemale": "Avatar_Head_ActivityPeri",
+			"itemId": 21169,
+			"unlockDes": "Unlocks after completing Mimisbrunnr's Loop Part 2.",
+			"sort": 5022,
+			"displayConfig": 0
+		},
+		{
 			"id": 21170,
 			"icon": "Avatar_Head_LottaSR01",
 			"iconFemale": "Avatar_Head_LottaSR01",
@@ -1096,9 +1228,141 @@
 			"bust": "Avatar_Head_SharkrySR01",
 			"bustFemale": "Avatar_Head_SharkrySR01",
 			"itemId": 21172,
-			"unlockDes": "Unlocked after obtaining Sharkry's outfit - Swimsuit Idol",
+			"unlockDes": "Unlocked after obtaining Sharkry's outfit - Swimsuit Idol.",
 			"displayConfig": 1,
 			"sort": 4029
+		},
+		{
+			"id": 21173,
+			"icon": "Avatar_Head_ColphneSR01",
+			"iconFemale": "Avatar_Head_ColphneSR01",
+			"bust": "Avatar_Head_ColphneSR01",
+			"bustFemale": "Avatar_Head_ColphneSR01",
+			"itemId": 21173,
+			"unlockDes": "Unlocked after obtaining Colphne's Outfit - Silent Heart.",
+			"displayConfig": 1,
+			"sort": 4030
+		},
+		{
+			"id": 21174,
+			"icon": "Avatar_Head_ActivityQiuhua1",
+			"iconFemale": "Avatar_Head_ActivityQiuhua1",
+			"bust": "Avatar_Head_ActivityQiuhua1",
+			"bustFemale": "Avatar_Head_ActivityQiuhua1",
+			"itemId": 21174,
+			"unlockDes": "Unlocked by obtaining the final Windfall Gift reward in Springtime Bustle.",
+			"sort": 5023,
+			"displayConfig": 0
+		},
+		{
+			"id": 21175,
+			"icon": "Avatar_Head_ActivityQiuhua2",
+			"iconFemale": "Avatar_Head_ActivityQiuhua2",
+			"bust": "Avatar_Head_ActivityQiuhua2",
+			"bustFemale": "Avatar_Head_ActivityQiuhua2",
+			"itemId": 21175,
+			"unlockDes": "Unlocks after completing Springtime Bustle.",
+			"sort": 5024,
+			"displayConfig": 0
+		},
+		{
+			"id": 21177,
+			"icon": "Avatar_Head_ActivityYooHee1",
+			"iconFemale": "Avatar_Head_ActivityYooHee1",
+			"bust": "Avatar_Head_ActivityYooHee1",
+			"bustFemale": "Avatar_Head_ActivityYooHee1",
+			"itemId": 21177,
+			"unlockDes": "Unlocked by acquiring the last tier of rewards in Dance Practice",
+			"displayConfig": 1,
+			"sort": 5025
+		},
+		{
+			"id": 21178,
+			"icon": "Avatar_Head_ActivityYooHee2",
+			"iconFemale": "Avatar_Head_ActivityYooHee2",
+			"bust": "Avatar_Head_ActivityYooHee2",
+			"bustFemale": "Avatar_Head_ActivityYooHee2",
+			"itemId": 21178,
+			"unlockDes": "Unlocked by completing Silvered Whispers story stages",
+			"displayConfig": 1,
+			"sort": 5026
+		},
+		{
+			"id": 21179,
+			"icon": "Avatar_Head_YooHeeSSR01",
+			"iconFemale": "Avatar_Head_YooHeeSSR01",
+			"bust": "Avatar_Head_YooHeeSSR01",
+			"bustFemale": "Avatar_Head_YooHeeSSR01",
+			"itemId": 21179,
+			"unlockDes": "Unlocked after obtaining Yoohee's Outfit - Miracle Sweetheart",
+			"displayConfig": 1,
+			"sort": 4031
+		},
+		{
+			"id": 21180,
+			"icon": "Avatar_Head_FayeSSR01",
+			"iconFemale": "Avatar_Head_FayeSSR01",
+			"bust": "Avatar_Head_FayeSSR01",
+			"bustFemale": "Avatar_Head_FayeSSR01",
+			"itemId": 21180,
+			"unlockDes": "Unlocked after obtaining Faye's Outfit - Crimson Gale",
+			"sort": 4032,
+			"displayConfig": 0
+		},
+		{
+			"id": 21181,
+			"icon": "Avatar_Head_ActivityNikketa1",
+			"iconFemale": "Avatar_Head_ActivityNikketa1",
+			"bust": "Avatar_Head_ActivityNikketa1",
+			"bustFemale": "Avatar_Head_ActivityNikketa1",
+			"itemId": 21181,
+			"unlockDes": "Unlocked by claiming the final reward from Ex Umbra's Shadow Exercise.",
+			"sort": 5025,
+			"displayConfig": 0
+		},
+		{
+			"id": 21182,
+			"icon": "Avatar_Head_ActivityNikketa2",
+			"iconFemale": "Avatar_Head_ActivityNikketa2",
+			"bust": "Avatar_Head_ActivityNikketa2",
+			"bustFemale": "Avatar_Head_ActivityNikketa2",
+			"itemId": 21182,
+			"unlockDes": "Unlocked after completing the Ex Umbra Story Mode stages.",
+			"sort": 5026,
+			"displayConfig": 0
+		},
+		{
+			"id": 21183,
+			"icon": "Avatar_Head_NikketaSSR01",
+			"iconFemale": "Avatar_Head_NikketaSSR01",
+			"bust": "Avatar_Head_NikketaSSR01",
+			"bustFemale": "Avatar_Head_NikketaSSR01",
+			"itemId": 21183,
+			"unlockDes": "Unlocked after obtaining Nikketa's Outfit - Dance Like The Blazing Sun",
+			"sort": 4033,
+			"displayConfig": 0
+		},
+		{
+			"id": 21184,
+			"icon": "Avatar_Head_VectorSSR01",
+			"iconFemale": "Avatar_Head_VectorSSR01",
+			"bust": "Avatar_Head_VectorSSR01",
+			"bustFemale": "Avatar_Head_VectorSSR01",
+			"itemId": 21184,
+			"unlockDes": "Unlocked after obtaining Vector's Outfit - Molotov Bunny",
+			"displayConfig": 1,
+			"sort": 4034
+		},
+		{
+			"id": 21190,
+			"icon": "Avatar_Head_VectorSSR02",
+			"iconFemale": "Avatar_Head_VectorSSR02",
+			"bust": "Avatar_Head_VectorSSR02",
+			"bustFemale": "Avatar_Head_VectorSSR02",
+			"itemId": 21190,
+			"unlockDes": "Unlock by obtaining Vector's Outfit - Vivi Sometimes Hides Her Molotovs.",
+			"displayConfig": 1,
+			"sort": 4039
 		},
 		{
 			"id": 21999,

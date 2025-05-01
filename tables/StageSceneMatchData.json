@@ -4303,6 +4303,24 @@
 			"isDarkzone": false
 		},
 		{
+			"sceneId": 1173,
+			"scene": "Main/Event/Peri/l_event_sim_Peri_01/l_event_sim_Peri_01",
+			"levelNode": "Main/Event/Peri/l_event_sim_Peri_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1174,
+			"scene": "Main/Event/Peri/l_event_sim_Peri_02/l_event_sim_Peri_02",
+			"levelNode": "Main/Event/Peri/l_event_sim_Peri_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1175,
+			"scene": "Main/Event/Peri/l_event_sim_Peri_03/l_event_sim_Peri_03",
+			"levelNode": "Main/Event/Peri/l_event_sim_Peri_03",
+			"isDarkzone": false
+		},
+		{
 			"sceneId": 1200,
 			"scene": "SIM/l_sim_challenge/l_sim_challenge_44/l_sim_challenge_44",
 			"levelNode": "Sim/l_sim_challenge/l_sim_challenge_44",
@@ -6532,6 +6550,474 @@
 			"sceneId": 1590,
 			"scene": "Main/Event/Qiuhua/l_event_generate_Qiuhua_challenge_03/l_event_generate_Qiuhua_challenge_03",
 			"levelNode": "Main/Event/Qiuhua/l_event_generate_Qiuhua_challenge_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1591,
+			"scene": "SIM/l_sim_expand/l_sim_expand_27_10/l_sim_expand_27_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_27_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1592,
+			"scene": "Main/Yellow/l_main_yellow_fortressPark_03/l_main_yellow_fortressPark_03",
+			"levelNode": "Main/Yellow/l_main_yellow_fortressPark_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1593,
+			"scene": "Main/Green/l_main_green_Stown_street_01/l_main_green_Stown_street_01",
+			"levelNode": "Main/Green/l_main_green_Stown_street_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1594,
+			"scene": "Main/Green/l_main_green_Stown_street_02/l_main_green_Stown_street_02",
+			"levelNode": "Main/Green/l_main_green_Stown_street_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1595,
+			"scene": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_04/l_event_sim_Qiuhua_main_04",
+			"levelNode": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1596,
+			"scene": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_07/l_event_sim_Qiuhua_main_07",
+			"levelNode": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_07",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1597,
+			"scene": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_09/l_event_sim_Qiuhua_main_09",
+			"levelNode": "Main/Event/Qiuhua/l_event_sim_Qiuhua_main_09",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1598,
+			"scene": "SIM/l_sim_expand/l_sim_expand_30_07/l_sim_expand_30_07",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_30_07",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1599,
+			"scene": "SIM/l_sim_expand/l_sim_expand_30_08/l_sim_expand_30_08",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_30_08",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1600,
+			"scene": "SIM/l_sim_expand/l_sim_expand_30_09/l_sim_expand_30_09",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_30_09",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1601,
+			"scene": "SIM/l_sim_expand/l_sim_expand_30_10/l_sim_expand_30_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_30_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1602,
+			"scene": "Main/Event/Ex/football/l_Ex_football_1/l_Ex_football",
+			"levelNode": "Test/l_spgameplay_test/l_spgameplay_football_test",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1603,
+			"scene": "Main/Event/YooHee/l_event_generate_YooHee_challenge_01/l_event_generate_YooHee_challenge_01",
+			"levelNode": "Main/Event/YooHee/l_event_generate_YooHee_challenge_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1604,
+			"scene": "Main/Event/YooHee/l_event_generate_YooHee_challenge_02/l_event_generate_YooHee_challenge_02",
+			"levelNode": "Main/Event/YooHee/l_event_generate_YooHee_challenge_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1605,
+			"scene": "Main/Event/YooHee/l_event_generate_YooHee_challenge_03/l_event_generate_YooHee_challenge_03",
+			"levelNode": "Main/Event/YooHee/l_event_generate_YooHee_challenge_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1606,
+			"scene": "Main/Event/YooHee/l_event_generate_YooHee_challenge_04/l_event_generate_YooHee_challenge_04",
+			"levelNode": "Main/Event/YooHee/l_event_generate_YooHee_challenge_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1607,
+			"scene": "Main/Event/YooHee/l_event_generate_YooHee_challenge_05/l_event_generate_YooHee_challenge_05",
+			"levelNode": "Main/Event/YooHee/l_event_generate_YooHee_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1608,
+			"scene": "Main/Green/l_main_green_seacrossingBridge_01/l_main_green_seacrossingBridge_01",
+			"levelNode": "Main/Green/l_main_green_seacrossingBridge_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1609,
+			"scene": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_01/l_event_sim_YooHee_puzzle_01",
+			"levelNode": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1610,
+			"scene": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_02/l_event_sim_YooHee_puzzle_02",
+			"levelNode": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1611,
+			"scene": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_03/l_event_sim_YooHee_puzzle_03",
+			"levelNode": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1612,
+			"scene": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_04/l_event_sim_YooHee_puzzle_04",
+			"levelNode": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1613,
+			"scene": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_05/l_event_sim_YooHee_puzzle_05",
+			"levelNode": "Main/Event/YooHee/l_event_sim_YooHee_puzzle_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1614,
+			"scene": "SIM/l_sim_expand/l_sim_expand_28_10/l_sim_expand_28_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_28_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1615,
+			"scene": "Aimo/01Aimo/01Aimo_Lobby/01Aimo_Lobby",
+			"levelNode": "Aimo/Aimo01",
+			"isDarkzone": true
+		},
+		{
+			"sceneId": 1616,
+			"scene": "SIM/damage_test/damage_test_01/damage_test_01",
+			"levelNode": "Sim/damage_test/damage_test_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1617,
+			"scene": "Main/Green/l_main_green_UndergrdLabTunnel_01/l_main_green_UndergrdLabTunnel_01",
+			"levelNode": "Main/Green/l_main_green_UndergrdLabTunnel_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1618,
+			"scene": "SIM/l_sim_expand/l_sim_expand_29_10/l_sim_expand_29_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_29_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1619,
+			"scene": "SIM/l_sim_guild/l_sim_guild_boss_04/l_sim_guild_boss_04",
+			"levelNode": "Sim/l_sim_guild/l_sim_guild_boss_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1620,
+			"scene": "Main/Green/l_main_green_lab_02/l_main_green_lab_02",
+			"levelNode": "Main/Green/l_main_green_lab_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1621,
+			"scene": "Weekly/l_weekly_Oljefat/l_weekly_Oljefat_01/l_weekly_Oljefat_01",
+			"levelNode": "Weekly/l_weekly_Oljefat/l_weekly_Oljefat_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1622,
+			"scene": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_01/l_event_sim_Nikketa_operation_01",
+			"levelNode": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1623,
+			"scene": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_02/l_event_sim_Nikketa_operation_02",
+			"levelNode": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1624,
+			"scene": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_03/l_event_sim_Nikketa_operation_03",
+			"levelNode": "Main/Event/Nikketa/l_event_sim_Nikketa_operation_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1625,
+			"scene": "SIM/test_chaersi_01/test_chaersi_01",
+			"levelNode": "Sim/test_chaersi_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1626,
+			"scene": "SIM/l_sim_expand/l_sim_expand_31_10/l_sim_expand_31_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_31_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1627,
+			"scene": "SIM/l_sim_together/l_sim_together_1_43/l_sim_together_1_43",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_43",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1628,
+			"scene": "SIM/l_sim_together/l_sim_together_1_44/l_sim_together_1_44",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_44",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1629,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_puzzle_01/l_event_sim_Leva_puzzle_01",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_puzzle_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1630,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_puzzle_02/l_event_sim_Leva_puzzle_02",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_puzzle_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1631,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_puzzle_03/l_event_sim_Leva_puzzle_03",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_puzzle_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1632,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_puzzle_04/l_event_sim_Leva_puzzle_04",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_puzzle_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1633,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_puzzle_05/l_event_sim_Leva_puzzle_05",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_puzzle_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1634,
+			"scene": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_03/l_event_generate_Nikketa_challenge_03",
+			"levelNode": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1635,
+			"scene": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_04/l_event_generate_Nikketa_challenge_04",
+			"levelNode": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1636,
+			"scene": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_05/l_event_generate_Nikketa_challenge_05",
+			"levelNode": "Main/Event/Nikketa/l_event_generate_Nikketa_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1637,
+			"scene": "SIM/l_sim_together/l_sim_together_1_45/l_sim_together_1_45",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_45",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1638,
+			"scene": "Main/Event/Ex/football/l_Ex_football_1/l_Ex_football_1_1",
+			"levelNode": "Main/Event/Ex/football/l_Ex_football_1_1",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1639,
+			"scene": "Main/Event/Ex/football/l_Ex_football_1/l_Ex_football_1_2",
+			"levelNode": "Main/Event/Ex/football/l_Ex_football_1_2",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1640,
+			"scene": "Main/Event/Ex/football/l_Ex_football_1/l_Ex_football_1_3",
+			"levelNode": "Main/Event/Ex/football/l_Ex_football_1_3",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1641,
+			"scene": "Main/Event/Leva/l_event_generate_Leva_challenge_04/l_event_generate_Leva_challenge_04",
+			"levelNode": "Main/Event/Leva/l_event_generate_Leva_challenge_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1642,
+			"scene": "Main/Event/Leva/l_event_generate_Leva_challenge_05/l_event_generate_Leva_challenge_05",
+			"levelNode": "Main/Event/Leva/l_event_generate_Leva_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1643,
+			"scene": "Main/Event/Leva/l_event_sim_Leva_16/l_event_sim_Leva_16",
+			"levelNode": "Main/Event/Leva/l_event_sim_Leva_16",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1644,
+			"scene": "SIM/l_sim_expand/l_sim_expand_33_10/l_sim_expand_33_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_33_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1645,
+			"scene": "SIM/l_sim_expand/l_sim_expand_32_07/l_sim_expand_32_07",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_32_07",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1646,
+			"scene": "SIM/l_sim_expand/l_sim_expand_32_08/l_sim_expand_32_08",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_32_08",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1647,
+			"scene": "SIM/l_sim_expand/l_sim_expand_32_09/l_sim_expand_32_09",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_32_09",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1648,
+			"scene": "SIM/l_sim_expand/l_sim_expand_32_10/l_sim_expand_32_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_32_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1649,
+			"scene": "SIM/l_sim_together/l_sim_together_1_46/l_sim_together_1_46",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_46",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1650,
+			"scene": "Test/l_sim_simCombatBsaeScene_06/l_sim_simCombatBsaeScene_06",
+			"levelNode": "Test/l_sim_simCombatBsaeScene_06",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1651,
+			"scene": "SIM/l_sim_show/l_sim_show_LevaSSR_01",
+			"levelNode": "Sim/l_sim_show_LevaSSR_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1652,
+			"scene": "Main/Event/Robella/l_event_generate_Robella_challenge_03/l_event_generate_Robella_challenge_03",
+			"levelNode": "Main/Event/Robella/l_event_generate_Robella_challenge_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1653,
+			"scene": "Main/Event/Robella/l_event_generate_Robella_challenge_05/l_event_generate_Robella_challenge_05",
+			"levelNode": "Main/Event/Robella/l_event_generate_Robella_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1654,
+			"scene": "Main/Yellow/l_main_yellow_park_01/l_main_yellow_park_01",
+			"levelNode": "Main/Yellow/l_main_yellow_park_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1655,
+			"scene": "Main/Yellow/l_main_yellow_park_02/l_main_yellow_park_02",
+			"levelNode": "Main/Yellow/l_main_yellow_park_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1656,
+			"scene": "Weekly/l_weekly_BeakBeasteel/l_weekly_BeakBeasteel_01/l_weekly_BeakBeasteel_01",
+			"levelNode": "Weekly/l_weekly_BeakBeasteel/l_weekly_BeakBeasteel_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1657,
+			"scene": "Weekly/l_weekly_BeakBeasteel/l_weekly_BeakBeasteel_02/l_weekly_BeakBeasteel_02",
+			"levelNode": "Weekly/l_weekly_BeakBeasteel/l_weekly_BeakBeasteel_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1658,
+			"scene": "Main/Green/l_main_green_Stown_street_03/l_main_green_Stown_street_03",
+			"levelNode": "Main/Green/l_main_green_Stown_street_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1659,
+			"scene": "Main/Event/Robella/l_event_sim_Robella_operation_01/l_event_sim_Robella_operation_01",
+			"levelNode": "Main/Event/Robella/l_event_sim_Robella_operation_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1660,
+			"scene": "Main/Event/Robella/l_event_sim_Robella_operation_02/l_event_sim_Robella_operation_02",
+			"levelNode": "Main/Event/Robella/l_event_sim_Robella_operation_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1661,
+			"scene": "Main/Event/Robella/l_event_sim_Robella_operation_03/l_event_sim_Robella_operation_03",
+			"levelNode": "Main/Event/Robella/l_event_sim_Robella_operation_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1662,
+			"scene": "Main/Event/Robella/l_event_sim_Robella_operation_04/l_event_sim_Robella_operation_04",
+			"levelNode": "Main/Event/Robella/l_event_sim_Robella_operation_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1663,
+			"scene": "Main/Event/Robella/l_event_sim_Robella_operation_05/l_event_sim_Robella_operation_05",
+			"levelNode": "Main/Event/Robella/l_event_sim_Robella_operation_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1664,
+			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_01/l_event_sim_Lene_puzzle_01",
+			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1665,
+			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_02/l_event_sim_Lene_puzzle_02",
+			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1666,
+			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_03/l_event_sim_Lene_puzzle_03",
+			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1667,
+			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_04/l_event_sim_Lene_puzzle_04",
+			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1668,
+			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_05/l_event_sim_Lene_puzzle_05",
+			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_05",
 			"isDarkzone": false
 		}
 	]

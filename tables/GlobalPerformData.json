@@ -55,9 +55,9 @@
 			"slgPreparationTurnLerpTime": 0.3,
 			"slgPreparationSelectLerpTime": 0.4,
 			"slgPreparationTransTime": 0.3,
-			"transparentFadeValue": 0.7,
+			"transparentFadeValue": 0.5,
 			"transparentFadeTime": 0.2,
-			"sphereFadeRadius": 0.3,
+			"sphereFadeRadius": 0.6,
 			"transitionTolerance": 3000,
 			"xOffsetRange": [
 				0.65,

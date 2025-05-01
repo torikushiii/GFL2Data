@@ -101,6 +101,20 @@
 			"soldCheckbox": {},
 			"soldHint": [],
 			"toptag": []
+		},
+		{
+			"id": 11,
+			"sequence": 8,
+			"title": "Curio Storage Box",
+			"unlock": 38005,
+			"canSold": [
+				0
+			],
+			"toptag": [
+				1321
+			],
+			"soldCheckbox": {},
+			"soldHint": []
 		}
 	]
 }

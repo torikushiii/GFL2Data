@@ -1083,10 +1083,10 @@
 		},
 		{
 			"id": 113,
-			"interfaceName": "UIAnniversaryMainPanel",
 			"audioName": [
 				30097
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1343,10 +1343,10 @@
 		},
 		{
 			"id": 140,
+			"interfaceName": "UIQiuhuaMainPanel",
 			"audioName": [
 				30117
 			],
-			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1424,12 +1424,12 @@
 		{
 			"id": 148,
 			"audioName": [
-				40033
+				30107
 			],
-			"priority": 1,
-			"selector": "Battle",
-			"track": "Inbattle",
-			"interfaceName": ""
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
 		},
 		{
 			"id": 149,
@@ -1505,6 +1505,16 @@
 			"id": 1006,
 			"audioName": [
 				30114
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 1007,
+			"audioName": [
+				30107
 			],
 			"interfaceName": "",
 			"priority": 0,

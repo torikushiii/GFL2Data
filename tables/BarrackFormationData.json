@@ -391,6 +391,19 @@
 			"changeclothes": "c_SpringfieldSSR01_BarrackEntrance_Normal"
 		},
 		{
+			"id": 104801,
+			"gunId": 1048,
+			"type": 1,
+			"barrackIdleNormal": "c_QiuhuaSSR01_BarrackIdle",
+			"barrackEntrance": "c_QiuhuaSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "QiuhuaSSR01/c_QiuhuaSSR01_Upgrade",
+			"classTrainingShootResource": "QiuhuaSSR01/c_QiuhuaSSR01_Class",
+			"ending": "QiuhuaSSR01/c_QiuhuaSSR01_Ending",
+			"endingidle": "QiuhuaSSR01/c_QiuhuaSSR01_EndingIdle",
+			"toidle": "c_QiuhuaSSR01_ToIdle",
+			"changeclothes": "c_QiuhuaSSR01_BarrackEntrance_Normal"
+		},
+		{
 			"id": 105001,
 			"gunId": 1050,
 			"type": 1,
@@ -428,6 +441,45 @@
 			"endingidle": "ClukaySSR01/c_ClukaySSR01_EndingIdle",
 			"toidle": "c_ClukaySSR01_ToIdle",
 			"changeclothes": "c_ClukaySSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105301,
+			"gunId": 1053,
+			"type": 1,
+			"barrackIdleNormal": "c_PeriSSR01_BarrackIdle",
+			"barrackEntrance": "c_PeriSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "PeriSSR01/c_PeriSSR01_Upgrade",
+			"classTrainingShootResource": "PeriSSR01/c_PeriSSR01_Class",
+			"ending": "PeriSSR01/c_PeriSSR01_Ending",
+			"endingidle": "PeriSSR01/c_PeriSSR01_EndingIdle",
+			"toidle": "c_PeriSSR01_ToIdle",
+			"changeclothes": "c_PeriSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105401,
+			"gunId": 1054,
+			"type": 1,
+			"barrackIdleNormal": "c_YooHeeSSR01_BarrackIdle",
+			"barrackEntrance": "c_YooHeeSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "YooHeeSSR01/c_YooHeeSSR01_Upgrade",
+			"classTrainingShootResource": "YooHeeSSR01/c_YooHeeSSR01_Class",
+			"ending": "YooHeeSSR01/c_YooHeeSSR01_Ending",
+			"endingidle": "YooHeeSSR01/c_YooHeeSSR01_EndingIdle",
+			"toidle": "c_YooHeeSSR01_ToIdle",
+			"changeclothes": "c_YooHeeSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105501,
+			"gunId": 1055,
+			"type": 1,
+			"barrackIdleNormal": "c_NikketaSSR01_BarrackIdle",
+			"barrackEntrance": "c_NikketaSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "NikketaSSR01/c_NikketaSSR01_Upgrade",
+			"classTrainingShootResource": "NikketaSSR01/c_NikketaSSR01_Class",
+			"ending": "NikketaSSR01/c_NikketaSSR01_Ending",
+			"endingidle": "NikketaSSR01/c_NikketaSSR01_EndingIdle",
+			"toidle": "c_NikketaSSR01_ToIdle",
+			"changeclothes": "c_NikketaSSR01_BarrackEntrance_Normal"
 		}
 	]
 }

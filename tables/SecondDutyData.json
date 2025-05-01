@@ -204,6 +204,21 @@
 			"id": 41,
 			"name": "Ignores obstructions",
 			"description": "Can move past enemy units"
+		},
+		{
+			"id": 42,
+			"name": "Major Damage Reduction",
+			"description": "Greatly reduces the amount of damage taken"
+		},
+		{
+			"id": 43,
+			"name": "Negative Defense",
+			"description": "Increase damage in accordance with defense reduction"
+		},
+		{
+			"id": 44,
+			"name": "Multi-Buff",
+			"description": "Can apply a variety of buff effects"
 		}
 	]
 }

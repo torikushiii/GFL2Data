@@ -23,6 +23,14 @@
 			"des": "Contains data on all obtained weapons",
 			"icon": "Img_ArchivesCenter_EnterBg3",
 			"unlock": 20006
+		},
+		{
+			"id": 5,
+			"sort": 4,
+			"name": "Curio Gallery",
+			"des": "Contains information on all obtained Curios",
+			"icon": "Img_ArchivesCenter_EnterBg4",
+			"unlock": 20007
 		}
 	]
 }

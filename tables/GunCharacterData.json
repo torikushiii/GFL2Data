@@ -19,7 +19,7 @@
 			"cvEn": "SONG HARIM",
 			"brand": "SSD-62D",
 			"belong": "Hare",
-			"petPhrase": "Elmo",
+			"petPhrase": "Groza Squad",
 			"audioList": [
 				55,
 				49,
@@ -58,14 +58,12 @@
 				7100210
 			],
 			"unlockDorm": [
-				67,
-				104,
-				97,
+				75,
 				114,
 				111,
 				108,
 				105,
-				99
+				107
 			],
 			"gunHigh": 100199,
 			"skinOpen": false
@@ -89,7 +87,7 @@
 			"cvEn": "SUNG YEWON",
 			"brand": "SSD-62D",
 			"belong": ".380 Curva",
-			"petPhrase": "Elmo",
+			"petPhrase": "Groza Squad",
 			"audioList": [
 				55,
 				49,
@@ -158,7 +156,7 @@
 			"cvEn": "LEE DAEUN",
 			"brand": "SST-05A2",
 			"belong": "OTs-14",
-			"petPhrase": "Elmo",
+			"petPhrase": "Groza Squad",
 			"audioList": [
 				55,
 				49,
@@ -225,7 +223,7 @@
 			"cvEn": "SHIN NARI",
 			"brand": "SST-05A2",
 			"belong": ".50 Nemesis",
-			"petPhrase": "Elmo",
+			"petPhrase": "Groza Squad",
 			"audioList": [
 				55,
 				49,
@@ -294,7 +292,7 @@
 			"cvEn": "JUNG HYEWON",
 			"brand": "SSD-62D",
 			"belong": "Vepr-12",
-			"petPhrase": "Elmo",
+			"petPhrase": "Groza Squad",
 			"audioList": [
 				55,
 				49,
@@ -429,7 +427,7 @@
 			"cvEn": "KANG SAEBOM",
 			"brand": "SSD-62D",
 			"belong": "Pecheneg-SP",
-			"petPhrase": "Unaffiliated",
+			"petPhrase": "Elmo - General Echelon",
 			"audioList": [
 				55,
 				49,
@@ -579,7 +577,7 @@
 			"cvEn": "OH ROAH",
 			"brand": "SSD-62D",
 			"belong": "KSVK",
-			"petPhrase": "███",
+			"petPhrase": "Doll Community",
 			"audioList": [
 				55,
 				49,
@@ -633,11 +631,13 @@
 				68,
 				117,
 				115,
+				104,
 				101,
 				118,
 				110,
+				97,
 				121,
-				106
+				97
 			],
 			"gunHigh": 102399,
 			"skinOpen": false
@@ -661,7 +661,7 @@
 			"cvEn": "YOON AYONG",
 			"brand": "SSD-62D",
 			"belong": "MP7H1",
-			"petPhrase": "G&K Frostfall Squad",
+			"petPhrase": "Frostfall Squad",
 			"audioList": [
 				55,
 				49,
@@ -741,7 +741,7 @@
 			"cvEn": "LEE SERENA",
 			"brand": "SST-05",
 			"belong": "Model Alpha",
-			"petPhrase": "G&K Frostfall Squad",
+			"petPhrase": "Frostfall Squad",
 			"audioList": [
 				55,
 				49,
@@ -821,7 +821,7 @@
 			"cvEn": "LEE DASEUL",
 			"brand": "SSD-62D",
 			"belong": "Sportivo Calibro 12",
-			"petPhrase": "Caldo Italian Chain Restaurant",
+			"petPhrase": "Elmo - General Echelon",
 			"audioList": [
 				55,
 				49,
@@ -982,7 +982,7 @@
 			"cvEn": "LEE SAEBYEOK",
 			"brand": "SSD-62G",
 			"belong": "QBZ-191",
-			"petPhrase": "G&K Frostfall Squad",
+			"petPhrase": "Frostfall Squad",
 			"audioList": [
 				55,
 				49,
@@ -1150,7 +1150,7 @@
 			"cvEn": "SA MOONYOUNG",
 			"brand": "SSD-62D",
 			"belong": "Type 95",
-			"petPhrase": "Unaffiliated",
+			"petPhrase": "Monsoon Squad",
 			"audioList": [
 				55,
 				49,
@@ -1393,10 +1393,10 @@
 			"unlockDorm": [
 				77,
 				97,
-				99,
-				113,
+				107,
 				105,
 				97,
+				116,
 				116,
 				111
 			],
@@ -1422,7 +1422,7 @@
 			"cvEn": "KIM YELIM",
 			"brand": "SSD-62D",
 			"belong": "Type 97",
-			"petPhrase": "Unaffiliated",
+			"petPhrase": "Monsoon Squad",
 			"audioList": [
 				55,
 				49,
@@ -1627,7 +1627,7 @@
 			"cvEn": "KIM CHAERIN",
 			"brand": "SSD-62G",
 			"belong": "Model ARM",
-			"petPhrase": "████",
+			"petPhrase": "Doll Community",
 			"audioList": [
 				55,
 				49,
@@ -1763,7 +1763,7 @@
 			"cvEn": "KWON DAYE",
 			"brand": "SSD-62G",
 			"belong": "PPSh-41",
-			"petPhrase": "Elmo",
+			"petPhrase": "POL-03 Security Management Department",
 			"audioList": [
 				55,
 				49,
@@ -1898,7 +1898,7 @@
 			"cvEn": "LEE SEUL",
 			"brand": "SSD-62F",
 			"belong": "G36K-KSK",
-			"petPhrase": "H.I.D.E. 404",
+			"petPhrase": "H.I.D.E. 404 Team A",
 			"audioList": [
 				55,
 				49,
@@ -2027,13 +2027,13 @@
 				1044
 			],
 			"avgList": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
-			"charInfo": "A regularly pessimistic Doll. However, as the leader of H.I.D.E. 404's second squad, Vector will absolutely push through and endure till the very last moment with her squadmates in the face of adversity, no matter how depressing the outcomes of her calculations.",
+			"charInfo": "A regularly pessimistic Doll. However, as the leader of H.I.D.E. 404's Team B, Vector will absolutely push through and endure till the very last moment with her teammates in the face of adversity, no matter how depressing the outcomes of her calculations.",
 			"cvCn": "Chen YanYi",
 			"cvJp": "Saori Hayami",
 			"cvEn": "SON SEONYEONG",
 			"brand": "SSD-62D",
 			"belong": "Ksvec .45 ACP",
-			"petPhrase": "H.I.D.E. 404",
+			"petPhrase": "H.I.D.E. 404 Team B",
 			"audioList": [
 				55,
 				49,
@@ -2101,7 +2101,7 @@
 			"cvEn": "KIM SOONMI",
 			"brand": "SSD-62G",
 			"belong": "Sturmgewehr 28",
-			"petPhrase": "H.I.D.E. 404",
+			"petPhrase": "H.I.D.E. 404 Team A",
 			"audioList": [
 				55,
 				49,
@@ -2141,10 +2141,9 @@
 			],
 			"unlockDorm": [
 				66,
-				105,
-				121,
-				111,
-				99,
+				101,
+				108,
+				107,
 				97
 			],
 			"gunHigh": 104599,
@@ -2169,7 +2168,7 @@
 			"cvEn": "YOON AYONG",
 			"brand": "SSD-62D",
 			"belong": "Springfield",
-			"petPhrase": "Elmo - Zucchero Squad",
+			"petPhrase": "Zucchero Café",
 			"audioList": [
 				55,
 				49,
@@ -2225,6 +2224,74 @@
 			"skinOpen": false
 		},
 		{
+			"id": 33,
+			"name": "Qiuhua",
+			"enName": "Qiuhua",
+			"uienName": "QiuhuaSSR",
+			"rdrBg": "Img_ArchivesCenter_Chr_NemesisBg",
+			"rdrImg": "Img_ArchivesCenter_Chr_Nemesis",
+			"type": 1,
+			"unitId": [
+				1048
+			],
+			"avgList": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+			"charInfo": "A passionate, high-energy Doll with an optimistic outlook on life. As a gourmet hunter in the Yellow Zone, she's made it her mission to develop new ingredients to tackle food shortages. Standing against injustice is a way of life for her and her credo is to never let a conversation trail off. \"While I can't say I approve of adding ketchup to deep fried pork, if that's how you like it, then I suppose I can live with it.\"",
+			"cvCn": "Mizuhara",
+			"cvJp": "Ootsubo Yuka",
+			"cvEn": "",
+			"brand": "SSD-62D",
+			"belong": "Type 97 Shotgun",
+			"petPhrase": "Elmo - General Echelon",
+			"audioList": [
+				55,
+				49,
+				48,
+				48,
+				51,
+				48,
+				49,
+				44,
+				55,
+				49,
+				48,
+				48,
+				51,
+				48,
+				53,
+				44,
+				55,
+				49,
+				48,
+				48,
+				51,
+				48,
+				56
+			],
+			"chatList": [
+				7100301,
+				7100302,
+				7100303,
+				7100304,
+				7100305,
+				7100306,
+				7100307,
+				7100308,
+				7100309,
+				7100310
+			],
+			"unlockDorm": [
+				81,
+				105,
+				117,
+				104,
+				117,
+				97
+			],
+			"gunHigh": 104899,
+			"color": "",
+			"skinOpen": false
+		},
+		{
 			"id": 35,
 			"name": "Zhaohui",
 			"enName": "Zhaohui",
@@ -2240,7 +2307,7 @@
 			"cvEn": "KANG SHIHYUN",
 			"brand": "SST-05",
 			"belong": "CS/LS06",
-			"petPhrase": "Elmo - Monsoon Squad",
+			"petPhrase": "Monsoon Squad",
 			"unlockDorm": [
 				90,
 				104,
@@ -2273,11 +2340,11 @@
 			"cvEn": "KIM ARONG",
 			"brand": "SSD-62D",
 			"belong": "G11",
-			"petPhrase": "H.I.D.E. 404",
+			"petPhrase": "H.I.D.E. 404 Team A",
 			"unlockDorm": [
 				77,
-				105,
-				115,
+				101,
+				99,
 				104,
 				116,
 				121
@@ -2306,16 +2373,114 @@
 			"cvEn": "JANG CHAEYEON",
 			"brand": "SST-05",
 			"belong": "416",
-			"petPhrase": "H.I.D.E. 404",
+			"petPhrase": "H.I.D.E. 404 Team A",
 			"unlockDorm": [
-				67,
+				75,
 				108,
 				117,
 				107,
 				97,
-				121
+				105
 			],
 			"gunHigh": 105299,
+			"rdrBg": "",
+			"rdrImg": "",
+			"color": "",
+			"avgList": "",
+			"audioList": [],
+			"chatList": [],
+			"skinOpen": false
+		},
+		{
+			"id": 38,
+			"name": "Peri",
+			"enName": "Peri",
+			"uienName": "PeriSSR",
+			"type": 1,
+			"unitId": [
+				1053
+			],
+			"charInfo": "A cute little Doll with big dreams, Peri has grown into a strong, independent Doll while following in the footsteps of her master. Her cheerful and lively personality has won the trust of many clients while her wits and experience have allowed her to avoid many pitfalls. All her efforts are to become a super cool and reliable Doll, so why not try relying on her a little?",
+			"cvCn": "Yan Yeqiao",
+			"cvJp": "Mukaiyama Naomi",
+			"cvEn": "#N/A",
+			"brand": "SSD-62D",
+			"belong": "",
+			"petPhrase": "Elmo - General Echelon",
+			"unlockDorm": [
+				80,
+				101,
+				114,
+				105
+			],
+			"gunHigh": 105399,
+			"rdrBg": "",
+			"rdrImg": "",
+			"color": "",
+			"avgList": "",
+			"audioList": [],
+			"chatList": [],
+			"skinOpen": false
+		},
+		{
+			"id": 39,
+			"name": "Yoohee",
+			"enName": "YooHee",
+			"uienName": "YooHeeSSR",
+			"type": 1,
+			"unitId": [
+				1054
+			],
+			"charInfo": "A passionate and responsible Doll who's devoted to the art of dancing. A compliment from the Commander set her on the path to becoming a dancer, and she founded the dancing troupe called \"Sparkle Squad\" to provide wandering Dolls with a place to call home and thus do justice to her position as a veteran Doll. She has never slacked off in her quest to perfect her art; diligence and willingness to learn are the cornerstones of her efforts while never giving up and keeping her eyes on the goals are the secret of her success. Don't question it, just trust her, because when she says she'll do it, she means it. \"Keep up with the beat! Let's blow the roof off this place!\"",
+			"cvCn": "Green",
+			"cvJp": "Yukiyo Fujii",
+			"cvEn": "",
+			"brand": "SSD-62D",
+			"belong": "K2",
+			"petPhrase": "Sparkle Squad",
+			"unlockDorm": [
+				89,
+				111,
+				111,
+				104,
+				101,
+				101
+			],
+			"gunHigh": 105499,
+			"rdrBg": "",
+			"rdrImg": "",
+			"color": "",
+			"avgList": "",
+			"audioList": [],
+			"chatList": [],
+			"skinOpen": false
+		},
+		{
+			"id": 40,
+			"name": "Nikketa",
+			"enName": "Nikketa",
+			"uienName": "NikketaSSR",
+			"type": 1,
+			"unitId": [
+				1055
+			],
+			"charInfo": "A security officer who upholds justice, a kind older sister figure who cherishes children, a big spender who uses up all her monthly earnings— Who is to say that these three identities can't belong to the same person? Nikketa fights in the frontlines of justice, calmly demonstrating her values and beliefs. Yet when she faces you, another side of her emerges. \"My work has taught me not to trust anyone. Boss is the exception though. We are fellow partners in the pursuit of justice.\"",
+			"cvCn": "Elise Zhang",
+			"cvJp": "Ai Kakuma",
+			"cvEn": "",
+			"brand": "SSD-62G",
+			"belong": "Veska 94",
+			"petPhrase": "Elmo - General Echelon",
+			"unlockDorm": [
+				78,
+				105,
+				107,
+				107,
+				101,
+				116,
+				97
+			],
+			"gunHigh": 105599,
 			"rdrBg": "",
 			"rdrImg": "",
 			"color": "",

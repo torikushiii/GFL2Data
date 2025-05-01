@@ -17,7 +17,8 @@
 			"battleGroupId": 103,
 			"preId": [],
 			"unlockLevel": 0,
-			"startPoint": 0
+			"startPoint": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 102,
@@ -38,7 +39,8 @@
 			"hidePoint": true,
 			"battleGroupId": 103,
 			"unlockLevel": 0,
-			"startPoint": 0
+			"startPoint": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 103,
@@ -59,7 +61,8 @@
 			"battleGroupId": 103,
 			"unlockLevel": 0,
 			"startPoint": 0,
-			"hidePoint": false
+			"hidePoint": false,
+			"extraBonus": ""
 		},
 		{
 			"id": 104,
@@ -80,7 +83,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 105,
@@ -101,7 +105,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 106,
@@ -122,7 +127,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 107,
@@ -143,7 +149,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 108,
@@ -164,7 +171,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 109,
@@ -185,7 +193,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 110,
@@ -204,7 +213,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 141,
@@ -225,7 +235,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 142,
@@ -244,7 +255,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 143,
@@ -265,7 +277,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 144,
@@ -284,7 +297,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 145,
@@ -305,7 +319,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 146,
@@ -324,7 +339,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 161,
@@ -343,7 +359,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 162,
@@ -364,7 +381,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 163,
@@ -385,7 +403,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 164,
@@ -406,7 +425,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 165,
@@ -425,7 +445,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 183,
@@ -446,7 +467,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 184,
@@ -467,7 +489,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 191,
@@ -484,7 +507,8 @@
 			"preId": [],
 			"nextId": [],
 			"unlockLevel": 0,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 201,
@@ -503,7 +527,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 202,
@@ -524,7 +549,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 203,
@@ -545,7 +571,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 204,
@@ -566,7 +593,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 205,
@@ -587,7 +615,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 206,
@@ -608,7 +637,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 207,
@@ -629,7 +659,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 208,
@@ -650,7 +681,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 209,
@@ -671,7 +703,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 210,
@@ -692,7 +725,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 241,
@@ -713,7 +747,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 242,
@@ -732,7 +767,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 243,
@@ -753,7 +789,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 244,
@@ -772,7 +809,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 245,
@@ -793,7 +831,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 246,
@@ -812,7 +851,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 261,
@@ -831,7 +871,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 262,
@@ -852,7 +893,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 263,
@@ -873,7 +915,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 264,
@@ -894,7 +937,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 265,
@@ -913,7 +957,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 281,
@@ -934,7 +979,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 282,
@@ -955,7 +1001,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 283,
@@ -976,7 +1023,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 284,
@@ -997,7 +1045,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 285,
@@ -1016,7 +1065,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 291,
@@ -1033,7 +1083,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"startPoint": 0,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 292,
@@ -1050,7 +1101,8 @@
 			"preId": [],
 			"nextId": [],
 			"unlockLevel": 0,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 293,
@@ -1067,7 +1119,8 @@
 			"preId": [],
 			"nextId": [],
 			"unlockLevel": 0,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 301,
@@ -1088,7 +1141,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 302,
@@ -1109,7 +1163,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 303,
@@ -1130,7 +1185,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 304,
@@ -1151,7 +1207,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 305,
@@ -1172,7 +1229,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 306,
@@ -1193,7 +1251,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 307,
@@ -1214,7 +1273,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 308,
@@ -1235,7 +1295,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 309,
@@ -1256,7 +1317,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 310,
@@ -1275,7 +1337,8 @@
 			"startPoint": 2,
 			"nextId": [],
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 341,
@@ -1296,7 +1359,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 342,
@@ -1315,7 +1379,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 343,
@@ -1336,7 +1401,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 344,
@@ -1355,7 +1421,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 345,
@@ -1376,7 +1443,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 346,
@@ -1395,7 +1463,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 361,
@@ -1414,7 +1483,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 362,
@@ -1435,7 +1505,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 363,
@@ -1456,7 +1527,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 364,
@@ -1477,7 +1549,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 365,
@@ -1496,7 +1569,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 381,
@@ -1515,7 +1589,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 382,
@@ -1536,7 +1611,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 383,
@@ -1557,7 +1633,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 384,
@@ -1578,7 +1655,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 385,
@@ -1599,7 +1677,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 401,
@@ -1618,7 +1697,8 @@
 			"preId": [],
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 402,
@@ -1639,7 +1719,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 403,
@@ -1660,7 +1741,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 404,
@@ -1681,7 +1763,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 405,
@@ -1702,7 +1785,8 @@
 			"unlockLevel": 17,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 406,
@@ -1723,7 +1807,8 @@
 			"unlockLevel": 22,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 407,
@@ -1744,7 +1829,8 @@
 			"unlockLevel": 22,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 408,
@@ -1765,7 +1851,8 @@
 			"unlockLevel": 22,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 409,
@@ -1786,7 +1873,8 @@
 			"unlockLevel": 22,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 410,
@@ -1807,7 +1895,8 @@
 			"unlockLevel": 22,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 441,
@@ -1828,7 +1917,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 442,
@@ -1847,7 +1937,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 443,
@@ -1868,7 +1959,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 444,
@@ -1887,7 +1979,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 445,
@@ -1908,7 +2001,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 446,
@@ -1927,7 +2021,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 461,
@@ -1946,7 +2041,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 462,
@@ -1967,7 +2063,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 463,
@@ -1988,7 +2085,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 464,
@@ -2009,7 +2107,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 465,
@@ -2028,7 +2127,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 481,
@@ -2049,7 +2149,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 482,
@@ -2070,7 +2171,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 483,
@@ -2091,7 +2193,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 484,
@@ -2112,7 +2215,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 485,
@@ -2133,7 +2237,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 486,
@@ -2152,7 +2257,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 501,
@@ -2173,7 +2279,8 @@
 			"unlockLevel": 25,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 502,
@@ -2194,7 +2301,8 @@
 			"unlockLevel": 25,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 503,
@@ -2215,7 +2323,8 @@
 			"unlockLevel": 25,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 504,
@@ -2236,7 +2345,8 @@
 			"unlockLevel": 25,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 505,
@@ -2257,7 +2367,8 @@
 			"unlockLevel": 25,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 506,
@@ -2278,7 +2389,8 @@
 			"unlockLevel": 27,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 507,
@@ -2299,7 +2411,8 @@
 			"unlockLevel": 27,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 508,
@@ -2320,7 +2433,8 @@
 			"unlockLevel": 27,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 509,
@@ -2341,7 +2455,8 @@
 			"unlockLevel": 27,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 510,
@@ -2360,7 +2475,8 @@
 			"startPoint": 2,
 			"nextId": [],
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 541,
@@ -2381,7 +2497,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 542,
@@ -2400,7 +2517,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 543,
@@ -2421,7 +2539,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 544,
@@ -2440,7 +2559,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 545,
@@ -2461,7 +2581,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 546,
@@ -2480,7 +2601,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 561,
@@ -2499,7 +2621,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 562,
@@ -2520,7 +2643,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 563,
@@ -2541,7 +2665,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 564,
@@ -2562,7 +2687,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 565,
@@ -2581,7 +2707,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 581,
@@ -2600,7 +2727,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 582,
@@ -2621,7 +2749,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 583,
@@ -2642,7 +2771,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 584,
@@ -2663,7 +2793,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 601,
@@ -2682,7 +2813,8 @@
 			"preId": [],
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 602,
@@ -2703,7 +2835,8 @@
 			"unlockLevel": 29,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 603,
@@ -2724,7 +2857,8 @@
 			"unlockLevel": 29,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 604,
@@ -2745,7 +2879,8 @@
 			"unlockLevel": 29,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 605,
@@ -2766,7 +2901,8 @@
 			"unlockLevel": 29,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 606,
@@ -2787,7 +2923,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 607,
@@ -2808,7 +2945,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 608,
@@ -2829,7 +2967,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 609,
@@ -2850,7 +2989,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 610,
@@ -2869,7 +3009,8 @@
 			"startPoint": 2,
 			"nextId": [],
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 641,
@@ -2890,7 +3031,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 642,
@@ -2909,7 +3051,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 643,
@@ -2930,7 +3073,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 644,
@@ -2949,7 +3093,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 645,
@@ -2970,7 +3115,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 646,
@@ -2989,7 +3135,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 661,
@@ -3008,7 +3155,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 662,
@@ -3029,7 +3177,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 663,
@@ -3050,7 +3199,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 664,
@@ -3071,7 +3221,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 665,
@@ -3090,7 +3241,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 681,
@@ -3111,7 +3263,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 682,
@@ -3132,7 +3285,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 683,
@@ -3153,7 +3307,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 684,
@@ -3174,7 +3329,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 685,
@@ -3195,7 +3351,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 701,
@@ -3214,7 +3371,8 @@
 			"preId": [],
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 702,
@@ -3235,7 +3393,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 703,
@@ -3256,7 +3415,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 704,
@@ -3277,7 +3437,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 705,
@@ -3298,7 +3459,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 706,
@@ -3319,7 +3481,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 707,
@@ -3340,7 +3503,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 708,
@@ -3361,7 +3525,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 709,
@@ -3382,7 +3547,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 710,
@@ -3401,7 +3567,8 @@
 			"startPoint": 2,
 			"nextId": [],
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 741,
@@ -3422,7 +3589,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 742,
@@ -3441,7 +3609,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 743,
@@ -3462,7 +3631,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 744,
@@ -3481,7 +3651,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 745,
@@ -3502,7 +3673,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 746,
@@ -3521,7 +3693,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 761,
@@ -3540,7 +3713,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 762,
@@ -3561,7 +3735,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 763,
@@ -3582,7 +3757,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 764,
@@ -3603,7 +3779,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 765,
@@ -3622,7 +3799,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 781,
@@ -3643,7 +3821,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 782,
@@ -3664,7 +3843,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 783,
@@ -3685,7 +3865,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 801,
@@ -3704,7 +3885,8 @@
 			"preId": [],
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 802,
@@ -3725,7 +3907,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 803,
@@ -3746,7 +3929,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 804,
@@ -3767,7 +3951,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 805,
@@ -3788,7 +3973,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 806,
@@ -3809,7 +3995,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 807,
@@ -3830,7 +4017,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 808,
@@ -3851,7 +4039,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 809,
@@ -3872,7 +4061,8 @@
 			"unlockLevel": 31,
 			"startPoint": 2,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 810,
@@ -3891,7 +4081,8 @@
 			"startPoint": 2,
 			"nextId": [],
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 841,
@@ -3912,7 +4103,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 842,
@@ -3931,7 +4123,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 843,
@@ -3952,7 +4145,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 844,
@@ -3971,7 +4165,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 845,
@@ -3992,7 +4187,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 846,
@@ -4011,7 +4207,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 861,
@@ -4030,7 +4227,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 862,
@@ -4051,7 +4249,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 863,
@@ -4072,7 +4271,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 864,
@@ -4093,7 +4293,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 865,
@@ -4112,7 +4313,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 881,
@@ -4133,7 +4335,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 882,
@@ -4154,7 +4357,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 883,
@@ -4175,7 +4379,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 884,
@@ -4196,7 +4401,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 885,
@@ -4217,7 +4423,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30101,
@@ -4236,7 +4443,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30102,
@@ -4257,7 +4465,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30103,
@@ -4278,7 +4487,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30104,
@@ -4299,7 +4509,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30105,
@@ -4318,7 +4529,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30111,
@@ -4337,7 +4549,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30112,
@@ -4358,7 +4571,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30113,
@@ -4379,7 +4593,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30114,
@@ -4400,7 +4615,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30115,
@@ -4419,7 +4635,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30301,
@@ -4440,7 +4657,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30302,
@@ -4461,7 +4679,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30303,
@@ -4482,7 +4701,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30304,
@@ -4503,7 +4723,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30305,
@@ -4524,7 +4745,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30306,
@@ -4545,7 +4767,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30307,
@@ -4566,7 +4789,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30308,
@@ -4587,7 +4811,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30309,
@@ -4606,7 +4831,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30341,
@@ -4627,7 +4853,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30342,
@@ -4646,7 +4873,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30343,
@@ -4667,7 +4895,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30344,
@@ -4686,7 +4915,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30345,
@@ -4707,7 +4937,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30346,
@@ -4726,7 +4957,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30381,
@@ -4745,7 +4977,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30382,
@@ -4766,7 +4999,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30401,
@@ -4785,7 +5019,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30402,
@@ -4806,7 +5041,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30403,
@@ -4827,7 +5063,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30404,
@@ -4848,7 +5085,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30405,
@@ -4869,7 +5107,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30406,
@@ -4890,7 +5129,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30407,
@@ -4911,7 +5151,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30408,
@@ -4932,7 +5173,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30409,
@@ -4951,7 +5193,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30461,
@@ -4970,7 +5213,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30462,
@@ -4991,7 +5235,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30463,
@@ -5012,7 +5257,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30464,
@@ -5033,7 +5279,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30465,
@@ -5052,7 +5299,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30471,
@@ -5071,7 +5319,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30472,
@@ -5092,7 +5341,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30473,
@@ -5113,7 +5363,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30474,
@@ -5134,7 +5385,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30475,
@@ -5153,7 +5405,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30486,
@@ -5174,7 +5427,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30501,
@@ -5193,7 +5447,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30502,
@@ -5214,7 +5469,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30503,
@@ -5235,7 +5491,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30504,
@@ -5256,7 +5513,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30505,
@@ -5277,7 +5535,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30506,
@@ -5298,7 +5557,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30507,
@@ -5319,7 +5579,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30508,
@@ -5340,7 +5601,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30509,
@@ -5361,7 +5623,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30541,
@@ -5382,7 +5645,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30542,
@@ -5401,7 +5665,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30543,
@@ -5422,7 +5687,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30544,
@@ -5441,7 +5707,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30545,
@@ -5462,7 +5729,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30546,
@@ -5481,7 +5749,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30561,
@@ -5500,7 +5769,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30562,
@@ -5521,7 +5791,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30563,
@@ -5542,7 +5813,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30564,
@@ -5563,7 +5835,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30565,
@@ -5582,7 +5855,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30571,
@@ -5601,7 +5875,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30572,
@@ -5622,7 +5897,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30573,
@@ -5643,7 +5919,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30574,
@@ -5664,7 +5941,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30575,
@@ -5683,7 +5961,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30586,
@@ -5704,7 +5983,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30587,
@@ -5723,7 +6003,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30701,
@@ -5742,7 +6023,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30702,
@@ -5763,7 +6045,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30703,
@@ -5784,7 +6067,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30704,
@@ -5805,7 +6089,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30705,
@@ -5826,7 +6111,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30706,
@@ -5847,7 +6133,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30707,
@@ -5868,7 +6155,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30708,
@@ -5889,7 +6177,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30709,
@@ -5908,7 +6197,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30761,
@@ -5927,7 +6217,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30762,
@@ -5948,7 +6239,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30763,
@@ -5969,7 +6261,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30764,
@@ -5990,7 +6283,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30765,
@@ -6009,7 +6303,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30771,
@@ -6028,7 +6323,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30772,
@@ -6049,7 +6345,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30773,
@@ -6070,7 +6367,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30774,
@@ -6091,7 +6389,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30775,
@@ -6110,7 +6409,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30786,
@@ -6131,7 +6431,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30787,
@@ -6152,7 +6453,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30788,
@@ -6173,7 +6475,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30801,
@@ -6192,7 +6495,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30802,
@@ -6213,7 +6517,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30803,
@@ -6234,7 +6539,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30804,
@@ -6255,7 +6561,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30805,
@@ -6276,7 +6583,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30806,
@@ -6297,7 +6605,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30807,
@@ -6318,7 +6627,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30808,
@@ -6339,7 +6649,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30809,
@@ -6358,7 +6669,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30841,
@@ -6379,7 +6691,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30842,
@@ -6398,7 +6711,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30843,
@@ -6419,7 +6733,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30844,
@@ -6438,7 +6753,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30845,
@@ -6459,7 +6775,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30846,
@@ -6478,7 +6795,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30861,
@@ -6497,7 +6815,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30862,
@@ -6518,7 +6837,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30863,
@@ -6539,7 +6859,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30864,
@@ -6560,7 +6881,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30865,
@@ -6579,7 +6901,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30871,
@@ -6598,7 +6921,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30872,
@@ -6619,7 +6943,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30873,
@@ -6640,7 +6965,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30874,
@@ -6661,7 +6987,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30875,
@@ -6680,7 +7007,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30881,
@@ -6701,7 +7029,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30882,
@@ -6722,7 +7051,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30901,
@@ -6741,7 +7071,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30902,
@@ -6762,7 +7093,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30903,
@@ -6783,7 +7115,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30904,
@@ -6804,7 +7137,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30905,
@@ -6825,7 +7159,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30906,
@@ -6846,7 +7181,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30907,
@@ -6867,7 +7203,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30908,
@@ -6888,7 +7225,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30909,
@@ -6909,7 +7247,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30910,
@@ -6930,7 +7269,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30941,
@@ -6951,7 +7291,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30942,
@@ -6970,7 +7311,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30943,
@@ -6991,7 +7333,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30944,
@@ -7010,7 +7353,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30945,
@@ -7031,7 +7375,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30946,
@@ -7050,7 +7395,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30961,
@@ -7069,7 +7415,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30962,
@@ -7090,7 +7437,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30963,
@@ -7111,7 +7459,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30964,
@@ -7132,7 +7481,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30965,
@@ -7151,7 +7501,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30971,
@@ -7170,7 +7521,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30972,
@@ -7191,7 +7543,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30973,
@@ -7212,7 +7565,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30974,
@@ -7233,7 +7587,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30975,
@@ -7252,7 +7607,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30981,
@@ -7273,7 +7629,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30982,
@@ -7294,7 +7651,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 30983,
@@ -7313,7 +7671,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31001,
@@ -7332,7 +7691,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31002,
@@ -7353,7 +7713,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31003,
@@ -7374,7 +7735,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31004,
@@ -7395,7 +7757,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31005,
@@ -7416,7 +7779,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31006,
@@ -7437,7 +7801,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31007,
@@ -7458,7 +7823,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31008,
@@ -7479,7 +7845,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31009,
@@ -7498,7 +7865,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31041,
@@ -7519,7 +7887,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31042,
@@ -7538,7 +7907,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31043,
@@ -7559,7 +7929,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31044,
@@ -7578,7 +7949,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31045,
@@ -7599,7 +7971,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31046,
@@ -7618,7 +7991,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31061,
@@ -7637,7 +8011,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31062,
@@ -7658,7 +8033,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31063,
@@ -7679,7 +8055,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31064,
@@ -7700,7 +8077,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31065,
@@ -7719,7 +8097,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31071,
@@ -7738,7 +8117,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31072,
@@ -7759,7 +8139,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31073,
@@ -7780,7 +8161,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31074,
@@ -7801,7 +8183,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31075,
@@ -7820,7 +8203,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31081,
@@ -7841,7 +8225,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31082,
@@ -7862,7 +8247,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31101,
@@ -7881,7 +8267,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31102,
@@ -7902,7 +8289,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31103,
@@ -7923,7 +8311,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31104,
@@ -7944,7 +8333,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31105,
@@ -7965,7 +8355,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31106,
@@ -7986,7 +8377,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31107,
@@ -8007,7 +8399,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31108,
@@ -8028,7 +8421,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31109,
@@ -8047,7 +8441,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31161,
@@ -8066,7 +8461,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31162,
@@ -8087,7 +8483,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31163,
@@ -8108,7 +8505,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31164,
@@ -8129,7 +8527,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31165,
@@ -8148,7 +8547,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31171,
@@ -8167,7 +8567,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31172,
@@ -8188,7 +8589,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31173,
@@ -8209,7 +8611,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31174,
@@ -8230,7 +8633,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31175,
@@ -8249,7 +8653,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31181,
@@ -8270,457 +8675,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31201,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31201,
-			"preId": [
-				31281
-			],
-			"nextId": [
-				31202
-			],
-			"position": "450,0",
-			"name": "ZA-1-1",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-1",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31202,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31202,
-			"preId": [
-				31201
-			],
-			"nextId": [
-				31282
-			],
-			"position": "900,0",
-			"name": "ZA-1-2",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-2",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31203,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31203,
-			"preId": [
-				31282
-			],
-			"nextId": [
-				31204
-			],
-			"position": "1800,0",
-			"name": "ZA-1-3",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-3",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31204,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31204,
-			"preId": [
-				31203
-			],
-			"nextId": [
-				31283
-			],
-			"position": "2250,0",
-			"name": "ZA-1-4",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-4",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31205,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31205,
-			"preId": [
-				31283
-			],
-			"nextId": [
-				31206
-			],
-			"position": "3150,0",
-			"name": "ZA-1-5",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-5",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31206,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31206,
-			"preId": [
-				31205
-			],
-			"nextId": [
-				31207
-			],
-			"position": "3600,0",
-			"name": "ZA-1-6",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-6",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31207,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31207,
-			"preId": [
-				31206
-			],
-			"nextId": [
-				31208
-			],
-			"position": "4050,0",
-			"name": "ZA-1-7",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-7",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31208,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31208,
-			"preId": [
-				31207
-			],
-			"nextId": [
-				31209
-			],
-			"position": "4500,0",
-			"name": "ZA-1-8",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-8",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31209,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31209,
-			"preId": [
-				31208
-			],
-			"position": "4950,0",
-			"name": "ZA-1-9",
-			"icon": "icon_stagetest",
-			"code": "ZA-1-9",
-			"type": 1,
-			"startPoint": 2,
-			"nextId": [],
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31261,
-			"chapter": 94012,
-			"stageGroup": 94012,
-			"stageId": 31261,
-			"nextId": [
-				31262
-			],
-			"position": "0,0",
-			"name": "ZF-1-1",
-			"icon": "icon_stagetest",
-			"code": "ZF-1-1",
-			"type": 1,
-			"preId": [],
-			"unlockLevel": 0,
-			"startPoint": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31262,
-			"chapter": 94012,
-			"stageGroup": 94012,
-			"stageId": 31262,
-			"preId": [
-				31261
-			],
-			"nextId": [
-				31263
-			],
-			"position": "450,0",
-			"name": "ZF-1-2",
-			"icon": "icon_stagetest",
-			"code": "ZF-1-2",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31263,
-			"chapter": 94012,
-			"stageGroup": 94012,
-			"stageId": 31263,
-			"preId": [
-				31262
-			],
-			"nextId": [
-				31264
-			],
-			"position": "900,0",
-			"name": "ZF-1-3",
-			"icon": "icon_stagetest",
-			"code": "ZF-1-3",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31264,
-			"chapter": 94012,
-			"stageGroup": 94012,
-			"stageId": 31264,
-			"preId": [
-				31263
-			],
-			"nextId": [
-				31265
-			],
-			"position": "1350,0",
-			"name": "ZF-1-4",
-			"icon": "icon_stagetest",
-			"code": "ZF-1-4",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31265,
-			"chapter": 94012,
-			"stageGroup": 94012,
-			"stageId": 31265,
-			"preId": [
-				31264
-			],
-			"position": "1800,0",
-			"name": "ZF-1-5",
-			"icon": "icon_stagetest",
-			"code": "ZF-1-5",
-			"type": 1,
-			"startPoint": 2,
-			"nextId": [],
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31271,
-			"chapter": 994012,
-			"stageGroup": 994012,
-			"stageId": 31271,
-			"nextId": [
-				31272
-			],
-			"position": "0,0",
-			"name": "ZT-1-1",
-			"icon": "icon_stagetest",
-			"code": "ZT-1-1",
-			"type": 1,
-			"preId": [],
-			"unlockLevel": 0,
-			"startPoint": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31272,
-			"chapter": 994012,
-			"stageGroup": 994012,
-			"stageId": 31272,
-			"preId": [
-				31271
-			],
-			"nextId": [
-				31273
-			],
-			"position": "450,0",
-			"name": "ZT-1-2",
-			"icon": "icon_stagetest",
-			"code": "ZT-1-2",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31273,
-			"chapter": 994012,
-			"stageGroup": 994012,
-			"stageId": 31273,
-			"preId": [
-				31272
-			],
-			"nextId": [
-				31274
-			],
-			"position": "900,0",
-			"name": "ZT-1-3",
-			"icon": "icon_stagetest",
-			"code": "ZT-1-3",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31274,
-			"chapter": 994012,
-			"stageGroup": 994012,
-			"stageId": 31274,
-			"preId": [
-				31273
-			],
-			"nextId": [
-				31275
-			],
-			"position": "1350,0",
-			"name": "ZT-1-4",
-			"icon": "icon_stagetest",
-			"code": "ZT-1-4",
-			"type": 1,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31275,
-			"chapter": 994012,
-			"stageGroup": 994012,
-			"stageId": 31275,
-			"preId": [
-				31274
-			],
-			"position": "1800,0",
-			"name": "ZT-1-5",
-			"icon": "icon_stagetest",
-			"code": "ZT-1-5",
-			"type": 1,
-			"startPoint": 2,
-			"nextId": [],
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31281,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31281,
-			"nextId": [
-				31201
-			],
-			"position": "0,0",
-			"name": "ZS-1-1",
-			"icon": "icon_stagetest",
-			"code": "ZS-1-1",
-			"type": 2,
-			"preId": [],
-			"unlockLevel": 0,
-			"startPoint": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31282,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31282,
-			"preId": [
-				31202
-			],
-			"nextId": [
-				31203
-			],
-			"position": "1350,0",
-			"name": "ZS-1-2",
-			"icon": "icon_stagetest",
-			"code": "ZS-1-2",
-			"type": 2,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
-		},
-		{
-			"id": 31283,
-			"chapter": 4012,
-			"stageGroup": 4012,
-			"stageId": 31283,
-			"preId": [
-				31204
-			],
-			"nextId": [
-				31205
-			],
-			"position": "2700,0",
-			"name": "ZS-1-3",
-			"icon": "icon_stagetest",
-			"code": "ZS-1-3",
-			"type": 2,
-			"startPoint": 2,
-			"unlockLevel": 0,
-			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31301,
@@ -8739,7 +8695,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31302,
@@ -8760,7 +8717,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31303,
@@ -8781,7 +8739,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31304,
@@ -8802,7 +8761,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31305,
@@ -8823,7 +8783,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31306,
@@ -8844,7 +8805,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31307,
@@ -8865,7 +8827,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31308,
@@ -8886,7 +8849,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31309,
@@ -8907,7 +8871,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31310,
@@ -8928,7 +8893,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31341,
@@ -8949,7 +8915,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31342,
@@ -8970,7 +8937,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31343,
@@ -8989,7 +8957,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31344,
@@ -9010,7 +8979,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31345,
@@ -9031,7 +9001,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31346,
@@ -9050,7 +9021,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31361,
@@ -9069,7 +9041,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31362,
@@ -9090,7 +9063,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31363,
@@ -9111,7 +9085,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31364,
@@ -9132,7 +9107,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31365,
@@ -9151,7 +9127,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31371,
@@ -9170,7 +9147,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31372,
@@ -9191,7 +9169,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31373,
@@ -9212,7 +9191,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31374,
@@ -9233,7 +9213,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31375,
@@ -9252,7 +9233,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31381,
@@ -9273,7 +9255,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31382,
@@ -9294,7 +9277,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31383,
@@ -9315,7 +9299,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31384,
@@ -9334,7 +9319,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31401,
@@ -9353,7 +9339,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31402,
@@ -9374,7 +9361,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31403,
@@ -9395,7 +9383,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31404,
@@ -9416,7 +9405,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31405,
@@ -9437,7 +9427,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31406,
@@ -9458,7 +9449,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31407,
@@ -9479,7 +9471,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31408,
@@ -9500,7 +9493,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31409,
@@ -9521,7 +9515,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31410,
@@ -9542,7 +9537,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31411,
@@ -9563,7 +9559,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31441,
@@ -9584,7 +9581,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31442,
@@ -9603,7 +9601,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31443,
@@ -9624,7 +9623,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31444,
@@ -9645,7 +9645,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31445,
@@ -9664,7 +9665,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31461,
@@ -9683,7 +9685,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31462,
@@ -9704,7 +9707,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31463,
@@ -9725,7 +9729,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31464,
@@ -9746,7 +9751,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31465,
@@ -9765,7 +9771,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31471,
@@ -9784,7 +9791,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31472,
@@ -9805,7 +9813,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31473,
@@ -9826,7 +9835,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31474,
@@ -9847,7 +9857,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31475,
@@ -9866,7 +9877,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31481,
@@ -9887,7 +9899,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31482,
@@ -9908,7 +9921,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31483,
@@ -9929,7 +9943,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31484,
@@ -9950,7 +9965,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31485,
@@ -9971,7 +9987,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31486,
@@ -9990,7 +10007,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31501,
@@ -10009,7 +10027,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31502,
@@ -10030,7 +10049,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31503,
@@ -10051,7 +10071,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31504,
@@ -10072,7 +10093,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31505,
@@ -10093,7 +10115,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31506,
@@ -10114,7 +10137,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31507,
@@ -10135,7 +10159,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31508,
@@ -10156,7 +10181,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31509,
@@ -10175,7 +10201,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31561,
@@ -10194,7 +10221,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31562,
@@ -10215,7 +10243,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31563,
@@ -10236,7 +10265,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31564,
@@ -10257,7 +10287,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31565,
@@ -10276,7 +10307,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31571,
@@ -10295,7 +10327,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31572,
@@ -10316,7 +10349,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31573,
@@ -10337,7 +10371,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31574,
@@ -10358,7 +10393,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31575,
@@ -10377,7 +10413,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31581,
@@ -10398,7 +10435,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31582,
@@ -10419,7 +10457,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31601,
@@ -10438,7 +10477,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31602,
@@ -10459,7 +10499,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31603,
@@ -10480,7 +10521,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31604,
@@ -10501,7 +10543,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31605,
@@ -10522,7 +10565,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31606,
@@ -10543,7 +10587,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31607,
@@ -10564,7 +10609,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31608,
@@ -10585,7 +10631,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31609,
@@ -10604,7 +10651,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31661,
@@ -10623,7 +10671,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31662,
@@ -10644,7 +10693,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31663,
@@ -10665,7 +10715,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31664,
@@ -10686,7 +10737,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31665,
@@ -10705,7 +10757,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31671,
@@ -10724,7 +10777,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31672,
@@ -10745,7 +10799,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31673,
@@ -10766,7 +10821,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31674,
@@ -10787,7 +10843,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31675,
@@ -10806,7 +10863,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31681,
@@ -10825,7 +10883,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31682,
@@ -10844,7 +10903,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31683,
@@ -10863,7 +10923,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31684,
@@ -10882,7 +10943,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31685,
@@ -10901,7 +10963,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31701,
@@ -10920,7 +10983,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31702,
@@ -10941,7 +11005,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31703,
@@ -10962,7 +11027,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31704,
@@ -10983,7 +11049,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31705,
@@ -11004,7 +11071,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31706,
@@ -11025,7 +11093,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31707,
@@ -11046,7 +11115,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31708,
@@ -11067,7 +11137,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31709,
@@ -11086,7 +11157,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31761,
@@ -11105,7 +11177,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31762,
@@ -11126,7 +11199,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31763,
@@ -11147,7 +11221,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31764,
@@ -11168,7 +11243,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31765,
@@ -11187,7 +11263,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31771,
@@ -11206,7 +11283,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31772,
@@ -11227,7 +11305,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31773,
@@ -11248,7 +11327,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31774,
@@ -11269,7 +11349,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31775,
@@ -11288,7 +11369,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31781,
@@ -11307,7 +11389,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31782,
@@ -11326,7 +11409,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31783,
@@ -11345,7 +11429,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31784,
@@ -11364,7 +11449,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31785,
@@ -11383,7 +11469,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31786,
@@ -11402,7 +11489,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31801,
@@ -11413,15 +11501,16 @@
 				31881
 			],
 			"position": "0,0",
-			"name": "SF-1-1",
+			"name": "SA-1-1",
 			"icon": "icon_stagetest",
-			"code": "SF-1-1",
+			"code": "SA-1-1",
 			"type": 1,
 			"preId": [],
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31802,
@@ -11435,14 +11524,15 @@
 				31882
 			],
 			"position": "900,150",
-			"name": "SF-2-1",
+			"name": "SA-2-1",
 			"icon": "icon_stagetest",
-			"code": "SF-2-1",
+			"code": "SA-2-1",
 			"type": 1,
 			"startPoint": 1,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31803,
@@ -11456,14 +11546,15 @@
 				31882
 			],
 			"position": "900,0",
-			"name": "SF-2-2",
+			"name": "SA-2-2",
 			"icon": "icon_stagetest",
-			"code": "SF-2-2",
+			"code": "SA-2-2",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31804,
@@ -11477,14 +11568,15 @@
 				31882
 			],
 			"position": "900,-150",
-			"name": "SF-2-3",
+			"name": "SA-2-3",
 			"icon": "icon_stagetest",
-			"code": "SF-2-3",
+			"code": "SA-2-3",
 			"type": 1,
 			"startPoint": 3,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31805,
@@ -11498,14 +11590,15 @@
 				31883
 			],
 			"position": "1800,150",
-			"name": "SF-3-1",
+			"name": "SA-3-1",
 			"icon": "icon_stagetest",
-			"code": "SF-3-1",
+			"code": "SA-3-1",
 			"type": 1,
 			"startPoint": 1,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31806,
@@ -11519,14 +11612,15 @@
 				31883
 			],
 			"position": "1800,0",
-			"name": "SF-3-2",
+			"name": "SA-3-2",
 			"icon": "icon_stagetest",
-			"code": "SF-3-2",
+			"code": "SA-3-2",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31807,
@@ -11540,14 +11634,15 @@
 				31883
 			],
 			"position": "1800,-150",
-			"name": "SF-3-3",
+			"name": "SA-3-3",
 			"icon": "icon_stagetest",
-			"code": "SF-3-3",
+			"code": "SA-3-3",
 			"type": 1,
 			"startPoint": 3,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31808,
@@ -11561,14 +11656,15 @@
 				31809
 			],
 			"position": "2700,0",
-			"name": "SF-4-1",
+			"name": "SA-4-1",
 			"icon": "icon_stagetest",
-			"code": "SF-4-1",
+			"code": "SA-4-1",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31809,
@@ -11582,14 +11678,15 @@
 				31884
 			],
 			"position": "3150,0",
-			"name": "SF-4-2",
+			"name": "SA-4-2",
 			"icon": "icon_stagetest",
-			"code": "SF-4-2",
+			"code": "SA-4-2",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31810,
@@ -11603,14 +11700,15 @@
 				31811
 			],
 			"position": "4050,0",
-			"name": "SF-5-1",
+			"name": "SA-5-1",
 			"icon": "icon_stagetest",
-			"code": "SF-5-1",
+			"code": "SA-5-1",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31811,
@@ -11621,15 +11719,16 @@
 				31810
 			],
 			"position": "4500,0",
-			"name": "SF-5-2",
+			"name": "SA-5-2",
 			"icon": "icon_stagetest",
-			"code": "SF-5-2",
+			"code": "SA-5-2",
 			"type": 1,
 			"startPoint": 2,
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31841,
@@ -11643,14 +11742,15 @@
 				31842
 			],
 			"position": "3375,-150",
-			"name": "ST-1-1",
+			"name": "SZ-1-1",
 			"icon": "icon_stagetest",
-			"code": "ST-1-1",
+			"code": "SZ-1-1",
 			"type": 11,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31842,
@@ -11660,18 +11760,17 @@
 			"preId": [
 				31841
 			],
-			"nextId": [
-				31843
-			],
 			"position": "3825,-150",
-			"name": "ST-1-2",
+			"name": "SZ-1-2",
 			"icon": "icon_stagetest",
-			"code": "ST-1-2",
+			"code": "SZ-1-2",
 			"type": 11,
 			"startPoint": 2,
+			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31843,
@@ -11679,18 +11778,21 @@
 			"stageGroup": 4018,
 			"stageId": 31843,
 			"preId": [
-				31842
+				31809
 			],
-			"position": "4275,-150",
-			"name": "ST-1-3",
+			"nextId": [
+				31844
+			],
+			"position": "3825,150",
+			"name": "SZ-1-3",
 			"icon": "icon_stagetest",
-			"code": "ST-1-3",
+			"code": "SZ-1-3",
 			"type": 11,
 			"startPoint": 2,
-			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31844,
@@ -11698,20 +11800,19 @@
 			"stageGroup": 4018,
 			"stageId": 31844,
 			"preId": [
-				31884
+				31843
 			],
-			"nextId": [
-				31845
-			],
-			"position": "4725,150",
-			"name": "ST-2-1",
+			"position": "4275,150",
+			"name": "SZ-1-4",
 			"icon": "icon_stagetest",
-			"code": "ST-2-1",
+			"code": "SZ-1-4",
 			"type": 11,
 			"startPoint": 2,
+			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31845,
@@ -11719,20 +11820,19 @@
 			"stageGroup": 4018,
 			"stageId": 31845,
 			"preId": [
-				31844
+				31810
 			],
-			"nextId": [
-				31846
-			],
-			"position": "5175,150",
-			"name": "ST-2-2",
+			"position": "4725,-150",
+			"name": "SZ-1-5",
 			"icon": "icon_stagetest",
-			"code": "ST-2-2",
+			"code": "SZ-1-5",
 			"type": 11,
 			"startPoint": 2,
+			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31846,
@@ -11740,18 +11840,19 @@
 			"stageGroup": 4018,
 			"stageId": 31846,
 			"preId": [
-				31845
+				31811
 			],
-			"position": "5625,150",
-			"name": "ST-2-3",
+			"position": "5175,150",
+			"name": "SZ-1-6",
 			"icon": "icon_stagetest",
-			"code": "ST-2-3",
+			"code": "SZ-1-6",
 			"type": 11,
 			"startPoint": 2,
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31861,
@@ -11762,15 +11863,16 @@
 				31862
 			],
 			"position": "0,0",
-			"name": "DF-10-1",
+			"name": "SF-10-1",
 			"icon": "icon_stagetest",
-			"code": "DF-10-1",
+			"code": "SF-10-1",
 			"type": 1,
 			"preId": [],
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31862,
@@ -11784,14 +11886,15 @@
 				31863
 			],
 			"position": "450,0",
-			"name": "DF-10-2",
+			"name": "SF-10-2",
 			"icon": "icon_stagetest",
-			"code": "DF-10-2",
+			"code": "SF-10-2",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31863,
@@ -11805,14 +11908,15 @@
 				31864
 			],
 			"position": "900,0",
-			"name": "DF-10-3",
+			"name": "SF-10-3",
 			"icon": "icon_stagetest",
-			"code": "DF-10-3",
+			"code": "SF-10-3",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31864,
@@ -11826,14 +11930,15 @@
 				31865
 			],
 			"position": "1350,0",
-			"name": "DF-10-4",
+			"name": "SF-10-4",
 			"icon": "icon_stagetest",
-			"code": "DF-10-4",
+			"code": "SF-10-4",
 			"type": 1,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31865,
@@ -11844,15 +11949,16 @@
 				31864
 			],
 			"position": "1800,0",
-			"name": "DF-10-5",
+			"name": "SF-10-5",
 			"icon": "icon_stagetest",
-			"code": "DF-10-5",
+			"code": "SF-10-5",
 			"type": 1,
 			"startPoint": 2,
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31871,
@@ -11871,7 +11977,8 @@
 			"unlockLevel": 0,
 			"startPoint": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31872,
@@ -11892,7 +11999,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31873,
@@ -11913,7 +12021,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31874,
@@ -11934,7 +12043,8 @@
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31875,
@@ -11953,7 +12063,8 @@
 			"nextId": [],
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31881,
@@ -11969,14 +12080,15 @@
 				31804
 			],
 			"position": "450,0",
-			"name": "SS-1",
+			"name": "SS-1-1",
 			"icon": "icon_stagetest",
-			"code": "SS-1",
+			"code": "SS-1-1",
 			"type": 2,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31882,
@@ -11994,14 +12106,15 @@
 				31807
 			],
 			"position": "1350,0",
-			"name": "SS-2",
+			"name": "SS-1-2",
 			"icon": "icon_stagetest",
-			"code": "SS-2",
+			"code": "SS-1-2",
 			"type": 2,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31883,
@@ -12017,14 +12130,15 @@
 				31808
 			],
 			"position": "2250,0",
-			"name": "SS-3",
+			"name": "SS-1-3",
 			"icon": "icon_stagetest",
-			"code": "SS-3",
+			"code": "SS-1-3",
 			"type": 2,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
-			"battleGroupId": 0
+			"battleGroupId": 0,
+			"extraBonus": ""
 		},
 		{
 			"id": 31884,
@@ -12038,14 +12152,2061 @@
 				31810
 			],
 			"position": "3600,0",
-			"name": "SS-4",
+			"name": "SS-1-4",
 			"icon": "icon_stagetest",
-			"code": "SS-4",
+			"code": "SS-1-4",
 			"type": 2,
 			"startPoint": 2,
 			"unlockLevel": 0,
 			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31901,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31901,
+			"preId": [
+				31981
+			],
+			"nextId": [
+				31902
+			],
+			"position": "450,0",
+			"name": "PA-1-1",
+			"icon": "icon_stagetest",
+			"code": "PA-1-1",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31902,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31902,
+			"preId": [
+				31901
+			],
+			"nextId": [
+				31903
+			],
+			"position": "900,0",
+			"name": "PA-1-2",
+			"icon": "icon_stagetest",
+			"code": "PA-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31903,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31903,
+			"preId": [
+				31902
+			],
+			"nextId": [
+				31904
+			],
+			"position": "1350,0",
+			"name": "PA-1-3",
+			"icon": "icon_stagetest",
+			"code": "PA-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31904,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31904,
+			"preId": [
+				31903
+			],
+			"nextId": [
+				31905
+			],
+			"position": "1800,0",
+			"name": "PA-1-4",
+			"icon": "icon_stagetest",
+			"code": "PA-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31905,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31905,
+			"preId": [
+				31904
+			],
+			"nextId": [
+				31906
+			],
+			"position": "2250,0",
+			"name": "PA-1-5",
+			"icon": "icon_stagetest",
+			"code": "PA-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31906,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31906,
+			"preId": [
+				31905
+			],
+			"nextId": [
+				31982
+			],
+			"position": "2700,0",
+			"name": "PA-1-6",
+			"icon": "icon_stagetest",
+			"code": "PA-1-6",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31907,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31907,
+			"preId": [
+				31982
+			],
+			"nextId": [
+				31983
+			],
+			"position": "3600,0",
+			"name": "PA-1-7",
+			"icon": "icon_stagetest",
+			"code": "PA-1-7",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31908,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31908,
+			"preId": [
+				31984
+			],
+			"nextId": [
+				31985
+			],
+			"position": "4950,0",
+			"name": "PA-1-8",
+			"icon": "icon_stagetest",
+			"code": "PA-1-8",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31909,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31909,
+			"preId": [
+				31985
+			],
+			"nextId": [
+				31986
+			],
+			"position": "5850,0",
+			"name": "PA-1-9",
+			"icon": "icon_stagetest",
+			"code": "PA-1-9",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31910,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31910,
+			"preId": [
+				31986
+			],
+			"nextId": [
+				31911
+			],
+			"position": "6750,0",
+			"name": "PA-1-10",
+			"icon": "icon_stagetest",
+			"code": "PA-1-10",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31911,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31911,
+			"preId": [
+				31910
+			],
+			"nextId": [
+				31987
+			],
+			"position": "7200,0",
+			"name": "PA-1-11",
+			"icon": "icon_stagetest",
+			"code": "PA-1-11",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31941,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31941,
+			"preId": [
+				31902
+			],
+			"position": "1575,150",
+			"name": "PZ-1-1",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-1",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31942,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31942,
+			"preId": [
+				31904
+			],
+			"position": "2475,-150",
+			"name": "PZ-1-2",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-2",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31943,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31943,
+			"preId": [
+				31906
+			],
+			"position": "3375,150",
+			"name": "PZ-1-3",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-3",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31944,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31944,
+			"preId": [
+				31908
+			],
+			"position": "5625,-150",
+			"name": "PZ-1-4",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-4",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31945,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31945,
+			"preId": [
+				31910
+			],
+			"nextId": [
+				31946
+			],
+			"position": "7425,150",
+			"name": "PZ-1-5",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-5",
+			"type": 11,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31946,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31946,
+			"preId": [
+				31945
+			],
+			"position": "7875,150",
+			"name": "PZ-1-6",
+			"icon": "icon_stagetest",
+			"code": "PZ-1-6",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31961,
+			"chapter": 94019,
+			"stageGroup": 94019,
+			"stageId": 31961,
+			"nextId": [
+				31962
+			],
+			"position": "0,0",
+			"name": "PF-1-1",
+			"icon": "icon_stagetest",
+			"code": "PF-1-1",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31962,
+			"chapter": 94019,
+			"stageGroup": 94019,
+			"stageId": 31962,
+			"preId": [
+				31961
+			],
+			"nextId": [
+				31963
+			],
+			"position": "450,0",
+			"name": "PF-1-2",
+			"icon": "icon_stagetest",
+			"code": "PF-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31963,
+			"chapter": 94019,
+			"stageGroup": 94019,
+			"stageId": 31963,
+			"preId": [
+				31962
+			],
+			"nextId": [
+				31964
+			],
+			"position": "900,0",
+			"name": "PF-1-3",
+			"icon": "icon_stagetest",
+			"code": "PF-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31964,
+			"chapter": 94019,
+			"stageGroup": 94019,
+			"stageId": 31964,
+			"preId": [
+				31963
+			],
+			"nextId": [
+				31965
+			],
+			"position": "1350,0",
+			"name": "PF-1-4",
+			"icon": "icon_stagetest",
+			"code": "PF-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31965,
+			"chapter": 94019,
+			"stageGroup": 94019,
+			"stageId": 31965,
+			"preId": [
+				31964
+			],
+			"position": "1800,0",
+			"name": "PF-1-5",
+			"icon": "icon_stagetest",
+			"code": "PF-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31971,
+			"chapter": 994019,
+			"stageGroup": 994019,
+			"stageId": 31971,
+			"nextId": [
+				31972
+			],
+			"position": "0,0",
+			"name": "PT-1-1",
+			"icon": "icon_stagetest",
+			"code": "PT-1-1",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31972,
+			"chapter": 994019,
+			"stageGroup": 994019,
+			"stageId": 31972,
+			"preId": [
+				31971
+			],
+			"nextId": [
+				31973
+			],
+			"position": "450,0",
+			"name": "PT-1-2",
+			"icon": "icon_stagetest",
+			"code": "PT-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31973,
+			"chapter": 994019,
+			"stageGroup": 994019,
+			"stageId": 31973,
+			"preId": [
+				31972
+			],
+			"nextId": [
+				31974
+			],
+			"position": "900,0",
+			"name": "PT-1-3",
+			"icon": "icon_stagetest",
+			"code": "PT-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31974,
+			"chapter": 994019,
+			"stageGroup": 994019,
+			"stageId": 31974,
+			"preId": [
+				31973
+			],
+			"nextId": [
+				31975
+			],
+			"position": "1350,0",
+			"name": "PT-1-4",
+			"icon": "icon_stagetest",
+			"code": "PT-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31975,
+			"chapter": 994019,
+			"stageGroup": 994019,
+			"stageId": 31975,
+			"preId": [
+				31974
+			],
+			"position": "1800,0",
+			"name": "PT-1-5",
+			"icon": "icon_stagetest",
+			"code": "PT-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31981,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31981,
+			"nextId": [
+				31901
+			],
+			"position": "0,0",
+			"name": "PS-1-1",
+			"icon": "icon_stagetest",
+			"code": "PS-1-1",
+			"type": 2,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31982,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31982,
+			"preId": [
+				31906
+			],
+			"nextId": [
+				31907
+			],
+			"position": "3150,0",
+			"name": "PS-1-2",
+			"icon": "icon_stagetest",
+			"code": "PS-1-2",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31983,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31983,
+			"preId": [
+				31907
+			],
+			"nextId": [
+				31984
+			],
+			"position": "4050,0",
+			"name": "PS-1-3",
+			"icon": "icon_stagetest",
+			"code": "PS-1-3",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31984,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31984,
+			"preId": [
+				31983
+			],
+			"nextId": [
+				31908
+			],
+			"position": "4500,0",
+			"name": "PS-1-4",
+			"icon": "icon_stagetest",
+			"code": "PS-1-4",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31985,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31985,
+			"preId": [
+				31908
+			],
+			"nextId": [
+				31909
+			],
+			"position": "5400,0",
+			"name": "PS-1-5",
+			"icon": "icon_stagetest",
+			"code": "PS-1-5",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31986,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31986,
+			"preId": [
+				31909
+			],
+			"nextId": [
+				31910
+			],
+			"position": "6300,0",
+			"name": "PS-1-6",
+			"icon": "icon_stagetest",
+			"code": "PS-1-6",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31987,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31987,
+			"preId": [
+				31911
+			],
+			"nextId": [
+				31988
+			],
+			"position": "7650,0",
+			"name": "PS-1-7",
+			"icon": "icon_stagetest",
+			"code": "PS-1-7",
+			"type": 13,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31988,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31988,
+			"preId": [
+				31987
+			],
+			"nextId": [
+				31989
+			],
+			"position": "8100,0",
+			"name": "PS-1-8",
+			"icon": "icon_stagetest",
+			"code": "PS-1-8",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 31989,
+			"chapter": 4019,
+			"stageGroup": 4019,
+			"stageId": 31989,
+			"preId": [
+				31988
+			],
+			"position": "8550,0",
+			"name": "PS-1-9",
+			"icon": "icon_stagetest",
+			"code": "PS-1-9",
+			"type": 2,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32001,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32001,
+			"preId": [
+				32081
+			],
+			"nextId": [
+				32002
+			],
+			"position": "450,0",
+			"name": "QA-1-1",
+			"icon": "icon_stagetest",
+			"code": "QA-1-1",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32002,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32002,
+			"preId": [
+				32001
+			],
+			"nextId": [
+				32003
+			],
+			"position": "900,0",
+			"name": "QA-1-2",
+			"icon": "icon_stagetest",
+			"code": "QA-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32003,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32003,
+			"preId": [
+				32002
+			],
+			"nextId": [
+				32082
+			],
+			"position": "1350,0",
+			"name": "QA-1-3",
+			"icon": "icon_stagetest",
+			"code": "QA-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"extraBonus": "12:1",
+			"unlockLevel": 0,
+			"hidePoint": false,
 			"battleGroupId": 0
+		},
+		{
+			"id": 32004,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32004,
+			"preId": [
+				32082
+			],
+			"nextId": [
+				32005
+			],
+			"position": "2250,0",
+			"name": "QA-1-4",
+			"icon": "icon_stagetest",
+			"code": "QA-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32005,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32005,
+			"preId": [
+				32004
+			],
+			"nextId": [
+				32083
+			],
+			"position": "2700,0",
+			"name": "QA-1-5",
+			"icon": "icon_stagetest",
+			"code": "QA-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32006,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32006,
+			"preId": [
+				32083
+			],
+			"nextId": [
+				32084
+			],
+			"position": "3600,0",
+			"name": "QA-1-6",
+			"icon": "icon_stagetest",
+			"code": "QA-1-6",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32007,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32007,
+			"preId": [
+				32084
+			],
+			"nextId": [
+				32085
+			],
+			"position": "4500,0",
+			"name": "QA-1-7",
+			"icon": "icon_stagetest",
+			"code": "QA-1-7",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32008,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32008,
+			"preId": [
+				32085
+			],
+			"nextId": [
+				32009
+			],
+			"position": "5400,0",
+			"name": "QA-1-8",
+			"icon": "icon_stagetest",
+			"code": "QA-1-8",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32009,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32009,
+			"preId": [
+				32008
+			],
+			"nextId": [
+				32086
+			],
+			"position": "5850,0",
+			"name": "QA-1-9",
+			"icon": "icon_stagetest",
+			"code": "QA-1-9",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32041,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32041,
+			"preId": [
+				32002
+			],
+			"position": "1575,150",
+			"name": "QZ-1-1",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-1",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32042,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32042,
+			"preId": [
+				32004
+			],
+			"position": "2475,-150",
+			"name": "QZ-1-2",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-2",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32043,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32043,
+			"preId": [
+				32006
+			],
+			"position": "3375,150",
+			"name": "QZ-1-3",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-3",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32044,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32044,
+			"preId": [
+				32007
+			],
+			"position": "5625,-150",
+			"name": "QZ-1-4",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-4",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32045,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32045,
+			"preId": [
+				32008
+			],
+			"position": "7425,150",
+			"name": "QZ-1-5",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-5",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32046,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32046,
+			"preId": [
+				32009
+			],
+			"position": "7875,-150",
+			"name": "QZ-1-6",
+			"icon": "icon_stagetest",
+			"code": "QZ-1-6",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32061,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32061,
+			"nextId": [
+				32062
+			],
+			"position": "0,0",
+			"name": "QF-1-1",
+			"icon": "icon_stagetest",
+			"code": "QF-1-1",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32062,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32062,
+			"preId": [
+				32061
+			],
+			"nextId": [
+				32063
+			],
+			"position": "450,0",
+			"name": "QF-1-2",
+			"icon": "icon_stagetest",
+			"code": "QF-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32063,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32063,
+			"preId": [
+				32062
+			],
+			"nextId": [
+				32064
+			],
+			"position": "900,0",
+			"name": "QF-1-3",
+			"icon": "icon_stagetest",
+			"code": "QF-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32064,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32064,
+			"preId": [
+				32063
+			],
+			"nextId": [
+				32065
+			],
+			"position": "1350,0",
+			"name": "QF-1-4",
+			"icon": "icon_stagetest",
+			"code": "QF-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32065,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32065,
+			"preId": [
+				32064
+			],
+			"position": "1800,0",
+			"name": "QF-1-5",
+			"icon": "icon_stagetest",
+			"code": "QF-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32071,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32071,
+			"nextId": [
+				32072
+			],
+			"position": "0,0",
+			"name": "QT-1-1",
+			"icon": "icon_stagetest",
+			"code": "QT-1-1",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32072,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32072,
+			"preId": [
+				32071
+			],
+			"nextId": [
+				32073
+			],
+			"position": "450,0",
+			"name": "QT-1-2",
+			"icon": "icon_stagetest",
+			"code": "QT-1-2",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32073,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32073,
+			"preId": [
+				32072
+			],
+			"nextId": [
+				32074
+			],
+			"position": "900,0",
+			"name": "QT-1-3",
+			"icon": "icon_stagetest",
+			"code": "QT-1-3",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32074,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32074,
+			"preId": [
+				32073
+			],
+			"nextId": [
+				32075
+			],
+			"position": "1350,0",
+			"name": "QT-1-4",
+			"icon": "icon_stagetest",
+			"code": "QT-1-4",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32075,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32075,
+			"preId": [
+				32074
+			],
+			"position": "1800,0",
+			"name": "QT-1-5",
+			"icon": "icon_stagetest",
+			"code": "QT-1-5",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32081,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32081,
+			"nextId": [
+				32001
+			],
+			"position": "0,0",
+			"name": "QS-1-1",
+			"icon": "icon_stagetest",
+			"code": "QS-1-1",
+			"type": 2,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32082,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32082,
+			"preId": [
+				32003
+			],
+			"nextId": [
+				32004
+			],
+			"position": "1800,0",
+			"name": "QS-1-2",
+			"icon": "icon_stagetest",
+			"code": "QS-1-2",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32083,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32083,
+			"preId": [
+				32005
+			],
+			"nextId": [
+				32006
+			],
+			"position": "3150,0",
+			"name": "QS-1-3",
+			"icon": "icon_stagetest",
+			"code": "QS-1-3",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32084,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32084,
+			"preId": [
+				32006
+			],
+			"nextId": [
+				32007
+			],
+			"position": "4050,0",
+			"name": "QS-1-4",
+			"icon": "icon_stagetest",
+			"code": "QS-1-4",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32085,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32085,
+			"preId": [
+				32007
+			],
+			"nextId": [
+				32008
+			],
+			"position": "4950,0",
+			"name": "QS-1-5",
+			"icon": "icon_stagetest",
+			"code": "QS-1-5",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32086,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32086,
+			"preId": [
+				32009
+			],
+			"position": "6300,0",
+			"name": "QS-1-6",
+			"icon": "icon_stagetest",
+			"code": "QS-1-6",
+			"type": 2,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32201,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32201,
+			"preId": [
+				32281
+			],
+			"nextId": [
+				32282
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32202,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32202,
+			"preId": [
+				32282
+			],
+			"nextId": [
+				32203
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"extraBonus": "12:1",
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0
+		},
+		{
+			"id": 32203,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32203,
+			"preId": [
+				32202
+			],
+			"nextId": [
+				32204
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32204,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32204,
+			"preId": [
+				32203
+			],
+			"nextId": [
+				32283
+			],
+			"position": "2250,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32205,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32205,
+			"preId": [
+				32283
+			],
+			"nextId": [
+				32206
+			],
+			"position": "3150,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32206,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32206,
+			"preId": [
+				32205
+			],
+			"nextId": [
+				32207
+			],
+			"position": "3600,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32207,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32207,
+			"preId": [
+				32206
+			],
+			"nextId": [
+				32208
+			],
+			"position": "4050,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32208,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32208,
+			"preId": [
+				32207
+			],
+			"nextId": [
+				32209
+			],
+			"position": "4500,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32209,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32209,
+			"preId": [
+				32208
+			],
+			"nextId": [
+				32284
+			],
+			"position": "4950,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32241,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32241,
+			"preId": [
+				32202
+			],
+			"position": "1575,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32242,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32242,
+			"preId": [
+				32204
+			],
+			"position": "2475,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32243,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32243,
+			"preId": [
+				32206
+			],
+			"nextId": [
+				32244
+			],
+			"position": "3375,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32244,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32244,
+			"preId": [
+				32243
+			],
+			"position": "5625,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32245,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32245,
+			"preId": [
+				32208
+			],
+			"nextId": [
+				32246
+			],
+			"position": "7425,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32246,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32246,
+			"preId": [
+				32245
+			],
+			"position": "7875,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32261,
+			"chapter": 94022,
+			"stageGroup": 94022,
+			"stageId": 32261,
+			"nextId": [
+				32262
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32262,
+			"chapter": 94022,
+			"stageGroup": 94022,
+			"stageId": 32262,
+			"preId": [
+				32261
+			],
+			"nextId": [
+				32263
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32263,
+			"chapter": 94022,
+			"stageGroup": 94022,
+			"stageId": 32263,
+			"preId": [
+				32262
+			],
+			"nextId": [
+				32264
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32264,
+			"chapter": 94022,
+			"stageGroup": 94022,
+			"stageId": 32264,
+			"preId": [
+				32263
+			],
+			"nextId": [
+				32265
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32265,
+			"chapter": 94022,
+			"stageGroup": 94022,
+			"stageId": 32265,
+			"preId": [
+				32264
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32271,
+			"chapter": 994022,
+			"stageGroup": 994022,
+			"stageId": 32271,
+			"nextId": [
+				32272
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32272,
+			"chapter": 994022,
+			"stageGroup": 994022,
+			"stageId": 32272,
+			"preId": [
+				32271
+			],
+			"nextId": [
+				32273
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32273,
+			"chapter": 994022,
+			"stageGroup": 994022,
+			"stageId": 32273,
+			"preId": [
+				32272
+			],
+			"nextId": [
+				32274
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32274,
+			"chapter": 994022,
+			"stageGroup": 994022,
+			"stageId": 32274,
+			"preId": [
+				32273
+			],
+			"nextId": [
+				32275
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32275,
+			"chapter": 994022,
+			"stageGroup": 994022,
+			"stageId": 32275,
+			"preId": [
+				32274
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32281,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32281,
+			"nextId": [
+				32201
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32282,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32282,
+			"preId": [
+				32201
+			],
+			"nextId": [
+				32202
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32283,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32283,
+			"preId": [
+				32204
+			],
+			"nextId": [
+				32205
+			],
+			"position": "2700,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32284,
+			"chapter": 4022,
+			"stageGroup": 4022,
+			"stageId": 32284,
+			"preId": [
+				32209
+			],
+			"position": "5400,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
 		}
 	]
 }

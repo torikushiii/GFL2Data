@@ -239,6 +239,16 @@
 			"id": 49,
 			"keyWord": "Side By Side",
 			"explanation": "A tactical assault vehicle operated by the Commander. Allows the Commander to fight alongside Dolls, no matter where they are."
+		},
+		{
+			"id": 50,
+			"keyWord": "Fire Suppression",
+			"explanation": "Attacks the nearest enemy each turn."
+		},
+		{
+			"id": 51,
+			"keyWord": "Hold Fire",
+			"explanation": "Will not attack in any way."
 		}
 	]
 }

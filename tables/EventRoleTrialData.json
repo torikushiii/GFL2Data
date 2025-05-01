@@ -3,13 +3,13 @@
 		{
 			"id": 60004,
 			"bgImage": "ActivityChrTryItemBg_Tololo",
-			"gachaId": "103001",
+			"gachaId": "3001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-05"
 		},
 		{
 			"id": 60005,
 			"bgImage": "ActivityChrTryItemBg_Daiyan",
-			"gachaId": "106001",
+			"gachaId": "6001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		},
 		{
@@ -39,7 +39,7 @@
 		{
 			"id": 60048,
 			"bgImage": "ActivityChrTryItemBg_Mosinnagant",
-			"gachaId": "1019001",
+			"gachaId": "19001",
 			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
 		},
 		{
@@ -63,7 +63,7 @@
 		{
 			"id": 60074,
 			"bgImage": "ActivityChrTryItemBg_Macqiato",
-			"gachaId": "1023001",
+			"gachaId": "23001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		},
 		{
@@ -75,7 +75,7 @@
 		{
 			"id": 60082,
 			"bgImage": "ActivityChrTryItemBg_Ullrid",
-			"gachaId": "1033001",
+			"gachaId": "27001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
 		},
 		{
@@ -87,7 +87,7 @@
 		{
 			"id": 60091,
 			"bgImage": "ActivityChrTryItemBg_Suomi",
-			"gachaId": "1031001",
+			"gachaId": "31001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		},
 		{
@@ -205,6 +205,12 @@
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		},
 		{
+			"id": 60904,
+			"bgImage": "ActivityChrTryItemBg_Peri",
+			"gachaId": "71001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
 			"id": 60905,
 			"bgImage": "ActivityChrTryItemBg_Biyoca",
 			"gachaId": "73001",
@@ -215,6 +221,60 @@
 			"bgImage": "ActivityChrTryItemBg_Centaureissi",
 			"gachaId": "75001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61005,
+			"bgImage": "ActivityChrTryItemBg_Qiuhua",
+			"gachaId": "77001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61006,
+			"bgImage": "ActivityChrTryItemBg_Andoris",
+			"gachaId": "79001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62F"
+		},
+		{
+			"id": 61007,
+			"bgImage": "ActivityChrTryItemBg_Mishty",
+			"gachaId": "81001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61102,
+			"bgImage": "ActivityChrTryItemBg_YooHee",
+			"gachaId": "83001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61103,
+			"bgImage": "ActivityChrTryItemBg_Springfield",
+			"gachaId": "85001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61104,
+			"bgImage": "ActivityChrTryItemBg_Daiyan",
+			"gachaId": "87001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61202,
+			"bgImage": "ActivityChrTryItemBg_Nikketa",
+			"gachaId": "100001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
+		},
+		{
+			"id": 61203,
+			"bgImage": "ActivityChrTryItemBg_Peri",
+			"gachaId": "102001",
+			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
+		},
+		{
+			"id": 61204,
+			"bgImage": "ActivityChrTryItemBg_Clukay",
+			"gachaId": "104001",
+			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
 		}
 	]
 }

@@ -1018,7 +1018,7 @@
 		},
 		{
 			"id": 3016,
-			"chars": "This stage has a yime limit, countdown {0} min {1} sec"
+			"chars": "This stage has a time limit, countdown {0} min {1} sec"
 		},
 		{
 			"id": 3017,
@@ -2609,6 +2609,10 @@
 			"chars": "The enemy has reached the target score first"
 		},
 		{
+			"id": 71009,
+			"chars": "Too many enemy units have withdrawn"
+		},
+		{
 			"id": 71100,
 			"chars": "All allied units have been destroyed"
 		},
@@ -2759,6 +2763,26 @@
 		{
 			"id": 71233,
 			"chars": "Hehe, don't worry, I'll protect everyone."
+		},
+		{
+			"id": 71234,
+			"chars": "After we finish withdrawing, shall we go back for a cup of tea?"
+		},
+		{
+			"id": 71235,
+			"chars": "Deal's done, let's go, let's go!"
+		},
+		{
+			"id": 71236,
+			"chars": "What are you standing around for? Let's go already."
+		},
+		{
+			"id": 71237,
+			"chars": "Show's over, let's bail!"
+		},
+		{
+			"id": 71238,
+			"chars": "Boss, it's time we withdrew."
 		},
 		{
 			"id": 72001,
@@ -3770,7 +3794,7 @@
 		},
 		{
 			"id": 80357,
-			"chars": "Phase Weakness Effect: Increases damage by {0}%. Increases fixed stability damage by {1}, and prioritized stability damage dealt."
+			"chars": "Weakness Effect: Increases damage by {0}%. Increases fixed stability damage by {1}, and prioritized stability damage dealt."
 		},
 		{
 			"id": 80358,
@@ -3782,7 +3806,7 @@
 		},
 		{
 			"id": 80360,
-			"chars": "Material rewards have been obtained"
+			"chars": "Hidden supplies found! Gain Access Permission ×1"
 		},
 		{
 			"id": 80361,
@@ -3822,7 +3846,7 @@
 		},
 		{
 			"id": 80370,
-			"chars": "Damage Reduction Details"
+			"chars": "Projected Damage Details"
 		},
 		{
 			"id": 80371,
@@ -3846,7 +3870,7 @@
 		},
 		{
 			"id": 80376,
-			"chars": "Phase Weakness Effect: Increased damage, increased fixed stability damage, settlement of stability damage is calculated earlier"
+			"chars": "Weakness Effect: Increased damage, increased fixed stability damage, settlement of stability damage is calculated earlier"
 		},
 		{
 			"id": 80377,
@@ -3929,6 +3953,14 @@
 			"chars": "{0} Triggered"
 		},
 		{
+			"id": 80398,
+			"chars": "Chase Camera in Auto Battle"
+		},
+		{
+			"id": 80399,
+			"chars": "Hidden supplies discovered! Access Permit*1 acquired"
+		},
+		{
 			"id": 80999,
 			"chars": "Battle Performance"
 		},
@@ -4006,7 +4038,7 @@
 		},
 		{
 			"id": 82012,
-			"chars": "Order Adjustment Successful"
+			"chars": "Sequence Adjustment Successful"
 		},
 		{
 			"id": 82013,
@@ -4015,6 +4047,10 @@
 		{
 			"id": 82014,
 			"chars": "Monster Wave:"
+		},
+		{
+			"id": 82015,
+			"chars": "GOAL!"
 		},
 		{
 			"id": 82020,
@@ -5642,7 +5678,7 @@
 		},
 		{
 			"id": 103004,
-			"chars": "Number of Attempts"
+			"chars": "Attempts"
 		},
 		{
 			"id": 103005,
@@ -6477,6 +6513,86 @@
 			"chars": "Certification level has been increased to {0}"
 		},
 		{
+			"id": 103501,
+			"chars": "Raise Doll"
+		},
+		{
+			"id": 103502,
+			"chars": "Currently raising {0} {1}"
+		},
+		{
+			"id": 103503,
+			"chars": "Select Doll to raise"
+		},
+		{
+			"id": 103504,
+			"chars": "Automatically selects the appropriate options in Targeted Study for the chosen Doll"
+		},
+		{
+			"id": 103505,
+			"chars": "All"
+		},
+		{
+			"id": 103506,
+			"chars": "Bulwark"
+		},
+		{
+			"id": 103507,
+			"chars": "Vanguard"
+		},
+		{
+			"id": 103508,
+			"chars": "Support"
+		},
+		{
+			"id": 103509,
+			"chars": "Sentinel"
+		},
+		{
+			"id": 103510,
+			"chars": "Recommended Dolls"
+		},
+		{
+			"id": 103511,
+			"chars": "Confirm"
+		},
+		{
+			"id": 103512,
+			"chars": "Cancel"
+		},
+		{
+			"id": 103601,
+			"chars": "Go"
+		},
+		{
+			"id": 103602,
+			"chars": "Obtain by completing Collaborative Training"
+		},
+		{
+			"id": 103603,
+			"chars": "Attempt"
+		},
+		{
+			"id": 103604,
+			"chars": "Locked"
+		},
+		{
+			"id": 103605,
+			"chars": "Unlocked by completing the previous module"
+		},
+		{
+			"id": 103606,
+			"chars": "Buff Details"
+		},
+		{
+			"id": 103607,
+			"chars": "Practice Module Intro"
+		},
+		{
+			"id": 103608,
+			"chars": "Review"
+		},
+		{
 			"id": 104001,
 			"chars": "Sound"
 		},
@@ -7301,6 +7417,18 @@
 			"chars": "Payment currently unavailable"
 		},
 		{
+			"id": 106312,
+			"chars": "Ends after {0}"
+		},
+		{
+			"id": 106313,
+			"chars": "Refreshes after {0}"
+		},
+		{
+			"id": 106314,
+			"chars": "The date has changed, home screen will automatically refresh"
+		},
+		{
 			"id": 107001,
 			"chars": "Access Number"
 		},
@@ -7665,6 +7793,14 @@
 			"chars": ""
 		},
 		{
+			"id": 107092,
+			"chars": "Initial"
+		},
+		{
+			"id": 107093,
+			"chars": "Maxed"
+		},
+		{
 			"id": 108001,
 			"chars": "Remaining Time"
 		},
@@ -7722,7 +7858,7 @@
 		},
 		{
 			"id": 108015,
-			"chars": "Number of Attempts"
+			"chars": "Attempts"
 		},
 		{
 			"id": 108016,
@@ -9313,6 +9449,38 @@
 			"chars": "Complete the assessment to receive <color=#df9e00>Vepley</color>"
 		},
 		{
+			"id": 114001,
+			"chars": "Journey Milestone"
+		},
+		{
+			"id": 114002,
+			"chars": "Decoration Record"
+		},
+		{
+			"id": 114003,
+			"chars": "Glory Store"
+		},
+		{
+			"id": 114004,
+			"chars": "Claim"
+		},
+		{
+			"id": 114005,
+			"chars": "Incomplete"
+		},
+		{
+			"id": 114006,
+			"chars": "Claim All"
+		},
+		{
+			"id": 114007,
+			"chars": "Achievement Description Text"
+		},
+		{
+			"id": 114008,
+			"chars": "Achieved"
+		},
+		{
 			"id": 120000,
 			"chars": "Upon first reaching this rank, rewards will be sent to you via in-game mail. Please check your inbox."
 		},
@@ -10098,11 +10266,11 @@
 		},
 		{
 			"id": 120196,
-			"chars": "Based on the current formation, determine the order of Doll actions during proxy battle. Left-right order can be switched."
+			"chars": "Based on the current formation, determine the action order of Dolls during Auto Battle. The sequence can be toggled from left to right."
 		},
 		{
 			"id": 120197,
-			"chars": "Choose the position you want to replace"
+			"chars": "Determine the Auto Battle sequence"
 		},
 		{
 			"id": 120198,
@@ -12077,6 +12245,58 @@
 			"chars": "Imprint"
 		},
 		{
+			"id": 222001,
+			"chars": "Full Auto-Battle"
+		},
+		{
+			"id": 222002,
+			"chars": "Story Stage"
+		},
+		{
+			"id": 222006,
+			"chars": "Deep Exploration"
+		},
+		{
+			"id": 222007,
+			"chars": "Equipment Analysis"
+		},
+		{
+			"id": 222008,
+			"chars": "Cognitive Configuration"
+		},
+		{
+			"id": 222009,
+			"chars": "Targeted Study"
+		},
+		{
+			"id": 222010,
+			"chars": "Standardizing Sync"
+		},
+		{
+			"id": 222011,
+			"chars": "Neural Survey"
+		},
+		{
+			"id": 222012,
+			"chars": "Daily Patrol"
+		},
+		{
+			"id": 222013,
+			"chars": "Gunsmoke Frontline"
+		},
+		{
+			"id": 222014,
+			"chars": "Auto Battle Settings"
+		},
+		{
+			"id": 222015,
+			"chars": "Auto Battle"
+		},
+		{
+			"id": 222016,
+			"chars": "Master Volume"
+		},
+		{
 			"id": 230001,
 			"chars": "Purchase"
 		},
@@ -13057,6 +13277,14 @@
 			"chars": "Remaining Areas: ({0}/{1})"
 		},
 		{
+			"id": 240907,
+			"chars": "Deployed Dolls will be on recovery for <color=#f26c1c>15 hours</color>. Do you wish to proceed?"
+		},
+		{
+			"id": 240908,
+			"chars": "Boulders cannot be broken without a SG Doll"
+		},
+		{
 			"id": 250001,
 			"chars": "Damage"
 		},
@@ -13110,7 +13338,7 @@
 		},
 		{
 			"id": 250014,
-			"chars": "Calibrate"
+			"chars": "Enhance"
 		},
 		{
 			"id": 250015,
@@ -13498,7 +13726,7 @@
 		},
 		{
 			"id": 251044,
-			"chars": "Calibrate"
+			"chars": "Enhance"
 		},
 		{
 			"id": 251045,
@@ -13531,6 +13759,74 @@
 		{
 			"id": 251052,
 			"chars": "Once confirmed, the results cannot be changed and the materials will not be refunded."
+		},
+		{
+			"id": 251053,
+			"chars": "Calibrate"
+		},
+		{
+			"id": 251054,
+			"chars": "Calibrate"
+		},
+		{
+			"id": 252001,
+			"chars": "Extreme Calibration"
+		},
+		{
+			"id": 252002,
+			"chars": "Unlocked after all enhancement effects of this attachment reach 100%"
+		},
+		{
+			"id": 252003,
+			"chars": "Calibrate"
+		},
+		{
+			"id": 252004,
+			"chars": "Attachments cannot be calibrated normally after undergoing Extreme Calibration"
+		},
+		{
+			"id": 252005,
+			"chars": "Extreme Calibration"
+		},
+		{
+			"id": 252006,
+			"chars": "Attachments cannot be calibrated normally after undergoing Extreme Calibration. Do you wish to continue?"
+		},
+		{
+			"id": 252007,
+			"chars": "Insufficient resources"
+		},
+		{
+			"id": 252008,
+			"chars": "No stat selected for enhancement"
+		},
+		{
+			"id": 252009,
+			"chars": "Extreme Calibration is at maximum"
+		},
+		{
+			"id": 252010,
+			"chars": "<color=#f26c1c>[{0}]</color> enhancement effect has reached 200%"
+		},
+		{
+			"id": 252011,
+			"chars": "Stat maximum reached"
+		},
+		{
+			"id": 252012,
+			"chars": "{0}<color=#f26c1c> × {1}%</color>"
+		},
+		{
+			"id": 252013,
+			"chars": "{0}<color=#00b77d> × {1}%</color>"
+		},
+		{
+			"id": 252014,
+			"chars": "<color=#00b77d>{0}</color><color=#f26c1c> × {1}%</color>"
+		},
+		{
+			"id": 252015,
+			"chars": "<color=#00b77d>{0}</color><color=#00b77d> × {1}%</color>"
 		},
 		{
 			"id": 260001,
@@ -13578,7 +13874,7 @@
 		},
 		{
 			"id": 260012,
-			"chars": "Doll Reciprocal Gift"
+			"chars": "Return Gift"
 		},
 		{
 			"id": 260013,
@@ -13874,7 +14170,7 @@
 		},
 		{
 			"id": 260086,
-			"chars": "During the event, attempt and clear the stages indicated by the event for a chance at multiple drops per attempt. \nThe event has the following restrictions: \n1. The extra drop instances from Supply Missions in this event are shared across all missions. Therefore, please allocate extra drop instances wisely. \n2. There is a daily limit on the number of times you can get multiple drops. Refer to the event instructions for more information on the drop rate, remaining chances and maximum amount of chances. \n3. When the [Elmo Reignition] event runs along with other events, extra drop instances from the [Elmo Reignition] event will be consumed first. \n4. After expending extra reward instances from the event and Intelligence Puzzles, you will receive an additional round of prize drops on top of the original (this extra drop round does not include first-clear rewards). The precise amount of rewards may vary depending on the rules of the stage in question. \n5. The times for double rewards reset daily at 05:00 AM server time."
+			"chars": "During the event, attempt and clear the stages indicated by the event for a chance at multiple drops per attempt. \n\nThe event has the following restrictions: \n1. The extra drop instances from Supply Missions in this event are shared across all missions. Therefore, please allocate extra drop instances wisely. \n2. There is a daily limit on the number of times you can get multiple drops. Refer to the event instructions for more information on the drop rate, remaining chances and maximum amount of chances. \n3. When the [Monthly Incremental Contract] and [Elmo Reignition] event run along with other events, extra drop instances from the [Monthly Incremental Contract] and [Elmo Reignition] event will be consumed first. \n4. After expending extra reward instances from the event and Intelligence Puzzles, you will receive an additional round of prize drops on top of the original (this extra drop round does not include first-clear rewards). The precise amount of rewards may vary depending on the rules of the stage in question. \n5. The times for double rewards reset daily at 05:00 a.m. server time."
 		},
 		{
 			"id": 260087,
@@ -14110,7 +14406,7 @@
 		},
 		{
 			"id": 260145,
-			"chars": "\"To our most valued partner — To strengthen our partnership, we've prepared some gifts. We look forward to continuing our journey together in the future.\""
+			"chars": "To our most valued partner—To strengthen our partnership, we've prepared some gifts. We look forward to continuing our journey together in the future."
 		},
 		{
 			"id": 260146,
@@ -14702,7 +14998,7 @@
 		},
 		{
 			"id": 260293,
-			"chars": "Limited-Time Discount For New Outfits"
+			"chars": "New Outfit Limited-Time Discount"
 		},
 		{
 			"id": 260294,
@@ -14910,7 +15206,7 @@
 		},
 		{
 			"id": 270039,
-			"chars": "Survey"
+			"chars": "Start Pathforge"
 		},
 		{
 			"id": 270040,
@@ -15058,7 +15354,7 @@
 		},
 		{
 			"id": 270076,
-			"chars": "Survey"
+			"chars": "Start Pathforge"
 		},
 		{
 			"id": 270077,
@@ -15378,7 +15674,7 @@
 		},
 		{
 			"id": 270156,
-			"chars": "Survey"
+			"chars": "Begin Pathforge"
 		},
 		{
 			"id": 270157,
@@ -17237,6 +17533,98 @@
 			"chars": "Supplies"
 		},
 		{
+			"id": 274301,
+			"chars": "After a lean year, there are always those who are cautious and those who are careless. People say a celebration is needed to mark an end to the long winter and rekindle the embers of hope."
+		},
+		{
+			"id": 274302,
+			"chars": "Windfall Gift"
+		},
+		{
+			"id": 274303,
+			"chars": "Point Exchange"
+		},
+		{
+			"id": 274304,
+			"chars": "Prosperity Points"
+		},
+		{
+			"id": 274305,
+			"chars": "Story Mode"
+		},
+		{
+			"id": 274306,
+			"chars": "Supply Mode"
+		},
+		{
+			"id": 274307,
+			"chars": "Challenge Mode"
+		},
+		{
+			"id": 274308,
+			"chars": "{0}-{1}"
+		},
+		{
+			"id": 274309,
+			"chars": "Ends after <color=#f0cb77>{0}</color>"
+		},
+		{
+			"id": 274310,
+			"chars": "Elmo Discotheque"
+		},
+		{
+			"id": 274311,
+			"chars": "Springtime Surprise"
+		},
+		{
+			"id": 274312,
+			"chars": "Spring Harvest"
+		},
+		{
+			"id": 274313,
+			"chars": "{1}.{2} to {3}.{4}"
+		},
+		{
+			"id": 274314,
+			"chars": "Ended"
+		},
+		{
+			"id": 274315,
+			"chars": "Reward Preview"
+		},
+		{
+			"id": 274316,
+			"chars": "Current Prosperity Points"
+		},
+		{
+			"id": 274317,
+			"chars": "Prize Preview"
+		},
+		{
+			"id": 274318,
+			"chars": "Not Yet Achieved"
+		},
+		{
+			"id": 274319,
+			"chars": "Claim"
+		},
+		{
+			"id": 274320,
+			"chars": "Claim All"
+		},
+		{
+			"id": 274321,
+			"chars": "Progress: {0}%"
+		},
+		{
+			"id": 274322,
+			"chars": "Locked"
+		},
+		{
+			"id": 274323,
+			"chars": "Over"
+		},
+		{
 			"id": 275000,
 			"chars": "Zucchero Cat Cafe"
 		},
@@ -17551,6 +17939,354 @@
 		{
 			"id": 275078,
 			"chars": "No Cafe Cats"
+		},
+		{
+			"id": 276001,
+			"chars": "Elmo Discotheque"
+		},
+		{
+			"id": 276002,
+			"chars": "Complete previous stages to unlock"
+		},
+		{
+			"id": 276003,
+			"chars": "Unlocks after {0}"
+		},
+		{
+			"id": 276004,
+			"chars": "Challenge Objectives"
+		},
+		{
+			"id": 276005,
+			"chars": "Challenge Rewards"
+		},
+		{
+			"id": 276006,
+			"chars": "Time Taken"
+		},
+		{
+			"id": 276007,
+			"chars": "High Score"
+		},
+		{
+			"id": 276008,
+			"chars": "Start"
+		},
+		{
+			"id": 276009,
+			"chars": "Game Starts In"
+		},
+		{
+			"id": 276010,
+			"chars": "Current round {0}/{1}"
+		},
+		{
+			"id": 276011,
+			"chars": "Remaining Time"
+		},
+		{
+			"id": 276012,
+			"chars": "Score"
+		},
+		{
+			"id": 276013,
+			"chars": "Round Over"
+		},
+		{
+			"id": 276014,
+			"chars": "Combo"
+		},
+		{
+			"id": 276015,
+			"chars": "Miss"
+		},
+		{
+			"id": 276016,
+			"chars": "FULL COMBO"
+		},
+		{
+			"id": 276017,
+			"chars": "Complete"
+		},
+		{
+			"id": 276018,
+			"chars": "New Record"
+		},
+		{
+			"id": 276019,
+			"chars": "Score"
+		},
+		{
+			"id": 276020,
+			"chars": "Challenge Objective"
+		},
+		{
+			"id": 276021,
+			"chars": "Receive Reward"
+		},
+		{
+			"id": 276022,
+			"chars": "Again"
+		},
+		{
+			"id": 276023,
+			"chars": "Confirm End"
+		},
+		{
+			"id": 276024,
+			"chars": "Hint"
+		},
+		{
+			"id": 276025,
+			"chars": "Do you wish to quit the game? Game progress will not be saved if you quit now."
+		},
+		{
+			"id": 276026,
+			"chars": "Confirm"
+		},
+		{
+			"id": 276027,
+			"chars": "Cancel"
+		},
+		{
+			"id": 276028,
+			"chars": "All rewards obtained"
+		},
+		{
+			"id": 276029,
+			"chars": "No rewards available"
+		},
+		{
+			"id": 277001,
+			"chars": "Springtime Surprise"
+		},
+		{
+			"id": 277002,
+			"chars": "Complete previous stages to unlock"
+		},
+		{
+			"id": 277003,
+			"chars": "Unlocks after {0}"
+		},
+		{
+			"id": 277004,
+			"chars": "Time Taken"
+		},
+		{
+			"id": 277005,
+			"chars": "Score"
+		},
+		{
+			"id": 277006,
+			"chars": "Moves"
+		},
+		{
+			"id": 277007,
+			"chars": "Challenge Objectives"
+		},
+		{
+			"id": 277008,
+			"chars": "Challenge Rewards"
+		},
+		{
+			"id": 277009,
+			"chars": "Start"
+		},
+		{
+			"id": 277010,
+			"chars": "Begins after {0} seconds"
+		},
+		{
+			"id": 277011,
+			"chars": "Hint"
+		},
+		{
+			"id": 277012,
+			"chars": "Do you wish to quit the game? If you quit now, your progress will not be saved."
+		},
+		{
+			"id": 277013,
+			"chars": "Confirm"
+		},
+		{
+			"id": 277014,
+			"chars": "Cancel"
+		},
+		{
+			"id": 277015,
+			"chars": "Mission successful"
+		},
+		{
+			"id": 277016,
+			"chars": "Battle results"
+		},
+		{
+			"id": 277017,
+			"chars": "New Record"
+		},
+		{
+			"id": 277018,
+			"chars": "Moves"
+		},
+		{
+			"id": 277019,
+			"chars": "Score"
+		},
+		{
+			"id": 277020,
+			"chars": "Challenge Objectives"
+		},
+		{
+			"id": 277021,
+			"chars": "Rewards Available"
+		},
+		{
+			"id": 277022,
+			"chars": "Clear Tips"
+		},
+		{
+			"id": 277023,
+			"chars": "Memorize the positions of paired cards in the preparation phase"
+		},
+		{
+			"id": 277024,
+			"chars": "Again"
+		},
+		{
+			"id": 277025,
+			"chars": "Confirm Quit"
+		},
+		{
+			"id": 277026,
+			"chars": "All Rewards Obtained"
+		},
+		{
+			"id": 277027,
+			"chars": "Reward Obtained"
+		},
+		{
+			"id": 278001,
+			"chars": "Spring Harvest"
+		},
+		{
+			"id": 278002,
+			"chars": "The markets are selling ingredients, and there are some rare fresh ingredients on sale right now. However, there are also suspicious things mixed in with them; pick out suitable ingredients for cooking!"
+		},
+		{
+			"id": 278003,
+			"chars": "Complete previous stages to unlock"
+		},
+		{
+			"id": 278004,
+			"chars": "Unlocks after {0}"
+		},
+		{
+			"id": 278005,
+			"chars": "Challenge Rewards"
+		},
+		{
+			"id": 278006,
+			"chars": "Challenge Objectives"
+		},
+		{
+			"id": 278007,
+			"chars": "Fight"
+		},
+		{
+			"id": 278008,
+			"chars": "Prepare"
+		},
+		{
+			"id": 278009,
+			"chars": "Move Sabrina left and right to catch the ingredients and score points"
+		},
+		{
+			"id": 278010,
+			"chars": "Click a blank area to begin"
+		},
+		{
+			"id": 278011,
+			"chars": "Pause"
+		},
+		{
+			"id": 278012,
+			"chars": "Score"
+		},
+		{
+			"id": 278013,
+			"chars": "Challenge Objectives"
+		},
+		{
+			"id": 278014,
+			"chars": "End Game"
+		},
+		{
+			"id": 278015,
+			"chars": "Continue"
+		},
+		{
+			"id": 278016,
+			"chars": "Game Over"
+		},
+		{
+			"id": 278017,
+			"chars": "Time's Up"
+		},
+		{
+			"id": 278018,
+			"chars": "X2"
+		},
+		{
+			"id": 278019,
+			"chars": "Challenge Over"
+		},
+		{
+			"id": 278020,
+			"chars": "Round Score"
+		},
+		{
+			"id": 278021,
+			"chars": "High Score"
+		},
+		{
+			"id": 278022,
+			"chars": "New Record"
+		},
+		{
+			"id": 278023,
+			"chars": "Play Again"
+		},
+		{
+			"id": 278024,
+			"chars": "Game Over"
+		},
+		{
+			"id": 278025,
+			"chars": "All rewards obtained"
+		},
+		{
+			"id": 278026,
+			"chars": "Reward obtained"
+		},
+		{
+			"id": 278027,
+			"chars": "Left"
+		},
+		{
+			"id": 278028,
+			"chars": "Right"
+		},
+		{
+			"id": 278029,
+			"chars": "Score"
+		},
+		{
+			"id": 278030,
+			"chars": "2x Score"
+		},
+		{
+			"id": 278031,
+			"chars": "Top Score"
 		},
 		{
 			"id": 280000,
@@ -18022,7 +18758,7 @@
 		},
 		{
 			"id": 290909,
-			"chars": "Participation Rewards"
+			"chars": "Rewards"
 		},
 		{
 			"id": 290910,
@@ -18807,6 +19543,54 @@
 		{
 			"id": 320029,
 			"chars": "Jump"
+		},
+		{
+			"id": 320101,
+			"chars": "Current Theme:"
+		},
+		{
+			"id": 320102,
+			"chars": "{0}'s Support"
+		},
+		{
+			"id": 320103,
+			"chars": "Takes effect after enhancement is activated"
+		},
+		{
+			"id": 320104,
+			"chars": "Activating"
+		},
+		{
+			"id": 320105,
+			"chars": "Leaderboard"
+		},
+		{
+			"id": 320106,
+			"chars": "Friend Leaderboard"
+		},
+		{
+			"id": 320107,
+			"chars": "Platoon Leaderboard"
+		},
+		{
+			"id": 320108,
+			"chars": "Leaderboard will update after some time"
+		},
+		{
+			"id": 320109,
+			"chars": "Leaderboard is empty"
+		},
+		{
+			"id": 320110,
+			"chars": "Not Ranked"
+		},
+		{
+			"id": 320111,
+			"chars": "Tag commonly-used character"
+		},
+		{
+			"id": 320112,
+			"chars": "Tag(s) cleared"
 		},
 		{
 			"id": 340001,
@@ -21133,6 +21917,10 @@
 			"chars": "Quick Join"
 		},
 		{
+			"id": 390300,
+			"chars": "Please join a platoon first"
+		},
+		{
 			"id": 391001,
 			"chars": "Friend List"
 		},
@@ -21790,11 +22578,11 @@
 		},
 		{
 			"id": 394034,
-			"chars": "Special Access Route"
+			"chars": "Special Route"
 		},
 		{
 			"id": 394035,
-			"chars": "You can obtain the [Journey Protection Self-Select Gift Box] by unlocking the route and raising Voyage Log Level to 19.\nRaising your Voyage Log Level grants the following rewards:"
+			"chars": "You can obtain the [Journey Guardian Custom Gift Box] by unlocking the Special Route and raising Voyage Log Level to 19.\nRaising your Voyage Log Level grants the following rewards:"
 		},
 		{
 			"id": 394036,
@@ -21850,7 +22638,7 @@
 		},
 		{
 			"id": 394049,
-			"chars": "Special permit route not yet unlocked"
+			"chars": "Special Route not yet unlocked"
 		},
 		{
 			"id": 394050,
@@ -21866,7 +22654,7 @@
 		},
 		{
 			"id": 395003,
-			"chars": "Heartfelt Whisper"
+			"chars": "Address Message"
 		},
 		{
 			"id": 395004,
@@ -21971,6 +22759,290 @@
 		{
 			"id": 396001,
 			"chars": "Image Enhancement"
+		},
+		{
+			"id": 396002,
+			"chars": "Regular Commission"
+		},
+		{
+			"id": 396003,
+			"chars": "Expansion Drill"
+		},
+		{
+			"id": 396004,
+			"chars": "{0}/{1}"
+		},
+		{
+			"id": 396005,
+			"chars": "Expansion Drill"
+		},
+		{
+			"id": 396006,
+			"chars": "Rewards for current Drill"
+		},
+		{
+			"id": 396007,
+			"chars": "Frenzy Drill Reward"
+		},
+		{
+			"id": 396008,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396009,
+			"chars": "Boss Battle"
+		},
+		{
+			"id": 396010,
+			"chars": "Attempts:"
+		},
+		{
+			"id": 396011,
+			"chars": "Standard Battle"
+		},
+		{
+			"id": 396012,
+			"chars": "Current Layer"
+		},
+		{
+			"id": 396013,
+			"chars": "Highest Grade"
+		},
+		{
+			"id": 396014,
+			"chars": "High Score"
+		},
+		{
+			"id": 396015,
+			"chars": "Combat Authorizations"
+		},
+		{
+			"id": 396016,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396017,
+			"chars": "Peak Value Assessment"
+		},
+		{
+			"id": 396018,
+			"chars": "Rewards:"
+		},
+		{
+			"id": 396019,
+			"chars": "Current Progress"
+		},
+		{
+			"id": 396020,
+			"chars": "Rewards"
+		},
+		{
+			"id": 396021,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396022,
+			"chars": "Military Simulation"
+		},
+		{
+			"id": 396023,
+			"chars": "Rewards:"
+		},
+		{
+			"id": 396024,
+			"chars": "Your Rank"
+		},
+		{
+			"id": 396025,
+			"chars": "Times Participated"
+		},
+		{
+			"id": 396026,
+			"chars": "Rewards"
+		},
+		{
+			"id": 396027,
+			"chars": "Simulation Access Pass"
+		},
+		{
+			"id": 396028,
+			"chars": "Previous Data"
+		},
+		{
+			"id": 396029,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396030,
+			"chars": "Challenge has ended"
+		},
+		{
+			"id": 396031,
+			"chars": "Gunsmoke Frontline"
+		},
+		{
+			"id": 396032,
+			"chars": "Frontline Supplies:"
+		},
+		{
+			"id": 396033,
+			"chars": "Frontline Supplies"
+		},
+		{
+			"id": 396034,
+			"chars": "Personal Performance"
+		},
+		{
+			"id": 396035,
+			"chars": "Personal Supplies"
+		},
+		{
+			"id": 396036,
+			"chars": "Platoon Performance"
+		},
+		{
+			"id": 396037,
+			"chars": "Platoon Supplies"
+		},
+		{
+			"id": 396038,
+			"chars": "Participation Chance"
+		},
+		{
+			"id": 396039,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396040,
+			"chars": "Off-Season"
+		},
+		{
+			"id": 396041,
+			"chars": "Boundary Push"
+		},
+		{
+			"id": 396042,
+			"chars": "Rewards:"
+		},
+		{
+			"id": 396043,
+			"chars": "Crystal Collection"
+		},
+		{
+			"id": 396044,
+			"chars": "Bounties"
+		},
+		{
+			"id": 396045,
+			"chars": "Proceed"
+		},
+		{
+			"id": 396046,
+			"chars": "Boundary Push"
+		},
+		{
+			"id": 396047,
+			"chars": "Rewards:"
+		},
+		{
+			"id": 396048,
+			"chars": "Reward Progress-{0}"
+		},
+		{
+			"id": 396049,
+			"chars": "Bounties"
+		},
+		{
+			"id": 396050,
+			"chars": "Proceed"
+		},
+		{
+			"id": 397001,
+			"chars": "Target Practice"
+		},
+		{
+			"id": 397002,
+			"chars": "Open Everyday"
+		},
+		{
+			"id": 397003,
+			"chars": "Set Weakness"
+		},
+		{
+			"id": 397004,
+			"chars": "Set Skill"
+		},
+		{
+			"id": 397005,
+			"chars": "Boss Name"
+		},
+		{
+			"id": 397006,
+			"chars": "Weakness Challenge Records"
+		},
+		{
+			"id": 397007,
+			"chars": "Highest Grade"
+		},
+		{
+			"id": 397008,
+			"chars": "Highest Score"
+		},
+		{
+			"id": 397009,
+			"chars": "Leaderboard"
+		},
+		{
+			"id": 397010,
+			"chars": "Challenge"
+		},
+		{
+			"id": 397011,
+			"chars": "Stage Objective"
+		},
+		{
+			"id": 397012,
+			"chars": "Stage Ranking"
+		},
+		{
+			"id": 397013,
+			"chars": "Leaderboard will update after some time"
+		},
+		{
+			"id": 397014,
+			"chars": "{0} Weakness Leaderboard"
+		},
+		{
+			"id": 397015,
+			"chars": "No Data"
+		},
+		{
+			"id": 397016,
+			"chars": "Not Ranked"
+		},
+		{
+			"id": 397017,
+			"chars": "Highest Score"
+		},
+		{
+			"id": 397018,
+			"chars": "Normal"
+		},
+		{
+			"id": 397019,
+			"chars": "Basic"
+		},
+		{
+			"id": 397020,
+			"chars": "Rookie"
+		},
+		{
+			"id": 397021,
+			"chars": "Veteran"
+		},
+		{
+			"id": 397022,
+			"chars": "Elite"
 		},
 		{
 			"id": 400001,
@@ -24341,12 +25413,20 @@
 			"chars": "<size=22><b>[Access Details]</b></size> <color=#32434a><b>Self-Custom Procurement - Weapon</b> is a limited-time weapon access event.</color> <color=#f26c1c>※ During the event, the limited Elite Weapons \"Rectrix\", \"Unspoken Calling\", \"Löwenjunges\", \"Eulogistic Verse\", and \"Juggernaut\" will be made available exclusively through the [Custom Procurement - Weapon] event. After the event ends, these Elite Weapons will not be added to [Standard Procurement].</color>\n\n- Elite Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining an Elite Weapon is <color=#EDA51C>{0}{1}{2}</color>, with a total drop rate (including guaranteed accesses) of <color=#EDA51C>{3}</color> for Elite Weapons.\n\n- Standard Doll and Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining a standard weapon is <color=#AC65E8>{4}{5}{6}</color>, with a total drop rate (including guaranteed accesses) of <color=#AC65E8>{7}</color> for standard weapons.\n\n- Detailed Rules\n1. In this banner, every 10 accesses guarantees either a standard or Elite Weapon.\n2. In this banner, if you do not obtain an Elite Weapon within 50 consecutive accesses, the drop rate of obtaining an Elite Weapon will increase, and every 70 accesses guarantees an Elite Weapon. Once an Elite Weapon is obtained at any time, the count resets, and the drop rate of obtaining an Elite Weapon returns to the base rate. If the Elite Weapon obtained is not the featured Elite Weapon, the next guaranteed Elite Weapon will be the featured Elite Weapon.\n3. The guarantee count for this banner does not carry over and is independent of other banners.\n4. In this banner, each time you obtain a Retired Weapon, you will receive 2 Withdrawal Receipts. Each time you obtain a standard doll or weapon, you will receive 12 Redundant Pieces. Each time you obtain an Elite Doll or Weapon, you will receive 60 Redundant Pieces.\n\"<size=22><b>【访问说明】</b></size>"
 		},
 		{
+			"id": 440043,
+			"chars": "<size=22><b>[Access Details]</b></size>\n<color=#32434a><b>Custom Procurement - Doll</b> is a limited-time Doll recruitment event</color>.\n<color=#f26c1c>※ During the event, the limited Elite Dolls \"Daiyan\" and \"Ullrid\" will be exclusively available from the [Custom Procurement - Doll] event. After the event, the Elite Dolls \"Daiyan\" and \"Ullrid,\" will not be available in [Standard Procurement].</color>\n\n- Elite Doll Probability Details:\nIn this access type, the base probability of obtaining an Elite Doll is <color=#EDA51C>{0}{1}{2}</color>, and the total probability of obtaining an Elite Doll (including guarantee) is <color=#EDA51C>{3}</color>.\n\n- Standard Doll and Weapon Probability Details:\nIn this access type, the base probability of obtaining a Standard Doll or Weapon is <color=#AC65E8>{4}</color>, the base probability of obtaining a Standard Doll is <color=#AC65E8>{5}</color>, the base probability of obtaining a Standard Weapon is <color=#AC65E8>{6}</color>, and the total probability of obtaining a Standard Doll or Weapon (including guarantee) is <color=#AC65E8>{7}</color>.\n\n- Detailed Access Rules\n1. In this access type, every 10 accesses guarantees a Standard Doll, Weapon, or Elite Doll.\n2. In this access type, if an Elite Doll is not obtained within 58 consecutive accesses, the probability of obtaining an Elite Doll increases with each subsequent access. After 80 accesses, an Elite Doll is guaranteed. Once an Elite Doll is obtained, the count is reset, and the probability of obtaining an Elite Doll returns to the base rate. If the Elite Doll obtained is not the featured Elite Doll of the current event, the next Elite Doll obtained will be the featured Elite Doll of the current event.\n3. The guarantee counter for this access type does not accumulate and is independent of other access types, having no mutual effect.\n4. In this access type, each time a retired weapon is obtained, you will receive 2 Withdrawal Receipts; each time a Standard Doll or Weapon is obtained, you will receive 12 Redundant Pieces; each time an Elite Doll or Weapon is obtained, you will receive 60 Redundant Pieces.\n\n- Duplicate Doll Conversion Rules\nRegardless of how a duplicate Doll is obtained (including but not limited to access, exchange, event, etc.), the following conversion rules will apply:\n1) When a duplicate Standard Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 18 Redundant Pieces.\n2) When a duplicate Elite Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 90 Redundant Pieces."
+		},
+		{
+			"id": 440044,
+			"chars": "<size=22><b>[Access Details]</b></size> <color=#32434a><b>Self-Custom Procurement - Weapon</b> is a limited-time weapon access event.</color> <color=#f26c1c>※ During the event, the limited Elite Weapons \"Heavy Strings\" and \"Rectrix\" will be made available exclusively through the [Custom Procurement - Weapon] event. After the event ends, the Elite Weapons \"Heavy Strings\" and \"Rectrix\" will not be added to [Standard Procurement].</color>\n\n- Elite Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining an Elite Weapon is <color=#EDA51C>{0}{1}{2}</color>, with a total drop rate (including guaranteed accesses) of <color=#EDA51C>{3}</color> for Elite Weapons.\n\n- Standard Doll and Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining a standard weapon is <color=#AC65E8>{4}{5}{6}</color>, with a total drop rate (including guaranteed accesses) of <color=#AC65E8>{7}</color> for standard weapons.\n\n- Detailed Rules\n1. In this banner, every 10 accesses guarantees either a standard or Elite Weapon.\n2. In this banner, if you do not obtain an Elite Weapon within 50 consecutive accesses, the drop rate of obtaining an Elite Weapon will increase, and every 70 accesses guarantees an Elite Weapon. Once an Elite Weapon is obtained at any time, the count resets, and the drop rate of obtaining an Elite Weapon returns to the base rate. If the Elite Weapon obtained is not the featured Elite Weapon, the next guaranteed Elite Weapon will be the featured Elite Weapon.\n3. The guarantee count for this banner does not carry over and is independent of other banners.\n4. In this banner, each time you obtain a Retired Weapon, you will receive 2 Withdrawal Receipts. Each time you obtain a standard doll or weapon, you will receive 12 Redundant Pieces. Each time you obtain an Elite Doll or Weapon, you will receive 60 Redundant Pieces."
+		},
+		{
 			"id": 450001,
 			"chars": "Hot New Products"
 		},
 		{
 			"id": 450002,
-			"chars": "Premium Recommendations"
+			"chars": "Premium Selections"
 		},
 		{
 			"id": 450003,
@@ -24474,15 +25554,47 @@
 		},
 		{
 			"id": 450034,
-			"chars": "Monthly Purchase Limit {0}"
+			"chars": "Monthly Limit {0}"
 		},
 		{
 			"id": 450035,
-			"chars": "Weekly Purchase Limit {0}"
+			"chars": "Weekly Limit {0}"
 		},
 		{
 			"id": 450036,
-			"chars": "Daily Purchase Limit {0}"
+			"chars": "Daily Limit {0}"
+		},
+		{
+			"id": 450037,
+			"chars": "This item is part of <color={0}>{1}</color>. Proceed to check <color=#f26c1c>more merchandise</color>?"
+		},
+		{
+			"id": 450038,
+			"chars": "View"
+		},
+		{
+			"id": 450039,
+			"chars": "Continue"
+		},
+		{
+			"id": 450040,
+			"chars": "Check"
+		},
+		{
+			"id": 450041,
+			"chars": "<color=#f0af14>{0} days</color> left"
+		},
+		{
+			"id": 450042,
+			"chars": "Ends in <color=#f0af14>{0}</color>"
+		},
+		{
+			"id": 450043,
+			"chars": "Current progress: {0}/{1}"
+		},
+		{
+			"id": 450044,
+			"chars": "Accumulated to date"
 		},
 		{
 			"id": 460001,
@@ -24659,6 +25771,14 @@
 		{
 			"id": 470021,
 			"chars": "Elite Doll - Faye"
+		},
+		{
+			"id": 470022,
+			"chars": "Outfit - Silent Heart"
+		},
+		{
+			"id": 470023,
+			"chars": "<color=#67cae7>Collect {0} Love Injector(s) to obtain</color>"
 		},
 		{
 			"id": 480001,
@@ -24846,7 +25966,7 @@
 		},
 		{
 			"id": 510001,
-			"chars": "Solo Confession"
+			"chars": "End Simulation"
 		},
 		{
 			"id": 510002,
@@ -24934,11 +26054,163 @@
 		},
 		{
 			"id": 511003,
-			"chars": "Bind your account for the following rewards:"
+			"chars": "Receive the following rewards for binding your account:"
 		},
 		{
 			"id": 511004,
 			"chars": "The reward will be sent by mail"
+		},
+		{
+			"id": 520001,
+			"chars": "Details"
+		},
+		{
+			"id": 520002,
+			"chars": "Accessory Variants"
+		},
+		{
+			"id": 520003,
+			"chars": "Currently available Accessory types:"
+		},
+		{
+			"id": 520004,
+			"chars": "Original"
+		},
+		{
+			"id": 520005,
+			"chars": "Owned"
+		},
+		{
+			"id": 520006,
+			"chars": "Preview"
+		},
+		{
+			"id": 520007,
+			"chars": "Equip Part"
+		},
+		{
+			"id": 520008,
+			"chars": "Preview"
+		},
+		{
+			"id": 520009,
+			"chars": "Equip Part"
+		},
+		{
+			"id": 520010,
+			"chars": "Not Owned"
+		},
+		{
+			"id": 520011,
+			"chars": "Current"
+		},
+		{
+			"id": 520012,
+			"chars": "Buy Parts"
+		},
+		{
+			"id": 520013,
+			"chars": "Equipped"
+		},
+		{
+			"id": 520014,
+			"chars": "Preview"
+		},
+		{
+			"id": 520015,
+			"chars": "Buy Parts"
+		},
+		{
+			"id": 520016,
+			"chars": "Save Set"
+		},
+		{
+			"id": 520017,
+			"chars": "Buy & Save"
+		},
+		{
+			"id": 520018,
+			"chars": "Parts Checklist"
+		},
+		{
+			"id": 520019,
+			"chars": "Buy"
+		},
+		{
+			"id": 520020,
+			"chars": "Owned"
+		},
+		{
+			"id": 520021,
+			"chars": "Owned Accessories"
+		},
+		{
+			"id": 520022,
+			"chars": "Confirm"
+		},
+		{
+			"id": 520023,
+			"chars": "Notice"
+		},
+		{
+			"id": 520024,
+			"chars": "Outfit <color={0}>{1}</color> not owned. This accessory <color=#F26C1C>cannot be equipped</color>. Continue anyway?"
+		},
+		{
+			"id": 520025,
+			"chars": "Don't show this again today"
+		},
+		{
+			"id": 520026,
+			"chars": "Cancel"
+		},
+		{
+			"id": 520027,
+			"chars": "Confirm"
+		},
+		{
+			"id": 520028,
+			"chars": "Confirm Purchase"
+		},
+		{
+			"id": 520029,
+			"chars": "Purchase accessory <color={0}>{1}</color>?\nCan be equipped when using the outfit <color={2}>{3}</color>"
+		},
+		{
+			"id": 520030,
+			"chars": "Cancel"
+		},
+		{
+			"id": 520031,
+			"chars": "Confirm"
+		},
+		{
+			"id": 520032,
+			"chars": "Acquired: {0}"
+		},
+		{
+			"id": 520033,
+			"chars": "Save Successful"
+		},
+		{
+			"id": 520034,
+			"chars": "Notice"
+		},
+		{
+			"id": 520035,
+			"chars": "Accessory Loadout not saved. Leave anyway?"
+		},
+		{
+			"id": 520036,
+			"chars": "Cancel"
+		},
+		{
+			"id": 520037,
+			"chars": "Confirm"
+		},
+		{
+			"id": 520038,
+			"chars": "Canno tbe currently acquired"
 		},
 		{
 			"id": 600001,
@@ -24974,7 +26246,7 @@
 		},
 		{
 			"id": 600009,
-			"chars": "You are not logged in to your Steam account. Please launch the game from Steam after logging in to your Steam account."
+			"chars": "You are not logged into your Steam account. Please try to sign in again and restart the game through Steam."
 		},
 		{
 			"id": 600010,
@@ -24982,7 +26254,7 @@
 		},
 		{
 			"id": 600011,
-			"chars": "Purchase Failed!"
+			"chars": "Purchase failed!"
 		},
 		{
 			"id": 600012,
@@ -24997,16 +26269,436 @@
 			"chars": "Story"
 		},
 		{
+			"id": 620001,
+			"chars": "Formation Overview"
+		},
+		{
+			"id": 620002,
+			"chars": "Edit Name"
+		},
+		{
+			"id": 620003,
+			"chars": "Please enter a name"
+		},
+		{
+			"id": 620004,
+			"chars": "Edit successful"
+		},
+		{
+			"id": 620005,
+			"chars": "Use Refitting Room settings"
+		},
+		{
+			"id": 620006,
+			"chars": "Currently using Refitting Room settings"
+		},
+		{
+			"id": 620007,
+			"chars": "The current settings will be discarded and the Refitting Room settings will be used instead. Do you wish to proceed?"
+		},
+		{
+			"id": 620008,
+			"chars": "Currently using Refitting Room settings"
+		},
+		{
+			"id": 620009,
+			"chars": "Select Dolls"
+		},
+		{
+			"id": 620010,
+			"chars": "Save Preset"
+		},
+		{
+			"id": 620011,
+			"chars": "You can still add more Dolls, do you wish to save this preset?"
+		},
+		{
+			"id": 620012,
+			"chars": "Preset Saved"
+		},
+		{
+			"id": 620013,
+			"chars": "Save current preset？"
+		},
+		{
+			"id": 620014,
+			"chars": "Select Dolls"
+		},
+		{
+			"id": 620015,
+			"chars": "Dolls will use their settings from the Refitting Room when placed in a formation preset"
+		},
+		{
+			"id": 620016,
+			"chars": "Confirm"
+		},
+		{
+			"id": 620017,
+			"chars": "There is a conflict between the Refitting Room and current Formation settings. The default settings will be used. Do you wish to continue?"
+		},
+		{
+			"id": 620018,
+			"chars": "Already Equipped"
+		},
+		{
+			"id": 620019,
+			"chars": "Equipped"
+		},
+		{
+			"id": 620020,
+			"chars": "Replace"
+		},
+		{
+			"id": 620021,
+			"chars": "Replacement Successful"
+		},
+		{
+			"id": 620022,
+			"chars": "No attachments"
+		},
+		{
+			"id": 620023,
+			"chars": "No information"
+		},
+		{
+			"id": 620024,
+			"chars": "Equipped"
+		},
+		{
+			"id": 620025,
+			"chars": "Remove all"
+		},
+		{
+			"id": 620026,
+			"chars": "Added"
+		},
+		{
+			"id": 620027,
+			"chars": "Removed"
+		},
+		{
+			"id": 620028,
+			"chars": "Replaced"
+		},
+		{
+			"id": 620029,
+			"chars": "Equipped"
+		},
+		{
+			"id": 620030,
+			"chars": "Removed"
+		},
+		{
+			"id": 620031,
+			"chars": "Replaced"
+		},
+		{
+			"id": 620032,
+			"chars": "Refitting Room Settings"
+		},
+		{
+			"id": 620033,
+			"chars": "No Dolls Available"
+		},
+		{
+			"id": 620034,
+			"chars": "Edit"
+		},
+		{
+			"id": 620035,
+			"chars": "A Doll is currently being edited. Do you wish to proceed?"
+		},
+		{
+			"id": 620036,
+			"chars": "Edit cancelled"
+		},
+		{
+			"id": 620037,
+			"chars": "Sync"
+		},
+		{
+			"id": 620038,
+			"chars": "All edits made will be reverted. Do you wish to proceed?"
+		},
+		{
+			"id": 620039,
+			"chars": "Edits reverted"
+		},
+		{
+			"id": 620040,
+			"chars": "Preset Synced"
+		},
+		{
+			"id": 620041,
+			"chars": "Assign Weapon"
+		},
+		{
+			"id": 620042,
+			"chars": "Assign Accessories"
+		},
+		{
+			"id": 620043,
+			"chars": "Assign Fixed Key"
+		},
+		{
+			"id": 620044,
+			"chars": "Assign Common Key"
+		},
+		{
+			"id": 620045,
+			"chars": "Assign Expansion Key"
+		},
+		{
+			"id": 620046,
+			"chars": "Mount"
+		},
+		{
+			"id": 620047,
+			"chars": "Remove"
+		},
+		{
+			"id": 620048,
+			"chars": "Swap"
+		},
+		{
+			"id": 620049,
+			"chars": "Equip"
+		},
+		{
+			"id": 620050,
+			"chars": "Remove"
+		},
+		{
+			"id": 620051,
+			"chars": "Replace"
+		},
+		{
+			"id": 620052,
+			"chars": "Preset {0}"
+		},
+		{
+			"id": 620053,
+			"chars": "There is a conflict between the Refitting Room settings for <color=#F26C1C>{0}</color> and the current preset. Conflicting weapons and Fixed Keys will be removed."
+		},
+		{
+			"id": 620054,
+			"chars": "No Exclusive Keys"
+		},
+		{
+			"id": 620055,
+			"chars": "No Fixed Keys"
+		},
+		{
+			"id": 620056,
+			"chars": "No Common Keys"
+		},
+		{
+			"id": 620057,
+			"chars": "Formation"
+		},
+		{
+			"id": 620058,
+			"chars": "Formation"
+		},
+		{
+			"id": 620059,
+			"chars": "Friends"
+		},
+		{
+			"id": 620060,
+			"chars": "Note"
+		},
+		{
+			"id": 620061,
+			"chars": "<color=#F26C1C>Formation {0}</color>"
+		},
+		{
+			"id": 620062,
+			"chars": "<color=#F26C1C>Refitting Room</color>"
+		},
+		{
+			"id": 630001,
+			"chars": "Curio Display"
+		},
+		{
+			"id": 630002,
+			"chars": "Recollection Score"
+		},
+		{
+			"id": 630003,
+			"chars": "Curio Gallery"
+		},
+		{
+			"id": 630004,
+			"chars": "Curio Storage"
+		},
+		{
+			"id": 630005,
+			"chars": "Edit Display"
+		},
+		{
+			"id": 630006,
+			"chars": "1-Click Clear"
+		},
+		{
+			"id": 630007,
+			"chars": "1-Click Arrange"
+		},
+		{
+			"id": 630008,
+			"chars": "Save"
+		},
+		{
+			"id": 630009,
+			"chars": "Curios"
+		},
+		{
+			"id": 630010,
+			"chars": "Background"
+		},
+		{
+			"id": 630011,
+			"chars": "Rarity"
+		},
+		{
+			"id": 630012,
+			"chars": "All Types"
+		},
+		{
+			"id": 630013,
+			"chars": "Doll Model"
+		},
+		{
+			"id": 630014,
+			"chars": "Monster Model"
+		},
+		{
+			"id": 630015,
+			"chars": "Please drag the desired Curio to edit the layout"
+		},
+		{
+			"id": 630016,
+			"chars": "Do you wish to clear all placed Curios?"
+		},
+		{
+			"id": 630017,
+			"chars": "This will place all Curios with one click and the current layout will change. Do you wish to proceed?"
+		},
+		{
+			"id": 630018,
+			"chars": "Save successful"
+		},
+		{
+			"id": 630019,
+			"chars": "Changes made have not been saved, do you wish to save?"
+		},
+		{
+			"id": 630020,
+			"chars": "Check"
+		},
+		{
+			"id": 630021,
+			"chars": "Retrieve All"
+		},
+		{
+			"id": 630022,
+			"chars": "Place"
+		},
+		{
+			"id": 630023,
+			"chars": "No Room To Place"
+		},
+		{
+			"id": 630024,
+			"chars": "Settings"
+		},
+		{
+			"id": 630025,
+			"chars": "Current Settings"
+		},
+		{
+			"id": 630026,
+			"chars": "Settings Successful"
+		},
+		{
+			"id": 630027,
+			"chars": "New"
+		},
+		{
+			"id": 630028,
+			"chars": "No Curios"
+		},
+		{
+			"id": 630029,
+			"chars": "Overall Recollection Score"
+		},
+		{
+			"id": 630030,
+			"chars": "Until next reward"
+		},
+		{
+			"id": 630031,
+			"chars": "Overall Recollection Score at maximum"
+		},
+		{
+			"id": 630032,
+			"chars": "Obtained after reaching {0} Overall Recollection Score"
+		},
+		{
+			"id": 630033,
+			"chars": "My position"
+		},
+		{
+			"id": 630034,
+			"chars": "Claim All"
+		},
+		{
+			"id": 630035,
+			"chars": "Curio Gallery"
+		},
+		{
+			"id": 630036,
+			"chars": "Curio Gallery"
+		},
+		{
+			"id": 630037,
+			"chars": "Owned"
+		},
+		{
+			"id": 630038,
+			"chars": "Recollection Score"
+		},
+		{
+			"id": 630039,
+			"chars": "How to obtain"
+		},
+		{
+			"id": 630040,
+			"chars": "Curio Explanation"
+		},
+		{
+			"id": 630041,
+			"chars": "Curio Unlock Progress: <color=#efefef>{0}</color>/<color=#aaaaaa>{1}</color>"
+		},
+		{
+			"id": 630042,
+			"chars": "Locked"
+		},
+		{
+			"id": 630043,
+			"chars": "This account has not unlocked the Curio Display"
+		},
+		{
 			"id": 700000,
-			"chars": "Multiple events, plenty of rewards"
+			"chars": "Gift Gathering"
 		},
 		{
 			"id": 700001,
-			"chars": "Login to receive <color=#f36764>40 pulls</color>"
+			"chars": "Log in to receive <color=#f36764>40 pulls</color>"
 		},
 		{
 			"id": 700002,
-			"chars": "Obtain [Outfit - Speed Star] for free"
+			"chars": "Patricipate in the event to receive <color=#f36764>Speed Star</color> for free"
 		},
 		{
 			"id": 700003,
@@ -25018,11 +26710,11 @@
 		},
 		{
 			"id": 700005,
-			"chars": "Mayling's Thanks"
+			"chars": "Mayling's Gift of Gratitude"
 		},
 		{
 			"id": 700006,
-			"chars": "Obtain by logging in during the event"
+			"chars": "Login to receive"
 		},
 		{
 			"id": 700007,
@@ -25034,7 +26726,7 @@
 		},
 		{
 			"id": 700009,
-			"chars": "Obtain through Login Event"
+			"chars": "Login to receive"
 		},
 		{
 			"id": 700010,
@@ -25042,35 +26734,35 @@
 		},
 		{
 			"id": 700011,
-			"chars": "Obtain by completing event missions"
+			"chars": "Complete Missions To Obtain"
 		},
 		{
 			"id": 700012,
-			"chars": "Klukai limited skin"
+			"chars": "Klukai's Speed Star Outfit"
 		},
 		{
 			"id": 700013,
-			"chars": "Obtain"
+			"chars": "Proceed to Acquire"
 		},
 		{
 			"id": 700014,
-			"chars": "Dawnbreaker"
+			"chars": "Battle Preparation"
 		},
 		{
 			"id": 700015,
-			"chars": "Obtain through cumulative logins"
+			"chars": "Cumulative Logins"
 		},
 		{
 			"id": 700016,
-			"chars": "Daydreamer"
+			"chars": "Seasons Effervescent"
 		},
 		{
 			"id": 700017,
-			"chars": "Obtain through Login Event"
+			"chars": "Cumulative Logins"
 		},
 		{
 			"id": 700018,
-			"chars": "6000+"
+			"chars": "7000+"
 		},
 		{
 			"id": 700019,
@@ -25078,7 +26770,7 @@
 		},
 		{
 			"id": 700020,
-			"chars": "22"
+			"chars": "6"
 		},
 		{
 			"id": 900001,
@@ -26638,11 +28330,11 @@
 		},
 		{
 			"id": 903218,
-			"chars": "Daily Purchase Limit: {0}/{1}"
+			"chars": "Daily Limit: {0}/{1}"
 		},
 		{
 			"id": 903219,
-			"chars": "Weekly Purchase Limit: {0}/{1}"
+			"chars": "Weekly Limit: {0}/{1}"
 		},
 		{
 			"id": 903220,
@@ -28742,7 +30434,7 @@
 		},
 		{
 			"id": 1270000,
-			"chars": "Environmental Survey"
+			"chars": "Pathforger"
 		},
 		{
 			"id": 1270001,
@@ -28925,8 +30617,12 @@
 			"chars": "Unlocked after collecting {0} cakes"
 		},
 		{
+			"id": 3210034,
+			"chars": "Not in a platoon"
+		},
+		{
 			"id": 3220001,
-			"chars": "Highest Historical Score"
+			"chars": "Highest Score"
 		},
 		{
 			"id": 3220002,
@@ -28975,6 +30671,10 @@
 		{
 			"id": 3220013,
 			"chars": "To the right"
+		},
+		{
+			"id": 3220014,
+			"chars": "Attack"
 		},
 		{
 			"id": 3300001,

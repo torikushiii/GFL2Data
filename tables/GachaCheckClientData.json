@@ -3977,6 +3977,118 @@
 			"specialShow": 0
 		},
 		{
+			"id": 71001001,
+			"poolId": 71001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 71001002,
+			"poolId": 71001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 71001003,
+			"poolId": 71001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 71001004,
+			"poolId": 71001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 71001005,
+			"poolId": 71001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 71001006,
+			"poolId": 71001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 71001007,
+			"poolId": 71001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 71001008,
+			"poolId": 71001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 72001001,
+			"poolId": 72001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 72001002,
+			"poolId": 72001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 72001003,
+			"poolId": 72001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 72001004,
+			"poolId": 72001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 72001005,
+			"poolId": 72001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 72001006,
+			"poolId": 72001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 72001007,
+			"poolId": 72001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 72001008,
+			"poolId": 72001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
 			"id": 73001001,
 			"poolId": 73001,
 			"gachaType": 1,
@@ -4196,6 +4308,678 @@
 		{
 			"id": 76001008,
 			"poolId": 76001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 77001001,
+			"poolId": 77001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 77001002,
+			"poolId": 77001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 77001003,
+			"poolId": 77001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 77001004,
+			"poolId": 77001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 77001005,
+			"poolId": 77001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 77001006,
+			"poolId": 77001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 77001007,
+			"poolId": 77001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 77001008,
+			"poolId": 77001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 78001001,
+			"poolId": 78001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 78001002,
+			"poolId": 78001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 78001003,
+			"poolId": 78001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 78001004,
+			"poolId": 78001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 78001005,
+			"poolId": 78001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 78001006,
+			"poolId": 78001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 78001007,
+			"poolId": 78001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 78001008,
+			"poolId": 78001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 79001001,
+			"poolId": 79001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 79001002,
+			"poolId": 79001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 79001003,
+			"poolId": 79001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 79001004,
+			"poolId": 79001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 79001005,
+			"poolId": 79001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 79001006,
+			"poolId": 79001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 79001007,
+			"poolId": 79001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 79001008,
+			"poolId": 79001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 80001001,
+			"poolId": 80001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 80001002,
+			"poolId": 80001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 80001003,
+			"poolId": 80001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 80001004,
+			"poolId": 80001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 80001005,
+			"poolId": 80001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 80001006,
+			"poolId": 80001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 80001007,
+			"poolId": 80001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 80001008,
+			"poolId": 80001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 81001001,
+			"poolId": 81001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 81001002,
+			"poolId": 81001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 81001003,
+			"poolId": 81001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 81001004,
+			"poolId": 81001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 81001005,
+			"poolId": 81001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 81001006,
+			"poolId": 81001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 81001007,
+			"poolId": 81001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 81001008,
+			"poolId": 81001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 82001001,
+			"poolId": 82001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 82001002,
+			"poolId": 82001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 82001003,
+			"poolId": 82001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 82001004,
+			"poolId": 82001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 82001005,
+			"poolId": 82001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 82001006,
+			"poolId": 82001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 82001007,
+			"poolId": 82001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 82001008,
+			"poolId": 82001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 83001001,
+			"poolId": 83001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 83001002,
+			"poolId": 83001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 83001003,
+			"poolId": 83001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 83001004,
+			"poolId": 83001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 83001005,
+			"poolId": 83001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 83001006,
+			"poolId": 83001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 83001007,
+			"poolId": 83001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 83001008,
+			"poolId": 83001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 84001001,
+			"poolId": 84001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 84001002,
+			"poolId": 84001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 84001003,
+			"poolId": 84001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 84001004,
+			"poolId": 84001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 84001005,
+			"poolId": 84001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 84001006,
+			"poolId": 84001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 84001007,
+			"poolId": 84001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 84001008,
+			"poolId": 84001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 85001001,
+			"poolId": 85001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 85001002,
+			"poolId": 85001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 85001003,
+			"poolId": 85001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 85001004,
+			"poolId": 85001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 85001005,
+			"poolId": 85001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 85001006,
+			"poolId": 85001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 85001007,
+			"poolId": 85001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 85001008,
+			"poolId": 85001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 86001001,
+			"poolId": 86001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 86001002,
+			"poolId": 86001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 86001003,
+			"poolId": 86001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 86001004,
+			"poolId": 86001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 86001005,
+			"poolId": 86001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 86001006,
+			"poolId": 86001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 86001007,
+			"poolId": 86001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 86001008,
+			"poolId": 86001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 87001001,
+			"poolId": 87001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 87001002,
+			"poolId": 87001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 87001003,
+			"poolId": 87001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 87001004,
+			"poolId": 87001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 87001005,
+			"poolId": 87001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 87001006,
+			"poolId": 87001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 87001007,
+			"poolId": 87001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 87001008,
+			"poolId": 87001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 88001001,
+			"poolId": 88001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 88001002,
+			"poolId": 88001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 88001003,
+			"poolId": 88001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 88001004,
+			"poolId": 88001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 88001005,
+			"poolId": 88001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 88001006,
+			"poolId": 88001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 88001007,
+			"poolId": 88001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 88001008,
+			"poolId": 88001,
 			"gachaType": 8,
 			"poolWeight": 1357,
 			"specialShow": 0
@@ -4481,113 +5265,281 @@
 			"specialShow": 1
 		},
 		{
+			"id": 100001001,
+			"poolId": 100001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 100001002,
+			"poolId": 100001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 100001003,
+			"poolId": 100001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 100001004,
+			"poolId": 100001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 100001005,
+			"poolId": 100001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 100001006,
+			"poolId": 100001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 100001007,
+			"poolId": 100001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 100001008,
+			"poolId": 100001,
+			"gachaType": 8,
+			"poolWeight": 1300,
+			"specialShow": 0
+		},
+		{
+			"id": 101001001,
+			"poolId": 101001,
+			"gachaType": 1,
+			"poolWeight": 70,
+			"specialShow": 0
+		},
+		{
+			"id": 101001002,
+			"poolId": 101001,
+			"gachaType": 2,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 101001003,
+			"poolId": 101001,
+			"gachaType": 3,
+			"poolWeight": 70,
+			"specialShow": 1
+		},
+		{
+			"id": 101001004,
+			"poolId": 101001,
+			"gachaType": 4,
+			"poolWeight": 218,
+			"specialShow": 0
+		},
+		{
+			"id": 101001005,
+			"poolId": 101001,
+			"gachaType": 5,
+			"poolWeight": 700,
+			"specialShow": 0
+		},
+		{
+			"id": 101001006,
+			"poolId": 101001,
+			"gachaType": 6,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 101001007,
+			"poolId": 101001,
+			"gachaType": 7,
+			"poolWeight": 700,
+			"specialShow": 1
+		},
+		{
+			"id": 101001008,
+			"poolId": 101001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
 			"id": 102001001,
 			"poolId": 102001,
 			"gachaType": 1,
-			"poolWeight": 70,
+			"poolWeight": 60,
 			"specialShow": 0
 		},
 		{
 			"id": 102001002,
 			"poolId": 102001,
 			"gachaType": 2,
-			"specialShow": 1,
-			"poolWeight": 0
+			"poolWeight": 60,
+			"specialShow": 1
 		},
 		{
 			"id": 102001003,
 			"poolId": 102001,
 			"gachaType": 3,
-			"poolWeight": 70,
-			"specialShow": 1
+			"specialShow": 1,
+			"poolWeight": 0
 		},
 		{
 			"id": 102001004,
 			"poolId": 102001,
 			"gachaType": 4,
-			"poolWeight": 218,
+			"poolWeight": 189,
 			"specialShow": 0
 		},
 		{
 			"id": 102001005,
 			"poolId": 102001,
 			"gachaType": 5,
-			"poolWeight": 700,
+			"poolWeight": 600,
 			"specialShow": 0
 		},
 		{
 			"id": 102001006,
 			"poolId": 102001,
 			"gachaType": 6,
-			"specialShow": 1,
-			"poolWeight": 0
+			"poolWeight": 300,
+			"specialShow": 0
 		},
 		{
 			"id": 102001007,
 			"poolId": 102001,
 			"gachaType": 7,
-			"poolWeight": 700,
-			"specialShow": 1
+			"poolWeight": 300,
+			"specialShow": 0
 		},
 		{
 			"id": 102001008,
 			"poolId": 102001,
 			"gachaType": 8,
-			"poolWeight": 1357,
+			"poolWeight": 1300,
 			"specialShow": 0
 		},
 		{
 			"id": 103001001,
 			"poolId": 103001,
 			"gachaType": 1,
-			"poolWeight": 60,
+			"poolWeight": 70,
 			"specialShow": 0
 		},
 		{
 			"id": 103001002,
 			"poolId": 103001,
 			"gachaType": 2,
-			"poolWeight": 60,
-			"specialShow": 1
+			"specialShow": 1,
+			"poolWeight": 0
 		},
 		{
 			"id": 103001003,
 			"poolId": 103001,
 			"gachaType": 3,
-			"specialShow": 1,
-			"poolWeight": 0
+			"poolWeight": 70,
+			"specialShow": 1
 		},
 		{
 			"id": 103001004,
 			"poolId": 103001,
 			"gachaType": 4,
-			"poolWeight": 189,
+			"poolWeight": 218,
 			"specialShow": 0
 		},
 		{
 			"id": 103001005,
 			"poolId": 103001,
 			"gachaType": 5,
-			"poolWeight": 600,
+			"poolWeight": 700,
 			"specialShow": 0
 		},
 		{
 			"id": 103001006,
 			"poolId": 103001,
 			"gachaType": 6,
-			"poolWeight": 300,
-			"specialShow": 0
+			"specialShow": 1,
+			"poolWeight": 0
 		},
 		{
 			"id": 103001007,
 			"poolId": 103001,
 			"gachaType": 7,
-			"poolWeight": 300,
-			"specialShow": 0
+			"poolWeight": 700,
+			"specialShow": 1
 		},
 		{
 			"id": 103001008,
 			"poolId": 103001,
+			"gachaType": 8,
+			"poolWeight": 1357,
+			"specialShow": 0
+		},
+		{
+			"id": 104001001,
+			"poolId": 104001,
+			"gachaType": 1,
+			"poolWeight": 60,
+			"specialShow": 0
+		},
+		{
+			"id": 104001002,
+			"poolId": 104001,
+			"gachaType": 2,
+			"poolWeight": 60,
+			"specialShow": 1
+		},
+		{
+			"id": 104001003,
+			"poolId": 104001,
+			"gachaType": 3,
+			"specialShow": 1,
+			"poolWeight": 0
+		},
+		{
+			"id": 104001004,
+			"poolId": 104001,
+			"gachaType": 4,
+			"poolWeight": 189,
+			"specialShow": 0
+		},
+		{
+			"id": 104001005,
+			"poolId": 104001,
+			"gachaType": 5,
+			"poolWeight": 600,
+			"specialShow": 0
+		},
+		{
+			"id": 104001006,
+			"poolId": 104001,
+			"gachaType": 6,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 104001007,
+			"poolId": 104001,
+			"gachaType": 7,
+			"poolWeight": 300,
+			"specialShow": 0
+		},
+		{
+			"id": 104001008,
+			"poolId": 104001,
 			"gachaType": 8,
 			"poolWeight": 1300,
 			"specialShow": 0
@@ -4649,505 +5601,113 @@
 			"specialShow": 0
 		},
 		{
-			"id": 106001001,
-			"poolId": 106001,
+			"id": 190011001,
+			"poolId": 190011,
 			"gachaType": 1,
 			"poolWeight": 60,
 			"specialShow": 0
 		},
 		{
-			"id": 106001002,
-			"poolId": 106001,
+			"id": 190011002,
+			"poolId": 190011,
 			"gachaType": 2,
 			"poolWeight": 60,
 			"specialShow": 1
 		},
 		{
-			"id": 106001003,
-			"poolId": 106001,
+			"id": 190011003,
+			"poolId": 190011,
 			"gachaType": 3,
 			"specialShow": 1,
 			"poolWeight": 0
 		},
 		{
-			"id": 106001004,
-			"poolId": 106001,
+			"id": 190011004,
+			"poolId": 190011,
 			"gachaType": 4,
 			"poolWeight": 189,
 			"specialShow": 0
 		},
 		{
-			"id": 106001005,
-			"poolId": 106001,
+			"id": 190011005,
+			"poolId": 190011,
 			"gachaType": 5,
 			"poolWeight": 600,
 			"specialShow": 0
 		},
 		{
-			"id": 106001006,
-			"poolId": 106001,
+			"id": 190011006,
+			"poolId": 190011,
 			"gachaType": 6,
 			"poolWeight": 300,
 			"specialShow": 0
 		},
 		{
-			"id": 106001007,
-			"poolId": 106001,
+			"id": 190011007,
+			"poolId": 190011,
 			"gachaType": 7,
 			"poolWeight": 300,
 			"specialShow": 0
 		},
 		{
-			"id": 106001008,
-			"poolId": 106001,
+			"id": 190011008,
+			"poolId": 190011,
 			"gachaType": 8,
 			"poolWeight": 1300,
 			"specialShow": 0
 		},
 		{
-			"id": 1019001001,
-			"poolId": 1019001,
-			"gachaType": 1,
-			"poolWeight": 60,
-			"specialShow": 0
-		},
-		{
-			"id": 1019001002,
-			"poolId": 1019001,
-			"gachaType": 2,
-			"poolWeight": 60,
-			"specialShow": 1
-		},
-		{
-			"id": 1019001003,
-			"poolId": 1019001,
-			"gachaType": 3,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1019001004,
-			"poolId": 1019001,
-			"gachaType": 4,
-			"poolWeight": 189,
-			"specialShow": 0
-		},
-		{
-			"id": 1019001005,
-			"poolId": 1019001,
-			"gachaType": 5,
-			"poolWeight": 600,
-			"specialShow": 0
-		},
-		{
-			"id": 1019001006,
-			"poolId": 1019001,
-			"gachaType": 6,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1019001007,
-			"poolId": 1019001,
-			"gachaType": 7,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1019001008,
-			"poolId": 1019001,
-			"gachaType": 8,
-			"poolWeight": 1300,
-			"specialShow": 0
-		},
-		{
-			"id": 1020001001,
-			"poolId": 1020001,
+			"id": 191011001,
+			"poolId": 191011,
 			"gachaType": 1,
 			"poolWeight": 70,
 			"specialShow": 0
 		},
 		{
-			"id": 1020001002,
-			"poolId": 1020001,
+			"id": 191011002,
+			"poolId": 191011,
 			"gachaType": 2,
 			"specialShow": 1,
 			"poolWeight": 0
 		},
 		{
-			"id": 1020001003,
-			"poolId": 1020001,
+			"id": 191011003,
+			"poolId": 191011,
 			"gachaType": 3,
 			"poolWeight": 70,
 			"specialShow": 1
 		},
 		{
-			"id": 1020001004,
-			"poolId": 1020001,
+			"id": 191011004,
+			"poolId": 191011,
 			"gachaType": 4,
 			"poolWeight": 218,
 			"specialShow": 0
 		},
 		{
-			"id": 1020001005,
-			"poolId": 1020001,
+			"id": 191011005,
+			"poolId": 191011,
 			"gachaType": 5,
 			"poolWeight": 700,
 			"specialShow": 0
 		},
 		{
-			"id": 1020001006,
-			"poolId": 1020001,
+			"id": 191011006,
+			"poolId": 191011,
 			"gachaType": 6,
 			"specialShow": 1,
 			"poolWeight": 0
 		},
 		{
-			"id": 1020001007,
-			"poolId": 1020001,
+			"id": 191011007,
+			"poolId": 191011,
 			"gachaType": 7,
 			"poolWeight": 700,
 			"specialShow": 1
 		},
 		{
-			"id": 1020001008,
-			"poolId": 1020001,
-			"gachaType": 8,
-			"poolWeight": 1357,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001001,
-			"poolId": 1023001,
-			"gachaType": 1,
-			"poolWeight": 60,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001002,
-			"poolId": 1023001,
-			"gachaType": 2,
-			"poolWeight": 60,
-			"specialShow": 1
-		},
-		{
-			"id": 1023001003,
-			"poolId": 1023001,
-			"gachaType": 3,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1023001004,
-			"poolId": 1023001,
-			"gachaType": 4,
-			"poolWeight": 189,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001005,
-			"poolId": 1023001,
-			"gachaType": 5,
-			"poolWeight": 600,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001006,
-			"poolId": 1023001,
-			"gachaType": 6,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001007,
-			"poolId": 1023001,
-			"gachaType": 7,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1023001008,
-			"poolId": 1023001,
-			"gachaType": 8,
-			"poolWeight": 1300,
-			"specialShow": 0
-		},
-		{
-			"id": 1024001001,
-			"poolId": 1024001,
-			"gachaType": 1,
-			"poolWeight": 70,
-			"specialShow": 0
-		},
-		{
-			"id": 1024001002,
-			"poolId": 1024001,
-			"gachaType": 2,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1024001003,
-			"poolId": 1024001,
-			"gachaType": 3,
-			"poolWeight": 70,
-			"specialShow": 1
-		},
-		{
-			"id": 1024001004,
-			"poolId": 1024001,
-			"gachaType": 4,
-			"poolWeight": 218,
-			"specialShow": 0
-		},
-		{
-			"id": 1024001005,
-			"poolId": 1024001,
-			"gachaType": 5,
-			"poolWeight": 700,
-			"specialShow": 0
-		},
-		{
-			"id": 1024001006,
-			"poolId": 1024001,
-			"gachaType": 6,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1024001007,
-			"poolId": 1024001,
-			"gachaType": 7,
-			"poolWeight": 700,
-			"specialShow": 1
-		},
-		{
-			"id": 1024001008,
-			"poolId": 1024001,
-			"gachaType": 8,
-			"poolWeight": 1357,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001001,
-			"poolId": 1031001,
-			"gachaType": 1,
-			"poolWeight": 60,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001002,
-			"poolId": 1031001,
-			"gachaType": 2,
-			"poolWeight": 60,
-			"specialShow": 1
-		},
-		{
-			"id": 1031001003,
-			"poolId": 1031001,
-			"gachaType": 3,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1031001004,
-			"poolId": 1031001,
-			"gachaType": 4,
-			"poolWeight": 189,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001005,
-			"poolId": 1031001,
-			"gachaType": 5,
-			"poolWeight": 600,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001006,
-			"poolId": 1031001,
-			"gachaType": 6,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001007,
-			"poolId": 1031001,
-			"gachaType": 7,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1031001008,
-			"poolId": 1031001,
-			"gachaType": 8,
-			"poolWeight": 1300,
-			"specialShow": 0
-		},
-		{
-			"id": 1032001001,
-			"poolId": 1032001,
-			"gachaType": 1,
-			"poolWeight": 70,
-			"specialShow": 0
-		},
-		{
-			"id": 1032001002,
-			"poolId": 1032001,
-			"gachaType": 2,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1032001003,
-			"poolId": 1032001,
-			"gachaType": 3,
-			"poolWeight": 70,
-			"specialShow": 1
-		},
-		{
-			"id": 1032001004,
-			"poolId": 1032001,
-			"gachaType": 4,
-			"poolWeight": 218,
-			"specialShow": 0
-		},
-		{
-			"id": 1032001005,
-			"poolId": 1032001,
-			"gachaType": 5,
-			"poolWeight": 700,
-			"specialShow": 0
-		},
-		{
-			"id": 1032001006,
-			"poolId": 1032001,
-			"gachaType": 6,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1032001007,
-			"poolId": 1032001,
-			"gachaType": 7,
-			"poolWeight": 700,
-			"specialShow": 1
-		},
-		{
-			"id": 1032001008,
-			"poolId": 1032001,
-			"gachaType": 8,
-			"poolWeight": 1357,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001001,
-			"poolId": 1033001,
-			"gachaType": 1,
-			"poolWeight": 60,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001002,
-			"poolId": 1033001,
-			"gachaType": 2,
-			"poolWeight": 60,
-			"specialShow": 1
-		},
-		{
-			"id": 1033001003,
-			"poolId": 1033001,
-			"gachaType": 3,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1033001004,
-			"poolId": 1033001,
-			"gachaType": 4,
-			"poolWeight": 189,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001005,
-			"poolId": 1033001,
-			"gachaType": 5,
-			"poolWeight": 600,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001006,
-			"poolId": 1033001,
-			"gachaType": 6,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001007,
-			"poolId": 1033001,
-			"gachaType": 7,
-			"poolWeight": 300,
-			"specialShow": 0
-		},
-		{
-			"id": 1033001008,
-			"poolId": 1033001,
-			"gachaType": 8,
-			"poolWeight": 1300,
-			"specialShow": 0
-		},
-		{
-			"id": 1034001001,
-			"poolId": 1034001,
-			"gachaType": 1,
-			"poolWeight": 70,
-			"specialShow": 0
-		},
-		{
-			"id": 1034001002,
-			"poolId": 1034001,
-			"gachaType": 2,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1034001003,
-			"poolId": 1034001,
-			"gachaType": 3,
-			"poolWeight": 70,
-			"specialShow": 1
-		},
-		{
-			"id": 1034001004,
-			"poolId": 1034001,
-			"gachaType": 4,
-			"poolWeight": 218,
-			"specialShow": 0
-		},
-		{
-			"id": 1034001005,
-			"poolId": 1034001,
-			"gachaType": 5,
-			"poolWeight": 700,
-			"specialShow": 0
-		},
-		{
-			"id": 1034001006,
-			"poolId": 1034001,
-			"gachaType": 6,
-			"specialShow": 1,
-			"poolWeight": 0
-		},
-		{
-			"id": 1034001007,
-			"poolId": 1034001,
-			"gachaType": 7,
-			"poolWeight": 700,
-			"specialShow": 1
-		},
-		{
-			"id": 1034001008,
-			"poolId": 1034001,
+			"id": 191011008,
+			"poolId": 191011,
 			"gachaType": 8,
 			"poolWeight": 1357,
 			"specialShow": 0

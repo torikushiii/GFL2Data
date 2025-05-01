@@ -433,6 +433,15 @@
 			"achievement": 0
 		},
 		{
+			"id": 23065,
+			"icon": "Img_Title_GunGet_Qiuhua",
+			"name": "Qiuhua - Joined",
+			"title": "Qiuhua - Joined",
+			"qualify": "Unlocked after obtaining Qiuhua",
+			"sort": 2032,
+			"achievement": 0
+		},
+		{
 			"id": 23067,
 			"icon": "Img_Title_GunGet_Zhaohui",
 			"name": "Zhaohui - Joined",
@@ -493,6 +502,33 @@
 			"title": "Versatile Helper",
 			"qualify": "If the Commander asks, nothing is too difficult.\nProof of Affinity with a Doll. Unlocked via reaching Affinity Level 8 with Papasha.",
 			"sort": 3004,
+			"achievement": 0
+		},
+		{
+			"id": 23074,
+			"icon": "Img_Title_GunGet_Peri",
+			"name": "Peri - Joined",
+			"title": "Peri - Joined",
+			"qualify": "Unlocked after obtaining Peri",
+			"sort": 2037,
+			"achievement": 0
+		},
+		{
+			"id": 23075,
+			"icon": "Img_Title_GunGet_YooHee",
+			"name": "Yoohee - Joined",
+			"title": "Yoohee - Joined",
+			"qualify": "Unlocked after obtaining Yoohee",
+			"sort": 2038,
+			"achievement": 0
+		},
+		{
+			"id": 23076,
+			"icon": "Img_Title_GunGet_Nikketa",
+			"name": "Nikketa - Joined",
+			"title": "Nikketa - Joined",
+			"qualify": "Unlocked after obtaining Nikketa",
+			"sort": 2039,
 			"achievement": 0
 		},
 		{
@@ -586,12 +622,21 @@
 			"achievement": 0
 		},
 		{
+			"id": 23102,
+			"icon": "Img_Title_Love_Dusevnyj",
+			"name": "Picturesque Scenery",
+			"title": "Picturesque Scenery",
+			"qualify": "You are the coiling strokes of her brush, the most lovely landscape in her heart. \nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3014,
+			"achievement": 0
+		},
+		{
 			"id": 23103,
 			"icon": "Img_Title_Love_Springfield",
 			"name": "Zucchero's Guest of Honor",
 			"title": "Zucchero's Guest of Honor",
 			"qualify": "Zucchero is always open to its friends, but only you are fit to gaze into its master's heart.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
-			"sort": 3014,
+			"sort": 3015,
 			"achievement": 0
 		},
 		{
@@ -600,7 +645,61 @@
 			"name": "Trustworthy Gourmet",
 			"title": "Trustworthy Gourmet",
 			"qualify": "You are her personal, private food critic.\nProof of affinity with a Doll. Unlocked via reaching Affinity Level 8.",
-			"sort": 3015,
+			"sort": 3016,
+			"achievement": 0
+		},
+		{
+			"id": 23105,
+			"icon": "Img_Title_Love_Peri",
+			"name": "The Surface Is The Coolest",
+			"title": "The Surface Is The Coolest",
+			"qualify": "This is high praise coming from the coolest Doll and the proof that you're Number One in her heart.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3017,
+			"achievement": 0
+		},
+		{
+			"id": 23106,
+			"icon": "Img_Title_Love_Ullrid",
+			"name": "Navigator",
+			"title": "Navigator",
+			"qualify": "When I am lost, you are the only one who can help me find my way.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3022,
+			"achievement": 0
+		},
+		{
+			"id": 23107,
+			"icon": "Img_Title_Love_Qiuhua",
+			"name": "Head Chef's VIP",
+			"title": "Head Chef's VIP",
+			"qualify": "Bring out your favorite flavor with low heat and pour all your feelings into the bowl!\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3021,
+			"achievement": 0
+		},
+		{
+			"id": 23108,
+			"icon": "Img_Title_Love_Centaureissi",
+			"name": "My Noble Master",
+			"title": "My Noble Master",
+			"qualify": "If I had only one master, it would forever be you.\nProof of Affinity with a Doll, unlocked at Affinity Level 8.",
+			"sort": 3025,
+			"achievement": 0
+		},
+		{
+			"id": 23109,
+			"icon": "Img_Title_Love_YooHee",
+			"name": "Sunlit Rondo",
+			"title": "Sunlit Rondo",
+			"qualify": "This pulse-pounding pirouette was engineered to catch your eye!\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3023,
+			"achievement": 0
+		},
+		{
+			"id": 23111,
+			"icon": "Img_Title_Love_Nikketa",
+			"name": "Light That Banishes Darkness",
+			"title": "Light That Banishes Darkness",
+			"qualify": "She scatters the darkness before you, all to see you smile.\nProof of affinity with a Doll, unlocked at Affinity Level 8.",
+			"sort": 3024,
 			"achievement": 0
 		},
 		{
@@ -628,6 +727,105 @@
 			"title": "Thunder Strike",
 			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Thunder Strike.",
 			"sort": 1016,
+			"achievement": 0
+		},
+		{
+			"id": 23144,
+			"icon": "Img_Title_HighPVP_Season11",
+			"name": "Chaotic Flood",
+			"title": "Chaotic Flood",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Chaotic Flood",
+			"sort": 1017,
+			"achievement": 0
+		},
+		{
+			"id": 23145,
+			"icon": "Img_Title_HighPVP_Season12",
+			"name": "Desperate Charge",
+			"title": "Desperate Charge",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Desperate Charge",
+			"sort": 1018,
+			"achievement": 0
+		},
+		{
+			"id": 23146,
+			"icon": "Img_Title_HighPVP_Season13",
+			"name": "Balefire Shift",
+			"title": "Balefire Shift",
+			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Balefire Shift",
+			"sort": 1019,
+			"achievement": 0
+		},
+		{
+			"id": 23149,
+			"icon": "Img_Title_Handmade_Collect1",
+			"name": "Random Collector",
+			"title": "Random Collector",
+			"qualify": "Unlocked after Overall Recollection Score reaches 200.",
+			"sort": 1201,
+			"achievement": 0
+		},
+		{
+			"id": 23150,
+			"icon": "Img_Title_Handmade_Collect2",
+			"name": "Unique Blossom",
+			"title": "Unique Blossom",
+			"qualify": "Unlocked after Overall Recollection Score reaches 450.",
+			"sort": 1202,
+			"achievement": 0
+		},
+		{
+			"id": 23151,
+			"icon": "Img_Title_Handmade_Collect3",
+			"name": "Curio Hunter",
+			"title": "Curio Hunter",
+			"qualify": "Unlocked after Overall Recollection Score reaches 700.",
+			"sort": 1203,
+			"achievement": 0
+		},
+		{
+			"id": 23152,
+			"icon": "Img_Title_Handmade_Collect4",
+			"name": "Renowned In Secrecy",
+			"title": "Renowned In Secrecy",
+			"qualify": "Unlocked after Overall Recollection Score reaches 950.",
+			"sort": 1204,
+			"achievement": 0
+		},
+		{
+			"id": 23153,
+			"icon": "Img_Title_Handmade_Collect5",
+			"name": "Exhibitor of the Exotic",
+			"title": "Exhibitor of the Exotic",
+			"qualify": "Unlocked after Overall Recollection Score reaches 1,450.",
+			"sort": 1205,
+			"achievement": 0
+		},
+		{
+			"id": 23154,
+			"icon": "Img_Title_Handmade_Collect6",
+			"name": "Treasures Abounding",
+			"title": "Treasures Abounding",
+			"qualify": "Unlocked after Overall Recollection Score reaches 1,700.",
+			"sort": 1206,
+			"achievement": 0
+		},
+		{
+			"id": 23155,
+			"icon": "Img_Title_Handmade_Collect7",
+			"name": "Marvel Maker",
+			"title": "Marvel Maker",
+			"qualify": "Unlocked after Overall Recollection Score reaches 1,950.",
+			"sort": 1207,
+			"achievement": 0
+		},
+		{
+			"id": 23156,
+			"icon": "Img_Title_Handmade_Collect8",
+			"name": "Elmo Museum",
+			"title": "Elmo Museum",
+			"qualify": "Unlocked after Overall Recollection Score reaches 2,200.",
+			"sort": 1208,
 			"achievement": 0
 		},
 		{

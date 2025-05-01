@@ -1,6 +1,46 @@
 {
 	"data": [
 		{
+			"id": 10001,
+			"name": "Papa-Figo",
+			"description": "A high-performance handgun with an ingenious, elegant design. Named after a mythical monster said to devour disobedient children, according to its creator.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 5,
+			"element": 1,
+			"resCode": "Weapon_BpHRssr001_5",
+			"resPath": "Player/BpHRssr001/BpHRssr001_WL",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41057
+			],
+			"soldGet": {
+				"12056": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"modNum": 102,
+			"modTypeGroup": [
+				2
+			],
+			"brand": "",
+			"elemenSkill": 0,
+			"characterId": 0,
+			"isHide": false
+		},
+		{
 			"id": 10002,
 			"name": "Classified Manuscript",
 			"description": "A high-performance SMG, a powerful and unique weapon. When he gave it this name, the designer probably intended it to be a secret weapon.",
@@ -11,45 +51,32 @@
 			"resCode": "Weapon_BpSMGssr001_5",
 			"resPath": "Player/BpSMGssr001/BpSMGssr001_WL",
 			"rank": 5,
-			"skill": 5100021,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41058
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41058,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 401,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 401,
+			"modTypeGroup": [
+				2
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -64,45 +91,32 @@
 			"resCode": "Weapon_BpRFssr001_5",
 			"resPath": "Player/BpRFssr001/BpRFssr001_WL",
 			"rank": 5,
-			"skill": 5100031,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41059
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41059,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110149
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -117,45 +131,32 @@
 			"resCode": "Weapon_BpARssr001_5",
 			"resPath": "Player/BpARssr001/BpARssr001_WL",
 			"rank": 5,
-			"skill": 5100041,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41060
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41060,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110379
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -169,46 +170,33 @@
 			"resCode": "Weapon_BpKnifessr001_5",
 			"resPath": "Player/BpKnifessr001/BpKnifessr001_WL",
 			"rank": 5,
-			"skill": 5100051,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41061
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41061,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
-			"weaponSkill": [
-				5110079
+			"modNum": 1,
+			"modTypeGroup": [
+				16
 			],
 			"bullettype": 0,
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -223,45 +211,32 @@
 			"resCode": "Weapon_BpMGssr001_5",
 			"resPath": "Player/BpMGssr001/BpMGssr001_WL",
 			"rank": 5,
-			"skill": 5100061,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41062
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41062,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5100069
+			"modNum": 501,
+			"modTypeGroup": [
+				8
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -276,45 +251,32 @@
 			"resCode": "Weapon_BpSGssr001_5",
 			"resPath": "Player/BpSGssr001/BpSGssr001_WL",
 			"rank": 5,
-			"skill": 5100071,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41063
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41063,
-			"unlockCost": {
 				"12056": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 601,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 601,
+			"modTypeGroup": [
+				32
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -330,44 +292,33 @@
 			"resPath": "Player/LennaR01/LennaR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41071
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41071,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 403,
-			"weaponTag": 2,
+			"characterId": 1,
+			"modNum": 403,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10132,
@@ -381,46 +332,33 @@
 			"resPath": "Player/LennaSR01/LennaSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5101321,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41072
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41072,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 403,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5101329
+			"characterId": 1,
+			"modNum": 403,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10133,
@@ -434,46 +372,33 @@
 			"resPath": "Player/LennaSSR01/LennaSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5101331,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41073
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41073,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5101330,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 6,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 403,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5101329
+			"characterId": 1,
+			"modNum": 403,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
 		},
 		{
 			"id": 10231,
@@ -487,44 +412,33 @@
 			"resPath": "Player/DusevnyjR01/DusevnyjR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41088
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41088,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10232,
@@ -538,44 +452,31 @@
 			"resPath": "Player/DusevnyjSR01/DusevnyjSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5102321,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41089
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41089,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5102339
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -591,45 +492,32 @@
 			"resPath": "Player/DusevnyjSSR01/DusevnyjSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5102331,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41090
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41090,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5102330,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 9,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5102339
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -644,44 +532,33 @@
 			"resPath": "Player/MosinnagantR01/MosinnagantR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41064
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41064,
-			"unlockCost": {
 				"15331": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 202,
-			"weaponTag": 8,
+			"modNum": 202,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10332,
@@ -695,44 +572,31 @@
 			"resPath": "Player/MosinnagantSR01/MosinnagantSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103321,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41065
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41065,
-			"unlockCost": {
 				"15332": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 202,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110149
+			"modNum": 202,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -748,45 +612,32 @@
 			"resPath": "Player/MosinnagantSSR01/MosinnagantSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5103331,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41066
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41066,
-			"unlockCost": {
 				"15333": 60
 			},
-			"privateSkill": 5110330,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 18,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 202,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110149
+			"modNum": 202,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -801,44 +652,33 @@
 			"resPath": "Player/MacqiatoR01/MacqiatoR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41074
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41074,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 203,
-			"weaponTag": 8,
+			"modNum": 203,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10342,
@@ -852,44 +692,31 @@
 			"resPath": "Player/MacqiatoSR01/MacqiatoSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103421,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41075
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41075,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 203,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5103439
+			"modNum": 203,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -905,45 +732,32 @@
 			"resPath": "Player/MacqiatoSSR01/MacqiatoSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5103431,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41076
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41076,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5103430,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 19,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 203,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5103439
+			"modNum": 203,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -958,44 +772,33 @@
 			"resPath": "Player/JiangyuR01/JiangyuR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41077
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41077,
-			"unlockCost": {
 				"15351": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 301,
-			"weaponTag": 4,
+			"characterId": 1,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10352,
@@ -1009,46 +812,33 @@
 			"resPath": "Player/JiangyuSR01/JiangyuSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103521,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41078
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41078,
-			"unlockCost": {
 				"15352": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5103529
+			"characterId": 1,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10353,
@@ -1062,46 +852,33 @@
 			"resPath": "Player/JiangyuSSR01/JiangyuSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5103531,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41079
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41079,
-			"unlockCost": {
 				"15353": 60
 			},
-			"privateSkill": 5103530,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 20,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5103539
+			"characterId": 1,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
 		},
 		{
 			"id": 10361,
@@ -1115,44 +892,33 @@
 			"resPath": "Player/KseniaR01/KseniaR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110081,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41067
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41067,
-			"unlockCost": {
 				"15361": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 102,
-			"weaponTag": 2,
+			"modNum": 102,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10362,
@@ -1166,44 +932,31 @@
 			"resPath": "Player/KseniaSR01/KseniaSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103621,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41068
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41068,
-			"unlockCost": {
 				"15362": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 102,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100019
+			"modNum": 102,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -1218,45 +971,34 @@
 			"resPath": "Player/UllridR01/UllridR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41080
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41080,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
+			"modNum": 1,
+			"modTypeGroup": [
+				16
+			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10372,
@@ -1269,45 +1011,32 @@
 			"resPath": "Player/UllridSR01/UllridSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103721,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41081
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41081,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
-			"weaponSkill": [
-				5103729
+			"modNum": 1,
+			"modTypeGroup": [
+				16
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -1322,46 +1051,33 @@
 			"resPath": "Player/UllridSSR01/UllridSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5103731,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41082
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41082,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5103730,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 22,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
-			"weaponSkill": [
-				5103729
+			"modNum": 1,
+			"modTypeGroup": [
+				16
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1376,44 +1092,33 @@
 			"resPath": "Player/LittaraR01/LittaraR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41069
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41069,
-			"unlockCost": {
 				"15371": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
+			"modNum": 501,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10382,
@@ -1427,44 +1132,31 @@
 			"resPath": "Player/LittaraSR01/LittaraSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103821,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41070
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41070,
-			"unlockCost": {
 				"15372": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5100069
+			"modNum": 501,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -1480,44 +1172,33 @@
 			"resPath": "Player/SuomiR01/SuomiR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41085
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41085,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
+			"modNum": 404,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10392,
@@ -1531,44 +1212,31 @@
 			"resPath": "Player/SuomiSR01/SuomiSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5103921,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41086
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41086,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 404,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -1584,45 +1252,32 @@
 			"resPath": "Player/SuomiSSR01/SuomiSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5103931,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41087
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41087,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5103930,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 24,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 404,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1637,44 +1292,33 @@
 			"resPath": "Player/PapashaR01/PapashaR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41094
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41094,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
+			"modNum": 404,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10402,
@@ -1688,46 +1332,33 @@
 			"resPath": "Player/PapashaSR01/PapashaSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5104021,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41095
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41095,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5101329
+			"modNum": 404,
+			"modTypeGroup": [
+				2
 			],
+			"isHide": true,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"isHide": false
+			"characterId": 0
 		},
 		{
 			"id": 10403,
@@ -1741,46 +1372,33 @@
 			"resPath": "Player/PapashaSSR01/PapashaSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5104031,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41096
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41096,
-			"unlockCost": {
 				"15342": 60
 			},
-			"privateSkill": 5104030,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 25,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 404,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5101329
+			"modNum": 404,
+			"modTypeGroup": [
+				2
 			],
+			"isHide": true,
 			"elemenSkill": 0,
-			"slot": [],
-			"isHide": false
+			"characterId": 0
 		},
 		{
 			"id": 10411,
@@ -1794,44 +1412,33 @@
 			"resPath": "Player/LottaR01/LottaR01_WL",
 			"brand": "brand_icon17",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41083
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41083,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 602,
-			"weaponTag": 32,
+			"modNum": 602,
+			"modTypeGroup": [
+				32
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10412,
@@ -1845,44 +1452,31 @@
 			"resPath": "Player/LottaSR01/LottaSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 4,
-			"skill": 5104121,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41084
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41084,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 602,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 602,
+			"modTypeGroup": [
+				32
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -1897,45 +1491,34 @@
 			"resPath": "Player/AndorisR01/AndorisR01_WL",
 			"brand": "G36KKSK",
 			"rank": 3,
-			"skill": 5110101,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41110
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41110,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 306,
-			"weaponTag": 4,
+			"characterId": 1,
+			"modNum": 306,
+			"modTypeGroup": [
+				4
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10422,
@@ -1948,47 +1531,34 @@
 			"resPath": "Player/AndorisSR01/AndorisSR01_WL",
 			"brand": "G36KKSK",
 			"rank": 4,
-			"skill": 5104221,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41111
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41111,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 306,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5104229
+			"characterId": 1,
+			"modNum": 306,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10423,
@@ -2001,47 +1571,34 @@
 			"resPath": "Player/AndorisSSR01/AndorisSSR01_WL",
 			"brand": "G36KKSK",
 			"rank": 5,
-			"skill": 5104231,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41112
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41112,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5104230,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 27,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 306,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5104229
+			"characterId": 1,
+			"modNum": 306,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
 		},
 		{
 			"id": 10431,
@@ -2054,45 +1611,34 @@
 			"resPath": "Player/FayeR01/FayeR01_WL",
 			"brand": "CZ75",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41116
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41116,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"isHide": true,
-			"audio": 101,
-			"weaponTag": 2,
+			"characterId": 1,
+			"modNum": 101,
+			"modTypeGroup": [
+				2
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10432,
@@ -2105,47 +1651,34 @@
 			"resPath": "Player/FayeSR01/FayeSR01_WL",
 			"brand": "CZ75",
 			"rank": 4,
-			"skill": 5104321,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41117
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41117,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"isHide": true,
-			"audio": 101,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5104329
+			"characterId": 1,
+			"modNum": 101,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10433,
@@ -2158,47 +1691,34 @@
 			"resPath": "Player/FayeSSR01/FayeSSR01_WL",
 			"brand": "CZ75",
 			"rank": 5,
-			"skill": 5104331,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41118
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41118,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5104330,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 28,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"isHide": true,
-			"audio": 101,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5104329
+			"characterId": 1,
+			"modNum": 101,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
 		},
 		{
 			"id": 10441,
@@ -2211,45 +1731,34 @@
 			"resPath": "Player/VectorR01/VectorR01_WL",
 			"brand": "Vector",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41104
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41104,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 401,
-			"weaponTag": 2,
+			"modNum": 401,
+			"modTypeGroup": [
+				2
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10442,
@@ -2262,47 +1771,34 @@
 			"resPath": "Player/VectorSR01/VectorSR01_WL",
 			"brand": "Vector",
 			"rank": 4,
-			"skill": 5104421,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41105
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41105,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 401,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5110379
+			"modNum": 401,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10443,
@@ -2315,47 +1811,34 @@
 			"resPath": "Player/VectorSSR01/VectorSSR01_WL",
 			"brand": "Vector",
 			"rank": 5,
-			"skill": 5104431,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41106
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41106,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5104430,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 29,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 401,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5110379
+			"modNum": 401,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10451,
@@ -2368,45 +1851,34 @@
 			"resPath": "Player/BiyocaR01/BiyocaR01_WL",
 			"brand": "G28",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41107
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41107,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 308,
-			"weaponTag": 4,
+			"characterId": 1,
+			"modNum": 308,
+			"modTypeGroup": [
+				4
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10452,
@@ -2419,47 +1891,34 @@
 			"resPath": "Player/BiyocaSR01/BiyocaSR01_WL",
 			"brand": "G28",
 			"rank": 4,
-			"skill": 5104521,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41108
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41108,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 308,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5104529
+			"characterId": 1,
+			"modNum": 308,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10453,
@@ -2472,47 +1931,34 @@
 			"resPath": "Player/BiyocaSSR01/BiyocaSSR01_WL",
 			"brand": "G28",
 			"rank": 5,
-			"skill": 5104531,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41109
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41109,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5104530,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 30,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"isHide": true,
-			"audio": 308,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5104539
+			"characterId": 1,
+			"modNum": 308,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
 		},
 		{
 			"id": 10471,
@@ -2525,45 +1971,34 @@
 			"resPath": "Player/SpringfieldR01/SpringfieldR01_WL",
 			"brand": "M1903",
 			"rank": 3,
-			"skill": 5110081,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41113
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41113,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"isHide": true,
-			"audio": 201,
-			"weaponTag": 8,
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10472,
@@ -2576,47 +2011,34 @@
 			"resPath": "Player/SpringfieldSR01/SpringfieldSR01_WL",
 			"brand": "M1903",
 			"rank": 4,
-			"skill": 5104721,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41114
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41114,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"isHide": true,
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110569
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"isHide": false
 		},
 		{
 			"id": 10473,
@@ -2629,47 +2051,154 @@
 			"resPath": "Player/SpringfieldSSR01/SpringfieldSSR01_WL",
 			"brand": "M1903",
 			"rank": 5,
-			"skill": 5104731,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41115
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41115,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5104730,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 32,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"isHide": true,
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110569
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"isHide": false
+		},
+		{
+			"id": 10481,
+			"name": "Retired Type 97 Shotgun",
+			"description": "A cheap weapon purchased from an underground broker. While it runs the risk of jamming, it can handle the daily demands of protection work.",
+			"type": 6,
+			"modelstype": 2,
+			"bullettype": 4,
+			"resCode": "Weapon_HAWK12_3",
+			"resPath": "Player/QiuhuaR01/QiuhuaR01_WL",
+			"brand": "HAWK12",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41122
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2031,
+				1031,
+				9011,
+				11011
+			],
+			"characterId": 1,
+			"modNum": 601,
+			"modTypeGroup": [
+				32
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10482,
+			"name": "Type 97 Shotgun",
+			"description": "A firearm highly compatible with Qiuhua. Modified based on her combat preferences. Its recoil has been reduced and its long-range accuracy has been improved.",
+			"type": 6,
+			"modelstype": 2,
+			"bullettype": 4,
+			"resCode": "Weapon_HAWK12_4",
+			"resPath": "Player/QiuhuaSR01/QiuhuaSR01_WL",
+			"brand": "HAWK12",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41123
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2031,
+				1031,
+				9011,
+				11011
+			],
+			"characterId": 1,
+			"modNum": 601,
+			"modTypeGroup": [
+				32
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10483,
+			"name": "Trailblazer",
+			"description": "A high-performance shotgun assigned to Qiuhua. Based on the Type 97 Shotgun. Its reliability and stopping power have been maximized. Even the faintest mote of starlight is enough to banish the infinite darkness.",
+			"type": 6,
+			"modelstype": 2,
+			"bullettype": 4,
+			"resCode": "Weapon_HAWK12_5",
+			"resPath": "Player/QiuhuaSSR01/QiuhuaSSR01_WL",
+			"brand": "HAWK12",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41124
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2031,
+				1031,
+				9011,
+				11011
+			],
+			"characterId": 1,
+			"modNum": 601,
+			"modTypeGroup": [
+				32
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
 		},
 		{
 			"id": 10501,
@@ -2682,45 +2211,34 @@
 			"resPath": "Player/ZhaohuiR01/ZhaohuiR01_WL",
 			"brand": "CSLS06",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41091
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41091,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 402,
-			"weaponTag": 2,
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10502,
@@ -2733,47 +2251,34 @@
 			"resPath": "Player/ZhaohuiSR01/ZhaohuiSR01_WL",
 			"brand": "CSLS06",
 			"rank": 4,
-			"skill": 5105021,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41092
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41092,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 402,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 402,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
-			"characterId": 0
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10503,
@@ -2786,47 +2291,34 @@
 			"resPath": "Player/ZhaohuiSSR01/ZhaohuiSSR01_WL",
 			"brand": "CSLS06",
 			"rank": 5,
-			"skill": 5105031,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41093
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41093,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5105030,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 35,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"isHide": true,
-			"audio": 402,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 402,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": []
+			"characterId": 0,
+			"isHide": false
 		},
 		{
 			"id": 10511,
@@ -2838,46 +2330,35 @@
 			"resPath": "Player/MishtyR01/MishtyR01_WL",
 			"brand": "G11",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41100
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41100,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 307,
-			"weaponTag": 4,
+			"modNum": 307,
+			"modTypeGroup": [
+				4
+			],
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10512,
@@ -2889,46 +2370,33 @@
 			"resPath": "Player/MishtySR01/MishtySR01_WL",
 			"brand": "G11",
 			"rank": 4,
-			"skill": 5105121,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41102
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41102,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 307,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110449
+			"modNum": 307,
+			"modTypeGroup": [
+				4
 			],
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -2942,47 +2410,34 @@
 			"resPath": "Player/MishtySSR01/MishtySSR01_WL",
 			"brand": "G11",
 			"rank": 5,
-			"skill": 5105131,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41103
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41103,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5105130,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 36,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 307,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5105139
+			"modNum": 307,
+			"modTypeGroup": [
+				4
 			],
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2996,45 +2451,34 @@
 			"resPath": "Player/ClukayR01/ClukayR01_WL",
 			"brand": "HK416",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41097
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41097,
-			"unlockCost": {
 				"15341": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 306,
-			"weaponTag": 4,
+			"modNum": 306,
+			"modTypeGroup": [
+				4
+			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 10522,
@@ -3047,45 +2491,32 @@
 			"resPath": "Player/ClukaySR01/ClukaySR01_WL",
 			"brand": "HK416",
 			"rank": 4,
-			"skill": 5105221,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41098
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41098,
-			"unlockCost": {
 				"15342": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 306,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5105239
+			"modNum": 306,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3100,46 +2531,393 @@
 			"resPath": "Player/ClukaySSR01/ClukaySSR01_WL",
 			"brand": "HK416",
 			"rank": 5,
-			"skill": 5105231,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41099
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41099,
-			"unlockCost": {
 				"15343": 60
 			},
-			"privateSkill": 5105230,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 37,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 306,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5105239
+			"modNum": 306,
+			"modTypeGroup": [
+				4
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
+			"isHide": false
+		},
+		{
+			"id": 10531,
+			"name": "",
+			"description": "A cheap weapon purchased from an underground broker. It's missing a few parts, but it's still (barely) usable.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_MP5_3",
+			"resPath": "Player/PeriR01/PeriR01_WL",
+			"brand": "MP5",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41119
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"characterId": 1,
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10532,
+			"name": "",
+			"description": "A firearm highly compatible with Peri. Modified based on her combat preferences. It's equipped with some parts scavenged from unknown origins, which has slightly improved its rate of fire.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_MP5_4",
+			"resPath": "Player/PeriSR01/PeriSR01_WL",
+			"brand": "MP5",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41120
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"characterId": 1,
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10533,
+			"name": "",
+			"description": "A high-performance SMG assigned to Peri. Based on the Maschinenpistole 5. Its internals have been modified to greatly increase its stopping power. It deceives foes with its attractive appearance and crushes them with absolute power.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_MP5_5",
+			"resPath": "Player/PeriSSR01/PeriSSR01_WL",
+			"brand": "MP5",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41121
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"characterId": 1,
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10541,
+			"name": "Retired K2",
+			"description": "A cheap weapon purchased from an underground broker. Its surface is covered in carbon streaks and wear, so please be careful when using it.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_K2_3",
+			"resPath": "Player/YooHeeR01/YooHeeR01_WL",
+			"brand": "K2",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41125
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"characterId": 0,
+			"isHide": false
+		},
+		{
+			"id": 10542,
+			"name": "K2",
+			"description": "A firearm highly compatible with Yoohee. Modified based on her combat preferences. Its stability and ease of carrying have been greatly improved, ensuring firing accuracy on the move.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_K2_4",
+			"resPath": "Player/YooHeeSR01/YooHeeSR01_WL",
+			"brand": "K2",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41126
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"characterId": 0,
+			"isHide": false
+		},
+		{
+			"id": 10543,
+			"name": "Sparkling Centerstage",
+			"description": "A high-performance rifle assigned to Yoohee. Based on the K2, its killing power and portability have been maximized. Even the faintest spark can still do its best to light the way forward for the people it cherishes.",
+			"type": 4,
+			"modelstype": 1,
+			"bullettype": 1,
+			"resCode": "Weapon_K2_5",
+			"resPath": "Player/YooHeeSSR01/YooHeeSSR01_WL",
+			"brand": "K2",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41127
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"characterId": 0,
+			"isHide": false
+		},
+		{
+			"id": 10551,
+			"name": "Retired Veska 94",
+			"description": "A cheap weapon purchased from an underground broker. Its iron sights are worn down but it's still usable.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_VSK94_3",
+			"resPath": "Player/NikketaR01/NikketaR01_WL",
+			"brand": "VSK94",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41128
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10552,
+			"name": "Veska 94",
+			"description": "A firearm highly compatible with Nikketa. Modified based on her combat preferences. Its weight has been reduced, making it lighter and easier to handle on missions.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_VSK94_4",
+			"resPath": "Player/NikketaSR01/NikketaSR01_WL",
+			"brand": "VSK94",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41129
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10553,
+			"name": "Guardian Silverwing",
+			"description": "A high-performance rifle assigned to Nikketa. Based on the Veska-94. Its shooting precision has been upgraded, turning it into the ultimate tool for protecting justice. It nips all evil in the bud, so the children can sleep soundly and have sweet dreams.",
+			"type": 3,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_VSK94_5",
+			"resPath": "Player/NikketaSSR01/NikketaSSR01_WL",
+			"brand": "VSK94",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41130
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2022,
+				1021,
+				13012,
+				3014
+			],
+			"characterId": 1,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
+			"element": 0,
+			"elemenSkill": 0,
 			"isHide": false
 		},
 		{
@@ -3153,50 +2931,32 @@
 			"resPath": "Player/CharolicSR01/CharolicSR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110071,
+			"buffSkill": 1000,
 			"slot": [
-				6,
-				7,
-				8,
-				9
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41007
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41007,
-			"unlockCost": {
 				"12007": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
-			"weaponSkill": [
-				5110079
+			"modNum": 1,
+			"modTypeGroup": [
+				16
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3212,44 +2972,33 @@
 			"resPath": "Player/ColphneR01/ColphneR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110081,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41008
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41008,
-			"unlockCost": {
 				"12008": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 101,
-			"weaponTag": 2,
+			"modNum": 101,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11009,
@@ -3263,44 +3012,33 @@
 			"resPath": "Player/NemesisR01/NemesisR01_WL",
 			"brand": "brand_icon02",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41009
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41009,
-			"unlockCost": {
 				"12009": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
+			"modNum": 201,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11010,
@@ -3314,44 +3052,33 @@
 			"resPath": "Player/GrozaR01/GrozaR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110101,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41010
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41010,
-			"unlockCost": {
 				"12010": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11014,
@@ -3365,49 +3092,31 @@
 			"resPath": "Player/NemesisSR01/NemesisSR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110141,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				4,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41014
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41014,
-			"unlockCost": {
 				"12014": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2022,
 				1021,
 				13012,
 				3014
 			],
-			"audio": 201,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110149
+			"modNum": 201,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3423,47 +3132,31 @@
 			"resPath": "Player/ColphneSR01/ColphneSR01_WL",
 			"brand": "brand_icon02",
 			"rank": 4,
-			"skill": 5110151,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41015
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41015,
-			"unlockCost": {
 				"12015": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 602,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100019
+			"modNum": 602,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3480,49 +3173,31 @@
 			"brand": "brand_icon03",
 			"rank": 5,
 			"elemenSkill": 5101020,
-			"skill": 5110161,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				4,
-				5
+				2000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41016
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41016,
-			"unlockCost": {
 				"12016": 60
 			},
-			"privateSkill": 5110160,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 5,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 602,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 602,
+			"modTypeGroup": [
+				32
 			],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3537,44 +3212,33 @@
 			"resPath": "Player/VepleyR01/VepleyR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41017
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41017,
-			"unlockCost": {
 				"12017": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 201,
-			"weaponTag": 32,
+			"modNum": 201,
+			"modTypeGroup": [
+				32
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11020,
@@ -3589,49 +3253,31 @@
 			"brand": "brand_icon03",
 			"rank": 5,
 			"elemenSkill": 5101420,
-			"skill": 5110201,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				2000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41020
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41020,
-			"unlockCost": {
 				"12020": 60
 			},
-			"privateSkill": 5110200,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 7,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5110209
+			"modNum": 501,
+			"modTypeGroup": [
+				8
 			],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3646,49 +3292,31 @@
 			"resPath": "Player/VepleySR01/VepleySR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110211,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				4,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41021
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41021,
-			"unlockCost": {
 				"12021": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 201,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 201,
+			"modTypeGroup": [
+				32
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3703,45 +3331,34 @@
 			"resPath": "Player/CharolicR01/CharolicR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41022
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41022,
-			"unlockCost": {
 				"12022": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				4011,
 				8011,
 				9013,
 				11013
 			],
-			"audio": 1,
-			"weaponTag": 16,
+			"modNum": 1,
+			"modTypeGroup": [
+				16
+			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11023,
@@ -3755,49 +3372,31 @@
 			"resPath": "Player/GrozaSR01/GrozaSR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110231,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41023
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41023,
-			"unlockCost": {
 				"12023": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110239
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3813,44 +3412,33 @@
 			"resPath": "Player/PerityaR01/PerityaR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41024
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41024,
-			"unlockCost": {
 				"12024": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
+			"modNum": 501,
+			"modTypeGroup": [
+				8
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11026,
@@ -3864,49 +3452,31 @@
 			"resPath": "Player/PerityaSR01/PerityaSR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110261,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41026
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41026,
-			"unlockCost": {
 				"12026": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2021,
 				1013,
 				13011,
 				3013
 			],
-			"audio": 501,
-			"weaponTag": 8,
-			"weaponSkill": [
-				5100069
+			"modNum": 501,
+			"modTypeGroup": [
+				8
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -3922,44 +3492,33 @@
 			"resPath": "Player/SharkryR01/SharkryR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41030
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41030,
-			"unlockCost": {
 				"12030": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 302,
-			"weaponTag": 4,
+			"modNum": 302,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11031,
@@ -3973,49 +3532,31 @@
 			"resPath": "Player/SharkrySR01/SharkrySR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110311,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41031
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41031,
-			"unlockCost": {
 				"12031": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 302,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110379
+			"modNum": 302,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4032,43 +3573,32 @@
 			"brand": "brand_icon01",
 			"rank": 3,
 			"elemenSkill": 5100720,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41036
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41036,
-			"unlockCost": {
 				"12036": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 304,
-			"weaponTag": 4,
-			"slot": [],
-			"privateSkill": 0,
+			"modNum": 304,
+			"modTypeGroup": [
+				4
+			],
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11037,
@@ -4083,48 +3613,30 @@
 			"brand": "brand_icon01",
 			"rank": 4,
 			"elemenSkill": 5100720,
-			"skill": 5110371,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41037
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41037,
-			"unlockCost": {
 				"12037": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 304,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110379
+			"modNum": 304,
+			"modTypeGroup": [
+				4
 			],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4141,49 +3653,31 @@
 			"brand": "brand_icon01",
 			"rank": 5,
 			"elemenSkill": 5100720,
-			"skill": 5110381,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				2000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41038
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41038,
-			"unlockCost": {
 				"12038": 60
 			},
-			"privateSkill": 5110380,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 11,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 304,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110389
+			"modNum": 304,
+			"modTypeGroup": [
+				4
 			],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4198,44 +3692,33 @@
 			"resPath": "Player/CheetaR01/CheetaR01_WL",
 			"brand": "brand_icon01",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41039
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41039,
-			"unlockCost": {
 				"12039": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 401,
-			"weaponTag": 2,
+			"modNum": 401,
+			"modTypeGroup": [
+				2
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11040,
@@ -4249,49 +3732,31 @@
 			"resPath": "Player/CheetaSR01/CheetaSR01_WL",
 			"brand": "brand_icon01",
 			"rank": 4,
-			"skill": 5110401,
+			"buffSkill": 1000,
 			"slot": [
-				1,
-				2,
-				3,
-				5
+				1000
 			],
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41040
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41040,
-			"unlockCost": {
 				"12040": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2012,
 				1012,
 				12012,
 				3012
 			],
-			"audio": 401,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5100029
+			"modNum": 401,
+			"modTypeGroup": [
+				2
 			],
 			"elemenSkill": 0,
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4307,44 +3772,33 @@
 			"resPath": "Player/QiongjiuR01/QiongjiuR01_WL",
 			"brand": "brand_icon03",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41042
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41042,
-			"unlockCost": {
 				"12042": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 303,
-			"weaponTag": 4,
+			"modNum": 303,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11043,
@@ -4358,44 +3812,31 @@
 			"resPath": "Player/QiongjiuSR01/QiongjiuSR01_WL",
 			"brand": "brand_icon04",
 			"rank": 4,
-			"skill": 5110431,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41043
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41043,
-			"unlockCost": {
 				"12043": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 303,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110449
+			"modNum": 303,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4411,45 +3852,32 @@
 			"resPath": "Player/QiongjiuSSR01/QiongjiuSSR01_WL",
 			"brand": "brand_icon05",
 			"rank": 5,
-			"skill": 5110441,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41044
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41044,
-			"unlockCost": {
 				"12044": 60
 			},
-			"privateSkill": 5110440,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 14,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 303,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110449
+			"modNum": 303,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4464,44 +3892,33 @@
 			"resPath": "Player/SabrinaR01/SabrinaR01_WL",
 			"brand": "brand_icon06",
 			"rank": 3,
-			"skill": 5110101,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41045
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41045,
-			"unlockCost": {
 				"12045": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 601,
-			"weaponTag": 32,
+			"modNum": 601,
+			"modTypeGroup": [
+				32
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11046,
@@ -4515,44 +3932,31 @@
 			"resPath": "Player/SabrinaSR01/SabrinaSR01_WL",
 			"brand": "brand_icon07",
 			"rank": 4,
-			"skill": 5110461,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41046
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41046,
-			"unlockCost": {
 				"12046": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 601,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 601,
+			"modTypeGroup": [
+				32
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4568,45 +3972,32 @@
 			"resPath": "Player/SabrinaSSR01/SabrinaSSR01_WL",
 			"brand": "brand_icon08",
 			"rank": 5,
-			"skill": 5110471,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41047
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41047,
-			"unlockCost": {
 				"12047": 60
 			},
-			"privateSkill": 5110470,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 12,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2031,
 				1031,
 				9011,
 				11011
 			],
-			"audio": 601,
-			"weaponTag": 32,
-			"weaponSkill": [
-				5110479
+			"modNum": 601,
+			"modTypeGroup": [
+				32
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4620,45 +4011,34 @@
 			"resPath": "Player/NagantR01/NagantR01_WL",
 			"brand": "brand_icon09",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41048
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41048,
-			"unlockCost": {
 				"12048": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 102,
-			"weaponTag": 2,
+			"modNum": 102,
+			"modTypeGroup": [
+				2
+			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11049,
@@ -4671,45 +4051,32 @@
 			"resPath": "Player/NagantSR01/NagantSR01_WL",
 			"brand": "brand_icon10",
 			"rank": 4,
-			"skill": 5110491,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41049
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41049,
-			"unlockCost": {
 				"12049": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2041,
 				1032,
 				9012,
 				11012
 			],
-			"audio": 102,
-			"weaponTag": 2,
-			"weaponSkill": [
-				5110499
+			"modNum": 102,
+			"modTypeGroup": [
+				2
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4725,44 +4092,33 @@
 			"resPath": "Player/DaiyanR01/DaiyanR01_WL",
 			"brand": "brand_icon12",
 			"rank": 3,
-			"skill": 5110091,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41051
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41051,
-			"unlockCost": {
 				"12051": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11052,
@@ -4776,44 +4132,31 @@
 			"resPath": "Player/DaiyanSR01/DaiyanSR01_WL",
 			"brand": "brand_icon13",
 			"rank": 4,
-			"skill": 5110521,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41052
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41052,
-			"unlockCost": {
 				"12052": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110379
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4829,45 +4172,32 @@
 			"resPath": "Player/DaiyanSSR01/DaiyanSSR01_WL",
 			"brand": "brand_icon14",
 			"rank": 5,
-			"skill": 5110531,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41053
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41053,
-			"unlockCost": {
 				"12053": 60
 			},
-			"privateSkill": 5110530,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 16,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110379
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4882,44 +4212,33 @@
 			"resPath": "Player/CentaureissiR01/CentaureissiR01_WL",
 			"brand": "brand_icon15",
 			"rank": 3,
-			"skill": 5110081,
-			"expRate": 1000,
-			"weaponOfferExp": 400,
-			"weaponNeedCash": 1200,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41054
+			],
 			"soldGet": {
-				"2": 2
-			},
-			"propertyId": 41054,
-			"unlockCost": {
 				"12054": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8601": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
+			"modNum": 301,
+			"modTypeGroup": [
+				4
+			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
-			"isHide": false,
-			"weaponSkill": []
+			"isHide": false
 		},
 		{
 			"id": 11055,
@@ -4933,44 +4252,31 @@
 			"resPath": "Player/CentaureissiSR01/CentaureissiSR01_WL",
 			"brand": "brand_icon16",
 			"rank": 4,
-			"skill": 5110551,
-			"expRate": 1000,
-			"weaponOfferExp": 1000,
-			"weaponNeedCash": 3000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41055
+			],
 			"soldGet": {
-				"2": 3
-			},
-			"propertyId": 41055,
-			"unlockCost": {
 				"12055": 60
 			},
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8602": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110569
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
-			"privateSkill": 0,
 			"characterId": 0,
 			"isHide": false
 		},
@@ -4986,45 +4292,32 @@
 			"resPath": "Player/CentaureissiSSR01/CentaureissiSSR01_WL",
 			"brand": "brand_icon17",
 			"rank": 5,
-			"skill": 5110561,
-			"expRate": 1000,
-			"weaponOfferExp": 2000,
-			"weaponNeedCash": 6000,
-			"defaultMaxlv": 60,
-			"maxBreak": 6,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41056
+			],
 			"soldGet": {
-				"2": 4
-			},
-			"propertyId": 41056,
-			"unlockCost": {
 				"12056": 60
 			},
-			"privateSkill": 5110560,
-			"capacityMax": 30,
-			"weaponPolarityId": 1,
-			"polarityCostRandom": {
-				"2": 3000,
-				"8603": 1
-			},
-			"polarityCostCustom": {
-				"2": 3000,
-				"8609": 1
-			},
-			"characterId": 15,
-			"modNum": 4,
-			"modTypeGroup": [
+			"propertyId": 30,
+			"advanceWeapon": [
 				2011,
 				1011,
 				12011,
 				3011
 			],
-			"audio": 301,
-			"weaponTag": 4,
-			"weaponSkill": [
-				5110569
+			"modNum": 301,
+			"modTypeGroup": [
+				4
 			],
 			"elemenSkill": 0,
-			"slot": [],
+			"characterId": 0,
 			"isHide": false
 		}
 	]

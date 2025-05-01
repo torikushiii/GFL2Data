@@ -2179,7 +2179,7 @@
 			"weather": 1,
 			"roomIdList": "10121214;10081243;10120814;10081203;10120806;10120811;10081238;10120808;10081243;10121217;11040401;10040401;11040401;11040401;11040401;10040402;11040401;10040401",
 			"roomTypeList": [
-				3,
+				0,
 				0,
 				0,
 				0,
@@ -2897,6 +2897,7 @@
 				4020017,
 				4020018,
 				4020019,
+				4020020,
 				4020021,
 				4020022,
 				4020023,
@@ -2916,8 +2917,7 @@
 				4020029,
 				4020030,
 				4020031,
-				4020034,
-				4020020
+				4020034
 			],
 			"refreshData": [
 				402001,
@@ -4969,6 +4969,32 @@
 			"initialEvent": 0,
 			"slgRefreshMonster": {},
 			"targetGroupId": [],
+			"grassData": [],
+			"cartpointStart": 0,
+			"cartpointId": 0
+		},
+		{
+			"id": 99991,
+			"name": "",
+			"structureId": 9991,
+			"weather": 1,
+			"roomIdList": "10040401",
+			"roomTypeList": [
+				0
+			],
+			"stageBgm": 30015,
+			"minimapId": 4001,
+			"timeLimit": 12600,
+			"birthData": "99001:1:90:270;270",
+			"difficultParam": 1,
+			"enterDarkBgm": 65,
+			"leftTimeBgm": 71,
+			"darkzoneEnemies": [],
+			"initialEvent": 0,
+			"slgRefreshMonster": {},
+			"interactData": [],
+			"targetGroupId": [],
+			"refreshData": [],
 			"grassData": [],
 			"cartpointStart": 0,
 			"cartpointId": 0

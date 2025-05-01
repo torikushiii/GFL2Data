@@ -289,6 +289,18 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 49,
+			"name": "Activate all nodes in Yoohee's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 50,
+			"name": "Activate all nodes in Nikketa's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
 			"id": 9999,
 			"name": "Reached Commander Level 30",
 			"des": "Unlock conditions for testing",
@@ -301,10 +313,28 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 11014,
+			"name": "EX Stage Unlock Condition 1",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 6-10</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 11015,
+			"name": "EX Stage Unlock Condition 2",
+			"des": "Reached Commander Level <color=#f26c1c>45</color>",
+			"conditionNum": 45
+		},
+		{
 			"id": 11019,
 			"name": "New tutorial unlock conditions",
 			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 3-5</color>",
 			"conditionNum": 1
+		},
+		{
+			"id": 11020,
+			"name": "[Target Practice] Unlock Condition",
+			"des": "Reached Commander Level 30",
+			"conditionNum": 30
 		},
 		{
 			"id": 11104,
@@ -331,6 +361,12 @@
 			"conditionNum": 50
 		},
 		{
+			"id": 12007,
+			"name": "Recommended Character Accessory Function Unlocked",
+			"des": "Unlocked by reaching Commander Level 23",
+			"conditionNum": 23
+		},
+		{
 			"id": 15200,
 			"name": "Living Area unlock conditions",
 			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal SL-2-2</color>",
@@ -352,6 +388,12 @@
 			"id": 24002,
 			"name": "Daily Missions",
 			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
+			"conditionNum": 1
+		},
+		{
+			"id": 24003,
+			"name": "Challenge Achievement",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage SL-1-2</color>",
 			"conditionNum": 1
 		},
 		{
@@ -421,6 +463,12 @@
 			"conditionNum": 20
 		},
 		{
+			"id": 33006,
+			"name": "Attachment Superior Boost",
+			"des": "Commander Level reaches 45",
+			"conditionNum": 45
+		},
+		{
 			"id": 34001,
 			"name": "Requirements for Unlocking the Battle Tower",
 			"des": "Commander Level reaches 45",
@@ -487,15 +535,21 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 38005,
+			"name": "[Collection Display Room]",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Normal SL-2-2</color>",
+			"conditionNum": 1
+		},
+		{
 			"id": 39001,
 			"name": "[TPS Game Mode]",
-			"des": "Commander Level reaches 20",
+			"des": "Reach Commander Level 20",
 			"conditionNum": 20
 		},
 		{
 			"id": 39002,
 			"name": "[Dungeon Exploration Game Mode]",
-			"des": "Commander Level reaches 20",
+			"des": "Reach Commander Level 20",
 			"conditionNum": 20
 		},
 		{
@@ -1087,99 +1141,15 @@
 			"conditionNum": 1
 		},
 		{
-			"id": 60099,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60100,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60101,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60102,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60103,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60104,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60105,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60106,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60107,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60108,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60109,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60110,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60111,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60112,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
 			"id": 60113,
-			"name": "",
-			"des": "",
+			"name": "Guardian Silverwing",
+			"des": "Acquire <COLOR=#F26C1C>Guardian Silverwing</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60114,
-			"name": "",
-			"des": "",
+			"name": "Sparkling Centerstage",
+			"des": "Acquire <COLOR=#F26C1C>Sparkling Centerstage</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1189,105 +1159,15 @@
 			"conditionNum": 1
 		},
 		{
-			"id": 60116,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60117,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60118,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60119,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60120,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60121,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60122,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60123,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60124,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60125,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60126,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60127,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60128,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60129,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60130,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
 			"id": 60131,
-			"name": "",
-			"des": "",
+			"name": "Veska 94",
+			"des": "Acquire <COLOR=#F26C1C>Veska 94</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60132,
-			"name": "",
-			"des": "",
+			"name": "K2",
+			"des": "Acquire <COLOR=#F26C1C>K2</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1297,105 +1177,15 @@
 			"conditionNum": 1
 		},
 		{
-			"id": 60134,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60135,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60136,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60137,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60138,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60139,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60140,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60141,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60142,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60143,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60144,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60145,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60146,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60147,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
-			"id": 60148,
-			"name": "",
-			"des": "",
-			"conditionNum": 1
-		},
-		{
 			"id": 60149,
-			"name": "",
-			"des": "",
+			"name": "Retired Veska 94",
+			"des": "Acquire <COLOR=#F26C1C>Retired Veska 94</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60150,
-			"name": "",
-			"des": "",
+			"name": "Retired K2",
+			"des": "Acquire <COLOR=#F26C1C>Retired K2</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1408,6 +1198,24 @@
 			"id": 60152,
 			"name": "Hestia",
 			"des": "Acquire <COLOR=#F26C1C>Hestia</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60153,
+			"name": "Trailblazer",
+			"des": "Acquire <COLOR=#F26C1C>Trailblazer</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60154,
+			"name": "Type 97 Shotgun",
+			"des": "Acquire <COLOR=#F26C1C>Type 97 Shotgun</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60155,
+			"name": "Retired Type 97 Shotgun",
+			"des": "Acquire <COLOR=#F26C1C>Retired Type 97 Shotgun</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{

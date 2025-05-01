@@ -50,9 +50,21 @@
 		},
 		{
 			"id": 1009,
-			"name": "Saikad Technologies",
+			"name": "Ceco Technologies",
 			"icon": "Camp_icon_0",
-			"des": "Saikad Technologies"
+			"des": "Ceco Technologies"
+		},
+		{
+			"id": 1010,
+			"name": "Girard Group",
+			"icon": "Camp_icon_0",
+			"des": "Girard Group"
+		},
+		{
+			"id": 1011,
+			"name": "Orlog Conglomerate",
+			"icon": "Camp_icon_0",
+			"des": "Orlog Conglomerate"
 		},
 		{
 			"id": 1099,

@@ -3518,7 +3518,7 @@
 				101
 			],
 			"textEnums": "270386",
-			"text": "We Have Obtained {0} Points of {1}"
+			"text": "Allies have obtained {0} points of {1}"
 		},
 		{
 			"id": 101309,
@@ -5427,7 +5427,7 @@
 				101
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": ""
 		},
 		{
 			"id": 106028,
@@ -6120,7 +6120,7 @@
 				101
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": ""
 		},
 		{
 			"id": 106093,
@@ -8722,7 +8722,7 @@
 				102
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": ""
 		},
 		{
 			"id": 111028,
@@ -9415,7 +9415,7 @@
 				102
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": ""
 		},
 		{
 			"id": 111093,
@@ -16155,7 +16155,7 @@
 				252
 			],
 			"textEnums": "271123",
-			"text": "This event has ended"
+			"text": "Event is over"
 		},
 		{
 			"id": 152001,
@@ -16498,6 +16498,192 @@
 			],
 			"textEnums": "22001002",
 			"text": "Supplies"
+		},
+		{
+			"id": 176001,
+			"activityId": 15001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994020
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176002,
+			"activityId": 15001,
+			"textType": 1,
+			"textTypeId": [
+				301
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 176003,
+			"activityId": 15001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994020
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 176004,
+			"activityId": 15001,
+			"textType": 1,
+			"textTypeId": [
+				301
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 176005,
+			"activityId": 15001,
+			"textType": 1,
+			"textTypeId": [
+				301
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 176006,
+			"activityId": 15001,
+			"textType": 1,
+			"textTypeId": [
+				301
+			],
+			"textEnums": "271123",
+			"text": "The event has ended"
+		},
+		{
+			"id": 176601,
+			"activityId": 16001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994021
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176602,
+			"activityId": 16001,
+			"textType": 1,
+			"textTypeId": [
+				311
+			],
+			"textEnums": "271122",
+			"text": "Unlocks after {0}"
+		},
+		{
+			"id": 176603,
+			"activityId": 16001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994021
+			],
+			"textEnums": "196001",
+			"text": "All rewards claimed"
+		},
+		{
+			"id": 176604,
+			"activityId": 16001,
+			"textType": 1,
+			"textTypeId": [
+				311
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 176605,
+			"activityId": 16001,
+			"textType": 1,
+			"textTypeId": [
+				311
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 176606,
+			"activityId": 16001,
+			"textType": 1,
+			"textTypeId": [
+				311
+			],
+			"textEnums": "271123",
+			"text": "Event Ended"
+		},
+		{
+			"id": 176701,
+			"activityId": 17001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994022
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176702,
+			"activityId": 17001,
+			"textType": 1,
+			"textTypeId": [
+				321
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 176703,
+			"activityId": 17001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994022
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 176704,
+			"activityId": 17001,
+			"textType": 1,
+			"textTypeId": [
+				321
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 176705,
+			"activityId": 17001,
+			"textType": 1,
+			"textTypeId": [
+				321
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 176706,
+			"activityId": 17001,
+			"textType": 1,
+			"textTypeId": [
+				321
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
 		},
 		{
 			"id": 180001,
@@ -17471,7 +17657,7 @@
 				201
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "When the Shop Rating reaches its highest level, additional Sticky Notes can be exchanged for Sardis Gold, Combat Reports and Analysis Blueprints until the exchange limit is reached."
 		},
 		{
 			"id": 180090,
@@ -18164,7 +18350,7 @@
 				201
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": ""
 		},
 		{
 			"id": 180153,
@@ -18307,7 +18493,7 @@
 				201
 			],
 			"textEnums": "23003105",
-			"text": "Insufficient materials, please obtain more from Resource Mode"
+			"text": "Insufficient materials, please obtain more from Supply Mode"
 		}
 	]
 }

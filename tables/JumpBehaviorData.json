@@ -187,6 +187,12 @@
 			"jumpScene": ""
 		},
 		{
+			"id": 1040,
+			"jumpPrefab": "UIWeeklyEnterPanel",
+			"unlockId": 11008,
+			"jumpScene": ""
+		},
+		{
 			"id": 1201,
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIStoreExchangePanel",
@@ -213,6 +219,12 @@
 		{
 			"id": 1301,
 			"jumpPrefab": "UIGachaMainPanelV2",
+			"unlockId": 13000,
+			"jumpScene": ""
+		},
+		{
+			"id": 1302,
+			"jumpPrefab": "UISkinGashaponMainPanel",
 			"unlockId": 13000,
 			"jumpScene": ""
 		},
@@ -459,7 +471,7 @@
 		{
 			"id": 3001,
 			"jumpScene": "HallScene",
-			"jumpPrefab": "UIBattlePassPanel",
+			"jumpPrefab": "UIBattlePassPanelV3",
 			"unlockId": 0
 		},
 		{
@@ -503,12 +515,6 @@
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIActivityDialog",
 			"unlockId": 30001
-		},
-		{
-			"id": 6001,
-			"jumpScene": "HallScene",
-			"jumpPrefab": "UIActivityCafeChapterPanel",
-			"unlockId": 29301
 		},
 		{
 			"id": 12000,

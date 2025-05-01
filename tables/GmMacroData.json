@@ -409,358 +409,393 @@
 		{
 			"id": 59,
 			"type": "战斗",
-			"name": "1.5玛绮朵+新增皮肤+枪",
-			"arg": "SendItem@31048@1|SendItem@31049@1|SendItem@31050@1|SendItem@31051@1|SendItem@10341@1|SendItem@10342@1|SendItem@10343@1|SendItem@10343@1|SendItem@1034@1",
-			"argClient": ""
-		},
-		{
-			"id": 60,
-			"type": "战斗",
 			"name": "兵棋推演上榜积分1500",
 			"arg": "GmHighPvpSetData@1500@1@1",
 			"argClient": ""
 		},
 		{
-			"id": 61,
+			"id": 60,
 			"type": "战斗",
 			"name": "兵棋推演上榜积分1",
 			"arg": "GmHighPvpSetData@1@1@1",
 			"argClient": ""
 		},
 		{
-			"id": 62,
+			"id": 61,
 			"type": "战斗",
 			"name": "兵棋推演-加次数",
 			"arg": "SendItem@106@5",
 			"argClient": ""
 		},
 		{
-			"id": 63,
+			"id": 62,
 			"type": "战斗",
-			"name": "无尽映射-第4期全解锁",
-			"arg": "GmSetPoint@4100@2000|GmSetPoint@4200@2000|GmSetPoint@4300@2000|GmSetPoint@4400@2000|GmSetPoint@4500@0",
+			"name": "无尽映射-第5期全解锁",
+			"arg": "GmSetPoint@5100@2000|GmSetPoint@5200@2000|GmSetPoint@5300@2000|GmSetPoint@5400@2000|GmSetPoint@5500@0",
 			"argClient": ""
 		},
 		{
-			"id": 64,
+			"id": 63,
 			"type": "战斗",
 			"name": "首领挑战-跳到下一层",
 			"arg": "GmSimCombatWeekNextStorey@2@0",
 			"argClient": ""
 		},
 		{
-			"id": 65,
+			"id": 64,
 			"type": "战斗",
 			"name": "首领挑战-完成BOSS壁瘤棘虫",
 			"arg": "GmSimCombatWeekNextStorey@3@13",
 			"argClient": ""
 		},
 		{
-			"id": 66,
+			"id": 65,
 			"type": "战斗",
 			"name": "首领挑战-增加挑战次数",
 			"arg": "SendItem@304@5",
 			"argClient": ""
 		},
 		{
-			"id": 67,
+			"id": 66,
 			"type": "战斗",
 			"name": "峰值推定-解锁阶群1-6",
 			"arg": "GMSetMythicStage@6@5@1",
 			"argClient": ""
 		},
 		{
-			"id": 68,
+			"id": 67,
 			"type": "战斗",
 			"name": "扩编实练-一键解锁所有关卡",
-			"arg": "NotifyStagePass@28011@true|NotifyStagePass@28012@true|NotifyStagePass@28013@true|NotifyStagePass@28014@true|NotifyStagePass@28015@true|NotifyStagePass@28021@true|NotifyStagePass@28022@true|NotifyStagePass@28023@true|NotifyStagePass@28024@true|NotifyStagePass@28025@true|NotifyStagePass@28031@true|NotifyStagePass@28032@true|NotifyStagePass@28033@true|NotifyStagePass@28034@true|NotifyStagePass@28035@true|NotifyStagePass@28041@true|NotifyStagePass@28042@true|NotifyStagePass@28043@true|NotifyStagePass@28044@true|NotifyStagePass@28045@true|NotifyStagePass@28051@true|NotifyStagePass@28052@true|NotifyStagePass@28053@true|NotifyStagePass@28054@true|NotifyStagePass@28055@true|NotifyStagePass@28061@true|NotifyStagePass@28062@true|NotifyStagePass@28063@true|NotifyStagePass@28064@true|NotifyStagePass@28065@true|NotifyStagePass@28071@true|NotifyStagePass@28072@true|NotifyStagePass@28073@true|NotifyStagePass@28074@true|NotifyStagePass@28075@true|NotifyStagePass@28081@true|NotifyStagePass@28082@true|NotifyStagePass@28083@true|NotifyStagePass@28084@true|NotifyStagePass@28085@true|NotifyStagePass@28091@true|NotifyStagePass@28092@true|NotifyStagePass@28093@true|NotifyStagePass@28094@true|NotifyStagePass@28095@true|NotifyStagePass@28101@true|NotifyStagePass@28102@true|NotifyStagePass@28103@true|NotifyStagePass@28104@true|NotifyStagePass@28105@true",
+			"arg": "NotifyStagePass@28011@true|NotifyStagePass@28012@true|NotifyStagePass@28013@true|NotifyStagePass@28014@true|NotifyStagePass@28015@true|NotifyStagePass@28021@true|NotifyStagePass@28022@true|NotifyStagePass@28023@true|NotifyStagePass@28024@true|NotifyStagePass@28025@true|NotifyStagePass@28031@true|NotifyStagePass@28032@true|NotifyStagePass@28033@true|NotifyStagePass@28034@true|NotifyStagePass@28035@true|NotifyStagePass@28041@true|NotifyStagePass@28042@true|NotifyStagePass@28043@true|NotifyStagePass@28044@true|NotifyStagePass@28045@true|NotifyStagePass@28051@true|NotifyStagePass@28052@true|NotifyStagePass@28053@true|NotifyStagePass@28054@true|NotifyStagePass@28055@true|NotifyStagePass@28061@true|NotifyStagePass@28062@true|NotifyStagePass@28063@true|NotifyStagePass@28064@true|NotifyStagePass@28065@true|NotifyStagePass@28071@true|NotifyStagePass@28072@true|NotifyStagePass@28073@true|NotifyStagePass@28074@true|NotifyStagePass@28075@true|NotifyStagePass@28081@true|NotifyStagePass@28082@true|NotifyStagePass@28083@true|NotifyStagePass@28084@true|NotifyStagePass@28085@true|NotifyStagePass@28091@true|NotifyStagePass@28092@true|NotifyStagePass@28093@true|NotifyStagePass@28094@true|NotifyStagePass@28095@true|NotifyStagePass@28101@true|NotifyStagePass@28102@true|NotifyStagePass@28103@true|NotifyStagePass@28104@true|NotifyStagePass@28105@true|NotifyStagePass@28111@true|NotifyStagePass@28112@true|NotifyStagePass@28113@true|NotifyStagePass@28115@true|NotifyStagePass@28115@true|NotifyStagePass@28131@true|NotifyStagePass@28132@true|NotifyStagePass@28133@true|NotifyStagePass@28134@true|NotifyStagePass@28135@true|NotifyStagePass@28121@true|NotifyStagePass@28122@true|NotifyStagePass@28123@true|NotifyStagePass@28124@true|NotifyStagePass@28125@true|NotifyStagePass@28141@true|NotifyStagePass@28142@true|NotifyStagePass@28143@true|NotifyStagePass@28144@true|NotifyStagePass@28145@true|NotifyStagePass@28146@true|NotifyStagePass@28147@true|NotifyStagePass@28148@true|NotifyStagePass@28149@true|NotifyStagePass@28150@true|NotifyStagePass@28151@true|NotifyStagePass@28152@true|NotifyStagePass@28153@true|NotifyStagePass@28154@true|NotifyStagePass@28155@true|NotifyStagePass@28156@true|NotifyStagePass@28261@true|NotifyStagePass@28262@true|NotifyStagePass@28263@true|NotifyStagePass@28264@true|NotifyStagePass@28265@true|NotifyStagePass@28266@true|NotifyStagePass@28267@true|NotifyStagePass@28268@true|NotifyStagePass@28269@true|NotifyStagePass@28270@true|NotifyStagePass@282701@true|NotifyStagePass@28271@true|NotifyStagePass@28272@true|NotifyStagePass@28273@true|NotifyStagePass@28274@true|NotifyStagePass@28275@true|NotifyStagePass@28276@true|NotifyStagePass@28277@true|NotifyStagePass@28278@true|NotifyStagePass@28279@true|NotifyStagePass@28280@true|NotifyStagePass@282801@true",
 			"argClient": ""
 		},
 		{
-			"id": 69,
-			"type": "战斗",
-			"name": "1.6乌尔丽德+新增皮肤+枪",
-			"arg": "SendItem@1037@1|SendItem@10373@1|SendItem@10372@1|SendItem@10371@1|SendItem@10411@1|SendItem@10412@1|SendItem@1041@1|SendItem@31048@1",
-			"argClient": ""
-		},
-		{
-			"id": 70,
+			"id": 68,
 			"type": "战斗",
 			"name": "教学本--掩体攻防页签全通关",
 			"arg": "RecursiveUnlocksTutorial@41111",
 			"argClient": ""
 		},
 		{
-			"id": 71,
-			"type": "战斗",
-			"name": "教学本--战场机制页签全通关",
-			"arg": "RecursiveUnlocksTutorial@41211",
-			"argClient": ""
-		},
-		{
-			"id": 72,
-			"type": "战斗",
-			"name": "教学本--战场机制页签全通关",
-			"arg": "RecursiveUnlocksTutorial@41316",
-			"argClient": ""
-		},
-		{
-			"id": 73,
+			"id": 69,
 			"type": "战斗",
 			"name": "教学本--所有关卡全通关",
 			"arg": "RecursiveUnlocksTutorial@41414",
 			"argClient": ""
 		},
 		{
-			"id": 74,
-			"type": "暗区",
-			"name": "一键解锁暗区新旧所有关卡",
-			"arg": "DarkZoneUnlockQuest",
-			"argClient": ""
-		},
-		{
-			"id": 75,
-			"type": "战斗",
-			"name": "1.7索米+新增皮肤+枪",
-			"arg": "SendItem@1039@1|SendItem@1041@1|SendItem@31051@1|SendItem@10411@1|SendItem@10412@1|SendItem@10391@1|SendItem@10392@1",
-			"argClient": ""
-		},
-		{
-			"id": 76,
-			"type": "战斗",
-			"name": "扩编实练-一键解锁所有关卡",
-			"arg": "NotifyStagePass@28011@true|NotifyStagePass@28012@true|NotifyStagePass@28013@true|NotifyStagePass@28014@true|NotifyStagePass@28015@true|NotifyStagePass@28021@true|NotifyStagePass@28022@true|NotifyStagePass@28023@true|NotifyStagePass@28024@true|NotifyStagePass@28025@true|NotifyStagePass@28031@true|NotifyStagePass@28032@true|NotifyStagePass@28033@true|NotifyStagePass@28034@true|NotifyStagePass@28035@true|NotifyStagePass@28041@true|NotifyStagePass@28042@true|NotifyStagePass@28043@true|NotifyStagePass@28044@true|NotifyStagePass@28045@true|NotifyStagePass@28051@true|NotifyStagePass@28052@true|NotifyStagePass@28053@true|NotifyStagePass@28054@true|NotifyStagePass@28055@true|NotifyStagePass@28061@true|NotifyStagePass@28062@true|NotifyStagePass@28063@true|NotifyStagePass@28064@true|NotifyStagePass@28065@true|NotifyStagePass@28071@true|NotifyStagePass@28072@true|NotifyStagePass@28073@true|NotifyStagePass@28074@true|NotifyStagePass@28075@true|NotifyStagePass@28081@true|NotifyStagePass@28082@true|NotifyStagePass@28083@true|NotifyStagePass@28084@true|NotifyStagePass@28085@true|NotifyStagePass@28091@true|NotifyStagePass@28092@true|NotifyStagePass@28093@true|NotifyStagePass@28094@true|NotifyStagePass@28095@true|NotifyStagePass@28101@true|NotifyStagePass@28102@true|NotifyStagePass@28103@true|NotifyStagePass@28104@true|NotifyStagePass@28105@true|NotifyStagePass@28111@true|NotifyStagePass@28112@true|NotifyStagePass@28113@true|NotifyStagePass@28115@true|NotifyStagePass@28115@true|NotifyStagePass@28131@true|NotifyStagePass@28132@true|NotifyStagePass@28133@true|NotifyStagePass@28134@true|NotifyStagePass@28135@true|NotifyStagePass@28121@true|NotifyStagePass@28122@true|NotifyStagePass@28123@true|NotifyStagePass@28124@true|NotifyStagePass@28125@true|NotifyStagePass@28141@true|NotifyStagePass@28142@true|NotifyStagePass@28143@true|NotifyStagePass@28144@true|NotifyStagePass@28145@true|NotifyStagePass@28146@true|NotifyStagePass@28147@true|NotifyStagePass@28148@true|NotifyStagePass@28149@true|NotifyStagePass@28150@true|NotifyStagePass@28151@true|NotifyStagePass@28152@true|NotifyStagePass@28153@true|NotifyStagePass@28154@true|NotifyStagePass@28155@true|NotifyStagePass@28156@true",
-			"argClient": ""
-		},
-		{
-			"id": 77,
-			"type": "战斗",
-			"name": "1.8杜莎妮+新增塞布丽娜皮肤+枪（传颂之诗",
-			"arg": "SendItem@1023@1|SendItem@31052@1|SendItem@10231@1|SendItem@10232@1|SendItem@10233@1",
-			"argClient": ""
-		},
-		{
-			"id": 78,
-			"type": "战斗",
-			"name": "2.1可露凯+可露凯兔女郎皮肤+托落落皮肤+枪（HK416",
-			"arg": "SendItem@31050@1|SendItem@31054@1|SendItem@1052@1|SendItem@10521@1|SendItem@10522@1|SendItem@10523@1",
-			"argClient": ""
-		},
-		{
-			"id": 79,
-			"type": "战斗",
-			"name": "2.2米什缇+奇塔皮肤+白日梦枪",
-			"arg": "SendItem@1051@1|SendItem@31055@1|SendItem@10513@1",
-			"argClient": ""
-		},
-		{
-			"id": 80,
+			"id": 70,
 			"type": "战斗",
 			"name": "地层探索关卡全解锁",
 			"arg": "GMDungeonUnlockAll@101",
 			"argClient": ""
 		},
 		{
-			"id": 81,
+			"id": 71,
 			"type": "战斗",
 			"name": "好感度关卡解锁：\nGMSetLoveVowed@1001 \nGMSetLoveLevel@1001@5（自己去GM输入框执行）",
 			"arg": "GMSetLoveVowed@1001|GMSetLoveLevel@1001@5",
 			"argClient": ""
 		},
 		{
-			"id": 82,
+			"id": 72,
 			"type": "战斗",
 			"name": "公会战一键上榜",
 			"arg": "GMGuildSetMemberScore@9999|GMGuildSetScore@9999",
 			"argClient": ""
 		},
 		{
-			"id": 83,
-			"type": "战斗",
-			"name": "2.3维克托+报丧轻语+爆发共键",
-			"arg": "SendItem@1044@1|SendItem@10442@1|SendItem@10443@1|SendItem@93011@1",
-			"argClient": ""
-		},
-		{
-			"id": 84,
+			"id": 73,
 			"type": "暗区",
 			"name": "发电辐晶99999（暗区天赋点）",
 			"arg": "SendItem@62005@10000",
 			"argClient": ""
 		},
 		{
-			"id": 85,
+			"id": 74,
 			"type": "暗区",
 			"name": "解锁暗区新手关",
 			"arg": "GMUnlockWeeklyPreMap",
 			"argClient": ""
 		},
 		{
-			"id": 86,
+			"id": 75,
 			"type": "暗区",
 			"name": "清编队冷却CD",
 			"arg": "GMResetWeeklyGunCd",
 			"argClient": ""
 		},
 		{
-			"id": 87,
+			"id": 76,
 			"type": "暗区",
 			"name": "满天赋",
 			"arg": "GMSetTalent@0",
 			"argClient": ""
 		},
 		{
-			"id": 88,
+			"id": 77,
 			"type": "暗区",
 			"name": "解锁天赋与悬赏1",
 			"arg": "ReachCounter@551@3@[4031,1]",
 			"argClient": ""
 		},
 		{
-			"id": 89,
+			"id": 78,
 			"type": "暗区",
 			"name": "解锁天赋与悬赏1",
 			"arg": "ReachCounter@551@3@[4039,1]",
 			"argClient": ""
 		},
 		{
-			"id": 90,
+			"id": 79,
 			"type": "暗区",
 			"name": "奖励池_浅层_1当箱子全满",
 			"arg": "GMSetRewardRecord@1@40|GMSetRewardRecord@2@40",
 			"argClient": ""
 		},
 		{
-			"id": 91,
+			"id": 80,
 			"type": "暗区",
 			"name": "奖励池_浅层_2当箱子全满",
 			"arg": "GMSetRewardRecord@3@7|GMSetRewardRecord@4@8|GMSetRewardRecord@5@45",
 			"argClient": ""
 		},
 		{
-			"id": 92,
+			"id": 81,
 			"type": "暗区",
 			"name": "奖励池_浅层_3当箱子全满",
 			"arg": "GMSetRewardRecord@6@8",
 			"argClient": ""
 		},
 		{
-			"id": 93,
+			"id": 82,
 			"type": "暗区",
 			"name": "奖励池_浅层满后→间层_1当箱子全满",
 			"arg": "GMSetRewardRecord@2001@20|GMSetRewardRecord@2002@20",
 			"argClient": ""
 		},
 		{
-			"id": 94,
+			"id": 83,
 			"type": "暗区",
 			"name": "奖励池_浅层满后→间层_2当箱子全满",
 			"arg": "GMSetRewardRecord@2003@3|GMSetRewardRecord@2004@2|GMSetRewardRecord@2005@15",
 			"argClient": ""
 		},
 		{
-			"id": 95,
+			"id": 84,
 			"type": "暗区",
 			"name": "奖励池_浅层满后→间层_3当箱子全满",
 			"arg": "GMSetRewardRecord@2006@8",
 			"argClient": ""
 		},
 		{
-			"id": 96,
+			"id": 85,
 			"type": "暗区",
 			"name": "奖励池_间层满后→深层_1当箱子全满",
 			"arg": "GMSetRewardRecord@3001@24|GMSetRewardRecord@3002@24",
 			"argClient": ""
 		},
 		{
-			"id": 97,
+			"id": 86,
 			"type": "暗区",
 			"name": "奖励池_间层满后→深层_2当箱子全满",
 			"arg": "GMSetRewardRecord@3003@4|GMSetRewardRecord@3004@4|GMSetRewardRecord@3005@24",
 			"argClient": ""
 		},
 		{
-			"id": 98,
+			"id": 87,
 			"type": "暗区",
 			"name": "奖励池_间层满后→深层_3当箱子全满",
 			"arg": "GMSetRewardRecord@3006@8",
 			"argClient": ""
 		},
 		{
-			"id": 99,
+			"id": 88,
+			"type": "暗区",
+			"name": "完成周常房间任务(需进入任务图中执行",
+			"arg": "1#SetIsFinishMap@true",
+			"argClient": ""
+		},
+		{
+			"id": 89,
+			"type": "暗区",
+			"name": "设置暗区等级",
+			"arg": "AddWeeklyMapPoint@4003@2000",
+			"argClient": ""
+		},
+		{
+			"id": 90,
+			"type": "暗区",
+			"name": "刷新周任务",
+			"arg": "GMResetWeeklyQuest",
+			"argClient": ""
+		},
+		{
+			"id": 91,
 			"type": "肉鸽",
 			"name": "跳过当前地图节点",
 			"arg": "GMRougeNextNode",
 			"argClient": ""
 		},
 		{
-			"id": 100,
+			"id": 92,
 			"type": "肉鸽",
 			"name": "加天赋道具",
 			"arg": "SendItem@9990101@9999",
 			"argClient": ""
 		},
 		{
-			"id": 101,
+			"id": 93,
 			"type": "肉鸽",
 			"name": "探索等级一键满级",
 			"arg": "GMRougeAddExp@99999",
 			"argClient": ""
 		},
 		{
-			"id": 102,
+			"id": 94,
 			"type": "肉鸽",
 			"name": "探索等级经验+100",
 			"arg": "GMRougeAddExp@100",
 			"argClient": ""
 		},
 		{
-			"id": 103,
+			"id": 95,
 			"type": "肉鸽",
 			"name": "重置肉鸽进入的cd",
 			"arg": "GMRougeResetEnterCD",
 			"argClient": ""
 		},
 		{
-			"id": 104,
+			"id": 96,
 			"type": "肉鸽",
 			"name": "到下一层(局内使用",
 			"arg": "GMRougeJumpToNextLayer",
 			"argClient": ""
 		},
 		{
-			"id": 105,
+			"id": 97,
 			"type": "肉鸽",
 			"name": "解锁所有难度",
 			"arg": "GMRougeUnlockAllDifficulty",
 			"argClient": ""
 		},
 		{
-			"id": 106,
+			"id": 98,
 			"type": "肉鸽",
 			"name": "添加当前赛季所有芯片(局内使用",
 			"arg": "GMRougeAddAllSeasonChips",
 			"argClient": ""
 		},
 		{
-			"id": 107,
+			"id": 99,
 			"type": "肉鸽",
 			"name": "局内弹出指定芯片包(目前填的1",
 			"arg": "GMRougeAddChipPack@1",
 			"argClient": ""
 		},
 		{
-			"id": 108,
+			"id": 100,
 			"type": "肉鸽",
 			"name": "替换当前层且重置当前层进度(目前填的第五层",
 			"arg": "GMReplaceCurrentLayer@1015",
 			"argClient": ""
 		},
 		{
-			"id": 109,
+			"id": 101,
 			"type": "肉鸽",
 			"name": "商店货币遗珍+9999",
 			"arg": "SendItem@9990102@9999",
+			"argClient": ""
+		},
+		{
+			"id": 102,
+			"type": "版本新增人形",
+			"name": "1.5玛绮朵+新增皮肤+枪",
+			"arg": "SendItem@31048@1|SendItem@31049@1|SendItem@31050@1|SendItem@31051@1|SendItem@10341@1|SendItem@10342@1|SendItem@10343@1|SendItem@10343@1|SendItem@1034@1",
+			"argClient": ""
+		},
+		{
+			"id": 103,
+			"type": "版本新增人形",
+			"name": "1.6乌尔丽德+新增皮肤+枪",
+			"arg": "SendItem@1037@1|SendItem@10373@1|SendItem@10372@1|SendItem@10371@1|SendItem@10411@1|SendItem@10412@1|SendItem@1041@1|SendItem@31048@1",
+			"argClient": ""
+		},
+		{
+			"id": 104,
+			"type": "版本新增人形",
+			"name": "1.7索米+新增皮肤+枪",
+			"arg": "SendItem@1039@1|SendItem@1041@1|SendItem@31051@1|SendItem@10411@1|SendItem@10412@1|SendItem@10391@1|SendItem@10392@1",
+			"argClient": ""
+		},
+		{
+			"id": 105,
+			"type": "版本新增人形",
+			"name": "1.8杜莎妮+新增塞布丽娜皮肤+枪（传颂之诗",
+			"arg": "SendItem@1023@1|SendItem@31052@1|SendItem@10231@1|SendItem@10232@1|SendItem@10233@1",
+			"argClient": ""
+		},
+		{
+			"id": 106,
+			"type": "版本新增人形",
+			"name": "2.1可露凯+可露凯兔女郎皮肤+托落落皮肤+枪（HK416",
+			"arg": "SendItem@31050@1|SendItem@31054@1|SendItem@1052@1|SendItem@10521@1|SendItem@10522@1|SendItem@10523@1",
+			"argClient": ""
+		},
+		{
+			"id": 107,
+			"type": "版本新增人形",
+			"name": "2.2米什缇+奇塔皮肤+白日梦枪",
+			"arg": "SendItem@1051@1|SendItem@31055@1|SendItem@10513@1",
+			"argClient": ""
+		},
+		{
+			"id": 108,
+			"type": "版本新增人形",
+			"name": "2.3维克托+报丧轻语+爆发共键",
+			"arg": "SendItem@1044@1|SendItem@10442@1|SendItem@10443@1|SendItem@93011@1",
+			"argClient": ""
+		},
+		{
+			"id": 109,
+			"type": "版本新增人形",
+			"name": "2.7佩莉+夏克里皮肤",
+			"arg": "SendItem@1053@1|SendItem@31063@1",
+			"argClient": ""
+		},
+		{
+			"id": 110,
+			"type": "藏品",
+			"name": "批量发放12个藏品",
+			"arg": "SendItem@1325001@1|SendItem@1325002@1|SendItem@1325003@1|SendItem@1325004@1|SendItem@1325101@1|SendItem@1325102@1|SendItem@1325103@1|SendItem@1325104@1|SendItem@1325105@1|SendItem@1325106@1|SendItem@1325107@1|SendItem@1325108@1|SendItem@1325109@1|SendItem@1325110@1|SendItem@1325111@1|SendItem@1325112@1",
+			"argClient": ""
+		},
+		{
+			"id": 111,
+			"type": "藏品",
+			"name": "解锁墙纸",
+			"arg": "SendItem@1335001@1|SendItem@1335002@1|SendItem@1335003@1",
+			"argClient": ""
+		},
+		{
+			"id": 112,
+			"type": "版本新增人形",
+			"name": "2.9幼熙+幼熙皮肤",
+			"arg": "SendItem@1054@1|SendItem@31069@1",
+			"argClient": ""
+		},
+		{
+			"id": 113,
+			"type": "版本新增人形",
+			"name": "2.9时装部件",
+			"arg": "SendItem@54010101@1|SendItem@54010102@1|SendItem@54010103@1|SendItem@54010201@1|SendItem@54010202@1|SendItem@54010203@1|SendItem@54010301@1|SendItem@54010302@1|SendItem@54010303@1",
+			"argClient": ""
+		},
+		{
+			"id": 114,
+			"type": "版本新增人形",
+			"name": "2.10新增人形+皮肤",
+			"arg": "SendItem@31070@1|SendItem@1055@1",
 			"argClient": ""
 		}
 	]

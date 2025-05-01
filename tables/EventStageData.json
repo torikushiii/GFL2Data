@@ -351,11 +351,6 @@
 			"unlockTime": 4
 		},
 		{
-			"stageid": 31891,
-			"activityId": 60806,
-			"unlockTime": 0
-		},
-		{
 			"stageid": 31892,
 			"activityId": 60806,
 			"unlockTime": 1
@@ -373,6 +368,56 @@
 		{
 			"stageid": 31895,
 			"activityId": 60806,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 31956,
+			"activityId": 60903,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 31957,
+			"activityId": 60903,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 31958,
+			"activityId": 60903,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 31959,
+			"activityId": 60903,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 31960,
+			"activityId": 60903,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32091,
+			"activityId": 61009,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32092,
+			"activityId": 61009,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32093,
+			"activityId": 61009,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32094,
+			"activityId": 61009,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32095,
+			"activityId": 61009,
 			"unlockTime": 4
 		}
 	]

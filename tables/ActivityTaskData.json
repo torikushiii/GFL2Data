@@ -3,7 +3,7 @@
 		{
 			"id": 1001,
 			"taskGroup": 101,
-			"name": "Daily Indicator 1",
+			"name": "Daily Target 1",
 			"des": "Attempt Chase Concerto once",
 			"sequence": 1,
 			"actionParam": 1,
@@ -21,7 +21,7 @@
 		{
 			"id": 1002,
 			"taskGroup": 101,
-			"name": "Daily Indicator 2",
+			"name": "Daily Target 2",
 			"des": "Complete any stage of Chase Concerto (Auto Battle included)",
 			"sequence": 1,
 			"actionParam": 1,
@@ -1434,7 +1434,7 @@
 		{
 			"id": 35101,
 			"taskGroup": 351,
-			"name": "Daily Indicator 1",
+			"name": "Daily Target 1",
 			"des": "Attempt Cloud Exercise once",
 			"sequence": 1,
 			"actionParam": 1,
@@ -1453,7 +1453,7 @@
 		{
 			"id": 35102,
 			"taskGroup": 351,
-			"name": "Daily Indicator 2",
+			"name": "Daily Target 2",
 			"des": "Complete any stage of Cloud Exercise (Auto Battle included)",
 			"sequence": 1,
 			"actionParam": 1,
@@ -2298,7 +2298,7 @@
 			"conditionArg0": 1,
 			"conditionArg1": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "1098",
 			"conditionArg2": 0
@@ -2316,7 +2316,7 @@
 			"conditionArg1": 1,
 			"conditionArg2": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3300"
 		},
@@ -2333,7 +2333,7 @@
 			"conditionArg1": 1,
 			"conditionArg2": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3800"
 		},
@@ -2350,7 +2350,7 @@
 			"conditionArg1": 1,
 			"conditionArg2": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3150"
 		},
@@ -2367,7 +2367,7 @@
 			"conditionArg1": 1,
 			"conditionArg2": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3200"
 		},
@@ -2384,7 +2384,7 @@
 			"conditionArg1": 1,
 			"conditionArg2": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3400"
 		},
@@ -2399,7 +2399,7 @@
 			"conditionNum": 1,
 			"conditionArg0": -1,
 			"rewardList": [
-				"175001:10"
+				"175001:50"
 			],
 			"link": "3014",
 			"conditionArg1": 0,
@@ -2757,6 +2757,244 @@
 			"conditionArg0": -1,
 			"rewardList": [
 				"176301:50"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 160101,
+			"taskGroup": 1601,
+			"name": "Supply Missions",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 160102,
+			"taskGroup": 1601,
+			"name": "Standardizing Sync",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 160103,
+			"taskGroup": 1601,
+			"name": "Targeted Study",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 160104,
+			"taskGroup": 1601,
+			"name": "Cognitive Configuration",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 160105,
+			"taskGroup": 1601,
+			"name": "In-Depth Search",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 160106,
+			"taskGroup": 1601,
+			"name": "Equipment Analysis",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 160107,
+			"taskGroup": 1601,
+			"name": "Combat Exercise",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"176601:50"
+			],
+			"link": "3014",
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 170101,
+			"taskGroup": 1701,
+			"name": "Supply Missions",
+			"des": "Win 2 times in Supply Mission",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "1098",
+			"conditionArg2": 0
+		},
+		{
+			"id": 170102,
+			"taskGroup": 1701,
+			"name": "Standardizing Sync",
+			"des": "Win 2 times in Standardizing Sync",
+			"sequence": 2,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 20,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "3300"
+		},
+		{
+			"id": 170103,
+			"taskGroup": 1701,
+			"name": "Targeted Study",
+			"des": "Win 2 times in Targeted Study",
+			"sequence": 3,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 41,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "3800"
+		},
+		{
+			"id": 170104,
+			"taskGroup": 1701,
+			"name": "Cognitive Configuration",
+			"des": "Win 2 times in Cognitive Configuration",
+			"sequence": 4,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 22,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "3150"
+		},
+		{
+			"id": 170105,
+			"taskGroup": 1701,
+			"name": "In-Depth Search",
+			"des": "Win 2 times in In-Depth Search",
+			"sequence": 5,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 21,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "3200"
+		},
+		{
+			"id": 170106,
+			"taskGroup": 1701,
+			"name": "Equipment Analysis",
+			"des": "Win 2 times in Equipment Analysis",
+			"sequence": 6,
+			"actionParam": 1,
+			"conditionClass": 201,
+			"conditionNum": 2,
+			"conditionArg0": 31,
+			"conditionArg1": 1,
+			"conditionArg2": -1,
+			"rewardList": [
+				"176701:50"
+			],
+			"link": "3400"
+		},
+		{
+			"id": 170107,
+			"taskGroup": 1701,
+			"name": "Combat Exercise",
+			"des": "Win once in Combat Exercise",
+			"sequence": 7,
+			"actionParam": 1,
+			"conditionClass": 301,
+			"conditionNum": 1,
+			"conditionArg0": -1,
+			"rewardList": [
+				"176701:50"
 			],
 			"link": "3014",
 			"conditionArg1": 0,

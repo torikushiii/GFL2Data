@@ -242,6 +242,114 @@
 				"23142": 1
 			},
 			"rewardType": 2
+		},
+		{
+			"id": 19,
+			"rewardGroup": 1012,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22066": 1,
+				"23143": 1,
+				"24113": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 20,
+			"rewardGroup": 1012,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22066": 1,
+				"23143": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 21,
+			"rewardGroup": 1013,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22067": 1,
+				"23144": 1,
+				"24128": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 22,
+			"rewardGroup": 1013,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22067": 1,
+				"23144": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 23,
+			"rewardGroup": 1014,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22068": 1,
+				"23145": 1,
+				"24129": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 24,
+			"rewardGroup": 1014,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22068": 1,
+				"23145": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 25,
+			"rewardGroup": 1015,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22069": 1,
+				"23146": 1,
+				"24132": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 26,
+			"rewardGroup": 1015,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22069": 1,
+				"23146": 1
+			},
+			"rewardType": 2
 		}
 	]
 }

@@ -86,6 +86,11 @@
 			"lgpPath": "lgp_Root"
 		},
 		{
+			"id": 101401,
+			"effectPath": "PerityaSSR_01",
+			"lgpPath": "lgp_Root"
+		},
+		{
 			"id": 101402,
 			"effectPath": "PerityaSSR_01_wp",
 			"lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon"

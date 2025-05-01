@@ -213,15 +213,15 @@
 		{
 			"id": 39016,
 			"sourceGunid": 1052,
-			"briefIntro": "Klukai is a Sentinel Doll who can apply many debuffs to enemies, such as [Corrosive Infusion], which deals AoE Corrosion damage depending on the amount of  stacks on the the target, as well as [Toxic Infiltration], which spreads to nearby enemy units and deals AoE Corrosion damage to them when a target dies.",
+			"briefIntro": "A powerful Corrosion Sentinel Doll, capable of applying various debuffs to enemy units and delivering devastating blows to large groups of enemies.",
 			"iconSkill1": 10520501,
-			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in.\nIf any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of the action, units afflicted with [Corrosive Infusion] take AoE Corrosion damage.",
+			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in. If any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of action, units with [Corrosive Infusion] suffer AoE Corrosion damage.",
 			"iconSkill2": 10520701,
-			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units within 3 tiles, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] are inflicted with [Corrosive Infusion] at the end of their action. Upon death, nearby allied units become infected and be dealt AoE Corrosive damage.. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
+			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] will gain [Corrosive Infusion] at the end of their action, and upon death, their nearby allied units will be infected and suffer AoE Corrosion damage. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
 			"iconSkill3": 10520401,
 			"textSkill3": "Selects 1 nearby tile and lands onto it, dealing AoE Corrosion damage to all enemy units in the path. If 2 or more targets are killed, the skill can be cast again. After using the skill, Klukai gains an Additional Movement.",
 			"iconSkill4": 10520801,
-			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target, gains 1 stack of [Competitive Spirit], and increases Klukai's Corrosion damage. Klukai gets Confectance Index when Corrosive damage is dealt by her own active attacks and by allied units. The cooldown of her Ultimate is reduced based on the amount of Confectance Index accumulated.",
+			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target and increases Klukai's Corrosion damage. Klukai gains Confectance Index when Corrosion damage is dealt by self active attacks and allied units. The cooldown of the ultimate skill is reduced based on the amount of Confectance Index accumulated.",
 			"gunTags": ""
 		},
 		{
@@ -249,7 +249,7 @@
 			"iconSkill3": 10440401,
 			"textSkill3": "Deals AoE Burn damage to the target and all enemy units within 7 tiles, generating [Incineration] tiles in the area. Enemy units affected gain Burn weakness and are inflicted with [Overburn] at the end of the action. The Burn damage they receive is also increased.\nAll allied units gain [Oil to the Fire], boosting their Burn damage dealt. When dealing Burn damage, they inflict an additional instance of fixed damage.\nVector gains [Extra Command].",
 			"iconSkill4": 10440801,
-			"textSkill4": "Vector is immune to negative effects from Burn-type tiles.\nAt the start of battle, the number of all assists which deal Burn damage is increased.\nAt the start of the allied turn, if Vector's Confectance Index gauge is full, Vector expends all Confectance Index and increases her attack.\nBefore dealing Burn damage, if the target has [Overburn] on them, Vector applies [Overheat Combustion] to them. Units with that effect take fixed damage at the start of their turn.",
+			"textSkill4": "Vector is immune to negative effects from Burn-type tiles.\nAt the start of battle, the number of all Support Attacks which deal Burn damage is increased.\nAt the start of the allied turn, if Vector's Confectance Index gauge is full, Vector expends all Confectance Index and increases her attack.\nBefore dealing Burn damage, if the target has [Overburn] on them, Vector applies [Overheat Combustion] to them. Units with that effect take fixed damage at the start of their turn.",
 			"gunTags": ""
 		},
 		{
@@ -292,6 +292,62 @@
 			"textSkill3": "Select an enemy target and summon [Taryz] to follow it, applying [Damp] and [False Intelligence] to them and dealing AoE Hydro damage to them.\nApplies [Deep-Rooted Bonds] to all allies on the battlefield. This increases allies' max HP, applies [Overflowing Care] to them and heals allies' HP and stability index. Also cleanses debuffs, Taunt and Fear effects.\nWhen the target that Taryz follows dies, Taryz switches to following the enemy unit with the highest current HP.\nSpringfield gains confectance index.",
 			"iconSkill4": 10470801,
 			"textSkill4": "At the end of Springfield's action, if Confectance Index is maxed out, expend all Confectance Index and gain [Extra Action]\nWhen the target that [Taryz] is following deals damage to allied units, [Taryz] will counterattack, dealing Hydro damage and stability damage in addition to healing allied units.\nIf [Taryz] is on the battlefield, Springfield heals HP at the end of an action.",
+			"gunTags": ""
+		},
+		{
+			"id": 39022,
+			"sourceGunid": 1053,
+			"briefIntro": "Peri is a Bulwark-class Doll. She can expend her HP to build up stacks of [Hot Investment] and perform multiple basic attacks based on the number of [Hot Investment] stacks she possesses. She can also apply a shield to herself in the form of [Capital Protection], which increases her survivability.",
+			"iconSkill1": 10530501,
+			"textSkill1": "Expends HP to gain [Hot Investment]. Attacks deal Burn damage.\n [Hot Investment] reduces damage taken and healing received. At the start of Peri's action, the number of [Hot Investment] stacks is reduced",
+			"iconSkill2": 10530701,
+			"textSkill2": "Expends HP to gain [Hot Investment]. Deals AoE Burn Damage to the target and all surrounding enemies and apply [Overburn].",
+			"iconSkill3": 10530401,
+			"textSkill3": "Gains [Hot Investment], [Bargain], and [Capital Protection]. \n [Bargain]: The critical rate and damage dealt of basic attacks is increased. \n [Capital Protection]: Shield effect. Stability damage taken is decreased. At the end of action, applies [Taunt] to nearby enemy units.",
+			"iconSkill4": 10530801,
+			"textSkill4": "At the end of this Peri's action, she gains Confectance Index. When allied units (excluding Peri) launches [Support Attacks] that deal Burn damage, Peri gains Confectance Index if her Confectance Index is not at maximum. \nAfter using an active skill, Peri can use the basic attack [Passionate Gift] based on the number of [Hot Investment] stacks she possess. These basic attacks are altered to deal Burn damage to the target based on the amount of [Hot Investment] stacks she possess.",
+			"gunTags": ""
+		},
+		{
+			"id": 39023,
+			"sourceGunid": 1048,
+			"briefIntro": "Qiuhua is a Vanguard-class Doll. She has excellent mobility and the ability to apply the [Scorch Mark] effect to enemies. At the end of her action, she deals Burn damage to targets based on the number of [Scorch Mark] stacks they possess. [Scorch Mark] stacks can also be applied by dealing Burn damage.",
+			"iconSkill1": 10480501,
+			"textSkill1": "Deals Burn damage. When the distance between Qiuhua and the target is less than or equal to 4 tiles, damage and stability damage dealt is increased.",
+			"iconSkill2": 10480701,
+			"textSkill2": "Lands on the selected tile, dealing Burn damage to the nearest enemy target within range and gains Extra Command. Reduces the cooldown of the Ultimate Skill [Boil and Reduce].",
+			"iconSkill3": 10480401,
+			"textSkill3": "Applies [Scorch Mark] to the target and all surrounding enemy targets. Expends all points of Confectance Index and increases the damage of this attack based on the amount of Confectance Index expended. \n [Scorch Mark]: At the end of the action, Qiuhua deals Burn damage based on the number of [Scorch Mark] stacks. The number of [Scorch Mark] stacks are then reset. Gains more stacks when the holder is taking Burn damage.",
+			"iconSkill4": 10480801,
+			"textSkill4": "Burn damage dealt is increased when there are no other allied units nearby. Critical rate is increased when dealing Burn damage to enemy targets with [Scorch Mark].\nIf there are enemy targets within range afflicted with [Overburn], Qiuhua launches [Wise Support], dealing Burn damage.",
+			"gunTags": ""
+		},
+		{
+			"id": 39024,
+			"sourceGunid": 1054,
+			"briefIntro": "Yoohee is a support-type Doll who can grant her teammates many beneficial buffs, such as Defense Shredding; when ally units deal physical damage and the target's defence has been reduced below 0%, it causes damage dealt to the target to be increased instead. She can also grant many Dance Step effects, which can improve her teammates damage output and survivability. Applying multiple Dance Steps will also trigger map-wide support effects.",
+			"iconSkill1": 10540501,
+			"textSkill1": "Deals physical damage. If this unit has 3 or more points of Confectance Index, expends Confectance Index to cause this attack to ignore part of the target's defence.",
+			"iconSkill2": 10540701,
+			"textSkill2": "Applies Targeted Attack Defence I to the target an all other ally units within 2 tiles. Deals AoE physical damage to all enemy units within that area and applies Stun to them. \nAfter the attack, Yoohee gains 1 additional use of the active skill Graceful Spin or the active skill Passionate Resonance.",
+			"iconSkill3": 10540401,
+			"textSkill3": "Gain Troupe's Core. Applies Stability Offensive I to all teammates. Gains Extra Command after using this skill. \nTroupe's Core: When applying Dance Steps to teammates (Includes Graceful Spin and Passionate Resonance) Yoohee gains the same effect.",
+			"iconSkill4": 10540801,
+			"textSkill4": "When ally units deal physical damage, gain Confectance Index. \nAfter using a normal attack or an active skill, this unit can use the active skill Graceful Spin or the active skill Passionate Resonance. \nAfter applying 3 or more Dance Steps, trigger Best Dancer once, gain 1 stack of Never Give Up and refresh the duration of all stacks of Dance Steps and Defense Shredding across the battlefield. \nBest Dancer: Triggers a mapwide buff based on the most recently-applied Dance Step. \nNever Give Up: Ally units ignore part of the target's defense when performing an active physical attack.",
+			"gunTags": ""
+		},
+		{
+			"id": 39025,
+			"sourceGunid": 1055,
+			"briefIntro": "Nikketa is a Sentinel-class Doll capable of outputting a lot of damage through repeated usage of her Ultimate skill. She has the ability to inflict her enemies with [Guilt]; her Ultimate skill will make an additional attack on any target with [Guilt]. Furthermore, when Kulich counterattacks, Nikketa will follow up using her Ultimate skill.",
+			"iconSkill1": 10550501,
+			"textSkill1": "Summons Kulich at the selected empty tile and deals AoE Physical damage to all enemy units within 2 tiles. Inflicts affected enemies with [Guilt], increasing their Hydro damage taken when attacked by Kulich or Nikketa. \nIf Kulich is already on the field, then teleport Kulich onto the selected tile.\nGains Confectance Index.",
+			"iconSkill2": 10550701,
+			"textSkill2": "Attacks deal Hydro damage and inflict [Guilt].\nGains Confectance Index and [Extra Command].",
+			"iconSkill3": 10550401,
+			"textSkill3": "Deals Hydro damage. If the target is inflicted with [Guilt], launch an additional attack and remove [Guilt].\nConsume all points of Confectance Index, increasing the skill's damage based on the amount of Confectance Index consumed.",
+			"iconSkill4": 10550801,
+			"textSkill4": "When Kulich is on the field, Nikketa gains [Insight].\nBoth Kulich and Nikketa will gain one stack of [Clue] before either launches a skill. If the attack exploits a phase weakness, gain additional [Clue] and increase the holder's damage outside their turn.\nAfter Kulich counterattacks, Nikketa will follow up using her Ultimate skill Righteous Verdict.",
 			"gunTags": ""
 		}
 	]

@@ -1,31 +1,10 @@
 {
 	"data": [
 		{
-			"id": 10997,
-			"name": "Past Events",
-			"type": 3,
-			"sort": 3,
-			"jump": 2501
-		},
-		{
-			"id": 10998,
-			"name": "Supply Missions",
-			"type": 3,
-			"sort": 4,
-			"jump": 1098
-		},
-		{
-			"id": 10999,
-			"name": "Combat Simulations",
+			"id": 11001,
+			"name": "Battle",
 			"type": 3,
 			"sort": 5,
-			"jump": 1099
-		},
-		{
-			"id": 11001,
-			"name": "Campaign",
-			"type": 3,
-			"sort": 2,
 			"jump": 1000
 		},
 		{
@@ -57,6 +36,13 @@
 			"jump": 0
 		},
 		{
+			"id": 19000,
+			"name": "Platoon",
+			"type": 3,
+			"sort": 3,
+			"jump": 21001
+		},
+		{
 			"id": 20000,
 			"name": "Elmo Server Room",
 			"type": 2,
@@ -76,6 +62,13 @@
 			"type": 1,
 			"sort": 3,
 			"jump": 0
+		},
+		{
+			"id": 23000,
+			"name": "Friend",
+			"type": 3,
+			"sort": 4,
+			"jump": 9001
 		},
 		{
 			"id": 26002,
@@ -103,6 +96,13 @@
 			"name": "Events Hub",
 			"type": 1,
 			"sort": 5,
+			"jump": 0
+		},
+		{
+			"id": 41002,
+			"name": "Formation",
+			"type": 3,
+			"sort": 2,
 			"jump": 0
 		}
 	]

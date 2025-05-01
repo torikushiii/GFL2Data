@@ -1423,6 +1423,51 @@
 			"weight": 100
 		},
 		{
+			"interId": 10480101,
+			"id": 1048,
+			"preposition": 104801,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10480201,
+			"id": 1048,
+			"preposition": 104802,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10480301,
+			"id": 1048,
+			"preposition": 104803,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10480401,
+			"id": 1048,
+			"preposition": 104804,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10480501,
+			"id": 1048,
+			"preposition": 104805,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
 			"interId": 10500101,
 			"id": 1050,
 			"preposition": 105001,
@@ -1552,6 +1597,141 @@
 			"interId": 10520501,
 			"id": 1052,
 			"preposition": 105205,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10530101,
+			"id": 1053,
+			"preposition": 105301,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10530201,
+			"id": 1053,
+			"preposition": 105302,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10530301,
+			"id": 1053,
+			"preposition": 105303,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10530401,
+			"id": 1053,
+			"preposition": 105304,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10530501,
+			"id": 1053,
+			"preposition": 105305,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10540101,
+			"id": 1054,
+			"preposition": 105401,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10540201,
+			"id": 1054,
+			"preposition": 105402,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10540301,
+			"id": 1054,
+			"preposition": 105403,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10540401,
+			"id": 1054,
+			"preposition": 105404,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10540501,
+			"id": 1054,
+			"preposition": 105405,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10550101,
+			"id": 1055,
+			"preposition": 105501,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10550201,
+			"id": 1055,
+			"preposition": 105502,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10550301,
+			"id": 1055,
+			"preposition": 105503,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10550401,
+			"id": 1055,
+			"preposition": 105504,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10550501,
+			"id": 1055,
+			"preposition": 105505,
 			"isTimeline": true,
 			"isEsc": true,
 			"barrackInteract": "c_{0}_Bedroom_0501",

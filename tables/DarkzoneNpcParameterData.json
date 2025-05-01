@@ -6,7 +6,7 @@
 			"favorLevel": 1,
 			"discount": 1000,
 			"favorEffect": "",
-			"npcStory": "Poludnitsa, a well-known among all the bounty hunters—and just as the meaning of the name entails,  this skilled lady is always ready to surprise her clients with a mysterious yet elegant and bewtiching smile.",
+			"npcStory": "Poludnitsa, a well-known among all the bounty hunters—and just as the meaning of the name entails,  this skilled lady is always ready to surprise her clients with a mysterious yet elegant and bewitching smile.",
 			"needFavorPoint": 0
 		},
 		{
@@ -25,7 +25,7 @@
 			"needFavorPoint": 2000,
 			"discount": 1000,
 			"favorEffect": "Increase the number of purchases for certain items.",
-			"npcStory": "As for her reason to become a Manager? Her answer was, \"Perhaps only in these dangerous territories where no one dares to set foot I can find exotic treasures to satisfy my intruige? That answer is worth 0.5 ounces of Sardis Gold. Remember to pay me in time!\""
+			"npcStory": "As for her reason to become a Manager? Her answer was, \"Perhaps only in these dangerous territories where no one dares to set foot I can find exotic treasures to satisfy my intrigue? That answer is worth 0.5 ounces of Sardis Gold. Remember to pay me in time!\""
 		},
 		{
 			"id": 1004,
@@ -78,7 +78,7 @@
 			"favorLevel": 1,
 			"discount": 1000,
 			"favorEffect": "",
-			"npcStory": "Although clearly stated in the Manager's Notice that a virtual avatar is mandatory, ultimately, only the underground broker going by the monicker of \"Catlina\" followed the rule as others simply used their real appearances for their avatar. On a side note, while choosing their virtual avatar, \"Catlina\" immediately picked this orange tabby one that looked like a certain client of theirs without hesitation",
+			"npcStory": "Although clearly stated in the Manager's Notice that a virtual avatar is mandatory, ultimately, only the underground broker going by the monicker of \"Kalinyan\" followed the rule as others simply used their real appearances for their avatar. On a side note, while choosing their virtual avatar, \"Kalinyan\" immediately picked this orange tabby one that looked like a certain client of theirs without hesitation",
 			"needFavorPoint": 0
 		},
 		{
@@ -106,7 +106,7 @@
 			"needFavorPoint": 3000,
 			"discount": 1000,
 			"favorEffect": "Unlock New Shop Items",
-			"npcStory": "Why? Purely to stay in character, ya know? Moew."
+			"npcStory": "Why? Purely to stay in character, ya know? Meow."
 		},
 		{
 			"id": 2005,
@@ -196,7 +196,7 @@
 			"needFavorPoint": 5000,
 			"discount": 900,
 			"favorEffect": "Item prices are lowered by 5%",
-			"npcStory": "Amida, stop hoarding goods! No way in hell stuffs like this sells!—Desperate exclamation from her Master."
+			"npcStory": "Amida, stop hoarding goods! No way in hell stuff like this sells!—Desperate exclamation from her Master."
 		},
 		{
 			"id": 3007,

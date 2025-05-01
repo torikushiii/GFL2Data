@@ -3047,6 +3047,20 @@
 			"description": "Receive no damage within 6 turns"
 		},
 		{
+			"id": 11509,
+			"type": 18,
+			"args": [
+				"12000",
+				"3"
+			],
+			"argsFail": [
+				"12000",
+				"3"
+			],
+			"title": "Tactical Evasion",
+			"description": "Take less than 12000 points of damage within 3 turns"
+		},
+		{
 			"id": 11601,
 			"type": 4,
 			"args": [
@@ -4779,6 +4793,18 @@
 			"description": "Gain at least 100 points of Confectance Index within 1 turn"
 		},
 		{
+			"id": 12701,
+			"type": 26,
+			"args": [
+				"2"
+			],
+			"argsFail": [
+				"2"
+			],
+			"title": "Generous Support",
+			"description": "Activate all buff devices on the battlefield"
+		},
+		{
 			"id": 12702,
 			"type": 26,
 			"args": [
@@ -5659,6 +5685,38 @@
 			],
 			"title": "Tactical Strike",
 			"description": "Eliminate Atrocity Thorn within 3 turns"
+		},
+		{
+			"id": 13724,
+			"type": 37,
+			"args": [
+				"6340",
+				"1",
+				"3"
+			],
+			"argsFail": [
+				"6340",
+				"1",
+				"3"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate the Aegis SWAP Artillery within 3 turns"
+		},
+		{
+			"id": 13725,
+			"type": 37,
+			"args": [
+				"6347",
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"6347",
+				"1",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate the Aegis SWAP Dominator within 5 turns"
 		},
 		{
 			"id": 13801,

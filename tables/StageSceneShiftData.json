@@ -1469,6 +1469,54 @@
 			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_GFPC/scene_sim04_30_s00_PC.prefab",
 			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_GFPC/scene_sim04_30_s00_PC.prefab",
 			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat04/SIM_GFMB/scene_sim04_30_s00_MB.prefab"
+		},
+		{
+			"id": 1620101,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_15_y00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_15_y00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_15_y00_MB.prefab"
+		},
+		{
+			"id": 1620111,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_15_s00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_15_s00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFMB/scene_sim06_15_s00_MB.prefab"
+		},
+		{
+			"id": 1620201,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_20_y00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_20_y00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_20_y00_MB.prefab"
+		},
+		{
+			"id": 1620211,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_20_s00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_20_s00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFMB/scene_sim06_20_s00_MB.prefab"
+		},
+		{
+			"id": 1620301,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_25_y00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_25_y00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_25_y00_MB.prefab"
+		},
+		{
+			"id": 1620311,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_25_s00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_25_s00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFMB/scene_sim06_25_s00_MB.prefab"
+		},
+		{
+			"id": 1620401,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_30_y00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_30_y00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_Common/s_slg_simdistance06_30_y00_MB.prefab"
+		},
+		{
+			"id": 1620411,
+			"route": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_30_s00_PC.prefab",
+			"routePc": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFPC/scene_sim06_30_s00_PC.prefab",
+			"routeMb": "Assets/ArtsResource/Scene/SLG_S/s_slg_simcombat06/SIM_GFMB/scene_sim06_30_s00_MB.prefab"
 		}
 	]
 }

@@ -397,6 +397,30 @@
 			"deployHide": false
 		},
 		{
+			"id": 1037,
+			"condition": [
+				1037
+			],
+			"priority": 1,
+			"timing": 8,
+			"finishCondition": 1,
+			"isPause": 0,
+			"finishGroup": [],
+			"deployHide": false
+		},
+		{
+			"id": 1038,
+			"condition": [
+				1038
+			],
+			"priority": 1,
+			"timing": 8,
+			"finishCondition": 43000,
+			"isPause": 0,
+			"finishGroup": [],
+			"deployHide": false
+		},
+		{
 			"id": 2001,
 			"condition": [
 				2001
@@ -751,7 +775,7 @@
 			],
 			"priority": 1,
 			"timing": 8,
-			"finishCondition": 0,
+			"finishCondition": 1,
 			"isPause": 0,
 			"finishGroup": [],
 			"deployHide": false
@@ -763,7 +787,7 @@
 			],
 			"priority": 1,
 			"timing": 8,
-			"finishCondition": 0,
+			"finishCondition": 1,
 			"isPause": 0,
 			"finishGroup": [],
 			"deployHide": false
@@ -775,7 +799,7 @@
 			],
 			"priority": 1,
 			"timing": 8,
-			"finishCondition": 0,
+			"finishCondition": 1,
 			"isPause": 0,
 			"finishGroup": [],
 			"deployHide": false

@@ -150,6 +150,15 @@
 				131
 			],
 			"args": []
+		},
+		{
+			"id": 1321,
+			"sequence": 19,
+			"title": "Curio Storage Box",
+			"itemType": [
+				132
+			],
+			"args": []
 		}
 	]
 }

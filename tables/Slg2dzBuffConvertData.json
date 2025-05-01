@@ -1,12 +1,6 @@
 {
 	"data": [
 		{
-			"slgtodzBuffId": 52001,
-			"inDzBuffId": 20000,
-			"timeScale": 10,
-			"takeOutRule": 10
-		},
-		{
 			"slgtodzBuffId": 52002,
 			"inDzBuffId": 20004,
 			"timeScale": 10,

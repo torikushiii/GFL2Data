@@ -309,6 +309,23 @@
 			"nowSkillGroupId3": []
 		},
 		{
+			"id": 102105,
+			"beforeSkillGroupId1": [
+				10210501
+			],
+			"nowSkillGroupId1": [
+				10210511
+			],
+			"beforeSkillGroupId2": [
+				10210502
+			],
+			"nowSkillGroupId2": [
+				10210512
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
 			"id": 102107,
 			"beforeSkillGroupId1": [
 				10210701
@@ -1164,6 +1181,23 @@
 			"nowSkillGroupId3": [
 				10520413
 			]
+		},
+		{
+			"id": 105503,
+			"beforeSkillGroupId1": [
+				10550701
+			],
+			"nowSkillGroupId1": [
+				10550711
+			],
+			"beforeSkillGroupId2": [
+				10550702
+			],
+			"nowSkillGroupId2": [
+				10550712
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
 		}
 	]
 }

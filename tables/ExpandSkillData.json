@@ -769,6 +769,62 @@
 			"randomNum": 0
 		},
 		{
+			"expandId": 2601,
+			"expandPassiveSkill": [
+				6000740
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2602,
+			"expandPassiveSkill": [
+				6000750
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2603,
+			"expandPassiveSkill": [
+				6000760
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2701,
+			"expandPassiveSkill": [
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2702,
+			"expandPassiveSkill": [
+				6000440
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2703,
+			"expandPassiveSkill": [
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2704,
+			"expandPassiveSkill": [
+				6000180
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
 			"expandId": 9998,
 			"expandPassiveSkill": [
 				6000680
@@ -780,6 +836,30 @@
 			"expandId": 9999,
 			"expandPassiveSkill": [
 				6000550
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2800010,
+			"expandPassiveSkill": [
+				2800010
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2800020,
+			"expandPassiveSkill": [
+				2800020
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2800030,
+			"expandPassiveSkill": [
+				2800030
 			],
 			"expandRandomPassiveSkill": [],
 			"randomNum": 0
@@ -1977,6 +2057,445 @@
 			"expandPassiveSkill": [
 				6000680,
 				6000710
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2826001,
+			"expandPassiveSkill": [
+				6000740,
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2826002,
+			"expandPassiveSkill": [
+				6000750,
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2826003,
+			"expandPassiveSkill": [
+				6000740,
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827701,
+			"expandPassiveSkill": [
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827702,
+			"expandPassiveSkill": [
+				6000180
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827703,
+			"expandPassiveSkill": [
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827801,
+			"expandPassiveSkill": [
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827802,
+			"expandPassiveSkill": [
+				6000440
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827803,
+			"expandPassiveSkill": [
+				6000180
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827804,
+			"expandPassiveSkill": [
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827901,
+			"expandPassiveSkill": [
+				6000680,
+				6000440,
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827902,
+			"expandPassiveSkill": [
+				6000680,
+				6000180,
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827903,
+			"expandPassiveSkill": [
+				6000680,
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2827904,
+			"expandPassiveSkill": [
+				6000680,
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828001,
+			"expandPassiveSkill": [
+				6000650,
+				6000110
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828101,
+			"expandPassiveSkill": [
+				6000280
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828102,
+			"expandPassiveSkill": [
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828103,
+			"expandPassiveSkill": [
+				6000320
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828104,
+			"expandPassiveSkill": [
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828701,
+			"expandPassiveSkill": [
+				6000280,
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828702,
+			"expandPassiveSkill": [
+				6000140,
+				6000650
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828703,
+			"expandPassiveSkill": [
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828801,
+			"expandPassiveSkill": [
+				6000280
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828802,
+			"expandPassiveSkill": [
+				6000650,
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828803,
+			"expandPassiveSkill": [
+				6000280,
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828804,
+			"expandPassiveSkill": [
+				6000320,
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828901,
+			"expandPassiveSkill": [
+				6000680,
+				6000140,
+				6000320
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828902,
+			"expandPassiveSkill": [
+				6000680,
+				6000650,
+				6000280
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2828903,
+			"expandPassiveSkill": [
+				6000680,
+				6000140,
+				6000280
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829001,
+			"expandPassiveSkill": [
+				6000790
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829002,
+			"expandPassiveSkill": [
+				6000280,
+				6000790
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829003,
+			"expandPassiveSkill": [
+				6000110,
+				6000790
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829004,
+			"expandPassiveSkill": [
+				6000380,
+				6000790
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829005,
+			"expandPassiveSkill": [
+				6000110,
+				6000030
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2829006,
+			"expandPassiveSkill": [
+				6000110,
+				6000790,
+				6000030
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830001,
+			"expandPassiveSkill": [
+				6000770,
+				6000750
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830002,
+			"expandPassiveSkill": [
+				6000290,
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830003,
+			"expandPassiveSkill": [
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830004,
+			"expandPassiveSkill": [
+				6000750,
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830005,
+			"expandPassiveSkill": [
+				6000770,
+				6000750,
+				6000780
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830006,
+			"expandPassiveSkill": [
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2830007,
+			"expandPassiveSkill": [
+				6000770,
+				6000750,
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831001,
+			"expandPassiveSkill": [
+				6000800
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831002,
+			"expandPassiveSkill": [
+				6000070
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831003,
+			"expandPassiveSkill": [
+				6000070,
+				6000370
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831004,
+			"expandPassiveSkill": [
+				6000810
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831005,
+			"expandPassiveSkill": [
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831006,
+			"expandPassiveSkill": [
+				6000680,
+				6000800
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831007,
+			"expandPassiveSkill": [
+				6000370,
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2831008,
+			"expandPassiveSkill": [
+				6000680,
+				6000800,
+				6000070
 			],
 			"expandRandomPassiveSkill": [],
 			"randomNum": 0

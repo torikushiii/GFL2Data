@@ -2913,6 +2913,62 @@
 			"capacity": 0.24
 		},
 		{
+			"id": 104630,
+			"weapon": 10463,
+			"skill": 10000,
+			"propertyId": 31151,
+			"breakNum": 0,
+			"capacity": 0.0
+		},
+		{
+			"id": 104631,
+			"weapon": 10463,
+			"breakNum": 1,
+			"skill": 5103621,
+			"propertyId": 31151,
+			"capacity": 0.04
+		},
+		{
+			"id": 104632,
+			"weapon": 10463,
+			"breakNum": 2,
+			"skill": 5103622,
+			"propertyId": 31152,
+			"capacity": 0.08
+		},
+		{
+			"id": 104633,
+			"weapon": 10463,
+			"breakNum": 3,
+			"skill": 5103623,
+			"propertyId": 31153,
+			"capacity": 0.12
+		},
+		{
+			"id": 104634,
+			"weapon": 10463,
+			"breakNum": 4,
+			"skill": 5103624,
+			"propertyId": 31154,
+			"capacity": 0.16
+		},
+		{
+			"id": 104635,
+			"weapon": 10463,
+			"breakNum": 5,
+			"skill": 5103625,
+			"propertyId": 31155,
+			"capacity": 0.2
+		},
+		{
+			"id": 104636,
+			"weapon": 10463,
+			"breakNum": 6,
+			"skill": 5103626,
+			"propertyId": 31156,
+			"capacity": 0.24
+		},
+		{
 			"id": 104710,
 			"weapon": 10471,
 			"skill": 10000,
@@ -3092,7 +3148,7 @@
 			"id": 104811,
 			"weapon": 10481,
 			"breakNum": 1,
-			"skill": 5110081,
+			"skill": 5110091,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3100,7 +3156,7 @@
 			"id": 104812,
 			"weapon": 10481,
 			"breakNum": 2,
-			"skill": 5110082,
+			"skill": 5110092,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -3108,7 +3164,7 @@
 			"id": 104813,
 			"weapon": 10481,
 			"breakNum": 3,
-			"skill": 5110083,
+			"skill": 5110093,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -3116,7 +3172,7 @@
 			"id": 104814,
 			"weapon": 10481,
 			"breakNum": 4,
-			"skill": 5110084,
+			"skill": 5110094,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -3124,7 +3180,7 @@
 			"id": 104815,
 			"weapon": 10481,
 			"breakNum": 5,
-			"skill": 5110085,
+			"skill": 5110095,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -3132,7 +3188,7 @@
 			"id": 104816,
 			"weapon": 10481,
 			"breakNum": 6,
-			"skill": 5110086,
+			"skill": 5110096,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -3148,7 +3204,7 @@
 			"id": 104821,
 			"weapon": 10482,
 			"breakNum": 1,
-			"skill": 5103621,
+			"skill": 5104821,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3156,7 +3212,7 @@
 			"id": 104822,
 			"weapon": 10482,
 			"breakNum": 2,
-			"skill": 5103622,
+			"skill": 5104822,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -3164,7 +3220,7 @@
 			"id": 104823,
 			"weapon": 10482,
 			"breakNum": 3,
-			"skill": 5103623,
+			"skill": 5104823,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -3172,7 +3228,7 @@
 			"id": 104824,
 			"weapon": 10482,
 			"breakNum": 4,
-			"skill": 5103624,
+			"skill": 5104824,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -3180,7 +3236,7 @@
 			"id": 104825,
 			"weapon": 10482,
 			"breakNum": 5,
-			"skill": 5103625,
+			"skill": 5104825,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -3188,7 +3244,7 @@
 			"id": 104826,
 			"weapon": 10482,
 			"breakNum": 6,
-			"skill": 5103626,
+			"skill": 5104826,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -3204,7 +3260,7 @@
 			"id": 104831,
 			"weapon": 10483,
 			"breakNum": 1,
-			"skill": 10000,
+			"skill": 5104831,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3212,7 +3268,7 @@
 			"id": 104832,
 			"weapon": 10483,
 			"breakNum": 2,
-			"skill": 10000,
+			"skill": 5104832,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -3220,7 +3276,7 @@
 			"id": 104833,
 			"weapon": 10483,
 			"breakNum": 3,
-			"skill": 10000,
+			"skill": 5104833,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -3228,7 +3284,7 @@
 			"id": 104834,
 			"weapon": 10483,
 			"breakNum": 4,
-			"skill": 10000,
+			"skill": 5104834,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -3236,7 +3292,7 @@
 			"id": 104835,
 			"weapon": 10483,
 			"breakNum": 5,
-			"skill": 10000,
+			"skill": 5104835,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -3244,7 +3300,7 @@
 			"id": 104836,
 			"weapon": 10483,
 			"breakNum": 6,
-			"skill": 10000,
+			"skill": 5104836,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -3876,7 +3932,7 @@
 			"id": 105311,
 			"weapon": 10531,
 			"breakNum": 1,
-			"skill": 5110081,
+			"skill": 5110091,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3884,7 +3940,7 @@
 			"id": 105312,
 			"weapon": 10531,
 			"breakNum": 2,
-			"skill": 5110082,
+			"skill": 5110092,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -3892,7 +3948,7 @@
 			"id": 105313,
 			"weapon": 10531,
 			"breakNum": 3,
-			"skill": 5110083,
+			"skill": 5110093,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -3900,7 +3956,7 @@
 			"id": 105314,
 			"weapon": 10531,
 			"breakNum": 4,
-			"skill": 5110084,
+			"skill": 5110094,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -3908,7 +3964,7 @@
 			"id": 105315,
 			"weapon": 10531,
 			"breakNum": 5,
-			"skill": 5110085,
+			"skill": 5110095,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -3916,7 +3972,7 @@
 			"id": 105316,
 			"weapon": 10531,
 			"breakNum": 6,
-			"skill": 5110086,
+			"skill": 5110096,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -3932,7 +3988,7 @@
 			"id": 105321,
 			"weapon": 10532,
 			"breakNum": 1,
-			"skill": 5103621,
+			"skill": 5105321,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3940,7 +3996,7 @@
 			"id": 105322,
 			"weapon": 10532,
 			"breakNum": 2,
-			"skill": 5103622,
+			"skill": 5105322,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -3948,7 +4004,7 @@
 			"id": 105323,
 			"weapon": 10532,
 			"breakNum": 3,
-			"skill": 5103623,
+			"skill": 5105323,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -3956,7 +4012,7 @@
 			"id": 105324,
 			"weapon": 10532,
 			"breakNum": 4,
-			"skill": 5103624,
+			"skill": 5105324,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -3964,7 +4020,7 @@
 			"id": 105325,
 			"weapon": 10532,
 			"breakNum": 5,
-			"skill": 5103625,
+			"skill": 5105325,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -3972,7 +4028,7 @@
 			"id": 105326,
 			"weapon": 10532,
 			"breakNum": 6,
-			"skill": 5103626,
+			"skill": 5105326,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -3988,7 +4044,7 @@
 			"id": 105331,
 			"weapon": 10533,
 			"breakNum": 1,
-			"skill": 10000,
+			"skill": 5105331,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -3996,7 +4052,7 @@
 			"id": 105332,
 			"weapon": 10533,
 			"breakNum": 2,
-			"skill": 10000,
+			"skill": 5105332,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4004,7 +4060,7 @@
 			"id": 105333,
 			"weapon": 10533,
 			"breakNum": 3,
-			"skill": 10000,
+			"skill": 5105333,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4012,7 +4068,7 @@
 			"id": 105334,
 			"weapon": 10533,
 			"breakNum": 4,
-			"skill": 10000,
+			"skill": 5105334,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4020,7 +4076,7 @@
 			"id": 105335,
 			"weapon": 10533,
 			"breakNum": 5,
-			"skill": 10000,
+			"skill": 5105335,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4028,7 +4084,7 @@
 			"id": 105336,
 			"weapon": 10533,
 			"breakNum": 6,
-			"skill": 10000,
+			"skill": 5105336,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4044,7 +4100,7 @@
 			"id": 105411,
 			"weapon": 10541,
 			"breakNum": 1,
-			"skill": 5110081,
+			"skill": 5110091,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4052,7 +4108,7 @@
 			"id": 105412,
 			"weapon": 10541,
 			"breakNum": 2,
-			"skill": 5110082,
+			"skill": 5110092,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4060,7 +4116,7 @@
 			"id": 105413,
 			"weapon": 10541,
 			"breakNum": 3,
-			"skill": 5110083,
+			"skill": 5110093,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4068,7 +4124,7 @@
 			"id": 105414,
 			"weapon": 10541,
 			"breakNum": 4,
-			"skill": 5110084,
+			"skill": 5110094,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4076,7 +4132,7 @@
 			"id": 105415,
 			"weapon": 10541,
 			"breakNum": 5,
-			"skill": 5110085,
+			"skill": 5110095,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4084,7 +4140,7 @@
 			"id": 105416,
 			"weapon": 10541,
 			"breakNum": 6,
-			"skill": 5110086,
+			"skill": 5110096,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4100,7 +4156,7 @@
 			"id": 105421,
 			"weapon": 10542,
 			"breakNum": 1,
-			"skill": 5103621,
+			"skill": 5105421,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4108,7 +4164,7 @@
 			"id": 105422,
 			"weapon": 10542,
 			"breakNum": 2,
-			"skill": 5103622,
+			"skill": 5105422,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4116,7 +4172,7 @@
 			"id": 105423,
 			"weapon": 10542,
 			"breakNum": 3,
-			"skill": 5103623,
+			"skill": 5105423,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4124,7 +4180,7 @@
 			"id": 105424,
 			"weapon": 10542,
 			"breakNum": 4,
-			"skill": 5103624,
+			"skill": 5105424,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4132,7 +4188,7 @@
 			"id": 105425,
 			"weapon": 10542,
 			"breakNum": 5,
-			"skill": 5103625,
+			"skill": 5105425,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4140,7 +4196,7 @@
 			"id": 105426,
 			"weapon": 10542,
 			"breakNum": 6,
-			"skill": 5103626,
+			"skill": 5105426,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4156,7 +4212,7 @@
 			"id": 105431,
 			"weapon": 10543,
 			"breakNum": 1,
-			"skill": 10000,
+			"skill": 5105431,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4164,7 +4220,7 @@
 			"id": 105432,
 			"weapon": 10543,
 			"breakNum": 2,
-			"skill": 10000,
+			"skill": 5105432,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4172,7 +4228,7 @@
 			"id": 105433,
 			"weapon": 10543,
 			"breakNum": 3,
-			"skill": 10000,
+			"skill": 5105433,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4180,7 +4236,7 @@
 			"id": 105434,
 			"weapon": 10543,
 			"breakNum": 4,
-			"skill": 10000,
+			"skill": 5105434,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4188,7 +4244,7 @@
 			"id": 105435,
 			"weapon": 10543,
 			"breakNum": 5,
-			"skill": 10000,
+			"skill": 5105435,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4196,7 +4252,7 @@
 			"id": 105436,
 			"weapon": 10543,
 			"breakNum": 6,
-			"skill": 10000,
+			"skill": 5105436,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4212,7 +4268,7 @@
 			"id": 105511,
 			"weapon": 10551,
 			"breakNum": 1,
-			"skill": 5110081,
+			"skill": 5110091,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4220,7 +4276,7 @@
 			"id": 105512,
 			"weapon": 10551,
 			"breakNum": 2,
-			"skill": 5110082,
+			"skill": 5110092,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4228,7 +4284,7 @@
 			"id": 105513,
 			"weapon": 10551,
 			"breakNum": 3,
-			"skill": 5110083,
+			"skill": 5110093,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4236,7 +4292,7 @@
 			"id": 105514,
 			"weapon": 10551,
 			"breakNum": 4,
-			"skill": 5110084,
+			"skill": 5110094,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4244,7 +4300,7 @@
 			"id": 105515,
 			"weapon": 10551,
 			"breakNum": 5,
-			"skill": 5110085,
+			"skill": 5110095,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4252,7 +4308,7 @@
 			"id": 105516,
 			"weapon": 10551,
 			"breakNum": 6,
-			"skill": 5110086,
+			"skill": 5110096,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4268,7 +4324,7 @@
 			"id": 105521,
 			"weapon": 10552,
 			"breakNum": 1,
-			"skill": 5103621,
+			"skill": 5105521,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4276,7 +4332,7 @@
 			"id": 105522,
 			"weapon": 10552,
 			"breakNum": 2,
-			"skill": 5103622,
+			"skill": 5105522,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4284,7 +4340,7 @@
 			"id": 105523,
 			"weapon": 10552,
 			"breakNum": 3,
-			"skill": 5103623,
+			"skill": 5105523,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4292,7 +4348,7 @@
 			"id": 105524,
 			"weapon": 10552,
 			"breakNum": 4,
-			"skill": 5103624,
+			"skill": 5105524,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4300,7 +4356,7 @@
 			"id": 105525,
 			"weapon": 10552,
 			"breakNum": 5,
-			"skill": 5103625,
+			"skill": 5105525,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4308,7 +4364,7 @@
 			"id": 105526,
 			"weapon": 10552,
 			"breakNum": 6,
-			"skill": 5103626,
+			"skill": 5105526,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4324,7 +4380,7 @@
 			"id": 105531,
 			"weapon": 10553,
 			"breakNum": 1,
-			"skill": 10000,
+			"skill": 5105531,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4332,7 +4388,7 @@
 			"id": 105532,
 			"weapon": 10553,
 			"breakNum": 2,
-			"skill": 10000,
+			"skill": 5105532,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4340,7 +4396,7 @@
 			"id": 105533,
 			"weapon": 10553,
 			"breakNum": 3,
-			"skill": 10000,
+			"skill": 5105533,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4348,7 +4404,7 @@
 			"id": 105534,
 			"weapon": 10553,
 			"breakNum": 4,
-			"skill": 10000,
+			"skill": 5105534,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4356,7 +4412,7 @@
 			"id": 105535,
 			"weapon": 10553,
 			"breakNum": 5,
-			"skill": 10000,
+			"skill": 5105535,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4364,7 +4420,7 @@
 			"id": 105536,
 			"weapon": 10553,
 			"breakNum": 6,
-			"skill": 10000,
+			"skill": 5105536,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4380,7 +4436,7 @@
 			"id": 105611,
 			"weapon": 10561,
 			"breakNum": 1,
-			"skill": 5110081,
+			"skill": 5110091,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4388,7 +4444,7 @@
 			"id": 105612,
 			"weapon": 10561,
 			"breakNum": 2,
-			"skill": 5110082,
+			"skill": 5110092,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4396,7 +4452,7 @@
 			"id": 105613,
 			"weapon": 10561,
 			"breakNum": 3,
-			"skill": 5110083,
+			"skill": 5110093,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4404,7 +4460,7 @@
 			"id": 105614,
 			"weapon": 10561,
 			"breakNum": 4,
-			"skill": 5110084,
+			"skill": 5110094,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4412,7 +4468,7 @@
 			"id": 105615,
 			"weapon": 10561,
 			"breakNum": 5,
-			"skill": 5110085,
+			"skill": 5110095,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4420,7 +4476,7 @@
 			"id": 105616,
 			"weapon": 10561,
 			"breakNum": 6,
-			"skill": 5110086,
+			"skill": 5110096,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4436,7 +4492,7 @@
 			"id": 105621,
 			"weapon": 10562,
 			"breakNum": 1,
-			"skill": 5103621,
+			"skill": 5105621,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4444,7 +4500,7 @@
 			"id": 105622,
 			"weapon": 10562,
 			"breakNum": 2,
-			"skill": 5103622,
+			"skill": 5105622,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4452,7 +4508,7 @@
 			"id": 105623,
 			"weapon": 10562,
 			"breakNum": 3,
-			"skill": 5103623,
+			"skill": 5105623,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4460,7 +4516,7 @@
 			"id": 105624,
 			"weapon": 10562,
 			"breakNum": 4,
-			"skill": 5103624,
+			"skill": 5105624,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4468,7 +4524,7 @@
 			"id": 105625,
 			"weapon": 10562,
 			"breakNum": 5,
-			"skill": 5103625,
+			"skill": 5105625,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4476,7 +4532,7 @@
 			"id": 105626,
 			"weapon": 10562,
 			"breakNum": 6,
-			"skill": 5103626,
+			"skill": 5105626,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -4492,7 +4548,7 @@
 			"id": 105631,
 			"weapon": 10563,
 			"breakNum": 1,
-			"skill": 10000,
+			"skill": 5105631,
 			"propertyId": 31151,
 			"capacity": 0.04
 		},
@@ -4500,7 +4556,7 @@
 			"id": 105632,
 			"weapon": 10563,
 			"breakNum": 2,
-			"skill": 10000,
+			"skill": 5105632,
 			"propertyId": 31152,
 			"capacity": 0.08
 		},
@@ -4508,7 +4564,7 @@
 			"id": 105633,
 			"weapon": 10563,
 			"breakNum": 3,
-			"skill": 10000,
+			"skill": 5105633,
 			"propertyId": 31153,
 			"capacity": 0.12
 		},
@@ -4516,7 +4572,7 @@
 			"id": 105634,
 			"weapon": 10563,
 			"breakNum": 4,
-			"skill": 10000,
+			"skill": 5105634,
 			"propertyId": 31154,
 			"capacity": 0.16
 		},
@@ -4524,7 +4580,7 @@
 			"id": 105635,
 			"weapon": 10563,
 			"breakNum": 5,
-			"skill": 10000,
+			"skill": 5105635,
 			"propertyId": 31155,
 			"capacity": 0.2
 		},
@@ -4532,7 +4588,7 @@
 			"id": 105636,
 			"weapon": 10563,
 			"breakNum": 6,
-			"skill": 10000,
+			"skill": 5105636,
 			"propertyId": 31156,
 			"capacity": 0.24
 		},
@@ -5315,6 +5371,62 @@
 		{
 			"id": 106126,
 			"weapon": 10612,
+			"breakNum": 6,
+			"skill": 5103626,
+			"propertyId": 31156,
+			"capacity": 0.24
+		},
+		{
+			"id": 106130,
+			"weapon": 10613,
+			"skill": 10000,
+			"propertyId": 31151,
+			"breakNum": 0,
+			"capacity": 0.0
+		},
+		{
+			"id": 106131,
+			"weapon": 10613,
+			"breakNum": 1,
+			"skill": 5103621,
+			"propertyId": 31151,
+			"capacity": 0.04
+		},
+		{
+			"id": 106132,
+			"weapon": 10613,
+			"breakNum": 2,
+			"skill": 5103622,
+			"propertyId": 31152,
+			"capacity": 0.08
+		},
+		{
+			"id": 106133,
+			"weapon": 10613,
+			"breakNum": 3,
+			"skill": 5103623,
+			"propertyId": 31153,
+			"capacity": 0.12
+		},
+		{
+			"id": 106134,
+			"weapon": 10613,
+			"breakNum": 4,
+			"skill": 5103624,
+			"propertyId": 31154,
+			"capacity": 0.16
+		},
+		{
+			"id": 106135,
+			"weapon": 10613,
+			"breakNum": 5,
+			"skill": 5103625,
+			"propertyId": 31155,
+			"capacity": 0.2
+		},
+		{
+			"id": 106136,
+			"weapon": 10613,
 			"breakNum": 6,
 			"skill": 5103626,
 			"propertyId": 31156,
