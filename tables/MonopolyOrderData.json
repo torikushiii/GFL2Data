@@ -821,6 +821,28 @@
 			"orderType": 0
 		},
 		{
+			"id": 2041,
+			"orderClass": 204,
+			"className": "Encryption Algorithm",
+			"name": "Encryption Algorithm",
+			"orderDesc": "A handy tool for occupying tiles that gives you a strategic advantage and inconveniences your enemy.\nUse to change the status of 1 tile within <color=#f26c1c>6</color> tiles to ally-occupied.\nSpecial Commands used by enemies function differently from those used by players.",
+			"orderIcon": "Item_Icon_monopoly_order6_1",
+			"level": 1,
+			"orderContent": "2:3002",
+			"section": {
+				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
+			},
+			"sold": 15,
+			"nextLevelOrder": 0,
+			"upClass": {},
+			"orderType": 0
+		},
+		{
 			"id": 2042,
 			"orderClass": 204,
 			"className": "Encryption Algorithm",

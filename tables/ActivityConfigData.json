@@ -166,6 +166,18 @@
 			"o_HECAHBLCPEB": 0
 		},
 		{
+			"id": 16001,
+			"name": "Silvered Whispers",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1601
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_YooHee",
+			"o_HECAHBLCPEB": 1601
+		},
+		{
 			"id": 50001,
 			"name": "Zucchero Café",
 			"unlockId": 29301,

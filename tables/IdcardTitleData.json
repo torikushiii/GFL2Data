@@ -579,8 +579,8 @@
 		{
 			"id": 23097,
 			"icon": "Img_Title_Love_Vector",
-			"name": "Lord of an Hollow Garden",
-			"title": "Lord of an Hollow Garden",
+			"name": "Lord of a Hollow Garden",
+			"title": "Lord of a Hollow Garden",
 			"qualify": "An empty garden, brimming with life because of you.\nProof of affinity with a Doll, unlocked after reaching affinity level 8 with Vector.",
 			"sort": 3009,
 			"achievement": 0
@@ -752,7 +752,7 @@
 			"icon": "Img_Title_HighPVP_Season13",
 			"name": "Balefire Shift",
 			"title": "Balefire Shift",
-			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Balefire Shift",
+			"qualify": "Unlocked by ranking in the top 80% in Military Simulation Season: Balefire Shift",
 			"sort": 1019,
 			"achievement": 0
 		},

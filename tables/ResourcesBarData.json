@@ -831,16 +831,6 @@
 			"homeButton": 0
 		},
 		{
-			"interfaceId": 2101,
-			"ruleButton": 1,
-			"ppt": 2301,
-			"resources": "",
-			"system": "",
-			"systemIcon": "",
-			"color": 0,
-			"homeButton": 0
-		},
-		{
 			"interfaceId": 2104,
 			"resources": "179003",
 			"system": "",

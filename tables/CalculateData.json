@@ -3871,16 +3871,6 @@
 			"moldParameter": ""
 		},
 		{
-			"id": 20200014,
-			"formula": "{0}*500",
-			"parameter": "1:shield_hp,1",
-			"dynamicParameter": "",
-			"potentialParameter": "",
-			"distenceParameter": "",
-			"buffParameter": "",
-			"moldParameter": ""
-		},
-		{
 			"id": 20210001,
 			"formula": "({0}-1000)>0?({0}-1000):0",
 			"parameter": "1:crit,1",

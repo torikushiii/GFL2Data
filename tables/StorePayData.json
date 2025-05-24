@@ -1,6 +1,15 @@
 {
 	"data": [
 		{
+			"id": 1,
+			"productId": "com.haoplay.gf2exilium.global.1",
+			"name": "信用币×60",
+			"describe": "信用币Ⅰ",
+			"price": 1,
+			"storeId": 1,
+			"limitBuy": 0
+		},
+		{
 			"id": 2,
 			"productId": "com.haoplay.gf2exilium.global.2",
 			"name": "信用币×300",
@@ -1608,6 +1617,33 @@
 			"name": "季候惠享礼箱γ",
 			"describe": "季候惠享礼箱γ",
 			"storeId": 101512,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 215,
+			"productId": "com.haoplay.gf2exilium.global.192",
+			"name": "专属契合套装·幼熙",
+			"describe": "专属契合套装·幼熙",
+			"storeId": 101514,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 216,
+			"productId": "com.haoplay.gf2exilium.global.193",
+			"name": "专属契合套装·乌尔丽德",
+			"describe": "专属契合套装·乌尔丽德",
+			"storeId": 101515,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 217,
+			"productId": "com.haoplay.gf2exilium.global.194",
+			"name": "专属契合套装·桑朵莱希",
+			"describe": "专属契合套装·桑朵莱希",
+			"storeId": 101516,
 			"price": 0,
 			"limitBuy": 0
 		},

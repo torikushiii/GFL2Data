@@ -78,7 +78,7 @@
 			"favorLevel": 1,
 			"discount": 1000,
 			"favorEffect": "",
-			"npcStory": "Although clearly stated in the Manager's Notice that a virtual avatar is mandatory, ultimately, only the underground broker going by the monicker of \"Kalinyan\" followed the rule as others simply used their real appearances for their avatar. On a side note, while choosing their virtual avatar, \"Kalinyan\" immediately picked this orange tabby one that looked like a certain client of theirs without hesitation",
+			"npcStory": "Although clearly stated in the Manager's Notice that a virtual avatar is mandatory, ultimately, only the underground broker going by the monicker of \"Kalinyan\" followed the rule as others simply used their real appearances for their avatar. On a side note, while choosing their virtual avatar, \"Kalinyan\" immediately picked this orange tabby that looked like a certain client of theirs without hesitation.",
 			"needFavorPoint": 0
 		},
 		{
@@ -97,7 +97,7 @@
 			"needFavorPoint": 2000,
 			"discount": 1000,
 			"favorEffect": "Increase the number of purchases for certain items.",
-			"npcStory": "For some bounty hunters, a cute cat avatar is a real plus; there are those who would drop by even if they have nothing to sell to Catlina. As for the reason for all the \"meows\" at the end of a sentence—"
+			"npcStory": "For some bounty hunters, a cute cat avatar is a real plus; there are those who would drop by even if they have nothing to sell to Kalinyan. As for the reason for all the \"meows\" at the end of a sentence—"
 		},
 		{
 			"id": 2004,

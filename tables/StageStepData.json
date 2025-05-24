@@ -1105,6 +1105,10 @@
 			"stepDetail": "Destroy Crysmole caves {0}/3"
 		},
 		{
+			"id": 8060,
+			"stepDetail": "Survive for 6 turns OR kill all enemies {0}/10"
+		},
+		{
 			"id": 8061,
 			"stepDetail": "Protect neutral unit"
 		},
@@ -2230,7 +2234,7 @@
 		},
 		{
 			"id": 9291,
-			"stepDetail": "Kill Moppy Nexus"
+			"stepDetail": "Kill Mopro Nexus"
 		},
 		{
 			"id": 9292,

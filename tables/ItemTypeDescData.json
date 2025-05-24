@@ -12,9 +12,6 @@
 			"stockShow": true,
 			"dzbagOccupy": true,
 			"relatedItem": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -29,9 +26,6 @@
 			"relatedItem": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -46,9 +40,6 @@
 			"rank": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -63,9 +54,6 @@
 			"dzbagOccupy": true,
 			"relatedItem": 0,
 			"overflow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -80,9 +68,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -97,9 +82,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -114,9 +96,6 @@
 			"rank": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -131,9 +110,6 @@
 			"maxLimit": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -148,9 +124,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -165,9 +138,6 @@
 			"stockShow": true,
 			"dzbagOccupy": true,
 			"relatedItem": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -182,9 +152,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -199,9 +166,6 @@
 			"maxLimit": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -216,43 +180,6 @@
 			"maxLimit": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
-			"use": 0
-		},
-		{
-			"id": 20,
-			"name": "Weapons",
-			"relatedItem": 5,
-			"rank": 9,
-			"overflowName": "Weapons",
-			"jump": 8003,
-			"dzbagOccupy": true,
-			"canLock": true,
-			"ifDefaultLock": true,
-			"defaultLockRank": 5,
-			"maxLimit": 0,
-			"pile": 0,
-			"overflow": false,
-			"stockShow": false,
-			"use": 0
-		},
-		{
-			"id": 21,
-			"name": "Weapon Attachments",
-			"relatedItem": 22,
-			"maxLimit": 999999,
-			"rank": 8,
-			"overflowName": "Weapon Attachments",
-			"jump": 8005,
-			"dzbagOccupy": true,
-			"canLock": true,
-			"pile": 0,
-			"overflow": false,
-			"stockShow": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -267,9 +194,6 @@
 			"rank": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -284,9 +208,6 @@
 			"rank": 0,
 			"overflow": false,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -301,9 +222,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -318,9 +236,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -335,9 +250,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -352,9 +264,6 @@
 			"pile": 0,
 			"overflow": false,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -369,9 +278,6 @@
 			"rank": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -386,9 +292,6 @@
 			"rank": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -403,9 +306,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -420,9 +320,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -437,9 +334,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -454,9 +348,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"overflow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -471,9 +362,6 @@
 			"pile": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -488,9 +376,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -505,9 +390,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -522,9 +404,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -539,9 +418,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -556,9 +432,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -573,9 +446,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -590,9 +460,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -607,9 +474,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -624,9 +488,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -641,9 +502,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -658,9 +516,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -675,9 +530,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -692,9 +544,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -709,9 +558,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -726,9 +572,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -743,9 +586,6 @@
 			"rank": 0,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -760,10 +600,7 @@
 			"relatedItem": 0,
 			"overflow": false,
 			"jump": 0,
-			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"stockShow": false
 		},
 		{
 			"id": 105,
@@ -777,10 +614,7 @@
 			"relatedItem": 0,
 			"overflow": false,
 			"jump": 0,
-			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"stockShow": false
 		},
 		{
 			"id": 106,
@@ -794,10 +628,7 @@
 			"relatedItem": 0,
 			"overflow": false,
 			"jump": 0,
-			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"stockShow": false
 		},
 		{
 			"id": 107,
@@ -811,10 +642,7 @@
 			"relatedItem": 0,
 			"overflow": false,
 			"jump": 0,
-			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"stockShow": false
 		},
 		{
 			"id": 110,
@@ -828,10 +656,7 @@
 			"use": 1,
 			"relatedItem": 0,
 			"overflow": false,
-			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"jump": 0
 		},
 		{
 			"id": 111,
@@ -845,9 +670,6 @@
 			"dzbagOccupy": true,
 			"relatedItem": 0,
 			"overflow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -862,9 +684,6 @@
 			"relatedItem": 0,
 			"pile": 0,
 			"overflow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -879,9 +698,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -896,10 +712,7 @@
 			"use": 1,
 			"relatedItem": 0,
 			"overflow": false,
-			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0
+			"jump": 0
 		},
 		{
 			"id": 120,
@@ -913,9 +726,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -930,9 +740,6 @@
 			"overflow": false,
 			"jump": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -947,9 +754,6 @@
 			"rank": 0,
 			"overflow": false,
 			"jump": 0,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -964,9 +768,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -981,9 +782,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -998,9 +796,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -1015,9 +810,6 @@
 			"jump": 0,
 			"stockShow": false,
 			"dzbagOccupy": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -1032,9 +824,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -1049,9 +838,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		},
 		{
@@ -1066,9 +852,6 @@
 			"relatedItem": 0,
 			"rank": 0,
 			"stockShow": false,
-			"canLock": false,
-			"ifDefaultLock": false,
-			"defaultLockRank": 0,
 			"use": 0
 		}
 	]

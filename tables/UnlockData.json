@@ -259,10 +259,10 @@
 				11015
 			],
 			"prompt": "Level 45 + Story Campaign Chapter 6",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimCombatEx",
 			"unlockName": "Coordination Drill",
 			"lockType": 0,
-			"interfaceId": 0,
-			"icon": "",
 			"homeButtonRedhint": 0,
 			"openDetail": "0",
 			"sequence": 0

@@ -74753,6 +74753,20 @@
 			"expandWaveId": 1
 		},
 		{
+			"id": 800141001,
+			"enemies": [
+				800141001
+			],
+			"expandWaveId": 0
+		},
+		{
+			"id": 800142001,
+			"enemies": [
+				800142001
+			],
+			"expandWaveId": 0
+		},
+		{
 			"id": 1030701001,
 			"enemies": [
 				1030701001,

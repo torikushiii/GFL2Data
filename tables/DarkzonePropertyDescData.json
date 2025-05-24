@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"id": 1001,
+			"minimumEffective": 0,
+			"maximumEffect": 0
+		},
+		{
+			"id": 1002,
+			"maximumEffect": 200,
+			"minimumEffective": 0
+		},
+		{
 			"id": 1003,
 			"maximumEffect": 1500,
 			"minimumEffective": 0
@@ -294,6 +304,11 @@
 			"id": 1122,
 			"minimumEffective": 0,
 			"maximumEffect": 0
+		},
+		{
+			"id": 1200,
+			"maximumEffect": 5000,
+			"minimumEffective": 0
 		}
 	]
 }

@@ -463,8 +463,8 @@
 			"id": 22069,
 			"icon": "Item_Icon_Medal_HighPVP_Season13",
 			"name": "Badge - Balefire Shift",
-			"qualify": "Unlock by ranking in the top 80% in Military Simulation Season: Balefire Shift",
-			"qualifySimplify": "Unlock by ranking in the top 80% in Military Simulation Season: Balefire Shift",
+			"qualify": "Unlocked by ranking in the top 80% in Military Simulation Season: Balefire Shift",
+			"qualifySimplify": "Unlocked by ranking in the top 80% in Military Simulation Season: Balefire Shift",
 			"sort": 224,
 			"achievement": 0
 		}

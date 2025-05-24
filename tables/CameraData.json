@@ -1,15 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1,
-			"name": "Freedom",
-			"type": 1,
-			"prefab": [],
-			"tacticReplace": 0,
-			"batchTypeId": 0,
-			"isTpsShootCamera": 0
-		},
-		{
 			"id": 2,
 			"name": "God",
 			"type": 20,

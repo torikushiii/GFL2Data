@@ -325,15 +325,15 @@
 		{
 			"id": 39024,
 			"sourceGunid": 1054,
-			"briefIntro": "Yoohee is a support-type Doll who can grant her teammates many beneficial buffs, such as Defense Shredding; when ally units deal physical damage and the target's defence has been reduced below 0%, it causes damage dealt to the target to be increased instead. She can also grant many Dance Step effects, which can improve her teammates damage output and survivability. Applying multiple Dance Steps will also trigger map-wide support effects.",
+			"briefIntro": "Yoohee is a Support-class Doll who can grant her teammates many beneficial buffs, such as [Defense Shredding]—when allied units deal Physical damage. if the target's reduced defense exceeds 100%, the damage dealt is increased. She also applies multiple [Dance Step] effects, which enhances her teammates' damage output and survivability. Applying multiple [Dance Steps] will also trigger map-wide support effects.",
 			"iconSkill1": 10540501,
-			"textSkill1": "Deals physical damage. If this unit has 3 or more points of Confectance Index, expends Confectance Index to cause this attack to ignore part of the target's defence.",
+			"textSkill1": "Deals Physical damage. If Yoohee has 3 or more points of Confectance Index, expends Confectance Index to cause this attack to ignore part of the target's defense.",
 			"iconSkill2": 10540701,
-			"textSkill2": "Applies Targeted Attack Defence I to the target an all other ally units within 2 tiles. Deals AoE physical damage to all enemy units within that area and applies Stun to them. \nAfter the attack, Yoohee gains 1 additional use of the active skill Graceful Spin or the active skill Passionate Resonance.",
+			"textSkill2": "Applies [Targeted Attack Defense I] to the target and all other allied units within 2 tiles. Deals AoE Physical damage to all enemy units within that area and inflicts [Stun] to them. \nAfter the attack, Yoohee gains 1 additional use of the active skill [Pirouette] or the active skill [Passionate Resonance].",
 			"iconSkill3": 10540401,
-			"textSkill3": "Gain Troupe's Core. Applies Stability Offensive I to all teammates. Gains Extra Command after using this skill. \nTroupe's Core: When applying Dance Steps to teammates (Includes Graceful Spin and Passionate Resonance) Yoohee gains the same effect.",
+			"textSkill3": "Yoohee gains Troupe's Core, applies Stability Offensive I to all teammates, and gains Extra Command after using this skill. \nTroupe's Core: When applying Dance Steps to teammates (Including Graceful Spin and Passionate Spin), Yoohee gains the same effect.",
 			"iconSkill4": 10540801,
-			"textSkill4": "When ally units deal physical damage, gain Confectance Index. \nAfter using a normal attack or an active skill, this unit can use the active skill Graceful Spin or the active skill Passionate Resonance. \nAfter applying 3 or more Dance Steps, trigger Best Dancer once, gain 1 stack of Never Give Up and refresh the duration of all stacks of Dance Steps and Defense Shredding across the battlefield. \nBest Dancer: Triggers a mapwide buff based on the most recently-applied Dance Step. \nNever Give Up: Ally units ignore part of the target's defense when performing an active physical attack.",
+			"textSkill4": "When allied units deal Physical damage, Yoohee gains Confectance Index. \nAfter using a basic attack or an active skill, Yoohee can use the active skill Pirouette or the active skill Passionate Resonance. \nAfter applying 3 or more Dance Steps, triggers Best Dancer once, gaining 1 stack of Never Give Up and refreshes the duration of all stacks of Dance Steps and Defense Shredding across the battlefield. \nBest Dancer: Triggers a mapwide buff based on the most recently-applied Dance Step. \nNever Give Up: Allied units ignore part of the target's defense when dealing Physical damage using an active skill.",
 			"gunTags": ""
 		},
 		{

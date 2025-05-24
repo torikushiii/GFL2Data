@@ -1518,6 +1518,41 @@
 			"globalTab": 0
 		},
 		{
+			"id": 4021,
+			"name": "Silvered Whispers",
+			"difficultyType": 1,
+			"difficultyGroup": 421,
+			"type": 4,
+			"stageGroup": 4021,
+			"relation": 118,
+			"notes": 1,
+			"tabName": "剧情模式",
+			"planId": 500095,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				15,
+				30,
+				45
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_YooHee",
+			"mapBackground": "Img_YooHee_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
 			"id": 4022,
 			"name": "Ex Umbra",
 			"difficultyType": 1,
@@ -3027,6 +3062,39 @@
 			"globalTab": 0
 		},
 		{
+			"id": 94021,
+			"name": "Silvered Whispers",
+			"difficultyType": 2,
+			"difficultyGroup": 421,
+			"type": 4,
+			"stageGroup": 94021,
+			"relation": 218,
+			"notes": 1,
+			"tabName": "物资模式",
+			"planId": 51035,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_YooHee",
+			"mapBackground": "Img_YooHee_ChapterBg_1",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"globalTab": 0
+		},
+		{
 			"id": 94022,
 			"name": "Ex Umbra",
 			"difficultyType": 2,
@@ -3446,6 +3514,31 @@
 			"chapterDes": "",
 			"background": "Img_Branch_Qiuhua",
 			"mapBackground": "Img_Qiuhua_ChapterBg_1",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994021,
+			"name": "Silvered Whispers",
+			"difficultyType": 3,
+			"difficultyGroup": 99421,
+			"type": 4,
+			"stageGroup": 994021,
+			"tabName": "挑战模式",
+			"planId": 51036,
+			"chapterDes": "",
+			"background": "Img_Branch_YooHee",
+			"mapBackground": "Img_YooHee_ChapterBg_1",
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,

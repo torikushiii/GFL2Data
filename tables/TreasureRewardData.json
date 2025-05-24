@@ -109,18 +109,6 @@
 			"advancedRewardStr": "45:1"
 		},
 		{
-			"id": 1010,
-			"levelId": 10,
-			"baseReward": {
-				"1": 50
-			},
-			"advancedReward": {
-				"45": 1
-			},
-			"baseRewardStr": "1:50",
-			"advancedRewardStr": "45:1"
-		},
-		{
 			"id": 1011,
 			"levelId": 11,
 			"baseReward": {

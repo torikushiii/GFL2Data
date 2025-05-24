@@ -3958,7 +3958,7 @@
 		},
 		{
 			"id": 80399,
-			"chars": "Hidden supplies discovered! Access Permit*1 acquired"
+			"chars": "Hidden supplies found! Gain Access Permission ×1"
 		},
 		{
 			"id": 80999,
@@ -14722,7 +14722,7 @@
 		},
 		{
 			"id": 260224,
-			"chars": "Searching for Meow Seal Supplies"
+			"chars": "Searching for Meow Supplies"
 		},
 		{
 			"id": 260225,
@@ -14850,7 +14850,7 @@
 		},
 		{
 			"id": 260256,
-			"chars": "Proceed to Challenge"
+			"chars": "Challenge"
 		},
 		{
 			"id": 260257,
@@ -17442,7 +17442,7 @@
 		},
 		{
 			"id": 274104,
-			"chars": "Neural Cloud Review"
+			"chars": "Neural Migration"
 		},
 		{
 			"id": 274105,
@@ -17466,7 +17466,7 @@
 		},
 		{
 			"id": 274110,
-			"chars": "Neural Cloud Review"
+			"chars": "Neural Migration"
 		},
 		{
 			"id": 274201,
@@ -26086,7 +26086,7 @@
 		},
 		{
 			"id": 520007,
-			"chars": "Equip Part"
+			"chars": "Accessories"
 		},
 		{
 			"id": 520008,
@@ -26094,7 +26094,7 @@
 		},
 		{
 			"id": 520009,
-			"chars": "Equip Part"
+			"chars": "Accessories"
 		},
 		{
 			"id": 520010,
@@ -26106,7 +26106,7 @@
 		},
 		{
 			"id": 520012,
-			"chars": "Buy Parts"
+			"chars": "Buy"
 		},
 		{
 			"id": 520013,
@@ -29342,7 +29342,7 @@
 		},
 		{
 			"id": 903471,
-			"chars": "None"
+			"chars": "No Incident"
 		},
 		{
 			"id": 903472,
