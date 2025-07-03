@@ -33,6 +33,14 @@
 			"weaponWeak": 10
 		},
 		{
+			"id": 61101067,
+			"weakGroupId": 61101,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 10
+		},
+		{
 			"id": 61102001,
 			"weakGroupId": 61102,
 			"levelMin": 1,
@@ -57,6 +65,14 @@
 			"weaponWeak": 10
 		},
 		{
+			"id": 61102067,
+			"weakGroupId": 61102,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 10
+		},
+		{
 			"id": 61103001,
 			"weakGroupId": 61103,
 			"levelMin": 1,
@@ -77,6 +93,14 @@
 			"weakGroupId": 61103,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 61103067,
+			"weakGroupId": 61103,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -113,6 +137,14 @@
 			"weaponWeak": 10
 		},
 		{
+			"id": 61111067,
+			"weakGroupId": 61111,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 10
+		},
+		{
 			"id": 61112001,
 			"weakGroupId": 61112,
 			"levelMin": 1,
@@ -145,6 +177,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 61112067,
+			"weakGroupId": 61112,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 61113001,
 			"weakGroupId": 61113,
 			"levelMin": 1,
@@ -165,6 +205,14 @@
 			"weakGroupId": 61113,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 61113067,
+			"weakGroupId": 61113,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -201,6 +249,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 61121067,
+			"weakGroupId": 61121,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 36
+		},
+		{
 			"id": 61122001,
 			"weakGroupId": 61122,
 			"levelMin": 1,
@@ -221,6 +277,14 @@
 			"weakGroupId": 61122,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 48
+		},
+		{
+			"id": 61122067,
+			"weakGroupId": 61122,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 48
 		},
@@ -257,6 +321,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 61131067,
+			"weakGroupId": 61131,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 36
+		},
+		{
 			"id": 61132001,
 			"weakGroupId": 61132,
 			"levelMin": 1,
@@ -289,6 +361,14 @@
 			"weaponWeak": 48
 		},
 		{
+			"id": 61132067,
+			"weakGroupId": 61132,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 48
+		},
+		{
 			"id": 61141001,
 			"weakGroupId": 61141,
 			"levelMin": 1,
@@ -309,6 +389,14 @@
 			"weakGroupId": 61141,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 12
+		},
+		{
+			"id": 61141067,
+			"weakGroupId": 61141,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 12
 		},
@@ -337,6 +425,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 61142067,
+			"weakGroupId": 61142,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 61143001,
 			"weakGroupId": 61143,
 			"levelMin": 1,
@@ -357,6 +453,14 @@
 			"weakGroupId": 61143,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 61143067,
+			"weakGroupId": 61143,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -385,6 +489,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 61151067,
+			"weakGroupId": 61151,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 6
+		},
+		{
 			"id": 61152001,
 			"weakGroupId": 61152,
 			"levelMin": 1,
@@ -405,6 +517,14 @@
 			"weakGroupId": 61152,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 61152067,
+			"weakGroupId": 61152,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -433,6 +553,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 61153067,
+			"weakGroupId": 61153,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 61161001,
 			"weakGroupId": 61161,
 			"levelMin": 1,
@@ -453,6 +581,14 @@
 			"weakGroupId": 61161,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 10
+		},
+		{
+			"id": 61161067,
+			"weakGroupId": 61161,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 10
 		},
@@ -481,6 +617,14 @@
 			"weaponWeak": 10
 		},
 		{
+			"id": 61162067,
+			"weakGroupId": 61162,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 10
+		},
+		{
 			"id": 61163001,
 			"weakGroupId": 61163,
 			"levelMin": 1,
@@ -501,6 +645,14 @@
 			"weakGroupId": 61163,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 61163067,
+			"weakGroupId": 61163,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -529,6 +681,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 61201067,
+			"weakGroupId": 61201,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 12
+		},
+		{
 			"id": 61202001,
 			"weakGroupId": 61202,
 			"levelMin": 1,
@@ -549,6 +709,14 @@
 			"weakGroupId": 61202,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 34
+		},
+		{
+			"id": 61202067,
+			"weakGroupId": 61202,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 34
 		},
@@ -577,6 +745,14 @@
 			"weaponWeak": 18
 		},
 		{
+			"id": 61211067,
+			"weakGroupId": 61211,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 18
+		},
+		{
 			"id": 61212001,
 			"weakGroupId": 61212,
 			"levelMin": 1,
@@ -597,6 +773,14 @@
 			"weakGroupId": 61212,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 6
+		},
+		{
+			"id": 61212067,
+			"weakGroupId": 61212,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 6
 		},
@@ -625,6 +809,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 61213067,
+			"weakGroupId": 61213,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 61221001,
 			"weakGroupId": 61221,
 			"levelMin": 1,
@@ -645,6 +837,14 @@
 			"weakGroupId": 61221,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "4",
+			"weaponWeak": 34
+		},
+		{
+			"id": 61221067,
+			"weakGroupId": 61221,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "4",
 			"weaponWeak": 34
 		},
@@ -673,6 +873,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 61222067,
+			"weakGroupId": 61222,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 6
+		},
+		{
 			"id": 61301001,
 			"weakGroupId": 61301,
 			"levelMin": 1,
@@ -693,6 +901,14 @@
 			"weakGroupId": 61301,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 24
+		},
+		{
+			"id": 61301067,
+			"weakGroupId": 61301,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 24
 		},
@@ -721,6 +937,14 @@
 			"weaponWeak": 18
 		},
 		{
+			"id": 61311067,
+			"weakGroupId": 61311,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 18
+		},
+		{
 			"id": 61312001,
 			"weakGroupId": 61312,
 			"levelMin": 1,
@@ -741,6 +965,14 @@
 			"weakGroupId": 61312,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 36
+		},
+		{
+			"id": 61312067,
+			"weakGroupId": 61312,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 36
 		},
@@ -769,6 +1001,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 61313067,
+			"weakGroupId": 61313,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62011001,
 			"weakGroupId": 62011,
 			"levelMin": 1,
@@ -789,6 +1029,14 @@
 			"weakGroupId": 62011,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 20
+		},
+		{
+			"id": 62011067,
+			"weakGroupId": 62011,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 20
 		},
@@ -817,6 +1065,14 @@
 			"weaponWeak": 48
 		},
 		{
+			"id": 62012067,
+			"weakGroupId": 62012,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 48
+		},
+		{
 			"id": 62013001,
 			"weakGroupId": 62013,
 			"levelMin": 1,
@@ -837,6 +1093,14 @@
 			"weakGroupId": 62013,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 62013067,
+			"weakGroupId": 62013,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -873,6 +1137,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 62101067,
+			"weakGroupId": 62101,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 12
+		},
+		{
 			"id": 62102001,
 			"weakGroupId": 62102,
 			"levelMin": 1,
@@ -893,6 +1165,14 @@
 			"weakGroupId": 62102,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": 40
+		},
+		{
+			"id": 62102067,
+			"weakGroupId": 62102,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": 40
 		},
@@ -921,6 +1201,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 62103067,
+			"weakGroupId": 62103,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62111001,
 			"weakGroupId": 62111,
 			"levelMin": 1,
@@ -941,6 +1229,14 @@
 			"weakGroupId": 62111,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 18
+		},
+		{
+			"id": 62111067,
+			"weakGroupId": 62111,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 18
 		},
@@ -969,6 +1265,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 62112067,
+			"weakGroupId": 62112,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62113001,
 			"weakGroupId": 62113,
 			"levelMin": 1,
@@ -989,6 +1293,14 @@
 			"weakGroupId": 62113,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 62113067,
+			"weakGroupId": 62113,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1025,6 +1337,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 62131067,
+			"weakGroupId": 62131,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 36
+		},
+		{
 			"id": 62132001,
 			"weakGroupId": 62132,
 			"levelMin": 1,
@@ -1057,6 +1377,14 @@
 			"weaponWeak": 40
 		},
 		{
+			"id": 62132067,
+			"weakGroupId": 62132,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 40
+		},
+		{
 			"id": 62141001,
 			"weakGroupId": 62141,
 			"levelMin": 1,
@@ -1077,6 +1405,14 @@
 			"weakGroupId": 62141,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": 34
+		},
+		{
+			"id": 62141067,
+			"weakGroupId": 62141,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": 34
 		},
@@ -1105,6 +1441,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 62142067,
+			"weakGroupId": 62142,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 12
+		},
+		{
 			"id": 62151001,
 			"weakGroupId": 62151,
 			"levelMin": 1,
@@ -1129,6 +1473,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 62151067,
+			"weakGroupId": 62151,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 12
+		},
+		{
 			"id": 62152001,
 			"weakGroupId": 62152,
 			"levelMin": 1,
@@ -1149,6 +1501,14 @@
 			"weakGroupId": 62152,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 12
+		},
+		{
+			"id": 62152067,
+			"weakGroupId": 62152,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 12
 		},
@@ -1185,6 +1545,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 62161067,
+			"weakGroupId": 62161,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 36
+		},
+		{
 			"id": 62162001,
 			"weakGroupId": 62162,
 			"levelMin": 1,
@@ -1205,6 +1573,14 @@
 			"weakGroupId": 62162,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 36
+		},
+		{
+			"id": 62162067,
+			"weakGroupId": 62162,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 36
 		},
@@ -1233,6 +1609,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 62163067,
+			"weakGroupId": 62163,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62171001,
 			"weakGroupId": 62171,
 			"levelMin": 1,
@@ -1253,6 +1637,14 @@
 			"weakGroupId": 62171,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 10
+		},
+		{
+			"id": 62171067,
+			"weakGroupId": 62171,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 10
 		},
@@ -1281,6 +1673,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 62172067,
+			"weakGroupId": 62172,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 6
+		},
+		{
 			"id": 62173001,
 			"weakGroupId": 62173,
 			"levelMin": 1,
@@ -1301,6 +1701,14 @@
 			"weakGroupId": 62173,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 62173067,
+			"weakGroupId": 62173,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1329,6 +1737,14 @@
 			"weaponWeak": 24
 		},
 		{
+			"id": 62201067,
+			"weakGroupId": 62201,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 24
+		},
+		{
 			"id": 62202001,
 			"weakGroupId": 62202,
 			"levelMin": 1,
@@ -1349,6 +1765,14 @@
 			"weakGroupId": 62202,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 62202067,
+			"weakGroupId": 62202,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1377,6 +1801,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 62203067,
+			"weakGroupId": 62203,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62241001,
 			"weakGroupId": 62241,
 			"levelMin": 1,
@@ -1397,6 +1829,14 @@
 			"weakGroupId": 62241,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 6
+		},
+		{
+			"id": 62241067,
+			"weakGroupId": 62241,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 6
 		},
@@ -1425,6 +1865,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 62242067,
+			"weakGroupId": 62242,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 6
+		},
+		{
 			"id": 62341001,
 			"weakGroupId": 62341,
 			"levelMin": 1,
@@ -1445,6 +1893,14 @@
 			"weakGroupId": 62341,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 34
+		},
+		{
+			"id": 62341067,
+			"weakGroupId": 62341,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 34
 		},
@@ -1473,6 +1929,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 62342067,
+			"weakGroupId": 62342,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 62452001,
 			"weakGroupId": 62452,
 			"levelMin": 1,
@@ -1493,6 +1957,14 @@
 			"weakGroupId": 62452,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1,5",
+			"weaponWeak": 24
+		},
+		{
+			"id": 62452067,
+			"weakGroupId": 62452,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1,5",
 			"weaponWeak": 24
 		},
@@ -1521,6 +1993,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 63111067,
+			"weakGroupId": 63111,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 6
+		},
+		{
 			"id": 63112001,
 			"weakGroupId": 63112,
 			"levelMin": 1,
@@ -1541,6 +2021,14 @@
 			"weakGroupId": 63112,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63112067,
+			"weakGroupId": 63112,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1569,6 +2057,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63113067,
+			"weakGroupId": 63113,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63121001,
 			"weakGroupId": 63121,
 			"levelMin": 1,
@@ -1589,6 +2085,14 @@
 			"weakGroupId": 63121,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63121067,
+			"weakGroupId": 63121,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1617,6 +2121,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63122067,
+			"weakGroupId": 63122,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63131001,
 			"weakGroupId": 63131,
 			"levelMin": 1,
@@ -1637,6 +2149,14 @@
 			"weakGroupId": 63131,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 40
+		},
+		{
+			"id": 63131067,
+			"weakGroupId": 63131,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 40
 		},
@@ -1665,6 +2185,14 @@
 			"weaponWeak": 40
 		},
 		{
+			"id": 63132067,
+			"weakGroupId": 63132,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 40
+		},
+		{
 			"id": 63141001,
 			"weakGroupId": 63141,
 			"levelMin": 1,
@@ -1685,6 +2213,14 @@
 			"weakGroupId": 63141,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 10
+		},
+		{
+			"id": 63141067,
+			"weakGroupId": 63141,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 10
 		},
@@ -1713,6 +2249,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63142067,
+			"weakGroupId": 63142,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63143001,
 			"weakGroupId": 63143,
 			"levelMin": 1,
@@ -1733,6 +2277,14 @@
 			"weakGroupId": 63143,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63143067,
+			"weakGroupId": 63143,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1761,6 +2313,14 @@
 			"weaponWeak": 40
 		},
 		{
+			"id": 63151067,
+			"weakGroupId": 63151,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 40
+		},
+		{
 			"id": 63152001,
 			"weakGroupId": 63152,
 			"levelMin": 1,
@@ -1781,6 +2341,14 @@
 			"weakGroupId": 63152,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "4",
+			"weaponWeak": 10
+		},
+		{
+			"id": 63152067,
+			"weakGroupId": 63152,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "4",
 			"weaponWeak": 10
 		},
@@ -1809,6 +2377,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63153067,
+			"weakGroupId": 63153,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63161001,
 			"weakGroupId": 63161,
 			"levelMin": 1,
@@ -1829,6 +2405,14 @@
 			"weakGroupId": 63161,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63161067,
+			"weakGroupId": 63161,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1857,6 +2441,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63162067,
+			"weakGroupId": 63162,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63163001,
 			"weakGroupId": 63163,
 			"levelMin": 1,
@@ -1877,6 +2469,14 @@
 			"weakGroupId": 63163,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63163067,
+			"weakGroupId": 63163,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -1905,6 +2505,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 63171067,
+			"weakGroupId": 63171,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 12
+		},
+		{
 			"id": 63172001,
 			"weakGroupId": 63172,
 			"levelMin": 1,
@@ -1925,6 +2533,14 @@
 			"weakGroupId": 63172,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": 12
+		},
+		{
+			"id": 63172067,
+			"weakGroupId": 63172,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": 12
 		},
@@ -1953,6 +2569,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63173067,
+			"weakGroupId": 63173,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63211001,
 			"weakGroupId": 63211,
 			"levelMin": 1,
@@ -1973,6 +2597,14 @@
 			"weakGroupId": 63211,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63211067,
+			"weakGroupId": 63211,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2001,6 +2633,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63212067,
+			"weakGroupId": 63212,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63213001,
 			"weakGroupId": 63213,
 			"levelMin": 1,
@@ -2021,6 +2661,14 @@
 			"weakGroupId": 63213,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63213067,
+			"weakGroupId": 63213,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2049,6 +2697,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63221067,
+			"weakGroupId": 63221,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63321001,
 			"weakGroupId": 63321,
 			"levelMin": 1,
@@ -2069,6 +2725,14 @@
 			"weakGroupId": 63321,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63321067,
+			"weakGroupId": 63321,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2097,6 +2761,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63341067,
+			"weakGroupId": 63341,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 63342001,
 			"weakGroupId": 63342,
 			"levelMin": 1,
@@ -2117,6 +2789,14 @@
 			"weakGroupId": 63342,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 63342067,
+			"weakGroupId": 63342,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2145,6 +2825,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 63343067,
+			"weakGroupId": 63343,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64101001,
 			"weakGroupId": 64101,
 			"levelMin": 1,
@@ -2165,6 +2853,14 @@
 			"weakGroupId": 64101,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 40
+		},
+		{
+			"id": 64101067,
+			"weakGroupId": 64101,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 40
 		},
@@ -2193,6 +2889,14 @@
 			"weaponWeak": 12
 		},
 		{
+			"id": 64102067,
+			"weakGroupId": 64102,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 12
+		},
+		{
 			"id": 64103001,
 			"weakGroupId": 64103,
 			"levelMin": 1,
@@ -2213,6 +2917,14 @@
 			"weakGroupId": 64103,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64103067,
+			"weakGroupId": 64103,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2241,6 +2953,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 64111067,
+			"weakGroupId": 64111,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 36
+		},
+		{
 			"id": 64112001,
 			"weakGroupId": 64112,
 			"levelMin": 1,
@@ -2261,6 +2981,14 @@
 			"weakGroupId": 64112,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64112067,
+			"weakGroupId": 64112,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2289,6 +3017,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64113067,
+			"weakGroupId": 64113,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64121001,
 			"weakGroupId": 64121,
 			"levelMin": 1,
@@ -2309,6 +3045,14 @@
 			"weakGroupId": 64121,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "4",
+			"weaponWeak": 6
+		},
+		{
+			"id": 64121067,
+			"weakGroupId": 64121,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "4",
 			"weaponWeak": 6
 		},
@@ -2337,6 +3081,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64122067,
+			"weakGroupId": 64122,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64123001,
 			"weakGroupId": 64123,
 			"levelMin": 1,
@@ -2357,6 +3109,14 @@
 			"weakGroupId": 64123,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64123067,
+			"weakGroupId": 64123,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2385,6 +3145,14 @@
 			"weaponWeak": 40
 		},
 		{
+			"id": 64131067,
+			"weakGroupId": 64131,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": 40
+		},
+		{
 			"id": 64132001,
 			"weakGroupId": 64132,
 			"levelMin": 1,
@@ -2405,6 +3173,14 @@
 			"weakGroupId": 64132,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "4",
+			"weaponWeak": 36
+		},
+		{
+			"id": 64132067,
+			"weakGroupId": 64132,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "4",
 			"weaponWeak": 36
 		},
@@ -2433,6 +3209,14 @@
 			"weaponWeak": 18
 		},
 		{
+			"id": 64141067,
+			"weakGroupId": 64141,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 18
+		},
+		{
 			"id": 64201001,
 			"weakGroupId": 64201,
 			"levelMin": 1,
@@ -2453,6 +3237,14 @@
 			"weakGroupId": 64201,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 10
+		},
+		{
+			"id": 64201067,
+			"weakGroupId": 64201,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 10
 		},
@@ -2481,6 +3273,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64202067,
+			"weakGroupId": 64202,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64203001,
 			"weakGroupId": 64203,
 			"levelMin": 1,
@@ -2501,6 +3301,14 @@
 			"weakGroupId": 64203,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64203067,
+			"weakGroupId": 64203,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2529,6 +3337,14 @@
 			"weaponWeak": 6
 		},
 		{
+			"id": 64211067,
+			"weakGroupId": 64211,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": 6
+		},
+		{
 			"id": 64212001,
 			"weakGroupId": 64212,
 			"levelMin": 1,
@@ -2549,6 +3365,14 @@
 			"weakGroupId": 64212,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64212067,
+			"weakGroupId": 64212,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2577,6 +3401,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64213067,
+			"weakGroupId": 64213,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64221001,
 			"weakGroupId": 64221,
 			"levelMin": 1,
@@ -2597,6 +3429,14 @@
 			"weakGroupId": 64221,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 18
+		},
+		{
+			"id": 64221067,
+			"weakGroupId": 64221,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 18
 		},
@@ -2625,6 +3465,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64222067,
+			"weakGroupId": 64222,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64223001,
 			"weakGroupId": 64223,
 			"levelMin": 1,
@@ -2645,6 +3493,14 @@
 			"weakGroupId": 64223,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64223067,
+			"weakGroupId": 64223,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2673,6 +3529,14 @@
 			"weaponWeak": 34
 		},
 		{
+			"id": 64231067,
+			"weakGroupId": 64231,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "4",
+			"weaponWeak": 34
+		},
+		{
 			"id": 64232001,
 			"weakGroupId": 64232,
 			"levelMin": 1,
@@ -2693,6 +3557,14 @@
 			"weakGroupId": 64232,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 36
+		},
+		{
+			"id": 64232067,
+			"weakGroupId": 64232,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 36
 		},
@@ -2721,6 +3593,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64233067,
+			"weakGroupId": 64233,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64301001,
 			"weakGroupId": 64301,
 			"levelMin": 1,
@@ -2741,6 +3621,14 @@
 			"weakGroupId": 64301,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": 40
+		},
+		{
+			"id": 64301067,
+			"weakGroupId": 64301,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": 40
 		},
@@ -2769,6 +3657,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64302067,
+			"weakGroupId": 64302,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64303001,
 			"weakGroupId": 64303,
 			"levelMin": 1,
@@ -2789,6 +3685,14 @@
 			"weakGroupId": 64303,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64303067,
+			"weakGroupId": 64303,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2817,6 +3721,14 @@
 			"weaponWeak": 36
 		},
 		{
+			"id": 64311067,
+			"weakGroupId": 64311,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 36
+		},
+		{
 			"id": 64312001,
 			"weakGroupId": 64312,
 			"levelMin": 1,
@@ -2837,6 +3749,14 @@
 			"weakGroupId": 64312,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64312067,
+			"weakGroupId": 64312,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2865,6 +3785,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64313067,
+			"weakGroupId": 64313,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64321001,
 			"weakGroupId": 64321,
 			"levelMin": 1,
@@ -2885,6 +3813,14 @@
 			"weakGroupId": 64321,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": 18
+		},
+		{
+			"id": 64321067,
+			"weakGroupId": 64321,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": 18
 		},
@@ -2913,6 +3849,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64322067,
+			"weakGroupId": 64322,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 64323001,
 			"weakGroupId": 64323,
 			"levelMin": 1,
@@ -2933,6 +3877,14 @@
 			"weakGroupId": 64323,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 64323067,
+			"weakGroupId": 64323,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "-1",
 			"weaponWeak": -1
 		},
@@ -2961,6 +3913,14 @@
 			"weaponWeak": 40
 		},
 		{
+			"id": 64331067,
+			"weakGroupId": 64331,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": 40
+		},
+		{
 			"id": 64332001,
 			"weakGroupId": 64332,
 			"levelMin": 1,
@@ -2981,6 +3941,14 @@
 			"weakGroupId": 64332,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": 36
+		},
+		{
+			"id": 64332067,
+			"weakGroupId": 64332,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": 36
 		},
@@ -3009,6 +3977,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 64333067,
+			"weakGroupId": 64333,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "-1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65011001,
 			"weakGroupId": 65011,
 			"levelMin": 1,
@@ -3029,6 +4005,14 @@
 			"weakGroupId": 65011,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65011067,
+			"weakGroupId": 65011,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": -1
 		},
@@ -3057,6 +4041,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65012067,
+			"weakGroupId": 65012,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "1",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65013001,
 			"weakGroupId": 65013,
 			"levelMin": 1,
@@ -3077,6 +4069,14 @@
 			"weakGroupId": 65013,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "1",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65013067,
+			"weakGroupId": 65013,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "1",
 			"weaponWeak": -1
 		},
@@ -3105,6 +4105,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65021067,
+			"weakGroupId": 65021,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65022001,
 			"weakGroupId": 65022,
 			"levelMin": 1,
@@ -3125,6 +4133,14 @@
 			"weakGroupId": 65022,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65022067,
+			"weakGroupId": 65022,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": -1
 		},
@@ -3153,6 +4169,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65023067,
+			"weakGroupId": 65023,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65031001,
 			"weakGroupId": 65031,
 			"levelMin": 1,
@@ -3173,6 +4197,14 @@
 			"weakGroupId": 65031,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65031067,
+			"weakGroupId": 65031,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": -1
 		},
@@ -3201,6 +4233,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65032067,
+			"weakGroupId": 65032,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65033001,
 			"weakGroupId": 65033,
 			"levelMin": 1,
@@ -3221,6 +4261,14 @@
 			"weakGroupId": 65033,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65033067,
+			"weakGroupId": 65033,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": -1
 		},
@@ -3249,6 +4297,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65041067,
+			"weakGroupId": 65041,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
 			"id": 65042001,
 			"weakGroupId": 65042,
 			"levelMin": 1,
@@ -3269,6 +4325,14 @@
 			"weakGroupId": 65042,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
+			"id": 65042067,
+			"weakGroupId": 65042,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": -1
 		},
@@ -3297,6 +4361,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 65043067,
+			"weakGroupId": 65043,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
 			"id": 66011001,
 			"weakGroupId": 66011,
 			"levelMin": 1,
@@ -3317,6 +4389,14 @@
 			"weakGroupId": 66011,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "2",
+			"weaponWeak": 12
+		},
+		{
+			"id": 66011067,
+			"weakGroupId": 66011,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "2",
 			"weaponWeak": 12
 		},
@@ -3345,6 +4425,14 @@
 			"weaponWeak": 34
 		},
 		{
+			"id": 66021067,
+			"weakGroupId": 66021,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "2",
+			"weaponWeak": 34
+		},
+		{
 			"id": 66031001,
 			"weakGroupId": 66031,
 			"levelMin": 1,
@@ -3365,6 +4453,14 @@
 			"weakGroupId": 66031,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
+			"id": 66031067,
+			"weakGroupId": 66031,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": -1
 		},
@@ -3393,6 +4489,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 66032067,
+			"weakGroupId": 66032,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
 			"id": 66033001,
 			"weakGroupId": 66033,
 			"levelMin": 1,
@@ -3413,6 +4517,14 @@
 			"weakGroupId": 66033,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "3",
+			"weaponWeak": -1
+		},
+		{
+			"id": 66033067,
+			"weakGroupId": 66033,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "3",
 			"weaponWeak": -1
 		},
@@ -3441,6 +4553,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 66041067,
+			"weakGroupId": 66041,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
 			"id": 66042001,
 			"weakGroupId": 66042,
 			"levelMin": 1,
@@ -3465,6 +4585,14 @@
 			"weaponWeak": -1
 		},
 		{
+			"id": 66042067,
+			"weakGroupId": 66042,
+			"levelMin": 67,
+			"levelMax": 81,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
 			"id": 66043001,
 			"weakGroupId": 66043,
 			"levelMin": 1,
@@ -3485,6 +4613,14 @@
 			"weakGroupId": 66043,
 			"levelMin": 46,
 			"levelMax": 66,
+			"elementWeak": "5",
+			"weaponWeak": -1
+		},
+		{
+			"id": 66043067,
+			"weakGroupId": 66043,
+			"levelMin": 67,
+			"levelMax": 81,
 			"elementWeak": "5",
 			"weaponWeak": -1
 		}

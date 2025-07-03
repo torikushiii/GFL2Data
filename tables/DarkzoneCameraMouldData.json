@@ -65,6 +65,14 @@
 			"priority": 1
 		},
 		{
+			"id": 9,
+			"focus": 1,
+			"length": -10,
+			"canStack": 1,
+			"priority": 1,
+			"range": 0
+		},
+		{
 			"id": 997,
 			"range": -700,
 			"canStack": 1,

@@ -130,14 +130,21 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				109
+			],
+			"o_KELCOAHGKGO": [
+				11,
+				12,
+				13,
+				14,
+				15
 			],
 			"bCost": {
 				"304": 1
 			},
 			"bName": "Overclock Simulation",
-			"bBossIntegral": 1,
-			"o_KELCOAHGKGO": []
+			"bBossIntegral": 1
 		},
 		{
 			"id": 7,

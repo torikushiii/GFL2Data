@@ -273,7 +273,7 @@
 			"dzCarrierHotWarning": 1800,
 			"carrierInteractRange": 200,
 			"carrierRangeDiffuse": 1000,
-			"chestWaitingTime": 1200,
+			"chestWaitingTime": 1500,
 			"materialStripTime": 2000,
 			"dzCarpointShow": 1,
 			"dzLostLimitTime": 4,

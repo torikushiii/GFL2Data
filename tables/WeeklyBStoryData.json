@@ -568,6 +568,26 @@
 			"buffCamp": []
 		},
 		{
+			"id": 281,
+			"stageId": 72971,
+			"stageLevle": 1,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 282,
+			"stageId": 72972,
+			"stageLevle": 2,
+			"injuryCoefficient": 0,
+			"bMainId": [],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
 			"id": 1091,
 			"stageId": 72804,
 			"stageLevle": 1,

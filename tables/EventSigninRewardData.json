@@ -1344,6 +1344,197 @@
 		},
 		{
 			"id": 151,
+			"activityId": 61303,
+			"days": 1,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 152,
+			"activityId": 61303,
+			"days": 2,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 153,
+			"activityId": 61303,
+			"days": 3,
+			"rewards": {
+				"45": 2
+			}
+		},
+		{
+			"id": 154,
+			"activityId": 61303,
+			"days": 4,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 155,
+			"activityId": 61303,
+			"days": 5,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 156,
+			"activityId": 61303,
+			"days": 6,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 157,
+			"activityId": 61303,
+			"days": 7,
+			"rewards": {
+				"45": 3
+			}
+		},
+		{
+			"id": 158,
+			"activityId": 61304,
+			"days": 1,
+			"rewards": {
+				"45": 10
+			}
+		},
+		{
+			"id": 159,
+			"activityId": 61401,
+			"days": 1,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 160,
+			"activityId": 61401,
+			"days": 2,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 161,
+			"activityId": 61401,
+			"days": 3,
+			"rewards": {
+				"45": 2
+			}
+		},
+		{
+			"id": 162,
+			"activityId": 61401,
+			"days": 4,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 163,
+			"activityId": 61401,
+			"days": 5,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 164,
+			"activityId": 61401,
+			"days": 6,
+			"rewards": {
+				"45": 1
+			}
+		},
+		{
+			"id": 165,
+			"activityId": 61401,
+			"days": 7,
+			"rewards": {
+				"45": 3
+			}
+		},
+		{
+			"id": 166,
+			"activityId": 62001,
+			"days": 1,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 167,
+			"activityId": 62001,
+			"days": 2,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 168,
+			"activityId": 62001,
+			"days": 3,
+			"rewards": {
+				"8": 2,
+				"12": 2
+			}
+		},
+		{
+			"id": 169,
+			"activityId": 62001,
+			"days": 4,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 170,
+			"activityId": 62001,
+			"days": 5,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 171,
+			"activityId": 62001,
+			"days": 6,
+			"rewards": {
+				"8": 2,
+				"12": 1
+			}
+		},
+		{
+			"id": 172,
+			"activityId": 62001,
+			"days": 7,
+			"rewards": {
+				"8": 2,
+				"12": 3
+			}
+		},
+		{
+			"id": 173,
+			"activityId": 62002,
+			"days": 1,
+			"rewards": {
+				"45": 10
+			}
+		},
+		{
+			"id": 174,
 			"activityId": 62007,
 			"days": 1,
 			"rewards": {
@@ -1353,7 +1544,7 @@
 			}
 		},
 		{
-			"id": 152,
+			"id": 175,
 			"activityId": 62007,
 			"days": 2,
 			"rewards": {
@@ -1363,7 +1554,7 @@
 			}
 		},
 		{
-			"id": 153,
+			"id": 176,
 			"activityId": 62007,
 			"days": 3,
 			"rewards": {
@@ -1373,7 +1564,7 @@
 			}
 		},
 		{
-			"id": 154,
+			"id": 177,
 			"activityId": 62007,
 			"days": 4,
 			"rewards": {
@@ -1383,7 +1574,7 @@
 			}
 		},
 		{
-			"id": 155,
+			"id": 178,
 			"activityId": 62007,
 			"days": 5,
 			"rewards": {
@@ -1393,7 +1584,7 @@
 			}
 		},
 		{
-			"id": 156,
+			"id": 179,
 			"activityId": 62007,
 			"days": 6,
 			"rewards": {
@@ -1403,7 +1594,7 @@
 			}
 		},
 		{
-			"id": 157,
+			"id": 180,
 			"activityId": 62007,
 			"days": 7,
 			"rewards": {
@@ -1413,74 +1604,59 @@
 			}
 		},
 		{
-			"id": 158,
-			"activityId": 62001,
+			"id": 181,
+			"activityId": 610001,
 			"days": 1,
 			"rewards": {
-				"8": 2,
-				"12": 1
+				"45": 1
 			}
 		},
 		{
-			"id": 159,
-			"activityId": 62001,
+			"id": 182,
+			"activityId": 610001,
 			"days": 2,
 			"rewards": {
-				"8": 2,
-				"12": 1
+				"45": 1
 			}
 		},
 		{
-			"id": 160,
-			"activityId": 62001,
+			"id": 183,
+			"activityId": 610001,
 			"days": 3,
 			"rewards": {
-				"8": 2,
-				"12": 2
+				"45": 2
 			}
 		},
 		{
-			"id": 161,
-			"activityId": 62001,
+			"id": 184,
+			"activityId": 610001,
 			"days": 4,
 			"rewards": {
-				"8": 2,
-				"12": 1
+				"45": 1
 			}
 		},
 		{
-			"id": 162,
-			"activityId": 62001,
+			"id": 185,
+			"activityId": 610001,
 			"days": 5,
 			"rewards": {
-				"8": 2,
-				"12": 1
+				"45": 1
 			}
 		},
 		{
-			"id": 163,
-			"activityId": 62001,
+			"id": 186,
+			"activityId": 610001,
 			"days": 6,
 			"rewards": {
-				"8": 2,
-				"12": 1
+				"45": 1
 			}
 		},
 		{
-			"id": 164,
-			"activityId": 62001,
+			"id": 187,
+			"activityId": 610001,
 			"days": 7,
 			"rewards": {
-				"8": 2,
-				"12": 3
-			}
-		},
-		{
-			"id": 165,
-			"activityId": 62002,
-			"days": 1,
-			"rewards": {
-				"45": 10
+				"45": 3
 			}
 		}
 	]

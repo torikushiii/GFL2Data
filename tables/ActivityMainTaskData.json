@@ -1866,224 +1866,224 @@
 			"id": 14010201,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Campaign Prelude I",
 			"des": "Complete Story Mode Stage SA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010202,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Intense Pursuit I",
 			"des": "Complete Story Mode Stage SA-2-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010203,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Intense Pursuit II",
 			"des": "Complete Story Mode Stage SA-2-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010204,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Intense Pursuit III",
 			"des": "Complete Story Mode Stage SA-2-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010205,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Extreme Breakthrough I",
 			"des": "Complete Story Mode Stage SA-3-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010206,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Extreme Breakthrough II",
 			"des": "Complete Story Mode Stage SA-3-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010207,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Extreme Breakthrough III",
 			"des": "Complete Story Mode Stage SA-3-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010208,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Victory Decided I",
 			"des": "Complete Story Mode Stage SA-4-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010209,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Victory Decided II",
 			"des": "Complete Story Mode Stage SA-4-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010210,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Final Winner I",
 			"des": "Complete Story Mode Stage SA-5-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010211,
 			"group": 1401,
 			"tag": 2,
-			"tagName": "Story Mode - Part 1",
+			"tagName": "Story Mode - Part I",
 			"name": "Final Winner II",
 			"des": "Complete Story Mode Stage SA-5-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 500
+				"176401": 300
 			}
 		},
 		{
 			"id": 14010301,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply Mode - Part 1",
+			"tagName": "Supply Mode - Part I",
 			"name": "Comprehensive Search I",
 			"des": "Complete Supply Mode Stage SF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 750
+				"176401": 450
 			}
 		},
 		{
 			"id": 14010302,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply Mode - Part 1",
+			"tagName": "Supply Mode - Part I",
 			"name": "Comprehensive Search II",
 			"des": "Complete Supply Mode Stage SF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 750
+				"176401": 450
 			}
 		},
 		{
 			"id": 14010303,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply Mode - Part 1",
+			"tagName": "Supply Mode - Part I",
 			"name": "Comprehensive Search III",
 			"des": "Complete Supply Mode Stage SF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 750
+				"176401": 450
 			}
 		},
 		{
 			"id": 14010304,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply Mode - Part 1",
+			"tagName": "Supply Mode - Part I",
 			"name": "Comprehensive Search IV",
 			"des": "Complete Supply Mode Stage SF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 750
+				"176401": 450
 			}
 		},
 		{
 			"id": 14010305,
 			"group": 1401,
 			"tag": 3,
-			"tagName": "Supply Mode - Part 1",
+			"tagName": "Supply Mode - Part I",
 			"name": "Comprehensive Search V",
 			"des": "Complete Supply Mode Stage SF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 750
+				"176401": 450
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176401": 1000
+				"176401": 600
 			}
 		},
 		{
@@ -2111,7 +2111,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176401": 1000
+				"176401": 600
 			}
 		},
 		{
@@ -2125,7 +2125,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176401": 1000
+				"176401": 600
 			}
 		},
 		{
@@ -2139,7 +2139,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176401": 1000
+				"176401": 600
 			}
 		},
 		{
@@ -2153,231 +2153,231 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176401": 1000
+				"176401": 600
 			}
 		},
 		{
 			"id": 14010501,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Round 2",
 			"des": "Complete Story Mode Stage PA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010502,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Repeat Calculation I",
 			"des": "Complete Story Mode Stage PA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010503,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Repeat Calculation II",
 			"des": "Complete Story Mode Stage PA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010504,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Hunting Shadows I",
 			"des": "Complete Story Mode Stage PA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010505,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Hunting Shadows II",
 			"des": "Complete Story Mode Stage PA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010506,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Hunting Shadows III",
 			"des": "Complete Story Mode Stage PA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010507,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Elaborate Deployment I",
 			"des": "Complete Story Mode Stage PA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010508,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Elaborate Deployment II",
 			"des": "Complete Story Mode Stage PA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010509,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Elaborate Deployment III",
 			"des": "Complete Story Mode Stage PA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010510,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Repeat Calculation III",
 			"des": "Complete Story Mode Stage PA-1-10",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010511,
 			"group": 1401,
 			"tag": 5,
-			"tagName": "Story Mode - Part 2",
+			"tagName": "Story Mode - Part II",
 			"name": "Endgame Moment",
 			"des": "Complete Story Mode Stage PA-1-11",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176402": 500
+				"176402": 300
 			}
 		},
 		{
 			"id": 14010601,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply Mode - Part 2",
+			"tagName": "Supply Mode - Part II",
 			"name": "Venue Search I",
 			"des": "Complete Supply Mode Stage PF-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176402": 750
+				"176402": 450
 			}
 		},
 		{
 			"id": 14010602,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply Mode - Part 2",
+			"tagName": "Supply Mode - Part II",
 			"name": "Venue Search II",
 			"des": "Complete Supply Mode Stage PF-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176402": 750
+				"176402": 450
 			}
 		},
 		{
 			"id": 14010603,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply Mode - Part 2",
+			"tagName": "Supply Mode - Part II",
 			"name": "Venue Search III",
 			"des": "Complete Supply Mode Stage PF-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176402": 750
+				"176402": 450
 			}
 		},
 		{
 			"id": 14010604,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply Mode - Part 2",
+			"tagName": "Supply Mode - Part II",
 			"name": "Venue Search IV",
 			"des": "Complete Supply Mode Stage PF-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176402": 750
+				"176402": 450
 			}
 		},
 		{
 			"id": 14010605,
 			"group": 1401,
 			"tag": 6,
-			"tagName": "Supply Mode - Part 2",
+			"tagName": "Supply Mode - Part II",
 			"name": "Venue Search V",
 			"des": "Complete Supply Mode Stage PF-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176402": 750
+				"176402": 450
 			}
 		},
 		{
@@ -2391,7 +2391,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176402": 1000
+				"176402": 600
 			}
 		},
 		{
@@ -2405,7 +2405,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176402": 1000
+				"176402": 600
 			}
 		},
 		{
@@ -2419,7 +2419,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176402": 1000
+				"176402": 600
 			}
 		},
 		{
@@ -2433,7 +2433,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176402": 1000
+				"176402": 600
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176402": 1000
+				"176402": 600
 			}
 		},
 		{
@@ -2456,7 +2456,7 @@
 			"tag": 8,
 			"tagName": "Artifact Recovery",
 			"name": "Normal Encounter I",
-			"des": "Complete 1 Normal Encounter incident",
+			"des": "Complete 1 Normal Encounter",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 1500,
@@ -2470,7 +2470,7 @@
 			"tag": 8,
 			"tagName": "Artifact Recovery",
 			"name": "Normal Encounter II",
-			"des": "Complete 2 Normal Encounter incidents",
+			"des": "Complete 2 Normal Encounters",
 			"conditionNum": 2,
 			"rewardList": {
 				"25": 1500,
@@ -2484,7 +2484,7 @@
 			"tag": 8,
 			"tagName": "Artifact Recovery",
 			"name": "Normal Encounter III",
-			"des": "Complete 4 Normal Encounter incidents",
+			"des": "Complete 4 Normal Encounters",
 			"conditionNum": 4,
 			"rewardList": {
 				"25": 1500,
@@ -2498,7 +2498,7 @@
 			"tag": 8,
 			"tagName": "Artifact Recovery",
 			"name": "Normal Encounter IV",
-			"des": "Complete 6 Normal Encounter incidents",
+			"des": "Complete 6 Normal Encounters",
 			"conditionNum": 6,
 			"rewardList": {
 				"25": 1500,
@@ -2553,20 +2553,6 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Dangerous Encounter IV",
-			"des": "Complete 4 Dangerous Encounter incidents",
-			"conditionNum": 4,
-			"rewardList": {
-				"25": 1500,
-				"8301": 1500,
-				"176401": 100
-			}
-		},
-		{
-			"id": 14010809,
-			"group": 1401,
-			"tag": 8,
-			"tagName": "Artifact Recovery",
 			"name": "Deep Exploration I",
 			"des": "Complete 1 Grim Challenge",
 			"conditionNum": 1,
@@ -2577,7 +2563,7 @@
 			}
 		},
 		{
-			"id": 14010810,
+			"id": 14010809,
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
@@ -2591,13 +2577,27 @@
 			}
 		},
 		{
-			"id": 14010811,
+			"id": 14010810,
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
 			"name": "Crisis Management",
-			"des": "Complete 3 Encounter Incidents",
-			"conditionNum": 3,
+			"des": "Complete 6 Encounter Incidents",
+			"conditionNum": 6,
+			"rewardList": {
+				"25": 1500,
+				"8301": 1500,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010811,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Support Obtained",
+			"des": "Connect to the Support Terminal 5 times",
+			"conditionNum": 5,
 			"rewardList": {
 				"25": 1500,
 				"8301": 1500,
@@ -2609,9 +2609,9 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Support Obtained",
-			"des": "Connect to the Support Terminal 2 times",
-			"conditionNum": 2,
+			"name": "Dolls Obtained",
+			"des": "Perform 8 Manpower Supplements",
+			"conditionNum": 8,
 			"rewardList": {
 				"25": 1500,
 				"8301": 1500,
@@ -2623,9 +2623,9 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Dolls Obtained",
-			"des": "Perform 5 Manpower Supplements",
-			"conditionNum": 5,
+			"name": "Limited Fortification",
+			"des": "Obtain a total of 200 Strengthening Terminals",
+			"conditionNum": 200,
 			"rewardList": {
 				"25": 1500,
 				"8301": 1500,
@@ -2637,13 +2637,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Recycling Route I",
+			"name": "Recovery Route I",
 			"des": "Complete Retrieval Route I once",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 200
+				"176401": 150
 			}
 		},
 		{
@@ -2651,13 +2651,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Recycling Route II",
+			"name": "Recovery Route II",
 			"des": "Complete Retrieval Route II once",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 200
+				"176401": 150
 			}
 		},
 		{
@@ -2665,13 +2665,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Recycling Route III",
+			"name": "Recovery Route III",
 			"des": "Complete Retrieval Route III once",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176401": 200
+				"176401": 150
 			}
 		},
 		{
@@ -2679,13 +2679,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery I",
-			"des": "Obtain a total of 10 plugins",
-			"conditionNum": 10,
+			"name": "Upgrade Chart I",
+			"des": "Expend a total of 150 pieces of Special Intel",
+			"conditionNum": 150,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2693,13 +2693,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery II",
-			"des": "Obtain a total of 30 plugins",
-			"conditionNum": 30,
+			"name": "Upgrade Chart II",
+			"des": "Expend a total of 300 pieces of Special Intel",
+			"conditionNum": 300,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2707,13 +2707,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery III",
-			"des": "Obtain a total of 50 plugins",
-			"conditionNum": 50,
+			"name": "Plugin Sale I",
+			"des": "Sell a total of 3 blue plugins",
+			"conditionNum": 3,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2721,13 +2721,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery IV",
-			"des": "Obtain a total of 80 plugins",
-			"conditionNum": 80,
+			"name": "Plugin Sale II",
+			"des": "Sell a total of 3 purple plugins",
+			"conditionNum": 3,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2735,13 +2735,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery V",
-			"des": "Obtain a total of 120 plugins",
-			"conditionNum": 120,
+			"name": "Recovery Level I",
+			"des": "Reach Level 3 in Artifact Recovery",
+			"conditionNum": 3,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2749,13 +2749,13 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery Ⅵ",
-			"des": "Obtain a total of 160 plugins",
-			"conditionNum": 160,
+			"name": "Recovery Level II",
+			"des": "Reach Level 5 in Artifact Recovery",
+			"conditionNum": 5,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
 			}
 		},
 		{
@@ -2763,13 +2763,41 @@
 			"group": 1401,
 			"tag": 8,
 			"tagName": "Artifact Recovery",
-			"name": "Plugin Recovery VII",
-			"des": "Obtain a total of 200 plugins",
-			"conditionNum": 200,
+			"name": "Plugins Obtained I",
+			"des": "Obtain a total of 6 plugins of any kind",
+			"conditionNum": 6,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176401": 150
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010824,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugins Obtained II",
+			"des": "Obtain a total of 9 plugins of any kind",
+			"conditionNum": 9,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 100
+			}
+		},
+		{
+			"id": 14010825,
+			"group": 1401,
+			"tag": 8,
+			"tagName": "Artifact Recovery",
+			"name": "Plugins Obtained III",
+			"des": "Obtain a total of 15 plugins of any kind",
+			"conditionNum": 15,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"176401": 100
 			}
 		},
 		{

@@ -383,6 +383,70 @@
 			"reward": {
 				"4132404": 1
 			}
+		},
+		{
+			"id": 49,
+			"rewardGroup": 1016,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 50,
+			"rewardGroup": 1016,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 51,
+			"rewardGroup": 1016,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 52,
+			"rewardGroup": 1016,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4136484": 1
+			}
+		},
+		{
+			"id": 53,
+			"rewardGroup": 1017,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 54,
+			"rewardGroup": 1017,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 55,
+			"rewardGroup": 1017,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 56,
+			"rewardGroup": 1017,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4131494": 1
+			}
 		}
 	]
 }

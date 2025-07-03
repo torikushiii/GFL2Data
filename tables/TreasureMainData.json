@@ -107,6 +107,15 @@
 			"gameIcon": "",
 			"gameSpec": "",
 			"closeType": 0
+		},
+		{
+			"id": 610002,
+			"bingoId": 10012,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
 		}
 	]
 }

@@ -146,7 +146,7 @@
 		},
 		{
 			"id": 112,
-			"orderName": "Side Switch Mechanism",
+			"orderName": "Side-Changing Mechanism",
 			"orderDetail": "Interacting will change the turret's allegiance.",
 			"effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
 			"skillId": 1042,

@@ -125,6 +125,12 @@
 			"type": 2,
 			"name": "outround_behit_dam",
 			"value": 0.0006
+		},
+		{
+			"id": 22,
+			"type": 4,
+			"name": "remoulding_pattern",
+			"value": 1.0
 		}
 	]
 }

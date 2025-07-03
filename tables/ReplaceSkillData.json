@@ -1198,6 +1198,27 @@
 			],
 			"beforeSkillGroupId3": [],
 			"nowSkillGroupId3": []
+		},
+		{
+			"id": 105604,
+			"beforeSkillGroupId1": [
+				10560401
+			],
+			"nowSkillGroupId1": [
+				10560411
+			],
+			"beforeSkillGroupId2": [
+				10560402
+			],
+			"nowSkillGroupId2": [
+				10560412
+			],
+			"beforeSkillGroupId3": [
+				10560403
+			],
+			"nowSkillGroupId3": [
+				10560413
+			]
 		}
 	]
 }

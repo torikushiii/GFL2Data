@@ -31,13 +31,12 @@
 				9012,
 				11012
 			],
-			"modNum": 102,
+			"modNum": 103,
 			"modTypeGroup": [
 				2
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -77,7 +76,6 @@
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -117,7 +115,6 @@
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -157,7 +154,6 @@
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -197,7 +193,6 @@
 			"bullettype": 0,
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -237,7 +232,6 @@
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -277,7 +271,6 @@
 			],
 			"brand": "",
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -312,7 +305,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 403,
 			"modTypeGroup": [
 				2
@@ -352,7 +344,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 403,
 			"modTypeGroup": [
 				2
@@ -392,7 +383,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 403,
 			"modTypeGroup": [
 				2
@@ -437,7 +427,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -477,7 +466,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -517,7 +505,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -557,7 +544,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -597,7 +583,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -637,7 +622,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -677,7 +661,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -717,7 +700,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -757,7 +739,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -792,7 +773,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 301,
 			"modTypeGroup": [
 				4
@@ -832,7 +812,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 301,
 			"modTypeGroup": [
 				4
@@ -872,7 +851,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 301,
 			"modTypeGroup": [
 				4
@@ -917,7 +895,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -957,7 +934,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -997,7 +973,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1037,7 +1012,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1077,7 +1051,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1117,7 +1090,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1157,7 +1129,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1197,7 +1168,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1237,7 +1207,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1277,7 +1246,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1317,7 +1285,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1357,8 +1324,7 @@
 				2
 			],
 			"isHide": true,
-			"elemenSkill": 0,
-			"characterId": 0
+			"elemenSkill": 0
 		},
 		{
 			"id": 10403,
@@ -1397,8 +1363,7 @@
 				2
 			],
 			"isHide": true,
-			"elemenSkill": 0,
-			"characterId": 0
+			"elemenSkill": 0
 		},
 		{
 			"id": 10411,
@@ -1437,7 +1402,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1477,7 +1441,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1511,7 +1474,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 306,
 			"modTypeGroup": [
 				4
@@ -1551,7 +1513,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 306,
 			"modTypeGroup": [
 				4
@@ -1591,7 +1552,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 306,
 			"modTypeGroup": [
 				4
@@ -1602,7 +1562,7 @@
 		},
 		{
 			"id": 10431,
-			"name": "Retired Skoda 75",
+			"name": "Retired CZ75",
 			"description": "A cheap weapon purchased from an underground broker. There are some problems with the firing mechanism, but one must make do with what they have.",
 			"type": 1,
 			"modelstype": 1,
@@ -1631,7 +1591,6 @@
 				9012,
 				11012
 			],
-			"characterId": 1,
 			"modNum": 101,
 			"modTypeGroup": [
 				2
@@ -1642,7 +1601,7 @@
 		},
 		{
 			"id": 10432,
-			"name": "Skoda 75",
+			"name": "CZ75",
 			"description": "A firearm highly compatible with Faye. Modified based on her combat preferences, it is durable, light, and easy to handle.",
 			"type": 1,
 			"modelstype": 1,
@@ -1671,7 +1630,6 @@
 				9012,
 				11012
 			],
-			"characterId": 1,
 			"modNum": 101,
 			"modTypeGroup": [
 				2
@@ -1683,7 +1641,7 @@
 		{
 			"id": 10433,
 			"name": "Hestia",
-			"description": "A high-performance handgun assigned to Faye. Based on the Skoda 75, it is convenient to carry, reliable, precise, and accurate. In Faye's hands, Hestia becomes as fearsome as a true Goddess of Flame.",
+			"description": "A high-performance handgun assigned to Faye. Based on the CZ75, it is convenient to carry, reliable, precise, and accurate. In Faye's hands, Hestia becomes as fearsome as a true Goddess of Flame.",
 			"type": 1,
 			"modelstype": 1,
 			"bullettype": 5,
@@ -1711,7 +1669,6 @@
 				9012,
 				11012
 			],
-			"characterId": 1,
 			"modNum": 101,
 			"modTypeGroup": [
 				2
@@ -1757,7 +1714,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1797,7 +1753,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1837,7 +1792,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -1871,7 +1825,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 308,
 			"modTypeGroup": [
 				4
@@ -1911,7 +1864,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 308,
 			"modTypeGroup": [
 				4
@@ -1951,7 +1903,6 @@
 				12011,
 				3011
 			],
-			"characterId": 1,
 			"modNum": 308,
 			"modTypeGroup": [
 				4
@@ -1962,7 +1913,7 @@
 		},
 		{
 			"id": 10471,
-			"name": "Retired Springfield",
+			"name": "Retired M1903",
 			"description": "A cheap weapon purchased from an underground broker. It’s not very stable or reliable, but can still be used, more or less.",
 			"type": 3,
 			"modelstype": 1,
@@ -1991,7 +1942,6 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
 			"modNum": 201,
 			"modTypeGroup": [
 				8
@@ -2002,7 +1952,7 @@
 		},
 		{
 			"id": 10472,
-			"name": "Springfield",
+			"name": "M1903",
 			"description": "A firearm highly compatible with Springfield. Modified based on her combat preferences, it provides increased bullet velocity, hence improving firepower.",
 			"type": 3,
 			"modelstype": 1,
@@ -2031,7 +1981,6 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
 			"modNum": 201,
 			"modTypeGroup": [
 				8
@@ -2043,7 +1992,7 @@
 		{
 			"id": 10473,
 			"name": "Radiance",
-			"description": "A high-performance rifle assigned to Springfield. Based on the Springfield, it has been further improved in terms of carrying convenience and firing speed. Pierce through all adversity, to carve out a brighter future for those you deem important.",
+			"description": "A high-performance rifle assigned to Springfield. Based on the M1903, it has been further improved in terms of carrying convenience and firing speed. Pierce through all adversity, to carve out a brighter future for those you deem important.",
 			"type": 3,
 			"modelstype": 1,
 			"bullettype": 2,
@@ -2071,7 +2020,6 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
 			"modNum": 201,
 			"modTypeGroup": [
 				8
@@ -2111,7 +2059,6 @@
 				9011,
 				11011
 			],
-			"characterId": 1,
 			"modNum": 601,
 			"modTypeGroup": [
 				32
@@ -2151,7 +2098,6 @@
 				9011,
 				11011
 			],
-			"characterId": 1,
 			"modNum": 601,
 			"modTypeGroup": [
 				32
@@ -2191,7 +2137,6 @@
 				9011,
 				11011
 			],
-			"characterId": 1,
 			"modNum": 601,
 			"modTypeGroup": [
 				32
@@ -2237,7 +2182,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2277,7 +2221,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2317,7 +2260,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2357,7 +2299,6 @@
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2397,7 +2338,6 @@
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2437,7 +2377,6 @@
 			"bullettype": 0,
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2477,7 +2416,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2517,7 +2455,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2557,12 +2494,11 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
 			"id": 10531,
-			"name": "",
+			"name": "Retired MP5H1",
 			"description": "A cheap weapon purchased from an underground broker. It's missing a few parts, but it's still (barely) usable.",
 			"type": 2,
 			"modelstype": 1,
@@ -2591,7 +2527,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 402,
 			"modTypeGroup": [
 				2
@@ -2602,7 +2537,7 @@
 		},
 		{
 			"id": 10532,
-			"name": "",
+			"name": "MP5H1",
 			"description": "A firearm highly compatible with Peri. Modified based on her combat preferences. It's equipped with some parts scavenged from unknown origins, which has slightly improved its rate of fire.",
 			"type": 2,
 			"modelstype": 1,
@@ -2631,7 +2566,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 402,
 			"modTypeGroup": [
 				2
@@ -2642,8 +2576,8 @@
 		},
 		{
 			"id": 10533,
-			"name": "",
-			"description": "A high-performance SMG assigned to Peri. Based on the Maschinenpistole 5. Its internals have been modified to greatly increase its stopping power. It deceives foes with its attractive appearance and crushes them with absolute power.",
+			"name": "Amanita",
+			"description": "A high-performance SMG assigned to Peri. Based on the MP5H1. Its internals have been modified to greatly increase its stopping power. It deceives foes with its attractive appearance and crushes them with absolute power.",
 			"type": 2,
 			"modelstype": 1,
 			"bullettype": 3,
@@ -2671,7 +2605,6 @@
 				12012,
 				3012
 			],
-			"characterId": 1,
 			"modNum": 402,
 			"modTypeGroup": [
 				2
@@ -2717,7 +2650,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2757,7 +2689,6 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2797,12 +2728,11 @@
 			],
 			"element": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
 			"id": 10551,
-			"name": "Retired Veska 94",
+			"name": "Retired VSK-94",
 			"description": "A cheap weapon purchased from an underground broker. Its iron sights are worn down but it's still usable.",
 			"type": 3,
 			"modelstype": 1,
@@ -2831,8 +2761,7 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
-			"modNum": 201,
+			"modNum": 204,
 			"modTypeGroup": [
 				8
 			],
@@ -2842,7 +2771,7 @@
 		},
 		{
 			"id": 10552,
-			"name": "Veska 94",
+			"name": "VSK-94",
 			"description": "A firearm highly compatible with Nikketa. Modified based on her combat preferences. Its weight has been reduced, making it lighter and easier to handle on missions.",
 			"type": 3,
 			"modelstype": 1,
@@ -2871,8 +2800,7 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
-			"modNum": 201,
+			"modNum": 204,
 			"modTypeGroup": [
 				8
 			],
@@ -2883,7 +2811,7 @@
 		{
 			"id": 10553,
 			"name": "Guardian Silverwing",
-			"description": "A high-performance rifle assigned to Nikketa. Based on the Veska-94. Its shooting precision has been upgraded, turning it into the ultimate tool for protecting justice. It nips all evil in the bud, so the children can sleep soundly and have sweet dreams.",
+			"description": "A high-performance rifle assigned to Nikketa. Based on the VSK-94. Its shooting precision has been upgraded, turning it into the ultimate tool for protecting justice. It nips all evil in the bud, so the children can sleep soundly and have sweet dreams.",
 			"type": 3,
 			"modelstype": 1,
 			"bullettype": 3,
@@ -2911,10 +2839,243 @@
 				13012,
 				3014
 			],
-			"characterId": 1,
-			"modNum": 201,
+			"modNum": 204,
 			"modTypeGroup": [
 				8
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10561,
+			"name": "Retired UMP45",
+			"description": "A cheap weapon purchased from an underground broker. It is severely worn and almost unusable, but it'll serve in a pinch if you're low on resources.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP45_3",
+			"resPath": "Player/LevaR01/LevaR01_WL",
+			"brand": "UMP45",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41131
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10562,
+			"name": "UMP45",
+			"description": "A firearm highly compatible with Leva. Modified based on her combat preferences, it features improved firepower and improves her survivability on the battlefield.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP45_4",
+			"resPath": "Player/LevaSR01/LevaSR01_WL",
+			"brand": "UMP45",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41132
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10563,
+			"name": "Schlitzohr",
+			"description": "A high-performance submachine gun assigned to Leva. Based on the UMP45, its overall performance has been improved through enhanced cyclic rate and accuracy. Leva will never allow anyone to harm the people who are important to her under her watch.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP45_5",
+			"resPath": "Player/LevaSSR01/LevaSSR01_WL",
+			"brand": "UMP45",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41133
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10571,
+			"name": "Retired RO635 SMG",
+			"description": "A cheap weapon purchased from an underground broker. It looks like crap and handles worse, but it's just barely serviceable for daily use.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_RO635_3",
+			"resPath": "Player/RobellaR01/RobellaR01_WL",
+			"brand": "RO635",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41134
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10572,
+			"name": "RO635 SMG",
+			"description": "A firearm highly compatible with Robella. Modified based on her combat preferences. Its improved rate of fire gives it an advantage in close quarters and during assaults.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_RO635_4",
+			"resPath": "Player/RobellaSR01/RobellaSR01_WL",
+			"brand": "RO635",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41135
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10573,
+			"name": "Wanderer's Magnum",
+			"description": "A high-performance submachine gun assigned to Robella, Based on the RO635 SMG, it has been comprehensively upgraded, featuring superior firepower and rate of fire. The road of self-discovery is difficult, but with this, her courage will only grow with the adversity she faces.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_RO635_5",
+			"resPath": "Player/RobellaSSR01/RobellaSSR01_WL",
+			"brand": "RO635",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41136
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
 			],
 			"element": 0,
 			"elemenSkill": 0,
@@ -2957,7 +3118,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -2997,7 +3157,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3037,7 +3196,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3077,7 +3235,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3117,7 +3274,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3157,7 +3313,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3197,7 +3352,6 @@
 			"modTypeGroup": [
 				32
 			],
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3237,7 +3391,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3277,7 +3430,6 @@
 			"modTypeGroup": [
 				8
 			],
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3317,7 +3469,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3357,7 +3508,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3397,7 +3547,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3437,7 +3586,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3477,7 +3625,6 @@
 				8
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3517,7 +3664,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3557,7 +3703,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3597,7 +3742,6 @@
 			"modTypeGroup": [
 				4
 			],
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3637,7 +3781,6 @@
 			"modTypeGroup": [
 				4
 			],
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3677,7 +3820,6 @@
 			"modTypeGroup": [
 				4
 			],
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3717,7 +3859,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3757,7 +3898,6 @@
 				2
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3797,7 +3937,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3837,7 +3976,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3877,7 +4015,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3917,7 +4054,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3957,7 +4093,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -3997,7 +4132,6 @@
 				32
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4037,7 +4171,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4077,7 +4210,6 @@
 			],
 			"bullettype": 0,
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4117,7 +4249,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4157,7 +4288,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4197,7 +4327,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4237,7 +4366,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4277,7 +4405,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		},
 		{
@@ -4317,7 +4444,6 @@
 				4
 			],
 			"elemenSkill": 0,
-			"characterId": 0,
 			"isHide": false
 		}
 	]

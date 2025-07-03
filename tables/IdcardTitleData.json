@@ -532,6 +532,24 @@
 			"achievement": 0
 		},
 		{
+			"id": 23077,
+			"icon": "Img_Title_GunGet_Leva",
+			"name": "Leva - Joined",
+			"title": "Leva - Joined",
+			"qualify": "Unlocked after obtaining Leva",
+			"sort": 2040,
+			"achievement": 0
+		},
+		{
+			"id": 23078,
+			"icon": "Img_Title_GunGet_Robella",
+			"name": "Robella - Joined",
+			"title": "Robella - Joined",
+			"qualify": "Unlocked after obtaining Robella",
+			"sort": 2041,
+			"achievement": 0
+		},
+		{
 			"id": 23092,
 			"icon": "Img_Title_HighPVP_Season7",
 			"name": "Crisis Infiltration",
@@ -694,12 +712,48 @@
 			"achievement": 0
 		},
 		{
+			"id": 23110,
+			"icon": "Img_Title_Love_Lenna",
+			"name": "Lioness Tamer",
+			"title": "Lioness Tamer",
+			"qualify": "This little lioness bares her fangs at everyone, but she'll roll over and bare her tummy, just for you.\nProof of affinity with a Doll, unlocked after reaching affinity level 8",
+			"sort": 3026,
+			"achievement": 0
+		},
+		{
 			"id": 23111,
 			"icon": "Img_Title_Love_Nikketa",
 			"name": "Light That Banishes Darkness",
 			"title": "Light That Banishes Darkness",
 			"qualify": "She scatters the darkness before you, all to see you smile.\nProof of affinity with a Doll, unlocked at Affinity Level 8.",
 			"sort": 3024,
+			"achievement": 0
+		},
+		{
+			"id": 23112,
+			"icon": "Img_Title_Love_Jiangyu",
+			"name": "Unfettered Auteur",
+			"title": "Unfettered Auteur",
+			"qualify": "Associating with the appropriate people will fill you with a sense of liberation. \nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3027,
+			"achievement": 0
+		},
+		{
+			"id": 23113,
+			"icon": "Img_Title_Love_Leva",
+			"name": "Chessboard Dancer",
+			"title": "Chessboard Dancer",
+			"qualify": "This intricate series of advancing and retreating steps finally leads to a miraculous equilibrium.\nProof of affinity with a Doll, unlocked after reaching affinity level 8",
+			"sort": 3028,
+			"achievement": 0
+		},
+		{
+			"id": 23115,
+			"icon": "Img_Title_Love_Robella",
+			"name": "Exclusive Tokusatsu Director",
+			"title": "Exclusive Tokusatsu Director",
+			"qualify": "If you're producing a toku series, then, then I'd like to be... the protagonist...\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3030,
 			"achievement": 0
 		},
 		{
@@ -754,6 +808,24 @@
 			"title": "Balefire Shift",
 			"qualify": "Unlocked by ranking in the top 80% in Military Simulation Season: Balefire Shift",
 			"sort": 1019,
+			"achievement": 0
+		},
+		{
+			"id": 23147,
+			"icon": "Img_Title_HighPVP_Season14",
+			"name": "Mercenary Contract",
+			"title": "Mercenary Contract",
+			"qualify": "Unlocked by ranking in the top 80% in Military Simulation Season: Mercenary Contract",
+			"sort": 1020,
+			"achievement": 0
+		},
+		{
+			"id": 23148,
+			"icon": "Img_Title_HighPVP_Season15",
+			"name": "Dawn Trek",
+			"title": "Dawn Trek",
+			"qualify": "Unlocked after ranking in the top 80% in Military Simulation Season: Dawn Trek",
+			"sort": 1021,
 			"achievement": 0
 		},
 		{

@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"id": 1001,
+			"type": 1,
+			"run": 50031,
+			"climb": 50030,
+			"cross": 50033,
+			"kill": 50021,
+			"reloadBullet": 50019,
+			"injured": 50005,
+			"death": 50029
+		},
+		{
 			"id": 1002,
 			"type": 1,
 			"run": 50031,

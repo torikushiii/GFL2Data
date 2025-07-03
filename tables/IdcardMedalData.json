@@ -467,6 +467,24 @@
 			"qualifySimplify": "Unlocked by ranking in the top 80% in Military Simulation Season: Balefire Shift",
 			"sort": 224,
 			"achievement": 0
+		},
+		{
+			"id": 22070,
+			"icon": "Item_Icon_Medal_HighPVP_Season14",
+			"name": "Badge - Mercenary Contract",
+			"qualify": "Unlocked by ranking in the top 80% in Military Simulation Season: Mercenary Contract",
+			"qualifySimplify": "Unlocked by ranking in the top 80% in Military Simulation Season: Mercenary Contract",
+			"sort": 225,
+			"achievement": 0
+		},
+		{
+			"id": 22071,
+			"icon": "Item_Icon_Medal_HighPVP_Season15",
+			"name": "Badge - Dawn Trek",
+			"qualify": "Unlocked after ranking in the top 80% in Military Simulation Season: Dawn Trek",
+			"qualifySimplify": "Unlocked after ranking in the top 80% in Military Simulation Season: Dawn Trek",
+			"sort": 226,
+			"achievement": 0
 		}
 	]
 }

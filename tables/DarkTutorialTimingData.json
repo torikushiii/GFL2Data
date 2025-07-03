@@ -953,6 +953,60 @@
 			"typeParam3": "(54,0,34.2)",
 			"triggerUi": 85,
 			"typeParam4": ""
+		},
+		{
+			"id": 9327,
+			"type": 4,
+			"typeParam1": "5011",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
+		},
+		{
+			"id": 9328,
+			"type": 4,
+			"typeParam1": "5021",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
+		},
+		{
+			"id": 9329,
+			"type": 4,
+			"typeParam1": "5031",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
+		},
+		{
+			"id": 9330,
+			"type": 4,
+			"typeParam1": "5041",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
+		},
+		{
+			"id": 9331,
+			"type": 4,
+			"typeParam1": "5051",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
+		},
+		{
+			"id": 9332,
+			"type": 4,
+			"typeParam1": "5061",
+			"triggerUi": 85,
+			"typeParam2": "",
+			"typeParam3": "",
+			"typeParam4": ""
 		}
 	]
 }

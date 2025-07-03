@@ -29,6 +29,12 @@
 			"inDzBuffId": 20013,
 			"timeScale": 10,
 			"takeOutRule": 10
+		},
+		{
+			"slgtodzBuffId": 99994,
+			"inDzBuffId": 70001,
+			"timeScale": 10,
+			"takeOutRule": 10
 		}
 	]
 }

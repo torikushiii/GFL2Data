@@ -20,6 +20,13 @@
 			"name": "Remastered Records",
 			"des": "Remastered Records",
 			"unlock": 20000
+		},
+		{
+			"id": 4,
+			"sort": 4,
+			"name": "CG Playlist",
+			"des": "CG Playlist",
+			"unlock": 20008
 		}
 	]
 }

@@ -36,6 +36,11 @@
 			"track": "Wa2000"
 		},
 		{
+			"typeId": 204,
+			"selector": "Gun_RF",
+			"track": "VSK-94"
+		},
+		{
 			"typeId": 301,
 			"selector": "Gun_AR",
 			"track": "Groza"

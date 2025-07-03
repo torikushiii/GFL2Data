@@ -350,6 +350,60 @@
 				"23146": 1
 			},
 			"rewardType": 2
+		},
+		{
+			"id": 27,
+			"rewardGroup": 1016,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22070": 1,
+				"23147": 1,
+				"24133": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 28,
+			"rewardGroup": 1016,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22070": 1,
+				"23147": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 29,
+			"rewardGroup": 1017,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22071": 1,
+				"23148": 1,
+				"24134": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 30,
+			"rewardGroup": 1017,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22071": 1,
+				"23148": 1
+			},
+			"rewardType": 2
 		}
 	]
 }

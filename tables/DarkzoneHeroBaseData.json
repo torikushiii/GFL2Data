@@ -443,6 +443,30 @@
 			"suppressDamage": 950,
 			"aimCameraRange": 1500,
 			"aimCameraLength": 1
+		},
+		{
+			"id": 1056,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100500
+			],
+			"darkzoneCriticalEffect": 10560101,
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
+		},
+		{
+			"id": 1057,
+			"dzBattleSkill": 900101,
+			"darkzoneCriticalRange": [
+				100500
+			],
+			"darkzoneCriticalEffect": 10570101,
+			"darkzonePotential": 550,
+			"suppressDamage": 550,
+			"aimCameraRange": 1500,
+			"aimCameraLength": 1
 		}
 	]
 }

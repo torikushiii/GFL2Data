@@ -1083,10 +1083,10 @@
 		},
 		{
 			"id": 113,
+			"interfaceName": "UIAnniversaryMainPanel",
 			"audioName": [
 				30097
 			],
-			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1183,10 +1183,10 @@
 		},
 		{
 			"id": 124,
+			"interfaceName": "UISummerActivityMainPanel",
 			"audioName": [
 				30105
 			],
-			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1253,10 +1253,10 @@
 		},
 		{
 			"id": 131,
+			"interfaceName": "UIAnniversary1stMainPanel",
 			"audioName": [
 				30115
 			],
-			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1424,12 +1424,12 @@
 		{
 			"id": 148,
 			"audioName": [
-				30107
+				40033
 			],
-			"interfaceName": "",
-			"priority": 0,
-			"selector": "",
-			"track": ""
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
 		},
 		{
 			"id": 149,
@@ -1443,10 +1443,70 @@
 		},
 		{
 			"id": 150,
+			"interfaceName": "UIActivityThemeBMainPanel",
 			"audioName": [
 				30121
 			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 151,
+			"audioName": [
+				30129
+			],
 			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 152,
+			"interfaceName": "UIMotorcycleGameMainPanel",
+			"audioName": [
+				30128
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 153,
+			"audioName": [
+				30125
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 154,
+			"audioName": [
+				30126
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 155,
+			"audioName": [
+				30127
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 156,
+			"interfaceName": "UIWinterActivityMainPanel",
+			"audioName": [
+				30131
+			],
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1505,16 +1565,6 @@
 			"id": 1006,
 			"audioName": [
 				30114
-			],
-			"interfaceName": "",
-			"priority": 0,
-			"selector": "",
-			"track": ""
-		},
-		{
-			"id": 1007,
-			"audioName": [
-				30107
 			],
 			"interfaceName": "",
 			"priority": 0,

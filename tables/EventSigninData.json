@@ -13,6 +13,12 @@
 			"activityType": 0
 		},
 		{
+			"id": 60013,
+			"image": "Img_MultiSignInItem_Bg_2",
+			"edType": 0,
+			"activityType": 0
+		},
+		{
 			"id": 60017,
 			"edType": 1,
 			"image": "Img_Activity_SignIn_Bg_2",
@@ -105,19 +111,37 @@
 		{
 			"id": 61108,
 			"edType": 1,
-			"image": "Img_MultiSignInItem_Bg_5",
+			"image": "Img_MultiSignInItem_Bg_7",
 			"activityType": 0
 		},
 		{
 			"id": 61209,
 			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_7",
+			"activityType": 0
+		},
+		{
+			"id": 61303,
+			"edType": 1,
 			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 61304,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 61401,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_6",
 			"activityType": 0
 		},
 		{
 			"id": 62001,
 			"edType": 1,
-			"image": "Img_MultiSignInItem_Bg_6",
+			"image": "Img_Activity_SignIn_Bg_8",
 			"activityType": 0
 		},
 		{
@@ -129,7 +153,7 @@
 		{
 			"id": 62007,
 			"edType": 1,
-			"image": "Img_MultiSignInItem_Bg_5",
+			"image": "Img_MultiSignInItem_Bg_7",
 			"activityType": 0
 		},
 		{
@@ -149,6 +173,12 @@
 			"edType": 1,
 			"image": "Img_Activity_SignIn_Bg_1",
 			"activityType": 1
+		},
+		{
+			"id": 610001,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_7",
+			"activityType": 0
 		}
 	]
 }

@@ -278,13 +278,13 @@
 		},
 		{
 			"id": 47,
-			"name": "",
+			"name": "Activate all nodes in Peri's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
 		{
 			"id": 48,
-			"name": "",
+			"name": "Activate all nodes in Qiuhua's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
@@ -297,6 +297,18 @@
 		{
 			"id": 50,
 			"name": "Activate all nodes in Nikketa's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 51,
+			"name": "Activate all nodes in Leva's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 52,
+			"name": "Activate all nodes in Robella's Neural Helix",
 			"des": "Must unlock all previous nodes",
 			"conditionNum": 1
 		},
@@ -433,6 +445,12 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 28011,
+			"name": "Dark Zone Race Tower",
+			"des": "Complete a total of <color=#f26c1c>1</color> exploration in Breakthrough.",
+			"conditionNum": 1
+		},
+		{
 			"id": 29002,
 			"name": "Proficiency Boost",
 			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage 2-1</color>",
@@ -550,7 +568,13 @@
 			"id": 39002,
 			"name": "[Dungeon Exploration Game Mode]",
 			"des": "Reach Commander Level 20",
-			"conditionNum": 20
+			"conditionNum": 99
+		},
+		{
+			"id": 39003,
+			"name": "Pattern Remolder",
+			"des": "Commander level reaches 55",
+			"conditionNum": 55
 		},
 		{
 			"id": 40001,
@@ -1034,14 +1058,14 @@
 		},
 		{
 			"id": 60081,
-			"name": "Springfield",
+			"name": "M1903",
 			"des": "Acquire <COLOR=#F26C1C>M1903</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60082,
-			"name": "Skoda 75",
-			"des": "Acquire <COLOR=#F26C1C>CZ-75</COLOR> to unlock",
+			"name": "CZ75",
+			"des": "Acquire <COLOR=#F26C1C>CZ75</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1124,20 +1148,32 @@
 		},
 		{
 			"id": 60096,
-			"name": "Retired Springfield",
+			"name": "Retired M1903",
 			"des": "Acquire <COLOR=#F26C1C>Retired M1903</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60097,
-			"name": "Retired Skoda 75",
-			"des": "Acquire <COLOR=#F26C1C>Retired CZ-75</COLOR> to unlock",
+			"name": "Retired CZ75",
+			"des": "Acquire <COLOR=#F26C1C>Retired CZ75</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60098,
 			"name": "Svarog",
 			"des": "Acquire <COLOR=#F26C1C>Svarog</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60111,
+			"name": "Wanderer's Magnum",
+			"des": "Acquire <color=#F26C1C>Wanderer's Magnum</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60112,
+			"name": "Schlitzohr",
+			"des": "Acquire <COLOR=#F26C1C>Schlitzohr</COLOR> to unlock.",
 			"conditionNum": 1
 		},
 		{
@@ -1154,14 +1190,14 @@
 		},
 		{
 			"id": 60115,
-			"name": "",
-			"des": "",
+			"name": "Amanita",
+			"des": "Acquire <COLOR=#F26C1C>Amanita</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
 			"id": 60131,
-			"name": "Veska 94",
-			"des": "Acquire <COLOR=#F26C1C>Veska 94</COLOR> to unlock",
+			"name": "VSK-94",
+			"des": "Acquire <COLOR=#F26C1C>VSK-94</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1172,14 +1208,26 @@
 		},
 		{
 			"id": 60133,
-			"name": "",
-			"des": "",
+			"name": "MP5H1",
+			"des": "Acquire <color=#F26C1C>Retired MP5H1</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60147,
+			"name": "Retired RO635 SMG",
+			"des": "Acquire <color=#F26C1C>Retired RO635 SMG</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60148,
+			"name": "Retired UMP45",
+			"des": "Acquire <COLOR=#F26C1C>Retired UMP45</COLOR> to unlock.",
 			"conditionNum": 1
 		},
 		{
 			"id": 60149,
-			"name": "Retired Veska 94",
-			"des": "Acquire <COLOR=#F26C1C>Retired Veska 94</COLOR> to unlock",
+			"name": "Retired VSK-94",
+			"des": "Acquire <COLOR=#F26C1C>Retired VSK-94</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{
@@ -1190,8 +1238,8 @@
 		},
 		{
 			"id": 60151,
-			"name": "",
-			"des": "",
+			"name": "Retired MP5H1",
+			"des": "Acquire <color=#F26C1C>Retired MP5H1</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{

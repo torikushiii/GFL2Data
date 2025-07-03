@@ -1,13 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1001,
-			"activityType": 1,
-			"activityId": 60034,
-			"name": "Frontline Survivors",
-			"activityDesc": "Welcome to Frontline Survivors!\nIn this mode, the deployed Doll will shoot automatically. You only need to control her movement.\nBy eliminating enemy units, you gain Survivor Points and Experience, which allows you to level up after accumulating enough. Upon leveling up, you can choose a battlefield buff out of a random selection."
-		},
-		{
 			"id": 1002,
 			"activityType": 1,
 			"activityId": 60094,

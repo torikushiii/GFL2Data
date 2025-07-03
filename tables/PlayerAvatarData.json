@@ -217,8 +217,8 @@
 			"bustFemale": "Avatar_Bust_LennaSSR",
 			"itemId": 21030,
 			"unlockDes": "Unlocked after obtaining Lenna",
-			"sort": 1018,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1018
 		},
 		{
 			"id": 21031,
@@ -228,8 +228,8 @@
 			"bustFemale": "Avatar_Bust_JiangyuSSR",
 			"itemId": 21031,
 			"unlockDes": "Unlocked after obtaining Jiangyu",
-			"sort": 1019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1019
 		},
 		{
 			"id": 21032,
@@ -250,8 +250,8 @@
 			"bustFemale": "Avatar_Bust_ActivityLenna",
 			"itemId": 21033,
 			"unlockDes": "Unlock by completing the Intertwined Assault event campaign on normal mode",
-			"sort": 5003,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5003
 		},
 		{
 			"id": 21034,
@@ -261,8 +261,8 @@
 			"bustFemale": "Avatar_Head_ActivityJiangyu1",
 			"itemId": 21034,
 			"unlockDes": "Unlock by completing the Vestigial Display event campaign on normal mode",
-			"sort": 5004,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5004
 		},
 		{
 			"id": 21035,
@@ -272,8 +272,8 @@
 			"bustFemale": "Avatar_Head_ActivityJiangyu2",
 			"itemId": 21035,
 			"unlockDes": "Unlock by obtaining the final reward in Vestigial Display Commission",
-			"sort": 5005,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5005
 		},
 		{
 			"id": 21036,
@@ -437,8 +437,8 @@
 			"bustFemale": "Avatar_Head_LennaSSR05",
 			"itemId": 21051,
 			"unlockDes": "Unlock by acquiring Lenna's Combat Suit - Vitality Magic",
-			"sort": 4013,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4013
 		},
 		{
 			"id": 21052,
@@ -569,8 +569,8 @@
 			"bustFemale": "Avatar_Bust_AndorisSSR",
 			"itemId": 21063,
 			"unlockDes": "Unlocked after obtaining Andoris",
-			"sort": 1026,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1026
 		},
 		{
 			"id": 21064,
@@ -580,8 +580,8 @@
 			"bustFemale": "Avatar_Bust_FayeSSR",
 			"itemId": 21064,
 			"unlockDes": "Unlocked after obtaining Faye",
-			"sort": 1027,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1027
 		},
 		{
 			"id": 21065,
@@ -602,8 +602,8 @@
 			"bustFemale": "Avatar_Bust_BiyocaSSR",
 			"itemId": 21066,
 			"unlockDes": "Unlocked after obtaining Belka",
-			"sort": 1029,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1029
 		},
 		{
 			"id": 21068,
@@ -613,8 +613,8 @@
 			"bustFemale": "Avatar_Bust_SpringfieldSSR",
 			"itemId": 21068,
 			"unlockDes": "Unlocked after obtaining Springfield",
-			"sort": 1031,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1031
 		},
 		{
 			"id": 21069,
@@ -624,8 +624,8 @@
 			"bustFemale": "Avatar_Head_QiuhuaSSR",
 			"itemId": 21069,
 			"unlockDes": "Unlocked after obtaining Qiuhua",
-			"sort": 1032,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1032
 		},
 		{
 			"id": 21071,
@@ -789,8 +789,8 @@
 			"bustFemale": "Avatar_Bust_PeriSSR",
 			"itemId": 21087,
 			"unlockDes": "Unlocked after obtaining Peri",
-			"sort": 1037,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1037
 		},
 		{
 			"id": 21088,
@@ -811,8 +811,30 @@
 			"bustFemale": "Avatar_Bust_NikketaSSR",
 			"itemId": 21089,
 			"unlockDes": "Unlocked after obtaining Nikketa",
-			"sort": 1040,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1040
+		},
+		{
+			"id": 21090,
+			"icon": "Avatar_Head_LevaSSR",
+			"iconFemale": "Avatar_Head_LevaSSR",
+			"bust": "Avatar_Bust_LevaSSR",
+			"bustFemale": "Avatar_Bust_LevaSSR",
+			"itemId": 21090,
+			"unlockDes": "Unlocked after obtaining Leva.",
+			"displayConfig": 1,
+			"sort": 1041
+		},
+		{
+			"id": 21091,
+			"icon": "Avatar_Head_RobellaSSR",
+			"iconFemale": "Avatar_Head_RobellaSSR",
+			"bust": "Avatar_Bust_RobellaSSR",
+			"bustFemale": "Avatar_Bust_RobellaSSR",
+			"itemId": 21091,
+			"unlockDes": "Unlocked after obtaining Robella",
+			"displayConfig": 1,
+			"sort": 1042
 		},
 		{
 			"id": 21105,
@@ -921,8 +943,8 @@
 			"bustFemale": "Avatar_Head_BiyocaLove",
 			"itemId": 21114,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2011,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2011
 		},
 		{
 			"id": 21115,
@@ -943,8 +965,8 @@
 			"bustFemale": "Avatar_Head_AndorisLove",
 			"itemId": 21116,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2013,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2013
 		},
 		{
 			"id": 21117,
@@ -965,8 +987,8 @@
 			"bustFemale": "Avatar_Head_SpringfieldLove",
 			"itemId": 21118,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2015,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2015
 		},
 		{
 			"id": 21119,
@@ -987,8 +1009,8 @@
 			"bustFemale": "Avatar_Head_PeriLove",
 			"itemId": 21120,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2017,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2017
 		},
 		{
 			"id": 21121,
@@ -1009,8 +1031,8 @@
 			"bustFemale": "Avatar_Head_QiuhuaLove",
 			"itemId": 21122,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2019
 		},
 		{
 			"id": 21123,
@@ -1035,6 +1057,17 @@
 			"sort": 2021
 		},
 		{
+			"id": 21125,
+			"icon": "Avatar_Head_LennaLove",
+			"iconFemale": "Avatar_Head_LennaLove",
+			"bust": "Avatar_Head_LennaLove",
+			"bustFemale": "Avatar_Head_LennaLove",
+			"itemId": 21125,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2054
+		},
+		{
 			"id": 21126,
 			"icon": "Avatar_Head_NikketaLove",
 			"iconFemale": "Avatar_Head_NikketaLove",
@@ -1042,8 +1075,41 @@
 			"bustFemale": "Avatar_Head_NikketaLove",
 			"itemId": 21126,
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
-			"sort": 2022,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2022
+		},
+		{
+			"id": 21127,
+			"icon": "Avatar_Head_JiangyuLove",
+			"iconFemale": "Avatar_Head_JiangyuLove",
+			"bust": "Avatar_Head_JiangyuLove",
+			"bustFemale": "Avatar_Head_JiangyuLove",
+			"itemId": 21127,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2024
+		},
+		{
+			"id": 21128,
+			"icon": "Avatar_Head_LevaLove",
+			"iconFemale": "Avatar_Head_LevaLove",
+			"bust": "Avatar_Head_LevaLove",
+			"bustFemale": "Avatar_Head_LevaLove",
+			"itemId": 21128,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2025
+		},
+		{
+			"id": 21130,
+			"icon": "Avatar_Head_RobellaLove",
+			"iconFemale": "Avatar_Head_RobellaLove",
+			"bust": "Avatar_Head_RobellaLove",
+			"bustFemale": "Avatar_Head_RobellaLove",
+			"itemId": 21130,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2027
 		},
 		{
 			"id": 21156,
@@ -1075,8 +1141,8 @@
 			"bustFemale": "Avatar_Head_BiyocaSSR01",
 			"itemId": 21158,
 			"unlockDes": "Unlocked after obtaining Belka's outfit - Enchanting Imp",
-			"sort": 4022,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4022
 		},
 		{
 			"id": 21159,
@@ -1086,8 +1152,8 @@
 			"bustFemale": "Avatar_Head_ActivityBiyoca1",
 			"itemId": 21159,
 			"unlockDes": "Unlocked by claiming the final reward from 404 Found - Preparation for a Surprise",
-			"sort": 5016,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5016
 		},
 		{
 			"id": 21160,
@@ -1097,8 +1163,8 @@
 			"bustFemale": "Avatar_Head_ActivityBiyoca2",
 			"itemId": 21160,
 			"unlockDes": "Unlocked by completing all story stages for 404 Found",
-			"sort": 5017,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5017
 		},
 		{
 			"id": 21161,
@@ -1119,8 +1185,8 @@
 			"bustFemale": "Avatar_Head_SpringfieldSSR01",
 			"itemId": 21162,
 			"unlockDes": "Unlocked after obtaining Springfield's outfit - Queen In Radiance",
-			"sort": 4024,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4024
 		},
 		{
 			"id": 21163,
@@ -1152,8 +1218,8 @@
 			"bustFemale": "Avatar_Head_ActivityAndoris1",
 			"itemId": 21165,
 			"unlockDes": "Unlocked by claiming the final reward from Into the Shadows - Assessment Prep",
-			"sort": 5018,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5018
 		},
 		{
 			"id": 21166,
@@ -1163,8 +1229,8 @@
 			"bustFemale": "Avatar_Head_ActivityAndoris2",
 			"itemId": 21166,
 			"unlockDes": "Unlocked by completing all story stages for Into the Shadows",
-			"sort": 5019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5019
 		},
 		{
 			"id": 21167,
@@ -1173,9 +1239,9 @@
 			"bust": "Avatar_Head_ActivityKittyCafe",
 			"bustFemale": "Avatar_Head_ActivityKittyCafe",
 			"itemId": 21167,
-			"unlockDes": "Unlocked by reaching max Cat Cafe level",
-			"sort": 5020,
-			"displayConfig": 0
+			"unlockDes": "Unlocked by reaching max Cat Café level",
+			"displayConfig": 1,
+			"sort": 5020
 		},
 		{
 			"id": 21168,
@@ -1185,8 +1251,8 @@
 			"bustFemale": "Avatar_Head_ActivitySpringfield",
 			"itemId": 21168,
 			"unlockDes": "Unlocked by completing Mímisbrunnr's Loop - Part I",
-			"sort": 5021,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5021
 		},
 		{
 			"id": 21169,
@@ -1196,8 +1262,8 @@
 			"bustFemale": "Avatar_Head_ActivityPeri",
 			"itemId": 21169,
 			"unlockDes": "Unlocks after completing Mimisbrunnr's Loop Part 2.",
-			"sort": 5022,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5022
 		},
 		{
 			"id": 21170,
@@ -1218,8 +1284,8 @@
 			"bustFemale": "Avatar_Head_LennaSSR01",
 			"itemId": 21171,
 			"unlockDes": "Unlock by acquiring Lenna's Outfit - Flying Phantom",
-			"sort": 4028,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4028
 		},
 		{
 			"id": 21172,
@@ -1251,8 +1317,8 @@
 			"bustFemale": "Avatar_Head_ActivityQiuhua1",
 			"itemId": 21174,
 			"unlockDes": "Unlocked by obtaining the final Windfall Gift reward in Springtime Bustle.",
-			"sort": 5023,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5023
 		},
 		{
 			"id": 21175,
@@ -1262,8 +1328,8 @@
 			"bustFemale": "Avatar_Head_ActivityQiuhua2",
 			"itemId": 21175,
 			"unlockDes": "Unlocks after completing Springtime Bustle.",
-			"sort": 5024,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5024
 		},
 		{
 			"id": 21177,
@@ -1305,9 +1371,9 @@
 			"bust": "Avatar_Head_FayeSSR01",
 			"bustFemale": "Avatar_Head_FayeSSR01",
 			"itemId": 21180,
-			"unlockDes": "Unlocked after obtaining Faye's Outfit - Crimson Gale",
-			"sort": 4032,
-			"displayConfig": 0
+			"unlockDes": "Unlocked after obtaining Faye's Outfit - Flurry Crimson",
+			"displayConfig": 1,
+			"sort": 4032
 		},
 		{
 			"id": 21181,
@@ -1317,8 +1383,8 @@
 			"bustFemale": "Avatar_Head_ActivityNikketa1",
 			"itemId": 21181,
 			"unlockDes": "Unlocked by claiming the final reward from Ex Umbra's Shadow Exercise.",
-			"sort": 5025,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5025
 		},
 		{
 			"id": 21182,
@@ -1328,8 +1394,8 @@
 			"bustFemale": "Avatar_Head_ActivityNikketa2",
 			"itemId": 21182,
 			"unlockDes": "Unlocked after completing the Ex Umbra Story Mode stages.",
-			"sort": 5026,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 5026
 		},
 		{
 			"id": 21183,
@@ -1339,8 +1405,8 @@
 			"bustFemale": "Avatar_Head_NikketaSSR01",
 			"itemId": 21183,
 			"unlockDes": "Unlocked after obtaining Nikketa's Outfit - Dance Like The Blazing Sun",
-			"sort": 4033,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4033
 		},
 		{
 			"id": 21184,
@@ -1354,6 +1420,61 @@
 			"sort": 4034
 		},
 		{
+			"id": 21185,
+			"icon": "Avatar_Head_LevaSSR01",
+			"iconFemale": "Avatar_Head_LevaSSR01",
+			"bust": "Avatar_Head_LevaSSR01",
+			"bustFemale": "Avatar_Head_LevaSSR01",
+			"itemId": 21185,
+			"unlockDes": "Unlocked after obtaining Leva's Outfit - Diamond Flower.",
+			"displayConfig": 1,
+			"sort": 4035
+		},
+		{
+			"id": 21186,
+			"icon": "Avatar_Head_QiongjiuSSR01",
+			"iconFemale": "Avatar_Head_QiongjiuSSR01",
+			"bust": "Avatar_Head_QiongjiuSSR01",
+			"bustFemale": "Avatar_Head_QiongjiuSSR01",
+			"itemId": 21186,
+			"unlockDes": "Unlocked after obtaining Qiongjiu's Outfit - Pinnacle of Virtue.",
+			"displayConfig": 1,
+			"sort": 4036
+		},
+		{
+			"id": 21187,
+			"icon": "Avatar_Head_MosinnagantSSR01",
+			"iconFemale": "Avatar_Head_MosinnagantSSR01",
+			"bust": "Avatar_Head_MosinnagantSSR01",
+			"bustFemale": "Avatar_Head_MosinnagantSSR01",
+			"itemId": 21187,
+			"unlockDes": "Unlocked after obtaining Mosin-Nagant's Outfit - Siberian Slide.",
+			"displayConfig": 1,
+			"sort": 4037
+		},
+		{
+			"id": 21188,
+			"icon": "Avatar_Head_ActivityLeva",
+			"iconFemale": "Avatar_Head_ActivityLeva",
+			"bust": "Avatar_Head_ActivityLeva",
+			"bustFemale": "Avatar_Head_ActivityLeva",
+			"itemId": 21188,
+			"unlockDes": "Unlocked after completing Deep Oblivion - Part 1",
+			"displayConfig": 1,
+			"sort": 5027
+		},
+		{
+			"id": 21189,
+			"icon": "Avatar_Head_RobellaSSR01",
+			"iconFemale": "Avatar_Head_RobellaSSR01",
+			"bust": "Avatar_Head_RobellaSSR01",
+			"bustFemale": "Avatar_Head_RobellaSSR01",
+			"itemId": 21189,
+			"unlockDes": "Unlock by acquiring Robella's Outfit - Future Navigator.",
+			"displayConfig": 1,
+			"sort": 4038
+		},
+		{
 			"id": 21190,
 			"icon": "Avatar_Head_VectorSSR02",
 			"iconFemale": "Avatar_Head_VectorSSR02",
@@ -1365,6 +1486,28 @@
 			"sort": 4039
 		},
 		{
+			"id": 21191,
+			"icon": "Avatar_Head_ActivityRobella",
+			"iconFemale": "Avatar_Head_ActivityRobella",
+			"bust": "Avatar_Head_ActivityRobella",
+			"bustFemale": "Avatar_Head_ActivityRobella",
+			"itemId": 21191,
+			"unlockDes": "Unlocked by completing Deep Oblivion Part II",
+			"displayConfig": 1,
+			"sort": 5028
+		},
+		{
+			"id": 21202,
+			"icon": "Avatar_Head_QiuhuaSSR01",
+			"iconFemale": "Avatar_Head_QiuhuaSSR01",
+			"bust": "Avatar_Head_QiuhuaSSR01",
+			"bustFemale": "Avatar_Head_QiuhuaSSR01",
+			"itemId": 21202,
+			"unlockDes": "Unlocked after obtaining Qiuhua's Outfit - Benevolent Herbalist.",
+			"displayConfig": 1,
+			"sort": 4044
+		},
+		{
 			"id": 21999,
 			"icon": "Avatar_Head_Player_Male",
 			"iconFemale": "Avatar_Head_Player_Female",
@@ -1374,6 +1517,28 @@
 			"unlockDes": "Auto unlock",
 			"displayConfig": 1,
 			"sort": 9999
+		},
+		{
+			"id": 121174,
+			"icon": "Avatar_Head_ActivityQiuhua1",
+			"iconFemale": "Avatar_Head_ActivityQiuhua1",
+			"bust": "Avatar_Head_ActivityQiuhua1",
+			"bustFemale": "Avatar_Head_ActivityQiuhua1",
+			"itemId": 21174,
+			"unlockDes": "Unlocked by claiming the final reward from Life Rekindled - Festive City.",
+			"displayConfig": 1,
+			"sort": 5023
+		},
+		{
+			"id": 121175,
+			"icon": "Avatar_Head_ActivityQiuhua2",
+			"iconFemale": "Avatar_Head_ActivityQiuhua2",
+			"bust": "Avatar_Head_ActivityQiuhua2",
+			"bustFemale": "Avatar_Head_ActivityQiuhua2",
+			"itemId": 21175,
+			"unlockDes": "Unlocked by clearing all Story Mode stages for Life Rekindled.",
+			"displayConfig": 1,
+			"sort": 5024
 		}
 	]
 }

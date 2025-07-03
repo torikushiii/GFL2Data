@@ -186,14 +186,14 @@
 			"id": 15,
 			"icon": "Icon_DarkzoneMap_Mask15",
 			"iconName": "Evacuation Signal Station",
+			"iconVisible": true,
+			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "The location of the evacuation signal station. Find the device and send the signal to successfully evacuate.",
-			"iconSort": 3,
-			"iconVisible": false,
-			"iconAbovefog": false
+			"iconSort": 3
 		},
 		{
 			"id": 16,
@@ -316,14 +316,14 @@
 			"id": 25,
 			"icon": "Icon_DarkzoneMap_Mask20",
 			"iconName": "Evacuation Signal Station",
+			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
-			"iconSort": 3,
-			"iconVisible": false
+			"iconSort": 3
 		},
 		{
 			"id": 26,
@@ -493,6 +493,32 @@
 			"iconDesc": "",
 			"iconSort": 3,
 			"iconAbovefog": false
+		},
+		{
+			"id": 39,
+			"icon": "Icon_DarkzoneMap_Mask29",
+			"iconName": "Easter Egg",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
+		},
+		{
+			"id": 40,
+			"icon": "Icon_DarkzoneMap_Mask30",
+			"iconName": "Easter Egg Field-Wide Device",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
 		}
 	]
 }

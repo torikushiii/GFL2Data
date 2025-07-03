@@ -367,6 +367,12 @@
 			"unlockId": 28000
 		},
 		{
+			"id": 1911,
+			"jumpScene": "HallScene",
+			"jumpPrefab": "UIDarkzoneExploreMainPanel",
+			"unlockId": 28011
+		},
+		{
 			"id": 2001,
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIPVPMainPanel",

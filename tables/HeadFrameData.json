@@ -3,7 +3,7 @@
 		{
 			"id": 24001,
 			"icon": "Item_HeadFrame_Default",
-			"unlockDes": "No Profile Frame",
+			"unlockDes": "No Portrait Frame",
 			"displayConfig": 1,
 			"sort": 9999
 		},
@@ -32,8 +32,8 @@
 			"id": 24023,
 			"icon": "Item_HeadFrame_ActivityCafe2",
 			"unlockDes": "Unlock via the Zucchero Café event",
-			"sort": 2002,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2002
 		},
 		{
 			"id": 24024,
@@ -74,15 +74,15 @@
 			"id": 24029,
 			"icon": "Item_HeadFrame_ActivityLenna_WarmUp",
 			"unlockDes": "Unlock by scratching off all Journey Preparations tiles",
-			"sort": 2004,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2004
 		},
 		{
 			"id": 24030,
 			"icon": "Item_HeadFrame_ActivityLenna",
 			"unlockDes": "Unlock by completing Intertwined Assault Challenge Mode",
-			"sort": 2005,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2005
 		},
 		{
 			"id": 24031,
@@ -95,8 +95,8 @@
 			"id": 24032,
 			"icon": "Item_HeadFrame_ActivityJiangyu",
 			"unlockDes": "Unlock by completing Vestigial Display Challenge Mode",
-			"sort": 2006,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2006
 		},
 		{
 			"id": 24033,
@@ -158,43 +158,43 @@
 			"id": 24041,
 			"icon": "Item_HeadFrame_BP_15",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4007,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4007
 		},
 		{
 			"id": 24042,
 			"icon": "Item_HeadFrame_BP_16",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4008,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4008
 		},
 		{
 			"id": 24043,
 			"icon": "Item_HeadFrame_BP_17",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4009,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4009
 		},
 		{
 			"id": 24044,
 			"icon": "Item_HeadFrame_BP_18",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4010,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4010
 		},
 		{
 			"id": 24045,
 			"icon": "Item_HeadFrame_BP_19",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4011,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4011
 		},
 		{
 			"id": 24046,
 			"icon": "Item_HeadFrame_BP_20",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4012,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4012
 		},
 		{
 			"id": 24050,
@@ -319,8 +319,8 @@
 			"id": 24067,
 			"icon": "Item_HeadFrame_Love_Biyoca",
 			"unlockDes": "No matter how high the branches she scales, you remain ever-present in her gaze.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Belka",
-			"sort": 3011,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3011
 		},
 		{
 			"id": 24068,
@@ -333,8 +333,8 @@
 			"id": 24069,
 			"icon": "Item_HeadFrame_Love_Andoris",
 			"unlockDes": "This tenderness extended to you, ever so distinct from that of others.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Andoris",
-			"sort": 3013,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3013
 		},
 		{
 			"id": 24070,
@@ -347,8 +347,8 @@
 			"id": 24071,
 			"icon": "Item_HeadFrame_Love_Springfield",
 			"unlockDes": "The sweetness is just right, yet it is not enough to carry the deep affection in her smile.\nA heartfelt return gift. Unlocked after reaching Affinity Level 6 with Springfield.",
-			"sort": 3015,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3015
 		},
 		{
 			"id": 24072,
@@ -375,8 +375,8 @@
 			"id": 24075,
 			"icon": "Item_HeadFrame_Love_Peri",
 			"unlockDes": "Shhh. You're the only one who gets to enjoy this special privilege.\nThis heartfelt gift from the Doll unlocks when Affinity with Peri reaches Level 6.",
-			"sort": 3019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3019
 		},
 		{
 			"id": 24076,
@@ -389,64 +389,92 @@
 			"id": 24077,
 			"icon": "Item_HeadFrame_Love_Qiuhua",
 			"unlockDes": "Wok and spatula meet in boiling oil; they just can't bear to be apart.\nThis heartfelt gift from the Doll unlocks when Affinity with Qiuhua reaches Level 6.",
-			"sort": 3021,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3021
+		},
+		{
+			"id": 24078,
+			"icon": "Item_HeadFrame_Love_Jiangyu",
+			"unlockDes": "That vigorous drumbeat pounds in the heart. \nThis heartfelt gift from the Doll unlocks when Affinity with Jiangyu reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3026
 		},
 		{
 			"id": 24079,
 			"icon": "Item_HeadFrame_Love_Nikketa",
 			"unlockDes": "Her loyalty is locked within her heart.\nThis heartfelt gift from the Doll unlocks when Affinity with Nikketa reaches Level 6.",
-			"sort": 3024,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 3024
+		},
+		{
+			"id": 24081,
+			"icon": "Item_HeadFrame_Love_Lenna",
+			"unlockDes": "Meaningful growth serves as the foundation for your future.\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Lenna.",
+			"displayConfig": 1,
+			"sort": 3028
+		},
+		{
+			"id": 24083,
+			"icon": "Item_HeadFrame_Love_Leva",
+			"unlockDes": "If you want to build a connection with her, you'll have to face your discontent and aggrievement after losing head on~\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Leva.",
+			"displayConfig": 1,
+			"sort": 3030
+		},
+		{
+			"id": 24085,
+			"icon": "Item_HeadFrame_Love_Robella",
+			"unlockDes": "The time we spent together is a treasure hidden in the depths of the heart.\nThis heartfelt gift from the Doll unlocks when Affinity with Robella reaches Level 6.",
+			"displayConfig": 1,
+			"sort": 3032
 		},
 		{
 			"id": 24107,
 			"icon": "Item_HeadFrame_HighPVP_Season9",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Maze",
-			"sort": 1009,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1009
 		},
 		{
 			"id": 24108,
 			"icon": "Item_HeadFrame_ActivityBiyoca",
 			"unlockDes": "Unlocked by completing all challenge mode stages for 404 Found",
-			"sort": 2014,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2014
 		},
 		{
 			"id": 24109,
 			"icon": "Item_HeadFrame_ActivityAndoris",
 			"unlockDes": "Unlocked by completing all challenge mode stages for Into the Shadows",
-			"sort": 2015,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2015
 		},
 		{
 			"id": 24110,
 			"icon": "Item_HeadFrame_SpringfieldSSR01",
 			"unlockDes": "Unlocked after obtaining Springfield's Outfit - Queen In Radiance",
-			"sort": 2016,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2016
 		},
 		{
 			"id": 24111,
 			"icon": "Item_HeadFrame_ActivitySpringfield",
 			"unlockDes": "Unlocked by completing all challenge mode stages for Mímisbrunnr's Loop",
-			"sort": 2017,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2017
 		},
 		{
 			"id": 24112,
 			"icon": "Item_HeadFrame_ActivityPeri",
 			"unlockDes": "Complete Mimisbrunnr's Loop Part 2 Challenge Mode to unlock",
-			"sort": 2018,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2018
 		},
 		{
 			"id": 24113,
 			"icon": "Item_HeadFrame_HighPVP_Season10",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Thunder Strike",
-			"sort": 1010,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1010
 		},
 		{
 			"id": 24114,
@@ -459,36 +487,50 @@
 			"id": 24115,
 			"icon": "Item_HeadFrame_ActivityQiuhua",
 			"unlockDes": "Complete Springtime Bustle Challenge Mode to unlock",
-			"sort": 2019,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2019
 		},
 		{
 			"id": 24116,
 			"icon": "Item_HeadFrame_Bp2_1",
 			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
-			"sort": 4013,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 4013
+		},
+		{
+			"id": 24117,
+			"icon": "Item_HeadFrame_Bp2_2",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4014
+		},
+		{
+			"id": 24118,
+			"icon": "Item_HeadFrame_Bp2_3",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4015
 		},
 		{
 			"id": 24128,
 			"icon": "Item_HeadFrame_HighPVP_Season11",
 			"unlockDes": "Unlocked by placing top 50% in Military Simulation Season: Chaotic Flood",
-			"sort": 1011,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1011
 		},
 		{
 			"id": 24129,
 			"icon": "Item_HeadFrame_HighPVP_Season12",
 			"unlockDes": "Unlocked by placing top 50% in Military Simulation Season: Desperate Charge",
-			"sort": 1012,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1012
 		},
 		{
 			"id": 24130,
 			"icon": "Item_HeadFrame_ActivityQiuhua_Signin",
 			"unlockDes": "Unlocked by obtaining the final reward in Cosy Fragrant Night",
-			"sort": 2020,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2020
 		},
 		{
 			"id": 24131,
@@ -501,15 +543,29 @@
 			"id": 24132,
 			"icon": "Item_HeadFrame_HighPVP_Season13",
 			"unlockDes": "Unlock by ranking in the top 50% in Military Simulation Season: Balefire Shift",
-			"sort": 1013,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 1013
+		},
+		{
+			"id": 24133,
+			"icon": "Item_HeadFrame_HighPVP_Season14",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Mercenary Contract.",
+			"displayConfig": 1,
+			"sort": 1014
+		},
+		{
+			"id": 24134,
+			"icon": "Item_HeadFrame_HighPVP_Season15",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation Season: Dawn Trek.",
+			"displayConfig": 1,
+			"sort": 1015
 		},
 		{
 			"id": 24136,
 			"icon": "Item_HeadFrame_ActivityNikketa",
 			"unlockDes": "Unlocked by completing all Challenge Mode stages for Ex Umbra.",
-			"sort": 2022,
-			"displayConfig": 0
+			"displayConfig": 1,
+			"sort": 2022
 		},
 		{
 			"id": 24137,
@@ -531,6 +587,27 @@
 			"unlockDes": "Obtained as the theme prize of completing the Coordination Drill \"Echelon 11\".",
 			"displayConfig": 1,
 			"sort": 2023
+		},
+		{
+			"id": 24140,
+			"icon": "Item_HeadFrame_ActivityLeva",
+			"unlockDes": "Clear Deep Oblivion - Part 1 Challenge Mode to unlock.",
+			"displayConfig": 1,
+			"sort": 2025
+		},
+		{
+			"id": 24141,
+			"icon": "Item_HeadFrame_ActivityRobella",
+			"unlockDes": "Unlocked by completing Deep Oblivion Part II - Challenge Mode",
+			"displayConfig": 1,
+			"sort": 2026
+		},
+		{
+			"id": 124115,
+			"icon": "Item_HeadFrame_ActivityQiuhua",
+			"unlockDes": "Unlocked by completing all Challenge Mode stages for Life Rekindled",
+			"displayConfig": 1,
+			"sort": 2019
 		}
 	]
 }

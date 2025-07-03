@@ -7,6 +7,7 @@
 				500
 			],
 			"effectLevel": 4,
+			"isWarnState": 1,
 			"addBuff": [
 				30502
 			],
@@ -27,6 +28,7 @@
 				903532,
 				903527
 			],
+			"isWarnState": 0,
 			"addBuff": []
 		},
 		{
@@ -39,6 +41,7 @@
 			"hint": [
 				903530
 			],
+			"isWarnState": 0,
 			"addBuff": []
 		},
 		{
@@ -51,6 +54,7 @@
 			"hint": [
 				903528
 			],
+			"isWarnState": 0,
 			"addBuff": []
 		},
 		{
@@ -63,6 +67,7 @@
 				903525
 			],
 			"effectLevel": 0,
+			"isWarnState": 0,
 			"addBuff": []
 		}
 	]

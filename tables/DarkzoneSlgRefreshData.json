@@ -101,6 +101,20 @@
 			"roundTrigger": 4
 		},
 		{
+			"id": 192051,
+			"roundType": 1,
+			"roundTime": 3,
+			"positionType": 2,
+			"monsterType": 1,
+			"monsterData": {
+				"193051": 2
+			},
+			"successEvent": 1,
+			"failEvent": 1,
+			"roundCamp": 2,
+			"roundTrigger": 4
+		},
+		{
 			"id": 192052,
 			"roundType": 1,
 			"roundTime": 4,

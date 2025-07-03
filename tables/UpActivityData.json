@@ -353,6 +353,72 @@
 			"useOrder": 1
 		},
 		{
+			"mappingId": 61309,
+			"stageType": [
+				8,
+				74632
+			],
+			"incomeTime": 190003,
+			"incomeMagnification": 6,
+			"useOrder": 1,
+			"incomeItem": 0
+		},
+		{
+			"mappingId": 61310,
+			"stageType": [
+				8,
+				74630
+			],
+			"incomeItem": 32,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
+		},
+		{
+			"mappingId": 61406,
+			"stageType": [
+				8,
+				74632
+			],
+			"incomeTime": 190003,
+			"incomeMagnification": 6,
+			"useOrder": 1,
+			"incomeItem": 0
+		},
+		{
+			"mappingId": 61407,
+			"stageType": [
+				8,
+				74630
+			],
+			"incomeItem": 32,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
+		},
+		{
+			"mappingId": 61511,
+			"stageType": [
+				8,
+				130730
+			],
+			"incomeItem": 20,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
+		},
+		{
+			"mappingId": 61608,
+			"stageType": [
+				8,
+				82135
+			],
+			"incomeItem": 21,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
+		},
+		{
 			"mappingId": 62006,
 			"stageType": [
 				8,
@@ -406,6 +472,39 @@
 			"incomeTime": 190031,
 			"incomeMagnification": 2,
 			"useOrder": 0
+		},
+		{
+			"mappingId": 610004,
+			"stageType": [
+				8,
+				74632
+			],
+			"incomeTime": 190003,
+			"incomeMagnification": 6,
+			"useOrder": 1,
+			"incomeItem": 0
+		},
+		{
+			"mappingId": 610005,
+			"stageType": [
+				8,
+				74630
+			],
+			"incomeItem": 32,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
+		},
+		{
+			"mappingId": 610006,
+			"stageType": [
+				8,
+				82135
+			],
+			"incomeItem": 21,
+			"incomeTime": 190005,
+			"incomeMagnification": 6,
+			"useOrder": 1
 		}
 	]
 }

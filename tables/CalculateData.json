@@ -101,6 +101,16 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 113,
+			"formula": "{0}",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 168,
 			"formula": "{0}*1",
 			"dynamicParameter": "1:Dynamicpostsuppressdamage",
@@ -258,6 +268,26 @@
 			"potentialParameter": "",
 			"distenceParameter": "",
 			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 407,
+			"formula": "{0}*70",
+			"dynamicParameter": "3:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 421,
+			"formula": "{0}*100000",
+			"buffParameter": "2:4:6",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
 			"moldParameter": ""
 		},
 		{
@@ -1671,6 +1701,26 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 6318301,
+			"formula": "{0}*200",
+			"buffParameter": "3:1:6318302",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 6318302,
+			"formula": "{0}*100",
+			"buffParameter": "3:1:6318302",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 6334201,
 			"formula": "{0}*1",
 			"buffParameter": "1:1:63342011",
@@ -1768,6 +1818,16 @@
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 6773713,
+			"formula": "0-{0}*30",
+			"parameter": "1:will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
 			"moldParameter": ""
 		},
 		{
@@ -1918,6 +1978,26 @@
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 6895402,
+			"formula": "{0}",
+			"buffParameter": "2:1:6895402",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 6895403,
+			"formula": "({0}-{1})<0?0:1",
+			"parameter": "1:hp,1;1:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
 			"moldParameter": ""
 		},
 		{
@@ -3841,6 +3921,106 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 10560011,
+			"formula": "{0}",
+			"buffParameter": "2:1:10560001",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10560012,
+			"formula": "{0}",
+			"buffParameter": "2:1:10560001",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10561001,
+			"formula": "{0}*50",
+			"dynamicParameter": "3:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10561002,
+			"formula": "{0}*80",
+			"dynamicParameter": "3:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570101,
+			"formula": "({0}+{1})*90+800",
+			"buffParameter": "2:1:10570801;2:1:10570802",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570401,
+			"formula": "({0}+{1})*90+1200",
+			"buffParameter": "2:1:10570801;2:1:10570802",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570402,
+			"formula": "({0}+{1})*180+1500",
+			"buffParameter": "2:1:10570801;2:1:10570802",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570502,
+			"formula": "{0}*0.2",
+			"parameter": "1:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570521,
+			"formula": "{0}",
+			"buffParameter": "1:1:10570521",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 10570531,
+			"formula": "{0}",
+			"buffParameter": "1:1:10570531",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 20100000,
 			"formula": "{0}",
 			"buffParameter": "1:3:35184372088832",
@@ -3864,6 +4044,16 @@
 			"id": 20200009,
 			"formula": "{0}*1000",
 			"parameter": "1:max_hp,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20200014,
+			"formula": "{0}*500",
+			"parameter": "1:shield_hp,1",
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
@@ -4131,6 +4321,226 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 20700010,
+			"formula": "{0}",
+			"buffParameter": "1:1:207000105",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20700015,
+			"formula": "{0}",
+			"buffParameter": "1:4:20700000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20710001,
+			"formula": "({0}*1.0d*100/{1})",
+			"parameter": "2:shield_armor,1;2:shield_armor,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20710002,
+			"formula": "({0}*1.0d*100/{1})",
+			"parameter": "2:shield_armor,1;2:shield_armor,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20710003,
+			"formula": "({0}*1.0d*100/{1})",
+			"parameter": "2:shield_armor,1;2:shield_armor,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20800017,
+			"formula": "{0}",
+			"buffParameter": "1:4:20800000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20800018,
+			"formula": "{0}",
+			"parameter": "1:will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20811001,
+			"formula": "{0}*150",
+			"dynamicParameter": "3:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20812001,
+			"formula": "{0}*200",
+			"dynamicParameter": "3:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20900001,
+			"formula": "{0}*0.1",
+			"parameter": "1:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20900002,
+			"formula": "{0}*0.2",
+			"parameter": "1:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20900003,
+			"formula": "{0}*0.3",
+			"parameter": "1:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20900007,
+			"formula": "{0}",
+			"buffParameter": "1:4:20900000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 20900008,
+			"formula": "{0}",
+			"buffParameter": "1:4:20900000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000003,
+			"formula": "{0}",
+			"buffParameter": "2:4:21000000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000004,
+			"formula": "{0}",
+			"buffParameter": "2:4:21000000",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000013,
+			"formula": "{0}",
+			"buffParameter": "1:1:210000131",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000015,
+			"formula": "{0}*50",
+			"buffParameter": "2:1:210100018",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000016,
+			"formula": "{0}",
+			"buffParameter": "1:1:210000162",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21000018,
+			"formula": "{0}",
+			"buffParameter": "1:1:210000182",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21010002,
+			"formula": "{0}",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 21010003,
+			"formula": "{0}",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 30140901,
 			"formula": "{0}/{2}*{1}",
 			"parameter": "2:will_value,0;2:potential_gain,0;2:max_will_value,0",
@@ -4154,6 +4564,166 @@
 			"id": 31030132,
 			"formula": "{0}",
 			"parameter": "1:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40000080,
+			"formula": "{0}",
+			"buffParameter": "1:1:40000081",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40010170,
+			"formula": "{0}*10",
+			"buffParameter": "2:1:40010171",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40010180,
+			"formula": "{0}*10",
+			"buffParameter": "2:1:40010181",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40010190,
+			"formula": "{0}*10",
+			"buffParameter": "2:1:40010191",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40010200,
+			"formula": "{0}*10",
+			"buffParameter": "2:1:40010201",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40010210,
+			"formula": "{0}*10",
+			"buffParameter": "2:1:40010211",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033071,
+			"formula": "{0}*2*F3",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033072,
+			"formula": "{0}*4*F3",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033073,
+			"formula": "{0}*6*F3",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033074,
+			"formula": "{0}*8*F3",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033075,
+			"formula": "{0}*10*F3",
+			"parameter": "2:max_hp,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033081,
+			"formula": "{0}*2*F3",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033082,
+			"formula": "{0}*4*F3",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033083,
+			"formula": "{0}*6*F3",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033084,
+			"formula": "{0}*8*F3",
+			"parameter": "2:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 40033085,
+			"formula": "{0}*10*F3",
+			"parameter": "2:pow,0",
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
@@ -5181,6 +5751,16 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 67612411,
+			"formula": "{0}",
+			"buffParameter": "1:3:549755830274",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 68535011,
 			"formula": "({0}-1)*1000+500",
 			"buffParameter": "2:1:6853502",
@@ -5331,6 +5911,26 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 68952013,
+			"formula": "{0}",
+			"buffParameter": "2:1:68952013",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 68952014,
+			"formula": "{0}",
+			"buffParameter": "2:1:68952014",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 69360256,
 			"formula": "100*{0}",
 			"buffParameter": "2:1:69360256",
@@ -5421,9 +6021,49 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 101301018,
+			"formula": "800+{0}*1000",
+			"buffParameter": "2:1:101309083",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 101304018,
+			"formula": "800+{0}*1000",
+			"buffParameter": "2:1:101309083",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 101305018,
+			"formula": "1400+{0}*1000",
+			"buffParameter": "2:1:101309083",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 101309083,
 			"formula": "{0}",
 			"buffParameter": "2:1:101309082",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 101309088,
+			"formula": "{0}",
+			"buffParameter": "2:1:101309088",
 			"parameter": "",
 			"dynamicParameter": "",
 			"potentialParameter": "",
@@ -5628,6 +6268,26 @@
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 103309081,
+			"formula": "{0}*100",
+			"buffParameter": "1:1:103309083",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 103309082,
+			"formula": "{0}",
+			"dynamicParameter": "1:Dynamicmakeoverflowdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
 			"moldParameter": ""
 		},
 		{
@@ -5961,6 +6621,76 @@
 			"moldParameter": ""
 		},
 		{
+			"id": 105600111,
+			"formula": "{0}",
+			"buffParameter": "2:1:10560001",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105600121,
+			"formula": "{0}",
+			"buffParameter": "2:1:10560001",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105704021,
+			"formula": "({0}+{1})*50",
+			"buffParameter": "2:1:10570801;2:1:10570802",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105705012,
+			"formula": "{0}*0.1",
+			"parameter": "1:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105705112,
+			"formula": "{0}*0.15",
+			"parameter": "1:pow,0",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105708011,
+			"formula": "{0}*100+200",
+			"buffParameter": "2:1:105707011",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 105708021,
+			"formula": "{0}*50",
+			"buffParameter": "2:1:10570802",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
 			"id": 200103011,
 			"formula": "{0}*1.5",
 			"distenceParameter": "0:dis",
@@ -6028,6 +6758,196 @@
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207000091,
+			"formula": "{0}*50",
+			"buffParameter": "2:1:207000091",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207000092,
+			"formula": "{0}*(-50)",
+			"buffParameter": "2:1:207000091",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207000101,
+			"formula": "{0}*10",
+			"buffParameter": "1:1:207000105",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207000102,
+			"formula": "{0}*(-10)",
+			"buffParameter": "1:1:207000105",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207000151,
+			"formula": "{0}*(-20)",
+			"buffParameter": "2:1:207000151",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207100012,
+			"formula": "{0}*(-50)",
+			"buffParameter": "2:1:2071000121",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207100013,
+			"formula": "{0}*200",
+			"buffParameter": "2:1:2071000121",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 207100022,
+			"formula": "{0}*(-400)",
+			"buffParameter": "2:1:2071000222",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 208000081,
+			"formula": "{0}*50",
+			"parameter": "1:will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 208000112,
+			"formula": "{0}*1000",
+			"parameter": "1:will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 208100011,
+			"formula": "{0}*30",
+			"parameter": "1:will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 208100037,
+			"formula": "{0}",
+			"parameter": "2:max_will_value,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000031,
+			"formula": "{0}*0.01",
+			"parameter": "1:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000061,
+			"formula": "{0}*0.5",
+			"parameter": "2:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000062,
+			"formula": "{0}*0.01",
+			"parameter": "1:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000091,
+			"formula": "({0}-600)>0?({0}-600+500):500",
+			"parameter": "2:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000101,
+			"formula": "{0}*20",
+			"buffParameter": "1:1:209000101",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 209000183,
+			"formula": "{0}*0.5",
+			"parameter": "2:max_ap,1",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 210100033,
+			"formula": "{0}",
+			"dynamicParameter": "1:Dynamicmakepostdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
 			"moldParameter": ""
 		},
 		{
@@ -6318,6 +7238,136 @@
 			"dynamicParameter": "",
 			"potentialParameter": "",
 			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 1057050121,
+			"formula": "{0}*30+{1}*90+1500",
+			"buffParameter": "1:1:10570521;1:1:10570531",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 1057050122,
+			"formula": "{0}*30+{1}*90+900",
+			"buffParameter": "1:1:10570521;1:1:10570531",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 1057050123,
+			"formula": "{0}+{1}",
+			"buffParameter": "1:1:10570521;1:1:10570531",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2071000121,
+			"formula": "{0}*50",
+			"buffParameter": "2:1:2071000121",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2071000221,
+			"formula": "{0}*(400)",
+			"buffParameter": "2:1:2071000222",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2071000332,
+			"formula": "{0}*10",
+			"buffParameter": "1:1:2071000332",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000241,
+			"formula": "{0}*500",
+			"dynamicParameter": "2:Dynamicpostdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000242,
+			"formula": "{0}*200",
+			"dynamicParameter": "1:Dynamicmakepostdamage",
+			"parameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000331,
+			"formula": "{0}*0.1",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000332,
+			"formula": "{0}*0.1",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000333,
+			"formula": "{0}*0.05",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000334,
+			"formula": "{0}*0.001",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
+			"moldParameter": ""
+		},
+		{
+			"id": 2101000339,
+			"formula": "{0}",
+			"parameter": "",
+			"dynamicParameter": "",
+			"potentialParameter": "",
+			"distenceParameter": "",
+			"buffParameter": "",
 			"moldParameter": ""
 		}
 	]

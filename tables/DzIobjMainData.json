@@ -348,8 +348,806 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 101,
+			"name": "Crude Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 201,
+				"1": 202,
+				"2": 203,
+				"3": 204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|200,100,200",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-360,360|360,360|360,-360|-360,-360",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10100,
+				10101,
+				10102,
+				10103
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 102,
+			"name": "Normal Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 201,
+				"1": 202,
+				"2": 203,
+				"3": 204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_B01/Dz_dio_Loot_B01.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10200,
+				10201,
+				10202,
+				10203
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "2,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 103,
+			"name": "Exquisite Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 201,
+				"1": 202,
+				"2": 203,
+				"3": 204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_D02/Dz_dio_Loot_D02.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10300,
+				10301,
+				10302,
+				10303
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "3,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 104,
+			"name": "Rare Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"initState": 2,
+			"state": {
+				"0": 1201,
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01_Lock.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|140,100,140",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10400,
+				10401,
+				10402,
+				10403
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "4,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 105,
+			"name": "Rare Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"initState": 2,
+			"state": {
+				"0": 1201,
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01_Lock.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|140,100,140",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10500,
+				10501,
+				10502,
+				10503
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "5,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 106,
+			"name": "Rare Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 1201,
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|140,100,140",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10600,
+				10601,
+				10602,
+				10603
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "4,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 107,
+			"name": "Rare Supply Crate",
+			"type": 2,
+			"priority": 99,
+			"state": {
+				"0": 1201,
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|140,100,140",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				10700,
+				10701,
+				10702,
+				10703
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "5,1;0,0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 6,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 111,
+			"name": "Easter Egg Interactive Object 1",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13025,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_01.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11100,
+				11101,
+				11102,
+				11103
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 112,
+			"name": "Easter Egg Interactive Object 2",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13021,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_02.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|200,100,200",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11200,
+				11201,
+				11202,
+				11203
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 113,
+			"name": "Easter Egg Interactive Object 3",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13027,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_03.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11300,
+				11301,
+				11302,
+				11303
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 114,
+			"name": "Easter Egg Interactive Object 4",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13024,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_04.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11400,
+				11401,
+				11402,
+				11403
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 115,
+			"name": "Easter Egg Interactive Object 5",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13026,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_05.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11500,
+				11501,
+				11502,
+				11503
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 116,
+			"name": "Easter Egg Interactive Object 6",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13022,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_06.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|200,100,200",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11600,
+				11601,
+				11602,
+				11603
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 117,
+			"name": "Easter Egg Interactive Object 7",
+			"type": 47,
+			"priority": 99,
+			"state": {
+				"0": 1301,
+				"1": 13023,
+				"2": 1303,
+				"3": 1304
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_EasterEgg/Dz_dio_EasterEgg_07.prefab",
+			"blockCollision": "0,0,0|40,100,40",
+			"interactCollision": "0,0,0|180,100,160",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 1,
+			"cd": [
+				1000,
+				1000
+			],
+			"activeShape": true,
+			"shapeIds": [
+				11700,
+				11701,
+				11702,
+				11703
+			],
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "99;0,0,0;0,0,0;1,1,1",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 39,
+			"tokenByState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 200,
-			"name": "Supply Box",
+			"name": "Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -577,7 +1375,7 @@
 		},
 		{
 			"id": 204,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -894,7 +1692,7 @@
 		},
 		{
 			"id": 221,
-			"name": "Basic Supply Box",
+			"name": "Crude Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -951,7 +1749,7 @@
 		},
 		{
 			"id": 222,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1008,7 +1806,7 @@
 		},
 		{
 			"id": 223,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1065,7 +1863,7 @@
 		},
 		{
 			"id": 224,
-			"name": "Basic Supply Box",
+			"name": "Crude Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1122,7 +1920,7 @@
 		},
 		{
 			"id": 225,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1179,7 +1977,7 @@
 		},
 		{
 			"id": 226,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1236,7 +2034,7 @@
 		},
 		{
 			"id": 227,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1293,7 +2091,7 @@
 		},
 		{
 			"id": 228,
-			"name": "Basic Supply Box",
+			"name": "Crude Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1350,7 +2148,7 @@
 		},
 		{
 			"id": 229,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1407,7 +2205,7 @@
 		},
 		{
 			"id": 230,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1464,7 +2262,7 @@
 		},
 		{
 			"id": 231,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1521,7 +2319,7 @@
 		},
 		{
 			"id": 232,
-			"name": "Basic Supply Box",
+			"name": "Crude Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1578,7 +2376,7 @@
 		},
 		{
 			"id": 233,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1635,7 +2433,7 @@
 		},
 		{
 			"id": 234,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1692,7 +2490,7 @@
 		},
 		{
 			"id": 235,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 2,
 			"priority": 99,
 			"state": {
@@ -1749,7 +2547,7 @@
 		},
 		{
 			"id": 236,
-			"name": "Cipher Points Recorder",
+			"name": "Cipher Point Transcriber",
 			"type": 13,
 			"priority": 99,
 			"state": {
@@ -1800,7 +2598,7 @@
 		},
 		{
 			"id": 237,
-			"name": "Cipher Points Recorder",
+			"name": "Cipher Point Transcriber",
 			"type": 13,
 			"priority": 99,
 			"state": {
@@ -1851,7 +2649,7 @@
 		},
 		{
 			"id": 241,
-			"name": "Cipher Points Recorder",
+			"name": "Cipher Point Transcriber",
 			"type": 13,
 			"priority": 99,
 			"state": {
@@ -1902,7 +2700,7 @@
 		},
 		{
 			"id": 242,
-			"name": "Cipher Points Recorder",
+			"name": "Cipher Point Transcriber",
 			"type": 13,
 			"priority": 99,
 			"state": {
@@ -1953,7 +2751,7 @@
 		},
 		{
 			"id": 243,
-			"name": "Cipher Points Recorder",
+			"name": "Cipher Point Transcriber",
 			"type": 13,
 			"priority": 99,
 			"state": {
@@ -2398,7 +3196,7 @@
 		},
 		{
 			"id": 901,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 29,
 			"state": {
@@ -2458,7 +3256,7 @@
 		},
 		{
 			"id": 902,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 30,
 			"state": {
@@ -2522,7 +3320,7 @@
 		},
 		{
 			"id": 903,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 31,
 			"state": {
@@ -2586,7 +3384,7 @@
 		},
 		{
 			"id": 905,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 32,
 			"initState": 2,
@@ -2646,7 +3444,7 @@
 		},
 		{
 			"id": 906,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 33,
 			"state": {
@@ -2706,7 +3504,7 @@
 		},
 		{
 			"id": 907,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 34,
 			"state": {
@@ -2770,7 +3568,7 @@
 		},
 		{
 			"id": 908,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 35,
 			"state": {
@@ -2894,7 +3692,7 @@
 		},
 		{
 			"id": 911,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 36,
 			"state": {
@@ -2954,7 +3752,7 @@
 		},
 		{
 			"id": 912,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 37,
 			"state": {
@@ -3014,7 +3812,7 @@
 		},
 		{
 			"id": 913,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 38,
 			"state": {
@@ -3078,7 +3876,7 @@
 		},
 		{
 			"id": 914,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 39,
 			"state": {
@@ -3142,7 +3940,7 @@
 		},
 		{
 			"id": 915,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 40,
 			"initState": 2,
@@ -3262,7 +4060,7 @@
 		},
 		{
 			"id": 917,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 33,
 			"state": {
@@ -3325,7 +4123,7 @@
 		},
 		{
 			"id": 918,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 32,
 			"initState": 2,
@@ -3385,7 +4183,7 @@
 		},
 		{
 			"id": 919,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 33,
 			"state": {
@@ -3497,7 +4295,7 @@
 		},
 		{
 			"id": 921,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 39,
 			"state": {
@@ -3561,7 +4359,7 @@
 		},
 		{
 			"id": 922,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 39,
 			"state": {
@@ -3625,7 +4423,7 @@
 		},
 		{
 			"id": 923,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 39,
 			"state": {
@@ -3689,7 +4487,7 @@
 		},
 		{
 			"id": 924,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 36,
 			"state": {
@@ -3749,7 +4547,7 @@
 		},
 		{
 			"id": 925,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 33,
 			"initState": 2,
@@ -3806,7 +4604,7 @@
 		},
 		{
 			"id": 926,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 32,
 			"initState": 2,
@@ -3863,7 +4661,7 @@
 		},
 		{
 			"id": 927,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 32,
 			"state": {
@@ -3902,6 +4700,7 @@
 				"3": 0
 			},
 			"param": "1",
+			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -3915,7 +4714,6 @@
 			"costType": 0,
 			"costId": [],
 			"costNum": [],
-			"isInvisiableInGrass": 0,
 			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
@@ -3923,7 +4721,7 @@
 		},
 		{
 			"id": 928,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 32,
 			"initState": 2,
@@ -3980,7 +4778,7 @@
 		},
 		{
 			"id": 929,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 37,
 			"initState": 2,
@@ -4037,7 +4835,7 @@
 		},
 		{
 			"id": 930,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 37,
 			"state": {
@@ -4145,7 +4943,7 @@
 		},
 		{
 			"id": 940,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 39,
 			"state": {
@@ -4156,7 +4954,7 @@
 				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
-			"blockCollision": "0,0,0|360,1200,50",
+			"blockCollision": "0,0,0|360,300,50",
 			"interactCollision": "0,0,0|360,100,250",
 			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
 			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
@@ -4474,7 +5272,7 @@
 			"id": 1201,
 			"name": "[Logic Interactive Object] Climb Up",
 			"type": 12,
-			"priority": 60,
+			"priority": 10,
 			"state": {
 				"0": 13,
 				"1": 99
@@ -4523,7 +5321,7 @@
 			"id": 1202,
 			"name": "[Logic Interactive Object] Climb Down",
 			"type": 12,
-			"priority": 61,
+			"priority": 10,
 			"state": {
 				"0": 14,
 				"1": 99
@@ -5518,6 +6316,58 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 1603,
+			"name": "High-Speed Rail",
+			"type": 16,
+			"priority": 54,
+			"state": {
+				"0": 61,
+				"1": 61,
+				"2": 203,
+				"3": 204,
+				"4": 99
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Manhole_01A.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,0,0|240,100,240",
+			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"useLimit": 999,
+			"cd": [
+				1000
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 0,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1124;15000,0,7900;30001",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 1,
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"activeShape": false,
+			"shapeIds": [],
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 1701,
 			"name": "Evacuation Signal Station",
 			"type": 17,
@@ -5549,9 +6399,9 @@
 			"isShowOnMinimap": 25,
 			"tokenByState": {
 				"0": 1,
-				"1": 0,
-				"2": 0,
-				"3": 0
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5774,7 +6624,7 @@
 		},
 		{
 			"id": 1901,
-			"name": "Light Particle Vane",
+			"name": "Photon Vane",
 			"type": 20,
 			"priority": 90,
 			"state": {
@@ -7258,7 +8108,7 @@
 		},
 		{
 			"id": 2129,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 37,
 			"state": {
@@ -7315,7 +8165,7 @@
 		},
 		{
 			"id": 2130,
-			"name": "Elevatable Cover",
+			"name": "Deployable Cover",
 			"type": 1,
 			"priority": 33,
 			"initState": 2,
@@ -7375,7 +8225,7 @@
 		},
 		{
 			"id": 2131,
-			"name": "Electronic Security Gate",
+			"name": "Security Gate",
 			"type": 1,
 			"priority": 37,
 			"initState": 2,
@@ -7432,7 +8282,7 @@
 		},
 		{
 			"id": 2132,
-			"name": "Elevatable Cover",
+			"name": "Deployable Cover",
 			"type": 1,
 			"priority": 33,
 			"state": {
@@ -7963,6 +8813,53 @@
 			"frontCheck": 0
 		},
 		{
+			"id": 2999,
+			"name": "Relay Point",
+			"type": 26,
+			"priority": 99,
+			"initState": 2,
+			"state": {
+				"0": 300201,
+				"1": 300202,
+				"2": 300203
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_teleporter/Dz_dio_teleporter.prefab",
+			"blockCollision": "0,0,0|0,0,0",
+			"interactCollision": "0,200,0|540,400,540",
+			"severBlockCollision": "0,0,0|0,0,0",
+			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
+			"monsterInteractCollision": "0,0,0|0,0,0",
+			"backCollision": "0,0,0|0,0,0",
+			"cd": [
+				1000
+			],
+			"activeShape": true,
+			"interactTokenState": {
+				"0": 0
+			},
+			"param": "1;0,0,0;30002;0",
+			"isInvisiableInGrass": 1,
+			"isShowOnMinimap": 37,
+			"tokenByState": {
+				"0": 1,
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"tokenYShifting": 150,
+			"slgPrefabPath": "",
+			"useLimit": 0,
+			"cdSequence": {},
+			"costType": 0,
+			"costId": [],
+			"costNum": [],
+			"shapeIds": [],
+			"isShowInteractToken": 0,
+			"showInSlg": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 3000,
 			"name": "Reactivation Station",
 			"type": 27,
@@ -8021,9 +8918,9 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_checkpoint/Dz_dio_checkpoint.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|300,600,300",
+			"interactCollision": "0,200,0|540,400,540",
 			"severBlockCollision": "0,0,0|0,0,0",
-			"severInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"severInteractCollision": "-270,270|270,270|270,-270|-270,-270",
 			"monsterInteractCollision": "0,0,0|0,0,0",
 			"backCollision": "0,0,0|0,0,0",
 			"cd": [
@@ -11033,7 +11930,7 @@
 		},
 		{
 			"id": 4601,
-			"name": "Basic Supply Box",
+			"name": "Crude Supply Crate",
 			"type": 46,
 			"priority": 99,
 			"state": {
@@ -11090,7 +11987,7 @@
 		},
 		{
 			"id": 4602,
-			"name": "Standard Supply Box",
+			"name": "Normal Supply Crate",
 			"type": 46,
 			"priority": 99,
 			"state": {
@@ -11147,7 +12044,7 @@
 		},
 		{
 			"id": 4603,
-			"name": "Deluxe Supply Box",
+			"name": "Exquisite Supply Crate",
 			"type": 46,
 			"priority": 99,
 			"state": {

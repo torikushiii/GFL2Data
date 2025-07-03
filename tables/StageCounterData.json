@@ -344,6 +344,62 @@
 			"initValue": 0
 		},
 		{
+			"id": 6001,
+			"stageConfigId": 6001,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 6002,
+			"stageConfigId": 6002,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 8000,
+			"stageConfigId": 8000,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 8001,
+			"stageConfigId": 8001,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 8002,
+			"stageConfigId": 8002,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 8003,
+			"stageConfigId": 8003,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 9001,
+			"stageConfigId": 9001,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
+			"id": 9002,
+			"stageConfigId": 9002,
+			"maxValue": 20,
+			"value": 0,
+			"initValue": 0
+		},
+		{
 			"id": 10104,
 			"stageConfigId": 10104,
 			"maxValue": 3,

@@ -604,6 +604,15 @@
 			"weight": 100
 		},
 		{
+			"interId": 10270601,
+			"id": 1027,
+			"preposition": 102706,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0601",
+			"weight": 100
+		},
+		{
 			"interId": 10280101,
 			"id": 1028,
 			"preposition": 102801,
@@ -1735,6 +1744,105 @@
 			"isTimeline": true,
 			"isEsc": true,
 			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10560101,
+			"id": 1056,
+			"preposition": 105601,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10560201,
+			"id": 1056,
+			"preposition": 105602,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10560301,
+			"id": 1056,
+			"preposition": 105603,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10560401,
+			"id": 1056,
+			"preposition": 105604,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10560501,
+			"id": 1056,
+			"preposition": 105605,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10570101,
+			"id": 1057,
+			"preposition": 105701,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0101",
+			"weight": 100
+		},
+		{
+			"interId": 10570201,
+			"id": 1057,
+			"preposition": 105702,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0201",
+			"weight": 100
+		},
+		{
+			"interId": 10570301,
+			"id": 1057,
+			"preposition": 105703,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0301",
+			"weight": 100
+		},
+		{
+			"interId": 10570401,
+			"id": 1057,
+			"preposition": 105704,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0401",
+			"weight": 100
+		},
+		{
+			"interId": 10570501,
+			"id": 1057,
+			"preposition": 105705,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0501",
+			"weight": 100
+		},
+		{
+			"interId": 10570601,
+			"id": 1057,
+			"preposition": 105706,
+			"isTimeline": true,
+			"isEsc": true,
+			"barrackInteract": "c_{0}_Bedroom_0601",
 			"weight": 100
 		}
 	]

@@ -281,6 +281,11 @@
 			"type": 1014
 		},
 		{
+			"id": 20161,
+			"questType": 3,
+			"type": 1016
+		},
+		{
 			"id": 20162,
 			"questType": 3,
 			"type": 1016
@@ -304,6 +309,36 @@
 			"id": 20166,
 			"questType": 3,
 			"type": 1016
+		},
+		{
+			"id": 20181,
+			"questType": 3,
+			"type": 1018
+		},
+		{
+			"id": 20182,
+			"questType": 3,
+			"type": 1018
+		},
+		{
+			"id": 20183,
+			"questType": 3,
+			"type": 1018
+		},
+		{
+			"id": 20184,
+			"questType": 3,
+			"type": 1018
+		},
+		{
+			"id": 20185,
+			"questType": 3,
+			"type": 1018
+		},
+		{
+			"id": 20186,
+			"questType": 3,
+			"type": 1018
 		},
 		{
 			"id": 21001,
@@ -462,6 +497,11 @@
 		},
 		{
 			"id": 230175,
+			"questType": 3,
+			"type": 1017
+		},
+		{
+			"id": 230176,
 			"questType": 3,
 			"type": 1017
 		},
@@ -644,6 +684,46 @@
 			"id": 247044,
 			"questType": 4,
 			"type": 1704
+		},
+		{
+			"id": 248011,
+			"questType": 4,
+			"type": 1801
+		},
+		{
+			"id": 248012,
+			"questType": 4,
+			"type": 1801
+		},
+		{
+			"id": 248021,
+			"questType": 4,
+			"type": 1802
+		},
+		{
+			"id": 248022,
+			"questType": 4,
+			"type": 1802
+		},
+		{
+			"id": 248031,
+			"questType": 4,
+			"type": 1803
+		},
+		{
+			"id": 248032,
+			"questType": 4,
+			"type": 1803
+		},
+		{
+			"id": 248041,
+			"questType": 4,
+			"type": 1804
+		},
+		{
+			"id": 248042,
+			"questType": 4,
+			"type": 1804
 		}
 	]
 }

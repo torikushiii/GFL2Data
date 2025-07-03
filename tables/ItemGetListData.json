@@ -1737,6 +1737,13 @@
 			"jumpCode": "5025"
 		},
 		{
+			"id": 190015,
+			"type": 19,
+			"title": "Beginner Package",
+			"canJump": true,
+			"jumpCode": "5108"
+		},
+		{
 			"id": 200001,
 			"type": 20,
 			"title": "Refitting Room",
@@ -1875,6 +1882,20 @@
 			"title": "Military Simulation Season: Balefire Shift",
 			"canJump": true,
 			"jumpCode": "31011"
+		},
+		{
+			"id": 270013,
+			"type": 27,
+			"title": "Military Simulation Season - Mercenary Contract",
+			"canJump": true,
+			"jumpCode": "31012"
+		},
+		{
+			"id": 270014,
+			"type": 27,
+			"title": "Military Simulation Season: Dawn Trek",
+			"canJump": true,
+			"jumpCode": "31013"
 		},
 		{
 			"id": 280101,
@@ -2323,6 +2344,27 @@
 			"title": "Intel Exchange",
 			"canJump": true,
 			"jumpCode": "5020"
+		},
+		{
+			"id": 290028,
+			"type": 29,
+			"title": "Temporary Base - Part 1",
+			"canJump": true,
+			"jumpCode": "5023"
+		},
+		{
+			"id": 290029,
+			"type": 29,
+			"title": "Phase Clash",
+			"canJump": true,
+			"jumpCode": "10112"
+		},
+		{
+			"id": 290030,
+			"type": 29,
+			"title": "Temporary Base - Part 2",
+			"canJump": true,
+			"jumpCode": "5024"
 		},
 		{
 			"id": 310001,
@@ -2780,6 +2822,27 @@
 			"jumpCode": ""
 		},
 		{
+			"id": 341056,
+			"type": 34,
+			"title": "Neural Helix - Leva",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341057,
+			"type": 34,
+			"title": "Neural Helix - Robella",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 351013,
+			"type": 35,
+			"title": "Increase Lenna's Affinity",
+			"canJump": true,
+			"jumpCode": "4023"
+		},
+		{
 			"id": 351015,
 			"type": 35,
 			"title": "Increase Vepley's Affinity",
@@ -2834,6 +2897,13 @@
 			"title": "Increase Makiatto's Affinity",
 			"canJump": true,
 			"jumpCode": "4034"
+		},
+		{
+			"id": 351035,
+			"type": 35,
+			"title": "Increase Jiangyu's Affinity",
+			"canJump": true,
+			"jumpCode": "4035"
 		},
 		{
 			"id": 351037,
@@ -2932,6 +3002,20 @@
 			"title": "Increase Affinity with Nikketa",
 			"canJump": true,
 			"jumpCode": "4053"
+		},
+		{
+			"id": 351056,
+			"type": 35,
+			"title": "Increase Leva's Affinity",
+			"canJump": true,
+			"jumpCode": "4054"
+		},
+		{
+			"id": 351057,
+			"type": 35,
+			"title": "Increase Robella's Affinity",
+			"canJump": true,
+			"jumpCode": "4055"
 		},
 		{
 			"id": 360001,

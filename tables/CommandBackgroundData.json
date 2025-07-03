@@ -521,6 +521,32 @@
 			"timeline": ""
 		},
 		{
+			"id": 3041,
+			"type": 3,
+			"name": "In The Palm Of My Hand",
+			"pic": "Img_CommandCenterBgPic_2D_LevaSSR01",
+			"bg": "LevaSSR01/LevaSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44056,
+			"des": "Unlocked after obtaining Leva",
+			"audioBgm": 90002,
+			"gunId": 1056,
+			"timeline": ""
+		},
+		{
+			"id": 3042,
+			"type": 3,
+			"name": "Comprehensive Pledge",
+			"pic": "Img_CommandCenterBgPic_2D_RobellaSSR01",
+			"bg": "RobellaSSR01/RobellaSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44057,
+			"des": "Unlocked after obtaining Robella",
+			"audioBgm": 90002,
+			"gunId": 1057,
+			"timeline": ""
+		},
+		{
 			"id": 3056,
 			"type": 6,
 			"name": "Linger Under the Moonlight",
@@ -528,7 +554,7 @@
 			"bg": "SpringfieldSSR0101/SpringfieldSSR0101_CommandCenterBackGround_TL",
 			"unlock": 1,
 			"args": 43001,
-			"des": "Unlocked after obtaining Outfit - Queen in Radiance",
+			"des": "Unlocked after obtaining Outfit - Queen In Radiance",
 			"audioBgm": 90002,
 			"timeline": "",
 			"gunId": 0

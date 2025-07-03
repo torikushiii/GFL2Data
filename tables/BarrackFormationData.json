@@ -480,6 +480,32 @@
 			"endingidle": "NikketaSSR01/c_NikketaSSR01_EndingIdle",
 			"toidle": "c_NikketaSSR01_ToIdle",
 			"changeclothes": "c_NikketaSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105601,
+			"gunId": 1056,
+			"type": 1,
+			"barrackIdleNormal": "c_LevaSSR01_BarrackIdle",
+			"barrackEntrance": "c_LevaSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "LevaSSR01/c_LevaSSR01_Upgrade",
+			"classTrainingShootResource": "LevaSSR01/c_LevaSSR01_Class",
+			"ending": "LevaSSR01/c_LevaSSR01_Ending",
+			"endingidle": "LevaSSR01/c_LevaSSR01_EndingIdle",
+			"toidle": "c_LevaSSR01_ToIdle",
+			"changeclothes": "c_LevaSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105701,
+			"gunId": 1057,
+			"type": 1,
+			"barrackIdleNormal": "c_RobellaSSR01_BarrackIdle",
+			"barrackEntrance": "c_RobellaSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "RobellaSSR01/c_RobellaSSR01_Upgrade",
+			"classTrainingShootResource": "RobellaSSR01/c_RobellaSSR01_Class",
+			"ending": "RobellaSSR01/c_RobellaSSR01_Ending",
+			"endingidle": "RobellaSSR01/c_RobellaSSR01_EndingIdle",
+			"toidle": "c_RobellaSSR01_ToIdle",
+			"changeclothes": "c_RobellaSSR01_BarrackEntrance_Normal"
 		}
 	]
 }

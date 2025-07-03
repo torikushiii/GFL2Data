@@ -73,15 +73,6 @@
 			"type": 0
 		},
 		{
-			"id": 20,
-			"name": "EXP Stage Attempt Count",
-			"initNum": 3,
-			"maxLimit": 99,
-			"overflow": true,
-			"isBag": false,
-			"type": 0
-		},
-		{
 			"id": 21,
 			"name": "Gold Stage Attempt Count",
 			"initNum": 3,
@@ -237,6 +228,15 @@
 		{
 			"id": 24001,
 			"name": "Starting Icon Frame",
+			"initNum": 1,
+			"isBag": false,
+			"maxLimit": 0,
+			"overflow": false,
+			"type": 0
+		},
+		{
+			"id": 25001,
+			"name": "Initial ID Card",
 			"initNum": 1,
 			"isBag": false,
 			"maxLimit": 0,

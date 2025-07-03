@@ -197,6 +197,26 @@
 			"stepDetail": "Eliminate all enemy units: {0}/50"
 		},
 		{
+			"id": 1051,
+			"stepDetail": "Friendly losses do not reach {0}/1"
+		},
+		{
+			"id": 1052,
+			"stepDetail": "Friendly losses do not reach {0}/2"
+		},
+		{
+			"id": 1053,
+			"stepDetail": "Friendly losses do not reach {0}/3"
+		},
+		{
+			"id": 1054,
+			"stepDetail": "Friendly losses do not reach {0}/4"
+		},
+		{
+			"id": 1055,
+			"stepDetail": "Friendly losses do not reach {0}/5"
+		},
+		{
 			"id": 1101,
 			"stepDetail": "Eliminate at least 2 enemy units {0}/2"
 		},
@@ -793,14 +813,6 @@
 			"stepDetail": "Evacuate at least 2 allied units"
 		},
 		{
-			"id": 5120,
-			"stepDetail": "Evacuate at least 1 allied units"
-		},
-		{
-			"id": 5121,
-			"stepDetail": "Eliminate Sextans?"
-		},
-		{
 			"id": 5122,
 			"stepDetail": "Eliminate Niter No.249"
 		},
@@ -1115,6 +1127,10 @@
 		{
 			"id": 8062,
 			"stepDetail": "Or eliminate all enemy units {0}/7"
+		},
+		{
+			"id": 8063,
+			"stepDetail": "Kill All Flyers {0}/2"
 		},
 		{
 			"id": 9001,
@@ -2222,7 +2238,7 @@
 		},
 		{
 			"id": 9288,
-			"stepDetail": "Destroy Defensirve Structures : {0}/4"
+			"stepDetail": "Destroy Defensive Structures: {0}/4"
 		},
 		{
 			"id": 9289,
@@ -2287,6 +2303,34 @@
 		{
 			"id": 9304,
 			"stepDetail": "Eliminate Beak Beasteel"
+		},
+		{
+			"id": 9305,
+			"stepDetail": "Kill Groza?"
+		},
+		{
+			"id": 9306,
+			"stepDetail": "Eliminate the Mysterious Girl"
+		},
+		{
+			"id": 9307,
+			"stepDetail": "Stop the Giordre from escaping"
+		},
+		{
+			"id": 9308,
+			"stepDetail": "Hold off the enemy attack"
+		},
+		{
+			"id": 9309,
+			"stepDetail": "Protect the allied target for {0}/6 rounds"
+		},
+		{
+			"id": 9310,
+			"stepDetail": "Eliminate the Dauntless Master"
+		},
+		{
+			"id": 9311,
+			"stepDetail": "Trigger the hidden event"
 		},
 		{
 			"id": 30025,

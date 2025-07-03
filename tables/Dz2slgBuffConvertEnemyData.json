@@ -62,6 +62,15 @@
 			],
 			"inSlgBuffId": 52005,
 			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 70001,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 99994,
+			"timeScale": 1
 		}
 	]
 }

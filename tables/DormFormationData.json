@@ -1225,6 +1225,24 @@
 			"clothesId": 0
 		},
 		{
+			"id": 102706,
+			"type": 2,
+			"modleId": 1027,
+			"name": "Exercise",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_06_Idle",
+			"uiicon": "Qiongjiu06",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"clothesId": 1102701,
+			"unlockType": 0
+		},
+		{
 			"id": 102801,
 			"type": 2,
 			"modleId": 1028,
@@ -3491,6 +3509,204 @@
 			"unlock": 1,
 			"unlockType": 410552,
 			"clothesId": 0
+		},
+		{
+			"id": 105601,
+			"type": 2,
+			"modleId": 1056,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Leva01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105602,
+			"type": 2,
+			"modleId": 1056,
+			"name": "Examining",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Leva02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105603,
+			"type": 2,
+			"modleId": 1056,
+			"name": "Reading",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Leva03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410561,
+			"clothesId": 0
+		},
+		{
+			"id": 105604,
+			"type": 2,
+			"modleId": 1056,
+			"name": "Idle",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Leva04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410561,
+			"clothesId": 0
+		},
+		{
+			"id": 105605,
+			"type": 2,
+			"modleId": 1056,
+			"name": "Concentration",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Leva05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410562,
+			"clothesId": 0
+		},
+		{
+			"id": 105701,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Deep Sleep",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_01_Idle",
+			"uiicon": "Robella01",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105702,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Zoning Out",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_02_Idle",
+			"uiicon": "Robella02",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 0,
+			"clothesId": 0
+		},
+		{
+			"id": 105703,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Playing Games",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_03_Idle",
+			"uiicon": "Robella03",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410571,
+			"clothesId": 0
+		},
+		{
+			"id": 105704,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Observing",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_04_Idle",
+			"uiicon": "Robella04",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410571,
+			"clothesId": 0
+		},
+		{
+			"id": 105705,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Pondering",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_05_Idle",
+			"uiicon": "Robella05",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"unlockType": 410572,
+			"clothesId": 0
+		},
+		{
+			"id": 105706,
+			"type": 2,
+			"modleId": 1057,
+			"name": "Navigation",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_06_Idle",
+			"uiicon": "Robella06",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"clothesId": 1105701,
+			"unlockType": 0
 		}
 	]
 }

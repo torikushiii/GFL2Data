@@ -4057,7 +4057,7 @@
 				101
 			],
 			"textEnums": "23002006",
-			"text": "Event duration"
+			"text": "Duration"
 		},
 		{
 			"id": 101358,
@@ -5427,7 +5427,7 @@
 				101
 			],
 			"textEnums": "271142",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Combat Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 106028,
@@ -6120,7 +6120,7 @@
 				101
 			],
 			"textEnums": "23003001",
-			"text": ""
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Combat Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 106093,
@@ -8722,7 +8722,7 @@
 				102
 			],
 			"textEnums": "271142",
-			"text": ""
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Combat Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 111028,
@@ -9415,7 +9415,7 @@
 				102
 			],
 			"textEnums": "23003001",
-			"text": ""
+			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 111093,
@@ -13584,7 +13584,7 @@
 				103
 			],
 			"textEnums": "23002006",
-			"text": "Event duration"
+			"text": "Duration"
 		},
 		{
 			"id": 132358,
@@ -16686,6 +16686,68 @@
 			"text": "Event is over"
 		},
 		{
+			"id": 176801,
+			"activityId": 18001,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "271122",
+			"text": "Opens in {0}"
+		},
+		{
+			"id": 176802,
+			"activityId": 18001,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 176803,
+			"activityId": 18001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994023
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176804,
+			"activityId": 18001,
+			"textType": 2,
+			"textTypeId": [
+				2005,
+				994024
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176805,
+			"activityId": 18001,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 176806,
+			"activityId": 18001,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
 			"id": 180001,
 			"activityId": 50001,
 			"textType": 2,
@@ -17657,7 +17719,7 @@
 				201
 			],
 			"textEnums": "271142",
-			"text": "When the Shop Rating reaches its highest level, additional Sticky Notes can be exchanged for Sardis Gold, Combat Reports and Analysis Blueprints until the exchange limit is reached."
+			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Battle Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 180090,
@@ -18350,7 +18412,7 @@
 				201
 			],
 			"textEnums": "23003001",
-			"text": "Once the Shop Rating reaches S level, extra Highly Rated Sticky Notes will be converted to Sardis Gold, Combat Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
+			"text": "Once the Shop Rating reaches S level, your highest grade Highly Rated Sticky Notes will be converted to Sardis Gold, Combat Reports and Analysis Blueprints. Once the exchange limit is reached, no further exchange is possible."
 		},
 		{
 			"id": 180153,

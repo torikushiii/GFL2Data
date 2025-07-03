@@ -1304,6 +1304,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 17009,
+			"condition": [
+				99999
+			],
+			"prompt": "Locked",
+			"unlockName": "Storeroom - Growth Data",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 18000,
 			"condition": [
 				99999
@@ -1456,6 +1471,19 @@
 			"lockType": 1,
 			"prompt": "",
 			"unlockName": "Curio Gallery",
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20008,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "Load Settings",
+			"conditionType": 0,
+			"condition": [],
 			"interfaceId": 0,
 			"icon": "",
 			"homeButtonRedhint": 0,
@@ -1871,6 +1899,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 28011,
+			"condition": [
+				99999
+			],
+			"prompt": "Locked",
+			"unlockName": "Phase Clash",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 29000,
 			"condition": [
 				29000
@@ -2041,7 +2084,7 @@
 				99999
 			],
 			"lockType": 1,
-			"prompt": "",
+			"prompt": "Locked",
 			"unlockName": "Dark Zone - Event Mode",
 			"conditionType": 0,
 			"interfaceId": 0,
@@ -2439,18 +2482,18 @@
 		},
 		{
 			"id": 37001,
+			"conditionType": 1,
 			"condition": [
-				99999
+				37001
 			],
-			"prompt": "",
+			"prompt": "Unlocked upon reaching Commander Level 25",
 			"icon": "Icon_NewFunctionUnlock_Control_Fight",
-			"unlockName": "Roguelike System",
-			"conditionType": 0,
+			"unlockName": "Artifact Recovery",
+			"sequence": 45,
 			"lockType": 0,
 			"interfaceId": 0,
 			"homeButtonRedhint": 0,
-			"openDetail": "0",
-			"sequence": 0
+			"openDetail": "0"
 		},
 		{
 			"id": 38001,
@@ -2520,6 +2563,21 @@
 			],
 			"prompt": "Complete Story Campaign Normal Stage SL-2-2",
 			"unlockName": "Collection Display",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 38006,
+			"condition": [
+				99999
+			],
+			"prompt": "Locked",
+			"unlockName": "Pattern Remolder",
+			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",

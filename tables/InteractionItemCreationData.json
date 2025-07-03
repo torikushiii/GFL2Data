@@ -371,6 +371,26 @@
 			"triggerCount": 1
 		},
 		{
+			"id": 1104,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
+			"id": 1105,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
 			"id": 1900,
 			"create": 1,
 			"lifetime": -1,
@@ -422,6 +442,16 @@
 		},
 		{
 			"id": 10014,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 1,
+			"belongCamp": 1,
+			"userCamp": 4,
+			"setTrigger": 1,
+			"triggerCount": -1
+		},
+		{
+			"id": 10015,
 			"create": 1,
 			"lifetime": -1,
 			"manualType": 1,

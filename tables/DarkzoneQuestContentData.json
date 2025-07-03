@@ -321,6 +321,54 @@
 			"targetArgs": {
 				"4037036": 1
 			}
+		},
+		{
+			"targetId": 5011001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5011002": 1
+			}
+		},
+		{
+			"targetId": 5021001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5021007": 1
+			}
+		},
+		{
+			"targetId": 5031001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5031132": 1
+			}
+		},
+		{
+			"targetId": 5041001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5041121": 1
+			}
+		},
+		{
+			"targetId": 5051001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5051177": 1
+			}
+		},
+		{
+			"targetId": 5061001,
+			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
+			"targetType": 7,
+			"targetArgs": {
+				"5061002": 1
+			}
 		}
 	]
 }

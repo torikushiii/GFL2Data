@@ -937,6 +937,32 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7231275,
+			"weaponSkinType": 4,
+			"name": "Skin - Emerald Edge Sight",
+			"order": 627,
+			"openType": 3,
+			"skinItem": 7231275,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SSR_Set007_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7231315,
+			"weaponSkinType": 4,
+			"name": "Skin - Shining Horizon Sight",
+			"order": 631,
+			"openType": 3,
+			"skinItem": 7231315,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SSR_Set008_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331005,
 			"weaponSkinType": 4,
 			"name": "Skin - Grey Meteor",
@@ -1288,6 +1314,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7331224,
+			"weaponSkinType": 4,
+			"name": "Skin - Dove's Sight",
+			"order": 122,
+			"openType": 3,
+			"skinItem": 7331224,
+			"rank": 4,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_C017_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7331225,
 			"weaponSkinType": 4,
 			"name": "Skin - Perfect Service",
@@ -1297,6 +1336,58 @@
 			"rank": 5,
 			"type": 1012,
 			"resPath": "Sights/Scope_SR_Cla_Centaureissi_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331235,
+			"weaponSkinType": 4,
+			"name": "Skin - Wordless Smile",
+			"order": 523,
+			"openType": 3,
+			"skinItem": 7331235,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Leva_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331245,
+			"weaponSkinType": 4,
+			"name": "Skin - Lioness' Trust",
+			"order": 524,
+			"openType": 3,
+			"skinItem": 7331245,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Lenna_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331255,
+			"weaponSkinType": 4,
+			"name": "Skin - Mechanical Heart",
+			"order": 525,
+			"openType": 3,
+			"skinItem": 7331255,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Robella_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7331265,
+			"weaponSkinType": 4,
+			"name": "Skin - Ethereal Shower",
+			"order": 526,
+			"openType": 3,
+			"skinItem": 7331265,
+			"rank": 5,
+			"type": 1012,
+			"resPath": "Sights/Scope_SR_Cla_Jiangyu_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1496,6 +1587,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7332204,
+			"weaponSkinType": 4,
+			"name": "Skin - Bolt Muzzle",
+			"order": 120,
+			"openType": 3,
+			"skinItem": 7332204,
+			"rank": 4,
+			"type": 2012,
+			"resPath": "Silencers/Muzzle_SR_Cla_C016_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7332225,
 			"weaponSkinType": 4,
 			"name": "Skin - Love Magic Muzzle",
@@ -1505,6 +1609,32 @@
 			"rank": 5,
 			"type": 2011,
 			"resPath": "Silencers/Muzzle_SSR_Set006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7332265,
+			"weaponSkinType": 4,
+			"name": "Skin - Emerald Edge Muzzle",
+			"order": 626,
+			"openType": 3,
+			"skinItem": 7332265,
+			"rank": 5,
+			"type": 2011,
+			"resPath": "Silencers/Muzzle_SSR_Set007_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7332305,
+			"weaponSkinType": 4,
+			"name": "Skin - Shining Horizon Muzzle",
+			"order": 630,
+			"openType": 3,
+			"skinItem": 7332305,
+			"rank": 5,
+			"type": 2011,
+			"resPath": "Silencers/Muzzle_SSR_Set008_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1678,6 +1808,19 @@
 			"weaponModId": 0
 		},
 		{
+			"id": 7333194,
+			"weaponSkinType": 4,
+			"name": "Skin - Bolt Underbarrel Underbarrel",
+			"order": 119,
+			"openType": 3,
+			"skinItem": 7333194,
+			"rank": 4,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SR_Cla_D016_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
 			"id": 7333215,
 			"weaponSkinType": 4,
 			"name": "Skin - Love Magic Underbarrel",
@@ -1687,6 +1830,32 @@
 			"rank": 5,
 			"type": 3011,
 			"resPath": "Lights/Hangdown_SSR_Set006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7333255,
+			"weaponSkinType": 4,
+			"name": "Skin - Emerald Edge Underbarrel",
+			"order": 625,
+			"openType": 3,
+			"skinItem": 7333255,
+			"rank": 5,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SSR_Set007_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7333295,
+			"weaponSkinType": 4,
+			"name": "Skin - Shining Horizon Underbarrel",
+			"order": 629,
+			"openType": 3,
+			"skinItem": 7333295,
+			"rank": 5,
+			"type": 3011,
+			"resPath": "Lights/Hangdown_SSR_Set008_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},
@@ -1986,6 +2155,45 @@
 			"rank": 5,
 			"type": 12011,
 			"resPath": "Grip/Grip_SSR_Set006_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336214,
+			"weaponSkinType": 4,
+			"name": "Skin - Dove's Foregrip",
+			"order": 121,
+			"openType": 3,
+			"skinItem": 7336214,
+			"rank": 4,
+			"type": 12011,
+			"resPath": "Grip/Grip_SR_Cla_D017_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336245,
+			"weaponSkinType": 4,
+			"name": "Skin - Emerald Edge Foregrip",
+			"order": 624,
+			"openType": 3,
+			"skinItem": 7336245,
+			"rank": 5,
+			"type": 12011,
+			"resPath": "Grip/Grip_SSR_Set007_3",
+			"unlock": 0,
+			"weaponModId": 0
+		},
+		{
+			"id": 7336285,
+			"weaponSkinType": 4,
+			"name": "Skin - Shining Horizon Foregrip",
+			"order": 628,
+			"openType": 3,
+			"skinItem": 7336285,
+			"rank": 5,
+			"type": 12011,
+			"resPath": "Grip/Grip_SSR_Set008_3",
 			"unlock": 0,
 			"weaponModId": 0
 		},

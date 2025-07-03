@@ -78,7 +78,7 @@
 		},
 		{
 			"id": 9,
-			"sequence": 6,
+			"sequence": 7,
 			"title": "Item Box",
 			"canSold": [
 				0
@@ -92,7 +92,7 @@
 		},
 		{
 			"id": 10,
-			"sequence": 7,
+			"sequence": 8,
 			"title": "Souvenirs",
 			"canSold": [
 				0
@@ -104,7 +104,7 @@
 		},
 		{
 			"id": 11,
-			"sequence": 8,
+			"sequence": 9,
 			"title": "Curio Storage Box",
 			"unlock": 38005,
 			"canSold": [

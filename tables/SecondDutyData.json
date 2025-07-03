@@ -219,6 +219,21 @@
 			"id": 44,
 			"name": "Multi-Buff",
 			"description": "Can apply a variety of buff effects"
+		},
+		{
+			"id": 45,
+			"name": "Break Conversion",
+			"description": "Excess stability damage is converted to additional damage."
+		},
+		{
+			"id": 46,
+			"name": "Emergency Support",
+			"description": ""
+		},
+		{
+			"id": 47,
+			"name": "Burst Damage",
+			"description": ""
 		}
 	]
 }

@@ -5719,6 +5719,38 @@
 			"description": "Eliminate the Aegis SWAP Dominator within 5 turns"
 		},
 		{
+			"id": 13726,
+			"type": 37,
+			"args": [
+				"67113",
+				"3",
+				"4"
+			],
+			"argsFail": [
+				"67113",
+				"3",
+				"4"
+			],
+			"title": "Tactical Strike",
+			"description": "Kill 3 Moppy 1.5 - Sanitizer Model 3s within 4 turns"
+		},
+		{
+			"id": 13727,
+			"type": 37,
+			"args": [
+				"6702",
+				"1",
+				"5"
+			],
+			"argsFail": [
+				"6702",
+				"1",
+				"5"
+			],
+			"title": "Tactical Strike",
+			"description": "Eliminate the Strike Captain within 5 turns"
+		},
+		{
 			"id": 13801,
 			"type": 38,
 			"args": [

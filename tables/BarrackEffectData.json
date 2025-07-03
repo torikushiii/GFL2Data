@@ -11,11 +11,6 @@
 			"lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon"
 		},
 		{
-			"id": 100201,
-			"effectPath": "ColphneR_01",
-			"lgpPath": "lgp_Root"
-		},
-		{
 			"id": 100301,
 			"effectPath": "NemesisR01_01",
 			"lgpPath": "lgp_Root"
@@ -164,6 +159,16 @@
 			"id": 103301,
 			"effectPath": "MosinnagantSSR01@c_MosinnagantSSR01_Bullet",
 			"lgpPath": "root"
+		},
+		{
+			"id": 105601,
+			"effectPath": "LevaSSR_Entrance_Normal_Elbow_R",
+			"lgpPath": "root/Root_M/Spine1_M/Spine2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/Elbow_R"
+		},
+		{
+			"id": 105602,
+			"effectPath": "LevaSSR_Entrance_Normal_Elbow_R_sub",
+			"lgpPath": "root/Root_M/Spine1_M/Spine2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/Elbow_R"
 		}
 	]
 }

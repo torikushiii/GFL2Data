@@ -221,6 +221,24 @@
 			"canReconnect": true,
 			"preparationCountdown": 0,
 			"canReconnectText": 0
+		},
+		{
+			"id": 62,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 63,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 64,
+			"canReconnect": true,
+			"preparationCountdown": 0,
+			"canReconnectText": 0
 		}
 	]
 }

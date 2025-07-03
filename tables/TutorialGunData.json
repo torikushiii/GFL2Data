@@ -213,15 +213,15 @@
 		{
 			"id": 39016,
 			"sourceGunid": 1052,
-			"briefIntro": "A powerful Corrosion Sentinel Doll, capable of applying various debuffs to enemy units and delivering devastating blows to large groups of enemies.",
+			"briefIntro": "Klukai is a Sentinel-class Doll who can apply many kinds of debuff effects to the enemy, such as [Corrosive Infusion], which deals sustained AoE Corrosion damage based on the number of stacks applied, as well as [Toxic Infiltration], which can infect surrounding enemies and deal AoE Corrosion damage to them when a carrier dies.",
 			"iconSkill1": 10520501,
-			"textSkill1": "Inflicts AoE Corrosion damage on the target. Launches an additional attack, dealing AoE Corrosion damage to the target and surrounding enemy units while pulling them in. If any kills are made, the cooldown of the Ultimate skill Devastating Drift is reduced, and gains Confectance Index. If no kills are made, [Corrosive Infusion] is applied to the target. At the end of action, units with [Corrosive Infusion] suffer AoE Corrosion damage.",
+			"textSkill1": "Deals AoE Corrosion damage to the target. Performs an additional attack which deals AoE Corrosion damage to the target and surrounding enemy units as well as pulling all targets toward the center of the effect. \nIf this skill manages to kill any targets, the cooldown for the Ultimate Skill Devastating Drift is reduced and Klukai gains Confectance Index. If it does not score any kills, apply 1 stack of [Corrosive Infusion] to the target. At the end of this unit's turn, targets with [Corrosive Infusion] will take AoE Corrosion damage.",
 			"iconSkill2": 10520701,
-			"textSkill2": "Deals AoE Corrosion damage to the target and surrounding enemy units, and applies [Toxic Infiltration]. Units with [Toxic Infiltration] will gain [Corrosive Infusion] at the end of their action, and upon death, their nearby allied units will be infected and suffer AoE Corrosion damage. Damage dealt to targets already afflicted with [Toxic Infiltration] is increased.",
+			"textSkill2": "Deals AoE Corrosion damage to the target and all enemy targets within 3 tiles and applies [Toxic Infiltration]. At the end of the turn of a unit with [Toxic Infiltration], they gain [Corrosive Infiltration]; upon death, it infects surrounding ally units and deals AoE Corrosion damage to them \nAgainst targets who already have [Toxic Infiltration], damage dealt is increased.",
 			"iconSkill3": 10520401,
 			"textSkill3": "Selects 1 nearby tile and lands onto it, dealing AoE Corrosion damage to all enemy units in the path. If 2 or more targets are killed, the skill can be cast again. After using the skill, Klukai gains an Additional Movement.",
 			"iconSkill4": 10520801,
-			"textSkill4": "Immune to control effects. When dealing damage with active attacks, applies 1 stack of [Corrosive Infusion] to the target and increases Klukai's Corrosion damage. Klukai gains Confectance Index when Corrosion damage is dealt by self active attacks and allied units. The cooldown of the ultimate skill is reduced based on the amount of Confectance Index accumulated.",
+			"textSkill4": "Immune to control effects. When an active attack deals damage, applies 1 stack of [Corrosive Infusion] to the target. In addition, Klukai gains 1 stack of [Competitive Spirit], which increases Corrosion damage dealt. \nWhen Klukai performs an active attack or when other allied units deal Corrosion damage, she gains Confectance Index. Her Ultimate skill's cooldown is reduced based on the amount of Confectance Index gained.",
 			"gunTags": ""
 		},
 		{
@@ -348,6 +348,34 @@
 			"textSkill3": "Deals Hydro damage. If the target is inflicted with [Guilt], launch an additional attack and remove [Guilt].\nConsume all points of Confectance Index, increasing the skill's damage based on the amount of Confectance Index consumed.",
 			"iconSkill4": 10550801,
 			"textSkill4": "When Kulich is on the field, Nikketa gains [Insight].\nBoth Kulich and Nikketa will gain one stack of [Clue] before either launches a skill. If the attack exploits a phase weakness, gain additional [Clue] and increase the holder's damage outside their turn.\nAfter Kulich counterattacks, Nikketa will follow up using her Ultimate skill Righteous Verdict.",
+			"gunTags": ""
+		},
+		{
+			"id": 39026,
+			"sourceGunid": 1056,
+			"briefIntro": "Leva is a Sentinel-class Doll who can convert excess stability damage into Electric damage and generate large amounts of voltage tiles. In addition, Leva has access to the special combat resource [Superconductive Code]. When using the additional active skill [Superconductive Flash], it expends all stacks of [Superconductive Code] to increase damage dealt.",
+			"iconSkill1": 10560501,
+			"textSkill1": "Selects 1 direction and deals AoE Electric damage to all enemy targets within the skill's area-of-effect, applies [Anion] to them, and generates Voltage tiles.",
+			"iconSkill2": 10560701,
+			"textSkill2": "Deals AoE Electric damage to the target and all enemy units around it. Against targets with [Anion], damage and stability damage dealt is increased.",
+			"iconSkill3": 10560401,
+			"textSkill3": "Leva deals AoE Electric damage to all enemy units around herself and generates Voltage tiles. She gains [Superframe Strike] and if she deals overflow stability damage, she deals additional Electric damage instead.",
+			"iconSkill4": 10560801,
+			"textSkill4": "At the start of the turn or when triggering a Voltage tile reaction, Leva gains 1 stack of [Superconductive Code]. When Leva has [Cation], Electric damage dealt is increased.\nIf an enemy target within attack range gains Anion, performs Wise Support on said target, dealing melee Electric damage and gaining Confectance Index. If this kills the enemy target, applies [Anion] to the nearest enemy unit within range.",
+			"gunTags": ""
+		},
+		{
+			"id": 39027,
+			"sourceGunid": 1057,
+			"briefIntro": "Robella is a Sentinel-class Doll who builds up stacks of [Sense Weakness] by attacking targets with [Inspection] stacks, allowing her to deal massive damage. In addition, she can provide [Unity], allowing her to follow up on attacks by allied units and apply [Inspection] to their targets.",
+			"iconSkill1": 10570501,
+			"textSkill1": "Applies [Unity] to allied targets. Gains [Extra Command] after using this skill. \n[Unity]: When dealing Freeze damage, attack is increased. When a unit with this status performs an active attack, or when performing Interception that deals damage to an enemy target, Robella applies [Inspection] and deals additional Freeze Damage to the target. \n[Inspection]: At the end of the target's action, if it is in Robella's vicinity, it takes [Frigid Infiltration] from Robella and takes Freeze Damage.",
+			"iconSkill2": 10570701,
+			"textSkill2": "Gains [Radiant Elevation], increasing damage dealt by Robella. In addition, it upgrades all instances of [Unity] and [Inspection] on the battlefield to their enhanced versions, increasing their numerical multipliers. After this skill, gains [Frost Barrier].",
+			"iconSkill3": 10570401,
+			"textSkill3": "Deal AoE Freeze Damage to all targets in a fan-shaped area.",
+			"iconSkill4": 10570801,
+			"textSkill4": "Robella gains Confectance Index at the end of her action. \nAfter performing [Frigid Infiltration], expends all stacks of [Inspection] on the target and gains an equal number of [Sense Weakness], which increases the damage of basic attacks and Ultimate skills.\nWhen Robella has more than 2 stacks of [Sense Weakness], her basic attacks deal Freeze damage and her critical rate is increased.",
 			"gunTags": ""
 		}
 	]

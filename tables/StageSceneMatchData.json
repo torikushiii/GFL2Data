@@ -7019,6 +7019,138 @@
 			"scene": "Main/Event/Lene/l_event_sim_Lene_puzzle_05/l_event_sim_Lene_puzzle_05",
 			"levelNode": "Main/Event/Lene/l_event_sim_Lene_puzzle_05",
 			"isDarkzone": false
+		},
+		{
+			"sceneId": 1669,
+			"scene": "Main/Yellow/l_main_yellow_park_03/l_main_yellow_park_03",
+			"levelNode": "Main/Yellow/l_main_yellow_park_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1670,
+			"scene": "SIM/l_sim_guild/l_sim_guild_boss_05/l_sim_guild_boss_05",
+			"levelNode": "Sim/l_sim_guild/l_sim_guild_boss_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1671,
+			"scene": "SIM/l_sim_together/l_sim_together_1_47/l_sim_together_1_47",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_47",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1672,
+			"scene": "SIM/l_sim_expand/l_sim_expand_34_10/l_sim_expand_34_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_34_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1673,
+			"scene": "Main/Event/Lene/l_event_generate_Lene_challenge_03/l_event_generate_Lene_challenge_03",
+			"levelNode": "Main/Event/Lene/l_event_generate_Lene_challenge_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1674,
+			"scene": "Main/Event/Lene/l_event_generate_Lene_challenge_05/l_event_generate_Lene_challenge_05",
+			"levelNode": "Main/Event/Lene/l_event_generate_Lene_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1675,
+			"scene": "Main/Event/Lene/l_event_sim_lene_01/l_event_sim_lene_01",
+			"levelNode": "Main/Event/Lene/l_event_sim_lene_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1676,
+			"scene": "Main/Event/Lene/l_event_sim_lene_02/l_event_sim_lene_02",
+			"levelNode": "Main/Event/Lene/l_event_sim_lene_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1677,
+			"scene": "Main/Event/Lene/l_event_sim_lene_03/l_event_sim_lene_03",
+			"levelNode": "Main/Event/Lene/l_event_sim_lene_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1678,
+			"scene": "Main/Event/Ex/l_Ex_windfield_2_1/l_Ex_windfield_2_1",
+			"levelNode": "Main/Event/Ex/windfield/l_Ex_windfield_2_1",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1679,
+			"scene": "Main/Event/Ex/l_Ex_windfield_2_2/l_Ex_windfield_2_2",
+			"levelNode": "Main/Event/Ex/windfield/l_Ex_windfield_2_2",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1680,
+			"scene": "Main/Event/Florence/l_event_sim_Florence_operation_05/l_event_sim_Florence_operation_05",
+			"levelNode": "Main/Event/Florence/l_event_sim_Florence_operation_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1681,
+			"scene": "SIM/l_sim_TestZ/l_sim_TestZ",
+			"levelNode": "Sim/l_sim_TestZ",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1682,
+			"scene": "SIM/l_sim_expand/l_sim_expand_35_10/l_sim_expand_35_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_35_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1683,
+			"scene": "SIM/l_sim_expand/l_sim_expand_36_10/l_sim_expand_36_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_36_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1684,
+			"scene": "SIM/l_sim_together/l_sim_together_1_48/l_sim_together_1_48",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_48",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1685,
+			"scene": "Weekly/l_weekly_Bellator/l_weekly_Bellator_01/l_weekly_Bellator_01",
+			"levelNode": "Weekly/l_weekly_Bellator/l_weekly_Bellator_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1686,
+			"scene": "SIM/l_sim_challenge/l_sim_challenge_46/l_sim_challenge_46",
+			"levelNode": "Sim/l_sim_challenge/l_sim_challenge_46",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1687,
+			"scene": "SIM/l_sim_together/l_sim_together_1_49/l_sim_together_1_49",
+			"levelNode": "Sim/l_sim_together/l_sim_together_1_49",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1689,
+			"scene": "Main/Event/Florence/l_event_generate_Florence_challenge_05/l_event_generate_Florence_challenge_05",
+			"levelNode": "Main/Event/Florence/l_event_generate_Florence_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1690,
+			"scene": "Main/Yellow/l_main_yellow_dollArena_01/l_main_yellow_dollArena_01",
+			"levelNode": "Main/Yellow/l_main_yellow_dollArena_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1691,
+			"scene": "Main/Yellow/l_main_yellow_dollArenaStands_01/l_main_yellow_dollArenaStands_01",
+			"levelNode": "Main/Yellow/l_main_yellow_dollArenaStands_01",
+			"isDarkzone": false
 		}
 	]
 }

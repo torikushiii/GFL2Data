@@ -2785,6 +2785,14 @@
 			"chars": "Boss, it's time we withdrew."
 		},
 		{
+			"id": 71239,
+			"chars": "Time to withdraw now~"
+		},
+		{
+			"id": 71240,
+			"chars": "Mission complete, I'll be off now~"
+		},
+		{
 			"id": 72001,
 			"chars": "Confirm Rewind"
 		},
@@ -4185,6 +4193,10 @@
 			"chars": "Corrosion"
 		},
 		{
+			"id": 82506,
+			"chars": "Physical"
+		},
+		{
 			"id": 82510,
 			"chars": "Ammunition Type"
 		},
@@ -4674,7 +4686,7 @@
 		},
 		{
 			"id": 90109,
-			"chars": "<color=#3487e0>Action Support</color>: Considered a Support Attack. Launch one attack; cannot be triggered by another Support Attack."
+			"chars": "<color=#3487e0>Action Support</color>: Considered a Support Attack. Launches one attack; cannot be triggered by another Support Attack."
 		},
 		{
 			"id": 90110,
@@ -7442,7 +7454,7 @@
 		},
 		{
 			"id": 107004,
-			"chars": "Ten accesses guarantee a standard or higher rarity object\nClick [Access Details] for Sarr Database access information and object probability."
+			"chars": "Ten accesses guarantee a standard or higher rarity item.\nClick [Access Details] for Sarr Database access information and object probability."
 		},
 		{
 			"id": 107005,
@@ -8518,11 +8530,11 @@
 		},
 		{
 			"id": 109020,
-			"chars": "Resume viewing"
+			"chars": "Resume Story"
 		},
 		{
 			"id": 109021,
-			"chars": "Skip the storyline"
+			"chars": "Skip Story"
 		},
 		{
 			"id": 109022,
@@ -12254,7 +12266,7 @@
 		},
 		{
 			"id": 222006,
-			"chars": "Deep Exploration"
+			"chars": "In-Depth Search"
 		},
 		{
 			"id": 222007,
@@ -13285,6 +13297,10 @@
 			"chars": "Boulders cannot be broken without a SG Doll"
 		},
 		{
+			"id": 240909,
+			"chars": "No Dolls available"
+		},
+		{
 			"id": 250001,
 			"chars": "Damage"
 		},
@@ -13814,19 +13830,19 @@
 		},
 		{
 			"id": 252012,
-			"chars": "{0}<color=#f26c1c> × {1}%</color>"
+			"chars": "{0}<color=#f26c1c>× {1}%</color>"
 		},
 		{
 			"id": 252013,
-			"chars": "{0}<color=#00b77d> × {1}%</color>"
+			"chars": "{0}<color=#00b77d>× {1}%</color>"
 		},
 		{
 			"id": 252014,
-			"chars": "<color=#00b77d>{0}</color><color=#f26c1c> × {1}%</color>"
+			"chars": "<color=#00b77d>{0}</color><color=#f26c1c>× {1}%</color>"
 		},
 		{
 			"id": 252015,
-			"chars": "<color=#00b77d>{0}</color><color=#00b77d> × {1}%</color>"
+			"chars": "<color=#00b77d>{0}</color><color=#00b77d>× {1}%</color>"
 		},
 		{
 			"id": 260001,
@@ -14930,15 +14946,15 @@
 		},
 		{
 			"id": 260276,
-			"chars": "<color=#c6815a>Anniversary</color> Celebration - Lavish Giveaways"
+			"chars": "<color=#c6815a>Joyful</color> Festivity Gift Giveaway"
 		},
 		{
 			"id": 260277,
-			"chars": "Log in and receive <color=#c84722>60 rolls</color>"
+			"chars": "Log in to receive <color=#c84722>40 pulls</color>"
 		},
 		{
 			"id": 260278,
-			"chars": "Take part in the event and receive a further <color=#c84722>60+ rolls</color>"
+			"chars": "Take part in the event to obtain massive quantities of <color=#c84722>Collapse Pieces</color>."
 		},
 		{
 			"id": 260279,
@@ -14986,7 +15002,7 @@
 		},
 		{
 			"id": 260290,
-			"chars": "Elite Doll - Faye"
+			"chars": "Elite Doll"
 		},
 		{
 			"id": 260291,
@@ -14994,7 +15010,7 @@
 		},
 		{
 			"id": 260292,
-			"chars": "Mayling's Blessing"
+			"chars": "Mayling's Gifts"
 		},
 		{
 			"id": 260293,
@@ -15014,7 +15030,7 @@
 		},
 		{
 			"id": 260297,
-			"chars": "New Wish"
+			"chars": "Rookie Broker's Invoice"
 		},
 		{
 			"id": 260298,
@@ -15022,11 +15038,11 @@
 		},
 		{
 			"id": 260299,
-			"chars": "Journey Supplies"
+			"chars": "Access Pack"
 		},
 		{
 			"id": 260300,
-			"chars": "Free 10-Pull"
+			"chars": "Limited Time Loop Access Twinpack"
 		},
 		{
 			"id": 260301,
@@ -15047,6 +15063,54 @@
 		{
 			"id": 260305,
 			"chars": "Claimed"
+		},
+		{
+			"id": 260306,
+			"chars": "Faye"
+		},
+		{
+			"id": 260307,
+			"chars": "7000+"
+		},
+		{
+			"id": 260308,
+			"chars": "6"
+		},
+		{
+			"id": 260309,
+			"chars": "6"
+		},
+		{
+			"id": 260310,
+			"chars": "Mímisbrunnr's Loop"
+		},
+		{
+			"id": 260311,
+			"chars": "Queen In Radiance"
+		},
+		{
+			"id": 260312,
+			"chars": "Limited Time Offer - Couturier Surprise Voucher"
+		},
+		{
+			"id": 260313,
+			"chars": "Will be distributed by mail"
+		},
+		{
+			"id": 260314,
+			"chars": "Daybreak Twin Pack"
+		},
+		{
+			"id": 260315,
+			"chars": "Custom Gift Box"
+		},
+		{
+			"id": 260364,
+			"chars": "Your Couturier Surprise Voucher can be claimed via mail"
+		},
+		{
+			"id": 260365,
+			"chars": "Claim via mail"
 		},
 		{
 			"id": 270000,
@@ -16094,7 +16158,7 @@
 		},
 		{
 			"id": 270261,
-			"chars": "Deployed Doll"
+			"chars": "Deployable Dolls"
 		},
 		{
 			"id": 270262,
@@ -17394,7 +17458,7 @@
 		},
 		{
 			"id": 274009,
-			"chars": "Event duration: {0}-{1}"
+			"chars": "Duration: {0} - {1}"
 		},
 		{
 			"id": 274010,
@@ -17470,7 +17534,7 @@
 		},
 		{
 			"id": 274201,
-			"chars": "Zucchero Cat Cafe"
+			"chars": "Zucchero Cat Café"
 		},
 		{
 			"id": 274202,
@@ -17570,15 +17634,15 @@
 		},
 		{
 			"id": 274310,
-			"chars": "Elmo Discotheque"
+			"chars": "Rhythmic Tempo"
 		},
 		{
 			"id": 274311,
-			"chars": "Springtime Surprise"
+			"chars": "Memory Puzzle"
 		},
 		{
 			"id": 274312,
-			"chars": "Spring Harvest"
+			"chars": "Operation Gourmand"
 		},
 		{
 			"id": 274313,
@@ -17625,12 +17689,76 @@
 			"chars": "Over"
 		},
 		{
+			"id": 274401,
+			"chars": "Speed Blitz"
+		},
+		{
+			"id": 274402,
+			"chars": "Assault Simulation - Season 3"
+		},
+		{
+			"id": 274403,
+			"chars": "Artifact Recovery - Season 2"
+		},
+		{
+			"id": 274404,
+			"chars": "Pathforger - Season 2"
+		},
+		{
+			"id": 274405,
+			"chars": "Challenge Mode - Part I"
+		},
+		{
+			"id": 274406,
+			"chars": "Challenge Mode - Part II"
+		},
+		{
+			"id": 274407,
+			"chars": "Secret Order"
+		},
+		{
+			"id": 274408,
+			"chars": "Temporary Base"
+		},
+		{
+			"id": 274409,
+			"chars": "{0}.{1}.{2}/{3}:{4}-{5}.{6}.{7}/{8}:{9}"
+		},
+		{
+			"id": 274410,
+			"chars": "{0} Days Left"
+		},
+		{
+			"id": 274411,
+			"chars": "Closed"
+		},
+		{
+			"id": 274412,
+			"chars": "Ended"
+		},
+		{
+			"id": 274413,
+			"chars": "Opens in {0} day(s)"
+		},
+		{
+			"id": 274414,
+			"chars": "Ends in {0} day(s)"
+		},
+		{
+			"id": 274415,
+			"chars": "Story"
+		},
+		{
+			"id": 274416,
+			"chars": "Supply"
+		},
+		{
 			"id": 275000,
-			"chars": "Zucchero Cat Cafe"
+			"chars": "Zucchero Cat Café"
 		},
 		{
 			"id": 275001,
-			"chars": "Cat Cafe Level"
+			"chars": "Cat Café Level："
 		},
 		{
 			"id": 275002,
@@ -17666,7 +17794,7 @@
 		},
 		{
 			"id": 275010,
-			"chars": "Cat Cafe Level Preview"
+			"chars": "Cat Café Level Preview"
 		},
 		{
 			"id": 275011,
@@ -17694,11 +17822,11 @@
 		},
 		{
 			"id": 275017,
-			"chars": "Attract more cats to raise your Cat Cafe Level"
+			"chars": "Attract more cats to raise your Cat Café Level"
 		},
 		{
 			"id": 275018,
-			"chars": "Raise your Cat Cafe Level to unlock more content"
+			"chars": "Raise your Cat Café Level to unlock more content"
 		},
 		{
 			"id": 275019,
@@ -17706,7 +17834,7 @@
 		},
 		{
 			"id": 275020,
-			"chars": "Zucchero Special Blend"
+			"chars": "Zucchero Cat's Special Blend"
 		},
 		{
 			"id": 275021,
@@ -17774,7 +17902,7 @@
 		},
 		{
 			"id": 275037,
-			"chars": "Unlock more customers by raising the Cat Cafe level"
+			"chars": "Unlock more customers by raising the Cat Café level"
 		},
 		{
 			"id": 275038,
@@ -17782,7 +17910,7 @@
 		},
 		{
 			"id": 275039,
-			"chars": "Attract Cats"
+			"chars": "Attract"
 		},
 		{
 			"id": 275040,
@@ -17826,15 +17954,15 @@
 		},
 		{
 			"id": 275050,
-			"chars": "Cats"
+			"chars": "Zucchero Cat"
 		},
 		{
 			"id": 275051,
-			"chars": "Attract Cat"
+			"chars": "Attract"
 		},
 		{
 			"id": 275052,
-			"chars": "Decorate Cat Cafe"
+			"chars": "Decorate"
 		},
 		{
 			"id": 275053,
@@ -17862,11 +17990,11 @@
 		},
 		{
 			"id": 275059,
-			"chars": "Cafe Cat Gallery"
+			"chars": "Zucchero Cat Gallery"
 		},
 		{
 			"id": 275060,
-			"chars": "Having more cats allows you to raise your Cat Cafe Level"
+			"chars": "Attract more cats to raise your Cat Café Level"
 		},
 		{
 			"id": 275061,
@@ -17878,7 +18006,7 @@
 		},
 		{
 			"id": 275063,
-			"chars": "Cat Cafe Level Up"
+			"chars": "Cat Café Level Up"
 		},
 		{
 			"id": 275064,
@@ -17902,15 +18030,15 @@
 		},
 		{
 			"id": 275069,
-			"chars": "A new Cafe Cat has appeared -nya~"
+			"chars": "A new Zucchero Cat has appeared, nya~"
 		},
 		{
 			"id": 275070,
-			"chars": "Cafe Cat Obtained"
+			"chars": "Zucchero Cat Obtained"
 		},
 		{
 			"id": 275071,
-			"chars": "Coffee is sold out; raise your Cat Cafe level to unlock more customers"
+			"chars": "Coffee is sold out; raise your Cat Café level to unlock more customers"
 		},
 		{
 			"id": 275072,
@@ -17930,7 +18058,7 @@
 		},
 		{
 			"id": 275076,
-			"chars": "This Cafe Cat has already appeared"
+			"chars": "This Zucchero Cat has already appeared"
 		},
 		{
 			"id": 275077,
@@ -17938,11 +18066,11 @@
 		},
 		{
 			"id": 275078,
-			"chars": "No Cafe Cats"
+			"chars": "No Zucchero Cats"
 		},
 		{
 			"id": 276001,
-			"chars": "Elmo Discotheque"
+			"chars": "Rhythmic Tempo"
 		},
 		{
 			"id": 276002,
@@ -18058,7 +18186,7 @@
 		},
 		{
 			"id": 277001,
-			"chars": "Springtime Surprise"
+			"chars": "Memory Puzzle"
 		},
 		{
 			"id": 277002,
@@ -18166,7 +18294,7 @@
 		},
 		{
 			"id": 278001,
-			"chars": "Spring Harvest"
+			"chars": "Operation Gourmand"
 		},
 		{
 			"id": 278002,
@@ -18287,6 +18415,30 @@
 		{
 			"id": 278031,
 			"chars": "Top Score"
+		},
+		{
+			"id": 279050,
+			"chars": "Note"
+		},
+		{
+			"id": 279051,
+			"chars": "[{0}] can be claimed for a discount, would you like to claim it?"
+		},
+		{
+			"id": 279052,
+			"chars": "Purchase"
+		},
+		{
+			"id": 279053,
+			"chars": "Claim"
+		},
+		{
+			"id": 279054,
+			"chars": "Voucher ({0})"
+		},
+		{
+			"id": 279055,
+			"chars": "{0}({1} remaining)"
 		},
 		{
 			"id": 280000,
@@ -19586,7 +19738,7 @@
 		},
 		{
 			"id": 320111,
-			"chars": "Tag commonly-used character"
+			"chars": "Mark as Favorite"
 		},
 		{
 			"id": 320112,
@@ -20234,15 +20386,15 @@
 		},
 		{
 			"id": 381005,
-			"chars": "Recovery Encouragement"
+			"chars": "Recovery Level"
 		},
 		{
 			"id": 381006,
-			"chars": "Recovery Mission"
+			"chars": "Recovery Missions"
 		},
 		{
 			"id": 381007,
-			"chars": "Begin exploration"
+			"chars": "Begin Exploration"
 		},
 		{
 			"id": 381008,
@@ -20266,11 +20418,11 @@
 		},
 		{
 			"id": 381013,
-			"chars": "Select Plugin"
+			"chars": "Plugins"
 		},
 		{
 			"id": 381014,
-			"chars": "Select 1 Plugin"
+			"chars": "Select One Plugin"
 		},
 		{
 			"id": 381015,
@@ -20310,11 +20462,11 @@
 		},
 		{
 			"id": 381024,
-			"chars": "Combination"
+			"chars": "Set Effects"
 		},
 		{
 			"id": 381025,
-			"chars": "Plugin"
+			"chars": "Plugins"
 		},
 		{
 			"id": 381026,
@@ -20370,7 +20522,7 @@
 		},
 		{
 			"id": 381039,
-			"chars": "When exploring, <color=#f0d867>{0}</color>"
+			"chars": "Exploration Duration: <color=#f0d867>{0}</color>"
 		},
 		{
 			"id": 381040,
@@ -20478,11 +20630,11 @@
 		},
 		{
 			"id": 381066,
-			"chars": "Choose difficulty"
+			"chars": "Choose Difficulty"
 		},
 		{
 			"id": 381067,
-			"chars": "Hints for different difficulties"
+			"chars": "Difficulty Multipliers"
 		},
 		{
 			"id": 381068,
@@ -20494,7 +20646,7 @@
 		},
 		{
 			"id": 381070,
-			"chars": "Confirm switch"
+			"chars": "Switch"
 		},
 		{
 			"id": 381071,
@@ -20614,7 +20766,7 @@
 		},
 		{
 			"id": 381100,
-			"chars": "Previous difficulty not yet unlocked"
+			"chars": "Previous difficulty not yet completed"
 		},
 		{
 			"id": 381101,
@@ -20626,7 +20778,7 @@
 		},
 		{
 			"id": 381103,
-			"chars": "Continue exploration"
+			"chars": "Continue"
 		},
 		{
 			"id": 381104,
@@ -20638,7 +20790,7 @@
 		},
 		{
 			"id": 381106,
-			"chars": "Do you wish to restart the game? Choosing \"confirm\" will restart the client."
+			"chars": "Do you wish to reset? Choosing \"confirm\" will reset the current deployment."
 		},
 		{
 			"id": 381107,
@@ -20662,7 +20814,7 @@
 		},
 		{
 			"id": 381112,
-			"chars": "<color=#a6a5a5>{0}</color> <color=#408fcc>({1} owned)</color>"
+			"chars": "<color=#408fcc>{1}</color> <color=#a6a5a5>{0}</color> <color=#408fcc>Plugins</color> Owned"
 		},
 		{
 			"id": 381113,
@@ -20670,7 +20822,7 @@
 		},
 		{
 			"id": 381114,
-			"chars": "During the Commander's battles and encounters, determination and wisdom forged their expeditions into success."
+			"chars": "During the battles and encounters, determination and wisdom forged your expeditions into success."
 		},
 		{
 			"id": 381115,
@@ -20714,11 +20866,151 @@
 		},
 		{
 			"id": 381125,
-			"chars": "Can be obtained at Lv.{0}"
+			"chars": "Claim at Lv.{0}"
 		},
 		{
 			"id": 381126,
 			"chars": "Claimable"
+		},
+		{
+			"id": 381127,
+			"chars": "Tactics"
+		},
+		{
+			"id": 381128,
+			"chars": "Select One Tactic"
+		},
+		{
+			"id": 381129,
+			"chars": "Next"
+		},
+		{
+			"id": 381130,
+			"chars": "Combat Style -"
+		},
+		{
+			"id": 381131,
+			"chars": "Refreshes ({0} left)"
+		},
+		{
+			"id": 381132,
+			"chars": "Abandon Selection"
+		},
+		{
+			"id": 381133,
+			"chars": "You will not get any rewards if you abandon them. Do you wish to abandon this selection?"
+		},
+		{
+			"id": 381134,
+			"chars": "Buy"
+		},
+		{
+			"id": 381135,
+			"chars": "Sell"
+		},
+		{
+			"id": 381136,
+			"chars": "Are you sure you want to <color=#F26C1C>sell</color>?"
+		},
+		{
+			"id": 381137,
+			"chars": "Nah, forget it."
+		},
+		{
+			"id": 381138,
+			"chars": "Aaaand it's gone!"
+		},
+		{
+			"id": 381139,
+			"chars": "Current <color=#F26C1C>sell</color> quantity"
+		},
+		{
+			"id": 381140,
+			"chars": "Activated"
+		},
+		{
+			"id": 381141,
+			"chars": "Limited Fortification"
+		},
+		{
+			"id": 381142,
+			"chars": "Select Doll"
+		},
+		{
+			"id": 381143,
+			"chars": "Leave"
+		},
+		{
+			"id": 381144,
+			"chars": "Expend"
+		},
+		{
+			"id": 381145,
+			"chars": "Fortify"
+		},
+		{
+			"id": 381146,
+			"chars": "Neural Fortification Complete"
+		},
+		{
+			"id": 381147,
+			"chars": "Unlocks at Neural Fortification Step {0}"
+		},
+		{
+			"id": 381148,
+			"chars": "Not Enough Fortification Points"
+		},
+		{
+			"id": 381149,
+			"chars": "Fortification Successful"
+		},
+		{
+			"id": 381150,
+			"chars": "Do you wish to leave? There are still Dolls which can be fortified."
+		},
+		{
+			"id": 381151,
+			"chars": "Obtain"
+		},
+		{
+			"id": 381152,
+			"chars": "Select One Tactic"
+		},
+		{
+			"id": 381153,
+			"chars": "Nothing for sale"
+		},
+		{
+			"id": 381154,
+			"chars": "Current Points"
+		},
+		{
+			"id": 381155,
+			"chars": "By selling {0} you will obtain {1} {2}. Do you wish to proceed with the sale?"
+		},
+		{
+			"id": 381156,
+			"chars": "Possible Drops"
+		},
+		{
+			"id": 381157,
+			"chars": "This slot can only be used to deploy [Elite-quality] Dolls."
+		},
+		{
+			"id": 381158,
+			"chars": "You have {0} more chance(s) to refresh the inventory, do you wish to refresh it?"
+		},
+		{
+			"id": 381159,
+			"chars": "Simple"
+		},
+		{
+			"id": 381160,
+			"chars": "Standard"
+		},
+		{
+			"id": 381161,
+			"chars": "Perfect"
 		},
 		{
 			"id": 390001,
@@ -21921,6 +22213,10 @@
 			"chars": "Please join a platoon first"
 		},
 		{
+			"id": 390301,
+			"chars": "Support Expired"
+		},
+		{
 			"id": 391001,
 			"chars": "Friend List"
 		},
@@ -23045,6 +23341,286 @@
 			"chars": "Elite"
 		},
 		{
+			"id": 398001,
+			"chars": "Lv. {0}/60"
+		},
+		{
+			"id": 398002,
+			"chars": "Upgrade"
+		},
+		{
+			"id": 398003,
+			"chars": "Imago Factor"
+		},
+		{
+			"id": 398004,
+			"chars": "Imagoform"
+		},
+		{
+			"id": 398005,
+			"chars": "Core Stat Multiplier Preview"
+		},
+		{
+			"id": 398006,
+			"chars": "Imagoform Preview"
+		},
+		{
+			"id": 398007,
+			"chars": "Upgrade"
+		},
+		{
+			"id": 398008,
+			"chars": "Upgrade Complete"
+		},
+		{
+			"id": 398009,
+			"chars": "Basic Stat Boost"
+		},
+		{
+			"id": 398010,
+			"chars": "Imagoform Unlocked"
+		},
+		{
+			"id": 398011,
+			"chars": "Click any blank area to close"
+		},
+		{
+			"id": 398012,
+			"chars": "Locked Imagoform"
+		},
+		{
+			"id": 398013,
+			"chars": "Change Doll"
+		},
+		{
+			"id": 398014,
+			"chars": "Selected"
+		},
+		{
+			"id": 398015,
+			"chars": "Confirm"
+		},
+		{
+			"id": 398016,
+			"chars": "Switched to Remolding Core: {0}"
+		},
+		{
+			"id": 398017,
+			"chars": "Select Remolding Core"
+		},
+		{
+			"id": 398018,
+			"chars": "Equipped"
+		},
+		{
+			"id": 398019,
+			"chars": "Switch"
+		},
+		{
+			"id": 398020,
+			"chars": "After changing cores, equipped Growth Data will be automatically removed"
+		},
+		{
+			"id": 398021,
+			"chars": "Elite"
+		},
+		{
+			"id": 398022,
+			"chars": "Peak"
+		},
+		{
+			"id": 398023,
+			"chars": "Expand"
+		},
+		{
+			"id": 398024,
+			"chars": "Close"
+		},
+		{
+			"id": 398025,
+			"chars": "Remove"
+		},
+		{
+			"id": 398026,
+			"chars": "Removed"
+		},
+		{
+			"id": 398027,
+			"chars": "Swap"
+		},
+		{
+			"id": 398028,
+			"chars": "Swapped"
+		},
+		{
+			"id": 398029,
+			"chars": "Equip"
+		},
+		{
+			"id": 398030,
+			"chars": "Equipped"
+		},
+		{
+			"id": 398031,
+			"chars": "Remold"
+		},
+		{
+			"id": 398032,
+			"chars": "Imagoform {0}/6"
+		},
+		{
+			"id": 398033,
+			"chars": "Adjust"
+		},
+		{
+			"id": 398034,
+			"chars": "Adjustments to the current Doll will be reverted, do you wish to proceed?"
+		},
+		{
+			"id": 398035,
+			"chars": "Growth Data"
+		},
+		{
+			"id": 398036,
+			"chars": "No Growth Data"
+		},
+		{
+			"id": 398037,
+			"chars": "Owned"
+		},
+		{
+			"id": 398038,
+			"chars": "Dismantle"
+		},
+		{
+			"id": 398039,
+			"chars": "The following items will be gained after dismantling"
+		},
+		{
+			"id": 398040,
+			"chars": "Quick Select"
+		},
+		{
+			"id": 398041,
+			"chars": "No items available"
+		},
+		{
+			"id": 398042,
+			"chars": "Unknown <color=#f26c1c>{0}</color> Trait"
+		},
+		{
+			"id": 398043,
+			"chars": "Unknown Trait"
+		},
+		{
+			"id": 398044,
+			"chars": "Inactive Trait"
+		},
+		{
+			"id": 398045,
+			"chars": "Stats"
+		},
+		{
+			"id": 398046,
+			"chars": "Current"
+		},
+		{
+			"id": 398047,
+			"chars": "No Growth Data of this type"
+		},
+		{
+			"id": 398048,
+			"chars": "No new Imagoform unlocked"
+		},
+		{
+			"id": 398049,
+			"chars": "Specialized Trait"
+		},
+		{
+			"id": 398050,
+			"chars": "This Growth Data is currently equipped by <color=#f26c1c>{0}</color>, do you wish to swap it out?"
+		},
+		{
+			"id": 398051,
+			"chars": "No Growth Data, you can obtain some from [Phase Clash]"
+		},
+		{
+			"id": 398052,
+			"chars": "Unlocks after reaching Level 55"
+		},
+		{
+			"id": 398053,
+			"chars": "Vocation Type"
+		},
+		{
+			"id": 398054,
+			"chars": "Substat Vocation Type"
+		},
+		{
+			"id": 398055,
+			"chars": "Suitable for {0} slots"
+		},
+		{
+			"id": 398056,
+			"chars": "Lv. {0}"
+		},
+		{
+			"id": 398057,
+			"chars": "Please unlock Growth Data"
+		},
+		{
+			"id": 398058,
+			"chars": "No Specialized Traits"
+		},
+		{
+			"id": 398059,
+			"chars": "Insufficient Sardis Gold"
+		},
+		{
+			"id": 398060,
+			"chars": "Not enough Data Connections, you can obtain more from [Phase Clash]"
+		},
+		{
+			"id": 398061,
+			"chars": "Remolding Pattern"
+		},
+		{
+			"id": 398062,
+			"chars": "Industrial Grade or below"
+		},
+		{
+			"id": 398063,
+			"chars": "Military Grade or below"
+		},
+		{
+			"id": 398064,
+			"chars": "Precise Grade or below"
+		},
+		{
+			"id": 398065,
+			"chars": "Remolding Pattern:"
+		},
+		{
+			"id": 398066,
+			"chars": "Remolding Pattern Locked"
+		},
+		{
+			"id": 399001,
+			"chars": "Ultimate Skill Animation Speed"
+		},
+		{
+			"id": 399002,
+			"chars": "Default Speed"
+		},
+		{
+			"id": 399003,
+			"chars": "Combat Animation Speed"
+		},
+		{
+			"id": 399004,
+			"chars": "ID Card Red Dot Display"
+		},
+		{
 			"id": 400001,
 			"chars": "Dispatch Room"
 		},
@@ -23990,11 +24566,11 @@
 		},
 		{
 			"id": 410049,
-			"chars": "Aim and shoot automatically"
+			"chars": "Auto Fire"
 		},
 		{
 			"id": 410050,
-			"chars": "Aim and shoot manually"
+			"chars": "Manual Fire"
 		},
 		{
 			"id": 410051,
@@ -24654,7 +25230,7 @@
 		},
 		{
 			"id": 410215,
-			"chars": "Battle Report Details"
+			"chars": "Battle Reports"
 		},
 		{
 			"id": 410216,
@@ -24977,6 +25553,34 @@
 			"chars": "An elite enemy is approaching, it will show up after elimitnating {0} enemy unit(s)"
 		},
 		{
+			"id": 420009,
+			"chars": "Challenge"
+		},
+		{
+			"id": 420010,
+			"chars": "High Score"
+		},
+		{
+			"id": 420011,
+			"chars": "Score"
+		},
+		{
+			"id": 420012,
+			"chars": "Auto-use skills"
+		},
+		{
+			"id": 420013,
+			"chars": "Manually use skills"
+		},
+		{
+			"id": 420014,
+			"chars": "+{0}"
+		},
+		{
+			"id": 420015,
+			"chars": "Score Obtained"
+		},
+		{
 			"id": 430001,
 			"chars": "Hazard Patrol"
 		},
@@ -25246,7 +25850,7 @@
 		},
 		{
 			"id": 440001,
-			"chars": "Orange-rarity objective guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>is guaranteed to be the selected objective {1}/1</color>"
+			"chars": "Orange-rarity item guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>guaranteed to be the selected item {1}/1</color>"
 		},
 		{
 			"id": 440002,
@@ -25314,7 +25918,7 @@
 		},
 		{
 			"id": 440018,
-			"chars": "Orange-rarity objective guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>is guaranteed to be the selected objective {1}/1</color>"
+			"chars": "Orange-rarity item guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>guaranteed to be the selected item {1}/1</color>"
 		},
 		{
 			"id": 440019,
@@ -25322,7 +25926,7 @@
 		},
 		{
 			"id": 440020,
-			"chars": "Orange-rarity objective guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>is guaranteed to be the selected objective {1}/1</color>"
+			"chars": "Orange-rarity item guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>guaranteed to be the selected item {1}/1</color>"
 		},
 		{
 			"id": 440021,
@@ -25334,7 +25938,7 @@
 		},
 		{
 			"id": 440023,
-			"chars": "First guaranteed pull will guarantee the custom weapon"
+			"chars": "First guaranteed access will guarantee the custom weapon"
 		},
 		{
 			"id": 440024,
@@ -25354,7 +25958,7 @@
 		},
 		{
 			"id": 440028,
-			"chars": "First guaranteed pull will guarantee the custom weapon"
+			"chars": "First guaranteed access will guarantee the custom weapon"
 		},
 		{
 			"id": 440029,
@@ -25390,7 +25994,7 @@
 		},
 		{
 			"id": 440037,
-			"chars": "Orange-rarity objective guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>is guaranteed to be the selected objective {1}/1</color>"
+			"chars": "Orange-rarity item guaranteed after <color=#fedb5d>{0}</color> accesses. First guaranteed access is <color=#fedb5d>guaranteed to be the selected item {1}/1</color>"
 		},
 		{
 			"id": 440038,
@@ -25414,11 +26018,19 @@
 		},
 		{
 			"id": 440043,
-			"chars": "<size=22><b>[Access Details]</b></size>\n<color=#32434a><b>Custom Procurement - Doll</b> is a limited-time Doll recruitment event</color>.\n<color=#f26c1c>※ During the event, the limited Elite Dolls \"Daiyan\" and \"Ullrid\" will be exclusively available from the [Custom Procurement - Doll] event. After the event, the Elite Dolls \"Daiyan\" and \"Ullrid,\" will not be available in [Standard Procurement].</color>\n\n- Elite Doll Probability Details:\nIn this access type, the base probability of obtaining an Elite Doll is <color=#EDA51C>{0}{1}{2}</color>, and the total probability of obtaining an Elite Doll (including guarantee) is <color=#EDA51C>{3}</color>.\n\n- Standard Doll and Weapon Probability Details:\nIn this access type, the base probability of obtaining a Standard Doll or Weapon is <color=#AC65E8>{4}</color>, the base probability of obtaining a Standard Doll is <color=#AC65E8>{5}</color>, the base probability of obtaining a Standard Weapon is <color=#AC65E8>{6}</color>, and the total probability of obtaining a Standard Doll or Weapon (including guarantee) is <color=#AC65E8>{7}</color>.\n\n- Detailed Access Rules\n1. In this access type, every 10 accesses guarantees a Standard Doll, Weapon, or Elite Doll.\n2. In this access type, if an Elite Doll is not obtained within 58 consecutive accesses, the probability of obtaining an Elite Doll increases with each subsequent access. After 80 accesses, an Elite Doll is guaranteed. Once an Elite Doll is obtained, the count is reset, and the probability of obtaining an Elite Doll returns to the base rate. If the Elite Doll obtained is not the featured Elite Doll of the current event, the next Elite Doll obtained will be the featured Elite Doll of the current event.\n3. The guarantee counter for this access type does not accumulate and is independent of other access types, having no mutual effect.\n4. In this access type, each time a retired weapon is obtained, you will receive 2 Withdrawal Receipts; each time a Standard Doll or Weapon is obtained, you will receive 12 Redundant Pieces; each time an Elite Doll or Weapon is obtained, you will receive 60 Redundant Pieces.\n\n- Duplicate Doll Conversion Rules\nRegardless of how a duplicate Doll is obtained (including but not limited to access, exchange, event, etc.), the following conversion rules will apply:\n1) When a duplicate Standard Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 18 Redundant Pieces.\n2) When a duplicate Elite Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 90 Redundant Pieces."
+			"chars": "<size=22><b>[Access Details]</b></size>\n<color=#32434a><b>Custom Procurement - Doll</b> is a limited-time Doll recruitment event</color>.\n<color=#f26c1c>※ During the event, the limited Elite Dolls \"Vector\", \"Belka\", \"Andoris\" and \"Lenna\" will be exclusively available from the [Custom Procurement - Doll] event. After the event, the Elite Dolls \"Vector\", \"Belka\", \"Andoris\" and \"Lenna\" will not be added to [Standard Procurement].</color>\n\n- Elite Doll Probability Details:\nIn this access type, the base probability of obtaining an Elite Doll is <color=#EDA51C>{0}{1}{2}</color>, and the total probability of obtaining an Elite Doll (including guarantee) is <color=#EDA51C>{3}</color>.\n\n- Standard Doll and Weapon Probability Details:\nIn this access type, the base probability of obtaining a Standard Doll or Weapon is <color=#AC65E8>{4}</color>, the base probability of obtaining a Standard Doll is <color=#AC65E8>{5}</color>, the base probability of obtaining a Standard Weapon is <color=#AC65E8>{6}</color>, and the total probability of obtaining a Standard Doll or Weapon (including guarantee) is <color=#AC65E8>{7}</color>.\n\n- Detailed Access Rules\n1. In this access type, every 10 accesses guarantees a Standard Doll, Weapon, or Elite Doll.\n2. In this access type, if an Elite Doll is not obtained within 58 consecutive accesses, the probability of obtaining an Elite Doll increases with each subsequent access. After 80 accesses, an Elite Doll is guaranteed. Once an Elite Doll is obtained, the count is reset, and the probability of obtaining an Elite Doll returns to the base rate. If the Elite Doll obtained is not the featured Elite Doll of the current event, the next Elite Doll obtained will be the featured Elite Doll of the current event.\n3. The guarantee counter for this access type does not accumulate and is independent of other access types, having no mutual effect.\n4. In this access type, each time a retired weapon is obtained, you will receive 2 Withdrawal Receipts; each time a Standard Doll or Weapon is obtained, you will receive 12 Redundant Pieces; each time an Elite Doll or Weapon is obtained, you will receive 60 Redundant Pieces.\n\n- Duplicate Doll Conversion Rules\nRegardless of how a duplicate Doll is obtained (including but not limited to access, exchange, event, etc.), the following conversion rules will apply:\n1) When a duplicate Standard Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 18 Redundant Pieces.\n2) When a duplicate Elite Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 90 Redundant Pieces."
 		},
 		{
 			"id": 440044,
-			"chars": "<size=22><b>[Access Details]</b></size> <color=#32434a><b>Self-Custom Procurement - Weapon</b> is a limited-time weapon access event.</color> <color=#f26c1c>※ During the event, the limited Elite Weapons \"Heavy Strings\" and \"Rectrix\" will be made available exclusively through the [Custom Procurement - Weapon] event. After the event ends, the Elite Weapons \"Heavy Strings\" and \"Rectrix\" will not be added to [Standard Procurement].</color>\n\n- Elite Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining an Elite Weapon is <color=#EDA51C>{0}{1}{2}</color>, with a total drop rate (including guaranteed accesses) of <color=#EDA51C>{3}</color> for Elite Weapons.\n\n- Standard Doll and Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining a standard weapon is <color=#AC65E8>{4}{5}{6}</color>, with a total drop rate (including guaranteed accesses) of <color=#AC65E8>{7}</color> for standard weapons.\n\n- Detailed Rules\n1. In this banner, every 10 accesses guarantees either a standard or Elite Weapon.\n2. In this banner, if you do not obtain an Elite Weapon within 50 consecutive accesses, the drop rate of obtaining an Elite Weapon will increase, and every 70 accesses guarantees an Elite Weapon. Once an Elite Weapon is obtained at any time, the count resets, and the drop rate of obtaining an Elite Weapon returns to the base rate. If the Elite Weapon obtained is not the featured Elite Weapon, the next guaranteed Elite Weapon will be the featured Elite Weapon.\n3. The guarantee count for this banner does not carry over and is independent of other banners.\n4. In this banner, each time you obtain a Retired Weapon, you will receive 2 Withdrawal Receipts. Each time you obtain a standard doll or weapon, you will receive 12 Redundant Pieces. Each time you obtain an Elite Doll or Weapon, you will receive 60 Redundant Pieces."
+			"chars": "<size=22><b>[Access Details]</b></size> <color=#32434a><b>Self-Custom Procurement - Weapon</b> is a limited-time weapon access event.</color> <color=#f26c1c>※ During the event, the limited Elite Weapons \"Banshee's Whisper\", \"Sylvan Elf\", \"Aglaea\" and \"Löwenjunges\" will be made available exclusively through the [Custom Procurement - Weapon] event. After the event ends, the Elite Weapons \"Banshee's Whisper\", \"Sylvan Elf\", \"Aglaea\" and \"Löwenjunges\" will not be added to [Standard Procurement].</color>\n\n- Elite Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining an Elite Weapon is <color=#EDA51C>{0}{1}{2}</color>, with a total drop rate (including guaranteed accesses) of <color=#EDA51C>{3}</color> for Elite Weapons.\n\n- Standard Doll and Weapon Drop Rate Details:\nIn this banner, the base drop rate of obtaining a standard weapon is <color=#AC65E8>{4}{5}{6}</color>, with a total drop rate (including guaranteed accesses) of <color=#AC65E8>{7}</color> for standard weapons.\n\n- Detailed Rules\n1. In this banner, every 10 accesses guarantees either a standard or Elite Weapon.\n2. In this banner, if you do not obtain an Elite Weapon within 50 consecutive accesses, the drop rate of obtaining an Elite Weapon will increase, and every 70 accesses guarantees an Elite Weapon. Once an Elite Weapon is obtained at any time, the count resets, and the drop rate of obtaining an Elite Weapon returns to the base rate. If the Elite Weapon obtained is not the featured Elite Weapon, the next guaranteed Elite Weapon will be the featured Elite Weapon.\n3. The guarantee count for this banner does not carry over and is independent of other banners.\n4. In this banner, each time you obtain a Retired Weapon, you will receive 2 Withdrawal Receipts. Each time you obtain a standard doll or weapon, you will receive 12 Redundant Pieces. Each time you obtain an Elite Doll or Weapon, you will receive 60 Redundant Pieces."
+		},
+		{
+			"id": 440045,
+			"chars": "<size=22><b>[Access Details]</b></size> \n<color=#32434a><b>Custom Procurement - Doll</b> is a limited-time Doll recruitment event</color>. \n<color=#f26c1c>※ During the event, the limited Elite Dolls \"Suomi\", \"Ullrid\", \"Makiatto\", and \"Daiyan\" will be exclusively available from the [Custom Procurement - Doll] event. After the event, the Elite Dolls \"Suomi\", \"Ullrid\", \"Makiatto\", and \"Daiyan\" will not be available in [Standard Procurement].</color> \n\n- Elite Doll Probability Details: \nIn this access type, the base probability of obtaining an Elite Doll is <color=#EDA51C>{0}{1}{2}</color>, and the total probability of obtaining an Elite Doll (including guarantee) is <color=#EDA51C>{3}</color>. \n\n- Standard Doll and Weapon Probability Details: \nIn this access type, the base probability of obtaining a Standard Doll or Weapon is <color=#AC65E8>{4}</color>, the base probability of obtaining a Standard Doll is <color=#AC65E8>{5}</color>, the base probability of obtaining a Standard Weapon is <color=#AC65E8>{6}</color>, and the total probability of obtaining a Standard Doll or Weapon (including guarantee) is <color=#AC65E8>{7}</color>. \n\n- Detailed Access Rules \n1. In this access type, every 10 accesses guarantees a Standard Doll, Weapon, or Elite Doll. \n2. In this access type, if an Elite Doll is not obtained within 58 consecutive accesses, the probability of obtaining an Elite Doll increases with each subsequent access. After 80 accesses, an Elite Doll is guaranteed. Once an Elite Doll is obtained, the count is reset, and the probability of obtaining an Elite Doll returns to the base rate. If the Elite Doll obtained is not the boosted Elite Doll of the current event, the next Elite Doll obtained will be the boosted Elite Doll of the current event. \n3. The guarantee counter for this access type does not accumulate and is independent of other access types, having no mutual effect. \n4. In this access type, each time a retired weapon is obtained, you will receive 2 Withdrawal Receipts; each time a Standard Doll or Weapon is obtained, you will receive 12 Redundant Pieces; each time an Elite Doll or Weapon is obtained, you will receive 60 Redundant Pieces. \n\n- Duplicate Doll Conversion Rules \nRegardless of how a duplicate Doll is obtained (including but not limited to access, exchange, event, etc.), the following conversion rules will apply: \n1) When a duplicate Standard Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 18 Redundant Pieces. \n2) When a duplicate Elite Doll is obtained, the 2nd to 7th times will convert into 30 corresponding Doll Neural Archives; from the 8th time onward, they will convert into 90 Redundant Pieces."
+		},
+		{
+			"id": 440046,
+			"chars": "<size=22><b>[Access Details]</b></size> <color=#32434a><b>Self-Custom Procurement - Weapon</b> is a limited-time weapon access event.</color> <color=#f26c1c>※ During the event, the limited Elite Weapons \"Unspoken Calling\", \"Rectrix\", \"Bitter Caramel\" and \"Heavy Strings\" will be made available exclusively through the [Custom Procurement - Weapon] event. After the event ends, the Elite Weapons \"Unspoken Calling\", \"Rectrix\", \"Bitter Caramel\" and \"Heavy Strings\" will not be added to [Standard Procurement].</color> \n\n- Elite Weapon Drop Rate Details: \nIn this banner, the base drop rate of obtaining an Elite Weapon is <color=#EDA51C>{0}{1}{2}</color>, with a total drop rate (including guaranteed accesses) of <color=#EDA51C>{3}</color> for Elite Weapons. \n\n- Standard Doll and Weapon Drop Rate Details: \nIn this banner, the base drop rate of obtaining a standard weapon is <color=#AC65E8>{4}{5}{6}</color>, with a total drop rate (including guaranteed accesses) of <color=#AC65E8>{7}</color> for standard weapons. \n\n- Detailed Rules \n1. In this banner, every 10 accesses guarantees either a standard or Elite Weapon. \n2. In this banner, if you do not obtain an Elite Weapon within 50 consecutive accesses, the drop rate of obtaining an Elite Weapon will increase, and every 70 accesses guarantees an Elite Weapon. Once an Elite Weapon is obtained at any time, the count resets, and the drop rate of obtaining an Elite Weapon returns to the base rate. If the Elite Weapon obtained is not the featured Elite Weapon, the next guaranteed Elite Weapon will be the featured Elite Weapon. \n3. The guarantee count for this banner does not carry over and is independent of other banners. \n4. In this banner, each time you obtain a Retired Weapon, you will receive 2 Withdrawal Receipts. Each time you obtain a standard doll or weapon, you will receive 12 Redundant Pieces. Each time you obtain an Elite Doll or Weapon, you will receive 60 Redundant Pieces."
 		},
 		{
 			"id": 450001,
@@ -25566,7 +26178,7 @@
 		},
 		{
 			"id": 450037,
-			"chars": "This item is part of <color={0}>{1}</color>. Proceed to check <color=#f26c1c>more merchandise</color>?"
+			"chars": "This item is part of the <color={0}>{1}</color>, you can <color=#f26c1c>save more</color> by buying the pack."
 		},
 		{
 			"id": 450038,
@@ -25595,6 +26207,22 @@
 		{
 			"id": 450044,
 			"chars": "Accumulated to date"
+		},
+		{
+			"id": 450045,
+			"chars": "Buy Parts"
+		},
+		{
+			"id": 450046,
+			"chars": "Swappable accessories for the current outfit:"
+		},
+		{
+			"id": 450047,
+			"chars": "This item is for <color={0}>{1}</color>. Purchasing the gift pack will grant the accompanying <color=#f26c1c>swappable accessories</color>."
+		},
+		{
+			"id": 450048,
+			"chars": "{0} Remaining"
 		},
 		{
 			"id": 460001,
@@ -25742,7 +26370,7 @@
 		},
 		{
 			"id": 470014,
-			"chars": "Complete missions and gain the Elite Doll - Faye"
+			"chars": "Complete missions to gain the Elite Doll: Faye"
 		},
 		{
 			"id": 470015,
@@ -25766,7 +26394,7 @@
 		},
 		{
 			"id": 470020,
-			"chars": "Spend {0} Wish Vouchers to obtain"
+			"chars": "Acquire {0} Wish Vouchers to obtain"
 		},
 		{
 			"id": 470021,
@@ -26213,6 +26841,486 @@
 			"chars": "Canno tbe currently acquired"
 		},
 		{
+			"id": 530001,
+			"chars": "Data Passage"
+		},
+		{
+			"id": 530002,
+			"chars": "Drive Systems"
+		},
+		{
+			"id": 530003,
+			"chars": "Blitz Rewards"
+		},
+		{
+			"id": 530004,
+			"chars": "Endless Ranking"
+		},
+		{
+			"id": 530005,
+			"chars": "New Doll Unlocked"
+		},
+		{
+			"id": 530006,
+			"chars": "Consumed"
+		},
+		{
+			"id": 530007,
+			"chars": "Activated"
+		},
+		{
+			"id": 530008,
+			"chars": "Activate"
+		},
+		{
+			"id": 530009,
+			"chars": "Not Enough Upgrade Parts"
+		},
+		{
+			"id": 530010,
+			"chars": "Collect"
+		},
+		{
+			"id": 530011,
+			"chars": "Unobtained"
+		},
+		{
+			"id": 530012,
+			"chars": "Claim All"
+		},
+		{
+			"id": 530013,
+			"chars": "Friend Leaderboard"
+		},
+		{
+			"id": 530014,
+			"chars": "Platoon Leaderboard"
+		},
+		{
+			"id": 530015,
+			"chars": "There may be a delay before the leaderboard updates"
+		},
+		{
+			"id": 530016,
+			"chars": "High Score"
+		},
+		{
+			"id": 530017,
+			"chars": "Unranked"
+		},
+		{
+			"id": 530018,
+			"chars": "Leaderboard Is Empty"
+		},
+		{
+			"id": 530019,
+			"chars": "Not In Platoon"
+		},
+		{
+			"id": 530020,
+			"chars": "High Score"
+		},
+		{
+			"id": 530021,
+			"chars": "Blitz Time"
+		},
+		{
+			"id": 530022,
+			"chars": "Enemies Eliminated"
+		},
+		{
+			"id": 530023,
+			"chars": "Items Collected"
+		},
+		{
+			"id": 530024,
+			"chars": "Blitz Target"
+		},
+		{
+			"id": 530025,
+			"chars": "Stage Notes"
+		},
+		{
+			"id": 530026,
+			"chars": "Blitz Preparations"
+		},
+		{
+			"id": 530027,
+			"chars": "Begin Blitz"
+		},
+		{
+			"id": 530028,
+			"chars": "Attack"
+		},
+		{
+			"id": 530029,
+			"chars": "Lv. {0}"
+		},
+		{
+			"id": 530030,
+			"chars": "{0} km"
+		},
+		{
+			"id": 530031,
+			"chars": "Blitz ends in {0} seconds"
+		},
+		{
+			"id": 530032,
+			"chars": "{0} km/h"
+		},
+		{
+			"id": 530033,
+			"chars": "#ERROR!"
+		},
+		{
+			"id": 530034,
+			"chars": "Q"
+		},
+		{
+			"id": 530035,
+			"chars": "Pause"
+		},
+		{
+			"id": 530036,
+			"chars": "Esc"
+		},
+		{
+			"id": 530037,
+			"chars": "A"
+		},
+		{
+			"id": 530038,
+			"chars": "Left"
+		},
+		{
+			"id": 530039,
+			"chars": "D"
+		},
+		{
+			"id": 530040,
+			"chars": "Right"
+		},
+		{
+			"id": 530041,
+			"chars": "Pause"
+		},
+		{
+			"id": 530042,
+			"chars": "End Blitz"
+		},
+		{
+			"id": 530043,
+			"chars": "Restart"
+		},
+		{
+			"id": 530044,
+			"chars": "Continue"
+		},
+		{
+			"id": 530045,
+			"chars": "Caution"
+		},
+		{
+			"id": 530046,
+			"chars": "Do you wish to restart your Blitz?"
+		},
+		{
+			"id": 530047,
+			"chars": "Exiting halfway will cause this Blitz to be counted as a failure, do you wish to proceed?"
+		},
+		{
+			"id": 530048,
+			"chars": "Exiting now will cause your score to be tallied up immediately, do you wish to proceed?"
+		},
+		{
+			"id": 530049,
+			"chars": "Cancel"
+		},
+		{
+			"id": 530050,
+			"chars": "Confirm"
+		},
+		{
+			"id": 530051,
+			"chars": "Blitz Complete"
+		},
+		{
+			"id": 530052,
+			"chars": "Blitz Time"
+		},
+		{
+			"id": 530053,
+			"chars": "Enemies Eliminated"
+		},
+		{
+			"id": 530054,
+			"chars": "Items Collected"
+		},
+		{
+			"id": 530055,
+			"chars": "+{0}"
+		},
+		{
+			"id": 530056,
+			"chars": "Score"
+		},
+		{
+			"id": 530057,
+			"chars": "New"
+		},
+		{
+			"id": 530058,
+			"chars": "Try Again"
+		},
+		{
+			"id": 530059,
+			"chars": "Confirm"
+		},
+		{
+			"id": 530060,
+			"chars": "Select Doll"
+		},
+		{
+			"id": 530061,
+			"chars": "Previous node not yet activated"
+		},
+		{
+			"id": 530062,
+			"chars": "Travel Distance"
+		},
+		{
+			"id": 530063,
+			"chars": "Time"
+		},
+		{
+			"id": 530064,
+			"chars": "Score"
+		},
+		{
+			"id": 530065,
+			"chars": "Endless Mode is closed"
+		},
+		{
+			"id": 530066,
+			"chars": "UNKNOWN"
+		},
+		{
+			"id": 540001,
+			"chars": "Resets In {0}"
+		},
+		{
+			"id": 540002,
+			"chars": "A new season has begun"
+		},
+		{
+			"id": 540003,
+			"chars": "Breakthrough"
+		},
+		{
+			"id": 540004,
+			"chars": "Phase Clash"
+		},
+		{
+			"id": 540005,
+			"chars": "Prize Preview"
+		},
+		{
+			"id": 540006,
+			"chars": "Purification Credits"
+		},
+		{
+			"id": 540007,
+			"chars": "Intel"
+		},
+		{
+			"id": 540008,
+			"chars": "All intel collected"
+		},
+		{
+			"id": 540009,
+			"chars": "Prize preview"
+		},
+		{
+			"id": 540010,
+			"chars": "Reward Progress"
+		},
+		{
+			"id": 540011,
+			"chars": "Randomly receive a reward from the right when opening a supply crate"
+		},
+		{
+			"id": 540012,
+			"chars": "Refreshes in {0}"
+		},
+		{
+			"id": 540013,
+			"chars": "Mimicrate"
+		},
+		{
+			"id": 540014,
+			"chars": "Rare Treasure Chest"
+		},
+		{
+			"id": 540015,
+			"chars": "Exquisite Supply Crate"
+		},
+		{
+			"id": 540016,
+			"chars": "Normal Supply Crate"
+		},
+		{
+			"id": 540017,
+			"chars": "Purification Reward"
+		},
+		{
+			"id": 540018,
+			"chars": "Purification Credits"
+		},
+		{
+			"id": 540019,
+			"chars": "Collect"
+		},
+		{
+			"id": 540020,
+			"chars": "Unobtained"
+		},
+		{
+			"id": 540021,
+			"chars": "Claim All"
+		},
+		{
+			"id": 540022,
+			"chars": "Uncollected rewards will be sent via mail"
+		},
+		{
+			"id": 540023,
+			"chars": "Lv. {0} recommended"
+		},
+		{
+			"id": 540024,
+			"chars": "Phase Alignment"
+		},
+		{
+			"id": 540025,
+			"chars": "Enemy Units"
+		},
+		{
+			"id": 540026,
+			"chars": "Chance to Obtain"
+		},
+		{
+			"id": 540027,
+			"chars": "Begin Purification"
+		},
+		{
+			"id": 540028,
+			"chars": "Recommended Phase Element: {0}"
+		},
+		{
+			"id": 540029,
+			"chars": "Must deploy at least 1 Doll"
+		},
+		{
+			"id": 540030,
+			"chars": "Empty slot on team"
+		},
+		{
+			"id": 540031,
+			"chars": "A Doll does not match the recommended phase element, this will greatly increase the risk of the upcoming battle"
+		},
+		{
+			"id": 540032,
+			"chars": "5"
+		},
+		{
+			"id": 540033,
+			"chars": "+{0}"
+		},
+		{
+			"id": 540034,
+			"chars": "Obtained"
+		},
+		{
+			"id": 540035,
+			"chars": "Does not apply in Phase Clash"
+		},
+		{
+			"id": 540036,
+			"chars": "Insufficient Electrocrystals, please obtain more from [Breakthrough]"
+		},
+		{
+			"id": 540037,
+			"chars": "Reward Details"
+		},
+		{
+			"id": 540038,
+			"chars": "Click An Empty Space To Continue"
+		},
+		{
+			"id": 540039,
+			"chars": "Purification Credits"
+		},
+		{
+			"id": 540040,
+			"chars": "No Purification Rewards Gained"
+		},
+		{
+			"id": 540041,
+			"chars": "Reward Progress"
+		},
+		{
+			"id": 540042,
+			"chars": "Proceed"
+		},
+		{
+			"id": 540045,
+			"chars": "Purification Credits:"
+		},
+		{
+			"id": 540046,
+			"chars": "No Phase Alignment"
+		},
+		{
+			"id": 540047,
+			"chars": "Intel Progress"
+		},
+		{
+			"id": 540048,
+			"chars": "Intel Mission"
+		},
+		{
+			"id": 540049,
+			"chars": "Squad Objective"
+		},
+		{
+			"id": 540050,
+			"chars": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate"
+		},
+		{
+			"id": 540051,
+			"chars": "[Exploration] Continue surveying and recover supplies"
+		},
+		{
+			"id": 540052,
+			"chars": "Amount"
+		},
+		{
+			"id": 540053,
+			"chars": "Purification Complete"
+		},
+		{
+			"id": 540054,
+			"chars": "Purification Complete"
+		},
+		{
+			"id": 540055,
+			"chars": "A new season has started, please restart the client"
+		},
+		{
+			"id": 540056,
+			"chars": "Do you wish to start purification?"
+		},
+		{
 			"id": 600001,
 			"chars": "Unlock by completing the preceding stage"
 		},
@@ -26259,6 +27367,18 @@
 		{
 			"id": 600012,
 			"chars": "Error!"
+		},
+		{
+			"id": 600013,
+			"chars": "Insufficient"
+		},
+		{
+			"id": 600014,
+			"chars": "Opens In"
+		},
+		{
+			"id": 600015,
+			"chars": "This weapon has not been unlocked, cannot begin battle"
 		},
 		{
 			"id": 610001,
@@ -26689,8 +27809,80 @@
 			"chars": "This account has not unlocked the Curio Display"
 		},
 		{
+			"id": 631001,
+			"chars": "ID Card Background"
+		},
+		{
+			"id": 631002,
+			"chars": "Current Settings"
+		},
+		{
+			"id": 631003,
+			"chars": "Settings"
+		},
+		{
+			"id": 631004,
+			"chars": "Change ID Card Background"
+		},
+		{
+			"id": 632001,
+			"chars": "Do you wish to skip all story scenes?"
+		},
+		{
+			"id": 641001,
+			"chars": "Complete all missions to obtain event-only exclusive Growth Data"
+		},
+		{
+			"id": 641002,
+			"chars": "{0}/{1}"
+		},
+		{
+			"id": 641003,
+			"chars": "Proceed"
+		},
+		{
+			"id": 641004,
+			"chars": "Collect"
+		},
+		{
+			"id": 641005,
+			"chars": "Incomplete"
+		},
+		{
+			"id": 641006,
+			"chars": "Complete all missions to obtain"
+		},
+		{
+			"id": 641007,
+			"chars": "Obtained"
+		},
+		{
+			"id": 651001,
+			"chars": "Randomly display all images"
+		},
+		{
+			"id": 651002,
+			"chars": "Randomly display all ticked images on the loading screen"
+		},
+		{
+			"id": 651003,
+			"chars": "Add to random display list"
+		},
+		{
+			"id": 651004,
+			"chars": "Added to random display list"
+		},
+		{
+			"id": 652001,
+			"chars": "The Commander's current gender is <color=#F26C1C>{0}</color>, do you want to change it to <color=#F26C1C>{1}</color>?"
+		},
+		{
+			"id": 652002,
+			"chars": "Change Successful"
+		},
+		{
 			"id": 700000,
-			"chars": "Gift Gathering"
+			"chars": "Multiple events, plenty of rewards"
 		},
 		{
 			"id": 700001,
@@ -26698,7 +27890,7 @@
 		},
 		{
 			"id": 700002,
-			"chars": "Patricipate in the event to receive <color=#f36764>Speed Star</color> for free"
+			"chars": "Obtain [Outfit - Speed Star] for free"
 		},
 		{
 			"id": 700003,
@@ -26714,7 +27906,7 @@
 		},
 		{
 			"id": 700006,
-			"chars": "Login to receive"
+			"chars": "Obtain by logging in during the event"
 		},
 		{
 			"id": 700007,
@@ -26726,7 +27918,7 @@
 		},
 		{
 			"id": 700009,
-			"chars": "Login to receive"
+			"chars": "Obtain through Login Event"
 		},
 		{
 			"id": 700010,
@@ -26734,11 +27926,11 @@
 		},
 		{
 			"id": 700011,
-			"chars": "Complete Missions To Obtain"
+			"chars": "Complete missions to claim"
 		},
 		{
 			"id": 700012,
-			"chars": "Klukai's Speed Star Outfit"
+			"chars": "Klukai-only skin"
 		},
 		{
 			"id": 700013,
@@ -26746,23 +27938,23 @@
 		},
 		{
 			"id": 700014,
-			"chars": "Battle Preparation"
+			"chars": "Dawnbreaker"
 		},
 		{
 			"id": 700015,
-			"chars": "Cumulative Logins"
+			"chars": "Obtain through cumulative logins"
 		},
 		{
 			"id": 700016,
-			"chars": "Seasons Effervescent"
+			"chars": "Daydreamer"
 		},
 		{
 			"id": 700017,
-			"chars": "Cumulative Logins"
+			"chars": "Obtain through Login Event"
 		},
 		{
 			"id": 700018,
-			"chars": "7000+"
+			"chars": "6000+"
 		},
 		{
 			"id": 700019,
@@ -26770,7 +27962,11 @@
 		},
 		{
 			"id": 700020,
-			"chars": "6"
+			"chars": "22"
+		},
+		{
+			"id": 700021,
+			"chars": ""
 		},
 		{
 			"id": 900001,
@@ -27734,7 +28930,7 @@
 		},
 		{
 			"id": 903069,
-			"chars": "Begin exploration"
+			"chars": "Begin Exploration"
 		},
 		{
 			"id": 903070,
@@ -28502,7 +29698,7 @@
 		},
 		{
 			"id": 903261,
-			"chars": "Exploring unknown areas requires Delve Permits"
+			"chars": "You can use High-Speed Tracks to continue your exploration in other areas."
 		},
 		{
 			"id": 903262,
@@ -28510,11 +29706,11 @@
 		},
 		{
 			"id": 903263,
-			"chars": "MG's area damage ignores cover while SGs can destroy boulders."
+			"chars": "MG's AoE damage ignores cover while SGs can destroy boulders."
 		},
 		{
 			"id": 903264,
-			"chars": "After unlocking the appropriate nodes, SMGs can instant-kill elite units and do much more damage to boss units, while BLD-type weapons can ignore half-height cover."
+			"chars": "When enemy units are grouped up, prioritize attacking units that are not within the detection range of other units to avoid triggering Stress Unobtained"
 		},
 		{
 			"id": 903265,
@@ -30143,6 +31339,34 @@
 		{
 			"id": 903747,
 			"chars": "All rewards have been collected, would you like to leave?"
+		},
+		{
+			"id": 904001,
+			"chars": "Mimicrate - Childlike Joy discovered"
+		},
+		{
+			"id": 904002,
+			"chars": "Mimicrate - Remoralize discovered"
+		},
+		{
+			"id": 904003,
+			"chars": "Mimicrate - Cultivation discovered"
+		},
+		{
+			"id": 904004,
+			"chars": "Mimicrate - Setting Sail discovered"
+		},
+		{
+			"id": 904005,
+			"chars": "Mimicrate - Consolation discovered"
+		},
+		{
+			"id": 904006,
+			"chars": "Mimicrate - Unification discovered"
+		},
+		{
+			"id": 904007,
+			"chars": "Mimicrate - Greatest Ally discovered"
 		},
 		{
 			"id": 910001,

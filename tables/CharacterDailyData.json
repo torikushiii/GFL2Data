@@ -2495,6 +2495,136 @@
 			"avg": [
 				10550598
 			]
+		},
+		{
+			"id": 10561,
+			"gunType": 1,
+			"gunId": 1056,
+			"sort": 1,
+			"title": "Journal Entry 1",
+			"text": "",
+			"reward": {},
+			"avg": [
+				10560198
+			],
+			"condition": 0
+		},
+		{
+			"id": 10562,
+			"gunType": 1,
+			"gunId": 1056,
+			"sort": 2,
+			"title": "Journal Entry 2",
+			"condition": 410561,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10560298
+			]
+		},
+		{
+			"id": 10563,
+			"gunType": 1,
+			"gunId": 1056,
+			"sort": 3,
+			"title": "Journal Entry 3",
+			"condition": 410561,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10560398
+			]
+		},
+		{
+			"id": 10564,
+			"gunType": 1,
+			"gunId": 1056,
+			"sort": 4,
+			"title": "Journal Entry 4",
+			"condition": 410562,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10560498
+			]
+		},
+		{
+			"id": 10565,
+			"gunType": 1,
+			"gunId": 1056,
+			"sort": 5,
+			"title": "Journal Entry 5",
+			"condition": 410562,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10560598
+			]
+		},
+		{
+			"id": 10571,
+			"gunType": 1,
+			"gunId": 1057,
+			"sort": 1,
+			"title": "Journal Entry 1",
+			"text": "",
+			"reward": {},
+			"avg": [
+				10570198
+			],
+			"condition": 0
+		},
+		{
+			"id": 10572,
+			"gunType": 1,
+			"gunId": 1057,
+			"sort": 2,
+			"title": "Journal Entry 2",
+			"condition": 410571,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10570298
+			]
+		},
+		{
+			"id": 10573,
+			"gunType": 1,
+			"gunId": 1057,
+			"sort": 3,
+			"title": "Journal Entry 3",
+			"condition": 410571,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10570398
+			]
+		},
+		{
+			"id": 10574,
+			"gunType": 1,
+			"gunId": 1057,
+			"sort": 4,
+			"title": "Journal Entry 4",
+			"condition": 410572,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10570498
+			]
+		},
+		{
+			"id": 10575,
+			"gunType": 1,
+			"gunId": 1057,
+			"sort": 5,
+			"title": "Journal Entry 5",
+			"condition": 410572,
+			"text": "",
+			"reward": {},
+			"avg": [
+				10570598
+			]
 		}
 	]
 }

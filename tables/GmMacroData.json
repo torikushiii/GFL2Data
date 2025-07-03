@@ -793,9 +793,51 @@
 		},
 		{
 			"id": 114,
+			"type": "活动",
+			"name": "一键完成拟态觉醒",
+			"arg": "ReachCounter@416@1@[55,0,0,0]|ReachCounter@2202@1@[0,-1,0,0]|ReachCounter@2203@1@[-1,0,0,0]|ReachCounter@2201@1@[-1,20,0,0]|ReachCounter@2302@1@[800,0,0,0]|ReachCounter@2303@1@[1,0,0,0]",
+			"argClient": ""
+		},
+		{
+			"id": 115,
 			"type": "版本新增人形",
-			"name": "2.10新增人形+皮肤",
-			"arg": "SendItem@31070@1|SendItem@1055@1",
+			"name": "2.11新增人形",
+			"arg": "SendItem@1056@1",
+			"argClient": ""
+		},
+		{
+			"id": 116,
+			"type": "种族塔",
+			"name": "刷新宝箱探索进度",
+			"arg": "GMRefreshDarkzoneEthnic",
+			"argClient": ""
+		},
+		{
+			"id": 117,
+			"type": "种族塔",
+			"name": "加满探索积分（退账号生效",
+			"arg": "GMSetEthnicPoint@4000",
+			"argClient": ""
+		},
+		{
+			"id": 118,
+			"type": "种族塔",
+			"name": "一键获取所有生长数据",
+			"arg": "SendItem@983401@1|SendItem@983201@1|SendItem@983301@1|SendItem@983101@1|SendItem@985401@1|SendItem@985402@1|SendItem@985201@1|SendItem@985202@1|SendItem@985301@1|SendItem@985302@1|SendItem@985101@1|SendItem@985102@1|SendItem@984401@1|SendItem@984402@1|SendItem@984201@1|SendItem@984202@1|SendItem@984301@1|SendItem@984302@1|SendItem@984101@1|SendItem@984102@1|SendItem@995101@1|SendItem@995102@1|SendItem@995103@1|SendItem@995104@1|SendItem@995105@1|SendItem@995106@1|SendItem@995107@1|SendItem@995108@1|SendItem@995109@1|SendItem@994101@1|SendItem@994102@1|SendItem@994103@1|SendItem@994104@1",
+			"argClient": ""
+		},
+		{
+			"id": 119,
+			"type": "活动",
+			"name": "一键完成拟态觉醒",
+			"arg": "ReachCounter@416@1@[55,0,0,0]|ReachCounter@2202@1@[0,-1,0,0]|ReachCounter@2203@1@[-1,0,0,0]|ReachCounter@2201@1@[-1,20,0,0]|ReachCounter@2302@1@[800,0,0,0]|ReachCounter@2303@1@[1,0,0,0]",
+			"argClient": ""
+		},
+		{
+			"id": 120,
+			"type": "版本新增人形",
+			"name": "2.12新增人形",
+			"arg": "SendItem@1057@1",
 			"argClient": ""
 		}
 	]

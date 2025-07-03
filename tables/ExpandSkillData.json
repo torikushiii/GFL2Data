@@ -2499,6 +2499,241 @@
 			],
 			"expandRandomPassiveSkill": [],
 			"randomNum": 0
+		},
+		{
+			"expandId": 2832001,
+			"expandPassiveSkill": [
+				6000680,
+				6000750
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2832002,
+			"expandPassiveSkill": [
+				6000290,
+				6000740
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2832003,
+			"expandPassiveSkill": [
+				6000290,
+				6000140
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833001,
+			"expandPassiveSkill": [
+				6000060
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833002,
+			"expandPassiveSkill": [
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833003,
+			"expandPassiveSkill": [
+				6000700
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833004,
+			"expandPassiveSkill": [
+				6000730
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833005,
+			"expandPassiveSkill": [
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833006,
+			"expandPassiveSkill": [
+				6000290,
+				6000730
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833007,
+			"expandPassiveSkill": [
+				6000700,
+				6000060
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833701,
+			"expandPassiveSkill": [
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833702,
+			"expandPassiveSkill": [
+				6000730,
+				6000700
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833703,
+			"expandPassiveSkill": [
+				6000060,
+				6000700
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833801,
+			"expandPassiveSkill": [
+				6000060,
+				6000730
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833802,
+			"expandPassiveSkill": [
+				6000290,
+				6000730
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833803,
+			"expandPassiveSkill": [
+				6000730
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833901,
+			"expandPassiveSkill": [
+				6000680,
+				6000060
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833902,
+			"expandPassiveSkill": [
+				6000680,
+				6000730,
+				6000060
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833903,
+			"expandPassiveSkill": [
+				6000680,
+				6000290
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2833904,
+			"expandPassiveSkill": [
+				6000680,
+				6000700
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834001,
+			"expandPassiveSkill": [
+				6000820
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834002,
+			"expandPassiveSkill": [
+				6000820,
+				6000680
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834003,
+			"expandPassiveSkill": [
+				6000820,
+				6000840
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834004,
+			"expandPassiveSkill": [
+				6000830,
+				6000840
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834005,
+			"expandPassiveSkill": [
+				6000680,
+				6000210
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2834006,
+			"expandPassiveSkill": [
+				6000820,
+				6000830
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
+		},
+		{
+			"expandId": 2836001,
+			"expandPassiveSkill": [
+				7027101
+			],
+			"expandRandomPassiveSkill": [],
+			"randomNum": 0
 		}
 	]
 }

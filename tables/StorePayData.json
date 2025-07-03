@@ -1864,6 +1864,24 @@
 			"limitBuy": 0
 		},
 		{
+			"id": 242,
+			"productId": "com.haoplay.gf2exilium.global.220",
+			"name": "专属契合套装·朝晖",
+			"describe": "专属契合套装·朝晖",
+			"storeId": 101614,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 243,
+			"productId": "com.haoplay.gf2exilium.global.221",
+			"name": "专属契合套装·可露凯",
+			"describe": "专属契合套装·可露凯",
+			"storeId": 101615,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
 			"id": 245,
 			"productId": "com.haoplay.gf2exilium.global.223",
 			"name": "衣装·激速方格",
@@ -2229,6 +2247,645 @@
 			"name": "【原价】涂装·理性叛逆",
 			"describe": "【原价】涂装·理性叛逆",
 			"storeId": 10006,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 286,
+			"productId": "com.haoplay.gf2exilium.global.266",
+			"name": "灯火下的女王",
+			"describe": "灯火下的女王",
+			"storeId": 2020,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 287,
+			"productId": "com.haoplay.gf2exilium.global.267",
+			"name": "灯火下的女王",
+			"describe": "灯火下的女王",
+			"storeId": 2020,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 288,
+			"productId": "com.haoplay.gf2exilium.global.268",
+			"name": "义薄云天",
+			"describe": "义薄云天",
+			"storeId": 2027,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 289,
+			"productId": "com.haoplay.gf2exilium.global.269",
+			"name": "义薄云天",
+			"describe": "义薄云天",
+			"storeId": 2027,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 290,
+			"productId": "com.haoplay.gf2exilium.global.270",
+			"name": "疾风裂焰",
+			"describe": "疾风裂焰",
+			"storeId": 2028,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 291,
+			"productId": "com.haoplay.gf2exilium.global.271",
+			"name": "疾风裂焰",
+			"describe": "疾风裂焰",
+			"storeId": 2028,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 292,
+			"productId": "com.haoplay.gf2exilium.global.272",
+			"name": "涂装·青锋铁誓",
+			"describe": "涂装·青锋铁誓",
+			"storeId": 9007,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 293,
+			"productId": "com.haoplay.gf2exilium.global.273",
+			"name": "涂装·青锋铁誓",
+			"describe": "涂装·青锋铁誓",
+			"storeId": 9007,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 294,
+			"productId": "com.haoplay.gf2exilium.global.274",
+			"name": "好运礼袋·一",
+			"describe": "好运礼袋·一",
+			"storeId": 101701,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 295,
+			"productId": "com.haoplay.gf2exilium.global.275",
+			"name": "好运礼袋·二",
+			"describe": "好运礼袋·二",
+			"storeId": 101702,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 296,
+			"productId": "com.haoplay.gf2exilium.global.276",
+			"name": "好运礼袋·三",
+			"describe": "好运礼袋·三",
+			"storeId": 101703,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 297,
+			"productId": "com.haoplay.gf2exilium.global.277",
+			"name": "扩员支持礼箱·一",
+			"describe": "扩员支持礼箱·一",
+			"storeId": 101704,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 298,
+			"productId": "com.haoplay.gf2exilium.global.278",
+			"name": "惠享物资箱·三日",
+			"describe": "惠享物资箱·三日",
+			"storeId": 101705,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 299,
+			"productId": "com.haoplay.gf2exilium.global.279",
+			"name": "成长补给箱",
+			"describe": "成长补给箱",
+			"storeId": 101706,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 300,
+			"productId": "com.haoplay.gf2exilium.global.280",
+			"name": "扩员支持礼箱·二",
+			"describe": "扩员支持礼箱·二",
+			"storeId": 101707,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 301,
+			"productId": "com.haoplay.gf2exilium.global.281",
+			"name": "专访礼盒",
+			"describe": "专访礼盒",
+			"storeId": 101708,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 302,
+			"productId": "com.haoplay.gf2exilium.global.282",
+			"name": "专访礼箱",
+			"describe": "专访礼箱",
+			"storeId": 101709,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 303,
+			"productId": "com.haoplay.gf2exilium.global.283",
+			"name": "季候惠享礼箱α",
+			"describe": "季候惠享礼箱α",
+			"storeId": 101710,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 304,
+			"productId": "com.haoplay.gf2exilium.global.284",
+			"name": "季候惠享礼箱β",
+			"describe": "季候惠享礼箱β",
+			"storeId": 101711,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 305,
+			"productId": "com.haoplay.gf2exilium.global.285",
+			"name": "季候惠享礼箱γ",
+			"describe": "季候惠享礼箱γ",
+			"storeId": 101712,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 306,
+			"productId": "com.haoplay.gf2exilium.global.286",
+			"name": "精研战备礼箱",
+			"describe": "精研战备礼箱",
+			"storeId": 101713,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 307,
+			"productId": "com.haoplay.gf2exilium.global.287",
+			"name": "专属契合套装·春田",
+			"describe": "专属契合套装·春田",
+			"storeId": 101714,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 308,
+			"productId": "com.haoplay.gf2exilium.global.288",
+			"name": "专属契合套装·佩莉",
+			"describe": "专属契合套装·佩莉",
+			"storeId": 101715,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 309,
+			"productId": "com.haoplay.gf2exilium.global.289",
+			"name": "专属契合套装·米什缇",
+			"describe": "专属契合套装·米什缇",
+			"storeId": 101716,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 310,
+			"productId": "com.haoplay.gf2exilium.global.290",
+			"name": "启航基核补给箱",
+			"describe": "启航基核补给箱",
+			"storeId": 101717,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 311,
+			"productId": "com.haoplay.gf2exilium.global.291",
+			"name": "远航基核特供箱",
+			"describe": "远航基核特供箱",
+			"storeId": 101718,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 312,
+			"productId": "com.haoplay.gf2exilium.global.292",
+			"name": "基核强化组合礼箱",
+			"describe": "基核强化组合礼箱",
+			"storeId": 101719,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 313,
+			"productId": "com.haoplay.gf2exilium.global.293",
+			"name": "反演支持访问箱",
+			"describe": "反演支持访问箱",
+			"storeId": 101720,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 314,
+			"productId": "com.haoplay.gf2exilium.global.294",
+			"name": "反演演算访问箱",
+			"describe": "反演演算访问箱",
+			"storeId": 101721,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 315,
+			"productId": "com.haoplay.gf2exilium.global.295",
+			"name": "好运礼袋·一",
+			"describe": "好运礼袋·一",
+			"storeId": 101801,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 316,
+			"productId": "com.haoplay.gf2exilium.global.296",
+			"name": "好运礼袋·二",
+			"describe": "好运礼袋·二",
+			"storeId": 101802,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 317,
+			"productId": "com.haoplay.gf2exilium.global.297",
+			"name": "好运礼袋·三",
+			"describe": "好运礼袋·三",
+			"storeId": 101803,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 318,
+			"productId": "com.haoplay.gf2exilium.global.298",
+			"name": "扩员支持礼箱·一",
+			"describe": "扩员支持礼箱·一",
+			"storeId": 101804,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 319,
+			"productId": "com.haoplay.gf2exilium.global.299",
+			"name": "惠享物资箱·三日",
+			"describe": "惠享物资箱·三日",
+			"storeId": 101805,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 320,
+			"productId": "com.haoplay.gf2exilium.global.300",
+			"name": "成长补给箱",
+			"describe": "成长补给箱",
+			"storeId": 101806,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 321,
+			"productId": "com.haoplay.gf2exilium.global.301",
+			"name": "扩员支持礼箱·二",
+			"describe": "扩员支持礼箱·二",
+			"storeId": 101807,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 322,
+			"productId": "com.haoplay.gf2exilium.global.302",
+			"name": "专访礼盒",
+			"describe": "专访礼盒",
+			"storeId": 101808,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 323,
+			"productId": "com.haoplay.gf2exilium.global.303",
+			"name": "专访礼箱",
+			"describe": "专访礼箱",
+			"storeId": 101809,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 324,
+			"productId": "com.haoplay.gf2exilium.global.304",
+			"name": "精研战备礼箱",
+			"describe": "精研战备礼箱",
+			"storeId": 101810,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 328,
+			"productId": "com.haoplay.gf2exilium.global.308",
+			"name": "涂装特惠包",
+			"describe": "涂装特惠包",
+			"storeId": 1151,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 329,
+			"productId": "com.haoplay.gf2exilium.global.309",
+			"name": "启明之礼",
+			"describe": "启明之礼",
+			"storeId": 1213,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 330,
+			"productId": "com.haoplay.gf2exilium.global.310",
+			"name": "衣装·紫雨心",
+			"describe": "衣装·紫雨心",
+			"storeId": 2007,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 331,
+			"productId": "com.haoplay.gf2exilium.global.311",
+			"name": "衣装·灵海游光",
+			"describe": "衣装·灵海游光",
+			"storeId": 2013,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 332,
+			"productId": "com.haoplay.gf2exilium.global.312",
+			"name": "衣装·晴夏回响",
+			"describe": "衣装·晴夏回响",
+			"storeId": 2010,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 333,
+			"productId": "com.haoplay.gf2exilium.global.313",
+			"name": "衣装·跃行脱兔",
+			"describe": "衣装·跃行脱兔",
+			"storeId": 2004,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 334,
+			"productId": "com.haoplay.gf2exilium.global.314",
+			"name": "作战服·无定星迹",
+			"describe": "作战服·无定星迹",
+			"storeId": 2005,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 335,
+			"productId": "com.haoplay.gf2exilium.global.315",
+			"name": "作战服·黎明战役",
+			"describe": "作战服·黎明战役",
+			"storeId": 2001,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 336,
+			"productId": "com.haoplay.gf2exilium.global.316",
+			"name": "作战服·闪耀心愿",
+			"describe": "作战服·闪耀心愿",
+			"storeId": 2006,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 337,
+			"productId": "com.haoplay.gf2exilium.global.317",
+			"name": "衣装·暮夜天河",
+			"describe": "衣装·暮夜天河",
+			"storeId": 2012,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 338,
+			"productId": "com.haoplay.gf2exilium.global.318",
+			"name": "衣装·舞会休止符",
+			"describe": "衣装·舞会休止符",
+			"storeId": 2011,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 339,
+			"productId": "com.haoplay.gf2exilium.global.319",
+			"name": "衣装·莓果沙巴翁",
+			"describe": "衣装·莓果沙巴翁",
+			"storeId": 2014,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 340,
+			"productId": "com.haoplay.gf2exilium.global.320",
+			"name": "衣装·静默心声",
+			"describe": "衣装·静默心声",
+			"storeId": 2026,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 341,
+			"productId": "com.haoplay.gf2exilium.global.321",
+			"name": "衣装·激速方格",
+			"describe": "衣装·激速方格",
+			"storeId": 2015,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 342,
+			"productId": "com.haoplay.gf2exilium.global.322",
+			"name": "衣装·速度之星",
+			"describe": "衣装·速度之星",
+			"storeId": 2016,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 343,
+			"productId": "com.haoplay.gf2exilium.global.323",
+			"name": "衣装·玉玲珑",
+			"describe": "衣装·玉玲珑",
+			"storeId": 2008,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 344,
+			"productId": "com.haoplay.gf2exilium.global.324",
+			"name": "涂装·灵海潮汐",
+			"describe": "涂装·灵海潮汐",
+			"storeId": 9001,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 345,
+			"productId": "com.haoplay.gf2exilium.global.325",
+			"name": "涂装·交叠舞步",
+			"describe": "涂装·交叠舞步",
+			"storeId": 9004,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 346,
+			"productId": "com.haoplay.gf2exilium.global.326",
+			"name": "涂装·午夜华尔兹",
+			"describe": "涂装·午夜华尔兹",
+			"storeId": 9005,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 347,
+			"productId": "com.haoplay.gf2exilium.global.327",
+			"name": "涂装·午夜华尔兹",
+			"describe": "涂装·午夜华尔兹",
+			"storeId": 9005,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 348,
+			"productId": "com.haoplay.gf2exilium.global.328",
+			"name": "仁心仁术",
+			"describe": "仁心仁术",
+			"storeId": 2036,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 349,
+			"productId": "com.haoplay.gf2exilium.global.329",
+			"name": "仁心仁术",
+			"describe": "仁心仁术",
+			"storeId": 2036,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 350,
+			"productId": "com.haoplay.gf2exilium.global.330",
+			"name": "【原价】关怀礼盒·仁心仁术",
+			"describe": "【原价】关怀礼盒·仁心仁术",
+			"storeId": 13236,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 351,
+			"productId": "com.haoplay.gf2exilium.global.331",
+			"name": "【原价】关怀衣匣·真情治愈",
+			"describe": "【原价】关怀衣匣·真情治愈",
+			"storeId": 13237,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 352,
+			"productId": "com.haoplay.gf2exilium.global.332",
+			"name": "关怀礼盒·仁心仁术",
+			"describe": "关怀礼盒·仁心仁术",
+			"storeId": 13236,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 353,
+			"productId": "com.haoplay.gf2exilium.global.333",
+			"name": "关怀衣匣·真情治愈",
+			"describe": "关怀衣匣·真情治愈",
+			"storeId": 13237,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 354,
+			"productId": "com.haoplay.gf2exilium.global.334",
+			"name": "恶魔讯号",
+			"describe": "恶魔讯号",
+			"storeId": 2144,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 355,
+			"productId": "com.haoplay.gf2exilium.global.335",
+			"name": "晨熙萌动",
+			"describe": "晨熙萌动",
+			"storeId": 2145,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 356,
+			"productId": "com.haoplay.gf2exilium.global.336",
+			"name": "暗夜禁区",
+			"describe": "暗夜禁区",
+			"storeId": 2146,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 357,
+			"productId": "com.haoplay.gf2exilium.global.337",
+			"name": "欢跃摇铃",
+			"describe": "欢跃摇铃",
+			"storeId": 2147,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 358,
+			"productId": "com.haoplay.gf2exilium.global.338",
+			"name": "暮色留痕",
+			"describe": "暮色留痕",
+			"storeId": 2148,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 359,
+			"productId": "com.haoplay.gf2exilium.global.339",
+			"name": "斑驳蹄印",
+			"describe": "斑驳蹄印",
+			"storeId": 2149,
 			"price": 0,
 			"limitBuy": 0
 		}

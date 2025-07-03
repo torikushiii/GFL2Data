@@ -56,6 +56,21 @@
 			"track": "WaterBeach"
 		},
 		{
+			"typeId": 12,
+			"selector": "Ground_Material",
+			"track": "WetMetal"
+		},
+		{
+			"typeId": 13,
+			"selector": "Ground_Material",
+			"track": "WetConcrete"
+		},
+		{
+			"typeId": 14,
+			"selector": "Ground_Material",
+			"track": "Grass"
+		},
+		{
 			"typeId": 101,
 			"selector": "Effect_Material",
 			"track": "Hole"

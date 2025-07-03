@@ -191,6 +191,16 @@
 			"dialog": {}
 		},
 		{
+			"id": 100020,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
 			"id": 100021,
 			"type": 1,
 			"npc": 7,

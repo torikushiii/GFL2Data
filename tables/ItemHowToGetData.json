@@ -107,6 +107,10 @@
 		{
 			"id": 36,
 			"title": "New Procurement"
+		},
+		{
+			"id": 99,
+			"title": "Pure Text"
 		}
 	]
 }
