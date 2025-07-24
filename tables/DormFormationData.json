@@ -2971,6 +2971,24 @@
 			"clothesId": 0
 		},
 		{
+			"id": 104806,
+			"type": 2,
+			"modleId": 1048,
+			"name": "Diagnosis",
+			"zone": 1,
+			"isBack": true,
+			"isBreak": true,
+			"clip": "c_{0}_Bedroom_06_Idle",
+			"uiicon": "Qiuhua06",
+			"loopTime": [
+				3,
+				3
+			],
+			"unlock": 1,
+			"clothesId": 1104801,
+			"unlockType": 0
+		},
+		{
 			"id": 105001,
 			"type": 2,
 			"modleId": 1050,

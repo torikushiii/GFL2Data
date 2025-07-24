@@ -203,11 +203,11 @@
 			"iconSkill1": 10500501,
 			"textSkill1": "Deals AoE Physical damage to all enemy targets within 4 tiles in the selected direction. If the target has a Hydro debuff, it applies [Stun], rendering the target unable to act. Gains Confectance Index points, and increases the critical rate of the next active attack.",
 			"iconSkill2": 10500701,
-			"textSkill2": "Summons a Breath Pin on the selected empty tile, dealing AoE Hydro damage to all enemy targets within 2 tiles around it, and applies [Breath Pin], allowing the attacker to heal when the holder of this debuff takes damage.",
+			"textSkill2": "Summons an Imperturbable Arrow on the selected empty tile, dealing AoE Hydro damage to all enemy targets within 2 tiles around it, and applies [Imperturbable Arrow], allowing the attacker to heal when the holder of this debuff takes damage.",
 			"iconSkill3": 10500401,
-			"textSkill3": "Descends to the selected tile within 2 tiles around the Breath Pin, dealing Hydro damage to the nearest enemy target within a 6-tile radius, and applies [Congestion], preventing the target from receiving healing.",
+			"textSkill3": "Descends to the selected tile within 2 tiles around the Imperturbable Arrow, dealing Hydro damage to the nearest enemy target within a 6-tile radius, and applies [Congestion], preventing the target from receiving healing.",
 			"iconSkill4": 10500801,
-			"textSkill4": "At the end of the action, the unit lands on the selected tile within 2 tiles around the Breath Pin and gains Confectance Index. When enemy units within range take targeted damage from allies, provide a support action, dealing Hydro damage and applying Damp, reducing healing effectiveness.",
+			"textSkill4": "At the end of the action, the unit lands on the selected tile within 2 tiles around the Imperturbable Arrow and gains Confectance Index. When enemy units within range take targeted damage from allies, provide a support action, dealing Hydro damage and applying Damp, reducing healing effectiveness.",
 			"gunTags": ""
 		},
 		{

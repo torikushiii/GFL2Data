@@ -1018,7 +1018,7 @@
 		},
 		{
 			"id": 3016,
-			"chars": "This stage has a time limit, countdown {0} min {1} sec"
+			"chars": "This stage has a time limit, countdown {0} min {0} sec"
 		},
 		{
 			"id": 3017,
@@ -4662,7 +4662,7 @@
 		},
 		{
 			"id": 90103,
-			"chars": "<color=#3487e0>Lava</color>: Apply <color=#3487e0>Burning II</color> to enemy units that stay on the affected tile at the end of their action. This effect lasts for <color=#f26c1c>2 turns</color>. Enemies on the tile are also inflicted with <color=#e67129>Burn</color> weakness. Considered a Burn tile.\n<color=#3487e0>Burning II</color>: Upon gaining this effect and at the end of the unit's action, take fixed damage equal to <color=#f26c1c>20%</color> of the inflictor's attack. Maximum of <color=#f26c1c>3 stacks</color>. Considered a Burn debuff."
+			"chars": "<color=#3487e0>Lava</color>: Apply <color=#3487e0>Scorch II</color> to enemy units that stay on the affected tile at the end of their action. This effect lasts for <color=#f26c1c>2 turns</color>. Enemies on the tile are also inflicted with <color=#e67129>Burn</color> weakness. Considered a Burn tile.<color=#3487e0>Scorch II</color>: Upon gaining this effect and at the end of the unit's action, take fixed damage equal to <color=#f26c1c>20%</color> of the inflictor's attack. Maximum of <color=#f26c1c>3 stacks</color>. Considered a Burn debuff."
 		},
 		{
 			"id": 90104,
@@ -4690,15 +4690,15 @@
 		},
 		{
 			"id": 90110,
-			"chars": "<color=#3487e0>Counterattack</color>: Executes an attack; cannot be triggered by Interceptions, Counterattacks, or Support Attacks"
+			"chars": "<color=#3487e0>Counterattack</color>: Executes an attack; cannot be triggered by Interceptions, Counterattacks, or Support Attacks."
 		},
 		{
 			"id": 90111,
-			"chars": "<color=#3487e0>Interception</color>: Executes an attack; cannot be triggered by Interceptions, Counterattacks, and Support Attacks"
+			"chars": "<color=#3487e0>Interception</color>: Executes an attack; cannot be triggered by Interceptions, Counterattacks, and Support Attacks."
 		},
 		{
 			"id": 90112,
-			"chars": "<color=#3487e0>Contingent Support</color>: Back-up attack. Execute a strike"
+			"chars": "<color=#3487e0>Emergency Support</color>: Back-up attack. Execute a strike."
 		},
 		{
 			"id": 90113,
@@ -17602,7 +17602,7 @@
 		},
 		{
 			"id": 274302,
-			"chars": "Windfall Gift"
+			"chars": "Festive Gift"
 		},
 		{
 			"id": 274303,
@@ -18090,11 +18090,11 @@
 		},
 		{
 			"id": 276006,
-			"chars": "Time Taken"
+			"chars": "Duration"
 		},
 		{
 			"id": 276007,
-			"chars": "High Score"
+			"chars": "Highest Score"
 		},
 		{
 			"id": 276008,
@@ -18146,11 +18146,11 @@
 		},
 		{
 			"id": 276020,
-			"chars": "Challenge Objective"
+			"chars": "Challenge Objectives"
 		},
 		{
 			"id": 276021,
-			"chars": "Receive Reward"
+			"chars": "Rewards"
 		},
 		{
 			"id": 276022,
@@ -18158,7 +18158,7 @@
 		},
 		{
 			"id": 276023,
-			"chars": "Confirm End"
+			"chars": "Exit"
 		},
 		{
 			"id": 276024,
@@ -18282,7 +18282,7 @@
 		},
 		{
 			"id": 277025,
-			"chars": "Confirm Quit"
+			"chars": "Exit"
 		},
 		{
 			"id": 277026,
@@ -25982,7 +25982,7 @@
 		},
 		{
 			"id": 440034,
-			"chars": "Do you wish to select <color=#DF9E00>{0}</color> as your rate-up weapon?\nYou can change the Doll at any time without affecting the guaranteed count."
+			"chars": "Do you wish to select <color=#DF9E00>{0}</color> as your rate-up weapon?\nYou can change the selected weapon at any time without affecting the guaranteed count."
 		},
 		{
 			"id": 440035,
@@ -26970,7 +26970,7 @@
 		},
 		{
 			"id": 530033,
-			"chars": "#ERROR!"
+			"chars": "+{0}s"
 		},
 		{
 			"id": 530034,
@@ -27814,7 +27814,7 @@
 		},
 		{
 			"id": 631002,
-			"chars": "Current Settings"
+			"chars": "Currently Selected"
 		},
 		{
 			"id": 631003,

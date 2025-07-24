@@ -178,6 +178,18 @@
 			"o_HECAHBLCPEB": 0
 		},
 		{
+			"id": 15001,
+			"name": "Life Rekindled",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				1501
+			],
+			"priority": 3,
+			"o_DBIIILHFKDF": "CommandCenterActivityAvatarItem_Qiuhua",
+			"o_HECAHBLCPEB": 0
+		},
+		{
 			"id": 16001,
 			"name": "Silvered Whispers",
 			"unlockId": 29301,

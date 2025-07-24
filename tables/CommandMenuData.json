@@ -43,13 +43,6 @@
 			"jump": 21001
 		},
 		{
-			"id": 20000,
-			"name": "Elmo Server Room",
-			"type": 2,
-			"sort": 0,
-			"jump": 0
-		},
-		{
 			"id": 21000,
 			"name": "Mail",
 			"type": 1,

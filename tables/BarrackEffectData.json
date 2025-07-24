@@ -11,6 +11,11 @@
 			"lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon"
 		},
 		{
+			"id": 100201,
+			"effectPath": "ColphneR_01",
+			"lgpPath": "lgp_Root"
+		},
+		{
 			"id": 100301,
 			"effectPath": "NemesisR01_01",
 			"lgpPath": "lgp_Root"

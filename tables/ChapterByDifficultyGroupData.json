@@ -307,6 +307,13 @@
 			]
 		},
 		{
+			"difficultyGroup": 420,
+			"id": [
+				4020,
+				94020
+			]
+		},
+		{
 			"difficultyGroup": 421,
 			"id": [
 				4021,
@@ -408,6 +415,12 @@
 			"difficultyGroup": 99419,
 			"id": [
 				994019
+			]
+		},
+		{
+			"difficultyGroup": 99420,
+			"id": [
+				994020
 			]
 		},
 		{

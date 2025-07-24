@@ -737,14 +737,6 @@
 			"stepDetail": "Eliminate Terrorhorn Chimera"
 		},
 		{
-			"id": 5101,
-			"stepDetail": "Eliminate the target unit"
-		},
-		{
-			"id": 5102,
-			"stepDetail": "Retrieve item from the designated location"
-		},
-		{
 			"id": 5103,
 			"stepDetail": "Set up mission item at marked spot"
 		},
@@ -811,6 +803,14 @@
 		{
 			"id": 5119,
 			"stepDetail": "Evacuate at least 2 allied units"
+		},
+		{
+			"id": 5120,
+			"stepDetail": "Evacuate at least 1 allied units"
+		},
+		{
+			"id": 5121,
+			"stepDetail": "Eliminate Sextans?"
 		},
 		{
 			"id": 5122,

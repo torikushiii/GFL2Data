@@ -17,6 +17,14 @@
 			]
 		},
 		{
+			"typeId": 27,
+			"coverCanExit": 140200,
+			"coverCanExitList": [
+				14020000,
+				14020090
+			]
+		},
+		{
 			"typeId": 1003,
 			"coverCanExit": 140200,
 			"coverCanExitList": [

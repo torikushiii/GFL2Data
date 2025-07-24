@@ -1285,6 +1285,18 @@
 			"deployHide": false
 		},
 		{
+			"id": 41401,
+			"condition": [
+				41401
+			],
+			"priority": 1,
+			"timing": 8,
+			"finishCondition": 0,
+			"isPause": 0,
+			"finishGroup": [],
+			"deployHide": false
+		},
+		{
 			"id": 41402,
 			"condition": [
 				41402

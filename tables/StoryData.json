@@ -13405,6 +13405,664 @@
 			"extraBonus": ""
 		},
 		{
+			"id": 32001,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32001,
+			"preId": [
+				32081
+			],
+			"nextId": [
+				32002
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32002,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32002,
+			"preId": [
+				32001
+			],
+			"nextId": [
+				32003
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32003,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32003,
+			"preId": [
+				32002
+			],
+			"nextId": [
+				32082
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"extraBonus": "12:1",
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0
+		},
+		{
+			"id": 32004,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32004,
+			"preId": [
+				32082
+			],
+			"nextId": [
+				32005
+			],
+			"position": "2250,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32005,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32005,
+			"preId": [
+				32004
+			],
+			"nextId": [
+				32083
+			],
+			"position": "2700,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32006,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32006,
+			"preId": [
+				32083
+			],
+			"nextId": [
+				32084
+			],
+			"position": "3600,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32007,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32007,
+			"preId": [
+				32084
+			],
+			"nextId": [
+				32085
+			],
+			"position": "4500,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32008,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32008,
+			"preId": [
+				32085
+			],
+			"nextId": [
+				32009
+			],
+			"position": "5400,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32009,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32009,
+			"preId": [
+				32008
+			],
+			"nextId": [
+				32086
+			],
+			"position": "5850,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32041,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32041,
+			"preId": [
+				32002
+			],
+			"position": "1575,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32042,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32042,
+			"preId": [
+				32004
+			],
+			"position": "2475,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32043,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32043,
+			"preId": [
+				32006
+			],
+			"position": "3375,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32044,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32044,
+			"preId": [
+				32007
+			],
+			"position": "5625,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32045,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32045,
+			"preId": [
+				32008
+			],
+			"position": "7425,150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32046,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32046,
+			"preId": [
+				32009
+			],
+			"position": "7875,-150",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 11,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32061,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32061,
+			"nextId": [
+				32062
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32062,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32062,
+			"preId": [
+				32061
+			],
+			"nextId": [
+				32063
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32063,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32063,
+			"preId": [
+				32062
+			],
+			"nextId": [
+				32064
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32064,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32064,
+			"preId": [
+				32063
+			],
+			"nextId": [
+				32065
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32065,
+			"chapter": 94020,
+			"stageGroup": 94020,
+			"stageId": 32065,
+			"preId": [
+				32064
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32071,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32071,
+			"nextId": [
+				32072
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32072,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32072,
+			"preId": [
+				32071
+			],
+			"nextId": [
+				32073
+			],
+			"position": "450,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32073,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32073,
+			"preId": [
+				32072
+			],
+			"nextId": [
+				32074
+			],
+			"position": "900,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32074,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32074,
+			"preId": [
+				32073
+			],
+			"nextId": [
+				32075
+			],
+			"position": "1350,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32075,
+			"chapter": 994020,
+			"stageGroup": 994020,
+			"stageId": 32075,
+			"preId": [
+				32074
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 1,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32081,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32081,
+			"nextId": [
+				32001
+			],
+			"position": "0,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"preId": [],
+			"unlockLevel": 0,
+			"startPoint": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32082,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32082,
+			"preId": [
+				32003
+			],
+			"nextId": [
+				32004
+			],
+			"position": "1800,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32083,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32083,
+			"preId": [
+				32005
+			],
+			"nextId": [
+				32006
+			],
+			"position": "3150,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32084,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32084,
+			"preId": [
+				32006
+			],
+			"nextId": [
+				32007
+			],
+			"position": "4050,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32085,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32085,
+			"preId": [
+				32007
+			],
+			"nextId": [
+				32008
+			],
+			"position": "4950,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
+			"id": 32086,
+			"chapter": 4020,
+			"stageGroup": 4020,
+			"stageId": 32086,
+			"preId": [
+				32009
+			],
+			"position": "6300,0",
+			"name": "",
+			"icon": "icon_stagetest",
+			"code": "",
+			"type": 2,
+			"startPoint": 2,
+			"nextId": [],
+			"unlockLevel": 0,
+			"hidePoint": false,
+			"battleGroupId": 0,
+			"extraBonus": ""
+		},
+		{
 			"id": 32101,
 			"chapter": 4021,
 			"stageGroup": 4021,

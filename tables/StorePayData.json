@@ -1,24 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1,
-			"productId": "com.haoplay.gf2exilium.global.1",
-			"name": "信用币×60",
-			"describe": "信用币Ⅰ",
-			"price": 1,
-			"storeId": 1,
-			"limitBuy": 0
-		},
-		{
-			"id": 2,
-			"productId": "com.haoplay.gf2exilium.global.2",
-			"name": "信用币×300",
-			"describe": "信用币Ⅱ",
-			"price": 5,
-			"storeId": 2,
-			"limitBuy": 0
-		},
-		{
 			"id": 3,
 			"productId": "com.haoplay.gf2exilium.global.3",
 			"name": "信用币×980",
@@ -2598,6 +2580,33 @@
 			"name": "精研战备礼箱",
 			"describe": "精研战备礼箱",
 			"storeId": 101810,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 325,
+			"productId": "com.haoplay.gf2exilium.global.305",
+			"name": "专属契合套装·秋桦",
+			"describe": "专属契合套装·秋桦",
+			"storeId": 101811,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 326,
+			"productId": "com.haoplay.gf2exilium.global.306",
+			"name": "专属契合套装·维克托",
+			"describe": "专属契合套装·维克托",
+			"storeId": 101812,
+			"price": 0,
+			"limitBuy": 0
+		},
+		{
+			"id": 327,
+			"productId": "com.haoplay.gf2exilium.global.307",
+			"name": "专属契合套装·桑朵莱希",
+			"describe": "专属契合套装·桑朵莱希",
+			"storeId": 101813,
 			"price": 0,
 			"limitBuy": 0
 		},

@@ -2605,18 +2605,6 @@
 			"lastJump": 0
 		},
 		{
-			"id": 2010,
-			"behavior": 1014,
-			"args": "101:0",
-			"unlockId": 11002,
-			"isAdditive": false,
-			"planOpen": 0,
-			"planOpenHint": 0,
-			"planOpenFunction": 0,
-			"planOpenArgs": 0,
-			"lastJump": 0
-		},
-		{
 			"id": 2011,
 			"behavior": 1014,
 			"args": "101:24101",
