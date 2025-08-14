@@ -637,12 +637,6 @@
 			"soundPath": 7100356
 		},
 		{
-			"id": 1009101,
-			"model": "ColphneSR01",
-			"soundType": 101,
-			"soundPath": 7100244
-		},
-		{
 			"id": 1009102,
 			"model": "ColphneSR01",
 			"soundType": 102,
@@ -1391,6 +1385,18 @@
 			"model": "GrozaSR01",
 			"soundType": 302,
 			"soundPath": 7100460
+		},
+		{
+			"id": 1018101,
+			"model": "LennaR01",
+			"soundType": 101,
+			"soundPath": 7101345
+		},
+		{
+			"id": 1018102,
+			"model": "LennaR01",
+			"soundType": 102,
+			"soundPath": 7101346
 		},
 		{
 			"id": 1018103,

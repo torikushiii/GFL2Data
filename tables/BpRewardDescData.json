@@ -10789,6 +10789,1566 @@
 				"131002": 3
 			},
 			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16001,
+			"levelId": 1,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"1": 680
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16002,
+			"levelId": 2,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16003,
+			"levelId": 3,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16004,
+			"levelId": 4,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16005,
+			"levelId": 5,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"8": 2
+			},
+			"advancedReward": {
+				"8": 4
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16006,
+			"levelId": 6,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16007,
+			"levelId": 7,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16008,
+			"levelId": 8,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110202": 3
+			},
+			"advancedReward": {
+				"110201": 3
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16009,
+			"levelId": 9,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"300004": 6
+			},
+			"advancedReward": {
+				"300005": 6
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16010,
+			"levelId": 10,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"131004": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16011,
+			"levelId": 11,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16012,
+			"levelId": 12,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16013,
+			"levelId": 13,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16014,
+			"levelId": 14,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16015,
+			"levelId": 15,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"45": 2
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16016,
+			"levelId": 16,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16017,
+			"levelId": 17,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16018,
+			"levelId": 18,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16019,
+			"levelId": 19,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16020,
+			"levelId": 20,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"131004": 1
+			},
+			"advancedReward": {
+				"131004": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16021,
+			"levelId": 21,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16022,
+			"levelId": 22,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16023,
+			"levelId": 23,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16024,
+			"levelId": 24,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16025,
+			"levelId": 25,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16026,
+			"levelId": 26,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16027,
+			"levelId": 27,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16028,
+			"levelId": 28,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16029,
+			"levelId": 29,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16030,
+			"levelId": 30,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"110003": 1
+			},
+			"advancedReward": {
+				"110028": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16031,
+			"levelId": 31,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16032,
+			"levelId": 32,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16033,
+			"levelId": 33,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16034,
+			"levelId": 34,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16035,
+			"levelId": 35,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16036,
+			"levelId": 36,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16037,
+			"levelId": 37,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16038,
+			"levelId": 38,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16039,
+			"levelId": 39,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16040,
+			"levelId": 40,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"131002": 1
+			},
+			"advancedReward": {
+				"131002": 3
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16041,
+			"levelId": 41,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16042,
+			"levelId": 42,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16043,
+			"levelId": 43,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 6000
+			},
+			"advancedReward": {
+				"8301": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16044,
+			"levelId": 44,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 6000
+			},
+			"advancedReward": {
+				"2": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16045,
+			"levelId": 45,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"45": 2
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16046,
+			"levelId": 46,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16047,
+			"levelId": 47,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16048,
+			"levelId": 48,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 6000
+			},
+			"advancedReward": {
+				"8301": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16049,
+			"levelId": 49,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 6000
+			},
+			"advancedReward": {
+				"2": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16050,
+			"levelId": 50,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"110202": 3
+			},
+			"advancedReward": {
+				"110201": 3
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16051,
+			"levelId": 51,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16052,
+			"levelId": 52,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16053,
+			"levelId": 53,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 8000
+			},
+			"advancedReward": {
+				"8301": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16054,
+			"levelId": 54,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 8000
+			},
+			"advancedReward": {
+				"2": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16055,
+			"levelId": 55,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 16056,
+			"levelId": 56,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16057,
+			"levelId": 57,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16058,
+			"levelId": 58,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 8000
+			},
+			"advancedReward": {
+				"8301": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16059,
+			"levelId": 59,
+			"rewardId": 30016,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 8000
+			},
+			"advancedReward": {
+				"2": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 16060,
+			"levelId": 60,
+			"rewardId": 30016,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"131002": 3
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17001,
+			"levelId": 1,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"1": 680
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17002,
+			"levelId": 2,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17003,
+			"levelId": 3,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17004,
+			"levelId": 4,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17005,
+			"levelId": 5,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"8": 2
+			},
+			"advancedReward": {
+				"8": 4
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17006,
+			"levelId": 6,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17007,
+			"levelId": 7,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17008,
+			"levelId": 8,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110202": 3
+			},
+			"advancedReward": {
+				"110201": 3
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17009,
+			"levelId": 9,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"300004": 6
+			},
+			"advancedReward": {
+				"300005": 6
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17010,
+			"levelId": 10,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"131004": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17011,
+			"levelId": 11,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17012,
+			"levelId": 12,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17013,
+			"levelId": 13,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17014,
+			"levelId": 14,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17015,
+			"levelId": 15,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"45": 2
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17016,
+			"levelId": 16,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17017,
+			"levelId": 17,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 4000
+			},
+			"advancedReward": {
+				"25": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17018,
+			"levelId": 18,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 4000
+			},
+			"advancedReward": {
+				"8301": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17019,
+			"levelId": 19,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 4000
+			},
+			"advancedReward": {
+				"2": 12000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17020,
+			"levelId": 20,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"131004": 1
+			},
+			"advancedReward": {
+				"131004": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17021,
+			"levelId": 21,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17022,
+			"levelId": 22,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17023,
+			"levelId": 23,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17024,
+			"levelId": 24,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17025,
+			"levelId": 25,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17026,
+			"levelId": 26,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17027,
+			"levelId": 27,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17028,
+			"levelId": 28,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17029,
+			"levelId": 29,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17030,
+			"levelId": 30,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"110003": 1
+			},
+			"advancedReward": {
+				"110028": 1
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17031,
+			"levelId": 31,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17032,
+			"levelId": 32,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17033,
+			"levelId": 33,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17034,
+			"levelId": 34,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17035,
+			"levelId": 35,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17036,
+			"levelId": 36,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17037,
+			"levelId": 37,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 5000
+			},
+			"advancedReward": {
+				"25": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17038,
+			"levelId": 38,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 5000
+			},
+			"advancedReward": {
+				"8301": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17039,
+			"levelId": 39,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 5000
+			},
+			"advancedReward": {
+				"2": 15000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17040,
+			"levelId": 40,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"131002": 1
+			},
+			"advancedReward": {
+				"131002": 3
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17041,
+			"levelId": 41,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17042,
+			"levelId": 42,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17043,
+			"levelId": 43,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 6000
+			},
+			"advancedReward": {
+				"8301": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17044,
+			"levelId": 44,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 6000
+			},
+			"advancedReward": {
+				"2": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17045,
+			"levelId": 45,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"45": 2
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17046,
+			"levelId": 46,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17047,
+			"levelId": 47,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17048,
+			"levelId": 48,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 6000
+			},
+			"advancedReward": {
+				"8301": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17049,
+			"levelId": 49,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 6000
+			},
+			"advancedReward": {
+				"2": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17050,
+			"levelId": 50,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"110202": 3
+			},
+			"advancedReward": {
+				"110201": 3
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17051,
+			"levelId": 51,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17052,
+			"levelId": 52,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17053,
+			"levelId": 53,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 8000
+			},
+			"advancedReward": {
+				"8301": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17054,
+			"levelId": 54,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 8000
+			},
+			"advancedReward": {
+				"2": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17055,
+			"levelId": 55,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"9012": 1
+			},
+			"advancedReward": {
+				"9012": 2
+			},
+			"specialEffectsReward": "1"
+		},
+		{
+			"id": 17056,
+			"levelId": 56,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"110108": 1
+			},
+			"advancedReward": {
+				"110109": 1
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17057,
+			"levelId": 57,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"25": 6000
+			},
+			"advancedReward": {
+				"25": 18000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17058,
+			"levelId": 58,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"8301": 8000
+			},
+			"advancedReward": {
+				"8301": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17059,
+			"levelId": 59,
+			"rewardId": 30017,
+			"typeReward": 1,
+			"baseReward": {
+				"2": 8000
+			},
+			"advancedReward": {
+				"2": 24000
+			},
+			"specialEffectsReward": "0"
+		},
+		{
+			"id": 17060,
+			"levelId": 60,
+			"rewardId": 30017,
+			"typeReward": 2,
+			"baseReward": {
+				"12": 1
+			},
+			"advancedReward": {
+				"131002": 3
+			},
+			"specialEffectsReward": "1"
 		}
 	]
 }

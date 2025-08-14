@@ -287,8 +287,8 @@
 			"manualType": 2,
 			"belongCamp": 1,
 			"userCamp": 1,
-			"triggerCount": 1,
-			"setTrigger": 0
+			"setTrigger": 1,
+			"triggerCount": 1
 		},
 		{
 			"id": 1096,
@@ -297,8 +297,8 @@
 			"manualType": 2,
 			"belongCamp": 1,
 			"userCamp": 1,
-			"triggerCount": 1,
-			"setTrigger": 0
+			"setTrigger": 1,
+			"triggerCount": 1
 		},
 		{
 			"id": 1097,
@@ -382,6 +382,26 @@
 		},
 		{
 			"id": 1105,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
+			"id": 1106,
+			"create": 1,
+			"lifetime": -1,
+			"manualType": 2,
+			"belongCamp": 1,
+			"userCamp": 1,
+			"setTrigger": 1,
+			"triggerCount": 1
+		},
+		{
+			"id": 1107,
 			"create": 1,
 			"lifetime": -1,
 			"manualType": 2,

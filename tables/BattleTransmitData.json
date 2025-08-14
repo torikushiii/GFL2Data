@@ -34,6 +34,17 @@
 			"effectAfterTransmit": ""
 		},
 		{
+			"id": 4,
+			"type": 5,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
 			"id": 169,
 			"type": 1,
 			"targetIgnore": 1,
@@ -282,6 +293,45 @@
 			"condition": "10550100",
 			"effectBeforeTransmit": "NikketaSSR01/10550501_Disappear",
 			"transmitFunction": 2,
+			"effectAfterTransmit": "",
+			"targetIgnore": 0
+		},
+		{
+			"id": 105804011,
+			"type": 5,
+			"transmitFunction": 2,
+			"targetIgnore": 1,
+			"shapeParam": [],
+			"target": 0,
+			"condition": "",
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": ""
+		},
+		{
+			"id": 106404023,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				0
+			],
+			"target": 2,
+			"condition": "106408012",
+			"transmitFunction": 2,
+			"effectBeforeTransmit": "",
+			"effectAfterTransmit": "",
+			"targetIgnore": 0
+		},
+		{
+			"id": 106404033,
+			"type": 2,
+			"shapeParam": [
+				3000,
+				600
+			],
+			"target": 2,
+			"condition": "106408012",
+			"transmitFunction": 2,
+			"effectBeforeTransmit": "",
 			"effectAfterTransmit": "",
 			"targetIgnore": 0
 		}

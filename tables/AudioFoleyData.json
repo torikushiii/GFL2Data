@@ -21,6 +21,11 @@
 			"track": "Ceramics"
 		},
 		{
+			"typeId": 5,
+			"selector": "Shoes",
+			"track": "Bare"
+		},
+		{
 			"typeId": 201,
 			"selector": "Clothes_Material",
 			"track": "Leather"

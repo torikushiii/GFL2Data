@@ -550,6 +550,24 @@
 			"achievement": 0
 		},
 		{
+			"id": 23079,
+			"icon": "Img_Title_GunGet_Lene",
+			"name": "Lainie - Joined",
+			"title": "Lainie - Joined",
+			"qualify": "Unlocked after obtaining Lainie",
+			"sort": 2042,
+			"achievement": 0
+		},
+		{
+			"id": 23085,
+			"icon": "Img_Title_GunGet_Florence",
+			"name": "Florence - Joined",
+			"title": "Florence - Joined",
+			"qualify": "Unlocked after obtaining Florence",
+			"sort": 2048,
+			"achievement": 0
+		},
+		{
 			"id": 23092,
 			"icon": "Img_Title_HighPVP_Season7",
 			"name": "Crisis Infiltration",
@@ -748,12 +766,39 @@
 			"achievement": 0
 		},
 		{
+			"id": 23114,
+			"icon": "Img_Title_Love_Lene",
+			"name": "Parapluie Princess",
+			"title": "Parapluie Princess",
+			"qualify": "\"Whether it's rain or shine, don't leave home without your umbrella!\"\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3029,
+			"achievement": 0
+		},
+		{
 			"id": 23115,
 			"icon": "Img_Title_Love_Robella",
 			"name": "Exclusive Tokusatsu Director",
 			"title": "Exclusive Tokusatsu Director",
 			"qualify": "If you're producing a toku series, then, then I'd like to be... the protagonist...\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
 			"sort": 3030,
+			"achievement": 0
+		},
+		{
+			"id": 23116,
+			"icon": "Img_Title_Love_Krolik",
+			"name": "Specialist in Bunny Activities",
+			"title": "Specialist in Bunny Activities",
+			"qualify": "Not even the most cautious bunny would realize that someday, she'd allow someone else to understand her this well.\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3031,
+			"achievement": 0
+		},
+		{
+			"id": 23117,
+			"icon": "Img_Title_Love_Florence",
+			"name": "Cenobite Contractor",
+			"title": "Cenobite Contractor",
+			"qualify": "The eternal covenant has been established. Now, are you ready to sate her appetite?\nProof of affinity with a Doll, unlocked after reaching affinity level 8.",
+			"sort": 3032,
 			"achievement": 0
 		},
 		{
@@ -898,6 +943,15 @@
 			"title": "Elmo Museum",
 			"qualify": "Unlocked after Overall Recollection Score reaches 2,200.",
 			"sort": 1208,
+			"achievement": 0
+		},
+		{
+			"id": 23157,
+			"icon": "Img_Title_HighPVP_Season16",
+			"name": "Fission Frenzy",
+			"title": "Fission Frenzy",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Fission Frenzy.",
+			"sort": 1022,
 			"achievement": 0
 		},
 		{

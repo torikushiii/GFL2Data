@@ -313,6 +313,18 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 53,
+			"name": "Activate all nodes in Lainie's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
+			"id": 54,
+			"name": "Activate all nodes in Florence's Neural Helix",
+			"des": "Must unlock all previous nodes",
+			"conditionNum": 1
+		},
+		{
 			"id": 9999,
 			"name": "Reached Commander Level 30",
 			"des": "Unlock conditions for testing",
@@ -1165,6 +1177,18 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 60105,
+			"name": "Iaso",
+			"des": "Acquire <COLOR=#F26C1C>Iaso</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60110,
+			"name": "Perihelion",
+			"des": "Acquire <COLOR=#F26C1C>Perihelion</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
 			"id": 60111,
 			"name": "Wanderer's Magnum",
 			"des": "Acquire <color=#F26C1C>Wanderer's Magnum</COLOR> to unlock",
@@ -1195,6 +1219,30 @@
 			"conditionNum": 1
 		},
 		{
+			"id": 60122,
+			"name": "Pistolet 15",
+			"des": "Acquire <COLOR=#F26C1C>Pistolet 15</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60128,
+			"name": "UMP40",
+			"des": "Acquire <COLOR=#F26C1C>UMP40</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60129,
+			"name": "RO635 SMG",
+			"des": "Acquire <COLOR=#F26C1C>RO635</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60130,
+			"name": "UMP45",
+			"des": "Acquire <COLOR=#F26C1C>UMP45</COLOR> to unlock.",
+			"conditionNum": 1
+		},
+		{
 			"id": 60131,
 			"name": "VSK-94",
 			"des": "Acquire <COLOR=#F26C1C>VSK-94</COLOR> to unlock",
@@ -1210,6 +1258,18 @@
 			"id": 60133,
 			"name": "MP5H1",
 			"des": "Acquire <color=#F26C1C>Retired MP5H1</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60140,
+			"name": "Retired Pistolet 15",
+			"des": "Acquire <COLOR=#F26C1C>Retired Pistolet 15</COLOR> to unlock",
+			"conditionNum": 1
+		},
+		{
+			"id": 60146,
+			"name": "Retired UMP40",
+			"des": "Acquire <COLOR=#F26C1C>Retired UMP40</COLOR> to unlock",
 			"conditionNum": 1
 		},
 		{

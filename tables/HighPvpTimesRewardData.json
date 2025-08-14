@@ -447,6 +447,38 @@
 			"reward": {
 				"4131494": 1
 			}
+		},
+		{
+			"id": 57,
+			"rewardGroup": 1018,
+			"o_IPGFDDCFEGE": 5,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 58,
+			"rewardGroup": 1018,
+			"o_IPGFDDCFEGE": 10,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 59,
+			"rewardGroup": 1018,
+			"o_IPGFDDCFEGE": 15,
+			"reward": {
+				"1": 150
+			}
+		},
+		{
+			"id": 60,
+			"rewardGroup": 1018,
+			"o_IPGFDDCFEGE": 20,
+			"reward": {
+				"4133584": 1
+			}
 		}
 	]
 }

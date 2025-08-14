@@ -6509,6 +6509,24 @@
 			"defValueEnemy": 0
 		},
 		{
+			"id": 678101,
+			"aiId": 6781,
+			"preiodId": 1,
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 678101,
+			"farMoveWeight": 5000,
+			"farLimit": 1000,
+			"condition": "",
+			"skill": [],
+			"skillCal": "",
+			"attackParam": 0,
+			"skillPriority": [],
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
 			"id": 685101,
 			"aiId": 6851,
 			"preiodId": 1,
@@ -8324,6 +8342,24 @@
 			"defValueEnemy": 0
 		},
 		{
+			"id": 2072011,
+			"aiId": 2072011,
+			"preiodId": 1,
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 2072011,
+			"farMoveWeight": 5000,
+			"farLimit": 1000,
+			"condition": "",
+			"skill": [],
+			"skillCal": "",
+			"attackParam": 0,
+			"skillPriority": [],
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
 			"id": 6169201,
 			"aiId": 61692,
 			"preiodId": 1,
@@ -8706,6 +8742,106 @@
 			"defValueEnemy": 0
 		},
 		{
+			"id": 6487101,
+			"aiId": 64871,
+			"preiodId": 1,
+			"skill": [
+				49,
+				48,
+				53,
+				48
+			],
+			"skillCal": "0",
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6487101,
+			"farLimit": 1000,
+			"skillPriority": [
+				9999
+			],
+			"condition": "",
+			"attackParam": 0,
+			"farMoveWeight": 0,
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
+			"id": 6487201,
+			"aiId": 64872,
+			"preiodId": 1,
+			"skill": [
+				49,
+				48,
+				53,
+				48
+			],
+			"skillCal": "0",
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6487201,
+			"farLimit": 1000,
+			"skillPriority": [
+				9999
+			],
+			"condition": "",
+			"attackParam": 0,
+			"farMoveWeight": 0,
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
+			"id": 6488101,
+			"aiId": 64881,
+			"preiodId": 1,
+			"skill": [
+				49,
+				48,
+				53,
+				48
+			],
+			"skillCal": "0",
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6488101,
+			"farLimit": 1000,
+			"skillPriority": [
+				9999
+			],
+			"condition": "",
+			"attackParam": 0,
+			"farMoveWeight": 0,
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
+			"id": 6488201,
+			"aiId": 64882,
+			"preiodId": 1,
+			"skill": [
+				49,
+				48,
+				53,
+				48
+			],
+			"skillCal": "0",
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6488201,
+			"farLimit": 1000,
+			"skillPriority": [
+				9999
+			],
+			"condition": "",
+			"attackParam": 0,
+			"farMoveWeight": 0,
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
 			"id": 6761201,
 			"aiId": 67612,
 			"preiodId": 1,
@@ -8761,6 +8897,48 @@
 			"actionParam": 0,
 			"farMoveWeight": 0,
 			"farLimit": 0,
+			"skillPriority": [],
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
+			"id": 6773201,
+			"aiId": 67732,
+			"preiodId": 1,
+			"skill": [
+				56,
+				53,
+				48
+			],
+			"skillCal": "0",
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6773201,
+			"farMoveWeight": 5000,
+			"farLimit": 1000,
+			"skillPriority": [
+				9999
+			],
+			"condition": "",
+			"attackParam": 0,
+			"farmoveTactic": 0,
+			"defValueEnemy": 0
+		},
+		{
+			"id": 6781101,
+			"aiId": 67811,
+			"preiodId": 1,
+			"moveParam": 1000,
+			"timelineId": 1000,
+			"actionParam": 1000,
+			"groundParam": 6781101,
+			"farMoveWeight": 5000,
+			"farLimit": 1000,
+			"condition": "",
+			"skill": [],
+			"skillCal": "",
+			"attackParam": 0,
 			"skillPriority": [],
 			"farmoveTactic": 0,
 			"defValueEnemy": 0

@@ -281,6 +281,16 @@
 			"hintIdThird": 71240
 		},
 		{
+			"gunId": 1058,
+			"hintIdSecond": 71201,
+			"hintIdThird": 71241
+		},
+		{
+			"gunId": 1064,
+			"hintIdSecond": 71201,
+			"hintIdThird": 71242
+		},
+		{
 			"gunId": 1090,
 			"hintIdSecond": 71201,
 			"hintIdThird": 71202

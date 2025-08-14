@@ -1491,6 +1491,21 @@
 			"sequence": 0
 		},
 		{
+			"id": 20009,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "Locked",
+			"unlockName": "Player care gallery",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
 			"id": 21000,
 			"lockType": 1,
 			"prompt": "Reach Commander Level 1 to unlock Mail",
@@ -1570,6 +1585,21 @@
 			"unlockName": "Show",
 			"conditionType": 0,
 			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23004,
+			"condition": [
+				99100
+			],
+			"lockType": 1,
+			"prompt": "Complete Story Campaign 2-1 to unlock Comms",
+			"unlockName": "Status",
+			"conditionType": 0,
 			"interfaceId": 0,
 			"icon": "",
 			"homeButtonRedhint": 0,
@@ -2248,7 +2278,7 @@
 				31002
 			],
 			"prompt": "Complete Story Campaign 2-4 to unlock Auto Battle",
-			"unlockName": "Auto Battle",
+			"unlockName": "Proxy Battle",
 			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
@@ -2668,6 +2698,21 @@
 			],
 			"prompt": "Complete Story Campaign SL-1-2 to unlock Events",
 			"unlockName": "Anniversary Gift Page",
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 43001,
+			"condition": [
+				99999
+			],
+			"prompt": "Locked",
+			"unlockName": "Extreme Peak",
+			"conditionType": 0,
 			"lockType": 0,
 			"interfaceId": 0,
 			"icon": "",

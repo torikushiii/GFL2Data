@@ -1949,19 +1949,6 @@
 			"finishCondition": 0,
 			"finishConditionList": [],
 			"finishGroup": []
-		},
-		{
-			"id": 9301,
-			"priority": 9301,
-			"timing": 9301,
-			"lastTutorialGroup": [],
-			"condition": [],
-			"clientCondition": [],
-			"globalTab": 0,
-			"tabPaths": [],
-			"finishCondition": 0,
-			"finishConditionList": [],
-			"finishGroup": []
 		}
 	]
 }

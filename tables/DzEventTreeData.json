@@ -1021,41 +1021,13 @@
 			"nextEvent": [
 				5011002
 			],
-			"resultList": "13:5011002-0",
+			"resultList": "13:5011081-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5011002,
-			"condition": "16:5011002-1",
-			"resultList": "14:5011002-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5011011,
-			"nextEvent": [
-				5011012
-			],
-			"resultList": "13:5011014-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5011012,
-			"condition": "16:5011014-1",
-			"resultList": "14:5011014-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5011021,
-			"nextEvent": [
-				5011022
-			],
-			"resultList": "13:5011025-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5011022,
-			"condition": "16:5011025-1",
-			"resultList": "14:5011025-0",
+			"condition": "16:5011081-1",
+			"resultList": "14:5011081-0",
 			"nextEvent": []
 		},
 		{
@@ -1065,29 +1037,17 @@
 			"nextEvent": []
 		},
 		{
-			"eventId": 5011101,
-			"resultList": "18:2008,2:30402-0",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
 			"eventId": 5012091,
-			"resultList": "13:5012155-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5013091,
 			"nextEvent": [
-				5013092
+				5012092
 			],
-			"resultList": "13:5013168-0-39",
+			"resultList": "13:5012001-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5013092,
-			"condition": "16:5013168-1",
-			"resultList": "14:5013168-0-39",
+			"eventId": 5012092,
+			"condition": "16:5012001-1",
+			"resultList": "14:5012001-0-39",
 			"nextEvent": []
 		},
 		{
@@ -1095,41 +1055,13 @@
 			"nextEvent": [
 				5021002
 			],
-			"resultList": "13:5021007-0",
+			"resultList": "13:5021010-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5021002,
-			"condition": "16:5021007-1",
-			"resultList": "14:5021007-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5021011,
-			"nextEvent": [
-				5021012
-			],
-			"resultList": "13:5021116-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5021012,
-			"condition": "16:5021116-1",
-			"resultList": "14:5021116-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5021021,
-			"nextEvent": [
-				5021022
-			],
-			"resultList": "13:5021273-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5021022,
-			"condition": "16:5021273-1",
-			"resultList": "14:5021273-0",
+			"condition": "16:5021010-1",
+			"resultList": "14:5021010-0",
 			"nextEvent": []
 		},
 		{
@@ -1140,22 +1072,16 @@
 		},
 		{
 			"eventId": 5022091,
-			"resultList": "13:5022002-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5023091,
 			"nextEvent": [
-				5023092
+				5022092
 			],
-			"resultList": "13:5023001-0-39",
+			"resultList": "13:5022012-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5023092,
-			"condition": "16:5023001-1",
-			"resultList": "14:5023001-0-39",
+			"eventId": 5022092,
+			"condition": "16:5022012-1",
+			"resultList": "14:5022012-0-39",
 			"nextEvent": []
 		},
 		{
@@ -1163,41 +1089,13 @@
 			"nextEvent": [
 				5031002
 			],
-			"resultList": "13:5031132-0",
+			"resultList": "13:5031024-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5031002,
-			"condition": "16:5031132-1",
-			"resultList": "14:5031132-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5031011,
-			"nextEvent": [
-				5031012
-			],
-			"resultList": "13:5031139-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5031012,
-			"condition": "16:5031139-1",
-			"resultList": "14:5031139-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5031021,
-			"nextEvent": [
-				5031022
-			],
-			"resultList": "13:5031167-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5031022,
-			"condition": "16:5031167-1",
-			"resultList": "14:5031167-0",
+			"condition": "16:5031024-1",
+			"resultList": "14:5031024-0",
 			"nextEvent": []
 		},
 		{
@@ -1208,22 +1106,16 @@
 		},
 		{
 			"eventId": 5032091,
-			"resultList": "13:5032165-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5033091,
 			"nextEvent": [
-				5033092
+				5032092
 			],
-			"resultList": "13:5033119-0-39",
+			"resultList": "13:5032049-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5033092,
-			"condition": "16:5033119-1",
-			"resultList": "14:5033119-0-39",
+			"eventId": 5032092,
+			"condition": "16:5032049-1",
+			"resultList": "14:5032049-0-39",
 			"nextEvent": []
 		},
 		{
@@ -1231,41 +1123,13 @@
 			"nextEvent": [
 				5041002
 			],
-			"resultList": "13:5041050-0",
+			"resultList": "13:5041001-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5041002,
-			"condition": "16:5041050-1",
-			"resultList": "14:5041050-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5041011,
-			"nextEvent": [
-				5041012
-			],
-			"resultList": "13:5041139-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5041012,
-			"condition": "16:5041139-1",
-			"resultList": "14:5041139-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5041021,
-			"nextEvent": [
-				5041022
-			],
-			"resultList": "13:5041121-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5041022,
-			"condition": "16:5041121-1",
-			"resultList": "14:5041121-0",
+			"condition": "16:5041001-1",
+			"resultList": "14:5041001-0",
 			"nextEvent": []
 		},
 		{
@@ -1276,22 +1140,16 @@
 		},
 		{
 			"eventId": 5042091,
-			"resultList": "13:5042016-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5043091,
 			"nextEvent": [
-				5043092
+				5042092
 			],
-			"resultList": "13:5043076-0-39",
+			"resultList": "13:5042080-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5043092,
-			"condition": "16:5043076-1",
-			"resultList": "14:5043076-0-39",
+			"eventId": 5042092,
+			"condition": "16:5042080-1",
+			"resultList": "14:5042080-0-39",
 			"nextEvent": []
 		},
 		{
@@ -1299,41 +1157,13 @@
 			"nextEvent": [
 				5051002
 			],
-			"resultList": "13:5051142-0",
+			"resultList": "13:5051005-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5051002,
-			"condition": "16:5051142-1",
-			"resultList": "14:5051142-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5051011,
-			"nextEvent": [
-				5051012
-			],
-			"resultList": "13:5051156-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5051012,
-			"condition": "16:5051156-1",
-			"resultList": "14:5051156-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5051021,
-			"nextEvent": [
-				5051022
-			],
-			"resultList": "13:5051177-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5051022,
-			"condition": "16:5051177-1",
-			"resultList": "14:5051177-0",
+			"condition": "16:5051005-1",
+			"resultList": "14:5051005-0",
 			"nextEvent": []
 		},
 		{
@@ -1344,22 +1174,16 @@
 		},
 		{
 			"eventId": 5052091,
-			"resultList": "13:5052017-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5053091,
 			"nextEvent": [
-				5053092
+				5052092
 			],
-			"resultList": "13:5053001-0-39",
+			"resultList": "13:5052040-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5053092,
-			"condition": "16:5053001-1",
-			"resultList": "14:5053001-0-39",
+			"eventId": 5052092,
+			"condition": "16:5052040-1",
+			"resultList": "14:5052040-0-39",
 			"nextEvent": []
 		},
 		{
@@ -1367,41 +1191,13 @@
 			"nextEvent": [
 				5061002
 			],
-			"resultList": "13:5061112-0",
+			"resultList": "13:5061005-0",
 			"condition": ""
 		},
 		{
 			"eventId": 5061002,
-			"condition": "16:5061112-1",
-			"resultList": "14:5061112-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5061011,
-			"nextEvent": [
-				5061012
-			],
-			"resultList": "13:5061105-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5061012,
-			"condition": "16:5061105-1",
-			"resultList": "14:5061105-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5061021,
-			"nextEvent": [
-				5061022
-			],
-			"resultList": "13:5061002-0",
-			"condition": ""
-		},
-		{
-			"eventId": 5061022,
-			"condition": "16:5061002-1",
-			"resultList": "14:5061002-0",
+			"condition": "16:5061005-1",
+			"resultList": "14:5061005-0",
 			"nextEvent": []
 		},
 		{
@@ -1412,22 +1208,16 @@
 		},
 		{
 			"eventId": 5062091,
-			"resultList": "13:5062001-0-40",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 5063091,
 			"nextEvent": [
-				5063092
+				5062092
 			],
-			"resultList": "13:5063128-0-39",
+			"resultList": "13:5062058-0-39",
 			"condition": ""
 		},
 		{
-			"eventId": 5063092,
-			"condition": "16:5063128-1",
-			"resultList": "14:5063128-0-39",
+			"eventId": 5062092,
+			"condition": "16:5062058-1",
+			"resultList": "14:5062058-0-39",
 			"nextEvent": []
 		}
 	]

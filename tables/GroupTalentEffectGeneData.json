@@ -199,15 +199,6 @@
 			"cost": {}
 		},
 		{
-			"id": 210040501,
-			"talentEffectGeneGroup": 2100405,
-			"level": 1,
-			"propertyId": 8100405,
-			"tpItemCost": 100,
-			"itemId": 0,
-			"cost": {}
-		},
-		{
 			"id": 210040601,
 			"talentEffectGeneGroup": 2100406,
 			"level": 1,
@@ -2102,6 +2093,114 @@
 			"talentEffectGeneGroup": 2103906,
 			"level": 1,
 			"propertyId": 8103906,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400101,
+			"talentEffectGeneGroup": 2104001,
+			"level": 1,
+			"propertyId": 8104001,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400201,
+			"talentEffectGeneGroup": 2104002,
+			"level": 1,
+			"propertyId": 8104002,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400301,
+			"talentEffectGeneGroup": 2104003,
+			"level": 1,
+			"propertyId": 8104003,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400401,
+			"talentEffectGeneGroup": 2104004,
+			"level": 1,
+			"propertyId": 8104004,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400501,
+			"talentEffectGeneGroup": 2104005,
+			"level": 1,
+			"propertyId": 8104005,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210400601,
+			"talentEffectGeneGroup": 2104006,
+			"level": 1,
+			"propertyId": 8104006,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410101,
+			"talentEffectGeneGroup": 2104101,
+			"level": 1,
+			"propertyId": 8104101,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410201,
+			"talentEffectGeneGroup": 2104102,
+			"level": 1,
+			"propertyId": 8104102,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410301,
+			"talentEffectGeneGroup": 2104103,
+			"level": 1,
+			"propertyId": 8104103,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410401,
+			"talentEffectGeneGroup": 2104104,
+			"level": 1,
+			"propertyId": 8104104,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410501,
+			"talentEffectGeneGroup": 2104105,
+			"level": 1,
+			"propertyId": 8104105,
+			"tpItemCost": 100,
+			"itemId": 0,
+			"cost": {}
+		},
+		{
+			"id": 210410601,
+			"talentEffectGeneGroup": 2104106,
+			"level": 1,
+			"propertyId": 8104106,
 			"tpItemCost": 100,
 			"itemId": 0,
 			"cost": {}
@@ -4639,6 +4738,15 @@
 			"cost": {}
 		},
 		{
+			"id": 310310801,
+			"talentEffectGeneGroup": 3103108,
+			"level": 1,
+			"itemId": 921042,
+			"propertyId": 0,
+			"tpItemCost": 0,
+			"cost": {}
+		},
+		{
 			"id": 310320101,
 			"talentEffectGeneGroup": 3103201,
 			"level": 1,
@@ -4784,6 +4892,15 @@
 			"talentEffectGeneGroup": 3103307,
 			"level": 1,
 			"itemId": 901043,
+			"propertyId": 0,
+			"tpItemCost": 0,
+			"cost": {}
+		},
+		{
+			"id": 310330801,
+			"talentEffectGeneGroup": 3103308,
+			"level": 1,
+			"itemId": 921043,
 			"propertyId": 0,
 			"tpItemCost": 0,
 			"cost": {}
@@ -5234,6 +5351,156 @@
 			"talentEffectGeneGroup": 3103907,
 			"level": 1,
 			"itemId": 901057,
+			"propertyId": 0,
+			"tpItemCost": 0,
+			"cost": {}
+		},
+		{
+			"id": 310400101,
+			"talentEffectGeneGroup": 3104001,
+			"level": 1,
+			"itemId": 205801,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400201,
+			"talentEffectGeneGroup": 3104002,
+			"level": 1,
+			"itemId": 205802,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400301,
+			"talentEffectGeneGroup": 3104003,
+			"level": 1,
+			"itemId": 205803,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400401,
+			"talentEffectGeneGroup": 3104004,
+			"level": 1,
+			"itemId": 205804,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400501,
+			"talentEffectGeneGroup": 3104005,
+			"level": 1,
+			"itemId": 205805,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400601,
+			"talentEffectGeneGroup": 3104006,
+			"level": 1,
+			"itemId": 205806,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310400701,
+			"talentEffectGeneGroup": 3104007,
+			"level": 1,
+			"itemId": 901058,
+			"propertyId": 0,
+			"tpItemCost": 0,
+			"cost": {}
+		},
+		{
+			"id": 310410101,
+			"talentEffectGeneGroup": 3104101,
+			"level": 1,
+			"itemId": 206401,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410201,
+			"talentEffectGeneGroup": 3104102,
+			"level": 1,
+			"itemId": 206402,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410301,
+			"talentEffectGeneGroup": 3104103,
+			"level": 1,
+			"itemId": 206403,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410401,
+			"talentEffectGeneGroup": 3104104,
+			"level": 1,
+			"itemId": 206404,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410501,
+			"talentEffectGeneGroup": 3104105,
+			"level": 1,
+			"itemId": 206405,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410601,
+			"talentEffectGeneGroup": 3104106,
+			"level": 1,
+			"itemId": 206406,
+			"cost": {
+				"9004": 1
+			},
+			"propertyId": 0,
+			"tpItemCost": 0
+		},
+		{
+			"id": 310410701,
+			"talentEffectGeneGroup": 3104107,
+			"level": 1,
+			"itemId": 901064,
 			"propertyId": 0,
 			"tpItemCost": 0,
 			"cost": {}

@@ -50,19 +50,6 @@
 			"isOriginTimeline": 0
 		},
 		{
-			"id": 6112101,
-			"animLength": [
-				110
-			],
-			"actionParamName": [],
-			"actionType": [],
-			"originState": "",
-			"isIk": false,
-			"isOriginTimeline": 0,
-			"fpsCreation": "",
-			"fakeCreation": ""
-		},
-		{
 			"id": 6120101,
 			"animLength": [
 				110

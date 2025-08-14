@@ -1898,6 +1898,13 @@
 			"jumpCode": "31013"
 		},
 		{
+			"id": 270015,
+			"type": 27,
+			"title": "Military Simulation Season - Fission Frenzy",
+			"canJump": true,
+			"jumpCode": "31014"
+		},
+		{
 			"id": 280101,
 			"type": 28,
 			"title": "Neural Survey 1-1",
@@ -2365,6 +2372,34 @@
 			"title": "Temporary Base - Part 2",
 			"canJump": true,
 			"jumpCode": "5024"
+		},
+		{
+			"id": 290031,
+			"type": 29,
+			"title": "Data Consolidation Program",
+			"canJump": true,
+			"jumpCode": "5026"
+		},
+		{
+			"id": 290032,
+			"type": 29,
+			"title": "Souvenir Shop",
+			"canJump": true,
+			"jumpCode": "5027"
+		},
+		{
+			"id": 290038,
+			"type": 29,
+			"title": "Villa of Moments - Part 1",
+			"canJump": true,
+			"jumpCode": "5033"
+		},
+		{
+			"id": 290039,
+			"type": 29,
+			"title": "Villa of Moments - Part 2",
+			"canJump": true,
+			"jumpCode": "5034"
 		},
 		{
 			"id": 310001,
@@ -2836,6 +2871,27 @@
 			"jumpCode": ""
 		},
 		{
+			"id": 341058,
+			"type": 34,
+			"title": "Neural Helix - Lainie",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 341064,
+			"type": 34,
+			"title": "Neural Helix - Florence",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 351001,
+			"type": 35,
+			"title": "Increase Krolik's Affinity",
+			"canJump": true,
+			"jumpCode": "4017"
+		},
+		{
 			"id": 351013,
 			"type": 35,
 			"title": "Increase Lenna's Affinity",
@@ -3016,6 +3072,20 @@
 			"title": "Increase Robella's Affinity",
 			"canJump": true,
 			"jumpCode": "4055"
+		},
+		{
+			"id": 351058,
+			"type": 35,
+			"title": "Increase Lainie's Affinity",
+			"canJump": true,
+			"jumpCode": "4056"
+		},
+		{
+			"id": 351064,
+			"type": 35,
+			"title": "Increase Florence's Affinity",
+			"canJump": true,
+			"jumpCode": "4057"
 		},
 		{
 			"id": 360001,

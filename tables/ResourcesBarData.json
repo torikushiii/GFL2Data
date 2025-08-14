@@ -252,7 +252,7 @@
 		},
 		{
 			"interfaceId": 601,
-			"resources": "101",
+			"resources": "101:2",
 			"color": 1,
 			"system": "",
 			"systemIcon": "",
@@ -1283,7 +1283,7 @@
 		{
 			"interfaceId": 13004,
 			"ruleButton": 1,
-			"ppt": 3028,
+			"ppt": 3041,
 			"resources": "",
 			"system": "",
 			"systemIcon": "",
@@ -1419,6 +1419,16 @@
 			"system": "",
 			"systemIcon": "",
 			"color": 0
+		},
+		{
+			"interfaceId": 30068,
+			"resources": "177106,177107",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
 		}
 	]
 }

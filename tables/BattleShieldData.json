@@ -2,19 +2,15 @@
 	"data": [
 		{
 			"id": 1,
-			"criticalHit": 0
-		},
-		{
-			"id": 2,
 			"criticalHit": 1
 		},
 		{
-			"id": 3,
-			"criticalHit": 0
+			"id": 2,
+			"criticalHit": 2
 		},
 		{
-			"id": 4,
-			"criticalHit": 0
+			"id": 3,
+			"criticalHit": 3
 		}
 	]
 }

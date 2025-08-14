@@ -3082,6 +3082,240 @@
 			"isHide": false
 		},
 		{
+			"id": 10581,
+			"name": "Retired UMP40",
+			"description": "A cheap weapon purchased from an underground broker. It has heavy recoil and is tiring to control.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP40_3",
+			"resPath": "Player/LeneR01/LeneR01_WL",
+			"brand": "UMP40",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41137
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10582,
+			"name": "UMP40",
+			"description": "A firearm highly compatible with Lainie. Modified based on her combat preferences. Its frame has been lightened and rebuilt with advanced composites, improving its reliability at high rates of fire.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP40_4",
+			"resPath": "Player/LeneSR01/LeneSR01_WL",
+			"brand": "UMP40",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41138
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10583,
+			"name": "Perihelion",
+			"description": "A high-performance SMG assigned to Lainie. Based on the UMP40. Its internals have been modified to greatly increase its stopping power. If you make war on the sun, prepare to get burned.",
+			"type": 2,
+			"modelstype": 1,
+			"bullettype": 5,
+			"resCode": "Weapon_UMP40_5",
+			"resPath": "Player/LeneSSR01/LeneSSR01_WL",
+			"brand": "UMP40",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41139
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2012,
+				1012,
+				12012,
+				3012
+			],
+			"modNum": 402,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10641,
+			"name": "Retired Pistolet 15",
+			"description": "A cheap weapon you can find anywhere in the Yellow Zone. It's severely worn and barely serviceable.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_PA15_3",
+			"resPath": "Player/FlorenceR01/FlorenceR01_WL",
+			"brand": "PA15",
+			"rank": 3,
+			"buffSkill": 1000,
+			"slot": [
+				400
+			],
+			"expRate": 1200,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41140
+			],
+			"soldGet": {
+				"15341": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"modNum": 101,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10642,
+			"name": "Pistolet 15",
+			"description": "A firearm highly compatible with Florence. Modified based on her combat preferences, increasing its firepower and durability.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_PA15_4",
+			"resPath": "Player/FlorenceSR01/FlorenceSR01_WL",
+			"brand": "PA15",
+			"rank": 4,
+			"buffSkill": 1000,
+			"slot": [
+				1000
+			],
+			"expRate": 3000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41141
+			],
+			"soldGet": {
+				"15342": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"modNum": 101,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
+			"id": 10643,
+			"name": "Iaso",
+			"description": "A high-performance pistol assigned to FLorence. Based on the Pistolet 15, featuring increased rate of fire while maintaining safety and maneuverability, making it very powerful. With its help, Florence can bring out her true power.",
+			"type": 1,
+			"modelstype": 1,
+			"bullettype": 3,
+			"resCode": "Weapon_PA15_5",
+			"resPath": "Player/FlorenceSSR01/FlorenceSSR01_WL",
+			"brand": "PA15",
+			"rank": 5,
+			"buffSkill": 1000,
+			"slot": [
+				2000
+			],
+			"expRate": 6000,
+			"weaponOfferExp": 60,
+			"weaponNeedCash": 6,
+			"soldDrop": [
+				41142
+			],
+			"soldGet": {
+				"15343": 60
+			},
+			"propertyId": 30,
+			"advanceWeapon": [
+				2041,
+				1032,
+				9012,
+				11012
+			],
+			"modNum": 101,
+			"modTypeGroup": [
+				2
+			],
+			"element": 0,
+			"elemenSkill": 0,
+			"isHide": false
+		},
+		{
 			"id": 11007,
 			"name": "Hare",
 			"description": "A melee weapon highly compatible with Krolik. Modified based on her combat preferences and painted with a skin that matches Krolik's colors.",

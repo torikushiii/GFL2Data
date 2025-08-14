@@ -161,6 +161,46 @@
 			"hintId": 390301
 		},
 		{
+			"errorcodeId": 10937,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10938,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10939,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10940,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10941,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10942,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10943,
+			"hintId": 390448
+		},
+		{
+			"errorcodeId": 10949,
+			"hintId": 390456
+		},
+		{
+			"errorcodeId": 10950,
+			"hintId": 390457
+		},
+		{
+			"errorcodeId": 10951,
+			"hintId": 390458
+		},
+		{
 			"errorcodeId": 11000,
 			"hintId": 390224
 		},
@@ -435,6 +475,10 @@
 		{
 			"errorcodeId": 14208,
 			"hintId": 300063
+		},
+		{
+			"errorcodeId": 14209,
+			"hintId": 300065
 		},
 		{
 			"errorcodeId": 14210,

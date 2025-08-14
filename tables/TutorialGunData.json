@@ -377,6 +377,34 @@
 			"iconSkill4": 10570801,
 			"textSkill4": "Robella gains Confectance Index at the end of her action. \nAfter performing [Frigid Infiltration], expends all stacks of [Inspection] on the target and gains an equal number of [Sense Weakness], which increases the damage of basic attacks and Ultimate skills.\nWhen Robella has more than 2 stacks of [Sense Weakness], her basic attacks deal Freeze damage and her critical rate is increased.",
 			"gunTags": ""
+		},
+		{
+			"id": 39028,
+			"sourceGunid": 1058,
+			"briefIntro": "Lainie is a Sentinel-class Doll with extremely high DPS. She can summon a controllable [Simulacrum] which inherits all of Lainie's stats and gear effects. When directing Lainie or her Simulacrum to make an active attack, the other will automatically use the corresponding skill to attack the selected target.",
+			"iconSkill1": 10580501,
+			"textSkill1": "Deals Physical damage. If [Simulacrum] is on the field, after this skill, [Simulacrum] uses the active skill [Offense Simulation] centered on itself. If it does not hit the target of [Combat Algorithm], it ignores part of the target's defense.",
+			"iconSkill2": 10580701,
+			"textSkill2": "Deals AoE Physical damage to the target and all nearby targets. If [Simulacrum] is on the field, after this skill [Simulacrum] performs the active skill [Hashrate Overclock] centered on herself and applies [Movement Down I].",
+			"iconSkill3": 10580401,
+			"textSkill3": "Select an empty tile and summon a [Simulacrum]. Lainie and the simulacrum gain [Bonded Possibility], which increases their stability damage dealt. At the end of the round, Lainie expends Confectance Index. If Lainie does not have enough Confectance Index, the Simulacrum vanishes. This skill cannot be used when the Simulacrum is on the field.\n[Simulacrum]: A clone of Lainie that can be independently controlled. Inherits all of Lainie's stats and equipment effects. When directing Lainie or her Simulacrum to make an active attack, the other will automatically use the corresponding skill to attack the selected target. If the auto-targeting fails, then the other can use the corresponding skill once on their action. This does not trigger loops.",
+			"iconSkill4": 10580801,
+			"textSkill4": "Critical rate is increased in proportion to this unit's initial max HP. This unit applies [Pre-Emptive Scouting] to all surrounding enemy units. When a unit with that status takes a physical attack, its defense is lowered.\nBefore making an active attack, apply [Parapluie's Penetration] to the target. After the attack, gain Confectance Index. If the target's defense is less than or equal to 0, the damage multiplier is increased and Lainie gains additional Confectance Index. After making an active attack, Lainie cannot perform any more active attacks during the allied turn.\n[Parapluie's Penetration]: When a unit with this status is damaged by Lainie or Lainie's Simulacrum, its defense is lowered.",
+			"gunTags": ""
+		},
+		{
+			"id": 39029,
+			"sourceGunid": 1064,
+			"briefIntro": "Florence is a Support-class Doll who can apply [Stimulant] to allied units, increasing their damage output, as well as applying [Chaos Compound] to enemy units, which increases Hydro damage taken by their targets. Florence's summon [Arios] can take damage for Florence and Counterattack in response.",
+			"iconSkill1": 10640501,
+			"textSkill1": "Cleanses debuffs from the target and all nearby enemy targets as well as restoring HP.",
+			"iconSkill2": 10640701,
+			"textSkill2": "Cleanses [Taunt] and [Fear] from the target, applies [Stimulant], and consumes HP.\n[Stimulant]: At the end of this unit's action, it loses HP. While this effect is active, damage dealt and Hydro damage dealt is increased in proportion to the amount of HP lost.",
+			"iconSkill3": 10640401,
+			"textSkill3": "Applies [Chaos Compound] and [Infatuated] to all enemy targets in the selected direction and deal AoE Hydro damage. After the skill, gain Confectance Index and teleport [Arios] to her vicinity.\nIf [Arios] is not on the field, summon [Arios] after the skill. \n[Chaos Compound]: Hydro damage taken is increased. At the end of this unit's action, deal AoE Physical damage to all nearby enemy units.",
+			"iconSkill4": 10640801,
+			"textSkill4": "At the start of battle, summon [Arios] to Florence's vicinity. At the start of the ally turn, expend Confectance Index. If there is insufficient Confectance Index, [Arios] vanishes.\nAt the end of this unit's action, remove any [Taunt], [Fear], [Infatuated], and [Stun] effects from [Arios].",
+			"gunTags": ""
 		}
 	]
 }

@@ -766,8 +766,8 @@
 		{
 			"id": 110,
 			"type": "藏品",
-			"name": "批量发放12个藏品",
-			"arg": "SendItem@1325001@1|SendItem@1325002@1|SendItem@1325003@1|SendItem@1325004@1|SendItem@1325101@1|SendItem@1325102@1|SendItem@1325103@1|SendItem@1325104@1|SendItem@1325105@1|SendItem@1325106@1|SendItem@1325107@1|SendItem@1325108@1|SendItem@1325109@1|SendItem@1325110@1|SendItem@1325111@1|SendItem@1325112@1",
+			"name": "所有藏品",
+			"arg": "SendItem@1325001@1|SendItem@1325002@1|SendItem@1325003@1|SendItem@1325004@1|SendItem@1325005@1|SendItem@1325006@1|SendItem@1325007@1|SendItem@1325008@1|SendItem@1325009@1|SendItem@1325010@1|SendItem@1325011@1|SendItem@1325101@1|SendItem@1325102@1|SendItem@1325103@1|SendItem@1325104@1|SendItem@1325105@1|SendItem@1325106@1|SendItem@1325107@1|SendItem@1325108@1|SendItem@1325109@1|SendItem@1325110@1|SendItem@1325111@1|SendItem@1325112@1|SendItem@1325113@1|SendItem@1325114@1|SendItem@1325115@1|SendItem@1325116@1|SendItem@1325117@1|SendItem@1325118@1|SendItem@1325119@1|SendItem@1325120@1|SendItem@1325121@1|SendItem@1325122@1",
 			"argClient": ""
 		},
 		{
@@ -836,8 +836,29 @@
 		{
 			"id": 120,
 			"type": "版本新增人形",
-			"name": "2.12新增人形",
-			"arg": "SendItem@1057@1",
+			"name": "3.0莱妮",
+			"arg": "SendItem@1058@1",
+			"argClient": ""
+		},
+		{
+			"id": 121,
+			"type": "版本新增人形",
+			"name": "3.1芙洛伦+皮肤+索米部件",
+			"arg": "SendItem@1064@1|SendItem@39010101@1|SendItem@39010102@1|SendItem@39010103@1|SendItem@39010201@1|SendItem@39010202@1|SendItem@39010203@1|SendItem@39010301@1|SendItem@39010302@1|SendItem@39010303@1|SendItem@31078@1",
+			"argClient": ""
+		},
+		{
+			"id": 122,
+			"type": "种族塔",
+			"name": "解锁彩蛋关卡",
+			"arg": "SendItem@1311001@1|SendItem@1311002@1|SendItem@1311003@1|SendItem@1311004@1|SendItem@1311005@1|SendItem@1311006@1|SendItem@1311007@1|SendItem@1311008@1|SendItem@1311009@1|SendItem@1311010@1",
+			"argClient": ""
+		},
+		{
+			"id": 123,
+			"type": "种族塔",
+			"name": "加属性道具",
+			"arg": "SendItem@1500001@1",
 			"argClient": ""
 		}
 	]

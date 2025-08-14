@@ -55,12 +55,6 @@
 			"monopolyRewardId": 110104
 		},
 		{
-			"id": 110110,
-			"turnRewardId": 1101,
-			"turnNum": 10,
-			"monopolyRewardId": 110104
-		},
-		{
 			"id": 110111,
 			"turnRewardId": 1101,
 			"turnNum": 11,

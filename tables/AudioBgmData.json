@@ -193,10 +193,10 @@
 		},
 		{
 			"id": 21,
-			"interfaceName": "UICombatMainPanel",
 			"audioName": [
 				30013
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1424,7 +1424,7 @@
 		{
 			"id": 148,
 			"audioName": [
-				40033
+				30107
 			],
 			"priority": 1,
 			"selector": "Battle",
@@ -1443,10 +1443,10 @@
 		},
 		{
 			"id": 150,
-			"interfaceName": "UIActivityThemeBMainPanel",
 			"audioName": [
 				30121
 			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1503,10 +1503,90 @@
 		},
 		{
 			"id": 156,
-			"interfaceName": "UIWinterActivityMainPanel",
+			"audioName": [
+				30031
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 157,
+			"audioName": [
+				30032
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 158,
 			"audioName": [
 				30131
 			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 159,
+			"audioName": [
+				30129
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 160,
+			"audioName": [
+				30120
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 161,
+			"audioName": [
+				30117
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 162,
+			"audioName": [
+				30133
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 163,
+			"audioName": [
+				30134
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 171,
+			"audioName": [
+				30140
+			],
+			"interfaceName": "",
 			"priority": 0,
 			"selector": "",
 			"track": ""
@@ -1565,6 +1645,66 @@
 			"id": 1006,
 			"audioName": [
 				30114
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9001,
+			"audioName": [
+				40035
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9002,
+			"audioName": [
+				40036
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9003,
+			"audioName": [
+				40037
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9004,
+			"audioName": [
+				40013
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9005,
+			"audioName": [
+				40026
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 9006,
+			"audioName": [
+				40019
 			],
 			"interfaceName": "",
 			"priority": 0,

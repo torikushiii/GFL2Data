@@ -193,6 +193,12 @@
 			"jumpScene": ""
 		},
 		{
+			"id": 1041,
+			"jumpPrefab": "UIWeeklyEnterPanel",
+			"unlockId": 43001,
+			"jumpScene": ""
+		},
+		{
 			"id": 1201,
 			"jumpScene": "HallScene",
 			"jumpPrefab": "UIStoreExchangePanel",

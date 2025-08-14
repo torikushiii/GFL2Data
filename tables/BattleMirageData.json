@@ -1,6 +1,195 @@
 {
 	"data": [
 		{
+			"id": 423,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT_skill1.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 424,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT_skill1.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 581,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 582,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 583,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 584,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 585,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 586,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
+			"id": 587,
+			"aiOrderClass": 10000,
+			"btPath": "BT/GunBT/1058/MainBT_10581.bt",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				1000,
+				0,
+				8
+			],
+			"buffList": [],
+			"summonLevel": 0,
+			"propertyGroup": 0,
+			"inheritPropertyKey": "",
+			"inheritPropertyFixed": "",
+			"attachMasterDead": 0,
+			"suppressGroup": []
+		},
+		{
 			"id": 1001,
 			"buffList": [
 				152,

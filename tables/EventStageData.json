@@ -346,6 +346,11 @@
 			"unlockTime": 3
 		},
 		{
+			"stageid": 31760,
+			"activityId": 60707,
+			"unlockTime": 4
+		},
+		{
 			"stageid": 31891,
 			"activityId": 60806,
 			"unlockTime": 0
@@ -418,6 +423,156 @@
 		{
 			"stageid": 32095,
 			"activityId": 61009,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32156,
+			"activityId": 61109,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32157,
+			"activityId": 61109,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32158,
+			"activityId": 61109,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32159,
+			"activityId": 61109,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32160,
+			"activityId": 61109,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32291,
+			"activityId": 61207,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32292,
+			"activityId": 61207,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32293,
+			"activityId": 61207,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32294,
+			"activityId": 61207,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32295,
+			"activityId": 61207,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32356,
+			"activityId": 61308,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32357,
+			"activityId": 61308,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32358,
+			"activityId": 61308,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32359,
+			"activityId": 61308,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32360,
+			"activityId": 61308,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32491,
+			"activityId": 61405,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32492,
+			"activityId": 61405,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32493,
+			"activityId": 61405,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32494,
+			"activityId": 61405,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32495,
+			"activityId": 61405,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32556,
+			"activityId": 61508,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32557,
+			"activityId": 61508,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32558,
+			"activityId": 61508,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32559,
+			"activityId": 61508,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32560,
+			"activityId": 61508,
+			"unlockTime": 4
+		},
+		{
+			"stageid": 32691,
+			"activityId": 61605,
+			"unlockTime": 0
+		},
+		{
+			"stageid": 32692,
+			"activityId": 61605,
+			"unlockTime": 1
+		},
+		{
+			"stageid": 32693,
+			"activityId": 61605,
+			"unlockTime": 2
+		},
+		{
+			"stageid": 32694,
+			"activityId": 61605,
+			"unlockTime": 3
+		},
+		{
+			"stageid": 32695,
+			"activityId": 61605,
 			"unlockTime": 4
 		}
 	]

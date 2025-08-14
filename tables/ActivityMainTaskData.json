@@ -1070,7 +1070,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment I",
-			"des": "Clear Campaign Mode stage VA-1-1",
+			"des": "Clear Story Mode stage VA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1084,7 +1084,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment II",
-			"des": "Clear Campaign Mode stage VA-1-2",
+			"des": "Clear Story Mode stage VA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1098,7 +1098,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment III",
-			"des": "Clear Campaign Mode stage VA-1-3",
+			"des": "Clear Story Mode stage VA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1112,7 +1112,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment IV",
-			"des": "Clear Campaign Mode stage VA-1-4",
+			"des": "Clear Story Mode stage VA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1126,7 +1126,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment V",
-			"des": "Clear Campaign Mode stage VA-1-5",
+			"des": "Clear Story Mode stage VA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1140,7 +1140,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment VI",
-			"des": "Clear Campaign Mode stage VA-1-6",
+			"des": "Clear Story Mode stage VA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1154,7 +1154,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment VII",
-			"des": "Clear Campaign Mode stage VA-1-7",
+			"des": "Clear Story Mode stage VA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1168,7 +1168,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment VIII",
-			"des": "Clear Campaign Mode stage VA-1-8",
+			"des": "Clear Story Mode stage VA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1182,7 +1182,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Memory Fragment IX",
-			"des": "Clear Campaign Mode stage VA-1-9",
+			"des": "Clear Story Mode stage VA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1336,7 +1336,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy I",
-			"des": "Clear Campaign Mode stage BA-1-1",
+			"des": "Clear Story Mode stage BA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1350,7 +1350,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy II",
-			"des": "Clear Campaign Mode stage BA-1-2",
+			"des": "Clear Story Mode stage BA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1364,7 +1364,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy III",
-			"des": "Clear Campaign Mode stage BA-1-3",
+			"des": "Clear Story Mode stage BA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1378,7 +1378,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy IV",
-			"des": "Clear Campaign Mode stage BA-1-4",
+			"des": "Clear Story Mode stage BA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1392,7 +1392,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy V",
-			"des": "Clear Campaign Mode stage BA-1-5",
+			"des": "Clear Story Mode stage BA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1406,7 +1406,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy VI",
-			"des": "Clear Campaign Mode stage BA-1-6",
+			"des": "Clear Story Mode stage BA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1420,7 +1420,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy VII",
-			"des": "Clear Campaign Mode stage BA-1-7",
+			"des": "Clear Story Mode stage BA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1434,7 +1434,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy VIII",
-			"des": "Clear Campaign Mode stage BA-1-8",
+			"des": "Clear Story Mode stage BA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1448,7 +1448,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Brewing Joy IX",
-			"des": "Clear Campaign Mode stage BA-1-9",
+			"des": "Clear Story Mode stage BA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1602,7 +1602,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts I",
-			"des": "Clear Campaign Mode stage AA-1-1",
+			"des": "Clear Story Mode stage AA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1616,7 +1616,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts II",
-			"des": "Clear Campaign Mode stage AA-1-2",
+			"des": "Clear Story Mode stage AA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1630,7 +1630,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts III",
-			"des": "Clear Campaign Mode stage AA-1-3",
+			"des": "Clear Story Mode stage AA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1644,7 +1644,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts IV",
-			"des": "Clear Campaign Mode stage AA-1-4",
+			"des": "Clear Story Mode stage AA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1658,7 +1658,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts V",
-			"des": "Clear Campaign Mode stage AA-1-5",
+			"des": "Clear Story Mode stage AA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1672,7 +1672,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts VI",
-			"des": "Clear Campaign Mode stage AA-1-6",
+			"des": "Clear Story Mode stage AA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1686,7 +1686,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts VII",
-			"des": "Clear Campaign Mode stage AA-1-7",
+			"des": "Clear Story Mode stage AA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1700,7 +1700,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts VIII",
-			"des": "Clear Campaign Mode stage AA-1-8",
+			"des": "Clear Story Mode stage AA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -1714,7 +1714,7 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Wavering Hearts IX",
-			"des": "Clear Campaign Mode stage AA-1-9",
+			"des": "Clear Story Mode stage AA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
@@ -3228,12 +3228,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil I",
-			"des": "Clear Campaign Mode stage NA-1-1",
+			"des": "Clear Story Mode stage NA-1-1",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3242,12 +3242,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil II",
-			"des": "Clear Campaign Mode stage NA-1-2",
+			"des": "Clear Story Mode stage NA-1-2",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3256,12 +3256,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil III",
-			"des": "Clear Campaign Mode stage NA-1-3",
+			"des": "Clear Story Mode stage NA-1-3",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3270,12 +3270,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil IV",
-			"des": "Clear Campaign Mode stage NA-1-4",
+			"des": "Clear Story Mode stage NA-1-4",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3284,12 +3284,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil V",
-			"des": "Clear Campaign Mode stage NA-1-5",
+			"des": "Clear Story Mode stage NA-1-5",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3298,12 +3298,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil VI",
-			"des": "Clear Campaign Mode stage NA-1-6",
+			"des": "Clear Story Mode stage NA-1-6",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3312,12 +3312,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil VII",
-			"des": "Clear Campaign Mode stage NA-1-7",
+			"des": "Clear Story Mode stage NA-1-7",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3326,12 +3326,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil VIII",
-			"des": "Clear Campaign Mode stage NA-1-8",
+			"des": "Clear Story Mode stage NA-1-8",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3340,12 +3340,12 @@
 			"tag": 2,
 			"tagName": "Story",
 			"name": "Light in the Pupil IX",
-			"des": "Clear Campaign Mode stage NA-1-9",
+			"des": "Clear Story Mode stage NA-1-9",
 			"conditionNum": 1,
 			"rewardList": {
 				"25": 3000,
 				"8301": 3000,
-				"176701": 500
+				"176701": 300
 			}
 		},
 		{
@@ -3359,7 +3359,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176701": 750
+				"176701": 450
 			}
 		},
 		{
@@ -3373,7 +3373,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176701": 750
+				"176701": 450
 			}
 		},
 		{
@@ -3387,7 +3387,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176701": 750
+				"176701": 450
 			}
 		},
 		{
@@ -3401,7 +3401,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176701": 750
+				"176701": 450
 			}
 		},
 		{
@@ -3415,7 +3415,7 @@
 			"rewardList": {
 				"25": 4500,
 				"8301": 4500,
-				"176701": 750
+				"176701": 450
 			}
 		},
 		{
@@ -3429,7 +3429,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176701": 1000
+				"176701": 600
 			}
 		},
 		{
@@ -3443,7 +3443,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176701": 1000
+				"176701": 600
 			}
 		},
 		{
@@ -3457,7 +3457,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176701": 1000
+				"176701": 600
 			}
 		},
 		{
@@ -3471,7 +3471,7 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176701": 1000
+				"176701": 600
 			}
 		},
 		{
@@ -3485,7 +3485,964 @@
 			"rewardList": {
 				"25": 6000,
 				"8301": 6000,
-				"176701": 1000
+				"176701": 600
+			}
+		},
+		{
+			"id": 22010101,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy I",
+			"des": "Clear Story Mode stage BA-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010102,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy II",
+			"des": "Clear Story Mode stage BA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010103,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy III",
+			"des": "Clear Story Mode stage BA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010104,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy IV",
+			"des": "Clear Story Mode stage BA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010105,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy V",
+			"des": "Clear Story Mode stage BA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010106,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy VI",
+			"des": "Clear Story Mode stage BA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010107,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy VII",
+			"des": "Clear Story Mode stage BA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010108,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy VIII",
+			"des": "Clear Story Mode stage BA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010109,
+			"group": 2201,
+			"tag": 2,
+			"tagName": "[404 Found] Story Mode",
+			"name": "Brewing Joy IX",
+			"des": "Clear Story Mode stage BA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300,
+				"1021159": 1
+			}
+		},
+		{
+			"id": 22010201,
+			"group": 2201,
+			"tag": 3,
+			"tagName": "[404 Found] Supply Mode",
+			"name": "A Hesitant Attempt I",
+			"des": "Clear Supply Mode stage BF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010202,
+			"group": 2201,
+			"tag": 3,
+			"tagName": "[404 Found] Supply Mode",
+			"name": "A Hesitant Attempt II",
+			"des": "Clear Supply Mode stage BF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010203,
+			"group": 2201,
+			"tag": 3,
+			"tagName": "[404 Found] Supply Mode",
+			"name": "A Hesitant Attempt III",
+			"des": "Clear Supply Mode stage BF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010204,
+			"group": 2201,
+			"tag": 3,
+			"tagName": "[404 Found] Supply Mode",
+			"name": "A Hesitant Attempt IV",
+			"des": "Clear Supply Mode stage BF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010205,
+			"group": 2201,
+			"tag": 3,
+			"tagName": "[404 Found] Supply Mode",
+			"name": "A Hesitant Attempt V",
+			"des": "Clear Supply Mode stage BF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010301,
+			"group": 2201,
+			"tag": 4,
+			"tagName": "[404 Found] Challenge Mode",
+			"name": "Heartfelt Reveal I",
+			"des": "Clear Challenge Mode stage BT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010302,
+			"group": 2201,
+			"tag": 4,
+			"tagName": "[404 Found] Challenge Mode",
+			"name": "Heartfelt Reveal II",
+			"des": "Clear Challenge Mode stage BT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010303,
+			"group": 2201,
+			"tag": 4,
+			"tagName": "[404 Found] Challenge Mode",
+			"name": "Heartfelt Reveal III",
+			"des": "Clear Challenge Mode stage BT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010304,
+			"group": 2201,
+			"tag": 4,
+			"tagName": "[404 Found] Challenge Mode",
+			"name": "Heartfelt Reveal IV",
+			"des": "Clear Challenge Mode stage BT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010305,
+			"group": 2201,
+			"tag": 4,
+			"tagName": "[404 Found] Challenge Mode",
+			"name": "Heartfelt Reveal V",
+			"des": "Clear Challenge Mode stage BT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010401,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts I",
+			"des": "Clear Story Mode stage AA-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010402,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts II",
+			"des": "Clear Story Mode stage AA-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010403,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts III",
+			"des": "Clear Story Mode stage AA-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010404,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts IV",
+			"des": "Clear Story Mode stage AA-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010405,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts V",
+			"des": "Clear Story Mode stage AA-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010406,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts VI",
+			"des": "Clear Story Mode stage AA-1-6",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010407,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts VII",
+			"des": "Clear Story Mode stage AA-1-7",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010408,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts VIII",
+			"des": "Clear Story Mode stage AA-1-8",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300
+			}
+		},
+		{
+			"id": 22010409,
+			"group": 2201,
+			"tag": 5,
+			"tagName": "[Hidden Confession] Story Mode",
+			"name": "Wavering Hearts IX",
+			"des": "Clear Story Mode stage AA-1-9",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177104": 300,
+				"1021165": 1
+			}
+		},
+		{
+			"id": 22010501,
+			"group": 2201,
+			"tag": 6,
+			"tagName": "[Hidden Confession] Supply Mode",
+			"name": "The First Step I",
+			"des": "Clear Supply Mode stage AF-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010502,
+			"group": 2201,
+			"tag": 6,
+			"tagName": "[Hidden Confession] Supply Mode",
+			"name": "The First Step III",
+			"des": "Clear Supply Mode stage AF-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010503,
+			"group": 2201,
+			"tag": 6,
+			"tagName": "[Hidden Confession] Supply Mode",
+			"name": "The First Step III",
+			"des": "Clear Supply Mode stage AF-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010504,
+			"group": 2201,
+			"tag": 6,
+			"tagName": "[Hidden Confession] Supply Mode",
+			"name": "The First Step IV",
+			"des": "Clear Supply Mode stage AF-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010505,
+			"group": 2201,
+			"tag": 6,
+			"tagName": "[Hidden Confession] Supply Mode",
+			"name": "The First Step V",
+			"des": "Clear Supply Mode stage AF-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177104": 450
+			}
+		},
+		{
+			"id": 22010601,
+			"group": 2201,
+			"tag": 7,
+			"tagName": "[Hidden Confession] Challenge Mode",
+			"name": "The Last Trial I",
+			"des": "Clear Challenge Mode stage AT-1-1",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010602,
+			"group": 2201,
+			"tag": 7,
+			"tagName": "[Hidden Confession] Challenge Mode",
+			"name": "The Last Trial II",
+			"des": "Clear Challenge Mode stage AT-1-2",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010603,
+			"group": 2201,
+			"tag": 7,
+			"tagName": "[Hidden Confession] Challenge Mode",
+			"name": "The Last Trial III",
+			"des": "Clear Challenge Mode stage AT-1-3",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010604,
+			"group": 2201,
+			"tag": 7,
+			"tagName": "[Hidden Confession] Challenge Mode",
+			"name": "The Last Trial IV",
+			"des": "Clear Challenge Mode stage AT-1-4",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010605,
+			"group": 2201,
+			"tag": 7,
+			"tagName": "[Hidden Confession] Challenge Mode",
+			"name": "The Last Trial V",
+			"des": "Clear Challenge Mode stage AT-1-5",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177104": 600
+			}
+		},
+		{
+			"id": 22010701,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 1",
+			"des": "Complete event stage JA-1-1 Stormbreaker",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010702,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 2",
+			"des": "Complete event stage JA-1-2 Inspiration Search I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010703,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 3",
+			"des": "Complete event stage JA-1-3 Inspiration Search II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010704,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 4",
+			"des": "Complete event stage JA-1-4 Inspiration Search III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010705,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 5",
+			"des": "Complete event stage JA-1-5 Wilderness Delve I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010706,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 6",
+			"des": "Complete event stage JA-1-6 Wilderness Delve II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010707,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 7",
+			"des": "Complete event stage JA-1-7 Wilderness Delve III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010708,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 8",
+			"des": "Complete event stage JA-1-8 Wilderness Delve IV",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300
+			}
+		},
+		{
+			"id": 22010709,
+			"group": 2201,
+			"tag": 8,
+			"tagName": "[Vestigial Display] Story Mode",
+			"name": "Grasp the Light 9",
+			"des": "Complete event stage JA-1-9 Future Echo",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 3000,
+				"8301": 3000,
+				"177105": 300,
+				"1021035": 1
+			}
+		},
+		{
+			"id": 22010801,
+			"group": 2201,
+			"tag": 9,
+			"tagName": "[Vestigial Display] Supply Mode",
+			"name": "Emergency Assault 1",
+			"des": "Complete event stage JF-1-1 Stormbreaker",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177105": 450
+			}
+		},
+		{
+			"id": 22010802,
+			"group": 2201,
+			"tag": 9,
+			"tagName": "[Vestigial Display] Supply Mode",
+			"name": "Emergency Assault 2",
+			"des": "Complete event stage JF-1-2 Inspiration Search II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177105": 450
+			}
+		},
+		{
+			"id": 22010803,
+			"group": 2201,
+			"tag": 9,
+			"tagName": "[Vestigial Display] Supply Mode",
+			"name": "Emergency Assault 3",
+			"des": "Complete event stage JF-1-3 Inspiration Search III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177105": 450
+			}
+		},
+		{
+			"id": 22010804,
+			"group": 2201,
+			"tag": 9,
+			"tagName": "[Vestigial Display] Supply Mode",
+			"name": "Emergency Assault 4",
+			"des": "Complete event stage JF-1-4 Wilderness Delve I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177105": 450
+			}
+		},
+		{
+			"id": 22010805,
+			"group": 2201,
+			"tag": 9,
+			"tagName": "[Vestigial Display] Supply Mode",
+			"name": "Emergency Assault 5",
+			"des": "Complete event stage JF-1-5 Wilderness Delve II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 4500,
+				"8301": 4500,
+				"177105": 450
+			}
+		},
+		{
+			"id": 22010901,
+			"group": 2201,
+			"tag": 10,
+			"tagName": "[Vestigial Display] Challenge Mode",
+			"name": "Trace Tendency 1",
+			"des": "Complete event stage JT-1-1 Seek and Clear I",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177105": 600
+			}
+		},
+		{
+			"id": 22010902,
+			"group": 2201,
+			"tag": 10,
+			"tagName": "[Vestigial Display] Challenge Mode",
+			"name": "Trace Tendency 2",
+			"des": "Complete event stage JT-1-2 Seek and Clear II",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177105": 600
+			}
+		},
+		{
+			"id": 22010903,
+			"group": 2201,
+			"tag": 10,
+			"tagName": "[Vestigial Display] Challenge Mode",
+			"name": "Trace Tendency 3",
+			"des": "Complete event stage JT-1-3 Seek and Clear III",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177105": 600
+			}
+		},
+		{
+			"id": 22010904,
+			"group": 2201,
+			"tag": 10,
+			"tagName": "[Vestigial Display] Challenge Mode",
+			"name": "Trace Tendency 4",
+			"des": "Complete event stage JT-1-4 Seek and Clear IV",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177105": 600
+			}
+		},
+		{
+			"id": 22010905,
+			"group": 2201,
+			"tag": 10,
+			"tagName": "[Vestigial Display] Challenge Mode",
+			"name": "Trace Tendency 5",
+			"des": "Complete event stage JT-1-5 Seek and Clear V",
+			"conditionNum": 1,
+			"rewardList": {
+				"25": 6000,
+				"8301": 6000,
+				"177105": 600
+			}
+		},
+		{
+			"id": 22011001,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Escape Adept I",
+			"des": "Complete \"Dinergate, Jump!\" 1 time",
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 30,
+				"177104": 400
+			}
+		},
+		{
+			"id": 22011002,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Escape Adept II",
+			"des": "Complete \"Dinergate, Jump!\" 3 times",
+			"conditionNum": 3,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 22011003,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Escape Adept III",
+			"des": "Complete \"Dinergate, Jump!\" 7 times",
+			"conditionNum": 7,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
+			}
+		},
+		{
+			"id": 22011004,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Score Master I",
+			"des": "Acquire 3000 total score",
+			"conditionNum": 3000,
+			"rewardList": {
+				"1": 30,
+				"177104": 400
+			}
+		},
+		{
+			"id": 22011005,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Score Master II",
+			"des": "Acquire 7000 total score",
+			"conditionNum": 7000,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 22011006,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Score Master III",
+			"des": "Acquire 15000 total score",
+			"conditionNum": 15000,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
+			}
+		},
+		{
+			"id": 22011007,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Prospector I",
+			"des": "Collect 5 Gold Coins",
+			"conditionNum": 5,
+			"rewardList": {
+				"1": 30,
+				"177104": 400
+			}
+		},
+		{
+			"id": 22011008,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Prospector II",
+			"des": "Collect 10 Gold Coins",
+			"conditionNum": 10,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 22011009,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Prospector III",
+			"des": "Collect 20 Gold Coins",
+			"conditionNum": 20,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
+			}
+		},
+		{
+			"id": 22011010,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Ruin Hunter I",
+			"des": "Kill 3 monsters",
+			"conditionNum": 3,
+			"rewardList": {
+				"1": 30,
+				"177104": 400
+			}
+		},
+		{
+			"id": 22011011,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Ruin Hunter III",
+			"des": "Kill 8 monsters",
+			"conditionNum": 8,
+			"rewardList": {
+				"1": 30,
+				"300005": 1
+			}
+		},
+		{
+			"id": 22011012,
+			"group": 2201,
+			"tag": 11,
+			"tagName": "Dinergate, Jump!",
+			"name": "Ruin Hunter III",
+			"des": "Kill 15 monsters",
+			"conditionNum": 15,
+			"rewardList": {
+				"1": 40,
+				"131002": 2
 			}
 		}
 	]

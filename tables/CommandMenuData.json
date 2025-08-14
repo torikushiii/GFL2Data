@@ -22,13 +22,6 @@
 			"jump": 0
 		},
 		{
-			"id": 16000,
-			"name": "Trading Post",
-			"type": 2,
-			"sort": 0,
-			"jump": 0
-		},
-		{
 			"id": 17000,
 			"name": "Storeroom",
 			"type": 2,
@@ -41,6 +34,13 @@
 			"type": 3,
 			"sort": 3,
 			"jump": 21001
+		},
+		{
+			"id": 20000,
+			"name": "Elmo Server Room",
+			"type": 2,
+			"sort": 0,
+			"jump": 0
 		},
 		{
 			"id": 21000,

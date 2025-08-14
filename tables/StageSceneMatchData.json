@@ -7151,6 +7151,102 @@
 			"scene": "Main/Yellow/l_main_yellow_dollArenaStands_01/l_main_yellow_dollArenaStands_01",
 			"levelNode": "Main/Yellow/l_main_yellow_dollArenaStands_01",
 			"isDarkzone": false
+		},
+		{
+			"sceneId": 1692,
+			"scene": "SIM/l_sim_test_EC/l_sim_test_EC",
+			"levelNode": "Sim/l_sim_test_EC",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1693,
+			"scene": "SIM/l_sim_test_EC_02/l_sim_test_EC_02",
+			"levelNode": "Sim/l_sim_test_EC_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1694,
+			"scene": "SIM/l_sim_expand/l_sim_expand_37_10/l_sim_expand_37_10",
+			"levelNode": "Sim/l_sim_expand/l_sim_expand_37_10",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1695,
+			"scene": "Main/Event/Florence/l_event_sim_Florence_09/l_event_sim_Florence_09",
+			"levelNode": "Main/Event/Florence/l_event_sim_Florence_09",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1696,
+			"scene": "Main/Event/Lind/l_event_generate_Lind_challenge_05/l_event_generate_Lind_challenge_05",
+			"levelNode": "Main/Event/Lind/l_event_generate_Lind_challenge_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1697,
+			"scene": "SIM/l_sim_challenge/l_sim_challenge_47/l_sim_challenge_47",
+			"levelNode": "Sim/l_sim_challenge/l_sim_challenge_47",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1698,
+			"scene": "Main/Yellow/l_main_yellow_snowTownMarket_02/l_main_yellow_snowTownMarket_02",
+			"levelNode": "Main/Yellow/l_main_yellow_snowTownMarket_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1699,
+			"scene": "Main/Event/Lind/l_event_sim_Lind_puzzle_01/l_event_sim_Lind_puzzle_01",
+			"levelNode": "Main/Event/Lind/l_event_sim_Lind_puzzle_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1700,
+			"scene": "Main/Event/Lind/l_event_sim_Lind_puzzle_02/l_event_sim_Lind_puzzle_02",
+			"levelNode": "Main/Event/Lind/l_event_sim_Lind_puzzle_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1701,
+			"scene": "Main/Event/Lind/l_event_sim_Lind_puzzle_03/l_event_sim_Lind_puzzle_03",
+			"levelNode": "Main/Event/Lind/l_event_sim_Lind_puzzle_03",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1702,
+			"scene": "Main/Event/Lind/l_event_sim_Lind_puzzle_04/l_event_sim_Lind_puzzle_04",
+			"levelNode": "Main/Event/Lind/l_event_sim_Lind_puzzle_04",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1703,
+			"scene": "Main/Event/Lind/l_event_sim_Lind_puzzle_05/l_event_sim_Lind_puzzle_05",
+			"levelNode": "Main/Event/Lind/l_event_sim_Lind_puzzle_05",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1704,
+			"scene": "SIM/l_sim_guild/l_sim_guild_boss_06/l_sim_guild_boss_06",
+			"levelNode": "Sim/l_sim_guild/l_sim_guild_boss_06",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1705,
+			"scene": "Weekly/l_weekly_Mecha_Guard/l_weekly_Mecha_Guard_01/l_weekly_Mecha_Guard_01",
+			"levelNode": "Weekly/l_weekly_Mecha_Guard/l_weekly_Mecha_Guard_01",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1706,
+			"scene": "Weekly/l_weekly_Mecha_Guard/l_weekly_Mecha_Guard_02/l_weekly_Mecha_Guard_02",
+			"levelNode": "Weekly/l_weekly_Mecha_Guard/l_weekly_Mecha_Guard_02",
+			"isDarkzone": false
+		},
+		{
+			"sceneId": 1707,
+			"scene": "SIM/l_sim_lianzhan/l_sim_lianzhan_733/l_sim_lianzhan_733",
+			"levelNode": "Sim/l_sim_lianzhan/l_sim_lianzhan_733",
+			"isDarkzone": false
 		}
 	]
 }

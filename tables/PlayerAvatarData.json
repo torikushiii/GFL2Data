@@ -837,6 +837,28 @@
 			"sort": 1042
 		},
 		{
+			"id": 21092,
+			"icon": "Avatar_Head_LeneSSR",
+			"iconFemale": "Avatar_Head_LeneSSR",
+			"bust": "Avatar_Bust_LeneSSR",
+			"bustFemale": "Avatar_Bust_LeneSSR",
+			"itemId": 21092,
+			"unlockDes": "Unlocked after obtaining Lainie",
+			"displayConfig": 1,
+			"sort": 1043
+		},
+		{
+			"id": 21098,
+			"icon": "Avatar_Head_FlorenceSSR",
+			"iconFemale": "Avatar_Head_FlorenceSSR",
+			"bust": "Avatar_Bust_FlorenceSSR",
+			"bustFemale": "Avatar_Bust_FlorenceSSR",
+			"itemId": 21098,
+			"unlockDes": "Unlocked after obtaining Florence",
+			"displayConfig": 1,
+			"sort": 1049
+		},
+		{
 			"id": 21105,
 			"icon": "Avatar_Head_CheetaSR01",
 			"iconFemale": "Avatar_Head_CheetaSR01",
@@ -1101,6 +1123,17 @@
 			"sort": 2025
 		},
 		{
+			"id": 21129,
+			"icon": "Avatar_Head_LeneLove",
+			"iconFemale": "Avatar_Head_LeneLove",
+			"bust": "Avatar_Head_LeneLove",
+			"bustFemale": "Avatar_Head_LeneLove",
+			"itemId": 21129,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2026
+		},
+		{
 			"id": 21130,
 			"icon": "Avatar_Head_RobellaLove",
 			"iconFemale": "Avatar_Head_RobellaLove",
@@ -1110,6 +1143,28 @@
 			"unlockDes": "Obtained after forming a Covenant with the Doll",
 			"displayConfig": 1,
 			"sort": 2027
+		},
+		{
+			"id": 21131,
+			"icon": "Avatar_Head_KrolikLove",
+			"iconFemale": "Avatar_Head_KrolikLove",
+			"bust": "Avatar_Head_KrolikLove",
+			"bustFemale": "Avatar_Head_KrolikLove",
+			"itemId": 21131,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2028
+		},
+		{
+			"id": 21132,
+			"icon": "Avatar_Head_FlorenceLove",
+			"iconFemale": "Avatar_Head_FlorenceLove",
+			"bust": "Avatar_Head_FlorenceLove",
+			"bustFemale": "Avatar_Head_FlorenceLove",
+			"itemId": 21132,
+			"unlockDes": "Obtained after forming a Covenant with the Doll",
+			"displayConfig": 1,
+			"sort": 2029
 		},
 		{
 			"id": 21156,
@@ -1497,6 +1552,83 @@
 			"sort": 5028
 		},
 		{
+			"id": 21192,
+			"icon": "Avatar_Head_ActivityLene1",
+			"iconFemale": "Avatar_Head_ActivityLene1",
+			"bust": "Avatar_Head_ActivityLene1",
+			"bustFemale": "Avatar_Head_ActivityLene1",
+			"itemId": 21192,
+			"unlockDes": "Unlocked by obtaining the final reward in Breaking Butterfly - Operation Backtrack",
+			"displayConfig": 1,
+			"sort": 5029
+		},
+		{
+			"id": 21193,
+			"icon": "Avatar_Head_ActivityLene2",
+			"iconFemale": "Avatar_Head_ActivityLene2",
+			"bust": "Avatar_Head_ActivityLene2",
+			"bustFemale": "Avatar_Head_ActivityLene2",
+			"itemId": 21193,
+			"unlockDes": "Unlocked by completing all stages for Breaking Butterfly.",
+			"displayConfig": 1,
+			"sort": 5030
+		},
+		{
+			"id": 21194,
+			"icon": "Avatar_Head_LeneSSR01",
+			"iconFemale": "Avatar_Head_LeneSSR01",
+			"bust": "Avatar_Head_LeneSSR01",
+			"bustFemale": "Avatar_Head_LeneSSR01",
+			"itemId": 21194,
+			"unlockDes": "Unlocked after obtaining Lainie's outfit - Operation Butterfly.",
+			"displayConfig": 1,
+			"sort": 4040
+		},
+		{
+			"id": 21195,
+			"icon": "Avatar_Head_PerityaSSR02",
+			"iconFemale": "Avatar_Head_PerityaSSR02",
+			"bust": "Avatar_Head_PerityaSSR02",
+			"bustFemale": "Avatar_Head_PerityaSSR02",
+			"itemId": 21195,
+			"unlockDes": "Unlocked after obtaining Peritya's outfit - Operation Pechenyan.",
+			"displayConfig": 1,
+			"sort": 4041
+		},
+		{
+			"id": 21196,
+			"icon": "Avatar_Head_FlorenceSSR01",
+			"iconFemale": "Avatar_Head_FlorenceSSR01",
+			"bust": "Avatar_Head_FlorenceSSR01",
+			"bustFemale": "Avatar_Head_FlorenceSSR01",
+			"itemId": 21196,
+			"unlockDes": "Unlocked after obtaining Florence's outfit - Marvellous Yam Cake.",
+			"displayConfig": 1,
+			"sort": 4042
+		},
+		{
+			"id": 21197,
+			"icon": "Avatar_Head_ActivityFlorence1",
+			"iconFemale": "Avatar_Head_ActivityFlorence1",
+			"bust": "Avatar_Head_ActivityFlorence1",
+			"bustFemale": "Avatar_Head_ActivityFlorence1",
+			"itemId": 21197,
+			"unlockDes": "Unlocked by obtaining the final reward in Thriller Wonderland - Sightseeing Train.",
+			"displayConfig": 1,
+			"sort": 5031
+		},
+		{
+			"id": 21198,
+			"icon": "Avatar_Head_ActivityFlorence2",
+			"iconFemale": "Avatar_Head_ActivityFlorence2",
+			"bust": "Avatar_Head_ActivityFlorence2",
+			"bustFemale": "Avatar_Head_ActivityFlorence2",
+			"itemId": 21198,
+			"unlockDes": "Unlocked by completing all story stages for Thriller Wonderland.",
+			"displayConfig": 1,
+			"sort": 5032
+		},
+		{
 			"id": 21202,
 			"icon": "Avatar_Head_QiuhuaSSR01",
 			"iconFemale": "Avatar_Head_QiuhuaSSR01",
@@ -1539,6 +1671,39 @@
 			"unlockDes": "Unlocked by clearing all Story Mode stages for Life Rekindled.",
 			"displayConfig": 1,
 			"sort": 5024
+		},
+		{
+			"id": 1021035,
+			"icon": "Avatar_Head_ActivityJiangyu2",
+			"iconFemale": "Avatar_Head_ActivityJiangyu2",
+			"bust": "Avatar_Head_ActivityJiangyu2",
+			"bustFemale": "Avatar_Head_ActivityJiangyu2",
+			"itemId": 21035,
+			"unlockDes": "Unlocked by completing Vestigial Display Story Mode missions",
+			"displayConfig": 1,
+			"sort": 5005
+		},
+		{
+			"id": 1021159,
+			"icon": "Avatar_Head_ActivityBiyoca1",
+			"iconFemale": "Avatar_Head_ActivityBiyoca1",
+			"bust": "Avatar_Head_ActivityBiyoca1",
+			"bustFemale": "Avatar_Head_ActivityBiyoca1",
+			"itemId": 21159,
+			"unlockDes": "Unlocked by completing 404 Found Story Mode missions",
+			"displayConfig": 1,
+			"sort": 5016
+		},
+		{
+			"id": 1021165,
+			"icon": "Avatar_Head_ActivityAndoris1",
+			"iconFemale": "Avatar_Head_ActivityAndoris1",
+			"bust": "Avatar_Head_ActivityAndoris1",
+			"bustFemale": "Avatar_Head_ActivityAndoris1",
+			"itemId": 21165,
+			"unlockDes": "Unlocked by completing Into the Shadows Story Mode missions",
+			"displayConfig": 1,
+			"sort": 5018
 		}
 	]
 }

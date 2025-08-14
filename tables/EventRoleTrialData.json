@@ -151,28 +151,10 @@
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		},
 		{
-			"id": 60502,
-			"bgImage": "ActivityChrTryItemBg_Zhaohui",
-			"gachaId": "53001",
-			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
-		},
-		{
-			"id": 60601,
-			"bgImage": "ActivityChrTryItemBg_Biyoca",
-			"gachaId": "55001",
-			"uiParam": "Img_Activity_ChrTryNumber_SSD-62G"
-		},
-		{
 			"id": 60602,
 			"bgImage": "ActivityChrTryItemBg_Clukay",
 			"gachaId": "57001",
 			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
-		},
-		{
-			"id": 60701,
-			"bgImage": "ActivityChrTryItemBg_Andoris",
-			"gachaId": "59001",
-			"uiParam": "Img_Activity_ChrTryNumber_SSD-62F"
 		},
 		{
 			"id": 60702,
@@ -277,39 +259,9 @@
 			"uiParam": "Img_Activity_ChrTryNumber_SST-05"
 		},
 		{
-			"id": 61312,
-			"bgImage": "ActivityChrTryItemBg_Leva",
-			"gachaId": "106001",
-			"uiParam": "Img_Activity_ChrTryNumber_DUAL_DSI_8"
-		},
-		{
-			"id": 61313,
-			"bgImage": "ActivityChrTryItemBg_Qiuhua",
-			"gachaId": "108001",
-			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
-		},
-		{
-			"id": 61314,
-			"bgImage": "ActivityChrTryItemBg_Dusevnyj",
-			"gachaId": "110001",
-			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
-		},
-		{
-			"id": 61408,
-			"bgImage": "ActivityChrTryItemBg_Robella",
-			"gachaId": "112001",
-			"uiParam": "Img_Activity_ChrTryNumber_PPD_02"
-		},
-		{
 			"id": 61409,
 			"bgImage": "ActivityChrTryItemBg_YooHee",
 			"gachaId": "114001",
-			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
-		},
-		{
-			"id": 61410,
-			"bgImage": "ActivityChrTryItemBg_Suomi",
-			"gachaId": "116001",
 			"uiParam": "Img_Activity_ChrTryNumber_SSD-62D"
 		}
 	]

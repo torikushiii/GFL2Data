@@ -404,6 +404,33 @@
 				"23148": 1
 			},
 			"rewardType": 2
+		},
+		{
+			"id": 31,
+			"rewardGroup": 1018,
+			"rankSection": [
+				0,
+				50
+			],
+			"rankReward": {
+				"22072": 1,
+				"23157": 1,
+				"24135": 1
+			},
+			"rewardType": 2
+		},
+		{
+			"id": 32,
+			"rewardGroup": 1018,
+			"rankSection": [
+				50,
+				80
+			],
+			"rankReward": {
+				"22072": 1,
+				"23157": 1
+			},
+			"rewardType": 2
 		}
 	]
 }

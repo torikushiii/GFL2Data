@@ -234,6 +234,11 @@
 			"id": 47,
 			"name": "Burst Damage",
 			"description": ""
+		},
+		{
+			"id": 48,
+			"name": "Clone",
+			"description": ""
 		}
 	]
 }

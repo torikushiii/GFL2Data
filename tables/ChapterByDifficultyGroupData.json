@@ -59,7 +59,9 @@
 		{
 			"difficultyGroup": 301,
 			"id": [
+				1001,
 				3001,
+				91009,
 				93001
 			]
 		},
@@ -75,13 +77,6 @@
 			"id": [
 				3003,
 				93003
-			]
-		},
-		{
-			"difficultyGroup": 304,
-			"id": [
-				3004,
-				93004
 			]
 		},
 		{
@@ -145,20 +140,6 @@
 			]
 		},
 		{
-			"difficultyGroup": 313,
-			"id": [
-				3013,
-				93013
-			]
-		},
-		{
-			"difficultyGroup": 314,
-			"id": [
-				3014,
-				93014
-			]
-		},
-		{
 			"difficultyGroup": 315,
 			"id": [
 				3015,
@@ -213,13 +194,6 @@
 			"id": [
 				4006,
 				94006
-			]
-		},
-		{
-			"difficultyGroup": 407,
-			"id": [
-				4007,
-				94007
 			]
 		},
 		{
@@ -279,20 +253,6 @@
 			]
 		},
 		{
-			"difficultyGroup": 416,
-			"id": [
-				4016,
-				94016
-			]
-		},
-		{
-			"difficultyGroup": 417,
-			"id": [
-				4017,
-				94017
-			]
-		},
-		{
 			"difficultyGroup": 418,
 			"id": [
 				4018,
@@ -337,12 +297,6 @@
 			"difficultyGroup": 99404,
 			"id": [
 				994004
-			]
-		},
-		{
-			"difficultyGroup": 99407,
-			"id": [
-				994007
 			]
 		},
 		{
@@ -391,18 +345,6 @@
 			"difficultyGroup": 99415,
 			"id": [
 				994015
-			]
-		},
-		{
-			"difficultyGroup": 99416,
-			"id": [
-				994016
-			]
-		},
-		{
-			"difficultyGroup": 99417,
-			"id": [
-				994017
 			]
 		},
 		{

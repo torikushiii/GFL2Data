@@ -327,7 +327,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5011002": 1
+				"5011081": 1
 			}
 		},
 		{
@@ -335,7 +335,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5021007": 1
+				"5021010": 1
 			}
 		},
 		{
@@ -343,7 +343,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5031132": 1
+				"5031024": 1
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5041121": 1
+				"5041001": 1
 			}
 		},
 		{
@@ -359,7 +359,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5051177": 1
+				"5051005": 1
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"targetName": "[Battle] Eliminate the enemy boss and recover the Rare Supply Crate",
 			"targetType": 7,
 			"targetArgs": {
-				"5061002": 1
+				"5061005": 1
 			}
 		}
 	]

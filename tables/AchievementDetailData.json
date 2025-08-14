@@ -5054,8 +5054,8 @@
 		{
 			"id": 91012,
 			"group": 1,
-			"name": "Clear Aphelion Part II Challenge Mode stages",
-			"des": "Complete <color=#f26c1c>Story Campaign Hard Stage DF-10-5</color>",
+			"name": "Complete Aphelion - Part 2 Hard Mode in the Main Story",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Hard DF-10-5</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -5078,6 +5078,28 @@
 			"group": 1,
 			"name": "Complete Sojourners Part II on Hard Mode",
 			"des": "Complete <color=#f26c1c>Story Campaign Stage SF-1-5 at Hard difficulty</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 91015,
+			"group": 1,
+			"name": "Complete Deep Oblivion - Part 1 Hard Mode in the Main Story",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Hard LF-1-5</color>",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 91016,
+			"group": 1,
+			"name": "Complete Deep Oblivion - Part 2 Hard Mode in the Main Story",
+			"des": "Complete <color=#f26c1c>Story Campaign Stage Hard BF-1-5</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -5142,8 +5164,8 @@
 		{
 			"id": 93006,
 			"group": 1,
-			"name": "Clear Klukai's Story Mode",
-			"des": "Clear <color=#f26c1c>Story Mode SL-9-4</color>",
+			"name": "Clear the Klukai Event on Normal Mode",
+			"des": "Clear <color=#f26c1c>Story Mode stage SL-9-4</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -5384,8 +5406,8 @@
 		{
 			"id": 99012,
 			"group": 1,
-			"name": "Clear Aphelion Part II Story Mode stages",
-			"des": "Complete <color=#f26c1c>Story Campaign Normal Stage SL-10-6</color>",
+			"name": "Clear Aphelion - Part 2 on Normal Mode",
+			"des": "Complete <color=#f26c1c>Story Campaign Normal SL-10-6</color>",
 			"conditionNum": 1,
 			"tag": 0,
 			"icon": "",
@@ -9980,6 +10002,226 @@
 			"jumpId": ""
 		},
 		{
+			"id": 405701,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405702,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405703,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405704,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405705,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405706,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405707,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405708,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405709,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405710,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405801,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 1",
+			"conditionNum": 1,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405802,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 20",
+			"conditionNum": 20,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405803,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 25",
+			"conditionNum": 25,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405804,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 30",
+			"conditionNum": 30,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405805,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 35",
+			"conditionNum": 35,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405806,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 40",
+			"conditionNum": 40,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405807,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 45",
+			"conditionNum": 45,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405808,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 50",
+			"conditionNum": 50,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405809,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches level 55",
+			"conditionNum": 55,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
+			"id": 405810,
+			"group": 1,
+			"name": "Unlocking conditions for Neural Helix nodes",
+			"des": "Doll reaches Level 60",
+			"conditionNum": 60,
+			"tag": 0,
+			"icon": "",
+			"reward": {},
+			"jumpId": ""
+		},
+		{
 			"id": 410011,
 			"group": 1,
 			"name": "Unlock Doll Archive",
@@ -11838,7 +12080,7 @@
 			"group": 63,
 			"tag": 1,
 			"name": "Her Power Level, It's Over 5!",
-			"des": "Upgrade any 2 standard T-Dolls to Rank 2",
+			"des": "Raise any 2 Standard Dolls to Segment 2",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11851,7 +12093,7 @@
 			"group": 64,
 			"tag": 1,
 			"name": "Juvenile Fangs",
-			"des": "Upgrade any 4 standard T-Dolls to Rank 2",
+			"des": "Raise any 4 Standard Dolls to Segment 2",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11864,7 +12106,7 @@
 			"group": 65,
 			"tag": 1,
 			"name": "Doll Kindergarten",
-			"des": "Upgrade any 6 standard T-Dolls to Rank 2",
+			"des": "Raise any 6 Standard Dolls to Segment 2",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11877,7 +12119,7 @@
 			"group": 66,
 			"tag": 1,
 			"name": "Impenetrable Armor",
-			"des": "Upgrade any 8 standard T-Dolls to Rank 2",
+			"des": "Raise any 8 Standard Dolls to Segment 2",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11890,7 +12132,7 @@
 			"group": 67,
 			"tag": 1,
 			"name": "Urgent T-Doll",
-			"des": "Upgrade any 10 standard T-Dolls to Rank 2",
+			"des": "Raise any 10 Standard Dolls to Segment 2",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11903,7 +12145,7 @@
 			"group": 68,
 			"tag": 1,
 			"name": "I'm Not Afraid of Anything Anymore",
-			"des": "Upgrade any 2 standard T-Dolls to Rank 4",
+			"des": "Raise any 2 Standard Dolls to Segment 4",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11916,7 +12158,7 @@
 			"group": 69,
 			"tag": 1,
 			"name": "Assault Phalanx",
-			"des": "Upgrade any 4 standard T-Dolls to Rank 4",
+			"des": "Raise any 4 Standard Dolls to Segment 4",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11929,7 +12171,7 @@
 			"group": 70,
 			"tag": 1,
 			"name": "Sharp Thorns",
-			"des": "Upgrade any 6 standard T-Dolls to Rank 4",
+			"des": "Raise any 6 Standard Dolls to Segment 4",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11942,7 +12184,7 @@
 			"group": 71,
 			"tag": 1,
 			"name": "Decisive And Upright",
-			"des": "Upgrade any 8 standard T-Dolls to Rank 4",
+			"des": "Raise any 8 Standard Dolls to Segment 4",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11955,7 +12197,7 @@
 			"group": 72,
 			"tag": 1,
 			"name": "The Iron Decree",
-			"des": "Upgrade any 10 standard T-Dolls to Rank 4",
+			"des": "Raise any 10 Standard Dolls to Segment 4",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11968,7 +12210,7 @@
 			"group": 73,
 			"tag": 1,
 			"name": "A Stalwart Figure",
-			"des": "Upgrade any 2 standard T-Dolls to Rank 6",
+			"des": "Raise any 2 Standard Dolls to Segment 6",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11981,7 +12223,7 @@
 			"group": 74,
 			"tag": 1,
 			"name": "Killer Weapon",
-			"des": "Upgrade any 4 standard T-Dolls to Rank 6",
+			"des": "Raise any 4 Standard Dolls to Segment 6",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -11994,7 +12236,7 @@
 			"group": 75,
 			"tag": 1,
 			"name": "No Way Out!",
-			"des": "Upgrade any 6 standard T-Dolls to Rank 6",
+			"des": "Raise any 6 Standard Dolls to Segment 6",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12007,7 +12249,7 @@
 			"group": 76,
 			"tag": 1,
 			"name": "Powered Up!",
-			"des": "Upgrade any 8 standard T-Dolls to Rank 6",
+			"des": "Raise any 8 Standard Dolls to Segment 6",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12020,7 +12262,7 @@
 			"group": 77,
 			"tag": 1,
 			"name": "No Girls, All Frontline",
-			"des": "Upgrade any 10 standard T-Dolls to Rank 6",
+			"des": "Raise any 10 Standard Dolls to Segment 6",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12033,7 +12275,7 @@
 			"group": 78,
 			"tag": 1,
 			"name": "Pill Logistics Specialist",
-			"des": "Upgrade any 2 elite T-Dolls to Rank 2",
+			"des": "Raise any 2 Elite Dolls to Segment 2",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12046,7 +12288,7 @@
 			"group": 79,
 			"tag": 1,
 			"name": "Light Squad Prototype",
-			"des": "Upgrade any 4 elite T-Dolls to Rank 2",
+			"des": "Raise any 4 Elite Dolls to Segment 2",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12059,7 +12301,7 @@
 			"group": 80,
 			"tag": 1,
 			"name": "Laser Guns!",
-			"des": "Upgrade any 6 elite T-Dolls to Rank 2",
+			"des": "Raise any 6 Elite Dolls to Segment 2",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12072,7 +12314,7 @@
 			"group": 81,
 			"tag": 1,
 			"name": "Split Up, Squad!",
-			"des": "Upgrade any 8 elite T-Dolls to Rank 2",
+			"des": "Raise any 8 Elite Dolls to Segment 2",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12085,7 +12327,7 @@
 			"group": 82,
 			"tag": 1,
 			"name": "The Rallying Horn",
-			"des": "Upgrade any 10 elite T-Dolls to Rank 2",
+			"des": "Raise any 10 Elite Dolls to Segment 2",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12098,7 +12340,7 @@
 			"group": 83,
 			"tag": 1,
 			"name": "Extinguishing Angel",
-			"des": "Upgrade any 2 elite T-Dolls to Rank 4",
+			"des": "Raise any 2 Elite Dolls to Segment 4",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12111,7 +12353,7 @@
 			"group": 84,
 			"tag": 1,
 			"name": "Busy Monster",
-			"des": "Upgrade any 4 elite T-Dolls to Rank 4",
+			"des": "Raise any 4 Elite Dolls to Segment 4",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12124,7 +12366,7 @@
 			"group": 85,
 			"tag": 1,
 			"name": "Doll Researcher",
-			"des": "Upgrade any 6 elite T-Dolls to Rank 4",
+			"des": "Raise any 6 Elite Dolls to Segment 4",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12137,7 +12379,7 @@
 			"group": 86,
 			"tag": 1,
 			"name": "Fully Equipped Elite Squad",
-			"des": "Upgrade any 8 elite T-Dolls to Rank 4",
+			"des": "Raise any 8 Elite Dolls to Segment 4",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12150,7 +12392,7 @@
 			"group": 87,
 			"tag": 1,
 			"name": "Aria of Steel",
-			"des": "Upgrade any 10 elite T-Dolls to Rank 4",
+			"des": "Raise any 10 Elite Dolls to Segment 4",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12163,7 +12405,7 @@
 			"group": 88,
 			"tag": 1,
 			"name": "Are All the Dolls On the Elmo Monsters?",
-			"des": "Upgrade any 2 elite T-Dolls to Rank 6",
+			"des": "Raise any 2 Elite Dolls to Segment 6",
 			"conditionNum": 2,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12176,7 +12418,7 @@
 			"group": 89,
 			"tag": 1,
 			"name": "Commemorative Doll Concerto",
-			"des": "Upgrade any 4 elite T-Dolls to Rank 6",
+			"des": "Raise any 4 Elite Dolls to Segment 6",
 			"conditionNum": 4,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12189,7 +12431,7 @@
 			"group": 90,
 			"tag": 1,
 			"name": "I am a Doll",
-			"des": "Upgrade any 6 elite T-Dolls to Rank 6",
+			"des": "Raise any 6 Elite Dolls to Segment 6",
 			"conditionNum": 6,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12202,7 +12444,7 @@
 			"group": 91,
 			"tag": 1,
 			"name": "Meeting at the Pinnacle",
-			"des": "Upgrade any 8 elite T-Dolls to Rank 6",
+			"des": "Raise any 8 Elite Dolls to Segment 6",
 			"conditionNum": 8,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {
@@ -12215,7 +12457,7 @@
 			"group": 92,
 			"tag": 1,
 			"name": "The Peacemaker",
-			"des": "Upgrade any 10 elite T-Dolls to rank 6",
+			"des": "Raise any 10 Elite Dolls to Segment 6",
 			"conditionNum": 10,
 			"icon": "Icon_Achievement_Collection",
 			"reward": {

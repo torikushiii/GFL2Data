@@ -202,6 +202,103 @@
 			}
 		},
 		{
+			"id": 10026,
+			"spine": "Andoris",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10027,
+			"spine": "Vector",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10028,
+			"spine": "Biyoca",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10029,
+			"spine": "Springfield",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10030,
+			"spine": "Faye",
+			"eventId": {
+				"Attack": 580002,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10031,
+			"spine": "Peri",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10032,
+			"spine": "Qiuhua",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10033,
+			"spine": "Yoohee",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10034,
+			"spine": "Nikketa",
+			"eventId": {
+				"Attack": 580003,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10035,
+			"spine": "Leva",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10036,
+			"spine": "Robella",
+			"eventId": {
+				"Attack": 580004,
+				"Sprint": 580006
+			}
+		},
+		{
+			"id": 10037,
+			"spine": "Lene",
+			"eventId": {
+				"Attack": 580004,
+				"Miss": 1020572,
+				"Sprint": 580006
+			}
+		},
+		{
 			"id": 500001,
 			"spine": "Golyat",
 			"eventId": {

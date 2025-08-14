@@ -13045,7 +13045,7 @@
 				103
 			],
 			"textEnums": "270386",
-			"text": "We Have Obtained {0} Points of {1}"
+			"text": "Allies have obtained {0} points of {1}"
 		},
 		{
 			"id": 132309,
@@ -16740,6 +16740,225 @@
 		{
 			"id": 176806,
 			"activityId": 18001,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 176901,
+			"activityId": 19001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994025
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 176902,
+			"activityId": 19001,
+			"textType": 1,
+			"textTypeId": [
+				341
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 176903,
+			"activityId": 19001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994025
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 176904,
+			"activityId": 19001,
+			"textType": 1,
+			"textTypeId": [
+				341
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 176905,
+			"activityId": 19001,
+			"textType": 1,
+			"textTypeId": [
+				341
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 176906,
+			"activityId": 19001,
+			"textType": 1,
+			"textTypeId": [
+				341
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 176907,
+			"activityId": 19001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994025
+			],
+			"textEnums": "654001",
+			"text": "Heroic Difficulty"
+		},
+		{
+			"id": 177001,
+			"activityId": 20001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994026
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 177002,
+			"activityId": 20001,
+			"textType": 1,
+			"textTypeId": [
+				351
+			],
+			"textEnums": "271122",
+			"text": "Opens after {0}"
+		},
+		{
+			"id": 177003,
+			"activityId": 20001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994026
+			],
+			"textEnums": "196001",
+			"text": "All rewards have been claimed"
+		},
+		{
+			"id": 177004,
+			"activityId": 20001,
+			"textType": 1,
+			"textTypeId": [
+				351
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 177005,
+			"activityId": 20001,
+			"textType": 1,
+			"textTypeId": [
+				351
+			],
+			"textEnums": "22001002",
+			"text": "Supply"
+		},
+		{
+			"id": 177006,
+			"activityId": 20001,
+			"textType": 1,
+			"textTypeId": [
+				351
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 177007,
+			"activityId": 20001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994026
+			],
+			"textEnums": "654001",
+			"text": "Heroic Difficulty"
+		},
+		{
+			"id": 177208,
+			"activityId": 100,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "271122",
+			"text": "Opens In {0}"
+		},
+		{
+			"id": 177209,
+			"activityId": 100,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "271123",
+			"text": "Event is over"
+		},
+		{
+			"id": 177210,
+			"activityId": 100,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994016
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 177211,
+			"activityId": 100,
+			"textType": 2,
+			"textTypeId": [
+				2006,
+				994017
+			],
+			"textEnums": "210007",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 177212,
+			"activityId": 100,
+			"textType": 2,
+			"textTypeId": [
+				2012,
+				994007
+			],
+			"textEnums": "210008",
+			"text": "Challenge Mode is only available for the duration of the current event"
+		},
+		{
+			"id": 177213,
+			"activityId": 100,
+			"textType": 1,
+			"textTypeId": [
+				331
+			],
+			"textEnums": "22001001",
+			"text": "Story"
+		},
+		{
+			"id": 177214,
+			"activityId": 100,
 			"textType": 1,
 			"textTypeId": [
 				331

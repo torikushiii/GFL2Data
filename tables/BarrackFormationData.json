@@ -506,6 +506,32 @@
 			"endingidle": "RobellaSSR01/c_RobellaSSR01_EndingIdle",
 			"toidle": "c_RobellaSSR01_ToIdle",
 			"changeclothes": "c_RobellaSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 105801,
+			"gunId": 1058,
+			"type": 1,
+			"barrackIdleNormal": "c_LeneSSR01_BarrackIdle",
+			"barrackEntrance": "c_LeneSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "LeneSSR01/c_LeneSSR01_Upgrade",
+			"classTrainingShootResource": "LeneSSR01/c_LeneSSR01_Class",
+			"ending": "LeneSSR01/c_LeneSSR01_Ending",
+			"endingidle": "LeneSSR01/c_LeneSSR01_EndingIdle",
+			"toidle": "c_LeneSSR01_ToIdle",
+			"changeclothes": "c_LeneSSR01_BarrackEntrance_Normal"
+		},
+		{
+			"id": 106401,
+			"gunId": 1064,
+			"type": 1,
+			"barrackIdleNormal": "c_FlorenceSSR01_BarrackIdle",
+			"barrackEntrance": "c_FlorenceSSR01_BarrackEntrance_Normal",
+			"upgradeTrainingShootResource": "FlorenceSSR01/c_FlorenceSSR01_Upgrade",
+			"classTrainingShootResource": "FlorenceSSR01/c_FlorenceSSR01_Class",
+			"ending": "FlorenceSSR01/c_FlorenceSSR01_Ending",
+			"endingidle": "FlorenceSSR01/c_FlorenceSSR01_EndingIdle",
+			"toidle": "c_FlorenceSSR01_ToIdle",
+			"changeclothes": "c_FlorenceSSR01_BarrackEntrance_Normal"
 		}
 	]
 }

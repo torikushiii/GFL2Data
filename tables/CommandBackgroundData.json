@@ -547,6 +547,32 @@
 			"timeline": ""
 		},
 		{
+			"id": 3043,
+			"type": 3,
+			"name": "Field of Dreams",
+			"pic": "Img_CommandCenterBgPic_2D_LeneSSR01",
+			"bg": "LeneSSR01/LeneSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44058,
+			"des": "Unlocked after obtaining Lainie.",
+			"audioBgm": 90002,
+			"gunId": 1058,
+			"timeline": ""
+		},
+		{
+			"id": 3049,
+			"type": 3,
+			"name": "Passionate Experiment",
+			"pic": "Img_CommandCenterBgPic_2D_FlorenceSSR01",
+			"bg": "FlorenceSSR01/FlorenceSSR01_CommandCenterBackGround_TL",
+			"unlock": 1,
+			"args": 44064,
+			"des": "Unlocked after obtaining Florence.",
+			"audioBgm": 90002,
+			"gunId": 1064,
+			"timeline": ""
+		},
+		{
 			"id": 3056,
 			"type": 6,
 			"name": "Linger Under the Moonlight",

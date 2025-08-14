@@ -688,7 +688,8 @@
 				"1031004",
 				"1031005",
 				"1031006",
-				"1031007"
+				"1031007",
+				"1031008"
 			],
 			"initialTalentKeyId": 10000,
 			"unlockSheet": 2,
@@ -714,7 +715,8 @@
 				"1033004",
 				"1033005",
 				"1033006",
-				"1033007"
+				"1033007",
+				"1033008"
 			],
 			"initialTalentKeyId": 10000,
 			"unlockSheet": 2,
@@ -1033,6 +1035,58 @@
 			"unlockSheet": 2,
 			"unlockId": 52,
 			"fullyActiveItemId": 901057,
+			"talentBonusGroup": 1001,
+			"privateSlotNumber": 3,
+			"publicSlotNumber": 3
+		},
+		{
+			"id": 1058,
+			"talentName": "Lainie",
+			"gunType": 1,
+			"talentTips": "Exclusive Doll Talent",
+			"achievementDetailId": 29000,
+			"tpItemId": 9000,
+			"maxTpNum": 32,
+			"squadTalentTreeId": 1040,
+			"traverseSquadTalentTreeId": [
+				"1040001",
+				"1040002",
+				"1040003",
+				"1040004",
+				"1040005",
+				"1040006",
+				"1040007"
+			],
+			"initialTalentKeyId": 10000,
+			"unlockSheet": 2,
+			"unlockId": 53,
+			"fullyActiveItemId": 901058,
+			"talentBonusGroup": 1001,
+			"privateSlotNumber": 3,
+			"publicSlotNumber": 3
+		},
+		{
+			"id": 1064,
+			"talentName": "Florence",
+			"gunType": 1,
+			"talentTips": "Exclusive Doll Talent",
+			"achievementDetailId": 29000,
+			"tpItemId": 9000,
+			"maxTpNum": 32,
+			"squadTalentTreeId": 1041,
+			"traverseSquadTalentTreeId": [
+				"1041001",
+				"1041002",
+				"1041003",
+				"1041004",
+				"1041005",
+				"1041006",
+				"1041007"
+			],
+			"initialTalentKeyId": 10000,
+			"unlockSheet": 2,
+			"unlockId": 54,
+			"fullyActiveItemId": 901064,
 			"talentBonusGroup": 1001,
 			"privateSlotNumber": 3,
 			"publicSlotNumber": 3

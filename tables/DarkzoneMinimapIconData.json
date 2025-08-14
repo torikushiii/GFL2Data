@@ -186,14 +186,14 @@
 			"id": 15,
 			"icon": "Icon_DarkzoneMap_Mask15",
 			"iconName": "Evacuation Signal Station",
-			"iconVisible": true,
-			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "The location of the evacuation signal station. Find the device and send the signal to successfully evacuate.",
-			"iconSort": 3
+			"iconVisible": false,
+			"iconAbovefog": false,
+			"iconSort": 0
 		},
 		{
 			"id": 16,
@@ -322,7 +322,7 @@
 				0,
 				10
 			],
-			"iconDesc": "",
+			"iconDesc": "The location of the evacuation signal station. Find the device and send the signal to successfully evacuate.",
 			"iconSort": 3
 		},
 		{
@@ -433,14 +433,14 @@
 			"id": 34,
 			"icon": "Icon_DarkzoneMap_Mask15",
 			"iconName": "Evacuation Signal Station",
-			"iconVisible": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "The endpoint of the transport segment. Guide the Transporter here to complete the transport mission.",
-			"iconSort": 3,
-			"iconAbovefog": false
+			"iconVisible": false,
+			"iconAbovefog": false,
+			"iconSort": 0
 		},
 		{
 			"id": 35,

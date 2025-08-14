@@ -150,7 +150,7 @@
 			"favorLevel": 1,
 			"discount": 1000,
 			"favorEffect": "",
-			"npcStory": "As an underground broker, Amida's baby face, petite stature, and warm smile often land her an impression of being \"unreliable\".",
+			"npcStory": "As an underground broker, Aminda's baby face, petite stature, and warm smile often land her an impression of being \"unreliable\".",
 			"needFavorPoint": 0
 		},
 		{
@@ -160,7 +160,7 @@
 			"needFavorPoint": 1000,
 			"discount": 1000,
 			"favorEffect": "Unlock New Shop Items",
-			"npcStory": "But in reality, Amida's business sense and photographic memory are nothing to scoff at, otherwise, she wouldn't have been taken in as an apprentice by her master—the venerable underground broker Ross."
+			"npcStory": "But in reality, Aminda's business sense and photographic memory are nothing to scoff at, otherwise, she wouldn't have been taken in as an apprentice by her master—the venerable underground broker Ross."
 		},
 		{
 			"id": 3003,
@@ -169,7 +169,7 @@
 			"needFavorPoint": 2000,
 			"discount": 1000,
 			"favorEffect": "Increase the number of purchases for certain items.",
-			"npcStory": "In order to not be looked down upon, Amida would often don mature outfits ill-suited for her, hoping to at least appear more like an independent broker who stands on her own."
+			"npcStory": "In order to not be looked down upon, Aminda would often don mature outfits ill-suited for her, hoping to at least appear more like an independent broker who stands on her own."
 		},
 		{
 			"id": 3004,
@@ -178,7 +178,7 @@
 			"needFavorPoint": 3000,
 			"discount": 1000,
 			"favorEffect": "Unlock New Shop Items",
-			"npcStory": "Amida's business ethos boils down to \"being open to whatever comes her way\". She'll happily take on any offers, something that has to do with her upbringing in the Contamination Zone."
+			"npcStory": "Aminda's business ethos boils down to \"being open to whatever comes her way\". She'll happily take on any offers, something that has to do with her upbringing in the Contamination Zone."
 		},
 		{
 			"id": 3005,
@@ -196,7 +196,7 @@
 			"needFavorPoint": 5000,
 			"discount": 900,
 			"favorEffect": "Item prices are lowered by 5%",
-			"npcStory": "Amida, stop hoarding goods! No way in hell stuff like this sells!—Desperate exclamation from her Master."
+			"npcStory": "Aminda, stop hoarding goods! No way in hell stuff like this sells!—Desperate exclamation from her Master."
 		},
 		{
 			"id": 3007,

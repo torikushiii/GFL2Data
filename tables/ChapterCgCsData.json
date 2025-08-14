@@ -275,6 +275,162 @@
 			"name": "Fatal Clash",
 			"img": "2DRes/9.5mishiti/CG/CG_18_Assault",
 			"stageId": 3141111
+		},
+		{
+			"id": 47,
+			"name": "Mortal Velocity",
+			"img": "2DRes/2sangduolaixi/CG/CentaureissiCG_03_Jump",
+			"stageId": 3040111
+		},
+		{
+			"id": 48,
+			"name": "Gift of Heavy Firepower",
+			"img": "2DRes/2sangduolaixi/CG/CentaureissiCG_01_Airstrike",
+			"stageId": 3040321
+		},
+		{
+			"id": 49,
+			"name": "Blackhawk's Howl",
+			"img": "2DRes/2sangduolaixi/CG/CentaureissiCG_02_Airstrike2",
+			"stageId": 3040711
+		},
+		{
+			"id": 50,
+			"name": "Sinister Advent 1",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_01_Firstfight",
+			"stageId": 3090621
+		},
+		{
+			"id": 51,
+			"name": "Sinister Advent 2",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_01_Firstfight_Assist",
+			"stageId": 3090621
+		},
+		{
+			"id": 52,
+			"name": "The Hero Awakens 1",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_02_Accident",
+			"stageId": 3098101
+		},
+		{
+			"id": 53,
+			"name": "The Hero Awakens 2",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_02_Accident_Panic",
+			"stageId": 3098101
+		},
+		{
+			"id": 54,
+			"name": "Faint Hope 1",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_03_Future",
+			"stageId": 3098301
+		},
+		{
+			"id": 55,
+			"name": "Faint Hope 2",
+			"img": "2DRes/6wuerlide/CG/BolidaoCG_03_Future_Relax",
+			"stageId": 3098301
+		},
+		{
+			"id": 56,
+			"name": "Game Time 1",
+			"img": "2DRes/7suomi/CG/SuomiCG_01_Game",
+			"stageId": 3108201
+		},
+		{
+			"id": 57,
+			"name": "Game Time 2",
+			"img": "2DRes/7suomi/CG/SuomiCG_01_Game_Huge",
+			"stageId": 3108201
+		},
+		{
+			"id": 58,
+			"name": "Game Time 3",
+			"img": "2DRes/7suomi/CG/SuomiCG_01_Game_Surprise",
+			"stageId": 3108201
+		},
+		{
+			"id": 59,
+			"name": "Revelation",
+			"img": "2DRes/7suomi/CG/SuomiCG_02_Gun",
+			"stageId": 3100821
+		},
+		{
+			"id": 60,
+			"name": "Bubble Alert 1",
+			"img": "2DRes/7suomi/CG/SuomiCG_02_Gun_Fall",
+			"stageId": 3100821
+		},
+		{
+			"id": 61,
+			"name": "Bubble Alert 2",
+			"img": "2DRes/7suomi/CG/SuomiCG_02_Gun_Help",
+			"stageId": 3100821
+		},
+		{
+			"id": 62,
+			"name": "Parting 1",
+			"img": "2DRes/7suomi/CG/SuomiCG_03_Leave",
+			"stageId": 3100921
+		},
+		{
+			"id": 63,
+			"name": "Parting 2",
+			"img": "2DRes/7suomi/CG/SuomiCG_03_Leave_Bubble",
+			"stageId": 3100921
+		},
+		{
+			"id": 64,
+			"name": "Parting 3",
+			"img": "2DRes/7suomi/CG/SuomiCG_03_Leave_Disappear",
+			"stageId": 3100921
+		},
+		{
+			"id": 65,
+			"name": "Disarmament - 1",
+			"img": "2DRes/17laiya/CG/CG_26_Unarmed",
+			"stageId": 3231011
+		},
+		{
+			"id": 66,
+			"name": "Disarmament 2",
+			"img": "2DRes/17laiya/CG/CG_26_Unarmed_Turnaround",
+			"stageId": 3231011
+		},
+		{
+			"id": 67,
+			"name": "Unexpected Reunion",
+			"img": "2DRes/17laiya/CG/CG_27_Prototype",
+			"stageId": 3238601
+		},
+		{
+			"id": 68,
+			"name": "Fatal Acceleration 1",
+			"img": "2DRes/17.5luobeila/CG/CG_29_SpeedUp",
+			"stageId": 3240221
+		},
+		{
+			"id": 69,
+			"name": "Fatal Acceleration 2",
+			"img": "2DRes/17.5luobeila/CG/CG_29_SpeedUp_Crash",
+			"stageId": 3240221
+		},
+		{
+			"id": 70,
+			"name": "Threads Betwixt 1",
+			"img": "2DRes/17.5luobeila/CG/CG_30_HairBrushing",
+			"stageId": 3248801
+		},
+		{
+			"id": 71,
+			"name": "Threads Betwixt 2",
+			"img": "2DRes/17.5luobeila/CG/CG_30_HairBrushing_Embarrassed",
+			"stageId": 3248801
+		},
+		{
+			"id": 72,
+			"name": "Threads Betwixt 3",
+			"img": "2DRes/17.5luobeila/CG/CG_30_HairBrushing_Intense",
+			"stageId": 3248801
 		}
 	]
 }

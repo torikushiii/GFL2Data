@@ -27,6 +27,13 @@
 			"name": "CG Playlist",
 			"des": "CG Playlist",
 			"unlock": 20008
+		},
+		{
+			"id": 5,
+			"sort": 5,
+			"name": "Lingering Voices",
+			"des": "Lingering Voices",
+			"unlock": 20009
 		}
 	]
 }

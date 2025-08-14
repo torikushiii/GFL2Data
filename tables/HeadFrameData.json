@@ -428,6 +428,27 @@
 			"sort": 3032
 		},
 		{
+			"id": 24086,
+			"icon": "Item_HeadFrame_Love_Lene",
+			"unlockDes": "An extraordinary agreement, only made with those who are precious to her.\n A Doll affinity return gift, unlocked after reaching Affinity Level 6 with Lainie.",
+			"displayConfig": 1,
+			"sort": 3033
+		},
+		{
+			"id": 24087,
+			"icon": "Item_HeadFrame_Love_Krolik",
+			"unlockDes": "She remembers every little kindness you did for her.\nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Krolik.",
+			"displayConfig": 1,
+			"sort": 3034
+		},
+		{
+			"id": 24088,
+			"icon": "Item_HeadFrame_Love_Florence",
+			"unlockDes": "The most special care for the most precious of patients. \nA Doll affinity return gift, unlocked after reaching Affinity Level 6 with Florence.",
+			"displayConfig": 1,
+			"sort": 3035
+		},
+		{
 			"id": 24107,
 			"icon": "Item_HeadFrame_HighPVP_Season9",
 			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Maze",
@@ -512,6 +533,20 @@
 			"sort": 4015
 		},
 		{
+			"id": 24119,
+			"icon": "Item_HeadFrame_Bp2_4",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4016
+		},
+		{
+			"id": 24120,
+			"icon": "Item_HeadFrame_Bp2_5",
+			"unlockDes": "Unlock by purchasing the current paid tier of Voyage Logs",
+			"displayConfig": 1,
+			"sort": 4017
+		},
+		{
 			"id": 24128,
 			"icon": "Item_HeadFrame_HighPVP_Season11",
 			"unlockDes": "Unlocked by placing top 50% in Military Simulation Season: Chaotic Flood",
@@ -561,6 +596,13 @@
 			"sort": 1015
 		},
 		{
+			"id": 24135,
+			"icon": "Item_HeadFrame_HighPVP_Season16",
+			"unlockDes": "Unlocked after ranking in the top 50% in the Military Simulation: Fission Frenzy.",
+			"displayConfig": 1,
+			"sort": 1016
+		},
+		{
 			"id": 24136,
 			"icon": "Item_HeadFrame_ActivityNikketa",
 			"unlockDes": "Unlocked by completing all Challenge Mode stages for Ex Umbra.",
@@ -601,6 +643,27 @@
 			"unlockDes": "Unlocked by completing Deep Oblivion Part II - Challenge Mode",
 			"displayConfig": 1,
 			"sort": 2026
+		},
+		{
+			"id": 24142,
+			"icon": "Item_HeadFrame_ExStage_2",
+			"unlockDes": "Obtained as the theme prize of completing the Coordination Drill \"Hurricane Season\".",
+			"displayConfig": 1,
+			"sort": 2024
+		},
+		{
+			"id": 24143,
+			"icon": "Item_HeadFrame_ActivityLene",
+			"unlockDes": "Unlocked by completing all stages for Breaking Butterfly.",
+			"displayConfig": 1,
+			"sort": 2027
+		},
+		{
+			"id": 24148,
+			"icon": "Item_HeadFrame_ActivityFlorence",
+			"unlockDes": "Unlocked by completing all challenge mode stages for Thriller Wonderland.",
+			"displayConfig": 1,
+			"sort": 2028
 		},
 		{
 			"id": 124115,

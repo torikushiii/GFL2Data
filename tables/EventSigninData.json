@@ -139,6 +139,18 @@
 			"activityType": 0
 		},
 		{
+			"id": 61507,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
+			"id": 61604,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_5",
+			"activityType": 0
+		},
+		{
 			"id": 62001,
 			"edType": 1,
 			"image": "Img_Activity_SignIn_Bg_8",
@@ -178,6 +190,18 @@
 			"id": 610001,
 			"edType": 1,
 			"image": "Img_Activity_SignIn_Bg_7",
+			"activityType": 0
+		},
+		{
+			"id": 610009,
+			"edType": 1,
+			"image": "Img_MultiSignInItem_Bg_7",
+			"activityType": 0
+		},
+		{
+			"id": 610013,
+			"edType": 1,
+			"image": "Img_Activity_SignIn_Bg_9",
 			"activityType": 0
 		}
 	]

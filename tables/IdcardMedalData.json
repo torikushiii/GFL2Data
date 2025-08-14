@@ -485,6 +485,15 @@
 			"qualifySimplify": "Unlocked after ranking in the top 80% in Military Simulation Season: Dawn Trek",
 			"sort": 226,
 			"achievement": 0
+		},
+		{
+			"id": 22072,
+			"icon": "Item_Icon_Medal_HighPVP_Season16",
+			"name": "Badge - Fission Frenzy",
+			"qualify": "Unlocked after placing top 80% in the Military Simulation Season: Fission Frenzy.",
+			"qualifySimplify": "Unlocked after placing top 80% in the Military Simulation Season: Fission Frenzy.",
+			"sort": 227,
+			"achievement": 0
 		}
 	]
 }

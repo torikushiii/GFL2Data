@@ -351,13 +351,6 @@
 			"lowerLimit": 300
 		},
 		{
-			"id": 12431,
-			"effect": "max_hp",
-			"buffBaseType": 1,
-			"upperLimit": 300,
-			"lowerLimit": 300
-		},
-		{
 			"id": 12441,
 			"effect": "max_hp",
 			"buffBaseType": 1,

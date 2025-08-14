@@ -2625,20 +2625,6 @@
 			"description": "Eliminate the Sneaker Crismole within 6 turns"
 		},
 		{
-			"id": 11120,
-			"type": 9,
-			"args": [
-				"6442",
-				"6"
-			],
-			"argsFail": [
-				"6442",
-				"6"
-			],
-			"title": "Targeted Attack Strike",
-			"description": "Eliminate the Custos within 6 turns"
-		},
-		{
 			"id": 11121,
 			"type": 9,
 			"args": [
@@ -4181,6 +4167,20 @@
 			],
 			"title": "Tactical Strike",
 			"description": "Eliminate 2 Fertilizer Scholar Type I"
+		},
+		{
+			"id": 12062,
+			"type": 20,
+			"args": [
+				"63141",
+				"2"
+			],
+			"argsFail": [
+				"63141",
+				"2"
+			],
+			"title": "Tactical Strike",
+			"description": "Kill two Aegis-Bulwark Type Is"
 		},
 		{
 			"id": 12101,
@@ -5749,6 +5749,22 @@
 			],
 			"title": "Tactical Strike",
 			"description": "Eliminate the Strike Captain within 5 turns"
+		},
+		{
+			"id": 13728,
+			"type": 37,
+			"args": [
+				"6347",
+				"1",
+				"6"
+			],
+			"argsFail": [
+				"6347",
+				"1",
+				"6"
+			],
+			"title": "Tactical Strike",
+			"description": "Kill the Aegis SWAP Dominator in 6 turns"
 		},
 		{
 			"id": 13801,

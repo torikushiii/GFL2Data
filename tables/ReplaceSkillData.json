@@ -528,6 +528,25 @@
 			]
 		},
 		{
+			"id": 102701,
+			"beforeSkillGroupId1": [
+				10270501
+			],
+			"nowSkillGroupId1": [
+				10270511,
+				10270510
+			],
+			"beforeSkillGroupId2": [
+				10270502
+			],
+			"nowSkillGroupId2": [
+				10270512,
+				10270510
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
 			"id": 102702,
 			"beforeSkillGroupId1": [
 				10270701
@@ -1200,6 +1219,40 @@
 			"nowSkillGroupId3": [
 				10560413
 			]
+		},
+		{
+			"id": 106404,
+			"beforeSkillGroupId1": [
+				10640401
+			],
+			"nowSkillGroupId1": [
+				10640411
+			],
+			"beforeSkillGroupId2": [
+				10640402
+			],
+			"nowSkillGroupId2": [
+				10640412
+			],
+			"beforeSkillGroupId3": [
+				10640403
+			],
+			"nowSkillGroupId3": [
+				10640413
+			]
+		},
+		{
+			"id": 106405,
+			"beforeSkillGroupId1": [
+				10640501
+			],
+			"nowSkillGroupId1": [
+				10640511
+			],
+			"beforeSkillGroupId2": [],
+			"nowSkillGroupId2": [],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
 		}
 	]
 }

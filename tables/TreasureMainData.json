@@ -73,6 +73,15 @@
 			"closeType": 0
 		},
 		{
+			"id": 61704,
+			"bingoId": 10013,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
 			"id": 68003,
 			"bingoId": 10007,
 			"bpId": 0,
@@ -111,6 +120,15 @@
 		{
 			"id": 610002,
 			"bingoId": 10012,
+			"bpId": 0,
+			"gameId": 0,
+			"gameIcon": "",
+			"gameSpec": "",
+			"closeType": 0
+		},
+		{
+			"id": 610011,
+			"bingoId": 10014,
 			"bpId": 0,
 			"gameId": 0,
 			"gameIcon": "",

@@ -64,15 +64,6 @@
 			"cycleamount": 0
 		},
 		{
-			"id": 10,
-			"cid": 3,
-			"name": "脸部表情测试",
-			"clips": "c_Groza_idle_Stand1ForBlendTree_Facetest",
-			"expressionName": "",
-			"faceexpression": 0,
-			"cycleamount": 0
-		},
-		{
 			"id": 3000,
 			"cid": 3,
 			"name": "站姿idle-转身用",
